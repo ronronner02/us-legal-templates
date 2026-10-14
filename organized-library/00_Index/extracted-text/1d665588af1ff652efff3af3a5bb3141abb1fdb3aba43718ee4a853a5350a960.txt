@@ -1,0 +1,814 @@
+34][=wqqqq
+refe
+Commonwealth of Massachusetts
+Exec
+utive Agency RFQ
+[
+PURCHASING ENTITY
+]
+Commonwealth of Massachusetts
+[
+PURCHASING ENTITY
+]
+Request for Quotation 
+RFQ 
+[XX – XXX]
+COMMBUYS Bid Number: 
+xxxxxxx
+[
+MONTH
+]
+ 
+[
+DAY
+]
+, 20
+XX
+[This RFQ 
+may be used to solicit quotes for all I
+TS61
+ 
+A
+ccessibility
+. ITS74Project Services, ITS74
+ 
+GIS, and ITS78 Security
+, and their successor contracts.]
+IN ACCORDANCE WITH M.G.L. C. 66 AND M.G.L. C. 4, § 7 (26),
+ 
+THIS RFQ AND ALL RESPONSES HERETO
+,
+ INCLUDING THE WINNING BID
+,
+ SHALL BECOME PUBLIC RECORD, AND 
+ MAY
+ BE OBTAINED FROM THE 
+[
+PURCHASING ENTITY
+]
+ BY 
+SUBMITTING A REQUEST AT
+ 
+[LINK]
+.
+ 
+ANY PORTIONS OF A RESPONSE THAT ARE LABELED AS CONFIDENTIAL WILL STILL BE CONSIDERED PUBLIC RECORD.
+Color coding explanation for purchasers:
+This template uses color highlighting to identify the following:
+Items required for all Bids
+ – shown in 
+red
+. Highlighting should be removed before RF
+Q
+ publication.
+Optional items that may apply to some Bids – shown in gray, may be deleted. Highlighting should be removed before RF
+Q
+ publication if those items remain in the document.
+Instructions
+ – shown in 
+yellow
+ should be deleted before RF
+Q
+ publication.
+ 
+Please delete this instructions page and remove highlighting after document completion and before publication.
+ 
+Note on document accessibility:  
+This document uses highlighting, which may present accessibility challenges for some readers. If you are developing an RFQ and require an accessible version of this document for editing, please email your request to 
+osdlegal@state.ma.us
+. 
+ 
+I. 
+General Procurement Information
+General Information
+Purchasing 
+Entity
+:
+  (“
+Purchasing
+ Entity
+”)
+Address:
+Procurement Contact
+:
+[
+NAME, TITLE]
+Telephone:
+XXX
+-
+XXX
+-
+XXXX
+E-Mail Address:
+RFQ File Number and Title
+:
+RFQ 
+[xx-XXX]
+Attachments:
+Attachment A – COMMBUYS Instructions
+ (if applicable)
+Forms
+:
+Form 1 – RFQ Response Form
+Form 2 – Template Statement of Work
+Form 3 – S
+BPP and S
+DP Plan
+ (if applicable)
+Form 4-  Additional Agency specifications (if applicable)
+This Request for Quotes (“RFQ”) does not commit the Commonwealth of Massachusetts (“Commonwealth”) or the 
+Purchasing Entity
+ to approve a Statement of Work, pay any costs incurred in the preparation of a Bidder’s response to this RFQ
+,
+ or to procure or contract for products or services. The 
+Purchasing Entity
+ may (i) accept or reject any and all proposals received as a result of this RFQ; (ii) contract for some, all
+,
+ or none of the products and services offered by Bidders in response to this RFQ; (iii) negotiate with one or more of the 
+qualified
+ Bidders; or (iv) cancel, in part or in its entirety, this RFQ if it is in the best interest of the Commonwealth to do so. 
+The 
+Purchasing Entity
+ may amend this RFQ at any time prior to the date responses are due. 
+The RFQ will not be amended after _
+________________________
+date. 
+Any such amendment will be posted to the Commonwealth’s 
+e-procurement platform
+, COMMBUYS (www.commbuys.com). 
+Bidders must submit their bids through COMMBUYS as detailed in Attachment A. Bidders are advised to check 
+COMMBUYS
+ regularly, as this will be the sole method used for notification of changes. 
+B. Eligible Bidders
+This RFQ is restricted to Bidders on the following Statewide Contracts: 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+C. Event Calendar
+All times in this RFQ are prevailing Eastern Time. 
+Responses must be received no later than the response due date and time indicated below or they will not be evaluated. Bidders must have their responses fully loaded and accepted in COMMBUYS
+ prior to the RFQ Response Due date and time listed below. Bidders are urged to allow sufficient time to upload their entire response. 
+Procurement Step
+Due Date
+Time
+RFQ Posted
+Bidder Questions Due
+Commonwealth Responses posted to COMMBUYS (estimated date)
+RFQ Response Due
+Bidder Demonstrations Scheduled (estimated date)
+Bidder Demonstrations (estimated date)
+Notice of Apparent Successful Bidder(s) posted (estimated date)
+Purchasing 
+Entity
+ 
+[Description of Purchasing Entity]
+Description and Purpose of Procurement
+A. 
+Background
+[Include background / reasons for purchase /etc.]
+B.
+Description of Services
+[Include high-level description of requested services, estimated number of users of the services, etc.]
+III. 
+Estimated Term
+ 
+The estimated term of any contract entered into under this RFQ shall consist of an initial 
+X
+-month term and may be renewed or extended upon written agreement by the awarded Bidder and the 
+Purchasing Entity
+, but no such continuations may extend past 
+[
+mm/dd/yy
+]. 
+The initial term and all renewals or extensions shall be referred to collectively as the “Term.” The maximum Term length will be governed by the applicable Statewide Contract.
+For vendors bidding on Statewide Contract 
+ITS X
+, the Term shall be for 
+X months
+ with a maximum end date of 
+_____
+_
+For vendors bidding on Statewide Contract ITS XY, the Term shall be for X months
+ with a maximum end date of 
+________
+[
+P
+lease note the 
+T
+erm
+ length
+ may 
+differ
+ depending on 
+ the 
+contract vendors are bidding on and the maximum allowable term left on the 
+Statewide C
+ontract
+ (SWC)
+.
+ Please review the gray box at the top of the Contract User Guide for the 
+contract dates. 
+Be aware that OSD may not exercise all possible renewals, either for the SWC as a whole or for specific vendors. 
+Also g
+o to “Performance and Payment Time Frames Which Exceed Contract 
+D
+uration.”  Projects started during a contract term may continue past the end date of that term for the number of months/years listed in that section
+ (the “Extend Beyond” period.
+The end date of the current SWC term plus the “Extend Beyond” period is the longest 
+timeframe 
+you 
+may
+ use the selected vendor’s services un
+der the SWC. If there is a likelihood that you will not be able to continue with your selected vendor for the amount of time needed to complete your project, consider dividing the project into phases that allow for transition to a new vendor
+,
+ as well as terms governing a transition, and build transition time (including time for selecting a new vendor via RFQ) into your project timeline, as well as cost.]
+If you are looking to solicit 
+a 
+contract period longer than the expiration of the 
+of the 
+SWC,
+ you are purchasing under please 
+include
+ the following language “In the event that the awarded vendor is also 
+is
+ awarded on the successor contract
+,
+ then 
+the SOW will be amended to transfer the Purchasing Entity’s contract to the successor 
+s
+tatewide Contract, with any other adjustments as mutually agreed to address any changes in the S
+uccessor Statewide Contract’s terms.
+”
+IV. 
+Order of Precedence
+The agreement resulting from this RFQ shall consist of the following documents in the following order of precedence:
+ 
+(1) 
+the Commonwealth Terms and Conditions or the Commonwealth Terms and Conditions for Information Technology Contracts, as applicable; 
+(2) 
+the Commonwealth Standard Contract Form; 
+(3) 
+the applicable Statewide Contract; 
+(4) 
+the Bidder’s response thereto; 
+(5) 
+this RFQ [RFQ NUMBER and RFQ NAME] (including all amendments, 
+Purchasing Entity
+ answers to related Bidder questions and clarifications hereto); 
+(6) 
+any agreement negotiated between and executed by 
+Purchasing Entity
+ and Bidder; and 
+(7)
+the Bidder’s response to this RFQ (including all amendments, clarifications, and best and final offers).
+V. 
+Data Classification
+The Commonwealth of Massachusetts collects, manages, and stores information to support its business operations. The Commonwealth is committed to preserving the confidentiality, integrity, and availability of its information assets. Such information assets may include, without limitation, personal information, confidential information, and information protected under applicable law. Bidder agrees and acknowledges that its access, or potential access, to certain information assets may require certifications, background checks, or other additional requirements. 
+Purchasing Entity
+ anticipates that the awarded Bidder will have access, or potential access, to the following 
+checked 
+data types as a result of providing services/products to 
+Purchasing Entity
+ under this RFQ.
+Data Type
+ 
+(check all that apply)
+Applicable Laws and Regulations 
+Additional Requirements 
+Y/N
+Personally Identifiable Information
+M.G.L. c. 93H
+M. G. L. c. 66A
+M. G. L. c. 93I
+Y/N
+Payment Card Information
+PCI Standards
+Y/N
+Family Educational Rights and Privacy Act data
+Family Educational Rights and Privacy Act
+Y/N
+Protected Health Information
+Health Insurance Portability and Accountability Act of 1996
+-Commonwealth of Massachusetts Executive Office of Health and Human Services Data Management and Confidentiality Agreement 
+Y/N
+Federal Tax Return Information
+Publication 1075
+-Publication 1075 Exhibit 7
+-Commonwealth of Massachusetts Dept. of Revenue background check
+Y/N
+Criminal Offender Record Information
+FBI Security Addendum
+NCIC 2000 Operating Manual
+CJIS Security Policy
+Title 28, CFR Part 20
+-Dept. of Criminal Justice Information certification
+-background check
+Y/N
+Criminal Justice Information
+FBI Security Addendum
+NCIC 2000 Operating Manual
+CJIS Security Policy
+Title 28, CFR Part 20
+-Dept. of Criminal Justice Information certification
+-background check
+Y/N
+Social Security Administration Data
+Privacy Act
+5 U.S.C. 552a s. 1106
+Y/N
+Other
+Bidder certifies that its products or services, as offered in its RFQ response, meet all applicable legal and regulatory requirements pertaining to the identified data types indicated above. Bidder also agrees to enter into additional agreement(s) as reasonably requested by the Commonwealth prior to gaining access, or potential access, to Commonwealth information assets. Bidder acknowledges that the list above is not exhaustive, and 
+Purchasing Entity
+ may designate additional data types, applicable laws and regulations, and additional required documentation in the contract resulting from this RFQ or any amendment thereto. 
+VI. 
+Additional Requirements
+ 
+A. Enterprise Information Security Standards and Policies
+All products and services provided to the Commonwealth must comply with all applicable policies adopted by the 
+Purchasing Entity
+, which shall be made available to Bidder prior to contract execution
+. At a minimum, a
+ll goods and services provided to the Commonwealth must comply with the Enterprise Information Security Standards and Policies (
+https://www.mass.gov/handbook/enterprise-information-security-policies-and-standards
+)
+. Bidders shall provide information that demonstrates that their security practices meet the requirements detailed in these policies. 
+B. Accessibility for IT Solutions Contract Language
+The Commonwealth is obligated to ensure non-discrimination and equal access to state services on the part of persons with 
+disabilities
+ and reasonable accommodations to state employees with 
+disabilities
+. To effectively meet its responsibilities, the Commonwealth must achieve accessibility in the acquisition, deployment, and utilization of information technology. The Commonwealth defines accessibility to include compliance with its Enterprise Accessibility Standards and Web Accessibility Standards. Bidders must comply with the accessibility obligations detailed at 
+https://www.mass.gov/info-details/accessibility-contract-language-for-it-solutions
+. 
+C. Contract Negotiation and Amendments
+The 
+Purchasing Entity
+ may negotiate changes to the original performance measures, quantities, Term length, and requirements identified in this RFQ at any time, provided that such changes are consistent with the scope of this RFQ. The 
+Purchasing Entity
+ may negotiate and execute contract amendments with the awarded Bidder(s) which the 
+Purchasing Entity
+ reasonably determines are within the scope of this RFQ and necessary to result in best value to the Commonwealth. 
+D. Promotional Materials
+Bidder must not reference the 
+Purchasing Entity
+ or the Commonwealth in any promotional or marketing materials, including but not limited to use of the 
+Purchasing Entity
+’s or the Commonwealth’s name or logo, without first obtaining the 
+Purchasing Entity
+’s prior written approval for such use. Bidder must not use the Commonwealth’s seal in any promotional or marketing materials. 
+Bidders are discouraged from including extraneous promotional or marketing materials in their responses and excessive promotional or marketing materials may detract from the Bidders’ overall score. 
+E. Pending Litigation
+Bidder must affirm that there is no pending litigation involving the Bidder, Provider, or the services provided in the response that may impair or interfere with the 
+Purchasing Entity
+’s right to use the services. Bidder must warrant that there are no actual or threatened actions arising from or alleged under any intellectual property rights of any third party.
+F. Oral Presentations and Demonstrations
+In its discretion, the 
+Purchasing Entity
+ may invite one or more Bidders whose responses have been judged competitive and responsive in the course of the evaluation to participate in a facilitated oral presentation, including a demonstration of the proposed services. The 
+Purchasing Entity
+ may use these demonstrations and oral presentations to clarify aspects of the Bidder’s response or to inquire as to the Bidder’s approach, recommendations, and experience. The 
+Purchasing Entity
+ may adjust its scoring of a prospective Bidder based on the Bidder’s performance during production demonstration and/or oral presentation.
+The 
+Purchasing Entity
+ reserves the right to apply restrictions to the structure and content of Bidder’s product demonstrations and oral presentations. Demonstrations and oral presentations shall not be open to the public nor to any competitors. The schedule of the demonstrations and oral presentations will be arranged directly with the Bidders selected by the 
+Purchasing Entity
+. Failure of a Bidder to agree to a date and time may result in rejection of the Bidder’s response. 
+G. Review Rights
+Responses to this RFQ may be reviewed and evaluated by any person(s) at the discretion of the 
+Purchasing Entity
+,
+ including non-allied and independent consultants retained by the 
+Purchasing Entity
+ for the sole purpose of evaluating and analyzing responses. 
+H. Permitted Copies
+If applicable, Bidders must authorize the 
+Purchasing Entity
+ to make, a
+nd retain
+ reasonable number of machine-readable copies of all licensed, core software components included in the deliverables for testing, backup
+,
+ or archival purposes (the “Permitted Copies”). Such authorization shall be provided to the 
+Purchasing Entity
+ at no additional cost. 
+I. Risk Management
+Bidder must indicate the types of system audits or assessments (e.g. SOC 2) it conducts or engages third parties to conduct on its behalf pertaining to the quoted products or services, and the frequency of such audits or assessments. Any time after submitting its Bid, upon 
+Purchasing Entity
+'s request, Bidder shall provide audit or assessment reports to the 
+Purchasing Entity
+.
+J. Warranties
+The Bidder must agree to provide the following warranties. Additional warranties may be agreed to in the contract resulting from this RFQ.
+Bidder must provide all warranties required by the applicable Statewide Contract.
+Bidder and its subcontractors will be sufficiently staffed and equipped to fulfill Bidder’s obligations under any SOW or engagement resulting from this RFQ. Bidder warrants that it shall be responsible for the actions and omissions of all subcontractors and shall ensure that all subcontractors comply with the terms of an agreement resulting from this RFQ. 
+Bidder’s services will be performed: (
+i
+) by appropriately qualified and trained personnel; 
+(ii
+) with due care and diligence and to a high standard of quality as is customary in the industry; (
+iii
+) in compliance with the Milestone Schedule and the terms and conditions of this RFQ and any contract hereunder; and (
+iv
+) in accordance with all applicable professional standards for the field of expertise. 
+The Deliverables will substantially conform with the Deliverable descriptions set forth in any SOW or engagement resulting from this RFQ.
+All media on which the Bidder provides any software shall be free from defects. 
+All software delivered by the Bidder under the applicable Statewide Contract or this RFQ shall be free of Trojan horses, back doors, and other malicious code.
+Bidder will obtain all rights, grants, assignments, conveyances, licenses, permissions
+,
+ and authorizations necessary or incidental to any materials owned by third parties supplied or specified by the Bidder for incorporation in the Deliverables to be developed under the applicable Statewide Contract.
+Documentation to be provided by the Bidder shall be in sufficient detail to allow suitably skilled, trained, and educated 
+Purchasing Entity
+ personnel to understand the operation of the Deliverables. Bidder agrees to promptly  make corrections to any documentation that does not conform to this warranty
+,
+ at no additional cost to the Purchasing Entity
+.
+Bidder warrants that any systems that Bidder creates or modifies will operate in conformance with the Specifications for the system or modifications for six (6) months after acceptance (“Warranty Period”). As used in this RFQ, “Specifications” means (i) the requirements set forth in this RFQ
+;
+ (ii) the functional, performance, and interoperability requirements set forth in any agreement entered hereunder; and (iii) the functionality and description provided in Bidder’s response to this RFQ. If 
+Purchasing Entity
+ discovers a non-conformity during the Warranty Period, then the Bidder shall use commercially reasonable efforts to correct the non-conformity or provide a work around that is acceptable to the 
+Purchasing Entity
+ (a “Fix”). If Bidder is unable to remedy a non-conformity or to provide a Fix that is acceptable to the 
+Purchasing Entity
+ within a reasonable period, then the 
+Purchasing Entity
+ may terminate any agreement effective immediately upon written notice to Bidder. Any replacement or error correction will not extend the original Warranty Period. During the Warranty Period, Bidder will not charge the 
+Purchasing Entity
+ for services, parts, labor, or transportation.
+K. Environmental and Climate Preferable Products 
+Please
+ 
+visit 
+https://www.mass.gov/guides/epp-program-environmentally-preferable-products-and-services-on-statewide-contracts#-information-technology-(it)-to
+ learn how
+ 
+Buyers may incorporate any of the requirements, whether its EPEAT or TCO registered devices, requirements on cloud service centers, etc. If the services will involve recommendations involving hardware, the vendor agrees that all recommended products are in compliance with the requirements of the
+ 
+appropriate OSD hardware contracts, 
+https://www.mass.gov/info-details/information-technology-hardware
+.    
+In 2009, 
+Executive Order 515
+, establishing an Environmental Purchasing Policy for Executive Departments, was signed. View the Environmentally Preferable Products (EPPs) Procurement Program General Information, Requirements and Guidance for detailed information about the program at 
+https://www.mass.gov/doc/epp-general-information-requirements-and-guidance/download
+.  
+Bidders 
+also 
+should be aware that in 2021, Senate Bill 9 - An Act Creating a Next Generation Roadmap for Massachusetts Climate Policy was signed to achieve Net Zero emissions in 2050 and furthers the Commonwealth’s efforts to combat climate change and protect vulnerable communities. The full Act may be viewed at 
+https://malegislature.gov/Bills/192/S9
+.  In 2021, Executive Order 594, Leading By Example: Decarbonizing and Minimizing Environmental Impacts of State Government, was signed. EO594 requires all eligible state agencies to assess and implement strategies to mitigate greenhouse gas emissions and other environmental impacts when planning for and executing projects related to the design, construction, operations, and maintenance of state facilities, and the procurement of goods and services, including vehicles. View EO594: Leading By Example requirements at 
+https://www.mass.gov/executive-orders/no-594-leading-by-example-decarbonizing-and-minimizing-environmental-impacts-of-state-government
+.
+ADD LANDING PAGE LINK
+ 
+https://www.mass.gov/environmentally-preferable-products-epp-procurement-program
+ or 
+https://www.mass.gov/handbook/environmentally-preferable-products-and-services-guide
+ 
+T
+VIII. 
+Bidder Responses
+Bidders must complete the attached RFQ Response Form (Form 1)
+. 
+Bidders must agree to document a
+ll services using 
+a
+ Statement of Work
+ Template (Form 2).
+ 
+The intent of this RFQ is to obtain companies to perform projects on a fixed price basis. Time and materials work is only permitted as expressly agreed to by the Purchasing Entit
+y and Apparent Successful Bidder. 
+Bidders must agree to
+ 
+the 
+SDP Plan (if applicable)
+ (Form 3).
+The responses to this RFQ will be evaluated based on the criteria listed below, in descending order of importance with the most important criteria listed first. 
+The 
+Strategic Sourcing Team (SST) 
+may remove from further consideration non-responsive bids and bids that do not include all required items listed in Section VIII (Bidder Responses). 
+Prior to such an exclusion, the 
+Purchasing Entity
+ may request one or more clarification(s) from Bidder
+s
+. A Bidder’s response may be excluded for failure to meet the 
+Purchasing Entity
+’s budgetary thresholds.
+Should this RFQ result in a contract with an annual spend amount of less than $250,000, bids from certified small businesses are highly desired, in accordance with ReOrg Plan S.2937 “An Act to Elevate the Supplier Diversity Office to Ensure Equal Opportunity in State Contracting,” 
+the
+ Agency will follow guidance provided by the 
+Supplier Diversity Office
+ in evaluating Bidder responses.
+Any remaining responses will be evaluated based upon:
+ *
+Agencies may adjust evaluation percentages (excluding SBBP) based on agency
+ 
+SBBP if applicable (under $250k)
+Bidder Qualifications 
+Fit to Requirements of the RFQ 
+Quality of product functionality 
+Time for delivery
+Price as provided in the Cost Table 
+ ATTACHMENT A – COMMBUYS Instructions
+[Mandatory for Executive Department Purchasing Entities Only
+; Optional for other Purchasing Entities
+]
+Interested Bidders must submit their response using COMMBUYS.
+Useful links:
+Job aid on how to submit a quote: 
+https://www.mass.gov/doc/how-to-create-a-quote-in-commbuys/download
+Webcast:  
+How to Locate and Respond to a Bid in CommBuys
+, 
+which will familiarize bidders with CommBuys terminology, basic navigation, and provide guidance for locating bid opportunities in CommBuys and submitting an online quote. 
+Bidders 
+MUST
+ have their complete bid fully loaded and submitted prior to the time and date listed in the calendar. COMMBUYS will not allow for bids to be submitted after the posted time.
+Bidder may contact the 
+OSD 
+Help Desk 
+at 
+osdhelpdesk@mass.gov
+ 
+or call during normal business hours (8AM – 5PM, Monday – Friday) at 1-888-627-8283 or 617-720-3197.
+Written questions via the Bid Q&A on COMMBUYS
+The “Bid Q&A” provides the opportunity for Bidders to ask written questions and receive written answers from the SST regarding this Bid.  All Bidders’ questions must be submitted through the Bid Q&A 
+tab in
+ COMMBUYS (see below for instructions). Questions may be asked prior to the Deadline for Submission of Questions stated in the Procurement Calendar. The
+ Purchasing Entity
+ reserves the right not to respond to questions submitted after this date.  It is the Bidder’s responsibility to verify receipt of questions. 
+Please note that questions submitted to the SST using
+ an
+other medium (including those sent by mail, fax, email
+,
+ or voicemail, etc.) will not be answered. To reduce the number of redundant or duplicate questions, Bidders are asked to review all questions previously submitted to determine whether the Bidder’s question has been posted.
+Bidders are responsible for entering content suitable for public viewing, since all the questions are accessible to the public. Bidders must not include information that could be considered personal, security sensitive, inflammatory, incorrect, collusory, or otherwise objectionable, including information about the Bidder’s company or other companies. The 
+SST
+ reserves the right to edit or delete any submitted questions that raise these issues or that are not in the best interest of the Commonwealth or this Bid. 
+All answers are final when posted.  
+S
+ubsequent revisions to previously provided answers will be dated.
+It is the responsibility of the prospective Bidder and awarded Bidder to maintain an active registration in COMMBUYS and to keep current the email address of the Bidder’s contact person and prospective contract manager, if awarded a contract, and to monitor that email inbox for communications from the Purchasing 
+Entity
+, including requests for clarification. The Purchasing 
+Entity
+ and the Commonwealth assume no responsibility if a prospective Bidder’s/awarded Bidder’s designated email address is not current or if technical problems, including those with the prospective Bidder’s/awarded Bidder’s computer, network
+,
+ or internet service provider (ISP)
+,
+ cause email communications sent to/from the prospective Bidder/Awarded Bidder and the Purchasing 
+Entity
+ to be lost or rejected by any means
+,
+ including email or spam filtering.
+Locating Bid Q&A
+Log into COMMBUYS, locate the Bid, acknowledge receipt of the Bid, and scroll down to the bottom of the Bid Header page. The “Bid Q&A” button allows Bidders access to the Bid Q&A page.
+FORM 1 – RFQ RESPONSE FORM
+Bidders should avoid including components in their responses which are not expressly requested in the RFQ. If multiple options are available and responsive to the RFQ, Bidders must clearly identify the differences in cost and functionality of each option. 
+I. Statement of Interest and Contact Information
+Company or Organization Name:
+_______________________________________________ (“Bidder”)
+Bidder Address:
+_______________________________________________
+_______________________________________________
+_______________________________________________
+Bidder Contact(s):
+Name:
+_________________________________________
+Email:
+_________________________________________
+Phone:
+_________________________________________
+Name:
+_________________________________________
+Email:
+_________________________________________
+Phone:
+_________________________________________
+By submitting this RFQ Response, the Bidder hereby agrees and acknowledges that any agreement resulting from the RFQ will be subject to the documents incorporated therein, as provided in Section IV (Order of Precedence) of the RFQ. Subject to Section II
+ 
+(F) in this RFQ Response Form, the Bidder agrees to all terms of the RFQ
+,
+ including all documents incorporated into the agreement.
+ 
+II. References
+___ If marked, Bidder must describe three references to the 
+Purchasing Entity
+ illustrating examples in which Bidder has provided similar hardware, software, maintenance, and services to organizations of comparable size to the 
+Purchasing Entity
+ within the last five to ten years, if applicable. Bidder must provide the name and contact information for an individual employed by the customer. Bidders are encouraged to provide references of government organizations within the Commonwealth. Bidder agrees that the 
+Purchasing Entity
+ or its agents may contact any individual(s) named as references hereunder. References must be submitted in the format specified on the OSD business reference form, which is available at
+ 
+https://www.mass.gov/files/documents/2016/08/wd/business-reference-form_0.doc?_ga=2.37941354.891907013.1563542725-372871650.1562964984
+.
+III. Data Classification
+Bidder must describe its information security practices and policies with respect to the Data Types identified in Section V (Data Classification) of the RFQ. Additional documentation may be attached to this Response form. 
+____________________________________________________________________________________________________________________________________________________________________________
+IV. Business and Technical Response
+Description of the specific products/service
+ (Deliverables, Tasks)
+ offered: ____________________________________________________________________________________________________________________________________________________________________________
+Description of warranty, maintenance, and support applicable to the products and services listed. Note that warranty, maintenance, and support must be consistent with requirements set forth in the
+ 
+applicable statewide contract. ____________________________________________________________________________________________________________________________________________________________________________
+Provide an estimate timeframe for commencement
+, milestones, due dates,
+ and completion of services once a Purchase Order is issued.
+ (Please attach as 
+E
+xcel 
+spread
+sheet
+,
+if applicable)
+ ____________________________________________________________________________________________________________________________________________________________________________
+If Bidder is providing services, provide a list of 
+resource 
+assumptions
+, if any,
+ on which it is basing its bid. ____________________________________________________________________________________________________________________________________________________________________________
+Attach an unlocked, editable copy of any relevant license agreement, subscription agreement, warranty
+,
+ or maintenance agreement, technical support description and any other forms or agreements related to the procurement of the Bidder’s proposed solution, in MS Word format.
+V. Cost Response
+Provide a description of 
+pricing, inclusive 
+of all costs and expenses. Bidder must provide either a total fixed 
+price cost for all Deliverables and Tasks, or a not-to-exceed cost for all Time and Materials Services.
+____________________________________________________________________________________________________________________________________________________________________________
+Include a redline (track changes) version of the Statement of Work (Form 2). Insert pricing, assumptions, and descriptions of Tasks, Deliverables, and milestone due dates, as applicable. Proposed professional services rates must include all costs and expenses, including without limitation delivery services, travel
+,
+ and all other costs and expenses. Bidder must provide either a total fixed price cost for all deliverables and tasks, or a total not-to-exceed cost for all time and materials services. 
+Bidder must provide hourly rates if bidding either Firm Fixed Price or Time and Materials work, to be used in the event that additional work is required during the SOW Term. 
+Bidder agrees that all professional services will be documented in substantially the same form as Form 2. 
+Title
+Hourly Rate
+Attach a valid quote that 
+may
+ be used to issue a purchase order. The quote must include address and contact information for the person to whom the quote 
+may
+ be sent. All quotes must be valid for a minimum of ninety (90) days after the date of submission.
+Bidder shall provide all questions related to cost
+s to Purchasing Entity via COMMBUYS 
+Q&A
+ prior to submitting a Response.
+FORM 2 –
+ STATEMENT OF WORK TEMPLATE
+ Links to SOW templates
+ LINK: 
+https://www.commbuys.com/bso/external/purchaseorder/poSummary.sdo?docId=PO-20-1080-OSD03-SRC01-16621&releaseNbr=0&external=true&parentUrl=close
+FORM 3
+[Mandatory for Executive Department Purchasing Entities Only
+]
+1. Small Business Purchasing Program
+ 
+<All subsections of this section are required for inclusion>
+ [MANDATORY FOR PROCUREMENTS WITH ANNUAL VALUES EQUAL TO OR LESS THAN $250,000; DELETE IF NOT APPLICABLE]
+Program Background
+The Massachusetts 
+Small Business Purchasing Program
+ (SBPP) was established pursuant to 
+Executive Order 5
+99
+ to increase state contracting opportunities with small businesses having their principal place of business within the Commonwealth of Massachusetts. Pursuant to the SBPP, it is the intention of the 
+Purchasing Entity
+ to award this Small Procurement to one or more SBPP participating business(es) as described below. 
+SBPP Award Preference
+While all businesses, no matter the size or principal place of business, may submit responses to this solicitation, should an SBPP participant respond and meet the best value criteria as described in this solicitation, the SBPP participant shall be awarded the contract. The Strategic Sourcing Team (SST) will not evaluate submissions from non-SBPP participants unless no SBPP Bidder meets the SST’s best value evaluation criteria. 
+SBPP Participation Eligibility
+To be eligible to participate in this procurement as an SBPP participant, an entity must meet the following criteria, and be marked as an SBPP-registered business in 
+COMMBUYS
+:
+Have its principal place of business in the Commonwealth of Massachusetts;
+Been in business for at least one year;
+Employ a combined total of 50 or fewer full-time equivalent employees in all locations, or employees work less than a combined total of 26,000 hours per quarter; and
+Have gross revenues, as reported on appropriate tax forms, of $15 million or less, based on a three-year average. 
+Non-profit firms also must be registered as a non-profit or charitable organization with the MA Attorney General’s Office and be up to date with all filings required by that office and be tax exempt under Section 501(c) of the Internal Revenue Code. 
+SBPP Compliance Requirements
+It is the responsibility of the Bidder to ensure that their SBPP status is current at the time of submitting a response and throughout the life of any resulting contract. Misrepresentation of SBPP status will result in disqualification from consideration, and may result in debarment, contract termination, and other actions. To learn more about the SBPP, including how to apply, visit the 
+SBPP Webpage
+. 
+Program Resources and Assistance
+Bidders and Contractors seeking assistance regarding SBPP may visit the SBPP webpage, 
+http://www.mass.gov/sbpp
+, or contact the SBPP Help Desk at 
+sbpp@mass.gov
+.
+Supplier Diversity Plan (SDP) Plan 
+<All subsections of this section are required for inclusion> 
+[
+ELECTIVE
+ FOR PROCUREMENTS WITH ESTIMATED ANNUAL VALUES EXCEEDING $250,000; 
+AGENCIES MAY USE THE SDP COMMITMENT SOLICITED ON THE PARENTS SWC OR SOLICIT A H
+IGHER SDP SPEND.
+ 
+DELETE IF NOT APPLICABLE.]
+Program Background
+Pursuant to 
+Executive Order 5
+99
+, the Commonwealth’s 
+Supplier Diversity Program
+ (SDP) promotes business-to-business relationships between awarded Contractors and diverse businesses and non-profit organizations (“SDP Partners”) certified or recognized (see below for more information) by the 
+Supplier Diversity Office (SDO)
+. 
+Financial Commitment Requirements
+All
+ Bidders responding to this solicitation are required to make a significant financial commitment (“SDP Commitment”) to partnering with one or more SDO-certified or recognized diverse business enterprise(s) or non-profit organization(s). This SDP Commitment must be expressed as a percentage of contract sales resulting from this solicitation that would be spent with the SDP Partner(s). 
+After contract award (if any), the Total SDP Commitment shall become a contractual requirement to be met annually on a Massachusetts fiscal year basis (July 1 – June 30) for the duration of the contract. The minimum acceptable Total SDP Commitment in response to this solicitation shall be 1%. Bidders shall be awarded additional evaluation points for higher SDP Commitments.
+No contract shall be awarded to a Bidder without an SDP Commitment that meets the requirements stated herein. This requirement extends to 
+all
+ Bidders regardless of their own supplier diversity certification. 
+Eligible SDP Partner Certification Categories
+SDP Partners must be business enterprises and/or non-profit organizations certified or recognized by the SDO in one or more of the following certification categories: 
+Minority-Owned Business Enterprise (MBE)
+Minority Non-Profit Organization (M/NPO)
+Women-Owned Business Enterprise (WBE)
+Women Non-Profit Organization (W/NPO)
+Veteran-Owned Business Enterprise (VBE)
+Service-Disabled Veteran-Owned Business Enterprise (SDVOBE)
+Disability-Owned Business Enterprise (DOBE)
+Lesbian, Gay, Bisexual, and Transgender Business Enterprise (LBGTBE)
+Eligible Types of Business-to-Business Relationships
+Bidders and Contractors may engage SDP Partners as follows:
+Subcontracting
+, defined as a partnership in which the SDP partner is involved in the provision of products and/or services to the Commonwealth. 
+Ancillary Products and Services
+, defined as a business relationship in which the SDP partner provides products or services that are not directly related to the Contractor’s contract with the Commonwealth but may be related to the Contractor’s own operational needs. 
+Other types of business-to-business relationships are not acceptable under this contract. All provisions of this RFR applicable to subcontracting shall apply equally to the engagement of SDP Partners as subcontractors. 
+Program Flexibility
+The SDP encompasses the following provisions to support Bidders in establishing and maintaining sustainable business-to-business relationships meeting their needs:
+SDP Partners are 
+not
+ required to be subcontractors.
+SDP Partners are 
+not
+ required to be Massachusetts-based businesses.
+SDP Partners 
+may be changed or added
+ during the term of the contract, provided the Contractor continues to meet its SDP Commitment.
+SDP Plan Form Requirements
+All
+ Bidders must complete the SDP Plan Form included in this solicitation and attach it to their bid response. In addition to proposing an SDP Commitment, each Bidder must propose one or more SDP Partner(s) to utilize 
+to meet its SDP Commitment. Certified diverse Bidders may not list their own companies, or their subsidiaries or affiliates, as SDP Partners and may not meet their SDP Commitment by spending funds internally or with their own subsidiaries or affiliates.
+Bidders may propose SDP Partners that are:
+Certified or recognized by the SDO
+: Such partners appear in the 
+SDO Directory of Certified Businesses
+ or in the 
+U.S. Dept of Veterans Affairs VetBiz Vendor Information Pages
+ directory. After contract award (if any), spending with such partners will contribute to meeting the Contractor’s SDP Commitment.
+Not yet certified or recognized by the SDO
+: Such partners must be certified in eligible categories by a third-party certification body, such as another city or state supplier diversity certification office, the 
+National Minority Supplier Development Council
+, the 
+Women Business Enterprise National Council
+, 
+Disability: IN
+, or the 
+National LGBT Chamber of Commerce (NGLCC)
+, but are not listed in the above-mentioned directories. Self-certification is not acceptable. While Bidders may list such proposed SDP Partners on their SDP Plans, spending with such partners will not contribute to meeting the Contractor’s SDP Commitment unless they apply for and are granted SDO supplier diversity certification or recognition. If proposed SDP Partners do not receive SDO supplier diversity certification or recognition, the Contractor must find alternative SDP Partners to meet the SDP Commitment.
+It is the responsibility of the Contractor to ensure that their proposed SDP Partners obtain such certification or recognition by the SDO after contract award (if any). The 
+Purchasing Entity
+ and the SDO will not conduct outreach to proposed SDP Partners to ensure their certification. Furthermore, no guarantee may be made that a proposed SDP Partner will be certified, or regarding the time it may take to process a proposed SDP Partner certification. Contractors may direct partners to the SDO’s homepage, 
+www.mass.gov/sdo
+ and the 
+Certification Self-Assessment Tool
+ for guidance on applying for certification.
+It is 
+desirable
+ for Bidders to provide an SDP Focus Statement that describes the Bidder’s overall approach to increasing the participation of diverse businesses in the provision of products and services under this proposal/contract (subcontracting) and in the Bidder’s general business operations (ancillary products and services). Such a description may include but not be limited to:
+A clearly stated purpose or goal.
+Specific types of diverse and small businesses targeted.
+Which departments/units within the business are responsible for implementing supplier diversity.
+Types of opportunities for which diverse and small businesses are considered.
+Specific measures/methods of engagement of diverse and small businesses.
+An existing internal supplier diversity policy.
+Public availability of the Bidder’s supplier diversity policy.
+It also is 
+desirable
+ for Bidders to use the SDP Plan Form to describe additional creative initiatives (if any) related to engaging, buying from, and/or collaborating with diverse businesses. Such initiatives may include but not be limited to:
+Serving as a mentor in a mentor-protégé relationship.
+Technical and financial assistance provided to diverse businesses.
+Participation in joint ventures between nondiverse and diverse businesses.
+Voluntary assistance programs by which nondiverse business employees are loaned to diverse businesses or by which diverse business employees are taken into viable business ventures to acquire training and experience in managing business affairs.
+Evaluation of SDP Forms
+To encourage Bidders to develop substantial supplier diversity initiatives and commitments as measures valuable to the Commonwealth, at least 25% of the total available evaluation points for this bid solicitation shall be allocated to the evaluation of the SDP Plan submissions. Because the purpose of the SDP is to promote business-to-business partnerships, the Bidders’ workforce diversity initiatives will not be considered in the evaluation.
+SDP Spending Reports and Compliance
+After contract award, Contractors shall be required to provide reports demonstrating compliance with the agreed-upon SDP Commitment as directed by the department, which in no case shall be less than annually.
+Spending with SDP Partners that appear in the 
+SDO Directory of Certified Businesses
+ or in the 
+U.S. Dept of Veterans Affairs VetBiz Vendor Information Pages
+ directory shall be counted toward a Contractor’s compliance with their SDP Commitment. Spending with SDP Partners that do not appear in the directories above shall not be counted toward meeting a Contractor’s SDP Commitment. 
+It is the responsibility of the Contractor to ensure they meet their SDP Commitment. The SDO and the issuing department assume no responsibility for any Contractor’s failure to meet its SDP Commitment. 
+SDP Spending Verification
+The SDO and the contracting department reserve the right to contact SDP Partners at any time to request that they attest to the amounts reported to have been paid to them by the Contractor.
+Program Resources and Assistance
+Contractors seeking assistance in the development of their SDP Plans or identification of potential SDP Partners may visit the SDP webpage, 
+www.mass.gov/sdp
+, or contact the SDP Help Desk at 
+sdp@mass.gov
+.  
+Services RFQ (2.2023)
+11
+11

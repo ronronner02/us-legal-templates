@@ -1,0 +1,373 @@
+COMMONWEALTH OF MASSACHUSETTS 
+COMMONWEALTH TERMS AND CONDITIONS FOR INFORMATION TECHNOLOGY CONTRACTS 
+ 
+COMMONWEALTH TERMS AND CONDITIONS FOR INFORMATION TECHNOLOGY CONTRACTS 
+UPDATED – July 1, 2025 
+ 
+1 of 8 
+ 
+This Commonwealth Terms and Conditions for Information Technology Contracts (“IT Terms and 
+Conditions”) form is jointly issued by the Executive Office of Technology Services and Security 
+(EOTSS), the Executive Office for Administration and Finance (A&F), the Office of the 
+Comptroller (CTR) and the Operational Services Division (OSD) for use by all Commonwealth of 
+Massachusetts (“State”) Departments and Contractors to govern Contracts subject to the object 
+codes for information technology, as defined by the Office of the Comptroller’s Expenditure 
+Classification Handbook, or other Contracts as expressly approved in writing by EOTSS, A&F, 
+OSD, and CTR. Any changes by either the Department or the Contractor to this form shall be 
+void. These IT Terms and Conditions will be incorporated by reference into this Contract for IT 
+commodities or services executed by the Contractor and Department, in the absence of a 
+superseding law or regulation requiring a different contract form.  
+For purposes of these IT Terms and Conditions, “Performance” shall include, but shall not be 
+limited to, services rendered, obligations due, costs incurred, commodities and Deliverables 
+provided and accepted by the Department, programs provided, or other commitments 
+authorized under a Contract. A “Deliverable” shall include, but shall not be limited to, any 
+tangible or intangible product, good, or service to be provided by the Contractor to the 
+Commonwealth as an element of Performance under a Contract. The Commonwealth is entitled 
+to ownership and possession of all Deliverables purchased or developed with funds paid by the 
+State. The Commonwealth’s possession, installation, or use of proprietary IT commodities or 
+services, developed by a Contractor for the open market without the use of State funds, shall 
+not transfer title or ownership thereof to the Commonwealth. A “Contract” shall mean, in the 
+following order of priority: (i) these IT T erms and Conditions; (ii) the Standard Contract Form 
+issued jointly by A&F, CTR and OSD, and the Standard Contract Form Instructions and 
+Contractor Certifications; (iii) the Request for Response (RFR) or applicable solicitation 
+document, as it may be amended by the Department; (iv) the Contractor’s response to the RFR 
+or applicable solicitation document, as it may be amended by the Department and Contractor, 
+including any negotiated terms and conditions allowable pursuant to law or regulation; (v) a 
+solicitation created by the Department for a particular engagement such as a Request for Quote 
+(RFQ), as it may be amended by the Department; (vi) any negotiated terms and conditions 
+governing a particular engagement, as expressly agreed to in writing between the Department 
+and the Contractor; and (vii) the Contractor’s response to the Department’s solicitation. 
+1. Contract Effective Start Date 
+Notwithstanding any verbal or other representations by the parties, the effective start date of 
+Performance under a Contract shall be the latest of: the date the Contract was executed by an 
+authorized signatory of the Contractor, the date the Contract was executed by an authorized 
+signatory of the Department, the date specified in the Contract, or the date of any approvals 
+required by law or regulation. 
+2. Payments And Compensation 
+The Contractor shall only be compensated for Performance delivered and accepted by the 
+Department in accordance with the specific terms and conditions of a Contract. The Department 
+may, in its sole discretion, agree to pre-payment for subscription-based IT commodities or 
+services for a term length as specified in the Contract. All Contract payments are subject to 
+appropriation pursuant to M.G.L. c. 29, § 26, or the availability of sufficient non- appropriated 
+funds for the purposes of a Contract and shall be subject to intercept pursuant to M.G.L. c. 7A, § 
+COMMONWEALTH TERMS AND CONDITIONS FOR INFORMATION TECHNOLOGY CONTRACTS 
+UPDATED – July 1, 2025 
+ 
+2 of 8 
+ 
+3 and 815 CMR 9.00. Overpayments shall be reimbursed by the Contractor or may be offset by 
+the Department from future payments in accordance with state law. Acceptance by the 
+Contractor of any payment or partial payment, without any written objection by the Contractor, 
+shall in each instance operate as a release and discharge of the State from all claims, liabilities 
+or other obligations relating to the Performance of a Contract. 
+3. Contractor Payments 
+The Contractor shall timely submit invoices and supporting documentation as prescribed in a 
+Contract. The Department shall review and return rejected invoices within fifteen (15) days of 
+receipt with a written explanation for rejection. Payments shall be made in accordance with 815 
+CMR 4.00 and the Bill Payments policy issued by CTR, provided that payment periods listed in 
+a Contract of less than forty-five (45) days from the date of receipt of an invoice shall be 
+effective only to enable a Department to take advantage of early payment incentives and shall 
+not subject any payment made within the forty-five (45) day period to a penalty.  
+4. Contract Termination or Suspension 
+a. Termination/Suspension 
+A Contract shall terminate on the date specified in a Contract, unless that date is 
+properly amended in accordance with all applicable laws and regulations prior to the 
+date, or unless terminated or suspended under this section, following written notice to 
+the Contractor. The Department may, in its sole discretion, for any reason, without 
+penalty, terminate in whole or in part or suspend a Contract in whole or in part: (i) without 
+cause; (ii) if the Contractor breaches any material term or condition or fails to perform or 
+fulfill any material obligation required by a Contract; (iii) in the event of an elimination of 
+an appropriation or availability of sufficient funds for the purposes of a Contract; or (iv) in 
+the event of an unforeseen public emergency mandating immediate Department action.  
+b. Force Majeure 
+Upon immediate notification to the other party, neither the Department nor the Contractor 
+shall be deemed to be in breach for failure or delay in Performance due to acts of God or 
+other causes factually beyond their reasonable control and without their fault or 
+negligence (each a “Force Majeure Event”). The notification from the Contractor to 
+Department must include the date and extent of the Contractor’s failure or delay in 
+Performance and the cause thereof. Contractor shall use all reasonable and good faith 
+efforts to remedy, remove, or circumvent the Force Majeure Event with the least 
+practicable delay, and resume the performance of its obligations as soon as reasonably 
+practicable after the remediation, removal or circumvention of the Force Majeure Event. 
+Failure of a subcontractor (as defined in Section 9 below) to perform, or price increases 
+due to market fluctuations or product availability will not be deemed factually beyond the 
+Contractor’s control. Likewise, labor disputes and power failures shall not be deemed 
+beyond the Contractor’s control. A Force Majeure event does not excuse Contractor’s 
+obligation to comply with its contractual obligations regarding disaster recovery and 
+business continuity, including, but not limited to, the obligations set forth in the 
+Commonwealth’s Enterprise Security Policies and Standards, currently located at 
+https://www.mass.gov/handbook/enterprise-information-security-policies-and-standards 
+(collectively “the DR/BC obligations”). Contractor’s failure to comply with the DR/BC 
+obligations shall constitute “fault” and/or “negligence” for purposes of this Section 4(b). 
+  
+COMMONWEALTH TERMS AND CONDITIONS FOR INFORMATION TECHNOLOGY CONTRACTS 
+UPDATED – July 1, 2025 
+ 
+3 of 8 
+ 
+c. Payment Upon Termination  
+If the Department has pre-paid for subscription services, Contractor shall refund 
+Department the as-yet unused pro-rata portion of such pre-payment as of the date of 
+termination. This applies even where the Contract was terminated by the Department 
+without cause. 
+5. Written Notice 
+A notice shall be deemed delivered and received when submitted in writing in person or when 
+delivered by any other appropriate method evidencing actual receipt by the Department or the 
+Contractor. Any written notice of termination or suspension delivered to the Contractor shall 
+state the effective date and period of the notice, a reason for the termination or suspension, if 
+applicable, any alleged breach or failure to perform, a reasonable period to cure any alleged 
+breach or failure to perform, if applicable, and any instructions or restrictions concerning 
+allowable activities, costs or expenditures by the Contractor during the notice period. 
+6. Confidentiality, Privacy, And Protection of Data 
+The Contractor shall ensure the physical security and restrict access to any personal or other 
+Department data in the Contractor’s possession or used by the Contractor in the Performance of 
+a Contract, which shall include, but shall not be limited to, the Department’s public records, 
+documents, files, software, equipment or systems. The Contractor shall comply with the 
+Commonwealth Standard Contract Form and the Commonwealth’s Standard Contract Form 
+Instructions and Contractor Certifications, all applicable laws, rules, and regulations relating to 
+personal data including, but not limited to, M.G.L. c. 66A if the Contractor becomes a “holder” of 
+“personal data” and M.G.L. c. 93H if the Contractor accesses “personal information”, and the 
+Enterprise Information Security Policies and Standards 
+https://www.mass.gov/handbook/enterprise-information-security-policies-and-standards.  If the 
+Contractor accesses Protected Health Information (PHI) as defined by the Health Insurance 
+Portability and Accountability Act (HIPAA), the Contractor shall comply with all applicable HIPAA 
+requirements, including those governing business associates, and shall execute a “Business 
+Associate Agreement” as necessary.  
+7. Record-keeping And Retention, Inspection of Records 
+The Contractor shall maintain records, books, files and other data as specified in a Contract and 
+in such detail as shall properly substantiate Contractor performance or claims for payment 
+under a Contract, for a minimum retention period of six (6) years beginning on the first day after 
+the final payment under a Contract, or such longer period as is necessary for the resolution of 
+any litigation, claim, negotiation, audit or other inquiry involving a Contract. The Department 
+shall have access, as well as any parties identified under Executive Order 195, during the 
+Contractor’s regular business hours and upon reasonable prior notice, to such records, 
+including on-site reviews and reproduction of such records at a reasonable expense. 
+8. Assignment 
+The Contractor may not assign or delegate, in whole or in part, or otherwise transfer any liability, 
+responsibility, obligation, duty or interest under a Contract, with the exception that the 
+Contractor shall be authorized to assign present and prospective claims for money due to the 
+Contractor pursuant to a Contract in accordance with M.G.L. c. 106, §§ 9- 318. The Contractor 
+must provide sufficient notice of assignment and supporting documentation to enable the 
+Department to verify and implement the payment assignment. In accordance with the 
+Comptroller’s Bill Payment Policy, payments to third party assignees will be processed as if 
+COMMONWEALTH TERMS AND CONDITIONS FOR INFORMATION TECHNOLOGY CONTRACTS 
+UPDATED – July 1, 2025 
+ 
+4 of 8 
+ 
+such payments were being made directly to the Contractor, and these payments will be subject 
+to intercept, offset, counter claims or any other Department rights which are available to the 
+Department or the State against the Contractor. Upon prompt written notice to the Contractor, 
+the Department may assign or delegate, in whole or in part, or transfer any liability, 
+responsibility, obligation, duty or interest under a Contract, to another Department, provided that 
+the assignee has agreed to take full responsibility of such Contract, liability, responsibility, 
+obligation, duty or interest. 
+9. Subcontracting by Contractor 
+“Subcontractor” shall mean Contractor’s representatives, agents, affiliates, consultants, 
+volunteers, suppliers, service providers, hosting providers, providers of third-party software 
+imbedded in a Contractor’s product, or any other entity with whom Contractor is in privity of oral 
+or written contract and whom Contractor intends to perform under the Contract in any capacity.  
+Any agreement entered into by the Contractor with a Subcontractor for the purposes of fulfilling 
+the obligations under a Contract must be in writing, authorized in advance by the Department, 
+and shall be consistent with and subject to the provisions of these IT Terms and Conditions and 
+a Contract. Subcontracts will not relieve or discharge the Contractor from any duty, obligation, 
+responsibility or liability arising under a Contract. The Contractor shall be responsible for the 
+acts and omissions of its Subcontractors. The Department is entitled to copies of all 
+subcontracts and shall not be bound by any provisions contained in a subcontract to which it is 
+not a party. 
+10. Affirmative Action, Non-Discrimination in Hiring and Employment 
+The Contractor shall comply with all federal and state laws, rules and regulations promoting fair 
+employment practices or prohibiting employment discrimination and unfair labor practices and 
+shall not discriminate in the hiring of any applicant for employment nor shall any qualified 
+employee be demoted, discharged or otherwise subject to discrimination in the tenure, position, 
+promotional opportunities, wages, benefits or terms and conditions of their employment because 
+of race, color, national origin, ancestry, age, sex, religion, disability, handicap, sexual orientation 
+or for exercising any rights afforded by law. The Contractor commits to purchasing supplies and 
+services from certified minority or women-owned businesses, small businesses or businesses 
+owned by socially or economically disadvantaged persons or persons with disabilities. 
+11. Insurance 
+Contractor represents and warrants that Contractor, its subsidiaries, and each Subcontractor 
+performing work under the Contract shall, for the duration of the Contract, and in the case of 
+claims-made policies for two years following termination of the Contract, maintain, or cause to 
+be maintained, insurance in such amounts and covering such risks as specifically set forth 
+elsewhere in the Contract, provided that in the event that such coverages are not specified, 
+Contractor shall maintain or cause to be maintained insurance coverage in such types and 
+amounts  as are customarily required for contracts of similar scope and nature, including but not 
+limited to, Worker’s Compensation/Employer’s Liability, Commercial General Liability, Bodily 
+Injury, Property Damage, Automobile Liability, Professional Liability/Errors & Omissions, first and 
+third party Cyber Liability, and Umbrella Liability.  The Contractor shall provide Department with 
+certificates of insurance reflecting all coverages at least thirty days prior to the start of 
+Performance and thereafter upon request of the Department, EOTSS, A&F, OSD, and/or CTR. 
+  
+COMMONWEALTH TERMS AND CONDITIONS FOR INFORMATION TECHNOLOGY CONTRACTS 
+UPDATED – July 1, 2025 
+ 
+5 of 8 
+ 
+12. Liability And Indemnification 
+a. Liability and Indemnification 
+Unless otherwise exempted by law, and subject to Section 13, the Contractor shall be 
+liable for, and shall defend, indemnify, and hold harmless the State, including the 
+Department, its agents, officers and employees, against any and all damages, claims, 
+liabilities, and costs which arise out of the Contractor’s Performance of a Contract (each 
+an “Indemnified Claim”),  including, but not limited to, personal injury, property damage, 
+infringement of intellectual property, Data Breach as defined below, and claims arising 
+from new, emerging, or novel technologies and claims (such as those related to 
+Generative AI (“GenAI”); GenAI is a type of artificial intelligence technology that can 
+generate many forms of content including but not limited to texts, images, and 
+multimedia). 
+b. Control of Defense 
+The Contractor shall exercise control and direct the defense and/or settlement of any 
+Indemnified Claim; provided that after prompt notification by the State, the State shall 
+have an opportunity to control and direct  the defense of any Indemnified Claim that 
+would require the State to admit liability, pay money, or take or refrain from taking any 
+action pursuant to M.G.L. c. 12, § 5.  In the event that the State exercises its option to 
+control and direct the defense of a claim, Contractor shall not be liable for attorney’s fees 
+incurred by the State following such exercise. The State shall not be liable for any costs 
+incurred by the Contractor arising under this Section 12.  
+c. Indemnification of Contractor 
+The Contractor (including its agents, officers, employees or Subcontractors) shall at no 
+time be considered an agent or representative of the Department or the State. Any 
+indemnification of the Contractor shall be subject to appropriation and applicable law. 
+13. Limitation of Liability 
+Absent a higher limitation of liability expressly agreed to in a particular Contract between the 
+Department and the Contractor, the limitation of liability in this Section 13 shall apply. This 
+Section 13 shall not limit Contractor’s liability and indemnification obligations for personal injury, 
+property damage, and/or intellectual property claims, nor the State’s ability to join the Contractor 
+as a third-party defendant in connection with any claims. The Contractor’s liability for any 
+security incident, data breach, or unauthorized disclosure of data (each a “Data Breach”) shall 
+not exceed the greater of: (i) $500,000; (ii) the amount mandated by applicable State or Federal 
+law; (iii) three  (3) times the total value of the Contract (or in the case of subscription-based 
+Contracts, three (3) times the total value of the Contract during the committed subscription 
+term); or (iv) the total coverage available from Contractor’s insurance provider(s) for such Data 
+Breach. The Contractor’s liability for any other claim shall not exceed the greater of: (i) 
+$100,000; or (ii) two times the total value of the Contract (or in the case of subscription-based 
+Contracts, two times the total value of the Contract during the committed subscription term). The 
+Contractor shall be liable for incidental or consequential damages, including without limitation, 
+loss of use of equipment, lost revenue, lost savings or lost profits of the State only with respect 
+to personal injury, property damage, intellectual property rights and Data Breaches.  
+  
+COMMONWEALTH TERMS AND CONDITIONS FOR INFORMATION TECHNOLOGY CONTRACTS 
+UPDATED – July 1, 2025 
+ 
+6 of 8 
+ 
+14. Warranties 
+a. Warranty Of Functionality 
+Contractor warrants that for at least six (6) months following the acceptance of a 
+Deliverable provided to the Commonwealth (“Warranty Period”), its Performance will 
+achieve in all material respects the functionality described in the Contract, user guides, 
+and in other related documentation and that such functionality will be maintained in all 
+material respects in subsequent upgrades or updates. Contractor is required to use best 
+efforts to modify its Performance to achieve in all material respects the functionality 
+described in the Contract, user guides, and other related documentation and, if it is 
+unable to deliver such functionality, Department shall be entitled to terminate the 
+Contract. Notwithstanding the foregoing, any subscription term licenses provided by 
+Contractor shall be warranted for the duration of the subscription term. During the 
+Warranty Period, Contractor shall remediate all warranty claims that it is or should be 
+reasonably aware of at no cost to the Department.  
+b. Non-Infringement Warranty 
+Contractor represents and warrants that it has full power and authority to grant the title, 
+license and/or use of the Deliverables and any other rights granted by the Contract to 
+the Department with respect to the Deliverables. Contractor further represents and 
+warrants that neither the Contractor’s performance, nor the performance by the 
+Department in its utilization of the Deliverables, when used as permitted by the Contract, 
+nor the license of and authorized use by Department of the Deliverables, including any 
+materials owned by third parties supplied or specified by Contractor for incorporation in 
+the Deliverable, as described in the Contract, will in any way constitute an infringement 
+or other violation of any copyright, trade secret, trademark, patent, invention, proprietary 
+information, non-disclosure, or other rights of any third party. 
+c. Qualified Personnel Warranty 
+Contractor represents and warrants that the services will be performed by appropriately 
+qualified and trained personnel; with due care and diligence and to a high standard of 
+quality as is customary in the industry; in compliance with the terms and conditions of 
+the Contract; and in accordance with all applicable professional standards for the field of 
+expertise. Contractor warrants that all personnel granted access to Commonwealth 
+systems and/or confidential data are monitored and have been properly trained on 
+system security and handling confidential data. 
+d. Qualified Software Publisher Warranty 
+If Contractor is reselling software under a Contract, Contractor represents and warrants 
+that, prior to submitting to the Department a quote from such software publisher, it has 
+obtained assurances from the software publisher that it can provide its services 
+consistent with the terms of the Contract. 
+e. Other Warranty 
+Contractor warrants that Deliverables shall be free of viruses, Trojan horses, worms, 
+spyware, or other malicious code or components. 
+  
+COMMONWEALTH TERMS AND CONDITIONS FOR INFORMATION TECHNOLOGY CONTRACTS 
+UPDATED – July 1, 2025 
+ 
+7 of 8 
+ 
+15. Waivers 
+Forbearance or indulgence in any form or manner by a party shall not be construed as a waiver, 
+nor in any way limit the legal or equitable remedies available to that party. No waiver by either 
+party of any default or breach shall constitute a waiver of any subsequent default or breach. 
+16. Risk Of Loss 
+The Contractor shall bear the risk of loss for any Contractor materials used for a Contract and 
+for all Deliverables, Department personal or other data which is in the possession of the 
+Contractor or used by the Contractor in the Performance of a Contract until possession 
+ownership, or full legal title, as applicable, to the Deliverables are transferred to and accepted 
+by the Department. 
+17. AI Usage Disclosure 
+The Contractor shall disclose to the Department, at the time of submitting its bid or proposal, 
+and in the terms of the contract, whether artificial intelligence, GenAI, or any GenAI components 
+are included or planned for inclusion in the product or service offering. Additionally, the 
+Contractor has a continuing obligation during the term of the contract to notify the Department 
+promptly in writing prior to inclusion of any artificial intelligence, GenAI, or GenAI components in 
+the product or service roadmap; this includes use of such tools by subcontractors or 3rd party 
+products used in the performance of the contract.  The notice must state in detail how artificial 
+intelligence, GenAI, or GenAI components are being used in performance of the contract, and 
+the impact of its inclusion on how Department data is accessed, used, shared, or stored.   
+18. Forum, Choice of Law And Mediation 
+Any actions arising out of a Contract shall be governed by the laws of Massachusetts and shall 
+be brought and maintained in state court in Massachusetts, unless a federal court in 
+Massachusetts has exclusive jurisdiction thereof. The Department, subject to the approval of the 
+Office of the Attorney General (AGO), may: (i) consent to the jurisdiction of federal courts 
+outside of Massachusetts; or (ii) agree to the established voluntary mediation process through 
+the Massachusetts Office of Public Collaboration (MOPC) of any Contract dispute and will share 
+the costs of such mediation with the Contractor. No legal or equitable rights of the parties shall 
+be limited by this section. 
+19. Contract Boilerplate Interpretation, Severability, Conflicts With Law, Integration 
+Any amendment or attachment to any Contract which contains conflicting language or has the 
+effect of deleting, replacing or modifying any printed language of these IT Terms and Conditions, 
+as officially published by EOTSS, A&F, CTR and OSD, or any printed language of the Standard 
+Contract Form shall be interpreted as superseded by the official printed language. If any 
+provision of a Contract is found to be superseded by state or federal law or regulation, in whole 
+or in part, then both parties shall be relieved of all obligations under that provision only to the 
+extent necessary to comply with the superseding law, provided however, that the remaining 
+provisions of the Contract, or portions thereof, shall be enforced to the fullest extent permitted 
+by law. All amendments must be executed by the parties in accordance with Section 1 of these 
+IT Terms and Conditions and kept with the original record copy of a Contract as prescribed by 
+CTR. The printed language of the Standard Contract Form, as officially published by A&F, CTR, 
+and OSD, which incorporates by reference these IT Terms and Conditions, shall supersede any 
+conflicting verbal or written agreements relating to the Performance of a Contract, or attached 
+thereto, including contract forms, purchase orders or invoices of the Contractor.  For the 
+avoidance of doubt, any provision in any document forming a Contract, or any subsequent 
+COMMONWEALTH TERMS AND CONDITIONS FOR INFORMATION TECHNOLOGY CONTRACTS 
+UPDATED – July 1, 2025 
+ 
+8 of 8 
+ 
+updates to Contractor terms of use or privacy policies, that conflicts with, modifies, waives, or 
+alters a provision of these IT T erms and Conditions shall be null and void unless expressly 
+approved in writing prior to execution by EOTSS, A&F, OSD, and CTR. 
+20. Press Release and Marketing 
+Contractor agrees that no brochure, news, media, press release, public announcement, 
+memorandum or other information of any kind regarding the Contract shall be disseminated in 
+any way to the public, nor shall any presentation be given regarding the Contract without prior 
+approval by the Department. Written approval shall not be unreasonably withheld or delayed by 
+the Department; provided, however, that Contractor shall be authorized to provide copies of the 
+Contract and answer any questions relating thereto to any state or federal regulators or, in 
+connection with its financial activities, to any financial institutions for any private or public 
+offering.  
+Contractor shall not use graphics, logos, page headers, icons, or scripts unique to the State 
+without the Department’s prior written permission, and Contractor must not display the 
+Commonwealth of Massachusetts Seal for commercial purposes as use of the coat of arms and 
+the Great Seal of the Commonwealth for advertising or commercial purposes is prohibited by 
+law. 
+ 
+IN WITNESS WHEREOF, the Contractor certifies under the pains and penalties of perjury 
+that it shall comply with these IT Terms and Conditions for any applicable Contract 
+executed with the Commonwealth as certified by their authorized signatory signing the 
+Standard Contract Form. 

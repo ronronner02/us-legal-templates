@@ -1,0 +1,231 @@
+Agency Name
+RFQ0
+####
+Title of RFQ
+Purpose
+Agency
+ 
+is requesting quotes for 
+description of commodity or service
+, 
+as 
+further 
+detailed 
+below.
+The contact for this RFQ is:
+Name of RFQ Lead
+, 
+Agency
+Phone
+Fax
+E-mail
+Background
+If needed otherwise remove this section
+Time lines 
+Quotes Due
+(by
+ 5:00 p.m.
+ M
+T)
+Due Date
+If needed add: DELIVERED (and INSTALLED) within # days/weeks ARO (after receipt of order
+)
+Specifications
+ 
+or
+ Business and
+ Scope of Work 
+if 
+for services
+See
+ 
+Exhibit
+ 
+A
+ 
+Y
+ou may list specifications in this space, without a separate Exhibit, if they are short
+Contractor will 
+deliver
+ 
+commodity
+,
+ 
+FOB De
+stination
+,
+ 
+location
+ on or before 
+date
+ 
+or as coordinated with the Agency contact
+.
+  
+Agency
+ 
+contact for delivery 
+is
+:
+ 
+Agency Contact name
+Phone
+Fax
+E-mail
+Award Basis
+ 
+and Term
+, if a term contract
+ 
+Award will be made to the responsive responsible vendor with the lowest Total Cost, as provided on 
+Exhibit B
+, Price Sheet
+.
+If this will be a term contract add:
+ 
+The term of the resulting contract will be 
+##
+ year
+(s)
+, with 
+##
+ optional renewals of 
+##
+ year each, upon mutual agreement of the parties.
+Response
+Enter your 
+Total Cost
+ 
+on 
+Exhibit 
+B
+, Price Sheet
+, and fax, e-mail, mail,
+ hand-deliver/courier or submit 
+your quote via 
+IPRO 
+(
+IPRO LOGIN
+)
+ 
+so that it is received at 
+Agency
+ 
+location
+ 
+specified on the Signature Page
+ [
+or enter location for receipt of quotes: physical address, fax #, e-mail address
+] 
+prior to the deadline established above.
+Quotes submitted by any means other than IPRO must be accompanied by a signed
+ State of Idaho Signature Page.  
+Quotes must include all 
+Required Submittal Items
+ (
+See
+ below).
+If submitting via IPRO enter your 
+Total C
+ost 
+on Exhibit 
+B
+ AND 
+in IPRO
+,
+ and 
+UPLOAD
+ 
+all Required Submittal Items.
+List of Attachments
+Required Submittal Items
+Exhibit A – Specifications
+ 
+Exhibit B – Price Sheet
+State of Idaho Signature Page
+Technical Drawings
+[Modify this list to fit your RFQ]
+Exhibit B – Price Sheet
+State of Idaho Signature Page (for manual submissions)
+Questionnaire
+Warranty Information
+Engineer’s Drawings
+[Modify this list to fit your RFQ]
+Exhibit A
+RFQ0
+RFQ Number
+Specifications for 
+commodity
+ 
+[
+or Scope of 
+Work 
+(for 
+service
+s)
+]
+Exhibit B
+RFQ0
+RFQ Number
+Title
+Price Sheet
+This Price Sheet must be submitted with 
+your quote
+, whether the submission is manual or electronic through the Idaho eProcurement System (IPRO).  
+Name of Vendor: 
+If appropriate
+ -
+Commodity
+ offered/
+manufacturer/model no.: 
+Provide your TOTAL COST 
+[use unit pricing/fully burdened hourly rates/etc. as appropriate to the purchase]
+ 
+for
+ 
+commodity or service
+, meeting the specifications outlined in 
+Exhibit A
+.  Your 
+TOTAL COST must be fully burdened to include all costs associated with providing 
+commodity or service
+ 
+meeting the required minimum specifications, including 
+delivery FOB Destination 
+agency
+ 
+location
+, Idaho 
+and
+ 
+installation/implementation/other requirements/etc
+.
+TOTAL COST for
+ 
+Commodity/Service
+:
+$
+or provide a cost structure/table for unit prices and extended prices, as appropriate
+Optional:
+  
+If awarded 
+the contract, will you meet the
+ time line
+ for delivery specified in Paragraph 
+3
+ of this RFQ
+?    
+YES
+*NO
+*A ‘NO’ response may disqualify you from consideration for award.
+ If a longer delivery time is required, please provide an explanation:
+_________
+_________
+Provide your approximate delivery:
+ 
+days
+ ARO
+Company Name: 
+Contact Name/Phone: 
+Contact E-mail: 
+ 

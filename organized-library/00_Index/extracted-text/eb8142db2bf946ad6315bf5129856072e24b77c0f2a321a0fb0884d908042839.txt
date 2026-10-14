@@ -1,0 +1,106 @@
+REAL PROPERTY TRANSFER DECLARATION INSTRUCTIONS 
+ 
+(TD-1000) 
+ 
+Every two years, Colorado assessors must appraise all real estate in the state.  Selling prices of sold properties, taken 
+from deeds, are used extensively in the appraisal process.  Because of circumstances surrounding a sale (for 
+example, a sale between family members), some selling prices are not truly indicative of a property’s value.  
+Appraisers typically adjust  sale prices when unusual circumstances exist, or disqualify (ignore) these sales .  The 
+Real Property Transfer  Declaration (TD-1000) alerts the appraiser in the Assessor’s Office to sales that may not be 
+an indication of a property’s value. 
+ 
+The following is a brief explanation of the purpose of each question on the Real Property Trans fer Declaration: 
+ 
+1. Physical address or legal description of the real property sold: 
+This information links the sale to the assessor’s records and identifies the property’s location. 
+ 
+2. Type of property purchased: 
+This information allows the assessor to use one form for all uses of property and to identify the type of 
+property purchased. 
+ 
+3. Date of Closing:  
+The date the property is transferred from the seller to the buyer. 
+Date of contract if different than date of closing: 
+This allows the assessor to establish the exact date of the “meeting of the minds” concerning the date the 
+sales price was agreed upon.  Even though only “closed” sales are used to set values, this information may 
+help the assessor to eliminate atypical sales conditions. 
+ 
+4. Total sale price. 
+The total sale price is the most essential item of information concerning the sale, and its accuracy must be 
+carefully scrutinized. The total sale price will sometimes differ from the recorded documentary fee. 
+Adjustments to the sale price, often ne cessary before a sale can be used, are more accurate when the true 
+price has been identified. 
+ 
+5. Was any personal property included in the transaction? 
+If personal property, as listed on the RPTD, was included in the sale price, the value of the personal 
+property must be subtracted from the sale price to determine the sale price of the real property transferred. 
+Refer to § 39-1-103(8)(a)(I) & (f) and § 39-13-102(5)(a), C.R.S. 
+ 
+6. Did the total sale price include a trade or exchange? 
+Transactions involving trades  of additional items or property should be excluded from the Assessor’s data 
+bank of sales information whenever possible, particularly when the value of the traded property is 
+substantial or cannot be reliably established. However, a trade under the IRS Code Section 1031 would be 
+included in the analysis and therefore needs to be identified on the RPTD . 
+ 
+7. Was 100% interest in the real property purchased? 
+It is crucial to identify whether or not the sale is a fee simple transaction (100%). If it is not, the sale price 
+cannot be considered representative of the total market value of the property.  
+ 
+8. Is this transaction among related parties or acquaintances? 
+It is important to know whether the buyer and seller are related individuals, business  affiliates, or 
+acquainted prior to the transaction because such sales might not reflect typical market value. 
+ 
+9. How was the property marketed and sold? 
+This information assists the assessor in determining where to research additional information.  
+ 
+  
+10. Check any of the following that apply to the condition of the improvements at the time of purchase.  
+When determining market value, the condition of the property at the time of the sale is very important. If 
+one or more of the items are checked, further analysis is necessar y in order to establish the condition at the 
+time of sale. 
+ 
+11-14. Finance questions: When financing reflects prevailing market practices and interest rates, which is ordinarily 
+the case with third -party financing, sales prices would not require adjustments. However, adjustments or 
+disqualifications may be considered if the type of financing is determined atypical or non-market. 
+ 
+15. Was an appraisal obtained regarding the transaction? 
+This information can be helpful in valuing commercial and complex properties where there may be limited 
+data available. 
+ 
+The questions remaining are for purchases of property other than residential. 
+ 
+16. Did the purchase price include a franchise or license fee? 
+If a franchise fee or license fee is included in the sale price and the amount can be substantiated, the sale 
+price should be adjusted to reflect the sale pri ce of the real property only. If the franchise fee or license fee 
+that is declared on the RPTD appears to be atypical, further analysis may be nec essary before the sale is 
+used. 
+ 
+17. Did the purchase involve an installment land contract? 
+Title is not transferred until the final payment is made. Oftentimes the purchase price is agreed upon years 
+prior to fulfillment of the c ontract and filing of the deed. Therefore, the purchase price may not be 
+reflective of the current date on the deed. 
+ 
+18. If this was a  vacant land sale, was an on -site inspection of the property conducted by the buyer prior to  
+purchase?  
+If the answer to this question is no, the possibility exists of an unknowledgeable buyer. Follow up wit h the 
+grantee may be necessary. 
+ 
+Remarks: Please include any additional information concerning the sale you may feel is important.  
+Property specific characteristics or external factors that caused the final sale price to decrease or increase, 
+and have not been addressed elsewhere on this form, should be noted here. The change in price may have 
+been based on discovery of inadequacies during an inspection, additional market research or buyer/seller 
+motivation. 
+ 
+Enter the day, month, and year, and have at least one of the parties to the transaction sign the document.  Please 
+ensure the buyer or seller sign on the designated line. 
+Validate the form with a signature and date and printed name of signatory. 
+ 
+Please provide an address where all future correspondence (tax bills, property valuations, etc.) regarding  this 
+property should be mailed to, as well as a phone number and email address for assessor or treasurer communication 
+There will be correspondence from the assessor and treasurer that will be important to the new owner of 
+record. Having an accurate mailing address and other means of contact through telephone or email may 
+help the assessor and the new owner exchange relevant information. This is  also helpful if the property sold 
+is not the physical address for the owner of record. 
+This information is kept confidential according to Colorado law. 
+ 
+ 

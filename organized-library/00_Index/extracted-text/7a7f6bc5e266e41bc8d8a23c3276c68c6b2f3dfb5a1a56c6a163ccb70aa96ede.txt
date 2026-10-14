@@ -1,0 +1,409 @@
+  
+   
+    
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+    
+        
+ 
+  
+   
+      
+  
+    
+   
+    
+  
+  
+ 
+ 
+     
+      
+     
+   
+ 
+ 
+     
+  
+      
+  
+  
+   
+  
+   
+  
+   
+ 
+  
+  
+   
+     
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+The printed portions of this form have been approved, except differentiated additions, by the Colorado Real Estate Commission. 
+(BDA55-6-23) (Mandatory 1-24) 
+THIS FORM HAS IMPORTANT LEGAL  CONSEQUENCES AND THE PARTIES SHOULD CONSULT LEGAL AND TAX 
+OR OTHER COUNSEL BEFORE SIGNING. 
+DIFFERENT BROKERAGE RELATIONSHIPS ARE AVAILABLE WHICH INCLUDE LANDLORD AGENCY, TENANT 
+AGENCY, BUYER AGENCY, SELLER AGENCY, OR TRANSACTION-BROKERAGE. 
+BROKERAGE DUTIES ADDENDUM 
+TO PROPERTY MANAGEMENT AGREEMENT 
+(Leasing Activities) 
+  LANDLORD AGENCY       TRANSACTION-BROKERAGE 
+This Brokerage Duties Addendum (Addendum) is made a part of the agreement for the management and leasing of the 
+Property known as  
+(Property), which is dated , between Brokerage Firm and Landlord (Agreement). This Addendum 
+supplements the Agreement. 
+1. BROKER AND BROKERAGE FIRM. 
+1.1. Multiple-Person Firm. If this box is checked, Broker (as defined below) is the individual designated by 
+Brokerage Firm to perform leasing services for Landlord. If more than one individual is so designated, then references in this 
+Addendum to Broker shall include all persons so designated,  including substitute or additional brokers. The brokerage 
+relationship exists only with Broker a nd does not extend to the employing broker, Brokerage Firm, or to any other brokers 
+employed or engaged by Brokerage Firm who are not so designated. 
+1.2. One-Person Firm.  If this box is checked, Broker (as defined below) is a brokerage firm with only one licensed 
+person. References to Broker or Brokerage Firm mean both the licensed person and brokerage firm who will perform leasing 
+services for Landlord. 
+2. DEFINED TERMS.
+ 2.1. Landlord: 
+ 2.2. Brokerage Firm:
+ 2.3. Broker: 
+shall act for or assist Landlord when performing leasing activities in the capacity as shown by the box checked at the top of 
+this page 1. 
+3. BROKERAGE RELATIONSHIP. 
+ 3.1. If the Landlord Agency box at the top of page 1 is checked, Broker will represent Landlord as a limited agent 
+(Landlord’s Agent). If the Transaction-Brokerage box at the top of page 1 is checked, Broker will act as a Transaction-
+Broker. 
+3.2. In-Company Transaction – Different Brokers.  When Landlord and tenant in a transaction are working with 
+different brokers within the Brokerage Firm, those brokers con tinue to conduct themselves consistent with the brokerage 
+relationships they have established. Landlord acknowledges that Brokerage Firm may offer and pay compensation to brokers 
+within Brokerage Firm working with a tenant. 
+3.3. In-Company Transaction – One Broker.  If Landlord and tenant are both working with the same broker, the 
+parties agree the following applies:
+  3.3.1. Landlord’s Agent. If the Landlord Agency box at the top of page 1 is checked, the parties agree the 
+following applies:
+ 3.3.1.1. Landlord Agency Unless Brokerage Relationship with Both. Broker represents Landlord 
+as Landlord’s Agent and must treat the tenant as a customer. A customer is a party to a transaction with whom Broker has 
+no brokerage relationship.  Broker must disclose to such customer the Broker’s relationship with Landlord. However, if 
+Broker delivers to Landlord a written Change of Status that Broker has a brokerage relationship with the tenant then Broker 
+is working with both Landlord and tenant as a Transaction-Broker. If the box in § 3.3.1.2. (Landlord Agency Only) is 
+checked, § 3.3.1.2. (Landlord Agency Only) applies instead. 
+3.3.1.2.  Landlord Agency Only.  If this box is checked, Broker represents Landlord as Landlord’s 
+Agent and must treat the tenant as a customer. 
+BDA55-6-23. BROKERAGE DUTIES ADDENDUM Page 1 of 3 
+  
+     
+  
+  
+ 
+       
+   
+   
+     
+  
+ 
+   
+   
+  
+ 
+  
+  
+   
+ 
+   
+ 
+  
+ 
+  
+   
+    
+    
+ 
+  
+    
+     
+     
+      
+ 
+ 
+    
+  
+    
+   
+  
+ 
+   
+ 
+   
+ 
+   
+  
+    
+  
+       
+  
+   
+     
+     
+   
+  
+  
+   
+   
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+68 
+69 
+70 
+71 
+72 
+73 
+74 
+75 
+76 
+77 
+78 
+79 
+80 
+81 
+82 
+83 
+84 
+85 
+86 
+87 
+88 
+89 
+90 
+91 
+92 
+93 
+94 
+95 
+96 
+97 
+98 
+99 
+100 
+101 
+102 
+103 
+104 
+105 
+106 
+107 
+108 
+109 
+110 
+111 
+112 
+113 
+114 
+115 
+116 
+117 
+118 
+  3.3.2. Transaction-Broker. If the Transaction-Brokerage box at the top of page 1 is checked, or in the event 
+neither box is checked, Broker will work with Landlord as a Transaction-Broker. A Transaction-Broker will perform the 
+duties described in § 4 and facilitate lease transactions withou t being an advocate or agent for either party. If Landlord and 
+tenant are working with the same broker, Broker will continue to function as a Transaction-Broker. 
+4. BROKERAGE DUTIES. Broker, on behalf of Brokerage Firm as either a Transaction-Broker or a Landlord’s Agent, 
+will perform the following Uniform Duties when working with Landlord:
+ 4.1. Broker will exercise reasonable skill and care for Landlord, including, but not limited to the following:
+  4.1.1. Performing the terms of any written or oral agreement with Landlord;
+  4.1.2. Presenting all offers to and from Landlord in a timely manner regardless of whether the Property is 
+subject to a Lease or letter of intent to Lease;
+  4.1.3. Disclosing to Landlord adverse material facts actually known by Broker; 
+  4.1.4. Advising Landlord regarding the transaction and advising Landlord to obtain expert advice as to 
+material matters about which Broker knows but the specifics of which are beyond the expertise of Broker; 
+  4.1.5. Accounting in a timely manner for all money and property received; and 
+  4.1.6. Keeping Landlord fully informed regarding the transaction.
+ 4.2. Broker shall not disclose the following information without the informed consent of Landlord: 
+  4.2.1. That Landlord is willing to accept less than the asking lease rate for the Property;
+  4.2.2. What Landlord’s motivating factors are to lease the Property; 
+  4.2.3. That Landlord will agree to lease terms other than those offered;
+  4.2.4. Any material information about Landlord unless disc losure is required by law or failure to disclose 
+such information would constitute fraud or dishonest dealing; or 
+  4.2.5. Any facts or suspicions regarding circumstances that could psychologically impact or stigmatize the 
+Property.
+ 4.3. Landlord consents to Broker’s disclosure of Landlord’s confidential information to the supervising broker or 
+designee for the purpose of proper supervision, provided such supervising broker or designee will not further disclose such 
+information without consent of Landlord, or use such information to the detriment of Landlord.
+ 4.4. Brokerage Firm may have agreements with other landlords to market and lease their property. Broker may show 
+alternative properties not owned by Landlord to other prospective tenants and list competing properties for lease. 
+ 4.5. If all or a portion of the Property is subject to a lease,  or letter of intent to Lease, obtained by Broker, Broker 
+will not be obligated to seek additional offers to lease such portion of the Property. 
+ 4.6. Broker has no duty to conduct an independent inspection of the Property for the benefit of tenant and has no 
+duty to independently verify the accuracy or completeness of statements made by Landlord or independent inspectors.
+ 4.7. Landlord understands that Landlord is not liable for Broker’s acts or omissions that have not been approved, 
+directed, or ratified by Landlord.  
+5. ADDITIONAL DUTIES OF LANDLORD’S AGENT.  If the Landlord Agency box is checked, Broker is 
+Landlord’s Agent, with the following additional duties: 
+5.1. Promoting the interests of Landlord with the utmost good faith, loyalty, and fidelity. 
+5.2. Seeking rental rates and terms that are acceptable to Landlord. 
+5.3. Counseling Landlord as to any material benefits or risks of a transaction that are actually known to Broker. 
+6. MATERIAL DEFECTS, DISCLOSURES AND INSPECTION.
+ 6.1. Broker’s Obligations.  Colorado law requires a broker to disclose to any prospective tenant all adverse material 
+facts actually known by such broker including but not limited to adverse material facts pertaining to the title to the Property, 
+the physical condition of the Pr operty, any material defects in the Property,  and any environmental hazards affecting the 
+Property required by law to be disclosed. These types of disc losures may include such matters as structural defects, soil 
+conditions, violations of health, zoning or building laws, a nd nonconforming uses and zoning variances.  Landlord agrees 
+that any tenant may have the Property and Inclusions inspected and authorizes Broker to disclose any facts actually known 
+by Broker about the Property. Broker is not obligated to conduc t an independent investigation of the tenant’s financial 
+condition except as otherwise provided in the Agreement. 
+6.1.1. Required Information to County Assessor. Landlord consents that Broker may supply certain 
+information to the county assessor if the Property is residential and is furnished. 
+6.2. Landlord’s Obligations. 
+6.2.1. Landlord’s Property Disclosure Form.  A landlord is not required by law to provide any particular 
+disclosure form.  However, disclosure of known material latent (not obvious) defects is required by law.  Landlord 
+Agrees  Does Not Agree to provide on or before tenant signs the lease, a written disclosure of adverse matters 
+regarding the Property completed to the best of Landlord’s current, actual knowledge. Colorado law may require Landlord 
+to disclose certain facts regardless of whether Landlord provides a written disclosure. 
+  6.2.2. Lead-Based Paint. Unless exempt, if the improvements on the Property include one or more 
+residential dwellings for which a building permit was issued prior to January 1, 1978, a completed Lead-Based Paint 
+BDA55-6-23. BROKERAGE DUTIES ADDENDUM Page 2 of 3 
+  
+   
+ 
+   
+  
+  
+  
+    
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+    
+   
+ 
+ 
+   
+ 
+  
+ 
+119 
+120 
+121 
+122 
+123 
+124 
+125 
+126 
+127 
+128 
+129 
+130 
+131 
+132 
+133 
+134 
+135 
+136 
+137 
+138 
+139 
+140 
+141 
+142 
+143 
+144 
+145 
+146 
+147 
+Disclosure (Rental) form must be signed by Landlord and the real estate licensees and given to any potential tenant in a timely 
+manner.
+  6.2.3. Carbon Monoxide Alarms. Landlord acknowledges that, unless exempt, if the Property includes one 
+or more rooms lawfully used for sleeping purposes (Bedroom), an operational carbon monoxide alarm must be installed 
+within fifteen feet of the entrance to each Bedroom or in a location as re quired by the applicable building code, prior to 
+offering the Property for sale or lease. 
+6.2.4.  Radon. Landlord acknowledges the obligation pursua nt to 38-12-803, C.R. S. to provide written 
+disclosure of information regarding the presence of radon to the Tenant of a residential property. The disclosure must include 
+the warning statement as detailed in 38-12-803, C.R.S., a copy of the most recent radon brochure published by the Colorado 
+Department of Public Health and Environment, and disclosure of any knowledge (to include records and reports) Landlord 
+has regarding radon testing, radon concentrations, radon mitigation or remediation measures, and any radon mitigation system 
+installed in the property.  Tenant must sign the disclosure to acknowledge receipt thereof. 
+7. ADDITIONAL AMENDMENTS: 
+Date: Date: 
+Landlord Landlord 
+Date: 
+Broker 
+Brokerage Firm’s Name: 
+BDA55-6-23. BROKERAGE DUTIES ADDENDUM Page 3 of 3 

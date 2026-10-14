@@ -1,0 +1,117 @@
+DEFINITIONS.
+ The following definitions are applicable to these standard terms and conditions:
+The term “Buyer” or “State” shall refer to the Government of the State of Maine or a person representing the Government of the State of Maine.
+The term “Department” or “DAFS” shall refer to the State of Maine Department of Administrative and Financial Services.
+The term “Bureau” or “BGS” shall refer to the State of Maine Bureau of General Services.
+The term “OSPS” shall refer to the State of Maine Office of State Procurement Services.
+The term “Provider” shall refer to the organization that is providing goods and/or services through the contract to which these standard terms and conditions have been attached and incorporated.
+The term “Contract” shall refer to the contract document to which these standard terms and conditions apply, taking the format of a Buyer Purchase Order (BPO) or Master Agreement (MA) or other contractual document that is mutually agreed upon between the State and the Provider.
+WARRANTY
+.  The Provider warrants the following:
+a.  
+That all goods and services to be supplied by it under this Contract are fit and sufficient for the purpose intended, and
+b.  
+That all goods and services covered by this Contract will conform to the specifications, drawing samples, symbols or other description specified by OSPS, and
+c.  
+That such articles are merchantable, good quality, and free from defects whether patent or latent in material and workmanship, and
+d.  
+That all workmanship, materials, and articles to be provided are of the best grade and quality, and
+e.  
+That it has good and clear title to all articles to be supplied by it and the same are free and clear from all liens, encumbrances and security interest.
+Neither the final certificate of payment nor any provision herein, nor partial nor entire use of the articles provided shall constitute an acceptance of work not done in accordance with this agreement or relieve the Provider liability in respect of any warranties or responsibility for faulty material or workmanship. The Provider shall remedy any defects in the work and pay any damage to other work resulting therefrom, which shall appear within one year from the date of final acceptance of the work provided hereunder. OSPS shall give written notice of observed defects with reasonable promptness.
+TAXES.
+ 
+Provider agrees that, unless otherwise indicated in the order, the prices herein do not include federal, state, or local sales or use tax from which an exemption is available for purposes of this order. Provider agrees to accept and use tax exemption certificates when supplied by OSPS as applicable. In case it shall ever be determined that any tax included in the prices herein was not required to be paid by Provider, Provider agrees to notify OSPS and to make prompt application for the refund thereof, to take all proper steps to procure the same and when received to pay the same to OSPS.
+PACKING AND SHIPMENT. 
+Deliveries shall be made as specified without charge for boxing, carting, or storage, unless otherwise specified. Articles shall be suitably packed to secure lowest transportation cost and to conform to the requirements of common carriers and any applicable specifications. Order numbers and symbols must be plainly marked on all invoices, packages, bills of lading, and shipping orders. Bill of lading should accompany each invoice. Count or weight shall be final and conclusive on shipments not accompanied by packing lists.
+DELIVERY.
+ 
+Delivery should be strictly in accordance with delivery schedule. If Provider's deliveries fail to meet such schedule, OSPS, without limiting its other remedies, may direct expedited routing and the difference between the expedited routing and the order routing costs shall be paid by the Provider. Articles fabricated beyond OSPS’s releases are at Provider’s risk. Provider shall not make material commitments or production arrangements in excess of the amount or in advance of the time necessary to meet delivery schedule, and, unless otherwise specified herein, no deliveries shall be made in advance of OSPSO’s delivery schedule. Neither party shall be liable for excess costs of deliveries or defaults due to the causes beyond its control and without its fault or negligence, provided, however, that when the Provider has reason to believe that the deliveries will not be made as scheduled, written notice setting forth the cause of the anticipated delay will be given immediately to OSPS. If the Provider’s delay or default is caused by the delay or default of a subcontractor, such delay or default shall be excusable only if it arose out of causes beyond the control of both Provider and subcontractor and without fault of negligence or either of them and the articles or services to be furnished were not obtainable from other sources in sufficient time to permit Provider to meet the required delivery schedule.
+FORCE MAJEURE. 
+ 
+The performance of an obligation by either party shall be excused in the event that performance of that obligation is prevented by an act of God, act of war, riot, fire, explosion, flood or other catastrophe, sabotage, severe shortage of fuel, power or raw materials, change in law, court order, national defense requirement, or strike or labor dispute, provided that any such event and the delay caused thereby is beyond the control of, and could not reasonably be avoided by, that party.
+INSPECTION.
+ All articles and work will be subject to final inspection and approval after delivery, notwithstanding prior payment, it being expressly agreed that payment will not constitute final acceptance. OSPS, at its option, may either reject any article or work not in conformity with the requirements and terms of this order, or re-work the same at Provider’s expense. OSPS may reject the entire shipment where it consists of a quantity of similar articles and sample inspection discloses that ten (10%) percent of the articles inspected are defective, unless Provider agrees to reimburse OSPS for the cost of a complete inspection of the articles included in such shipment. Rejected material may be returned at Provider’s risk and expense at the full invoice price plus applicable incoming transportation charges, if any. No replacement of defective articles of work shall be made unless specified by OSPS.
+INVOICE.
+ The original and duplicate invoices covering each and every shipment made against this order showing Contract number, Vendor number, and other essential particulars, must be forwarded promptly to the ordering agency concerned by the Vendor to whom the order is issued. Delays in receiving invoice, and any errors or omissions on statements, will be considered just cause for withholding settlement without losing discount privileges. All accounts are to be carried in the name of the agency or institution receiving the goods, and not in the name of OSPS.
+MODIFICATIONS.
+ OSPS reserves the right to increase or decrease all or any portion of the work and the articles required by the bidding documents or this agreements, or to eliminate all or any portion of such work or articles or to change delivery date hereon without invalidating this Contract. All such modification shall be in writing. If any such modification are made, the Contract amount or amounts shall be adjusted accordingly. In no event shall Provider fail or refuse to continue the performance of the work in providing of articles under this Agreement because of the inability of the parties to agree on an adjustment or adjustments.
+TERMINATION.
+ OSPS may terminate the whole or any part of this Agreement in any one of the following circumstances:
+a. The Provider fails to make delivery of articles, or to perform services within the time or times specified herein, or
+b. If Provider fails to deliver specified materials or services, or
+c. If Provider fails to perform any of the provisions of this Agreement, or
+d. If Provider so fails to make progress as to endanger the performance of this Agreement in accordance with its terms, or
+e. If Provider is adjudged bankrupt, or if it makes a general assignment for the benefit of its creditors or if a receiver is appointed on account of its insolvency, or
+f.
+Whenever for any reason the State shall determine that such termination is in the best interest of the State to do so.
+In the event that OSPS terminates this Agreement in whole or in part, pursuant to this paragraph with the exception of (f), OSPS may procure (articles and services similar to those so terminated) upon such terms and in such manner as OSPS deems appropriate, and Provider shall be liable to OSPS for any excess cost of such similar articles or services.
+NON-APPROPRIATION.
+ Notwithstanding any other provision of this Contract, if the State does not receive sufficient State, Federal, or other sources of funds to fund this Contract and other obligations of the State, if funds are de-appropriated, or if the State does not receive legal authority to expend funds from State or Federal legislative, executive or judicial bodies, then the State is not obligated to make payment under this Contract.
+ 
+GOVERNMENTAL REQUIREMENTS
+. The Provider warrants and represents that it will comply with all applicable governmental ordinances, laws and regulations. 
+GOVERNING LAW
+. This Contract shall be governed in all respects by the laws, statutes, and regulations of the United States of America and of the State of Maine. Any legal proceeding against the State regarding this Contract shall be brought in the State of Maine administrative or judicial forums. The Provider consents to personal jurisdiction in the State of Maine.
+DISPUTES.
+ OSPS will decide any and all questions which may arise as to the quality and acceptability of articles provided and installation of such articles, and as to the manner of performance and rate of progress under this Contract. OSPS will decide all questions, which may arise as to the interpretation of the terms of this Agreement and the fulfillment of this Agreement on the part of the Provider.
+SUBLETTING, ASSIGNMENT OR TRANSFER.
+ 
+The Provider shall not sublet, sell, transfer, assign or otherwise dispose of this Contract or any portion thereof, or of its right, title or interest therein, without the written request and written approval from the Department.  Such approval shall not in any case relieve the Provider of its responsibility for performance of work or liability under this Contract.
+STATE HELD HARMLESS.
+ The Provider shall indemnify and hold harmless the Department and its officers, agents, and employees from and against any and all third party claims, liabilities, and costs, including reasonable attorney fees, for any or all injuries to persons or property or claims for money damages, including claims for violation of intellectual property rights, arising from the negligent acts or omissions of the Provider, its employees or agents, officers or Subcontractors in the performance of work under this Agreement; provided, however, the Provider shall not be liable for claims arising out of the negligent acts or omissions of the Department, or for actions taken in reasonable reliance on written instructions of the Department.
+NON-COLLUSION. 
+The Provider warrants that it has not employed or contracted with any company or person, other than for assistance with the normal study and preparation of a proposal, to solicit or secure this Contract, and that it has not paid, or agreed to pay, any company or person, other than a bona fide employee working solely for the Provider, any fee, commission, percentage, brokerage fee, gifts, or any other consideration, contingent upon, or resulting from, the award of this Contract.
+  
+And, the Provider has not entered into a prior understanding, agreement, or connection with any corporation, firm, or person submitting a response for the same materials, supplies, equipment, or services, and this proposal is in all respects fair and without collusion or fraud. The above-mentioned entities understand and agree that collusive bidding is a violation of state and federal law and can result in fines, prison sentences, and civil damage awards.
+For breach or violation of this provision, the Department shall have the right to terminate this Contract without liability or, at its discretion, to otherwise recover the full amount of such fee, commission, percentage, brokerage fee, gift, or contingent fee.
+MATERIAL SAFETY: 
+All manufacturers, importers, suppliers, or distributors of hazardous chemicals doing business in this State must provide a copy of the current Material Safety Data Sheet (MSDS) for any hazardous chemical to their direct purchasers of that chemical.
+ORDER OF PRECEDENCE
+.
+ In the event of a conflict between the documents comprising this Agreement, the Order of Precedence shall be: 
+   
+a. Exceptions - If applicable 
+b. General Terms & Conditions for Goods and/or Services under Buyer Purchase Orders
+    and Master Agreements  
+     c. Scope of Work - If applicable
+     d. Vender Agreement - Included at Department's Discretion 
+     e. Other - Included at Department's Discretion 
+CYBERSECURITY AND PROHIBITED TECHNOLOGIES. 
+The Provider certifies to the best of Provider’s knowledge and belief that the aforementioned organization, its principals and any subcontractors named in this Contract:
+is not a foreign adversary business entity, 
+https://www.maine.gov/oit/prohibited-technologies
+,  
+ 
+Title 5 MRSA §2021 (3)
+; and
+is not on the list of prohibited companies or does not obtain or purchase any information or communications technology or services included on the list of prohibited information and communications technology and services 
+https://www.maine.gov/oit/prohibited-technologies
+, 
+Title 5 MRSA §2030-B.
+Contracts entered into by a state agency in violation of 
+Title 5 M.R.S. §2030-B
+ are void. A person who knowingly signs this contract, in violation of this section, commits a civil violation for which a fine may be adjudged in an amount that is twice the amount of this contract or $250,000, whichever is greater, 
+Title 5 MRSA §2030-A
+.
+TARIFFS
+. 
+Any price increases implemented by the provider due to the imposition of tariffs shall remain in effect only for the duration that such tariffs are in place. In the event of the repeal or reduction of any applicable tariff(s), the provider shall immediately return to the original price list or make a proportional reduction in the price to reflect the decrease in tariff(s). Price adjustments under this clause shall be made in good faith and without undue delay upon confirmation via documents reflecting tariff changes.
+STATE OF MAINE | GENERAL TERMS & CONDITIONS
+REV 4/23/2025
+Page 
+4
+ of 
+5
+STATE OF MAINE
+GENERAL TERMS AND CONDITIONS
+ 
+FOR GOODS AND/OR SERVICES UNDER 
+BUYER PURCHASE ORDERS (BPOs) AND MASTER AGREEMENTS (MAs)
+REV 4/
+23
+/2025 
+Page 
+1
+ of 
+5

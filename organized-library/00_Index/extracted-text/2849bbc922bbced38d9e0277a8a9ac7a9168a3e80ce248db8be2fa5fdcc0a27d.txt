@@ -1,0 +1,730 @@
+           
+                   
+   
+  
+              
+           
+  
+  
+   
+ 
+  
+             
+         
+            
+              
+          
+  
+         
+         
+            
+       
+  
+  
+  
+       
+       
+  
+        
+        
+                                   
+                      
+            
+                                
+                                                                                    
+        
+             
+                                          
+  
+         
+            
+                
+     
+         
+              
+              
+                      
+                  
+    
+                       
+               
+               
+            
+                      
+                    
+                  
+                   
+     
+             
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+The printed portions of this form, except differentiated additions, have been approved by the Colorado Real Estate Commission. 
+(TD74-8-10) (Mandatory 1-11) 
+IF THIS FORM IS USED IN A CONSUMER CREDIT TRANSACTION, CONSULT LEGAL COUNSEL. 
+THIS IS A LEGAL INSTR UMENT. IF NOT UNDERSTOOD, LEGAL, TAX OR OTHER COUNSEL SHOULD BE CONSULTED 
+BEFORE SIGNING. 
+DEED OF TRUST 
+(Assumable – Not Due on Transfer) 
+THIS DEED OF TRUST is made this  day of , 20 , between
+ (Borrower), whose address is ; 
+and the Public Trustee of the C ounty in which the Property (see § 1) is situated (Trustee); for the benefit of 
+(Lender), whose address is 
+. 
+Borrower and Lender covenant and agree as follows: 
+1. Property in Trust.   Borrower, in consideration of the indebte dness herein recited and the trust herein created, hereby 
+grants and conveys to Trustee in trust, with power of sale, the following legally described property located in the 
+County of , State of Colorado: 
+known as No.  (Property Address), 
+Street Address City State Zip 
+together with all its appurtenances (Property). 
+2. Note: Other Obligations Secured.   This Deed of Trust is given to secure to Lender: 
+2.1. the repayment of the indebtedness evidenced by Borrower’s note (Note) dated  in the 
+principal sum of  Dollars (U.S. $ ), 
+with interest on the unpaid principal balance from  until paid, at the rate of percent per 
+annum, with principal and interest payable at 
+or such other place as Lender may d esignate, in  payments of 
+Dollars (U.S. $ ), due on the  day of each  beginning ; such 
+payments to co ntinue until the entire indeb tedness evi denced by s aid Note  is fully  paid; however, if not sooner paid, the entire 
+principal amount outstanding and accrued interest thereon shall be due and payable on ; and 
+Borrower is to pay to Lender a late charge of % of any payment not received by Lender within  days after payment 
+is due; and Borrower has the right to prepay the principal amount outstanding under said Note, in wholeor in part, at any time without 
+penalty except ; 
+2.2. the payment of all other sums, with interest thereon  at % per annum, disbursed by Lender in accordance 
+with this Deed of Trust to protect the security of this Deed of Trust; and 
+2.3. the performance of the covenants and agreements of Borrower herein contained. 
+3. Title. Borrower covenants that Borrower  owns and has the right to grant and convey the Property, and warrants title to 
+the same, subject to general real estate taxes for the current year, easements of record or in existence, and recorded declarations, 
+restrictions, reservations and covenants, i f any, as of this date; and subject to . 
+4. Payment of Principal and Interest. Borrower shall promptly pay when due the principal of and interest on the 
+indebtedness evidenced by the Note, and late charges as provided in the Note and shall perform all o f Borrower’s other covenants 
+contained in the Note. 
+5. Application of Payments. All payments received by Lender under the terms hereof shall be applied by Lender first in 
+payment of amounts due pursuant to § 23 (Escrow Funds for Taxes and Insurance), then to amounts disbursed by Lender pursuant 
+to § 9 (Protection of Lender’s Security), and the balance in accordance with the terms and conditions of the Note. 
+6. Prior Mortgages and Deeds of Trust; Charges; Liens.   Borrower shall perform all of Borrower’s o bligations under 
+any prior deed of trust and any other prior liens. Borrower shall pay all taxes, assessments and other charges, fines and impositions 
+attributable to the Property which may have or attain a priority over this Deed of Trust, and leasehold p ayments or ground rents, if 
+any, in the manner set out in § 23 (Escrow Funds for Taxes and Insurance) or, if not required to be paid in such manner, by 
+Borrower making payment when due, directly to the payee thereof. Despite the foregoing, Borrower shall n ot be required to make 
+payments otherwise required by this section if Borrower, after notice to Lender, shall in good faith contest such obligation by, or 
+defend enforcement of such obligation in, legal proceedings which operate to prevent the enforcement of the obligation or 
+TD74-8-10.   DEED OF TRUST (Assumable – Not Due on Transfer) Page 1 of 5 
+           
+                    
+          
+                    
+                    
+                  
+              
+            
+                 
+                       
+                 
+           
+                       
+    
+                 
+                  
+                  
+                      
+                      
+                      
+              
+                        
+                  
+                
+                
+                       
+           
+                     
+                    
+                     
+                        
+               
+        
+                 
+                          
+                    
+                       
+  
+                   
+     
+            
+     
+                 
+           
+                      
+           
+                  
+                  
+                       
+  
+                   
+                     
+                
+               
+                     
+                 
+  
+                 
+                   
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+forfeiture of the Property or any part thereof, only upon Borrower making all such contested payments and other payments as 
+ordered by the court to the registry of the court in which such proceedings are filed. 
+7. Property Insurance. Borrower shall keep the improvements now existing or hereafter erected on the Property insured 
+against loss by fire or hazards included within the term “extended coverage” in an amount at least equal to the lesser of (a) the 
+insurable value of the Propert y or (b) an amount sufficient to pay the sums secured by this Deed of Trust as well as any prior 
+encumbrances on the Property. All of the foregoing shall be known as “Property Insurance.” 
+The insurance carrier providing the insurance shall be qualified to  write Property Insurance in Colorado and shall be chosen 
+by Borrower subject to Lender’s right to reject the chosen carrier for reasonable cause. All insurance policies and renewals thereof 
+shall include a standard mortgage clause in favor of Lender, and shall provide that the insurance carrier shall notify Lender at least 
+ten (10) days before cancellation, termination or any material change of coverage. Insurance policies shall be furnished to Lender 
+at or before closing. Lender shall have the right to ho ld the policies and renewals thereof. 
+In the event of loss, Borrower shall give prompt notice to the insurance carrier and Lender. Lender may make proof of loss if 
+not made promptly by Borrower. 
+Insurance proceeds shall be applied to restoration or repair of the Property damaged, provided said restoration or repair is 
+economically feasible and the security of this Deed of Trust is not thereby impaired. If such restoration or repair is not 
+economically feasible or if the security of this Deed of Trust woul d be impaired, the insurance proceeds shall be applied to the 
+sums secured by this Deed of Trust, with the excess, if any, paid to Borrower. If the Property is abandoned by Borrower, or if 
+Borrower fails to respond to Lender within 30 days from the date no tice is given in accordance with § 16 (Notice) by Lender to 
+Borrower that the insurance carrier offers to settle a claim for insurance benefits, Lender is authorized to collect and apply the 
+insurance proceeds, at Lender’s option, either to restoration or repair of the Property or to the sums secured by this Deed of Trust. 
+Any such application of proceeds to principal shall not extend or postpone the due date of the installments referred to in §§ 4 
+(Payment of Principal and Interest) and 23 (Escrow Funds f or Taxes and Insurance) or change the amount of such installments. 
+Notwithstanding anything herein to the contrary, if under § 18 (Acceleration; Foreclosure; Other Remedies) the Property is 
+acquired by Lender, all right, title and interest of Borrower in a nd to any insurance policies and in and to the proceeds thereof 
+resulting from damage to the Property prior to the sale or acquisition shall pass to Lender to the extent of the sums secured by this 
+Deed of Trust immediately prior to such sale or acquisitio n. 
+All of the rights of Borrower and Lender hereunder with respect to insurance carriers, insurance policies and insurance proceeds 
+are subject to the rights of any holder of a prior deed of trust with respect to said insurance carriers, policies and proceeds. 
+8. Preservation and Maintenance of Property. Borrower shall keep the Property in good repair and shall not commit 
+waste or permit impairment or deterioration of the Property and shall comply with the provisions of any lease if this Deed of Trust 
+is on a leasehold. Borrower shall perform all of Borrower’s obligations under any declarations, covenants, by -laws, rules, or other 
+documents governing the use, ownership or occupancy of the Property. 
+9. Protection of Lender’s Security. Except when Borrower has exercised Borrower’s rights under § 6 above, if 
+Borrower fails to perform the covenants and agreements contained in this Deed of Trust, or if a default occurs in a prior lien, or if 
+any action or proceeding is commenced which materially affects Lende r’s interest in the Property, then Lender, at Lender’s option, 
+with notice to Borrower if required by law, may make such appearances, disburse such sums and take such action as is necessary 
+to protect Lender’s interest, including, but not limited to: 
+9.1. any general or special taxes or ditch or water assessments levied or accruing against the Property; 
+9.2. the premiums on any insurance necessary to protect any improvements comprising a part of the Property; 
+9.3. sums due on any prior lien or encumbr ance on the Property; 
+9.4. if the Property is a leasehold or is subject to a lease, all sums due under such lease; 
+9.5. the reasonable costs and expenses of defending, protecting, and maintaining the Property and Lender’s interest in 
+the Property, incl uding repair and maintenance costs and expenses, costs and expenses of protecting and securing the Property, 
+receiver’s fees and expenses, inspection fees, appraisal fees, court costs, attorney fees and costs, and fees and costs of an attorney 
+in the employment of Lender or holder of the certificate of purchase; 
+9.6. all other costs and expenses allowable by the evidence of debt or this Deed of Trust; and 
+9.7. such other costs and expenses which may be authorized by a court of competent jurisdiction. 
+Borrower hereby assigns to Lender any right Borrower may have by reason of any prior encumbrance on the Property or by 
+law or otherwise to cure any default under said prior encumbrance. 
+Any amounts disbursed by Lender pursuant to this § 9, with interest thereon, shall become additional indebtedness of 
+Borrower secured by this Deed of Trust. Such amounts shall be payable upon notice from Lender to Borrower requesting payment 
+thereof, and Lender may bring suit to collect any amounts so disbursed plus interest specified in § 2.2 (Note: Other Obligations 
+Secured). Nothing contained in this § 9 shall require Lender to incur any expense or take any action hereunder. 
+10. Inspection. Lender may make or cause to be made reasonable entries upon and inspection of th e Property, provided 
+that Lender shall give Borrower notice prior to any such inspection specifying reasonable cause therefore related to Lender’s 
+interest in the Property. 
+11. Condemnation. The proceeds of any award or claim for damages, direct or consequential, in connection with any 
+condemnation or other taking of the Property, or part thereof, or for conveyance in lieu of condemnation, are hereby assigned and 
+TD74-8-10.   DEED OF TRUST (Assumable – Not Due on Transfer) Page 2 of 5 
+           
+                 
+             
+                            
+                         
+                     
+                    
+                       
+                          
+       
+                 
+                    
+            
+      
+                        
+                   
+                      
+                      
+                  
+              
+                    
+   
+                   
+                
+                   
+                 
+  
+               
+                 
+                   
+            
+                      
+                       
+                
+              
+                   
+                    
+                    
+                        
+                     
+                        
+          
+             
+                    
+                    
+                        
+                
+  
+                     
+                 
+                     
+                    
+                      
+                      
+                 
+            
+                        
+              
+                  
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+shall be paid to Lender as herein provided. However, all of the rights of Borrower and Lender  h e r e u n d e r  wi t h  r e s p e c t  t o  s u c h 
+proceeds are subject to the rights of any holder of a prior deed of trust. 
+In the event of a total taking of the Property, the proceeds shall be applied to the sums secured by this Deed of Trust, with the 
+excess, if any, pa id to Borrower. In the event of a partial taking of the Property, the proceeds remaining after taking out any part of 
+the award due any prior lien holder (net award) shall be divided between Lender and Borrower, in the same ratio as the amount of 
+the sums secured by this Deed of Trust immediately prior to the date of taking bears to Borrower’s equity in the Property 
+immediately prior to the date of taking. Borrower’s equity in the Property means the fair market value of the Property less the 
+amount of sums secured by both this Deed of Trust and all prior liens (except taxes) that are to receive any of the award, all at the 
+value immediately prior to the date of taking. 
+If the Property is abandoned by Borrower or if, after notice by Lender to Borrower that t he condemnor offers to make an 
+award or settle a claim for damages, Borrower fails to respond to Lender within 30 days after the date such notice is given, Lender 
+is authorized to collect and apply the proceeds, at Lender’s option, either to restoration or  repair of the Property or to the sums 
+secured by this Deed of Trust. 
+Any such application of proceeds to principal shall not extend or postpone the due date of the installments referred to in §§ 4 
+(Payment of Principal and Interest) and 23 (Escrow Funds for Taxes and Insurance) nor change the amount of such installments. 
+12. Borrower not Released. Extension of the time for payment or modification of amortization of the sums secured by 
+this Deed of Trust granted by Lender to any successor in interest of Borrower shall not operate to release, in any manner, the 
+liability of the original Borrower, nor Borrower’s successors in interest, from the original terms of this Deed of Trust. Lender shall 
+not be required to commence proceedings against such successor or refuse to extend time for payment or otherwise modify 
+amortization of the sums secured by this Deed of Trust by reason of any demand made by the original Borrower nor Borrower’s 
+successors in interest. 
+13. Forbearance by Lender Not a Waiver.  Any forbe arance by Lender in exercising any right or remedy hereunder, or 
+otherwise afforded by law, shall not be a waiver or preclude the exercise of any such right or remedy. 
+14. Remedies Cumulative. Each remedy provided in the Note and this Deed of Trust is di stinct from and cumulative to all 
+other rights or remedies under the Note and this Deed of Trust or afforded by law or equity, and may be exercised concurrently, 
+independently or successively. 
+15. Successors and Assigns Bound; Joint and Several Liability;  C a p t i o n s . The covenants and agreements herein 
+contained shall bind, and the rights hereunder shall inure to, the respective successors and assigns of Lender and Borrower. All 
+covenants and agreements of Borrower shall be joint and several. The captions a nd headings of the sections in this Deed of Trust 
+are for convenience only and are not to be used to interpret or define the provisions hereof. 
+16. Notice. Except for any notice required by law to be given in another manner, (a) any notice to Borrower pr ovided for 
+in this Deed of Trust shall be in writing and shall be given and be effective upon (1) delivery to Borrower or (2) mailing such 
+notice by first class U.S. mail, addressed to Borrower at Borrower’s address stated herein or at such other address a s Borrower may 
+designate by notice to Lender as provided herein, and (b) any notice to Lender shall be in writing and shall be given and be 
+effective upon (1) delivery to Lender or (2) mailing such notice by first class U.S. mail, to Lender’s address state d herein or to 
+such other address as Lender may designate by notice to Borrower as provided herein. Any notice provided for in this Deed of 
+Trust shall be deemed to have been given to Borrower or Lender when given in any manner designated herein. 
+17. Governing Law; Severability. The Note and this Deed of Trust shall be governed by the law of Colorado. In the 
+event that any provision or clause of this Deed of Trust or the Note conflicts with the law, such conflict shall not affect other 
+provisions of this Deed of Trust or the Note which can be given effect without the conflicting provision, and to this end the 
+provisions of the Deed of Trust and Note are declared to be severable. 
+18. Acceleration; Foreclosure; Other Remedies. Upon Borrower’s breach of any  covenant or agreement of Borrower in 
+this Deed of Trust, or upon any default in a prior lien upon the Property, (unless Borrower has exercised Borrower’s rights under 
+§ 6 above), at Lender’s option, all of the sums secured by this Deed of Trust shall be i mmediately due and payable (Acceleration). 
+To exercise this option, Lender may invoke the power of sale and any other remedies permitted by law. Lender shall be entitled to 
+collect all reasonable costs and expenses incurred in pursuing the remedies provide d in this Deed of Trust, including, but not 
+limited to, reasonable attorney’s fees. 
+If Lender invokes the power of sale, Lender shall give written notice to Trustee of such election. Trustee shall give such notice 
+to Borrower of Borrower’s rights as is pr ovided by law. Trustee shall record a copy of such notice and shall cause publication of 
+the legal notice as required by law in a legal newspaper of general circulation in each county in which the Property is situated, and 
+shall mail copies of such notice of sale to Borrower and other persons as prescribed by law. After the lapse of such time as may be 
+required by law, Trustee, without demand on Borrower, shall sell the Property at public auction to the highest bidder for cash at the 
+time and place (which m ay be on the Property or any part thereof as permitted by law) in one or more parcels as Trustee may think 
+best and in such order as Trustee may determine. Lender or Lender’s designee may purchase the Property at any sale. It shall not 
+be obligatory upon the purchaser at any such sale to see to the application of the purchase money. 
+Trustee shall apply the proceeds of the sale in the following order: (a) to all reasonable costs and expenses of the sale, 
+including, but not limited to, reasonable Trustee’s a nd attorney’s fees and costs of title evidence; (b) to all sums secured by this 
+Deed of Trust; and (c) the excess, if any, to the person or persons legally entitled thereto. 
+TD74-8-10.   DEED OF TRUST (Assumable – Not Due on Transfer) Page 3 of 5 
+           
+ 19.  Borrower’s  Right  to  Cure  Default.   Whenever  foreclosure  is  commenced  for  nonpayment  of  any  sums  due hereunder,  
+the  owners  of  the  Property  or  parties  liable  hereon  shall be  entitled  to  cure  said  defaults  by  paying  all delinquent principal and  
+interest payments  due  as  of  the  date  of  cure, costs, expenses, late  charges, attorney’s  fees and  other  fees all  in  the  manner  provided  
+by law.  Upon  such  payment,  this  Deed  of  Trust  and  the  obligations  secured  hereby  shall  remain  in  full  force  and  effect  as  though  
+no Acceleration had occurred,  and the  foreclosure  proceedings  shall  be  discontinued.  
+ 20.  Assignment  of  Rents;  Appointment  of  Receiver;  Lender  in  Possession.   As  additional  security  hereunder,  Borrower  
+hereby assigns  to Lender  the  rents  of  the  Property;  however,  Borrower  shall,  prior  to Acceleration under  §  18 (Acceleration;  
+Foreclosure; Other Remedies) or abandonment of the Property, have the right to collect and retain such rents as they become due  
+and  payable.  
+ Lender  or  the  holder  of  the  Trustee’s  certificate  of  purchase  shall  be  entitled  to  a  receiver  for  the  Property  after  Acceleration  
+under  §  18 (Acceleration;  Foreclosure;  Other  Remedies),  and shall  also be  so entitled during the  time  covered by foreclosure  
+proceedings  and the  period of  redemption, if  any; and  shall be  entitled  thereto  as  a  matter  of  right without regard  to  the  solvency  or  
+insolvency  of  Borrower  or  of  the  then  owner  of  the  Property, and  without regard  to  the  value  thereof.  Such  receiver  may  be  
+appointed  by  any  Court  of  competent  jurisdiction  upon  ex  parte application  and  without  notice;  notice being  hereby  expressly  
+waived.  
+ Upon  Acceleration  under  §  18 (Acceleration;  Foreclosure;  Other  Remedies)  or  abandonment  of  the  Property,  Lender,  in 
+person,  by agent  or  by judicially -appointed  receiver,  shall  be entitled  to  enter  upon,  take possession  of  and  manage the Property  
+and to collect  the  rents  of  the  Property including those  past  due.  All  rents  collected  by  Lender  or  the  receiver  shall  be  applied,  first  
+to  payment of  the  costs  of  preservation  and  management of  the  Property, second  to  payments  due  upon  prior  liens, and  then to the  
+sums secured b y t his Deed o f  Trust.  Lender  and  the  receiver  shall  be  liable  to  account  only  for  those  rents  actually  received.  
+ 21.  Release.   Upon  payment  of  all  sums  secured  by  this  Deed  of  Trust,  Lender  shall  cause  Trustee  to  release  this  Deed  of 
+Trust  and  shall  produce  for  Trustee  the  Note.  Borrower  shall  pay  all  costs  of  recordation  and  shall  pay  the  statutory  Trustee’s  fees.  
+If  Lender shall  not  produce  the  Note  as  aforesaid,  then  Lender,  upon  notice  in  accordance  with  §  16 (Notice)  from  Borrower  to  
+Lender,  shall  obtain,  at  Lender’s  expense,  and  file  any  lost  instrument  bond  required  by  Trustee  or  pay  the  cost  thereof  to  effect  the  
+release  of t his D eed  of T rust.  
+ 22.  Waiver  of  Exemptions.   Borrower  hereby  waives  all  right  of  homestead  and  any  other  exemption in the  Property under  
+state  or  federal  law  presently e xisting o r  hereafter  enacted.  
+ 23.  Escrow  Funds  for  Taxes  and  Insurance.   This  §  23 is  not  applicable  if  Funds,  as  defined below,  are  being paid 
+pursuant  to a  prior  encumbrance.  Subject  to applicable law, Borrower shall pay to Lender, on each day installments of principal  and  
+interest are payable under the Note, until the Note is paid in full, a sum (herein referred to as “Funds”) equal to   of the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+yearly taxes  and assessments  which may attain  priority  over  this  Deed  of  Trust,  plus   of  yearly  premium  installments  for  
+Property  Insurance,  all  as  reasonably  estimated  initially  and  from  time  to  time  by  Lender  on  the  basis  of  assessments  and  bills  and  
+reasonable  estimates t hereof,  taking  into  account  any  excess  Funds  not  used  or  shortages.  
+ The  principal  of  the  Funds  shall  be  held  in  a  separate  account  by  Lender  in  trust  for  the  benefit  of  Borrower  and  deposited  in  
+an  institution,  the deposits  or  accounts  of  which  are insured  or  guaranteed  by  a federal  or  state agency.  Lender  shall  apply  the  
+Funds  to  pay  said  taxes,  assessments  and  insurance  premiums.  Lender  may  not  charge  for  so  holding  and  applying  the  Funds,  
+analyzing  said  account  or  verifying  and  compiling  said  assessments  and  bills.  Lender  shall  not  be required  to  pay  Borrower  any  
+interest or  earnings  on  the  Funds.  Lender  shall  give  to  Borrower,  without  charge,  an  annual  accounting  of  the  Funds  showing  
+credits  and  debits  to  the Funds  and  the purpose for  which  each  debit  to  the Funds  was  made.  The  Funds  are  pledged  as  additional  
+security f or  the  sums secured b y t his Deed o f  Trust.  
+ If  the  amount  of  the  Funds  held  by  Lender shall  not  be  sufficient  to  pay  taxes,  assessments  and  insurance  premiums  as  they  
+fall  due,  Borrower  shall  pay  to  Lender  any  amount  necessary  to  make up  the deficiency  within  30  days  from  the date notice is  
+given in accordance  with §  16 (Notice)  by Lender  to Borrower  requesting payment  thereof.  Provided  however,  if  the  loan  secured  
+by this  Deed of  Trust  is  subject  to RESPA  or  other  laws  regulating Escrow  Accounts,  such deficiency,  surplus  or  any other  
+required  adjustment  shall  be  paid,  credited  or adjusted  in  compliance  with  such  applicable  laws.   
+ Upon  payment  in  full  of  all  sums  secured  by  this  Deed  of  Trust,  Lender  shall  simultaneously  refund  to  Borrower  any  Funds  
+held by Lender.  If under §  18 (Acceleration;  Foreclosure;  Other  Remedies)  the  Property is  sold or  the  Property is  otherwise  acquired  
+by Lender,  Lender  shall  apply,  no later  than immediately prior  to the  sale  of  the  Property or  its  acquisition by Lender,  whichever  
+occurs  first,  any Funds  held by Lender  at  the  time  of  application as  a  credit  against  the  sums  secured by this  Deed of  Trust.  
+ 24.  Borrower’s  Copy.   Borrower  acknowledges  receipt  of  a  copy  of  the  Note  and  this Deed of Trust.  
+ 
+EXECUTED  BY  BORROWER.  
+IF  BORROWER  IS  NATURAL  PERSON(s):    
+   
+   
+   
+  doing business  as    
+    
+175
+180
+185
+190
+195
+200
+205
+210
+215
+220
+225
+174 
+176 
+177 
+178 
+179 
+181 
+182 
+183 
+184 
+186 
+187 
+188 
+189 
+191 
+192 
+193 
+194 
+196 
+197 
+198 
+199 
+201 
+202 
+203 
+204 
+206 
+207 
+208 
+209 
+211 
+212 
+213 
+214 
+216 
+217 
+218 
+219 
+221 
+222 
+223 
+224 
+TD74-8-10.   DEED OF TRUST (Assumable – Not Due on Transfer) Pa ge 4 of 5 
+           
+ 
+ 
+ 
+IF  BORROWER  IS  CORPORATION:    
+ATTEST:    
+  Name  of  Corporation  
+   
+  By    
+Secretary    President  
+(SEAL)    
+   
+IF  BORROWER  IS  PARTNERSHIP:    
+  Name  of  Partnership  
+   
+  By    
+   A General  Partner  
+   
+IF  BORROWER  IS  LIMITED  LIABILITY  COMPANY:     
+  Name  of  Limited  Liability  Company  
+   
+  By    
+   Its  Authorized  Representative  
+   
+   
+  Title  of  Authorized  Representative  
+   
+STATE  OF COLORADO 
+  COUNTY OF    
+ 
+The  foregoing  instrument  was  acknowledged  before  me  this   day of   , 20  , by  
+*  .  
+   
+  Witness  my  hand  and  official  seal.  
+  My  commission  expires:    
+  
+  
+  
+ 
+  Notary  Public  
+*If a   natural  person or pe rsons,  insert  the  name(s) o f such  person(s).  If  a  corporation,  insert,  for example,  “John  Doe  as  President  and  Jane  Doe  as  
+Secretary  of  Doe  &  Co.,  a  Colorado  corporation.”  If  a  partnership,  insert,  for  example,  “Sam  Smith  as  general  partner  in  and  for  Smith  &  Smith,  
+a general  partnership.” A   Statement  of A uthority  may  be re quired  if b orrower is a l  imited  liability  company  or  other  entity (§  38-30-172,  C.R.S.)   
+226 
+227 
+228 
+TD74-8-10.   DEED OF TRUST (Assumable – Not Due on Transfer) Pag e 5 of 5 

@@ -1,0 +1,1661 @@
+Contract for Goods 
+Template 
+Instructions
+Th
+is
+ template for Contracts for Goods and 
+r
+elated Services should be used 
+by State Agencies under DAS Authority and DAS State Procurement Services (DAS SPS) 
+when Contracting for Goods and 
+related 
+Services as defined under ORS 279B.
+DELETE
+ 
+this page and 
+all instructive comments prior to sending to DOJ and
+ 
+prior to sending 
+to the Contractor
+.
+ 
+General
+ Instructions
+:
+Use the track change feature when editing any text that is not highlighted. 
+Yellow highlighted areas 
+do not need to be done in track changes. 
+Use 
+one
+ font for consistency
+ according to your agency’s communication standard
+.
+Contract 
+For 
+(Goods)
+:
+ The Contract 
+t
+i
+t
+le should 
+match or
+ be 
+similar to
+ the Short Description in OregonBuys
+®
+, if 
+this c
+ontract will be uploaded in 
+OregonBuys
+®
+.
+Contract Number (No.):
+ The Contract 
+n
+umber should be the OregonBuys
+®
+ Master Blank Purchase Order Number, if 
+this c
+ontact will be uploaded in 
+OregonBuys
+®
+.
+Delete all instruction pages
+ and
+ yellow highlights
+ 
+before sending to manager or DOJ.
+ 
+Template Changes:
+Recitals
+: Recitals are optional. To remove the recital section, delete the word RECITALS, 
+delete
+ all lines 
+1
+, 
+2
+, and 
+3
+; and delete the word AGREEMENT.  Your Contract will move from the header paragraph to “The parties agree as follows:” (see example)
+This Contract for _______ (Goods) and related services (Contract) is between the State of Oregon, acting by and through its _____________________________ (Agency) and [
+legal name of contractor as registered with Oregon Secretary of State]
+,
+ a 
+__________
+]
+ (Contractor) and is effective on the Effective Date. Agency and Contractor are the parties to this Contract.
+The parties agree as follows:
+2.
+Exhibit B: 
+Insurance Requirements are mandatory. 
+DO NOT SKIP. 
+Agency 
+must
+ 
+conduct a risk assessment 
+pursuant to instructions set forth on DAS Risk Management website. 
+https://www.oregon.gov/das/risk/pages/index.aspx
+. 
+I
+nsert the appropriate insurance requirement template. 
+3.
+Information Technology (IT): 
+Review and assess 
+the intended purchase
+ for Information Technology (IT) software or 
+services
+ and
+ 
+d
+iscuss
+ concerns
+ with your agenc
+y’s
+ IT security group. 
+If your agency’s IT security group determines 
+there are
+ risk
+s
+ 
+related to IT software or services
+ to address as part of this transaction
+, please work with your DOJ partner 
+to identify 
+appropriate language
+.
+4.
+Alternate format and languages:
+ 
+Adding an alternate format and language clause is optional.
+ 
+If
+ 
+your Agency requires an alternate format and language clause, add your clause under 
+“
+Contract No.,
+”
+ and before the header paragraph. Below are two examples of clauses as well as a visual image of where 
+the clause should be placed within the Contract.
+This document can be provided upon request in an alternate format for individuals with disabilities or in a language other than English for people with limited English skills. To request this document in another format or language, contact [
+enter department and phone number
+] for TTY, or email: [
+enter email address for your agency
+]; 
+OR
+You can get this document in other languages, large print, braille, or a format you prefer free of charge. Contact the Contract Administrator at the contact information found in Section 31. [
+Agency
+] accepts all relay calls.
+STATE OF OREGON
+CONTRACT FOR
+______________
+(
+GOODS
+)
+CONTRACT NO
+.
+:
+ 
+_
+_________
+This Contract for _______ (Goods) and related services (Contract) is between the State of Oregon, acting by and through its _____________________________ (Agency) and 
+[
+legal name of contractor as registered with Oregon Secretary of State]
+,
+ a 
+[
+__________
+]
+ (Contractor) and is effective on the Effective Date. Agency and Contractor are the parties to this Contract.
+ RECITALS
+Agency needs to purchase the Goods and to obtain Services relating to the Goods as defined below (Services).
+On or about _
+______________
+, Agency issued 
+___________________,
+ and Contractor is the successful bidder.
+Contractor is willing to provide the Goods to and perform the related Services for Agency.
+AGREEMENT
+T
+he parties agree
+ 
+as follows
+:
+Definitions. 
+For the purposes of this Contract, the following 
+capitalized terms have the meanings below
+: 
+“Business Day
+s
+” means Monday through Friday, 8:00 am to 5:00 pm Pacific Time, excluding State of Oregon holidays
+ and business closure days
+.
+“Calendar Days” means contiguous days.
+“Effective Date” means the date this Contract has received all necessary approvals and is signed by the parties.
+“Services” means the warranty, maintenance and support services associated with the purchase of the Goods, including installation and training as more fully described in Exhibit A.
+Term.
+ 
+Th
+e Effective Date of this Contract is 
+_________
+, or the date this Contract is fully executed and approved
+ 
+according to applicable laws, rules and regulations, whichever is later. This Contract 
+terminates 
+on 
+____________ [date]
+,
+ unless 
+earlier extended or
+ 
+terminated in accordance with its terms
+.
+Contract Documents.
+ This Contract consists of the following doc
+uments, listed in 
+descending
+ 
+order of precedence
+:
+ 
+this Contract less all exhibits, 
+Exhibit A (
+Description of Goods and Related Services
+; Rates and Discounts
+);
+Exhibit B
+ (Insurance)
+The 
+exhibits 
+listed above 
+are incorporated into 
+this Contract.
+ 
+To the extent provisions contained in more than one of the 
+listed
+ 
+documents apply in any given situation, the parties agree: (i) to read such 
+provisions
+ together whenever possible to avoid conflict, and (ii) to apply the foregoing order of precedence only in the event of an irreconcilable conflict.
+  
+Ordering, 
+Delivery
+,
+ and Acceptance
+; Title
+.
+Order
+ and Delivery
+. 
+Agency 
+will 
+purchase
+ from 
+Contractor
+ 
+and Contractor shall sell to Agency 
+certain Goods and 
+relat
+ed
+ Servic
+e
+s, as more particularly described in Exhibit A
+.
+ 
+Contractor 
+shall 
+deliver the Goods
+ F.O.B.
+,
+ 
+Agency location
+, 
+or the location designated in Exhibit A, 
+with all transportation and handling charges paid by 
+Contractor
+.
+ 
+Contractor
+ shall ship the 
+Goods 
+no later than
+ the date set forth on 
+Exhibit A
+ or as otherwise agreed by 
+Contractor and Agency
+.
+Not Purchasing for Resale.
+ 
+Agency certifies that it is purchasing the Goods for its own use and not for 
+resale
+.
+ 
+Installation
+.
+ 
+Contractor shall deliver and install Goods as described in Exhibit A and shall provide any component(s) or part(s) necessary for proper installation and operation, even if such 
+components(s) and part(s)
+ are not specifically described in the exhibit or in any specifications. 
+Accept
+ance
+.
+Upon receipt 
+Agency 
+will 
+begin 
+inspection or
+ 
+testing of the Goods and installation of the Goods. Unless otherwise agreed, Agency 
+has
+ a 30 Calendar Day period 
+from the date installation is completed 
+to determine 
+if 
+the Goods meet or exceed the requirements of this Contract and all manufacturer’s specifications
+ (Acceptance Period)
+. 
+On or before the last date of
+ 
+the 
+Acceptance Period, Agency 
+will 
+notify Contractor in writing regarding whether the Goods have passed or failed acceptance 
+inspection or 
+test
+ing
+.
+ 
+If the Goods 
+meet criteria of
+ acceptance test
+ing
+, then Agency
+’s
+ 
+notif
+ication will be
+ of Agency’s acceptance of the Goods. If the Goods fail acceptance test
+ing
+, Agency shall give Contractor written notice of the rejection and 
+describe
+ the failures.
+In the event the Goods fail acceptance test
+(s)
+, Agency, at its sole option, may either (i) return the Goods to Contractor
+,
+ and Contractor shall provide a full refund including reimbursement of any shipping and handling charges
+ unless otherwise noted in Exhibit A
+; or (ii) allow Contractor a set period of time to 
+replace, 
+modify
+,
+ or repair the Goods, at no additional cost to Agency, to make the Goods conform to the requirements of this Contract and the manufacturer’s specifications.
+ 
+Following 
+replacement,
+ modifi
+cation, or repair,
+ Agency 
+will have
+ 
+a
+n additional
+ Acceptance Period
+. If the Goods fail the Acceptance Period a
+ second time
+, Agency 
+may exercise its options available under this Section 
+4
+.
+4
+.3, or
+ notify Contractor of its default under Section 
+1
+6
+.1
+ and pursue its available remedies
+.
+Title.
+ 
+Title for the 
+Goods
+ passes to Agency 
+upon acceptance of the Goods
+.
+Compensation
+.
+Not to Exceed Compensation
+. The maximum, not-to-exceed compensation payable to Contractor under this Contract, which includes any allowable expenses, is 
+$**
+*,*
+*
+*.*
+*.
+ Agency will not pay Contractor any amount 
+in excess of
+ the not-to-exceed compensation of this 
+Contract, and
+ will not pay for
+ Goods delivered 
+and related 
+Services performed before the Effective Date or after the expiration or termination of this Contract. If the maximum compensation is increased by amendment of this Contract, the amendment must be fully effective before Contractor 
+delivers Goods and 
+performs 
+any 
+related 
+Services subject to the amendment.
+ 
+Invoices.
+ 
+Following 
+Agency’s acceptance of the Goods, Contractor shall submit an invoice
+ 
+to Agency’s Contract Administrator for accepted Goods
+ 
+and 
+related 
+Services.
+ 
+The
+ invoice must describe all Goods delivered and 
+related 
+Services performed and 
+must detail
+ any
+ reimbursable expenses as pre-approved and described in Exhibit A
+.
+Payments.
+ 
+Following Agency’s
+ receipt of an accurate invoice for the Goods or Services as described in Exhibit A, Agency 
+will 
+pay Contractor the amounts set forth in the invoice within 45 Calendar Days of receipt. 
+Late fees. 
+Contractor may assess a late fee of up to a maximum rate of two-thirds of one percent per month (8% per annum) on 
+any
+ 
+outstanding balance.
+ 
+All payments are subject to ORS 293.462.
+Expenses.
+ Agency will not pay or reimburse any expenses incurred by Contractor
+,
+ except as authorized in this Contract and approved
+ in advance
+ by Agency.
+ 
+Any authorized travel expenses must comply with the Oregon Accounting Manual. 
+Funds Available and Authorized. 
+Contractor will not be compensated under this Contract by any agency or department of the State of Oregon other than Agency. Agency believes it has sufficient funds currently available and authorized for expenditure to make payments under this Contract within Agency’s biennial appropriation or limitation. Contractor understands and agrees that Agency’s payments under this Contract are contingent on Agency receiving appropriations, limitations, or other expenditure authority sufficient to allow Agency, in the exercise of its reasonable administrative discretion, to continue to make payments under this Contract.
+Contractor’s 
+Representations 
+and 
+Warranties.
+ 
+General Warranties.
+ Contractor represents and warrants to Agency that:
+Contractor has the power and authority to enter into and perform this Contract
+.
+ This Contract, when executed and delivered, is a valid and binding obligation of Contractor enforceable in accordance with its terms
+.
+Contractor shall perform the 
+S
+ervices set forth in this Contract in accordance with the highest professional standards prevailing in Contractor’s profession and in compliance with the requirements of this Contract
+.
+ 
+Contractor owns or has the right to sell 
+and transfer 
+the Goods that are the subject of this Contract
+.
+Contractor or its 
+subcontractor 
+are
+ certified or authorized by the original equipment manufacturer to perform maintenance and 
+s
+ervice on the Goods. 
+Contractor shall, at all times during the term of this Contract, be qualified and competent, and shall maintain in effect any necessary licenses related to its performance under this Contract
+.
+Except as otherwise set forth in this Contract, any subcontractors performing work for Contractor under this Contract have assigned 
+their 
+rights in the 
+Goods 
+too
+, 
+and no third party has any 
+undisclosed 
+right, title or interest in any 
+Goods 
+supplied to Agency under this Contract.
+Goods Warranties. 
+Contractor 
+represents and 
+warrants to Agency that the Goods will be free and clear of any liens or encumbrances;
+ 
+will be new and unused (and, if applicable, the current model);
+ 
+will be free from defects in labor, material and manufacture; will be in compliance with the specifications set out in this Contract; will be suitable for the operating environment in which 
+the Goods are 
+installed; will carry full manufacturer warranties
+;
+ and will be delivered with complete documentation. Contractor shall furnish the details of both Contractor's and manufacturer's warranties on materials and workmanship.
+ 
+Warranties are Cumulative
+.
+ 
+Contractor’s warranties provided in this Section 
+6
+ 
+are in addition to and not in lieu of any other warranties provided elsewhere in the Contract. All warranties provided for in this Contract are cumulative and are intended to be given full force and effect and to be interpreted expansively to give the broadest warranty protection to Agency. 
+Warrant
+ies Assigned
+, Maintenance and Support.
+Warrant
+ies Assigned
+.
+ 
+Contractor hereby assigns to Agency, and Agency 
+has all
+ benefits of, any and all manufacturers
+’
+ or Contractors
+’
+ warranties, representations, indemnities and service agreements for the Goods to the extent assignable by Contractor, and to the extent such warranties, representations, indemnities and service agreements are not assignable by Contractor, Contractor agrees that Agency may assert or enforce in its own name or in the name of Contractor any right Contractor may have to enforce such warranties, representations, indemnities and service agreements.
+Maintenance and Support.
+ 
+Contractor represents that following acceptance and expiration of any warranty
+ period
+, 
+if 
+the Goods are eligible for long-term maintenance and support 
+available through
+ Contractor
+ or
+ the manufacturer of the Goods
+,
+ 
+A
+gency and Contractor may enter into a long-term maintenance and support agreement, provided that such maintenance and support agreement require
+s
+ the entity providing support to be available 24 hours a day, seven days a week, and to respond to Agency’s request for support for the Goods within one hour. Such one-hour response time 
+requires 
+the entity providing maintenance and support 
+to
+ return Agency’s 
+request 
+for 
+support 
+(phone, 
+email,
+ online portal) 
+within 30 minutes, and in the case of Goods requiring service, to be at 
+Agency
+’s site within one hour.
+Independent Contractor 
+Certification; Responsibility For Taxes And Withholding
+.
+Independent Contractor.
+ Contractor hereby certifies that it is an independent contractor and
+ that
+ it 
+is providing
+ all Goods and perform
+ing
+ all Services as an independent contractor. Agency reserves the right (i) to determine and modify the delivery schedule for the Goods and Services and (ii) to evaluate the quality of the Goods and Services; however, Agency may not and will not control the means or manner of Contractor
+’
+s performance. Contractor is responsible for determining the appropriate means and manner of the provision of the Goods 
+and
+ performance 
+of Services 
+under this Contract. 
+No Conflicts. 
+Contractor, by signature to this Contract, represents and warrants that Contractor’s 
+performance under this Contract
+ (i)
+ creates no potential or actual conflict of interest as defined by ORS 244
+; (ii) in the event that Contractor or its personnel are either employed by or performing services for the federal government, that no rules or regulations of the agency for which Contractor or its personnel work or are employed prohibit Contractor or its personnel from providing the Services under this Contract; and 
+(iii) this Contract creates no other violation of ORS Chapter 244 for Contractor, its employees, agents, or contractors
+. 
+Affiliation
+.
+ Contractor understands and agrees that it is not an 
+“
+officer,
+”
+ 
+“
+employee,
+”
+ or 
+“
+agent
+”
+ of the State of Oregon, as those terms are used in ORS 30.265 or otherwise.
+Taxes and Benefits.
+ Contractor is responsible for all federal or state taxes applicable to compensation or payments paid to Contractor under this Contract and, unless required by applicable law, Agency will not withhold from such payments any amount to cover Contractor
+’
+s federal or state tax obligations. Contractor is not eligible for any social security, unemployment insurance or workers
+’
+ compensation benefits from compensation or payments paid to Contractor under this Contract, except as a self-employed individual. 
+Confidential Information.
+Each party acknowledges that it and its employees or agents may, in the course of performing its responsibilities under this Contract, be exposed to or acquire information that is confidential to the other party or the other party’s clients. Any and all information of any form obtained by one party or its employees or agents in the performance of this Contract is confidential information 
+(“Confidential Information”)
+ 
+of the other party. 
+Each 
+part
+y
+ shall treat any reports or other documents or items (including software) which result from the use of the 
+other’s 
+Confidential Information in the same manner as the Confidential Information. 
+The recipient of 
+any 
+Confidential Information 
+of the other party 
+shall hold 
+such 
+Confidential Information in strict confidence, using at least the same degree of care that it uses in maintaining the confidentiality of its own Confidential Information, and 
+shall not
+ copy, reproduce, sell, assign, license, market, transfer or otherwise dispose of, give or disclose 
+the other party’s 
+Confidential Information to third parties or use 
+the 
+Confidential Information for any purpose other than as contemplated by this
+ 
+Contract or reasonably related 
+to the purposes of this Contract
+, and 
+shall 
+advise each of its employees and contractors of their obligations to keep Confidential Information confidential.
+ 
+The obligations of confidentiality do not apply to informat
+ion that (i) is or becomes (other than by disclosure by the party acquiring such information) publicly known or is contained in a publicly available document; (ii) is furnished by the party disclosing such information to others without restrictions similar to those imposed by this Contract; (iii) is rightfully in the receiving party’s possession without the obligation of nondisclosure prior to the time of its disclosure under this Contract; (iv) is obtained from a source other than the discloser without the obligation of confidentiality, (v) is disclosed with the written consent of the disclosing party, or; (vi) is independently developed by employees or agents of the receiving party who can be shown to have had no access to the Confidential Information.
+Each party shall use commercially reasonable efforts to assist in identifying and preventing any unauthorized use or disclosure of 
+the other’s
+ Confidential Information
+, except where a higher standard 
+is required by law
+. 
+Further
+, each party shall advise the other promptly in the event it learns or has reason to believe that any person who has had access to 
+the other’s 
+Confidential Information has violated or intends to violate the terms of this
+ 
+Contract
+,
+ and each party will at its expense reasonably cooperate with the other in seeking injunctive or other equitable relief in the name of the other against any such person.
+Neither 
+party 
+shall
+, except as provided in this Contract or 
+authorized
+ by the other, disclose, directly or indirectly, 
+the other party’s 
+Confidential Information to any person
+ 
+at any time during or after the term of this Contract
+. 
+U
+pon termination of this Contract
+ (including by expiration),
+ 
+and subject to recordkeeping and retention obligations, 
+each party will 
+return
+ to the other 
+(or upon 
+consent
+, destr
+o
+y) 
+all documents, papers and other matter in its possession which embody 
+the other’s 
+Confidential Information.
+ 
+Agency’s obligations under this Section 
+9
+ are
+ subject to the Oregon Public Records Laws, ORS 192.311 through ORS 192.478.
+In the performance of the Contract C
+ontractor
+ may have possession or access to documents, records or items that contain 
+the 
+“Personal Information
+,
+” as that term is used in ORS 646A.602(1
+2
+)
+,
+ o
+f
+ Agency 
+staff or 
+representatives
+ 
+or 
+Agency clientele
+. 
+This 
+Personal Information is a type of 
+Agency 
+Confidential Information. Con
+tractor
+ shall have 
+an
+ information security program that 
+includes 
+safeguards to protect 
+the 
+security, confidentiality, and integrity of 
+Personal Information
+, 
+as required by the Oregon Consumer 
+Information
+ Protection Act
+ (OCIPA)
+ in 
+ORS 646A.
+622
+, prior to receipt of any Personal Information
+ under this Contract
+.
+ 
+Con
+tractor
+ shall not breach or permit breach of the security of any 
+Agency 
+Confidential Information 
+that is 
+Personal Information 
+in 
+Con
+tractor
+’s 
+possession or control. 
+Without limiting the applicability of Section 10.2, 
+Con
+tractor
+ shall not disclose, or otherwise permit access of any nature
+ to
+,
+ such Personal Information 
+except
+ 
+as 
+expressly permitted by Agency, required by applicable law, or required by order of a tribunal having competent jurisdiction.
+Con
+tractor 
+shall
+ 
+promptly 
+report 
+any breach of security 
+to Agency, 
+and in 
+all cases
+ meet its 
+related 
+obligations under 
+OCIPA
+. 
+If 
+Agency
+ determines that a breach requires notification of impacted individuals, or other notification required by law, 
+it 
+will have sole control over the notification content, timing, and method, subject to 
+Contracto
+r’s obligations under applicable law.
+Each party acknowledges that breach of this Section
+ 
+9
+, including disclosure of any Confidential Information will give rise to irreparable injury which is inadequately compensable in damages. Accordingly, e
+ither
+ party may seek and obtain injunctive relief against the breach or threatened breach of the foregoing undertakings, in addition to any other legal remedies that may be available. Each party acknowledges and agrees that the covenants contained 
+in this Section 10
+ are necessary for the protection of the legitimate business interests of the other and are reasonable in scope and content.
+Publicity.
+ Contractor agrees that it will not disclose the form, content or existence of this Contract in any advertising, press releases or other materials distributed to prospective customers, or otherwise 
+attempt to obtain publicity from its association with Agency or the State of Oregon, whether or not such disclosure, publicity or association implies an endorsement by Agency or the State of Oregon of Contractor’s services, without the prior written consent of Agency.
+Indemnification
+ by Contractor. 
+Claims.
+ Contractor shall defend, save, hold harmless, and indemnify the State of Oregon
+,
+ Agency
+,
+ and their officers, employees
+,
+ and agents from and against all third party claims, suits, actions, losses, damages, liabilities, statutory penalties, costs (including attorneys’ fees) and expenses 
+(collectively, 
+“
+Claims
+”
+) of any nature whatsoever resulting from, arising out of, or relating to the Goods or Services or activities of Contractor or its officers, employees, subcontractors, or agents under this Contract, including
+ but not limited to
+ unauthorized disclosure of Confidential Information, professional malfeasance, violation of employment laws or its certification as an independent contractor,
+ 
+intentional, willful, or wanton wrongful acts, and acts outside the scope set forth in this Contract. 
+Infringement Claims.
+ 
+Contractor shall defend, save, hold harmless, and indemnify the State
+ of Oregon
+, Agency, and their officers, employees
+,
+ and agents from and against all
+ 
+third party claims, suits, actions, losses, damages, liabilities, statutory penalties, costs (including attorneys’ fees) and expenses 
+(collectively, 
+“
+Claims
+”
+) of any nature whatsoever 
+resulting from, relating to, or arising out of a claim that any aspect of the Goods
+ or
+ Services
+ furnished under this Contract infringes a patent, utility model, industrial design, copyright, mask work, trademark, trade dress, or any other legally cognizable proprietary right of any third party
+ 
+(
+“
+Infringement Claim
+”
+)
+.
+ 
+Agency shall give Contractor notice of any Infringement Claim promptly after becoming aware of such Infringement Claim. If any Goods
+ or 
+Services
+ 
+furnished by Contracto
+r
+ are in Contractor's opinion likely to become the subject of an Infringement Claim, then Contractor may, at its option and expense, procure for Agency the right to continue using the allegedly infringing materials or replace or modify the materials so that they become non-infringing; provided that the replacement or modified version meets Agency's original specifications to the satisfaction of Agency.
+If the State or Agency is prevented from exercising its rights under this Contract based on any Infringement Claim or 
+any 
+court order arising from any Infringement Claim, Contractor shall at its expense, procure for Agency, as applicable, the right to continue using the allegedly infringing Goods
+ or 
+Services,
+ 
+or replace or modify the allegedly infringing 
+item or component
+ 
+so that it becomes non-infringing; provided that the replacement or modified 
+item or component
+ 
+meets the specifications set forth in this Contract to the satisfaction of Agency.
+ 
+If the foregoing remedies are not available, then Agency may return 
+or reject 
+the allegedly infringing Goods
+ or
+ Services
+, in which event Contractor shall refund Agency's payment for the allegedly infringing 
+item or service 
+in full.
+Legal Counsel.
+ If Contractor is required to defend the State of Oregon or Agency or their officers, employees
+,
+ or agents, then Contractor shall select legal counsel acceptable to the Oregon Attorney General to act in the name of, or represent the interests of, the State of 
+Oregon
+ Agency or their officers, employees and agents. Such legal counsel must accept appointment as a special assistant attorney general under ORS chapter 180 before such action or representation. Further, the State of Oregon, acting by and through its Department of Justice,
+ may assume its own defense and settlement in the event that State determines that Contractor is prohibited from defending the State of Oregon, is not adequately defending the 
+State of Oregon’s interests, or that an important governmental principle is at issue and the State of Oregon desires to assume its own defense
+. Contractor's obligation to pay for all costs and expenses includes those incurred by the State of Oregon in assuming its own defense or that of its officers, employees, and agents
+ under this section
+.
+ 
+Contractor is not authorized to settle or compromise any claim or infringement claim referenced in this Section 1
+1
+ without the express written consent of the Oregon Attorney General. 
+Damages to State Property and Employees. 
+Contractor is liable for all 
+claims
+ for personal injury, including death, damage to real property and damage to tangible and intangible personal property of the State of Oregon or any of its employees, subcontractors or agents resulting from, arising out of, or relating to the intentional, reckless or negligent acts or omissions of Contractor or its officers, employees, subcontractors, or agents under this Contract. 
+Assignment of Antitrust 
+Rights
+.
+ 
+Contractor irrevocably assigns to 
+A
+gency
+ 
+and shall require any of its subcontractors to irrevocably assign to 
+the State of Oregon
+, as third party beneficiary, any claim for relief or cause of action which 
+C
+ontractor now has or which may accrue to 
+C
+ontractor in the future by reason of any violation of 15 
+U.S.C
+. § 1-15 or 
+ORS
+ 646.725 or 
+ORS
+ 646.730, in connection with any 
+G
+oods or 
+S
+ervices provided to 
+C
+ontractor for the purpose of carrying out 
+C
+ontractor’s obligations under this 
+C
+ontract, including, at 
+the O
+regon 
+A
+ttorney 
+G
+eneral’s option, the right to control any such litigation on such claim for relief or cause of action.
+Limitation of Liability.
+ 
+Direct Damages.
+ Each 
+p
+arty’s total liability to the other 
+p
+arty for any direct damages arising out of or relating to its performance or failure to perform under this Contract, whether based on an action or claim in contract, equity, negligence, tort or otherwise, will not in the aggregate exceed two times the 
+total compensation under
+ this 
+C
+ontract.
+Consequential Damages.
+ Neither Agency nor Contractor will be liable for, nor will the measure of damages include, any indirect, incidental, special or consequential damages, including reputational harm, lost profits
+,
+ or lost savings, arising out of or relating to its performance or failure to perform under this Contract even if such 
+p
+arty is advised of the possibility of such damages.
+Exclusions.
+ The limitations or exculpations of liability set forth in Section 
+1
+3.1
+ 
+do 
+not apply to:
+The failure of (i) Agency to pay amounts due under this Contract or (ii) Contractor to issue 
+c
+redits or otherwise make payments that do not constitute damages due under this Contract
+.
+Personal injury, death, real or tangible personal property loss or damage to the extent resulting from Contractor’s or the State’s or either’s agents’ acts or omissions for which Contractor or the State or either’s agents are held legally responsible under applicable 
+l
+aw
+.
+ 
+Any 
+third-party
+ 
+claims that the 
+Goods
+ or 
+Services
+,
+ or Agency’s use thereof
+,
+ infringes or violates any 
+i
+ntellectual 
+p
+roperty 
+r
+ight
+.
+Contractor’s
+ breach of the confidentiality or 
+of 
+security and privacy protections
+.
+Any liability which a 
+p
+arty is not permitted to exclude as a matter of 
+l
+aw.
+Constitutional and Tort Claims Limits. 
+The State of Oregon’s and Agency’s 
+liability 
+under this Contract are subject to the limitations of Article XI, Section 7 of the Oregon Constitution and the Oregon Tort Claims Act, ORS 30.260 through 30.300. 
+Agency
+ has no obligation to defend 
+Contractor
+.
+Insurance 
+Requirements.
+ 
+Contractor shall obtain and maintain insurance as set forth in Exhibit
+ 
+B
+.
+Default
+ by Contract
+or
+ and Agency
+ Remedies
+.
+ 
+Contractor Default.
+ 
+Contractor will be in default under this Contract if:
+Contractor institutes or has instituted against it
+s
+ insolvency, receivership or bankruptcy proceedings, makes an assignment for the benefit of creditors, or ceases doing business on a regular basis
+.
+Contractor no longer holds a license or certificate that is required for Contractor to perform its obligations under the Contract and Contractor has not obtained such license or certificate within 14 Calendar Days after Agency’s notice or such longer period as Agency may specify in such notice
+.
+Contractor commits any material breach or default of any covenant, warranty, obligation, certification, or agreement under this Contract, fails to provide the Goods or perform the Services under this Contract within the time 
+required under this Contract
+, and such breach, default or failure is not cured within 14 Calendar Days after Agency's notice, or such longer period as Agency may specify in such notice. 
+Agency’s Remedies for Contractor’s Default.
+ 
+In the event Contractor is in default under this Section, Agency may, at its option, pursue any or all of the remedies available to it under this Contract and at law or in equity, including:
+Termination of this Contract
+.
+Withholding all monies due for Goods or Services that Contractor has failed to deliver within any scheduled completion dates or has performed inadequately or defectively
+.
+Initiation of an action or proceeding for damages, specific performance, or declaratory or injunctive relief
+.
+ 
+Exercise of its right of setoff and withholding of amounts otherwise due and owing to Contractor, without penalty.
+Agency Remedies
+ 
+are Cumulative.
+ 
+The 
+Agency 
+remedies set forth in this 
+Contract
+ are cumulative to the extent the remedies are not inconsistent. Agency may pursue any remedy or remedies singly, collectively, successively or in any order whatsoever. If a court determines that Contractor was not in default, then Contractor will be entitled to the same remedies as if Agency terminated this Contract
+ 
+for convenience.
+Default by Agency and Contractor Remedies.
+Default by Agency.
+ Agency 
+may
+ 
+be in default under this Contract if: 
+Agency fails to pay Contractor any amount due pursuant to the terms of this Contract, and Agency fails to cure such failure within 30 Calendar Days after Contractor’s notice or such longer period as Contractor may specify in such notice; or 
+Agency commits any material breach or default of any covenant, warranty, or obligation under this Contract, and such breach or default is not cured within 30 Calendar Days after Contractor’s notice or such longer period as Contractor may specify in such notice.
+Contractor’s Remedies
+Contractor’s Remedies
+ for Agency Default
+.
+ 
+In the event Agency 
+fail
+s
+ to cure 
+any 
+default 
+within the time period specified in Contractor’s 
+written notice
+, 
+Contractor may terminate this Contract
+ 
+or initiate an action or proceeding for damages, specific performance, or declaratory or injunctive relief
+.
+Contractor’s Remedies for Agency Termination for Convenience
+.
+ 
+In the event Agency terminates this Contract
+ under Section 
+1
+7.1
+,
+ Contractor’s sole remedy will be a claim for the balance due, less previous amounts paid and any claim(s) that Agency has against Contractor. In no event will Agency be liable to Contractor for any expenses related to termination of this Contract or for anticipated profits. If previous amounts paid to Contractor exceed the amount due to Contractor under this 
+s
+ection, Contractor shall pay immediately any excess to Agency upon written demand.
+Termination.
+Agency’s Right to Terminate. 
+Agency may terminate this Contract upon 30 Calendar Days’ prior written notice to Contractor.
+Agency’s Right to Terminate for Non-Appropriation or Change in Law.
+ Agency may terminate this Contract immediately upon 
+written 
+notice
+ to Contractor if: 
+Agency fails to receive funding, appropriations, limitations, allotments or other expenditure authority at levels sufficient to pay for the Goods
+ or Services
+; or
+ 
+F
+ederal or state laws, regulations, or guidelines are modified or interpreted in such a way that
+ 
+Agency’s purchase of the Goods 
+or Services 
+under this Contract is prohibited or Agency is prohibited from paying for such Goods 
+or Services 
+from the planned funding source.
+Agency’s Right to Terminate for Cause.
+ 
+In addition to any other rights and remedies Agency may have under this Contract, Agency may terminate this Contract, immediately upon written notice by Agency to Contractor, or at such later date as Agency may establish in such notice, if Contractor is in default. 
+Contractor’s Right to Terminate for Cause.
+ 
+Contractor may terminate this Contract immediately upon written notice to Agency, or at such later date as Contractor may establish in such notice, if Agency is in default.
+Return of Property
+. 
+Upon termination of this Contract for any reason whatsoever, Contractor shall immediately deliver to Agency all of Agency’s property that is in the possession or under the control of Contractor in whatever stage of development and form of recordation such Agency property 
+is expressed or embodied at that time.
+ 
+Contractor
+ shall notify 
+Agency
+ of any conditions that make returning all 
+Agency property
+ not feasible. Upon 
+Agency
+’s written acknowledgement that returning all 
+property
+ is not feasible
+ and consent
+, 
+subject to 
+Section 
+22
+,
+ 
+Records Maintenance and Access
+,
+ 
+Contractor shall
+ 
+destroy 
+retained 
+Agency property
+ 
+in all its forms
+.
+Effect of Termination
+. 
+Upon receiving a notice of termination of this Contract, Contractor shall immediately cease activities under this Contract 
+as directed by Agency
+.
+Compliance with Law.
+Compliance with Law Generally.
+ 
+Contractor shall comply, and cause all subcontractors to comply with all federal, state and local laws, regulations, executive orders and ordinances applicable to this Contract, as may be modified or adopted from time to time. Without limiting the generality of the foregoing, Contractor expressly agrees to comply with the following laws, regulations and executive orders to the extent they are applicable to this Contract: (i) Titles VI and VII of the Civil Rights Act of 1964, as amended; (ii) Title V and Sections 503 and 504 of the Rehabilitation Act of 1973, as amended; (iii) the Americans with Disabilities Act of 1990 and ORS 659A.142, as amended; (iv) Executive Order 11246, as amended; (v) the Health Insurance Portability and Accountability Act of 1996, as amended by the Health Information Technology for Economic and Clinical Health (HITECH) Act portion of the American Recovery and Reinvestment Act of 2009 (ARRA), including the Privacy and Security Rules found at 45 CFR Parts 160 and 164, as the law and its implementing regulations may be updated from time to time; (vi) the Age Discrimination in Employment Act of 1967, as amended, and the Age Discrimination Act of 1975, as amended; (vii) the Vietnam Era Veterans’ Readjustment Assistance Act of 1974, as amended; (viii) Section 188 of the Workforce Investment Act (WIA) of 1998, as amended; (ix) ORS Chapter 659, as amended; (x) all regulations and administrative rules established pursuant to the foregoing laws; and (xii) all other applicable requirements of federal and state civil rights and rehabilitation statutes, rules and regulations. These laws, regulations and executive orders are incorporated by reference 
+into this Contract 
+to the extent that they are applicable to the Contract and required by law to be so incorporated.
+Statutory Protections.
+ Agency’s performance under the Contract is conditioned upon Contractor's compliance with the provisions of ORS 279B.220, 279B.225, 279B.230, 279B.235 and 279B.270 which are incorporated by reference 
+into this Contract
+. 
+Disclosure of Social Security Number. 
+Contractor shall provide Contractor’s Social Security number unless Contractor provides a federal tax identification number. This number is requested pursuant to ORS 305.385, OAR 125-246-0330(2)(d), and OAR 150-305.100. Social Security numbers provided pursuant to this authority will be used for the administration of state, federal, and local tax laws.
+Reporting
+.
+ 
+This Contract will be reported to the Oregon Department of Revenue.
+ 
+The Department of Revenue may take any and all actions permitted by law relative to the collection of taxes due to the State of Oregon or a political subdivision, including (i) garnishing Contractor’s compensation under this Contract or (ii) exercising a right of setoff against Contractor’s compensation under this Contract for any amounts that may be due and unpaid to the State of Oregon or its political subdivisions for which the Department of Revenue collects debts.
+Non-Discrimination in Employment.
+ 
+If applicable, 
+Contractor certifies, in accordance with ORS 279A.112, that it has in place a policy and practice of preventing sexual harassment, sexual assault, and discrimination against employees who are members of a protected class, as defined by ORS 279A.112 (2)(1)(b).
+ 
+As a material condition of this Contract, Contractor must maintain, throughout the duration of this Contract, a policy and practice that comply with ORS 279A.112, including giving employees written notice of Contractor’s policy and practice.
+Pay Equity Compliance.
+ 
+As required by ORS 279B.235, Contractor shall comply with ORS 652.220 and shall not unlawfully discriminate against any of Contractor’s employees in the payment of wages or other compensation for work of comparable character on the basis of an employee’s membership in a protected class. “Protected class” means a group of persons distinguished by race, color, religion, sex, sexual orientation, national origin, marital status, veteran status, disability or age. Contractor’s compliance with this section constitutes a material element of this Contract and a failure to comply constitutes a breach that entitles Agency to terminate this Contract for cause.
+Contractor may not prohibit any of Contractor’s employees from discussing the employee’s rate of wage, salary, benefits, or other compensation with another employee or another person.
+ 
+Contractor may not retaliate against an employee who discusses the employee’s rate of wage, salary, benefits, or other compensation with another employee or another person.
+ 
+Oregon False Claims Act. 
+Contractor acknowledges the Oregon False Claims Act, ORS 180.750 to 180.785, applies to any action by Contractor pertaining to this Contract, including the procurement process relating to this Contract
+,
+ that constitutes a "claim" (as defined by ORS 180.750(1)). By its execution of this Contract, Contractor certifies the truthfulness, completeness, and accuracy of any statement or claim it has made, it makes, it may 
+make or
+ causes to be made that pertains to this Contract. In addition to other penalties that may be applicable, Contractor further acknowledges that if it makes, or causes to be made, a false claim or performs a prohibited act under the Oregon False Claims Act, the Oregon Attorney General may enforce the liabilities and penalties provided by the Oregon False Claims Act against Contractor. Contractor understands and agrees that any remedy that may be available under the Oregon False Claims Act is in addition to any other remedy available to the State or Agen
+c
+y under this Contract or any other provision of law.
+Governing Law; 
+Dispute Resolution; 
+Venue and Jurisdiction
+.
+Governing Law.
+ 
+The laws of the State of Oregon (without giving effect to its conflicts of law principles)
+, including Article 2 of the Uniform Commercial Code as adopted by the State of Oregon (ORS chapter 72), as applicable,
+ 
+govern all matters arising out of or relating to this 
+Contract
+, including, without limitation, its validity, interpretation, construction, performance, and enforcement.
+Dispute Resolution
+.
+ 
+Any dispute between the parties under this Contract that is not resolved through informal discussions may be submitted to mediation upon the consent of both parties. If informal discussions or mediation are unsuccessful, either party may initiate litigation to resolve the dispute. The parties specifically disclaim any right to arbitration of disputes. Neither party waives its right to a jury trial or right to participate in class, collective, or representative claims.
+Venue and Jurisdiction.
+ 
+Any claim, action, suit or proceeding between Agency (or any other agency or department of the State of Oregon) and Contractor that arises from or relates to this 
+Contract must be brought and conducted solely and exclusively within the Circuit Court of Marion County for the State of Oregon
+ 
+however, if a Claim must be brought in a federal forum, then it must be brought and conducted solely and exclusively within the United States District Court for the District of Oregon
+. 
+Contractor, by execution of this contract, hereby consents to the in personam jurisdiction of said courts.
+ 
+In no event may this section be construed as (i) a waiver by the State of Oregon of any form of defense or immunity, whether it is sovereign immunity, governmental immunity, immunity based on the Eleventh Amendment to the Constitution of the United States or otherwise, from any claim, action, suit or proceeding, or (ii) consent by the State of Oregon to the jurisdiction of any court.
+Attorney’s Fees.
+ 
+Neither party to this Contract is entitled to obtain judgment from the other party for attorneys’ fees incurred in any litigation between the parties. Except as allowable under 
+the 
+i
+ndemnification
+ provisions
+, neither party may obtain judgment from the other party for attorneys’ fees incurred in the defense of any claim asserted by a third party.
+Safety 
+and Health Requirements.
+ 
+Contractor
+ warrants that goods and services provided under this 
+Contract
+ comply with all federal Occupational Safety and Health Administration (OSHA) requirements and with all Oregon safety and health requirements, including those of the State Workers' Compensation Division.
+Safety Data Sheet.
+ 
+Contractor
+ shall provide 
+Agency
+ with a Safety Data Sheet for any goods which may release, or otherwise result in exposure to, a hazardous chemical under normal conditions of use (OAR 437- 002-0360 and 29 CFR 1910.1020). 
+Contractor
+ shall label, tag or mark such goods
+.
+Records Maintenance; Access
+. Contractor shall maintain 
+all financial records and 
+any other records, books, documents, papers, plans, records of shipments and payments and writings of Contractor, whether in 
+paper
+, electronic or other form, that are pertinent to this Contract (“Records”) in such a manner as to clearly document Contractor's performance. 
+Contractor shall maintain all financial 
+R
+ecords relating to this Contract in accordance with generally accepted accounting principles. 
+Contractor acknowledges and agrees that Agency and the Oregon Secretary of State's Office and the federal government and their duly authorized representatives will have access to 
+all
+ Records, whether in paper, electronic or other form, to perform examinations and audits and make excerpts and transcripts. Contractor shall retain and keep accessible all Records for a minimum of 6 years, or such longer period as may be required by applicable law, following final payment and termination of this Contract, or until the conclusion of any audit, controversy or litigation arising out of or related to this Contract, whichever date is late
+r
+.
+R
+ecycling.
+ 
+Contractor shall, 
+use recyclable or reusable products 
+to the maximum extent economically feasible in the performance of the Contract,
+ in accordance with ORS279B.025. Such as
+ recycled paper (as defined in ORS 279A.010(1)(gg)), recycled PETE products (as defined in ORS 279A.010(1)(hh)), and other recycled plastic resin products and recycled products (as “recycled product” is defined in ORS 279A.010(1)(ii)).
+ 
+Foreign Contractor
+. If Contractor is not domiciled in or registered to do business in the State of Oregon, Contractor shall promptly provide to the Oregon Department of Revenue and the Secretary of State Corporation Division all information required by those agencies relative to this Contract. 
+Force Majeure
+. 
+Neither party will be in default under this Contract for nonperformance that is caused by an 
+extraordinary
+ event or circumstance 
+(“Force Majeure Event”) 
+(other than an increase in costs, or other change in general economic conditions), whether or not foreseeable, resulting from causes beyond the reasonable 
+control
+ of the party claiming a 
+F
+orce 
+M
+ajeure 
+E
+vent.
+ 
+The 
+obligations of the party claiming force majeure are suspended to the extent of and for the duration of such event; however: 
+If a 
+F
+orce 
+M
+ajeure 
+E
+vent causes Contractor to allocate limited resources among its customers, Contractor will not 
+prioritize
+ other customers over Agency. 
+Contractor must demonstrate it has made reasonable efforts to perform, and that the delay or inability to perform is not due to its failure to protect itself against events or circumstances of the same type as the 
+F
+orce 
+M
+ajeure 
+E
+vent, or its failure to develop and maintain a reasonable contingency plan to respond to events or circumstances of the same type as the claimed 
+Force Majeure Event
+. Contractor shall make all good faith efforts to eliminate the cause of any such delay, and upon the cessation of such cause resume performance of its obligations with all reasonable diligence.
+ 
+Notwithstanding 
+this provision
+, 
+Agency 
+may terminate this Contract under Section 
+17
+.1
+ after determining any delay associated with a claim of 
+F
+orce 
+M
+ajeure 
+Event 
+by either party will reasonably prevent successful performance under this Contract within a timeframe acceptable to 
+Agency
+.
+Assignment
+, 
+Subcontractors
+, or 
+Successors.
+ 
+Contractor shall not assign, sell, transfer, or subcontract rights, or delegate responsibilities under this Contract, in whole or in part, without the prior written approval of Agency.
+ 
+No such written approval relieve
+s
+ Contractor of any obligations under this Contract, and any transferee or subcontractor 
+will 
+be considered the agent of Contractor. Contractor remain
+s
+ liable to Agency as if no such transfer or subcontract had occurred.
+ 
+The provisions of this Contract are binding upon and inure to the benefit of the parties to the Contract and their respective successors and permitted assigns.
+Payment of Contractor Claims.
+ 
+If Contractor fails, neglects or refuses to pay promptly, as due, any claim for labor or services furnished to Contractor or any subcontractor by any person in connection with the 
+G
+oods 
+or Services 
+provided under this Contract, 
+Agency may, but is
+ not obligated to, pay such claim and charge the amount of the payment against funds due or to become due
+ 
+to
+ Contractor under thi
+s Contract
+.
+ 
+The payment of a claim by Agency pursuant to this 
+section
+ 
+does 
+not relieve Contractor or its surety, if any, from obligation with respect to any unpaid claims.
+Survival.
+ 
+All rights and obligations cease upon termination or expiration of this Contract, except for the rights and obligations and declarations which expressly survive termination of this Contract, including this 
+s
+ection, and provisions regarding Contract definitions, warranties and liabilities, independent 
+c
+ontractor status and taxes and withholding, maximum compensation, Contractor’s duties of confidentiality
+ and non-disclosure
+, ownership and license of intellectual property, Contractor’s representations and warranties, control of defense and settlement, remedies, return of property, dispute resolution, order of precedence, maintenance and access to records, notices, severability, successors and assigns, intended beneficiaries, waiver, headings, and integration. 
+Time is of the Essence
+. 
+Contractor agrees that time is of the essence under this Contract
+ for delivery of acceptable Goods and Services
+.
+Notice. 
+Except as otherwise expressly provided in this Contract, any communications between the parties or notices to be given 
+under this Contract 
+must be given in writing by email, 
+personal delivery, or mailing the same, postage prepaid, to Contractor or Agency at the email address, postal address or telephone number set forth in this Contract, or to such other addresses or numbers as either party may indi
+cate pursuant to this Section 
+3
+0
+. Any communication or notice so addressed and mailed is effective five 
+B
+usiness 
+D
+ays after mailing
+.
+ Any communication or notice given by personal delivery is effective when actually delivered. Any notice given by email is effective when the sender receives confirmation of delivery, either by return email, or by demonstrating through other technological means that the email has been delivered to the intended email address.
+Contractor’s Contract Administrator for this Contract is:
+____________________
+_[
+Contract Administrator Name and Title
+]
+Postal address to which notices 
+may
+ be mailed
+:
+____________________________[
+Address
+]
+___________________________
+_[
+City, State ZIP
+]
+Phone: 
+__________[
+(xxx) xxx-
+xxxx
+]
+ 
+Fax: 
+__________[
+(xxx) xxx-
+xxxx
+]
+Email: __________[
+anyname@domain.com
+]
+Website:
+ 
+__________
+___
+Agency’s Contract Administrator 
+(or delegate) 
+for this Contract is:
+For ordering
+:
+ 
+____________________
+_[
+Contract Administrator
+ 
+Name
+ and
+ Title
+]
+Postal address to which notices 
+may
+ be mailed
+:
+_____________________[
+Agency-Division
+]
+____________________________[
+Address
+]
+___________________________
+_[
+City, State ZIP
+]
+Phone: 
+__________[
+(xxx) xxx-
+xxxx
+]
+ 
+Fax: 
+__________[
+(xxx) xxx-
+xxxx
+Email:
+ _______
+_____
+___ [
+anyname@oregon.
+gov
+]
+Agency’s contact information f
+or 
+i
+nvoices
+:
+____________________
+_[
+Invoice contact 
+Name
+ and
+ Title
+]
+_____________________[
+Agency-Division
+]
+_____________________[
+Address
+]
+____________________
+_[
+City, State ZIP
+]
+Phone: __________[(xxx) xxx-
+xxxx
+] 
+Fax: __________[(xxx) xxx-
+xxxx
+]
+Email:
+ __________[
+anyname@oregon.
+gov
+]
+Intended
+ Beneficiaries
+. 
+Agency and 
+Contractor are the only parties to this Contract and are the only parties entitled to enforce 
+its
+ terms. Nothing in this Contract gives, is intended to give, or may be construed to give or provide any benefit or right not held by or made generally available to the public, 
+whether directly, indirectly or otherwise, to third persons unless such third persons are individually identified by name 
+in this Contract 
+and expressly described as intended beneficiaries of the terms of this Contract.
+ 
+Severability
+. 
+I
+f any term or provision of this Contract is declared by a court of competent jurisdiction to be illegal or otherwise invalid, the validity of the remaining terms and provisions will not be affected, and the rights and obligations of the parties will be construed and enforced as if the Contract did not contain the particular term or provision held to be invalid.
+Counterparts
+. 
+This Contract may be executed in several counterparts, all of which when taken together constitute one agreement binding on all parties, notwithstanding that all parties are not signatories to the same counterpart. Each copy of the Contract so executed constitutes an original.
+Export Compliance.
+ 
+Agency acknowledges that in various countries, laws and regulations governing the export of computer products and technology may prohibit use, sale or re-export of such products or technology if Agency
+ 
+knows or has reason to know that such products and technology are for use in connection with the design, development, production, stock piling or use of nuclear, chemical or biological weapons or missiles, and in some countries (e.g., China) for certain conventional military end-uses.
+ 
+If Agency sells or transfers to another person or entity title in or right to use any part of products or other materials supplied by Contractor, Agency will ensure that all applicable export restrictions of the nature described in this section are observed.
+ 
+Merger Clause; Waiver
+. 
+This Contract
+ inclusive of 
+its 
+attach
+ments and
+ exhibits
+,
+ constitute
+s
+ the entire agreement between the parties on the subject matter hereof. There are no understandings, agreements, or representations, oral or written, not specified herein regarding this Contract. No waiver, consent, modification or change of terms of this Contract will bind the parties unless in writing and signed by both parties and all necessary State
+ of Oregon
+ approvals have been obtained. Such waiver, consent, modification or change, if made, will be effective only in the specific instance and for the specific purpose given. The failure of Agency to enforce any provision of this Contract in one instance will not constitute a waiver by Agency of its right to enforce that or any other provision.
+Ce
+rtifications
+.
+ 
+The individual signing on behalf of Contractor hereby
+ c
+ertifies and swears under penalty of perjury that:
+ 
+Contractor is not subject to backup withholding because (i) Contractor is exempt from backup withholding, (ii) Contractor has not been notified by the IRS that Contractor is subject to backup 
+withholding
+ as a result of a failure to report all interest or dividends, or (iii) the IRS has notified Contractor that Contractor is no longer subject to backup withholding
+.
+Contractor is not in violation of any Oregon tax laws and that for a period of no fewer than six calendar years preceding the Effective Date of this Contract, Contractor faithfully has complied with: 
+(i)
+ any state taxes administered by the Oregon Department of Revenue (DOR) under the tax laws of this state and local taxes administered by DOR under ORS305.620 and 
+(i
+i
+)
+ 
+any tax provisions imposed by a political subdivision of this state that applied to Contractor, to Contractor’s property, operations, receipts, or income, or to Contractor’s performance of or compensation for any work performed by Contractor; (iii)
+ 
+any tax provisions imposed by a political subdivision of this state that applied to Contractor, or to goods, services, or property, whether tangible or intangible, provided by Contractor; 
+and
+ 
+(iv)
+ 
+any rules, regulations, charter provisions, or ordinances that implemented or enforced any of the foregoing tax laws or provisions
+.
+ 
+T
+he supplied Contractor tax identification numbers are true and accurate
+.
+Contractor has not discriminated against any 
+disadvantaged business enterprise, minority-owned 
+business, woman-owned business, business that service-disabled veteran own
+s
+ or emerging small business 
+certified under ORS 200.055 in obtaining any required subcontracts
+.
+C
+ontractor has no undisclosed liquidated and delinquent debt owed to the State
+ of Oregon
+ or its agencies
+, boards, commissions, departments or divisions
+.
+Contractor is an
+ Independent Contractor
+ for all purposes herein
+.
+Contractor and Contractor’s employees and agents are not included on the list titled “Specially Designated Nationals and Blocked Persons” maintained by the Office of Foreign Assets Control of the United States Department of the Treasury and currently found at
+:
+ 
+https://sanctionslist.ofac.treas.gov/Home/SdnList
+Signatures:
+ 
+_____________________________[CONTRACTOR NAME]
+:
+ 
+Contractor Signature:
+_______________________
+Date: 
+______________
+Printed Name and Title:
+_________________________________________
+Federal Tax ID:
+_______________ 
+Oregon Tax ID: 
+_________________
+ 
+STATE OF OREGON
+, by and through its 
+______________
+_[
+Agency Name
+]
+Signature:
+________________________________
+Date: 
+_________________
+Printed Name and Title:
+ ___________________________________________
+Approved for legal sufficiency pursuant to ORS 291.047 and OAR 137-045-0030: 
+[N/A]
+ or
+By:
+ 
+________________________
+_ [
+Attorney Name and Title]
+ 
+Matter No:
+ 
+_________________
+_ [
+DOJ number]
+On:
+ 
+______________
+      
+  [
+Date approved]
+Via:
+_________________________
+_ [
+Email to First Last, title]
+EXHIBIT A
+DESCRIPTION OF GOODS AND 
+RELATED 
+SERVICES
+ 
+[include all goods and related services
+]
+Examples of areas to cover when applicable: 
+Backorder items – how to remedy
+, Costs, Deliverables, Delivery date, details of the purchase, invoices (where to email/send them), item 
+specifications
+, 
+Lead times, restocking fees, rates, if applicable discounts, ta
+riffs
+, shipping lead times/costs, and 
+any other applicable information to ensure the goods and related services meet the needs of the end user. 
+EXHIBIT 
+B
+INSURANCE REQUIREMENTS
+To complete a risk assessment and access the insurance requirement templates, 
+go to the DAS Risk website at:
+ 
+http://www.oregon.gov/das/Risk/Pages/CntrctrInsReq.aspx
+1
+ 
+Contract for Goods
+1
+Contract for Goods 
+Version 1
+ 
+October 2025
+Contract No. 
+PO-
+xxxxx
+-
+xxxxxxxx
+ for [
+Title
+]
+ [
+Agency
+]
+1
+ of 
+23

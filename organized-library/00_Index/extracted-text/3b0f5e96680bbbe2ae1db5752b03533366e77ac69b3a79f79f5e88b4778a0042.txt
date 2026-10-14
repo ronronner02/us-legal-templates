@@ -1,0 +1,288 @@
+Yellow highlighted areas
+ in
+ indicate blanks to be filled in, areas to be revised with information specific to your document
+,
+ or notes to buyer
+ 
+to be deleted.
+  
+[TUTORIAL for REMOVING NOTES FROM DOCUMENT]
+ - [
+Notes to buyer
+ that identify sections that are options may be modified or provide other instructions.  Notes are 
+to be deleted
+ prior to publishing.]
+[
+TUTORIAL for ADDING SECTIONS
+]
+[TUTORIAL for EDITING HEADERS / FOOTERS]
+INTERAGENCY AGREEMENT
+(For use between two agencies of the State of Oregon)
+This Agreement is between 
+___________________ 
+(insert name of first agency) (“FIRST AGENCY”) (select abbreviation for agency and replace FIRST AGENCY with the abbreviation throughout the agreement)
+ and 
+____________________ (insert name of second agency) (“SECOND AGENCY”) (select abbreviation for agency and replace SECOND AGENCY with the abbreviation throughout the agreement),
+ both individually without distinction as “Party” and collectively as the “Parties.”
+AUTHORITY
+This Agreement is entered into pursuant to the authority granted by ORS 190.110 and 283.110, allowing state agencies to enter into agreements with other state agencies to cooperate in performing duties, exercising powers or administering policies or programs.
+PURPOSE
+(Add background statements.  Describe the situation leading to the need for the agreement and briefly summarize the purpose of the agreement, what will be accomplished.)
+EFFECTIVE DATE AND DURATION
+(Select one of the below options and delete the other)
+This Agreement begin
+s
+ on
+(OPTION 1: the date of the last signature)
+(OPTION 2: ________________________________ (insert effective date), or the date of the last signature, whichever occurs last)
+ (“Effective Date”),
+and terminate
+s
+(Select one of the below options and delete the other)
+(OPTION 1: when terminated in accordance with Section 7.)
+(OPTION 2: on ____________________________ (insert termination date), unless terminated earlier in accordance with Section 7.)
+(OPTION 3: on the date ________________________ (insert time period in days, months or years) after the Effective Date, unless terminated earlier in accordance with Section 7.)
+(If IAA is retroactively effective, insert language here for only the obligations that are retroactive not the entire agreement.  The Effective Date of the IAA will be the date inserted in Option 1 or Option 2.)
+AUTHORIZED REPRESENTATIVES
+FIRST AGENCY’S AUTHORIZED REPRESENTATIVE IS
+:
+____________________________ (insert name)
+____________________________ (insert address)
+____________________________
+____________________________ (insert phone)
+ Office
+____________________________ (insert phone)
+ Fax
+____________________________ (insert email)
+SECOND AGENCY’S AUTHORIZED REPRESENTATIVE IS:
+____________________________ (insert name)
+____________________________ (insert address)
+____________________________
+____________________________
+ 
+(insert phone)
+ Office
+____________________________
+ 
+(insert phone)
+ Fax
+____________________________
+ 
+(insert email)
+A
+ Party may designate a new Authorized Representative by written notice to the other Party.
+ 
+RESPONSIBILITIES OF EACH PARTY
+FIRST AGENCY SHALL
+ 
+____________________________________________. 
+(Insert description of work to be performed by FIRST AGENCY, adding subsections as necessary)
+SECOND AGENCY SHALL
+ 
+____________________________________________. 
+(Insert description of work to be performed by SECOND AGENCY, adding subsections as necessary)
+COMPENSATION AND PAYMENT TERMS
+(Select one of the below options and delete the other)
+(OPTION 1: Neither Party shall pay monetary compensation to the other Party under this Agreement.)
+(OPTION 2: [insert payment terms; see suggestions in
+ 
+language library
+])
+TERMINATION
+This Agreement may be terminated at any time by mutual written agreement of the Parties.
+A Party may terminate this Agreement upon 30 days written notice to the other Party.
+A P
+arty may terminate this Agreement immediately upon written notice to the other Party, or at such later date as the terminating Party may specify in such notice, upon the occurrence of any of the following events:
+The 
+t
+erminating 
+P
+arty 
+f
+ails 
+t
+o 
+r
+eceive 
+f
+unding, 
+a
+ppropriations, 
+l
+imitations, 
+a
+llotments, or 
+o
+ther 
+e
+xpenditure 
+a
+uthority 
+a
+t 
+l
+evels 
+sufficient in the terminating Party’s reasonable administrative discretion, to perform its duties under this Agreement;
+Federal or state laws, rules, regulations or guidelines are modified or interpreted in such a way that the terminating Party’s performance under this Agreement is prohibited or the terminating Party is prohibited from paying for such performance from the planned funding source;
+The other Party materially breaches a covenant, warranty or obligation under this Agreement, or fails to perform its duties within the time specified in this Agreement or any extension of that time, or so fails to pursue its duties as to endanger that Party’s performance under this Agreement in accordance with its terms, and such breach or failure is not cured within 20
+ calendar
+ days after delivery of the terminating Party’s notice to the other Party of such breach or failure, or within such longer period of cure as the terminating Party may specify in such notice.
+AMENDMENTS
+The terms of this Agreement may not be waived, altered, modified, supplemented or otherwise amended, in any manner whatsoever, except by written mutual agreement of the Parties.
+NOTICE
+Except as otherwise expressly provided in this Agreement, any notices to be given relating to this Agreement 
+will 
+be given in writing by email, personal delivery, facsimile, or mailing the same, postage prepaid, to a Party’s Authorized Representative at the address, number or email address set forth in this Agreement, or to such other addresses or numbers as a Party may indicate pursuant to this Section 9.
+SURVIVAL
+All rights and obligations cease upon termination of this Agreement, except for those rights and obligations that by their nature or express terms survive termination of this Agreement.  
+Termination 
+will 
+not prejudice any rights or obligations accrued to the Parties prior to termination.
+SEVERABILITY
+I
+f any term or provision of this Agreement is declared by a court of competent jurisdiction to be illegal or in conflict with any law, the validity of the remaining terms and provisions 
+will 
+not be affected, and the rights and obligations of the Parties 
+will 
+be construed and enforced as if the Agreement did not contain the particular term or provision held to be invalid.
+COUNTERPARTS
+This Agreement may be executed in several counterparts, all of which when taken together 
+will 
+constitute one agreement, notwithstanding that all Parties are not signatories to the same counterpart.  Each copy of the Agreement so executed 
+will 
+constitute an original.
+LIABILITY AND INSURANCE
+The Parties understand that each is insured with respect to tort liability by the State of Oregon Insurance Fund, a statutory system of self-insurance established by ORS Chapter 278, and subject to the Oregon Tort Claims Act (ORS 30.260 to 30.300).  Each Party accept
+s
+ that coverage as adequate insurance of the other Party with respect to personal injury and property damage.
+A
+ny tort liability claim, suit, or loss resulting from or arising out of the Parties’ performance of, or activities under, this Agreement 
+will
+ 
+be allocated, as between the Parties, in accordance with law
+,
+ by 
+the Department of Administrative Services
+,
+ 
+Risk Management
+,
+  for purposes of the Parties’ respective loss experiences and subsequent allocation of self-insurance assessments under ORS 278.435.  Each Party 
+shall 
+notify Risk Management and the other Party in the event 
+a Party 
+receives notice or knowledge of any claims arising out of the Parties’ performance of, or activities under, this Agreement.
+DAS REPORTING REQUIREMENT
+FIRST AGENCY
+ shall be the Reporting Party for purposes of ORS 190.115, Summaries of Agreements of State Agencies.  
+FIRST AGENCY shall submit a summary of this Agreement to the Oregon Department of Administrative Services through  
+OregonBuys
+ 
+within the 30-day period immediately following the Effective Date of the Agreement.
+RECORDS
+The Parties shall create and maintain records documenting their performance under this Agreement.
+  The Oregon Secretary of State’s Office, the federal government, the other Party, and their duly authorized representatives shall have access to the books, documents, papers, and 
+records of a Party that are directly related to this Agreement for the purposes of making audit, examination, excerpts, and transcripts for a period of six years after termination of this Agreement.
+COMPLIANCE WITH LAW
+In connection with their activities under this Agreement, the Parties shall comply with all applicable federal, state and local laws and regulations.
+NO THIRD PARTY BENEFICIARIES
+FIRST AGENCY and SECOND AGENCY are the only Parties to this Agreement and are the only Parties entitled to enforce its terms.  Nothing in this Agreement gives, is intended to give, or 
+will 
+be construed to give or provide any benefit or right, whether directly, indirectly or otherwise, to third persons unless such third persons are individually identified by name herein and expressly described as intended beneficiaries of the terms of this Agreement.
+FORCE MAJEURE
+Neither Party is responsible for any failure to perform or any delay in performance of any obligation under this Agreement 
+due to
+ any 
+event or 
+cause which is beyond that Party’s reasonable control.
+MERGER, WAIVER AND MODIFICATION
+This Agreement and all exhibits and attachments, if any, constitute the entire agreement between the Parties on the subject matter hereof
+.  
+There are no understandings, agreements, or representations, oral or written, not specified 
+herein
+ 
+regarding
+ this Agreement
+.  
+No waiver, consent, modification or change of terms of this Agreement 
+will 
+bind either Party unless in writing 
+and
+ signed by both Parties
+.  
+Such waiver, consent, 
+modification
+ or change, if made, 
+will 
+be
+ effective only in the specific instance and for the specific purpose given.
+SUBCONTRACTS AND ASSIGNMENT
+Neither Party may enter into any subcontracts for the performance of any of its obligations under this Agreement, without the prior written consent of the other Party.
+Neither Party may assign, delegate or transfer any of its rights or 
+obligations
+ under this Agreement, without the prior written consent of the other Party.
+ADDITIONAL PROVISIONS
+(Add 
+additional
+ provisions as applicable; see 
+language library
+ for potential language)
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the dates set forth below.
+ 
+STATE OF OREGON acting by and through its
+STATE OF OREGON acting by and through its
+____________________________________________________
+____________________________________________________
+ 
+(I
+nsert name of FIRST AGENCY)
+(I
+nsert name of SECOND AGENCY)
+By:
+ 
+________________________________________________
+By: 
+________________________________________________
+ 
+(signature
+ of Printed Name below
+)
+(signature of Printed Name below)
+____________________________________________________
+____________________________________________________
+ 
+Printed Name
+Printed Name
+____________________________________________________
+____________________________________________________
+ 
+Title
+Title
+____________________________________________________
+____________________________________________________
+ 
+Date
+Date
+Version 
+1
+.
+3
+ - 
+July
+ 6
+, 
+20
+21
+Page 
+4
+ of 
+6
+[Doc Title
+]
+FIRST AGENCY 
+IAA
+ 
+[###-####-##]
+SECOND AGENCY IAA 
+[###-####-##]
+ 

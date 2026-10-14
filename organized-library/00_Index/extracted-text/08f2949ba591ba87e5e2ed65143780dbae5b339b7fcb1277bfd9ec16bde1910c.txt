@@ -1,0 +1,322 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY | FEDERAL EMERGENCY MANAGEMENT AGENCY
+National Flood Insurance Program
+FLOOD INSURANCE APPLICATION, PAGE 1 (OF 2)
+We may void your flood insurance policy and deny any claims under that policy if you 
+or your agent conceal or misrepresent any material fact or circumstance, engage in 
+fraudulent conduct, or make false statements when completing this application.
+IMPORTANT—PLEASE PRINT OR TYPE; ENTER DATES AS MM/DD/YYYY.
+ OMB No. 1660-0006 | Expires February 28, 2027
+ NEW    RENEWAL    ENDORSEMENT    TRANSFER (NFIP POLICIES ONLY)
+POLICY #: 
+PRIOR POLICY #: 
+G N I LL I BFOR RENEW
+AL, BILL:
+  POLICYHOL DER   LOSS PAYEE
+  FIRST MO R
+TGAGEE    OTHER (AS SPECIFIED IN THE “2ND 
+  SECOND MORTGAGEE MORTGAGEE/OTHER” BOX BELOW)
+ D O RI E  P Y IC L O PPOLICY PE RIOD IS FROM  /  /   TO   /  /
+WAITING PERIOD:  
+STANDARD 30-DAY (12:01 A.M. LOCAL TIME)
+MAP REVISION — 1-DAY (12:01 A.M. LOCAL TIME, THE NEXT CALENDAR DAY)
+LOAN TRANSACTION — NO WAITING PERIOD (EFFECTIVE AT TIME OF LOAN CLOSING)
+POST-WILDFIRE — 1-DAY (12:01 A.M. LOCAL TIME, THE NEXT CALENDAR DAY)
+TRANSFER (NFIP POLICIES ONLY) — NO WAITING PERIOD (12:01 A.M. LOCAL TIME)
+N IO T A M R O
+F  IN R E UC D O R P / T N E G A
+NAME AND M
+AILING ADDRESS OF AGENT/PRODUCER:
+AGENCY NO.: 
+AGENT NO.: 
+PHONE N
+O.: 
+EMAIL ADDRESS: 
+ / E E G A
+R
+G
+E
+T R
+TH
+ MO
+O
+D 2N
+NAME AND MA
+ILING ADDRESS OF:   2ND MORTGAGEE     LOSS PAYEE     OTHER 
+IF OTHER, SPECIFY: 
+LOAN NO.: 
+ 
+N
+Y T
+O I
+I UN
+T MA
+MM
+R O
+O
+F
+C
+N I
+CURREN
+T MAP INFORMATION
+CURRENT COMMUNITY NO./PANEL NO. AND SUFFIX: 
+CURRENT FIRM ZONE: 
+MAP DATE:  /  /
+COMMUNITY PROGRAM TYPE IS:     REGULAR     EMERGENCY
+ON I T A M R O F N  I R E D OL H Y C I OL P
+NAME(S) A
+ND MAILING ADDRESS OF POLICYHOLDER(S) :
+PHONE NO.: 
+EMAIL ADDRESS: 
+IS THE POLICYHOLDER A TENANT?    YES    NO
+IS THE POLICYHOLDER A CONDOMINIUM ASSOCIATION?    YES    NO
+IS THE POLICYHOLDER A SMALL BUSINESS?    YES    NO
+IS THE POLICYHOLDER A NON-PROFIT ENTITY?    YES    NO
+IS THE POLICY FORCE-PLACED BY A LENDER?    YES    NO
+N IO T A C O  L LDING UI B
+NOTE: ONE B
+UILDING PER POLICY
+IS THE PROPERTY LOCATION THE SAME AS THE POLICYHOLDER MAILING ADDRESS?  
+  YES     NO (IF NO, ENTER PROPERTY ADDRESS AND TYPE.) 
+PROPERTY ADDRESS TYPE:    STREET     OTHER: 
+FOR AN ADDRESS WITH MULTIPLE BUILDINGS AND/OR FOR A BUILDING WITH ADDITIONS  
+OR EXTENSIONS, DESCRIBE THE INSURED BUILDING: 
+LATITUDE AND LONGITUDE (OPTIONAL):    DATUM:   WGS84    NAD83 
+LATITUDE:     LONGITUDE: 
+IS BUILDING LOCATED IN A CBRS SYSTEM UNIT OR OPA?   SYSTEM UNIT   OPA   NO  
+YEAR SYSTEM UNIT OR OPA ADDED TO CBRS:   1982   1990
+IF IN BUFFER ZONE, DID USFWS ISSUE AN OFFICIAL DETERMINATION SHOWING BUILDING 
+OUTSIDE SYSTEM UNIT OR OPA?   YES    NO
+IF IN OPA, IS BUILDING USE CONSISTENT WITH PROTECTED AREA PURPOSE?   YES    NO
+E E G A G T R O  M 1STNAME AND MAILING ADDRESS OF FIRST MORTGAGEE:
+LOAN NO.: 
+N IO T A M R O F  IN LDING UI B
+1. BUILDI
+NG OCCUPANCY (CH
+ECK ONE)
+SINGLE-FAMILY HOME
+RESIDE
+NTIAL MANUFACTURED/  
+MOBILE HOME
+RESIDENTIAL UNIT
+TWO-TO-FOUR FAMILY BUILDING
+OTHER RESIDENTIAL BUILDING
+RESIDENTIAL CONDOMINIUM BUILDING
+NON-RESIDENTIAL BUILDING
+NON-RESIDENTIAL MANUFACTURED/
+MOBILE BUILDING
+NON-RESIDENTIAL UNIT
+2. BUILDING DESCRIPTION (CHECK ONE)
+Residential
+ENTIRE APARTMENT BUILDING
+APARTMENT UNIT
+ENTIRE COOPERATIVE BUILDING
+COOPERATIVE UNIT
+DETACHED GUEST HOUSE
+MAIN DWELLING
+ENTIRE RESIDENTIAL CONDOMINIUM  
+BUILDING
+RESIDENTIAL CONDOMINIUM UNIT  
+(IN RESIDENTIAL BUILDING)
+RESIDENTIAL CONDOMINIUM UNIT  
+(IN NON-RESIDENTIAL BUILDING)
+OTHER DWELLING TYPE: 
+Non-Residential
+AGRICULTURAL BUILDING
+ COMMERCIAL
+DETACHED GARAGE
+ GOVERNMENT-OWNED
+HOUSE OF WORSHIP
+RECREATION BUILDING
+STORAGE/TOOL SHED
+OTHER NON-RESIDENTIAL TYPE: 
+3. FOUNDATION TYPE
+SLAB ON GRADE ( Non-Elevated )
+BASEMENT ( Non-Elevated )
+CRAWLSPACE (Elevated or Non-Elevated 
+Sub-Grade Crawlspace )
+ELEVATED WITHOUT ENCLOSURE ON 
+POSTS, PILES, OR PIERS 
+ELEVATED WITH ENCLOSURE ON POSTS, 
+PILES, OR PIERS 
+ELEVATED WITH ENCLOSURE NOT 
+ON POSTS, PILES, OR PIERS ( Solid 
+Foundation Walls )
+IS THE ENCLOSURE/CRAWLSPACE 
+CONSTRUCTED WITH PROPER FLOOD 
+OPENINGS OR ENGINEERED OPENINGS?  
+  YES      NO
+IF YES, ENTER THE TOTAL NUMBER OF 
+FLOOD OPENINGS 
+TOTAL AREA OF ALL PERMANENT OPENINGS: 
+ SQUARE INCHES
+TOTAL ENCLOSED AREA: 
+SQUARE FEET
+4. FIRST FLOOR HEIGHT DETERMINATION
+ELEVATION CERTIFICATE (OPTIONAL):
+ELEVATION CERTIFICATE DATE:  
+ /  /
+BUILDING DIAGRAM NUMBER: 
+If Using Section C:
+LOWEST ADJACENT GRADE (IN FEET): 
+LOWEST FLOOR ELEVATION (IN FEET): 
+FIRST FLOOR HEIGHT (IN FEET): 
+If Using Section E:
+FIRST FLOOR HEIGHT (IN FEET): 
+FIRST FLOOR HEIGHT USED (IN FEET): 
+METHOD USED TO DETERMINE FIRST FLOOR 
+HEIGHT: 
+5. BUILDING CHARACTERISTICS
+IS BUILDING UNDER CONSTRUCTION? 
+  YES     NO
+DATE OF CONSTRUCTION:  /  /
+HAS THE BUILDING BEEN SUBSTANTIALLY 
+IMPROVED?     YES     NO
+IF YES, ENTER SUBSTANTIALLY IMPROVED 
+DATE:  /  /
+CONSTRUCTION TYPE:     FRAME  
+  MASONRY     OTHER: 
+IS THE BUILDING OVER WATER?   
+  NO     PARTIALLY     ENTIRELY
+IS THE BUILDING PROPERLY 
+FLOODPROOFED?     YES     NO
+IS THE BUILDING ELIGIBLE FOR THE 
+MACHINERY AND EQUIPMENT MITIGATION 
+DISCOUNT?     YES     NO
+BUILDING SQUARE FOOTAGE: 
+NUMBER OF DETACHED STRUCTURES ON 
+PROPERTY: 
+NUMBER OF ELEVATORS: 
+NUMBER OF FLOORS IN BUILDING 
+(EXCLUDING BASEMENT/ENCLOSED AREA,
+IF ANY): 
+IF THE COVERAGE IS FOR A UNIT, INDICATE 
+THE FLOOR WHERE THE UNIT IS LOCATED:  
+TOTAL NUMBER OF UNITS IN THE BUILDING:  
+BUILDING REPLACEMENT COST (INCLUDING 
+FOUNDATION):  $
+IS THE BUILDING A RENTAL PROPERTY?   
+  YES     NO
+IS BUILDING THE POLICYHOLDER’S PRIMARY 
+RESIDENCE?     YES     NO
+IF MANUFACTURED/MOBILE HOME OR 
+BUILDING (INCLUDING TRAVEL TRAILER)  
+PROVIDE IDENTIFICATION NUMBER:
+FEMA Form FF-206-FY-21-11 7 (f ormerly 086-0-1) (05/2021)
+IMPORTANT — COMPLETE PAGE 1 AND PAGE 2 BEFORE SENDING APPLICATION TO THE NFIP.  — IMPORTANT
+ 
+– 
+
+ 
+U.S. DEPARTMENT OF HOMELAND SECURITY | FEDERAL EMERGENCY MANAGEMENT AGENCY
+National Flood Insurance Program
+FLOOD INSURANCE APPLICATION, PAGE 2 (OF 2)
+ OMB No. 1660-0006 | Expires February 28, 2027
+IMPORTANT—PLEASE PRINT OR TYPE ; ENTER DATES AS MM/DD/YYYY. 
+ NEW    RENEWAL    ENDORSEMENT    TRANSFER (NFIP POLICIES ONLY)
+POLICY #: 
+PRIOR POLICY #:
+ , S BLE I
+S
+T C
+NT
+U
+U
+D
+O
+E  D
+SC I
+, E
+ D
+G
+D
+A
+N
+R
+A
+VE O C
+COVERAGES AND DEDUCTIBLES 
+SFIP Form:    Dwelling    General Property    RCBAP
+Amount of Insurance:  
+Building $ Contents $ 
+Deductible: 
+Building $ Contents $ 
+Rate Category:  Rating Engine     Provisional Rate 
+DISCOUNTS
+Did the applicant ha
+ve a prior NFIP policy for the building that received 
+a Newly Mapped discount and lapsed?    Yes    No
+If yes, did the lapse occur for a valid reason?  Yes    No
+Is the property eligible for the Newly Mapped discount?    Yes    No
+Did the applicant have a prior NFIP policy for the building that received 
+a Pre-FIRM discount and lapsed?    Yes    No
+If yes, did the lapse occur for a valid reason?    Yes    No
+E UR T A N IG S
+I declar
+e under penalty of perjury that the foregoing is true and correct. 
+ /  /
+SIGNATURE OF INSURANCE AGENT/PRODUCER DATE (MM/DD/YYYY) 
+ /  /
+SIGNATURE OF POLICYHOLDER (OPTIONAL) DATE (MM/DD/YYYY) 
+E U T D N U O M L A A T O T
+COMPONENTS OF THE TOTAL AMOUNT DUE
+Building Premium + $
+Contents Premium + $
+Increased Cost of Compliance (ICC) Premium + $
+Mitigation Discount − $
+Community Rating System Discount − $
+FULL RISK PREMIUM = $
+STATUTORY DISCOUNTS
+Annual Increase Cap − $
+Pre-FIRM Discount − $
+Newly Mapped Discount − $
+Other Statutory Discounts − $
+DISCOUNTED PREMIUM = $
+Reserve Fund Assessment + $
+HFIAA Surcharge + $
+Federal Policy Fee + $
+Probation Surcharge + $
+TOTAL AMOUNT DUE = $
+N IO T A M R O F  IN L A N IO T DI D AEnter any additional information: 
+FEMA Form FF-206-FY-21-117 ( formerly 086-0-1) (05/2021)
+PLEASE SUBMIT TOTAL AMOUNT DUE AND ALL REQUIRED CERTIFICATIONS WITH THE NFIP COPY OF THIS APPLICATION. 
+IF PAYING BY CHECK OR MONEY ORDER, MAKE PAYABLE TO THE NATIONAL FLOOD INSURANCE PROGRAM.
+IMPORTANT — COMPLETE PAGE 1 AND PAGE 2 BEFORE SENDING APPLICATION TO THE NFIP.  — IMPORTANT
+
+U.S. DEPARTMENT OF HOMELAND SECURITY | FEDERAL EMERGENCY MANAGEMENT AGENCY
+National Flood Insurance Program
+FLOOD INSURANCE APPLICATION 
+FEMA Form FF-206-FY-21-117 (formerly 086-0-1)
+NONDISCRIMINATION
+No person or
+ organization shall be excluded from participation in, denied the benefits of, or subjected 
+to discrimination under the Program authorized by the National Flood Insurance Act of 1968, on the 
+grounds of race, color, creed, 
+sex, age, or national origin.
+PRIVACY ACT NOTICE
+Authority: FEMA is authorized to collect the information requested on this form pursuant to the National 
+Flood Insurance Act of 1968, as amended, 42 U.S.C. 4011 et seq. which will enable interested persons 
+to purchase insurance against loss resulting from physical damage to or loss of real property or personal 
+property related thereto arising from any flood occurring in the United States. 42 U.S. Code § 4102 – 
+Criteria for land management and use. 42 U.S. Code § 4104c – Mitigation assistance.
+Purpose: The purpose of the information requested on this document and any supporting documents is to 
+issue flood insurance policies provided through the National Flood Insurance Program.
+Routine Uses: The information requested  on this form may be  shared externally as  a “routine use”  to 
+other federal  agencies, state governments,  local governments, tribal governments,  certain non-profit 
+entities, private  insurance companies participating in  the Write Your Own Program, and their contractors 
+to 
+implement the National Flood Insurance Act of 1968. A complete list of the routine uses can be found 
+in the system of records  notice associated  with this form, “DHS/FEMA-003  National Flood Insurance 
+Program Files” (79  FR 28747). The  Department’s full  list of system of records  notices can be found on 
+the Department’s website at https://www.dhs.gov/system-records-notices-sorns.
+Disclosure:
+ Furnishing this information is voluntary. However, failure to furnish the requested information 
+may delay or prevent the issuance of a flood insurance policy.
+PAPERWORK REDUCTION ACT NOTICE
+Public reporting burden for this form is estimated to average 8 minutes per response. The burden 
+estimate includes the time for reviewing instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and submitting the form. This collection of information 
+is required to obtain or retain benefits. You are not required to submit to this collection of information 
+unless it displays a valid OMB control number. Send comments regarding the accuracy of the burden 
+estimate and any suggestions for reducing the burden to: Information Collections Management, 
+Department of Homeland Security, Federal Emergency Management Agency (FEMA), 500 C Street SW, 
+Washington, DC 20472, NOTE: Do not send your completed form to this address.

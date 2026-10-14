@@ -1,0 +1,919 @@
+STATE OF IDAHO
+DIVISION OF PURCHASING 
+FOR
+AGENCY
+Invitation t
+o Bid
+ (ITB)
+ 
+ITB Number
+ITB Title
+ 
+Date of Issuance: 
+Date
+TABLE OF CONTENTS
+[
+W
+hen ITB is complete 
+r
+ight cl
+ick on table of contents
+ and “
+update field” and “entire table.”
+  Use of bullets in your document will disrupt this TOC.
+]
+ITB Administrative Information
+1
+1
+PURPOSE
+2
+2
+GENERAL INFORMATION, solicitation instructions and standard terms and conditions
+2
+3
+INQUIRIES
+2
+4
+PRE-BID CONFERENCE - 
+Optional
+2
+5
+BACKGROUND
+3
+6
+SPECIFICATIONS
+3
+7
+QUANTITY
+3
+8
+COST
+3
+9
+BILLING PROCEDURE
+3
+10
+SUBMISSION REQUIREMENTS
+4
+11
+AWARD
+6
+12
+Installation and Acceptance
+6
+13
+Training
+6
+14
+Warranty, Service and Support, Maintenance, etc.
+6
+15
+Contract Monitoring
+6
+16
+liquidated damages
+6
+17
+Reporting requirements
+7
+18
+Delivery
+7
+19
+Subcontractors
+7
+20
+Website/Ordering Requirements
+7
+21
+Fuel Surcharge 
+(address increase as well as decrease; tie to opis indices)
+7
+22
+Use of State Purchasing Card 
+(specify if it must be allowed as a form of payment)
+7
+23
+Additions to Contract
+7
+24
+Compliance with
+7
+25
+Price Adjustment Clause
+7
+26
+Additional Manufacturer Discount
+7
+27
+Insurance Requirements
+7
+28
+Printing Preference
+9
+29
+Records Maintenance
+9
+30
+Audit Rights
+9
+ATTACHMENT 1-BIDDER QUESTIONS
+10
+Attachment 2-BID SCHEDULE
+12
+ITB Administrative Information
+ITB Title:
+Title
+ITB Project Description:
+Short Description of Project
+ITB Lead:
+Name
+, 
+Title
+Agency
+Address
+E-mail
+Phone
+Submit sealed 
+Bid
+ (if submitting manually):
+MANUAL 
+BIDS
+ 
+MUST BE RECEIVED AT THE PHYSICAL ADDRESS 
+DESIGNATED FOR COURIER SERVICE 
+AND TIME/DATE STAMPED BY DOP [
+REPLACE WITH AGENCY NAME 
+IF AGENCY IS RELEASING ITB
+]
+ PRIOR TO THE CLOSING DATE AND TIME.
+Submit electronically via IPRO:
+Address for Courier
+Enter Address for Courier
+Address for US Mail (if different)
+Address for Mail
+Electronic Submission
+IPRO LOGIN
+Pre-
+Bid
+ Conference:
+Pre-
+Bid
+ Conference Location:
+ 
+(if held, otherwise remove)
+Day of week, date, time 
+Mountain Time 
+Address/Room # (include any additional  information if agency has security desk)
+Deadline To Receive Questions:
+Day of week, date, 11:59:59
+ p.m. Mountain Time
+ITB Closing Date:
+See 
+IPRO Header Document
+ITB Opening Date:
+10:30 a.m. Mountain Time 
+the following business day after closing
+Demonstrations/Oral Presentation:
+ 
+(if they may
+ be conducted otherwise remove)
+Tentatively scheduled for the week of 
+Enter Date
+Initial Term of Contract and 
+Renewals
+ (or Delivery Date)
+:
+ 
+Spell out the number
+ (
+#
+) years.  Upon 
+mutual, written agreement, the C
+ontract may be renewed
+,
+ extended
+ or amended
+.
+  The anticipated total Contract term is
+ 
+spell out the number
+ (
+#
+) years
+.
+OR 
+Delivery is expected ## days ARO (after receipt of order
+) (or by a certain delivery date
+)
+PURPOSE
+Option
+ 1
+:  The purpose of this Invitation to Bid (ITB) is to
+ 
+describe the commodity or service required
+  
+Option
+ 2:
+  The State Department of
+ 
+Agency
+, through the Idaho Division of Purchasing (“
+DOP
+”), is requesting 
+Bid
+s from qualified 
+V
+endors for the purchase of
+ 
+Commodity or Service
+ 
+in accordance with the specifications provided below.
+GENERAL INFORMATION
+, solicitation instructions and standard terms and conditions
+This 
+Solicitation
+ is issued by the 
+s
+tate of Idaho 
+(the “State”)
+ via 
+IPRO
+:
+ 
+(IPRO LOGIN). 
+ 
+The 
+ITB Lead
+ is the only contact for this 
+Solicitation
+.  
+All correspondence
+ regarding this ITB
+ shall be in writing.  In the event that it becomes necessary to revise any part of this ITB, 
+amendments will be posted at
+ IPRO.  It is the responsibility of the 
+Bid
+der to monitor IPRO
+ for any updates or amendments.  Any oral interpretations or clarifications of this ITB shall not be relied upon.  All changes to this ITB must be in writing and posted at IPRO to be valid. 
+ Alternate 
+Bid
+s 
+are/are not
+ allowed.
+INQUIRIES
+Questions or other correspondence must be submitted in writing to the 
+ITB Lead
+ listed below.
+  
+QUESTIONS MUST BE RECEIVED BY 
+11:59:59
+ P.M. M
+ountain 
+T
+ime
+ ON THE DATE LISTED IN THE ITB ADMINISTRATIVE INFORMATION.  
+Written questions must be submitted using 
+Attachment 1, 
+Bidder Questions
+. Official answers to all written questions will be posted on IPRO 
+as an amendment to this ITB.
+ITB Lead
+:
+ 
+ 
+ 
+ 
+ 
+ 
+Phone: 
+ 
+ 
+ 
+ 
+ 
+Fax:
+ 
+ 
+ 
+ 
+ 
+ 
+E-mail: 
+ 
+ 
+ 
+ 
+ 
+Any questions regarding the State of Idaho Standard Contract Terms and Conditions found at 
+(
+Contract Terms and Conditions
+)
+ 
+must also be submitted in writing, using
+ 
+Attachment 1, 
+Bidder Questions
+, by the deadline identified in 
+the 
+ITB 
+Administrative Information
+. The State will not consider proposed modifications to these requirements after the date and time set for receiving questions. Questions regarding these requirements must contain the following:
+The rationale for the specific requirement being unacceptable to the party submitting the question (define the deficiency)
+.
+Recommended verbiage for the State’s consideration that is consistent in content, context, and form with the State’s requirement that is being questioned
+.
+Explanation of how the State’s acceptance of the recommended verbiage is fair and equitable to both the State and to the party submitting the question.
+Bids which condition the 
+Bid
+ based upon the State accepting other terms and conditions not found in the ITB, or which take exception to the State’s terms and conditions, will be found non-responsive, and no further consideration of the 
+Bid
+ will be given.
+PRE-BID CONFERENCE - 
+Optional
+All 
+parties
+ interested
+ may attend 
+the optional pre-bid conference, 
+at their expense.  Parties interested in attending this conference 
+should notify 
+the 
+ITB Lead
+ no later than one (1) business day prior to the date of the 
+pre-bid conference.  The written request 
+should
+ specify the name and title of each person who will be attending.  A maximum of three (3) persons for each party interested will be allowed to attend in-person.
+  
+P
+arties
+ interested
+ may also
+ attend the pre-bid conference via teleconference
+ by obtaining conference call-in details from the 
+ITB Lead
+.
+Failure to attend the 
+optional 
+pre-bid conference shall not relieve the Bidder of meetin
+g the requirements of this ITB.
+[If a pre-bid conference will be held, include this section and refer to the date, time and location included in the 
+Administrative information
+ above. Otherwise, delete this section.]
+BACKGROUND
+ 
+Provide pertinent background information; current conditions; existing hardware, software; electrical/facility capabilities; state resources available; etc.
+SPECIFICATION
+S
+ 
+These specifications are the minimum mandatory specifications that your Bid must meet in order for the State to consider your Bid for award.  
+R
+estate each specification listed in this 
+section
+, followed by your response demonstrating that your 
+Bid
+ meets or exceeds the required specifications
+; provide mode
+l, part #, or 
+description, as appropriate
+.
+Outline any minimum 
+Bid
+der requirements/qualifications: factory-certified, OEM, local presence, # years similar experience, brand name or equal (as appropriate) etc.
+I
+f specifications are lengthy
+ consider attaching separately and providing a reference; and/or creating an Excel spreadsheet checklist for 
+Bid
+ders to complete and return
+ and make reference to the attachment here
+.
+ 
+QUANTITY
+Detail any quantity requirements; include estimated quantities language, as appropriate.
+COST
+Provide your fully burdened Total Cost on the Bid Schedule (
+Attachment 2
+). 
+[Modify as needed for line item pricing, etc.; address volume discount; sliding scale; etc. as appropriate. If the project includes an ho
+urly rate, note that the rate must be firm, fixed, and fully bur
+d
+en
+ed. An hourly rate should include, but not be limited to, travel, per diem, fringe benefits and any overhead costs for 
+Contract
+or personnel, as well as subcontractor personnel, if appropriate.]
+BILLING PROCEDURE
+The Contractor
+ must
+ provide a signed invoice upon
+ [Agency acceptance/delivery/service completion/completion of each line item/etc.]
+.  The invoice 
+[
+and respective reports
+]
+ must be submitted no later thirty (30) calendar days after 
+[acceptance/delivery/
+services were provided
+]
+.  No invoice 
+will 
+be accepted or paid without receipt of required 
+[
+reports
+/documentation/etc.]
+.  Invoices 
+submitted 
+without the required 
+[
+reports
+/
+documentation
+]
+ will be returned to the Contractor for resubmission. 
+ 
+The 
+Contract
+or must provide the following information with each invoice: 
+1
+IPRO c
+ontract 
+n
+umber (and name of project/product, if appropriate)
+ and Agency PO number
+2
+Identification of 
+b
+illing 
+p
+eriod
+3
+Total amount billed for the billing period
+4
+Detailed description of services/products provided and associated # of hours/$ amounts, as appropriate
+5
+Name of authorized individual
+ and 
+contact information for Contractor 
+Invoices and reports are to be submitted to:
+ 
+[
+Agency must complete the spaces below
+]
+Agency Contact Person: 
+Agency Name: 
+Address:
+SUBMISSION REQUIREMENTS
+10
+.1
+Required Bid Submission Items
+Your
+ Bid
+ Submission must
+ consist of the following:
+Bid Schedule
+Provide your cost information on 
+Attachment 2
+, Bid Schedule, below. 
+  Do not submit your Bid on any other form.  Submitting your Bid on a form different than the Bid Schedule may cause your Bid to be rejected as non-responsive.  
+List other required response items – checklist, specification sheets, affidavits, literature, licenses, etc.
+State of Idaho Signature Page 
+The 
+State of 
+Idaho Signature 
+P
+age
+ must be completed and submitted as part of your Bid
+. 
+The State of Idaho Signature Page is attached in IPRO
+.
+10
+.
+2
+Bid Submission 
+Methods
+Bids may be submitted electronically
+ via IPRO
+ or manually
+ in a sealed envelope/package
+.  
+Do not fax or e-mail your 
+Bid
+.  
+Your 
+Bid
+ must be received at the Division of Purchasing by the date and time specified on the IPRO header document.  The official time, for bid closing purposes, is the 
+Division of Purchasing’s
+ time clock.  
+10
+.2.1
+Electronic Submission via IPRO 
+If 
+submitting electronically via IPRO, 
+upload all of the Required Bid Submission Items (
+S
+ee
+ Section 8.1) and 
+enter your cost in IPRO for each line item; as the “
+Total Cost” on the Bid Schedule
+ 
+OR
+ 
+$0.00 as your cost in IPRO
+. 
+Upload all 
+Required Bid Submission I
+tems 
+using Microsoft products such as Word and Excel. Do not submit items in .pdf format, unless provided otherwise in this ITB.
+If submitting via IPRO, be advised that that the 
+Bidder
+ for 
+Bid
+ evaluation and award purposes is the entity profile under which submit in IPRO, which must be the same legal entity presented in your uploaded response materials.  If the entity identified on the state supplied Signature Page differs from the entity under which you submit your 
+Bid
+ in IPRO, the information provided on the Signature Page prevails.
+While it is not mandatory to submit your Bid electronically via IPRO, all Bidders participating in a 
+Solicitation
+ issued through IPRO must establish an account in the IPRO system (even if submitting a Bid manually 
+outside of IPRO) as it is necessary in order to process and/or award the resulting Contract(s).
+ 
+ It is free to establish an account and only takes a few minutes.
+Bidders
+ are further advised to upload response materials with descriptive file names, organized and consolidated in a manner which allows 
+the State 
+to efficiently navigate the 
+Bidde
+r’s response; as the State will print uploaded documents for evaluation in the manner received via IPRO.
+10
+.2.2
+Manual Submission  
+If submit
+ting manually (via U.S. Mail, courier
+ or 
+hand-delivery), seal all Required 
+Bid Submission I
+tems in a single envelope or package (
+be certain to include an original hand-written signature
+ in ink OR an electronic signature
+ on the State of Idaho Signature Page
+) and label the outside of the package as follows:
+Attn: 
+Name
+, 
+Idaho Division of Purchasing
+Bidder Name
+:
+ 
+(Company N
+ame
+)
+ITB Number:
+ITB Title:
+Bidders submitting manually must provide one (1) original and 
+Spell number
+ (
+Number
+) copies of their Bids
+, as well as an electronic copy on a USB or CD
+.
+  Please clearly identify the original
+ 
+manual submission 
+and be 
+certain that the Signature Page is located at the 
+front
+ of the original 
+B
+id
+.
+10.3 
+Trade Secrets
+If your 
+Bid
+ contains trade secret information which you have identified, you must also submit a redacted copy of the 
+Bid
+ (in electronic format, with the word “redacted” in the file name) with all trade secret information removed or blacked out; as well as a separate document containing a complete list (per the instructions in 
+the three (3) paragraphs directly below
+) of all trade secret information which was removed or blacked out in the 
+redacted copy.
+Paragraph 28 of the Solicitation Instructions to Vendors describes trade secrets to “
+include a formula, pattern, compilation, program, computer program, device, method, technique or process that derives economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by other persons and is subject to the efforts that are reasonable under the circumstances to maintain its secrecy
+.”  In addition to marking each page of the document with a trade secret notation (as applicable; and as provided in Paragraph 28 of the Solicitation Instructions to Vendors), Bidders must also:
+Identify with particularity the precise text, illustration, or other information contained within each page marked “trade secret” (it is not sufficient to simply mark the entire page).  The specific information you deem “trade secret” within each noted page must be highlighted, italicized, identified by asterisks, contained within a text border, or otherwise clearly delineated from other text/information and specifically identified as a “trade secret.”
+Provide a separate document entitled “List of Redacted Trade Secret Information” which provides a succinct list of all trade secret information noted in your Bid; listed in the order it appears in your submittal documents, identified by Page
+ 
+#, Section
+ 
+#/Paragraph
+ 
+#, Title of Section/Paragraph, specific portions of text/illustrations; or in a manner otherwise sufficient to allow the State’s procurement personnel to determine the precise text/material subject to the notation. 
+ Additionally, this list must identify with each notation the specific basis for your position that the material be treated as exempt from disclosure.
+AWARD
+Award will be made to the responsive responsible 
+Bid
+der with the lowest 
+Total Cost
+, as provided on the Bid 
+Schedule
+.
+[
+If you want to include an option for demonstrations or oral presentations, add language here, e.g. “The apparent successful 
+Bid
+der may be required to demonstrate
+ that
+ [the equipment/software/etc.] 
+meets or exceeds the specifications included in this ITB 
+in order to be considered for award.”]
+[Modify 
+the award section 
+as appropriate for possibility of multiple awards; line item; groups of line items; etc.; or to explain how “Total Cost” will be determined for evaluation purposes].
+[
+The following are optional sections and should be included as appropriate. If they don’t apply, delete them.
+  If you have additional 
+requirements
+ please add them.  When in doubt, consult with DOP and/or your legal counsel.
+]
+Note: 
+In the event of conflict with the State’s Standard Terms and Conditions, or other term
+s, conditions or 
+requirements contained in this ITB, the following 
+provisions will take precedence:
+Installation and Acceptance
+[e.g. per
+form complete 
+installation with qualified factory-trained service personnel, including uncrating the shipment and installation of the [software]; provide documentation for all software, as well as an operator’s manual, at the time of delivery, in printed form and in electronic form; provide an approved complete set of mechanical and electrical drawings 
+of the equipment (at the time of delivery); in the format requested by #; to assist # in maintaining and troubleshooting the #; propose an installation and training schedule for # review at least # days prior to the scheduled delivery of the System; define acceptance
+, especially if testing/implementation is required and/or if the warranty begins upon acceptance
+]
+Training
+[Detail expectation of training (included in fully burdened cost); on-site; at Contractor’s site; expense; # participating; on-going; webinar; in-person; additional training opportunities (as OPTIO
+NS, at an additional cost); etc.
+]
+Warranty, Service and Support
+,
+ 
+Maintenance, etc.
+[Expectations for Service/Support; Help Desk; request contact information (phone, e-mail); minimum hours of available assistance; etc
+. Minimum warranty requirements; extended warranty requirements; optional warranties; request copies of warranties, as appropriate
+.]
+Contract Monitoring
+[Include what and how the 
+Contract
+ will be monitored after award. Include deliverables, terms of the 
+Contract
+, performance measures, frequency of audits, consequences of not meeting the terms of the 
+Contract
+.]
+liquidated damages
+[Outline 
+any liquidated damages that may
+ be assessed for failure to meet the terms of the 
+Contract
+. Include 
+when damages will apply, cure periods, and how damages will be calculated. If damages will be an amount per day, include how the per diem was determined.]
+Reporting requirements
+[Outline any reports that are required, who should receive them, and when they are due.]
+D
+elivery
+ 
+[S
+hipping, packaging, palletizing, other specific requirements, 
+as appropriate
+]
+[
+I
+nclude
+ any special instructions outside of FOB Destination as specified in IPRO: inside delivery, second story, freight elevator availability, uncrating, disposal of packaging
+ (recycle?)
+, 
+delivery time line
+/time of day/contact personnel at receiving; 
+etc.]
+Subcontractors
+[O
+utline expectations with regard to use of subcontractors, if other than as covered in
+ 
+Standard Terms and Conditions]
+Website/Ordering Requirements
+Fuel Surcharge
+ 
+(address increase as well as decrease; tie to opis indices)
+Use of State Purchasing Card
+ 
+(specify if it must be allowed as a form of payment)
+Additions to Contract
+Compliance with
+ 
+[
+I
+dentified laws, rules, regulations]
+Price Adjustment Clause
+ 
+[
+I
+f 
+you are including a clause addressing price adjustment
+; consider whether or not price adjustments will be tied to an index, capped at a certain percentage, or simply that the Contractor will need to justify any requested increases to the satisfaction of the State or your agency, and draft language accordingly
+]
+Additional Manufacturer Discount
+ 
+[I
+f applicable]
+Insurance Requirements
+ 
+[
+I
+f 
+applicable
+]
+Within 5 days of notification of award (or such other time as designated by the Purchasing Activity), the apparent successful Bidder or Offeror will provide certificates of insurance required herein and will maintain the insurance during the life of the Contract. There are no provisions for exceptions to this requirement. Failure to provide the certificates of insurance within the 5 business day period may be cause for your Bid or Proposal to be declared non-responsive or for your Contract to be cancelled. 
+Contractor shall carry liability and property damage insurance that will protect it and the State of Idaho from claims for damages for bodily injury, including accidental death, as well as for claims for property damages, which may arise from operations under the Contract whether such operations be by themselves or by anyone directly or indirectly employed by either of them.
+Contractor shall not commence work under the Contract until it obtains all insurance required under this provision and furnishes a certificate or other form showing proof of current coverage to the State. All insurance policies and 
+certificates must be signed copies. After work commences, the Contractor will keep in force all required insurance until the Contract is terminated.
+27.
+1 Commercial General and Umbrella Liability Insurance. Contractor shall maintain Commercial General Liability (CGL) and, if necessary, Commercial Umbrella insurance with a limit of not less than $1,000,000 each occurrence. If such CGL insurance contains a general aggregate limit, it shall apply separately to the Contract. 
+27.
+1.1 CGL insurance shall be written on ISO occurrence form CG 00 01 (or a substitute form providing equivalent coverage) and shall cover liability arising from premises, operations, independent contractors, products-completed operations, personal and advertising injury, and liability assumed under an insured contract (including the tort liability of another assumed in a business contract). 
+27.
+2 Commercial Automobile and Commercial Umbrella Liability Insurance. Contractor shall maintain Commercial Automobile Liability and, if necessary, Commercial Umbrella Liability insurance with a limit of not less than $1,000,000 each accident. Such insurance shall cover liability arising out of any auto (including owned, hired, and non-owned autos). 
+27.
+2.1 Bidder or Offeror may request a waiver from providing Commercial Automobile and Commercial Umbrella Liability Insurance in its Bid or Proposal if the Bidder or Offeror will not use any owned, hired or non-owned vehicles to conduct business under the Contract, if it is awarded the Contract, and the State of Idaho will consider the request.  If the Bidder or Offeror submits a request to waive the provision of Commercial Automobile and Commercial Umbrella Liability Insurance after the due date and time for receipt of Bids or Proposals, the State of Idaho may not consider the request.
+27.
+3 Workers Compensation Insurance and Employer's Liability. Contractor shall maintain workers compensation and employer's liability.  The employer's liability shall have limits not less than $500,000 each accident for bodily insurance by accident or $500,000 each employee for bodily injury by disease.
+27.
+3.1 Contractor must provide either a certificate of workers compensation insurance issued by a surety licensed to write workers compensation insurance in the State of Idaho, as evidence that the Contractor has in effect a current Idaho workers compensation insurance policy, or an extraterritorial certificate approved by the Idaho Industrial Commission from a state that has a current reciprocity agreement with the Idaho Industrial Commission.
+27.
+4 State of Idaho as Additional Insured: The liability insurance coverage required for performance of the Contract shall include the State of Idaho, the (agency) and its divisions, officers and employees as additional insured, but only with respect to the Contractor’s activities to be performed under the Contract.
+27.
+4.1 The Contractor must provide proof of the State of Idaho, the (agency) and its divisions, officers and employees being additional insured by providing endorsements to the liability insurance policies showing the State of Idaho, the (agency) and its divisions, officers and employees as additional insured.  The endorsements must also show the policy numbers and the policy effective dates.
+27.
+4.2 If a liability insurance policy provides for automatically endorsing additional insured when required by contract, then, in that case, the Contractor must provide proof of the State of Idaho, the (agency) and its divisions, officers and employees being additional insured by providing copies of the policy pages that clearly identify the blanket endorsement.
+27.
+5 Notice of Cancellation or Change: Contractor shall ensure that should any of the above described policies be cancelled before the expiration date thereof, or if there is a material change, potential exhaustion of aggregate limits or intent not to renew insurance coverage(s), that written notice will be delivered to the Division of Purchasing (if the Contract was issued by the Division) or to the Purchasing Activity (contracting state agency) in accordance with the policy provisions.
+27.
+6 Contractor shall further ensure that all policies of insurance are endorsed to read that any failure to comply with the reporting provisions of this insurance, except for the potential exhaustion of aggregate limits, shall not affect the coverage(s) provided to the State of Idaho, and its divisions, officers and employees.
+27.
+7 Acceptable Insurers and Deductibles: Insurance coverage required under the Contract shall be obtained from insurers rated A-VII or better in the latest Bests Rating Guide and in good standing and authorized to transact business in Idaho. The Contractor shall be financially responsible for all deductibles, self-insured retention’s and/or self-insurance included hereunder. The coverage provided by such policy will be primary to any coverage of the State on or related to the Contract and shall provide that the insurance afforded applies separately to each insured against whom a claim is made, except with respect to the limitation of liability.
+27.
+8 Waiver of Subrogation: All policies shall contain waivers of subrogation. The Contractor waives all rights against the State and its officers, employees, and agents for recovery of damages to the extent these damages are covered by the required policies. Policies may contain deductibles but such deductibles will not be deducted from any damages due to the State.
+Printing Preference
+ 
+[
+I
+f Printing 
+is part (or all) of 
+Bid
+]
+Records Maintenance
+Contractor shall maintain or supervise the maintenance of all records necessary to properly account for all payments made to the Contractor pursuant to the Contract. These records shall
+ 
+be retained by the Contractor for at least three (3) years after the Contract terminates, or until all audits initiated within the three (3) years have been completed, whichever is later.
+Audit Rights
+The Contractor agrees to allow State and Federal auditors and State purchasing staff access to
+ 
+all the records relating to this Contract, for audit, inspection, and monitoring of services or performance.  Such access will be during normal business hours or by appointment. 
+[Additional provisions as applicable to the procurement]
+ITB
+Number
+ & Title
+ATTACHMENT 1
+-
+BIDDER
+ QUESTIONS
+ 
+PLEASE DO NOT IDENTIFY YOUR NAME OR YOUR COMPANY’S NAME OR PRODUCT NAMES OF INTELLECTUAL PROPERTY IN YOUR QUESTIONS.
+ADD ROWS BY HITTING THE TAB KEY WHILE WITHIN THE TABLE AND WITHIN THE FINAL ROW.
+The following instructions must be followed when submitting questions using the question format on the following page.
+DO NOT CHANGE THE FORMAT OR FONT.  Do not bold your questions or change the color of the font.
+Enter the 
+ITB
+ section number that the question is for in the “
+ITB
+ Section” field (column 2).  If the question is a general question not related to a specific 
+ITB
+ section, enter “General” in column 2.  If the question is in regards to a State T
+erm or
+ Condition
+ or a Special Term or 
+Condition, state the clause number in column 2.  If the question is in regard to an attachment, enter the attachment identifier (example “Attachment A”) in the “
+ITB
+ Section” (column 2), and the attachment page number in the “
+ITB 
+page” field (column 3).
+Do not enter text in
+ the “Response” field
+ 
+(
+column 5
+)
+.  This is for the State’s use only.
+Once completed, this form is to be e-mailed per the instructions in the 
+ITB
+.  The e-mail subject line is to state the 
+ITB
+ number followed by “Questions.”
+ITB Number & Title
+  
+ITB
+ Section
+ITB
+ Page
+Question
+Response
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+ 
+Attachment 2
+-
+BID SCHEDULE
+ITB
+ITB Number
+ 
+ITB Title
+ 
+[
+Tailor Bid Schedule 
+to the ITB; this is a sample]
+This completed Bid
+ Schedule
+ must be 
+submitted
+ with 
+your 
+response
+.  
+Section
+Item Number
+Item Description
+ Qty
+UOM
+Cost
+Total
+ Cost
+ 
+Delivery within 
+ days ARO
+ 
+[note any required time lines for delivery]
+OPTION ITEMS
+Item
+s
+ below are
+ “OPTION” item
+s
+, and wil
+l not be considered in the 
+cost 
+evaluation.  
+If 
+Agency
+chooses
+ to purchase “OPTION” items, that right 
+will 
+be exercised at the time of 
+Contract
+ 
+a
+ward.
+Section
+Item Number
+Item Description
+ Qty
+UOM
+Cost
+$
+$
+Total
+ (optional items only)
+$
+Company
+ 
+Name of Bidder: 
+Contact Name/Phone: 
+ 
+Contact E-mail: 
+ITB0
+####
+ Titl
+e
+Page 
+12

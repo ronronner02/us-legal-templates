@@ -1,0 +1,1399 @@
+IT-SC Template – 6/3/2026       Page 1 
+ 
+ 
+IT SERVICE CONTRACT 
+DATE: Click or tap to enter a date. CONTRACT AMOUNT: $ 
+ADVANTAGE CONTRACT #:  
+DEPARTMENT AGREEMENT #: ITP #: 
+START DATE: Click or tap to enter a date. END DATE: Click or tap to enter a date. 
+ 
+This Contract is between the following State of Maine Department and Provider: 
+STATE OF MAINE DEPARTMENT 
+DEPARTMENT NAME: 
+ADDRESS: 
+CITY: STATE: ZIP CODE: 
+PROVIDER 
+PROVIDER NAME: 
+ADDRESS: 
+CITY: STATE: ZIP CODE: 
+PROVIDER’S VENDOR CUSTOMER #: 
+Each signatory below represents that the person has the requisite authority to enter into this Contract.  
+Department Representative:          Provider Representative: 
+   
+BY: Name / Title                     Date  BY: Name / Title                        Date 
+Department of Administrative and Financial Services, Office of Information Technology: 
+   
+BY: Nicholas Marquis, Chief Information Officer                                                                    Date 
+The contract is fully executed when all parties sign and funds have been encumbered. Upon final 
+approval by the Office of State Procurement Services, a case details page will be made part of this 
+contract. 
+  
+ 
+
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 2 
+DEPARTMENT AND PROVIDER POINT OF CONTACT 
+ 
+CONTRACT ADMINISTRATOR: The following person is designated as the C ontract Administrator on 
+behalf of the Department for this Contract. All financial reports, invoices, correspondence and related 
+submissions from the Provider as outlined in Rider A, Reports, shall be submitted to:  
+NAME:         
+EMAIL: TELEPHONE: 
+ADDRESS:         
+CITY:         STATE:         ZIP CODE:         
+ 
+PROGRAM ADMINISTRATOR:  (Program Administrator section is optional.)  
+The following person is designated as the Program Administrator . This person will be able to respond 
+to routine questions pertaining to the Contract; they will not be able to alter the scope of the Contract.  
+NAME:         
+EMAIL: TELEPHONE: 
+ADDRESS:         
+CITY:         STATE:         ZIP CODE:         
+ 
+PROVIDER CONTACT: The following person is designated as the Contact Person  on behalf of the 
+Provider for this Contract. All contractual correspondence from the Department shall be submitted to:  
+NAME:         
+EMAIL: TELEPHONE: 
+ADDRESS:         
+CITY:         STATE:         ZIP CODE:         
+ 
+Any changes to the individuals identified above may be changed at any time through written notice by 
+either party. 
+  
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 3 
+TABLE OF RIDERS 
+ 
+Instructions for Departments: (Please delete these instructions before final contract approval.)  
+Complete the table below to indicate the riders and other attachments that are included with this IT 
+Service Contract.  
+• Riders A, B-IT, and G are required.  
+• If any other riders or attachments listed in the table below will not be included, leave the box 
+unchecked. IT Procurement will adjust the Table of Riders accordingly and delete the associated 
+pages from the document. 
+• If additional attachments are included, insert additional rows in the table, check the box,  and 
+identify the title of each attachment.  
+ 
+The following riders are hereby incorporated into this Contract and made part of it by 
+reference.  
+☐ Funding Rider 
+☒ Rider A – Specifications of Work to be Performed 
+☒ Rider B-IT – Terms and Conditions 
+☐ Rider C - Exceptions 
+☐ Rider D – Included at Department’s Discretion 
+☐ Rider E – Included at Department’s Discretion 
+☐ Rider F – Included at Department’s Discretion 
+☒ Rider G – Identification of Country in Which Contracted Work will be Performed 
+☐ ATTACHMENT A - Confidentiality and Non-Disclosure Agreement – (Remove 
+unless MaineIT check) 
+☐ ATTACHMENT B - Business Associate Agreement – Included at Department’s 
+Discretion 
+☐ Other – Included at Department’s Discretion 
+ 
+  
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 4 
+FUNDING RIDER 
+ 
+Internal Purposes Only 
+ 
+CODING: (Departments – Insert additional tables as needed for additional coding.) 
+ 
+LINE 
+TOTAL 
+FUND DEPT UNIT SUB 
+UNIT 
+OBJ PROGRAM PROGRAM 
+PERIOD 
+APPR 
+FUNDING 
+FISCAL 
+YEAR 
+$                                                                                                    
+ 
+LINE 
+TOTAL 
+FUND DEPT UNIT SUB 
+UNIT 
+OBJ PROGRAM PROGRAM 
+PERIOD 
+APPR 
+FUNDING 
+FISCAL 
+YEAR 
+$                                                                                                    
+ 
+LINE 
+TOTAL 
+FUND DEPT UNIT SUB 
+UNIT 
+OBJ PROGRAM PROGRAM 
+PERIOD 
+APPR 
+FUNDING 
+FISCAL 
+YEAR 
+$                                                                                                    
+ 
+ 
+ 
+FUNDING TOTAL:    $              
+ 
+The sources of funds and compliance requirements for this Contract follow: 
+ 
+State General Fund             $             
+Dedicated/Special Revenue  $             
+Federal Funds    $             
+  
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 5 
+RIDER A: SCOPE OF WORK 
+ 
+TABLE OF CONTENTS 
+ 
+I. Acronyms 
+II. Introduction/Overview 
+III. Deliverables 
+IV. Technical Requirements  
+V. Performance Measures (Delete if not applicable)   
+VI. Reports (Delete if not applicable)   
+ 
+   
+I. ACRONYMS/DEFINITIONS:  
+ The following terms and acronyms shall have the meaning indicated below as referenced in 
+this Contract: 
+ 
+COMMONLY KNOWN ACRONYMS  
+AND DEPARTMENT ABBREVIATIONS 
+BAA Business Associate Agreement 
+Contract Formal and legal binding agreement 
+Department State of Maine Department Entering into this Contract 
+Provider Organization providing services under this Contract 
+State State of Maine 
+IT  Information Technology              
+                             
+ 
+II. INTRODUCTION/OVERVIEW: 
+The purpose of this Contract is Add 3-5 sentences regarding the overall purpose of the 
+service, and state who the target population is… 
+ 
+The Provider shall Enter 2-3 sentences as to what the Provider shall do  
+    
+III. DELIVERABLES: 
+The Provider shall perform all services and maintain all standards and requirements for 
+services provided under this Contract in accordance with the below: Add detailed 
+deliverables the Provider will be performing  
+ 
+IV. TECHNICAL REQUIREMENTS: 
+A. ACCESSIBILITY: All IT products must be accessible to persons with disabilities and must 
+comply with State Accessibility Policy and Standards and the Americans with Disabilities 
+Act. All IT applications must comply with the Digital Accessibility Policy 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 6 
+(https://www.maine.gov/oit/sites/maine.gov.oit/files/inline-
+files/DigitalAccessibilityPolicy.pdf).  
+ 
+B. STATE IT POLICIES: All IT products and services delivered as part of this Contract must 
+conform to the State IT Policies, Standards, and Procedures 
+(https://www.maine.gov/oit/policies-standards) effective at the time this Contract is 
+executed. 
+ 
+V. PERFORMANCE MEASURES:  This section is optional (Delete if not applicable). Enter 
+measurable outcomes you are looking for in this Contract.     
+ 
+VI. REPORTS: This section is optional (Delete if not applicable).  
+A. Required Reports 
+ 
+The Provider shall track and record all data/information necessary to complete the reports 
+listed in the table below: 
+ 
+ Name of Report Description or Appendix #: 
+1.                           
+2.                                     
+ 
+B. Reporting Schedule for Above Listed Required Reports 
+ 
+The Provider shall submit all of the reports listed in the table below to the Department in 
+accordance with the deadlines established within the table: 
+ 
+ Name of 
+Report:  
+Period Captured by 
+Report: (“Each 
+year/quarter/month/week”) 
+Due Date and/or Frequency:  
+(# days after each 
+year/quarter/month/week”) 
+1.                                             
+2.                                                              
+ 
+The Provider understands that the reports are due within the timeframes established and that 
+the Department will not make subsequent payment installments under this Contract until such 
+reports are received, reviewed and accepted. 
+                       
+The Provider further agrees to submit such other data and reports as may be requested by the 
+Contract Administrator.  The Provider shall submit all data and reports to the Contract 
+Administrator listed in section “DEPARTMENT AND PROVIDER POINTS OF CONTACT” of 
+this Contract. 
+  
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 7 
+RIDER B-IT: TERMS AND CONDITIONS 
+ 
+1. INVOICES AND PAYMENTS. Department will pay the Provider as follows: Payment terms are net 
+30 days from the date the State receives an error-free invoice with all necessary and complete 
+supporting documents.   
+ 
+All invoices must include the following: 
+A. Advantage Contract numbers for this contract. 
+B. Vendor Code number assigned when registering as a vendor with the State of Maine. This 
+number appears on all Contracts and Purchase Orders and can be acquired from the agency 
+contact.  
+C. Itemizing all work performed during the invoice period, including the dates of service, rates of 
+pay, hours of work performed, and any other information and/or documentation appropriate 
+and sufficient to substantiate the amount invoiced for payment by the State. 
+D. In cases where hourly rates of contracted resources are concerned, invoices must contain a 
+copy or copies of time sheets associated with that invoice. Time sheets will need to be 
+reviewed and approved by the State’s contract administrator. 
+ 
+The Department may withhold a Retainage for project-based services in the following manner: 
+ 
+i. The allowable payment amount from each project milestone payment will be multiplied 
+by ten (10) percent, giving the amount that will be withheld from payment. Ninety (90) 
+percent of the allowable project milestone payment amount will be paid to the Provider. 
+ 
+ii. The Retainage will be held by the Department until the end of the warranty period. 
+ 
+                
+ 
+2. BENEFITS AND DEDUCTIONS. If the Provider is an individual, the Provider understands and 
+agrees that they are an independent contractor for whom no Federal or State Income Tax will be 
+deducted by the Department, and for whom no retirement benefits, survivor benefit insurance, 
+group life insurance, vacation and sick leave, and similar benefits available to State employees 
+will accrue. The Provider further understands that annual information returns, as required by the 
+Internal Revenue Code or State of Maine Income Tax Law, will be filed by the State Controller 
+with the Internal Revenue Service and the State of Maine Bureau of Revenue Services, copies of 
+which will be furnished to the Provider for their Income Tax records.  
+ 
+3. INDEPENDENT CAPACITY. In the performance of this Contract, the parties hereto agree that the 
+Provider, and any agents and employees of the Provider, shall act in the capacity of an 
+independent contractor and not as officers or employees or agents of the State. 
+ 
+4. DEPARTMENT'S REPRESENTATIVE. The Contract Administrator shall be the Department's 
+representative during the period of this Contract. The Contract Administrator has authority to 
+curtail services if necessary to ensure proper execution. They shall certify to the Department when 
+payments under the Contract are due and the amounts to be paid. They shall make decisions on 
+all claims of the Provider, subject to the approval of the Commissioner of the Department.  
+ 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 8 
+5. CHANGES IN THE WORK. The Department may order changes in the work, the Contract Amount 
+being adjusted accordingly. Any monetary adjustment or any substantive change in the work shall 
+be in the form of an amendment signed by both parties and approved by the State Procurement 
+Review Committee. Said amendment must be effective prior to the execution of the changed 
+work. 
+ 
+6. SUB-CONTRACTORS. The Provider may not enter into any subcontract for the work to be 
+performed under this Contract without the express written consent of the Department. This 
+provision shall not apply to contracts of employment between the Provider and its employees. 
+ 
+The Provider is solely responsible for the performance of work under this Contract. The approval 
+of the Department for the Provider to subcontract for work under this Contract shall not relieve the 
+Provider in any way of its responsibility for performance of the work. 
+ 
+All Subcontractors shall be bound by the terms and conditions set forth in this Contract. The 
+Provider shall give the State immediate notice in writing of any legal action or suit filed, and 
+prompt notice of any claim made against the Provider by any Subcontractor, which may result in 
+litigation related in any way to this Contract, or which may affect the performance of duties under 
+this Contract.  
+ 
+7. SUBLETTING, ASSIGNMENT OR TRANSFER. The Provider shall not sublet, sell, transfer, 
+assign, or otherwise dispose of this Contract, or any portion thereof, or of its right, title, or interest 
+therein, without the written request and written approval from the Department. Such approval shall 
+not in any case relieve the Provider of its responsibility for performance of work or liability under 
+this Contract. 
+ 
+8. EQUAL EMPLOYMENT OPPORTUNITY. During the performance of this Contract, the Provider 
+certifies as follows: 
+ 
+A. The Provider shall not discriminate against any employee or applicant for employment relating 
+to this Contract because of race, color, religious creed, sex, national origin, familial status, 
+ancestry, age, physical or mental disability, sexual orientation, or gender identity, unless 
+related to a bona fide occupational qualification.  
+ 
+Such action shall include but not be limited to the following: employment, upgrading, 
+demotions, or transfers; recruitment or recruitment advertising; layoffs or terminations; rates of 
+pay or other forms of compensation; and selection for training including apprenticeship. The 
+Provider agrees to post in conspicuous places, available to employees and applicants for 
+employment, notices setting forth the provisions of this nondiscrimination clause. 
+ 
+B. The Provider shall, in all solicitations or advertising for employees placed by, or on behalf of, 
+the Provider, relating to this Contract, state that all qualified applicants shall receive 
+consideration for employment without regard to race, color, religious creed, sex, national 
+origin, familial status, ancestry, age, physical or mental disability, or sexual orientation, or 
+gender identity. 
+ 
+C. The Provider shall send to each labor union, or representative of the workers, with which it 
+has a collective bargaining Contract, or other Contract or understanding, whereby it is 
+furnished with labor for the performance of this Contract, a notice to be provided by the 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 9 
+contracting agency, advising the said labor union or workers' representative of the Provider's 
+commitment under this section, and shall post copies of the notice in conspicuous places, 
+available to employees and applicants for employment. 
+ 
+D. The Provider shall inform the contracting Department’s Equal Employment Opportunity 
+Coordinator of any discrimination complaints brought to an external regulatory body (Maine 
+Human Rights Commission, EEOC, Office of Civil Rights, etc.) against their agency by any 
+individual, as well as any lawsuit regarding alleged discriminatory practice. 
+ 
+E. The Provider shall comply with all aspects of the Americans with Disabilities Act (ADA) in 
+employment, and in the provision of service, to include accessibility and reasonable 
+accommodations for employees and clients. 
+ 
+F. The Provider shall cause the foregoing provisions to be inserted in any subcontract for any 
+work covered by this Contract so that such provisions shall be binding upon each 
+Subcontractor, provided that the foregoing provisions shall not apply to contracts or 
+subcontracts for standard commercial supplies or raw materials. 
+ 
+9. CONFLICT OF INTEREST.  The Provider warrants that no State employee has or will receive any 
+direct or indirect pecuniary interest in or receive or be eligible to receive, directly or indirectly, any 
+benefit that may arise from this Contract, for any employee who participated in any way in the 
+solicitation, award or administration of this Contract according to Title 5 MRS §18-A, (2) and in 
+harmony with Title 17 MRS §3104. Any contract made in violation of these sections is void. 
+ 
+The Provider certifies that it presently has no interest and shall not acquire any interest which 
+would conflict in any manner or degree with the performance of its services hereunder. The 
+Provider further certifies that in the performance of this Contract, no person having any such 
+known interests shall be employed. 
+ 
+10. EMPLOYMENT AND PERSONNEL. The Provider shall not engage on a full-time, part-time or 
+other basis during the period of this Contract, any executive employee who participated in any 
+way in the solicitation, award or administration of this Contract according to Title 5 MRS §18-A, (2)  
+and in harmony with Title 17 MRS §3104. Any contract made in violation of these sections is void. 
+ 
+11. NON-COLLUSION. The Provider warrants that it has not employed or contracted with any 
+company or person, other than for assistance with the normal study and preparation of a proposal, 
+to solicit or secure this Contract, and that it has not paid, or agreed to pay, any company or 
+person, other than a bona fide employee working solely for the Provider, any fee, commission, 
+percentage, brokerage fee, gifts, or any other consideration, contingent upon, or resulting from, 
+the award of this Contract.   
+  
+And, the Provider has not entered into a prior understanding, agreement, or connection with any 
+corporation, firm, or person submitting a response for the same materials, supplies, equipment, or 
+services, and this proposal is in all respects fair and without collusion or fraud. The above-
+mentioned entities understand and agree that collusive bidding is a violation of state and federal 
+law and can result in fines, prison sentences, and civil damage awards. 
+ 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 10 
+For breach or violation of this provision, the Department shall have the right to terminate this 
+Contract without liability or, at its discretion, to otherwise recover the full amount of such fee, 
+commission, percentage, brokerage fee, gift, or contingent fee. 
+ 
+12. ACCOUNTING, RECORDS, AND AUDIT. 
+ 
+A. The Provider shall maintain all books, documents, payrolls, papers, accounting records, and 
+other evidence pertaining to this Contract, including interim reports and working papers, and 
+make such materials available at its offices at all reasonable times during the period of this 
+Contract, and for a period of five (5) years following termination or expiration of the Contract.  
+If any litigation, claim or audit is started before the expiration of the 5-year period, the records 
+must be retained until all litigation, claims or audit findings involving the Contract have been 
+resolved. 
+ 
+B. Unless the Department specifies in writing a shorter period of time, the Provider agrees to 
+preserve and make available all documents and records pertaining to this Contract for a 
+period of five (5) years from the date of termination of this Contract. 
+ 
+C. Records involving matters in litigation shall be kept for one year following the termination of 
+litigation, including all appeals. 
+ 
+D. Authorized Federal and State representatives shall have access to, and the right to examine, 
+all pertinent documents and records during the five-year post-Contract period. During the five-
+year post-Contract period, delivery of, and access to, all pertinent documents and records will 
+be at no cost to the Department.  
+ 
+E. The Provider shall be liable for any State or Federal audit exceptions, if applicable, that arise 
+out of any action, inaction, or negligence by the Provider. In the event of an audit exception 
+for which the Provider is liable, the Provider shall have thirty (30) days to remedy that 
+exception.  If the Provider fails to remedy that exception within this time period, the Provider 
+shall immediately return to the Department all payments made under this Contract which have 
+been disallowed in the audit exception.   
+ 
+F. Authorized State and Federal representatives shall at all reasonable times have the right to 
+enter the premises, or such other places, where duties under this Contract are being 
+performed, to inspect, monitor, or otherwise evaluate, the work being performed. All 
+inspections and evaluations shall be performed in such a manner that will not compromise the 
+work unreasonably. 
+ 
+G. ACCESS TO PUBLIC RECORDS - As a condition of accepting a contract for services under 
+this section, a contractor must agree to treat all records, other than proprietary information, 
+relating to personal services work performed under the contract as public records under the 
+freedom of access laws to the same extent as if the work were performed directly by the 
+department or agency. For the purposes of this subsection, "proprietary information" means 
+information that is a trade secret or commercial or financial information, the disclosure of 
+which would impair the competitive position of the contractor and would make available 
+information not otherwise publicly available. Information relating to wages and benefits of the 
+employees performing the personal services work under the contract and information 
+concerning employee and contract oversight and accountability procedures and systems are 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 11 
+not proprietary information.  The Provider shall maintain all books, documents, payrolls, 
+papers, accounting records and other evidence pertaining to this Contract and make such 
+materials available at its offices at all reasonable times during the period of this Contract and 
+for such subsequent period as specified under Maine Uniform Accounting and Auditing 
+Practices for Community Agencies (MAAP) rules.  The Provider shall allow inspection of 
+pertinent documents by the Department or any authorized representative of the State of 
+Maine or Federal Government, and shall furnish copies thereof, if requested.  This subsection 
+applies to contracts, contract extensions and contract amendments executed on or after 
+October 1, 2009. 
+ 
+13. TERMINATION. The performance of work under this Contract may be terminated by the 
+Department, whenever for any reason the Contract Administrator shall determine that such 
+termination is in the best interest of the Department. Any such termination shall be affected by the 
+delivery to the Provider of a Notice of Termination specifying the date on which such termination 
+becomes effective.   
+ 
+Either party may terminate this Contract for cause by providing a written notice of termination 
+stating the reason for the termination, a minimum of thirty (30) calendar day ahead of the effective 
+date of the termination. As part of the thirty (30) calendar days written notice of termination, the 
+defaulting party shall have fifteen (15) calendar days to cure the default. If the default is of such a 
+nature that it cannot be cured within fifteen (15) calendar days, the defaulting party shall have 
+such additional time, as the parties may agree to, to cure the default, provided the defaulting party 
+has taken steps to cure the default within the initial fifteen (15) calendar days. 
+ 
+Upon  termination, the Department shall pay the Provider for work performed by the Provider prior 
+to the date of Notice of Termination.   
+ 
+14. GOVERNMENTAL REQUIREMENTS. The Provider warrants and represents that it will comply 
+with all applicable governmental ordinances, laws, and regulations. 
+ 
+15. GOVERNING LAW. This Contract shall be governed in all respects by the laws, statutes, and 
+regulations of the United States of America and of the State of Maine. Any legal proceeding 
+against the State regarding this Contract shall be brought in the State of Maine administrative or 
+judicial forums.  The Provider consents to personal jurisdiction in the State of Maine. 
+ 
+16. STATE HELD HARMLESS. The Provider shall indemnify and hold harmless the Department and 
+its officers, agents, and employees from and against any and all third party claims, liabilities, and 
+costs, including reasonable attorney fees, for any or all injuries to persons or property or claims for 
+money damages, including claims for violation of intellectual property rights, arising from the 
+negligent acts or omissions of the Provider, its employees or agents, officers or Subcontractors in 
+the performance of work under this Contract; provided, however, the Provider shall not be liable 
+for claims arising out of the negligent acts or omissions of the Department, or for actions taken in 
+reasonable reliance on written instructions of the Department. 
+ 
+17. NOTICE OF CLAIMS. The Provider shall give the Contract Administrator immediate notice in 
+writing of any legal action or suit filed related in any way to this Contract , or which may affect the 
+performance of duties under this Contract , and prompt notice of any claim made against the 
+Provider by any Subcontractor, which may result in litigation related in any way to this Contract , 
+or which may affect the performance of duties under this Contract . 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 12 
+ 
+18. APPROVAL. This Contract must be approved by the State Controller and the State Purchases 
+Review Committee before it can be considered a valid enforceable document. 
+ 
+19. INSURANCE REQUIREMENTS. The Provider shall procure and maintain insurance against 
+claims for injuries to persons, or damages to property, which may arise from, or in connection to, 
+the fulfillment of this Contract, by the Provider, its agents, representatives, employees, or 
+Subcontractors. The insurance shall be secured by the Provider, at the Provider’s expense, and 
+maintained in force, at all times during the term of this Contract, and, for any claims-made (as 
+opposed to occurrence-based) policy(ies), for a period of not less than two (2) years thereafter. 
+ 
+A. Minimum Coverage 
+i. Errors & Omissions, or Professional Liability Insurance, or Insurance by any other 
+name, covering the following: 
+ 
+a) All acts, errors, omissions, negligence, infringement of intellectual property 
+(except patent and trade secret) in an amount not less than $1,000,000 per 
+occurrence, and as an annual aggregate; 
+ 
+b) Network security and privacy risks, including, but not limited to, unauthorized 
+access, failure of security, breach of privacy, wrongful disclosure, collection, 
+or other negligence in the handling of confidential information, related 
+regulatory defense, and penalties in an amount not less than $1,000,000 per 
+occurrence, and as an annual aggregate;  
+ 
+c) Data breach expenses, in an amount not less than (see NOTE below and 
+insert the appropriate limit based upon the number of Personally Identifiable 
+Information records) $______, and payable, whether incurred by the 
+Department or the Provider; for and on behalf of the Department, including, 
+but not limited to:  
+C.1)   Consumer notification, whether or not required by law;  
+C.2)   Forensic investigations; 
+C.3)   Public relations and crisis management fees; and 
+C.4)   Credit or identity monitoring, or similar remediation services. 
+ 
+The policy shall affirm coverage for contingent bodily injury and property 
+damage arising from the failure of the Provider’s technology services, or an 
+error, or omission, in the content of, and information from, the Provider. If a sub-
+limit applies to any element of the coverage, the certificate of insurance must 
+specify the coverage section and the amount of the sub-limit.  
+ 
+NOTE: Personally Identifiable Information (PII) is information that can be used 
+to identify a single person, such as name, social security number, date and 
+place of birth, mother's maiden name, driver's license, biometrics, etc. Maine 
+State law also has a more specific definition in 10 M.R.S. §1347(6). 
+The Data Breach component of the Insurance (per occurrence) is pegged to the 
+number of PII records that are the subject of this Contract. 
+ 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 13 
+Number of PII Records Insurance per 
+Occurrence 
+1 through 3,000 $400,000 
+3,001 through 100,000 $1,000,000 
+100,001 through 1,000,000 $5,000,000 
+Greater than 1,000,000 $10,000,000 
+ 
+ii. Workers’ Compensation and employer’s liability, as required by law; 
+iii. Property (including contents coverage for all records maintained pursuant to this 
+Contract): $1,000,000 per occurrence; 
+iv. Automotive Liability of not less than $400,000 per occurrence single limit if the 
+Provider will use vehicles to fulfill the contract; 
+v. Crime, in an amount not less than $______ (The total monetary amount potentially 
+at risk due to this contract; or Cash Currency and Negotiable Securities actually 
+entrusted to this Provider); and 
+vi. Business Interruption, in an amount that would allow the Provider to maintain 
+operations in the event of a Property loss. 
+ 
+B. Other Provisions - Unless explicitly waived by the Department, the insurance policies 
+shall contain, or be endorsed to contain, the following provisions: 
+i. The Provider’s insurance coverage shall be the primary and non-contributory. Any 
+insurance or self-insurance maintained by the Department for its officers, agents, 
+and employees shall be in excess of the Provider's insurance and shall not 
+contribute to it. 
+ii. The Provider's insurance shall apply separately to each insured against whom claim 
+is made or suit is brought, except with respect to the limits of the insurer's liability. 
+iii. The Provider shall furnish the Department with certificates of insurance, and with 
+those endorsements, if any, affecting coverage, required by these Insurance 
+Requirements. The certificates and endorsements for each insurance policy are to 
+be signed by a person authorized by the insurer to bind coverage on its behalf. All 
+certificates and endorsements are to be received and approved by the Department 
+before this Contract commences. The Department reserves the right to require 
+complete, certified copies of all required insurance policies at any time. 
+iv. All policies should contain a revised cancellation clause allowing thirty (30) days 
+notice to the Department in the event of cancellation for any reason, including 
+nonpayment. 
+v. The Department will not grant the Provider, or any sub-contractor of the Provider, 
+“Additional Insured” status and the Department will not grant any Provider a “Waiver 
+of Subrogation”.  
+ 
+20. NON-APPROPRIATION. Notwithstanding any other provision of this Contract, if the State does 
+not receive sufficient State, Federal, or other sources of funds to fund this Contract and other 
+obligations of the State, if funds are de-appropriated, or if the State does not receive legal 
+authority to expend funds from State or Federal legislative, executive or judicial bodies, then the 
+State is not obligated to make payment under this Contract.    
+ 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 14 
+21. SEVERABILITY. The invalidity or unenforceability of any particular provision, or part thereof, of 
+this Contract shall not affect the remainder of said provision, or any other provisions, and this 
+Contract shall be construed in all respects as if such invalid or unenforceable provision or part 
+thereof had been omitted. 
+ 
+22. ORDER OF PRECEDENCE. In the event of a conflict between the documents comprising this 
+Contract, the Order of Precedence shall be:  
+  Rider C Exceptions  
+  Rider B-IT Terms and Conditions 
+  Rider A Scope of Work 
+  Funding Rider 
+  Rider D Included at Department's Discretion 
+  Rider E Included at Department's Discretion 
+  Rider F Included at Department's Discretion 
+  Rider G Identification of Country in which contracted work will be performed   
+ATTACHMENT A:  Confidentiality and Non-Disclosure Agreement    
+ATTACHMENT B: Business Associate Agreement included at Department's Discretion      
+  Other Included at Department's Discretion  
+ 
+Notice: No terms on provider’s invoices, ordering documents, website, browse-wrap, shrink-
+wrap, click-wrap, click-through or other non-negotiated terms and conditions provided with any 
+of the contract activities will constitute a part or amendment of this contract or is binding on the 
+State for any purpose. All such other terms and conditions have no force and effect and are 
+deemed rejected by the State, even if access to or use of the contract activities requires 
+affirmative acceptance of such terms and conditions. 
+23. FORCE MAJEURE. The performance of an obligation by either party shall be excused in the 
+event that performance of that obligation is prevented by an act of God, act of war, riot, fire, 
+explosion, flood, pandemic or other catastrophe, sabotage, severe shortage of fuel, power or raw 
+materials, change in law, court order, national defense requirement, or strike or labor dispute, 
+provided that any such event and the delay caused thereby is beyond the control of, and could not 
+reasonably be avoided by, that party. 
+ 
+24. SET-OFF RIGHTS. The State shall have all of its common law, equitable, and statutory rights of 
+set-off. These rights shall include, but not be limited to, the State’s option to withhold for the 
+purposes of set-off any monies due to the Provider under this Contract, up to any amounts due 
+and owing to the State with regard to this Contract, any other Contract  with any State department 
+or agency, including any Contract for a term commencing prior to the term of this Contract, plus 
+any amounts due and owing to the State for any other reason including, without limitation, tax 
+delinquencies, fee delinquencies, or monetary penalties relative thereto. The State shall exercise 
+its set-off rights in accordance with normal State practices including, in cases of set-off pursuant to 
+an audit, the finalization of such audit by the State agency, its representatives, or the State 
+Controller. 
+ 
+25. ENTIRE CONTRACT. This document contains the entire Contract of the parties, and neither party 
+shall be bound by any statement or representation not contained herein. No waiver shall be 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 15 
+deemed to have been made by any of the parties unless expressed in writing and signed by the 
+waiving party. The parties expressly agree that they shall not assert in any action relating to the 
+Contract that any implied waiver occurred between the parties, which is not expressed in writing. 
+The failure of any party to insist in any one or more instances upon strict performance of any of 
+the terms or provisions of the Contract, or to exercise an option or election under the Contract, 
+shall not be construed as a waiver or relinquishment for the future of such terms, provisions, 
+option or election, but the same shall continue in full force and effect, and no waiver by any party 
+of any one or more of its rights or remedies under the Contract shall be deemed to be a waiver of 
+any prior or subsequent rights or remedy under the Contract or at law.   
+ 
+26.  AMENDMENT. No changes, modifications, or amendments in the terms and conditions of this 
+Contract shall be effective unless reduced to writing, numbered and signed by the duly authorized 
+representative of the State and Provider.   
+ 
+27. DEBARMENT AND PERFORMANCE CERTIFICATION. By signing this Contract, the Provider 
+certifies to the best of Provider’s knowledge and belief that the aforementioned organization, its 
+principals and any subcontractors named in this Contract: 
+ 
+A. Are not presently debarred, suspended, proposed for debarment, and declared ineligible or 
+voluntarily excluded from bidding or working on contracts issued by any governmental 
+agency. 
+B. Have not within three years of submitting the proposal for this contract been convicted of or 
+had a civil judgment rendered against them for: 
+ 
+i. Fraud or a criminal offense in connection with obtaining, attempting to obtain, or 
+performing a federal, state or local government transaction or contract. 
+ii. Violating Federal or State antitrust statutes or committing embezzlement, theft, forgery, 
+bribery, falsification or destruction of records, making false statements, or receiving 
+stolen property; 
+iii. Are not presently indicted for or otherwise criminally or civilly charged by a governmental 
+entity (Federal, State or Local) with commission of any of the offenses enumerated in 
+paragraph (b) of this certification; and 
+iv. Have not within a three (3) year period preceding this proposal had one or more federal, 
+state or local government transactions terminated for cause or default. 
+ 
+28. STATE PROPERTY. The Provider shall be responsible for the proper custody, care and return of 
+any Department or State-owned property furnished or state-funded for the Provider's use in 
+connection with the performance of this Contract, and the Provider will reimburse the Department 
+for its loss or damage, normal wear and tear excepted. 
+ 
+29. CYBERSECURITY AND PROHIBITED TECHNOLOGIES. Through the execution of this contract, 
+the Provider certifies that the aforementioned organization, its principals and any subcontractors 
+named in this Contract: 
+ 
+A. is not a foreign adversary business entity, https://www.maine.gov/oit/prohibited-
+technologies,   Title 5 M.R.S. §2021 (3); and  
+B. is not on the list of prohibited companies or does not obtain or purchase any information or 
+communications technology or services included on the list of prohibited information and 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 16 
+communications technology and services https://www.maine.gov/oit/prohibited-
+technologies, Title 5 M.R.S. §2030-B. 
+ 
+Contracts entered into by a state agency in violation of Title 5 M.R.S. §2030-B are void. A person 
+who executes this contract in violation of this section commits a civil violation for which a fine may 
+be adjudged in an amount that is twice the amount of this contract or $250,000, whichever is 
+greater, (Title 5 M.R.S., §2030-A). 
+ 
+30. CONFIDENTIALITY. 
+ 
+A. Subject to the Maine Freedom of Access Act (FOAA), Title 1 M.R.S. §400 et seq., 
+“confidential information” means non-public information designated as protected from 
+disclosure under state or federal law. Confidential information given to the Provider by the 
+Department, or acquired by the Provider on behalf of the Department, whether in verbal, 
+written, electronic, or any other format, shall be subject to the requirements herein. The term 
+“confidential information” does not include any information or documentation that is subject to 
+disclosure under FOAA. 
+ 
+B. In conformance with applicable Federal and State statutes, regulations, and ethical standards, 
+the Provider and the Department shall take all necessary steps to protect confidential 
+information regarding all persons served by the Department, including the proper care, 
+custody, use, and preservation of records, papers, files, communications, and any such items 
+that may reveal confidential information about persons served by the Department, or whose 
+information is utilized in order to accomplish the purposes of this Contract. 
+ 
+C. In the event of a breach of this confidentiality provision, the Provider shall notify the Contract 
+Administrator immediately. 
+ 
+D. The Provider shall comply with the Maine Public Law, Title 10, Chapter 210-B (Notice of Risk 
+to Personal Data Act). 
+ 
+31. TARIFFS. Any price increases implemented by the provider due to the imposition of tariffs shall 
+remain in effect only for the duration that such tariffs are in place. In the event of the repeal or 
+reduction of any applicable tariff(s), the provider shall immediately return to the original price list or 
+make a proportional reduction in the price to reflect the decrease in tariff(s). Price adjustments 
+under this clause shall be made in good faith and without undue delay upon confirmation via 
+documents reflecting tariff changes. 
+ 
+32. LIMITATION OF LIABILITY. The Provider’s liability to the Department, for damages sustained by 
+the Department, as the result of Provider’s default, or acts, or omissions, in the performance of 
+work under this Contract, whether such damages arise out of breach, negligence, 
+misrepresentation, or otherwise, shall be the greater of any actual direct damages, up to the limits 
+of the insurance required herein, or three times the value of the Product or Service that is the 
+subject of this Contract, up to a maximum of $25,000,000, but not less than $400,000. 
+ 
+For instance, if this Contract is valued at $15,000,000, then the Provider's liability is up to 
+$25,000,000. But if this Contract is valued at $100,000, then the Provider's liability is no greater 
+than $400,000. 
+ 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 17 
+Notwithstanding the above, Provider shall not be liable to the Department for any indirect or 
+consequential damages not covered by any of the insurances required herein. 
+ 
+33. INTERPRETATION OF THE CONTRACT. 
+ 
+A. Reliance on Policy Determinations - The Department shall determine all program policy. The 
+Provider may, from time to time, request the Department to make policy determinations, or 
+to issue operating guidelines required for the proper performance of this Contract, and the 
+Contract Administrator shall respond in writing in a timely manner. The Provider shall be 
+entitled to rely upon, and act in accordance with, such written policy determinations and 
+operating guidelines, unless subsequently amended, modified, or changed in writing by the 
+Department, and shall incur no liability in doing so unless the Provider acts negligently, 
+maliciously, fraudulently, or in bad faith. Nothing contained in this Contract, or in any 
+Contract, determination, operating guideline, or other communication from the Department 
+shall relieve the Provider of its obligation to keep itself informed of applicable State and 
+Federal laws, regulations, policies, procedure, and guidelines, to be in complete compliance 
+and conformity therewith. 
+ 
+B. Titles Not Controlling - Titles of sections and paragraphs used in this Contract are for the 
+purpose of facilitating ease of reference only and shall not be construed to imply a 
+contractual construction of the language. 
+ 
+C. No Rule of Construction - This is a negotiated Contract and no rule of construction shall 
+apply that construes ambiguous or unclear language in favor of or against any party. 
+ 
+34. PERIOD OF WORK. Work under this Contract shall begin no sooner than the date on which this 
+Contract has been fully executed by the parties and approved by the Controller and the State 
+Purchases Review Committee. Unless terminated earlier, this Contract shall expire on the date set 
+out on the first page of this Contract, or at the completion and acceptance of all specified tasks, 
+and delivery of all contracted products and services as defined in this Contract, including 
+performance of any warranty and/or maintenance Contracts, whichever is the later date. 
+ 
+35. NOTICES. All notices under this Contract shall be deemed duly given: 1) upon delivery, if 
+delivered by hand against receipt, or 2) five (5) business days following posting, if sent by 
+registered or certified mail, return receipt requested. Either party may change its address for 
+notification purposes by giving written notice of the change and setting forth the new address and 
+an effective date. 
+ 
+36. ADVERTISING AND PUBLICATIONS. The Provider shall not publish any statement, news 
+release, or advertisement pertaining to this Contract without the prior written approval of the 
+Contract Administrator. Should this Contract be funded, in whole or in part, by Federal funds, then 
+in compliance with the Steven’s Amendment, it will be clearly stated when issuing statements, 
+press releases, requests for proposals, bid solicitations, and other documents: (1) the percentage 
+of the total cost that was financed with Federal moneys; and (2) the dollar amount of Federal 
+funds. 
+ 
+ 
+ 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 18 
+37. LOBBYING.  
+ 
+A. Public Funds - No Federal or State-appropriated funds shall be expended by the Provider for 
+influencing, or attempting to influence, an officer or employee of any agency, a member of 
+Congress or State Legislature, an officer or employee of Congress or State Legislature, or an 
+employee of a member of Congress or State Legislature, in connection with any of the 
+following covered actions: the awarding of any Contract; the making of any grant; the entering 
+into of any cooperative Contract; or the extension, continuation, renewal, amendment, or 
+modification of any Contract, grant, or cooperative Contract.  Signing this Contract fulfills the 
+requirement that Providers receiving over $100,000 in Federal or State funds file with the 
+Department on this provision. 
+ 
+B. Federal Certification - Section 1352 of Title 31 of the US Code requires that funds appropriated 
+to a Federal agency be subject to a requirement that any Federal Provider or grantee (such as 
+the Department) certifies that no Federal funds will be used to lobby or influence a Federal 
+officer or member of Congress.   
+ 
+The certification the Department has been required to sign provides that the language of this 
+certification shall be included in the award documents for all sub-awards at all tiers (including 
+sub-agreements, sub-grants, and contracts under grants, loans, and cooperative Contracts) 
+and that all sub-recipients shall verify and disclose accordingly.  The certification also requires 
+the completion of Federal lobbying reports and the imposition of a civil penalty of $10,000 to 
+$100,000 for failing to make a required report. As a sub-recipient, the Provider understands 
+and agrees to the Federal requirements for certification and disclosure. 
+ 
+C. Other Funds - If any non-Federal or State funds have been or will be paid to any person in 
+connection with any of the covered actions in this section, the Provider shall complete and 
+submit a “Disclosure of Lobbying Activities” form to the Department. 
+ 
+38. PROVIDER PERSONNEL.   
+ 
+A. The parties recognize that the primary value of the Provider to the Department derives directly 
+from its Key Personnel assigned in the performance of this Contract.  Key Personnel are 
+deemed to be those individuals whose résumés were offered by the Provider in the Proposal. 
+Therefore, the parties agree that said Key Personnel shall be assigned in accordance with the 
+time frames in the most recent mutually agreed upon project schedule and work plan, and that 
+no re-deployment or replacement of any Key Personnel may be made without the prior written 
+consent of the Contract Administrator. Replacement of such personnel, if approved, shall be 
+with personnel of equal or greater abilities and qualifications. 
+ 
+B. The Department shall retain the right to reject any of the Provider's employees whose abilities 
+and qualifications, in the Department's judgment, are not appropriate for the performance of this 
+Contract.  In considering the Provider's employees' abilities and qualifications, the Department 
+shall act reasonably and in good faith. 
+C. During the course of this Contract, the Department reserves the right to require the Provider to 
+reassign or otherwise remove any of its employees found unacceptable by the Department. In 
+considering the Provider's employees' acceptability, the Department shall act reasonably and in 
+good faith. 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 19 
+D. In signing this Contract, the Provider certifies to the best of its knowledge and belief that it, and 
+all persons associated with this Contract, including any Subcontractors, including persons or 
+corporations who have critical influence on or control over this Contract, are not presently 
+debarred, suspended, proposed for debarment, declared ineligible, or voluntarily excluded from 
+participation by any Federal or State department or agency. 
+E. During the course of this Contract, the Department reserves the right to require a background 
+check on any of the Provider’s personnel (employees and Subcontractors) that are in any way 
+involved in the performance of this Contract. 
+ 
+39. PATENT, COPYRIGHT, AND OTHER PROPRIETARY RIGHTS.   
+ 
+A. The Provider certifies that all services, equipment, software, supplies, and any other products 
+provided under this Contract do not, and will not, infringe upon or violate any patent, copyright, 
+trade secret, or any other proprietary right of any third party. In the event of any claim by a third 
+party against the Department, the Department shall promptly notify the Provider and the 
+Provider, at its expense, shall defend, indemnify, and hold harmless the Department against 
+any loss, cost, expense, or liability arising out of such claim, including reasonable attorney 
+fees. 
+ 
+B. The Provider may not publish or copyright any data without the prior approval of the 
+Department. The State and the Federal Government, if applicable, shall have the right to 
+publish, duplicate, use, and disclose all such data in any manner, and for any purpose 
+whatsoever, and may authorize others to do so. 
+ 
+40. PRODUCT WARRANTY. The Provider expressly warrants its products and services for one full 
+year from their final written acceptance by the Department. The responsibility of the Provider with 
+respect to this warranty is limited to correcting deficiencies in any deliverable using all the 
+diligence and dispatch at its command, at no additional cost to the Department. The Provider is 
+also responsible for correcting and/or updating any documentation affected by any operational 
+support performed under this warranty provision. 
+ 
+41. COVER. If, in the reasonable judgment of the Contract Administrator, a breach or default by the 
+Provider is not so substantial as to require termination, and reasonable efforts to induce the 
+Provider to cure the breach or default are unavailing, and the breach or default is capable of being 
+cured by the Department or by another contractor without unduly interfering with the continued 
+performance by the Provider, then the Department may provide or procure the services necessary 
+to cure the breach or default, in which event the Department shall withhold from future payments 
+to the Provider the reasonable costs of such services. 
+ 
+42. OWNERSHIP. 
+ 
+A. All data (including Geographical Information Systems data), notebooks, plans, working papers 
+and other works produced, and equipment and products purchased in the performance of this 
+Contract are the property of the Department, or the joint property of the Department and the 
+Federal Government, if Federal funds are involved. The State (and the Federal Government, if 
+Federal funds are involved) shall have unlimited rights to use, disclose, duplicate, or publish for 
+any purpose whatsoever all information and data developed, derived, documented, or 
+furnished by the Provider under this Contract, or equipment and products purchased pursuant 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 20 
+to this Contract. The Provider shall furnish such information and data, upon the request of the 
+Department, in accordance with applicable Federal and State laws. 
+ 
+B. Upon termination of this Contract for any reason, or upon request of the Department, the 
+Provider agrees to convey to the Department good titles to purchased items free and clear of 
+all liens, pledges, mortgages, encumbrances, or other security interests. 
+ 
+43. CUSTOM SOFTWARE. For all custom software furnished by the Provider as part of this Contract, 
+the following terms and conditions shall apply: 
+ 
+A. The Department shall own all custom software. The Department shall grant all appropriate 
+Federal and State agencies a royalty-free, non-exclusive, and irrevocable license to reproduce, 
+modify, publish, or otherwise use, and to authorize others to do so, all custom software. Such 
+custom software shall include, but not be limited to, all source, object and executable code, 
+operating system instructions for execution, data files, user and operational/administrative 
+documentation, and all associated administrative, maintenance, and test software that are 
+relevant to this Contract. 
+ 
+B. A fundamental obligation of the Provider is the delivery to the Department of all ownership 
+rights to the complete system, free of any claim or retention of rights thereto by the Provider. 
+The Provider acknowledges that this system shall henceforth remain the sole and exclusive 
+property of the Department, and the Provider shall not use or describe such software and 
+materials without the written permission of the Department. This obligation to transfer all 
+ownership rights to the Department on the part of the Provider is not subject to any limitation in 
+any respect. 
+ 
+44. OFF-THE-SHELF (OTS) SOFTWARE. For all OTS software purchased by the Provider as part of 
+this Contract, the following terms and conditions shall apply. 
+ 
+A. This Contract grants to the Department a non-exclusive and non-transferable license to use 
+the OTS software and related documentation for its business purposes. The Department 
+agrees that the Provider may, at its own expense, periodically inspect the computer site in 
+order to audit the OTS software supplied by the Provider, installed at the Department’s site, at 
+mutually agreed upon times. In the event that a separate license Contract accompanies the 
+OTS software, then the terms of that separate license Contract supersede the above license 
+granted for that OTS software. 
+ 
+B. This Contract does not transfer to the Department the title to any intellectual property 
+contained in any OTS software. The Department will not decompile or disassemble any OTS 
+software provided under this Contract, or modify any OTS software that bears the copyright 
+notice of a third party. The Department will make and maintain no more than one archival copy 
+(for back-up purpose) of each OTS software, and each copy will contain all legends and 
+notices, and will be subject to the same conditions and restrictions as the original. 
+ 
+C. If the CPU on which any OTS software is licensed becomes temporarily unavailable, use of 
+such OTS software may be temporarily transferred to an alternative CPU until the original CPU 
+becomes available. 
+ 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 21 
+45. SOFTWARE AS SERVICE. When the software is fully owned, hosted, and operated by the 
+Provider, and the Department uses said software remotely over the Internet, the following terms 
+and conditions shall apply: 
+A. The Provider, as depositor, shall enter into an escrow contract, upon terms acceptable to 
+the Department, with a recognized software Escrow Agent. The escrow contract must 
+provide for the Department to be an additional party/beneficiary. The Provider shall deposit 
+with the Escrow Agent the software, all relevant documentation, and all of the Department’s 
+data, and all updates thereof (the “Deposit Materials”), in electronic format. Deposits will 
+occur no less frequently than once a month. 
+B. The escrow contract shall provide for the retention, administration, and controlled access of 
+the Deposit Materials, and the release of the Deposit Materials to the Department, upon 
+receipt of a joint written instruction from the Department and the Provider, or upon receipt of 
+written notice from the Department that: 
+i. The Provider has failed to carry out its obligations set forth in this Contract; or 
+ii. A final, non-appealable judicial determination that the Provider has failed to continue 
+to do business in the ordinary course; or 
+iii. The Provider has filed a voluntary petition in bankruptcy, or any voluntary proceeding 
+relating to insolvency, receivership, liquidation, or composition for the benefit of 
+creditors, or becomes subject to an involuntary petition in bankruptcy, which petition 
+or proceeding is not dismissed or unstayed within sixty (60) days from the date of 
+filing; or 
+iv. The Provider is in material breach of its maintenance and support obligations and has 
+failed to cure such breach within thirty (30) days from the date of receipt by the 
+Provider of written notice of such breach; or 
+v. A condition has occurred that materially and adversely impacts the Provider’s ability 
+to support the software and the Provider has failed to cure such condition within thirty 
+(30) days from the date of receipt by the Provider of written notice of such condition. 
+C. The Provider is responsible for all fees to be paid to the Escrow Agent. 
+D. The Escrow Agent may resign by providing advance written notice to both the Department 
+and the Provider at least thirty (30) calendar days prior to the date of resignation. In such an 
+event, it is the obligation of the Provider to establish a new escrow account with a new 
+Escrow Agent. 
+46. PRICE PROTECTION. 
+  
+A. The Provider shall ensure that all prices, terms, and warranties included in this Contract are 
+comparable to, or better than, the equivalent terms being offered by the Provider to any 
+present customer meeting the same qualifications or requirements as the Department. If, 
+during the term of this Contract, the Provider enters into Contract(s) that provide more 
+favorable terms to other comparable customer(s), the Provider shall provide the same terms 
+to the Department. 
+ 
+B. If Federal funding is used for the acquisition of products and/or services under this Contract, 
+interest cannot be paid under any installment purchase or lease-purchase Contract entered 
+into as a part of this Contract. 
+ 
+OR 
+ 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 22 
+46. THIS ITEM IS INTENTIONALLY LEFT BLANK 
+ 
+47. IRREVOCABLE LETTER OF CREDIT. In order to assure the Provider’s faithful adherence to the 
+terms and conditions of this Contract, the Provider shall submit an irrevocable letter of credit, 
+acceptable to the Department, that is payable on demand. This letter of credit will be procured at 
+the expense of the Provider, naming the Department as the beneficiary, in the entire Contract 
+amount. In lieu of this requirement, the Department will accept a commitment letter from a 
+recognized financial institution or investment fund stating that the Provider has sufficient capital to 
+fund the obligations, and has legally committed such capital to fund the obligations, in accordance 
+with this Contract. The letter of credit, or the equivalent commitment letter, shall specifically refer 
+to this Contract, and shall bind the parties to all the terms and conditions of this Contract. The 
+Provider shall have fifteen (15) calendar days from the date of execution of this Contract to furnish 
+the letter of credit or the equivalent commitment letter. Should the Provider fail to comply with this 
+section, then the Department shall have the right to terminate this Contract without liability. 
+ 
+OR 
+ 
+47. THIS ITEM IS INTENTIONALLY LEFT BLANK 
+ 
+  
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 23 
+RIDER C: EXCEPTIONS TO RIDER B-IT 
+ 
+Enter the exceptions here, if applicable. If not applicable, delete this page and make sure Rider C is 
+deleted in the Table of Riders section.   
+ 
+EXAMPLES 
+Rider B-IT Item # - TITLE is amended to read as follows:  
+99. EXAMPLE: 
+1. Copy and paste the entire item that has an exception request from Rider B-IT into Rider 
+C.  When you have new language that is being added, you should underline it; however, when 
+you have language that needs to be removed you should use the strike through format. Both of 
+these formatting options are located under “home” and “font” in Microsoft Word.  
+2. When you have multiple paragraphs associated with the original item, you do need to copy all 
+of the paragraphs, even if they don’t have any changes associated with them.  
+3. If you’re removing an entire item from the contract, you should change the “amended to read 
+as follows” to “is struck in full” as you see below.  
+4. When you make an exception request, please also add a comment explaining why this request 
+is necessary to you/the vendor.  
+Rider B-IT Item # 99 – EXAMPLE is struck in full:  
+99. EXAMPLE: 
+1. Copy and paste the entire item that has an exception request from Rider B-IT into Rider 
+C.  When you have new language that is being added, you should underline it however when 
+you have language that needs to be removed you should use the strike through format. Both of 
+these formatting options are located under “home” and “font” in Microsoft Word.  
+2. When you have multiple paragraphs associated with the original item, you do need to copy all 
+of the paragraphs, even if they don’t have any changes associated with them.  
+3. If you’re removing an entire item from the contract, you should change the “amended to read 
+as follows” to “is struck in full”. 
+4. When you make an exception request, please also add a comment explaining why this request 
+is necessary to you/the vendor.  
+  
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 24 
+RIDER D: [TITLE] 
+ 
+(Included at Department’s Discretion) 
+ 
+Enter Rider D here, if applicable. If not applicable, delete this page and make sure Rider D is deleted  
+in the Table of Riders section.   
+ 
+ 
+ 
+ 
+ 
+  
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 25 
+RIDER E: [TITLE] 
+ 
+(Included at Department’s Discretion) 
+ 
+Enter Rider E here, if applicable. If not applicable, delete this page and make sure Rider E is deleted  
+in the Table of Riders section. 
+ 
+ 
+ 
+ 
+  
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 26 
+RIDER F: [TITLE] 
+ 
+(Included at Department’s Discretion) 
+ 
+Enter Rider F here, if applicable. If not applicable, delete this page and make sure Rider F is deleted 
+in the Table of Riders section. 
+  
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026         Page 27 
+RIDER G:  IDENTIFICATION OF COUNTRY IN WHICH CONTRACTED WORK WILL BE 
+PERFORMED 
+ 
+Please identify the country in which the services purchased through this contract will be 
+performed: 
+ 
+☐  United States.  Please identify state: Enter State 
+☐  Other.  Please identify country:  Enter Country 
+ 
+Notification of Changes to the Information: 
+The Provider agrees to notify the Office of State Procurement Services of any changes to the 
+information provided above.   
+ 
+STATE OF MAINE 
+DEPARTMENT OF ADMINISTRATIVE AND FINANCIAL SERVICES  
+OFFICE OF INFORMATION TECHNOLOGY (OIT) 
+ 
+OIT Non-Disclosure Agreement     Date of Last Revision 6.3.2026 1 
+ATTACHMENT A: CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT 
+RFP / CONTRACT #:                              
+  
+THIS AGREEMENT is hereby executed between the State of Maine (“State”), acting by and 
+through the Maine Office of Information Technology (“OIT”) and [insert Vendor’s legal name] 
+having a principal place of business at [insert Vendor’s legal address] (“Vendor”), in relation 
+to services and/or products to be provided by the vendor pursuant to [insert Contract No.] 
+(“Contract”) as of ___________ ____, 20____(“Effective Date”). 
+ 
+1. Definitions 
+A. Authorized Person 
+“Authorized Person” is defined as a person authorized by OIT as having a need to receive, 
+possess, store, access, view and/or use Confidential Information for an Authorized Use.    
+B. Authorized Use 
+“Authorized Use” is defined as the use of Confidential Information by the Vendor or Authorized 
+Persons, solely for the purpose of performing the Contract.  Disclosure, display, use, duplication, 
+storage or transmittal of Confidential Information, in any form, for any purpose other than that set 
+forth in the Contract, including extrapolation or retention of summary information, data or business 
+processes, even if without specific identifiers, shall be deemed an “unauthorized use.” 
+ 
+C. Confidential Information 
+“Confidential Information” shall mean any information that OIT or the State, regardless of form 
+or medium of disclosure (e.g., verbal, observed, hard copy, or electronic) or source of 
+information (e.g., OIT, other state agencies, state employees, electronic systems, or third-party 
+contractors) provides to Vendor, or which Vendor obtains, discovers, derives or otherwise 
+becomes aware of as a result of Vendor’s performance of the Contract. It includes any sensitive 
+information that may be protected from disclosure pursuant to a federal or state statutory or 
+regulatory scheme intended to protect that information, or pursuant to an order, resolution or 
+determination of a court or administrative board or other administrative body. In addition, 
+information concerning OIT’s information technology infrastructure, systems and software and 
+procedures will be considered Confidential Information. It also includes a Vendor’s Service 
+Organization Control audit report (SOC 2 Type 2) when submitted upon request to OIT and 
+labeled as confidential. 
+Confidential Information shall not include information which the Vendor can clearly demonstrate 
+to OIT’s reasonable satisfaction is: 
+(a)  information that is previously rightfully known to the Vendor on a non-confidential basis 
+without restriction on disclosure; 
+(b)  information that is or becomes, from no act or failure to act on the part of the Vendor, 
+generally known in the relevant industry or in the public domain;  
+ 
+(c) Information or documentation subject to disclosure under the Maine Freedom of Access 
+STATE OF MAINE 
+DEPARTMENT OF ADMINISTRATIVE AND FINANCIAL SERVICES  
+OFFICE OF INFORMATION TECHNOLOGY (OIT) 
+ 
+OIT Non-Disclosure Agreement     Date of Last Revision 6.3.2026 2 
+Act; or 
+(c)  information that is independently developed by Vendor without the use of Confidential 
+Information. 
+At all times the State shall be the owner of any and all Confidential Information. 
+ 
+D. Services 
+ 
+“Services” is defined as the services to be performed by the Vendor in connection with the 
+operation or management of the Contract. 
+ 
+E. Vendor 
+“Vendor” is defined to include the Vendor and the Vendor’s respective employees, agents and 
+subcontractors assigned by Vendor and approved by the State to perform obligations under the 
+Contract (all of the foregoing collectively referred to as “Representatives”). 
+ 
+2. Duty to Protect Confidential Information; Reporting Requirements 
+In consideration for the ability to perform the Services, the Vendor shall hold all Confidential 
+Information in confidence and protect that Confidential Information with the same standard of care 
+required to keep its own similar information confidential. The Vendor must abide by all 
+commercially reasonable administrative, physical, and technical standards for maintaining this 
+information confidential, which must be in accordance with standards established by the National 
+Institute of Standards and Technology (“NIST”). In addition, the Vendor must safeguard all 
+Confidential Information from unauthorized access, loss, theft, destruction, and the like. The 
+Vendor may not, without prior consent from OIT, disclose any Confidential Information to any 
+person for any reason at any time; provided, however it is understood that the Vendor may 
+disclose Confidential Information to its Representatives and its business, financial and legal 
+advisors who require the Confidential Information for the purpose of evaluating or performing the 
+Services on the condition that, prior to such disclosure, the Representatives and advisers have 
+been advised of the confidential and non-public nature of the Confidential Information and are 
+subject to a written confidentiality agreement that contains restrictions and safeguards at least as 
+restrictive as those contained in this Agreement. The Vendor shall be responsible for any breach 
+of this Agreement by any of the Vendor’s Representatives or advisors.  
+The Vendor shall promptly report any activities by any individual or entity that the Vendor suspects 
+may compromise the availability, integrity, security, or privacy of any Confidential Information. The 
+Vendor shall notify OIT immediately upon becoming aware that Confidential Information is in the 
+possession of, or has been disclosed to, an unauthorized person or entity. 
+3. Discovery and Notification of Breach of Confidential Information 
+In addition to the requirements set forth in any applicable Business Associate Agreement as may 
+be attached to this Contract, in the event of a breach of security or suspected security incident, 
+intrusion, unauthorized use or disclosure involving Confidential Information, the Vendor shall 
+notify OIT by telephone call (207-624-7700) and email to the OIT information security team 
+(MaineITSecurityOperations@maine.gov) within the following timeframes: 
+A.  Upon the discovery of a breach of security or suspected security incident involving Confidential 
+Information in electronic, or any other medium if the information was, or is reasonably believed 
+STATE OF MAINE 
+DEPARTMENT OF ADMINISTRATIVE AND FINANCIAL SERVICES  
+OFFICE OF INFORMATION TECHNOLOGY (OIT) 
+ 
+OIT Non-Disclosure Agreement     Date of Last Revision 6.3.2026 3 
+to have been, acquired by an unauthorized person; or 
+B.  Within twenty-four (24) hours of the discovery of any suspected security incident, intrusion,    
+unauthorized use or disclosure of Confidential Information in violation of this Agreement, or 
+potential loss of Confidential Information affecting this Agreement. 
+Notification shall also be provided to the OIT Contract Manager and the OIT Information Security 
+Officer. The Vendor shall provide a written report of all information known at the time. The Vendor 
+shall take: 
+A.  Prompt corrective action to mitigate any risks or damages involved with the breach and to 
+protect the operating environment; and 
+B.  Any action pertaining to such unauthorized disclosure required by applicable federal and state 
+laws and regulations. 
+4. Written Report 
+In addition to the report required above, the Vendor shall provide a written report of the 
+investigation to the OIT Chief Information Security Officer within ten (10) working days of the 
+discovery of the breach of security or suspected security incident, or unauthorized use or 
+disclosure involving Confidential Information. The report shall include, but not be limited to, the 
+information specified above, as well as a full, detailed corrective action plan, including information 
+on measures that were taken to halt and/or contain the improper use or disclosure. 
+5. Notification to individuals. 
+The Vendor shall notify individuals of the breach or unauthorized use or disclosure of Confidential 
+Information when notification is required under state or federal law and shall pay any costs of 
+such notifications, as well as any costs associated with the breach. Any notification provided must 
+first be approved by the OIT Chief Information Security Officer, who shall approve the time, 
+manner and content of any such notifications prior to their release. 
+6. Use Restriction 
+Vendor shall not receive, possess, store, access, view and/or use Confidential Information for any 
+purpose other than an Authorized Use. Vendor shall not permit unauthorized persons or entities to 
+gain access to Confidential Information and shall not divulge methods of accessing Confidential 
+Information to unauthorized persons.   
+7. Security Obligations  
+The Vendor agrees to comply with the following security obligations as well as any other such 
+obligations specified in the contract, including requirements set forth in any applicable Business 
+Associate Agreement as may be attached to this Contract, or conveyed to him/her during the 
+course of the Agreement. The Vendor agrees to comply with the following security obligations: 
+A.   Implement administrative, physical and technical safeguards in accordance with NIST 
+standards that reasonably and appropriately protect the confidentiality, integrity and availability 
+of any Confidential Information that is created, received, maintained, used, possessed, stored, 
+accessed, viewed and/or transmitted on behalf of OIT or through OIT or any agency, 
+instrumentality or political subdivision of the State of Maine Government; 
+B.   Unless otherwise authorized by OIT, Confidential Information may NOT be stored on personal 
+(non-State) computing or other electronic or mobile storage devices or taken or removed in 
+STATE OF MAINE 
+DEPARTMENT OF ADMINISTRATIVE AND FINANCIAL SERVICES  
+OFFICE OF INFORMATION TECHNOLOGY (OIT) 
+ 
+OIT Non-Disclosure Agreement     Date of Last Revision 6.3.2026 4 
+any form from OIT or the State;  
+C.   Vendor shall comply with all applicable federal and state laws governing confidentiality and/or 
+privacy of information; 
+D.   Vendor shall comply with all applicable OIT policies and procedures including but not limited 
+to those that provide for accessing, protecting, and preserving State assets;  
+E. Access to any and all Confidential Information will be limited to only those authorized persons 
+who need the Information to perform the services required under the Contract; 
+F.  Obtain fingerprint-based criminal history record checks for all Vendor's employees, agents and 
+subcontractors when requested by OIT pursuant to federal and state statutory and regulatory 
+directives, at the expense of the Vendor; 
+G. Vendor shall instruct all personnel having access to Confidential Information about the 
+confidential nature of the Information, the safeguards required to protect the Information, and 
+the sanctions specified in federal and state law for unauthorized disclosure of said Information; 
+and 
+H. Vendor shall use only those access rights granted by OIT. 
+8.  Certification by Vendor of Return of Confidential Information, Electronic Information and 
+Tangible Property 
+Promptly following the written request of OIT, and immediately upon termination of the Services, 
+the Vendor shall return all Confidential Information stored in any format to OIT, or destroy any 
+Confidential Information that Vendor possesses in a format that cannot be returned. Further, 
+Vendor agrees to submit to OIT on Vendor’s letterhead a “CERTIFICATION OF RETURN OR 
+DESTRUCTION OF CONFIDENTIAL INFORMATION, ELECTRONIC INFORMATION, AND 
+TANGIBLE PROPERTY” certifying that all copies of Confidential Information, electronic property 
+and tangible property belonging to the State or OIT have been returned, or if necessary, 
+destroyed using the form provided in Appendix A. 
+9.  Termination 
+Vendor’s Authorized Use of Confidential Information shall terminate automatically upon: (a) 
+breach of this Agreement as determined solely by OIT, (b) completion or termination of Vendor’s 
+Services, or, (c) termination of Vendor’s Contract, whichever occurs first. Vendor’s 
+indemnification, confidentiality, and related assurances and obligations hereunder shall survive 
+termination of the Agreement. 
+10.  Compliance 
+If Vendor breaches or threatens to breach this Agreement, the State shall have all equitable and 
+legal rights (including the right to obtain injunctive relief and specific performance) to prevent such 
+breach and/or to be fully compensated (including litigation costs and reasonable attorney’s fees) 
+for losses or damages resulting from such breach. Vendor acknowledges that compensation for 
+damages may not be sufficient and that injunctive relief to prevent or limit any breach of 
+confidentiality may be the only viable remedy to fully protect the Confidential Information. Vendor 
+shall hold OIT harmless from, and indemnify OIT for any claims, losses, expenses and/or 
+damages arising out of the unauthorized disclosure by the Vendor, its Representatives, or third 
+party partners, of Confidential Information or other unauthorized use of the Confidential 
+Information, including but not limited to, paying the State any costs of enforcing this Agreement, 
+securing appropriate corrective action, returning Information furnished hereunder, as well as any 
+other costs reasonably incurred by the State in enforcing the terms of this Agreement. 
+STATE OF MAINE 
+DEPARTMENT OF ADMINISTRATIVE AND FINANCIAL SERVICES  
+OFFICE OF INFORMATION TECHNOLOGY (OIT) 
+ 
+OIT Non-Disclosure Agreement     Date of Last Revision 6.3.2026 5 
+ 
+11. Public Records Requests/Disclosure Compelled by Law or Judicial Proceeding 
+ The Vendor acknowledges that OIT is a public agency and as such it and this Agreement shall be 
+subject at all times to the Maine Freedom of Access Act, 1 MRSA §400 et seq. (FOAA). In the 
+event that OIT receives an appropriate request pursuant to FOAA, the subject matter of which is 
+Confidential Information pursuant to this Agreement, then (a) OIT agrees to promptly notify the 
+Vendor of such request and independently and in its sole discretion determine whether it believes 
+the documents should be maintained as confidential; and (b) the Vendor agrees to provide OIT 
+and its counsel such assistance and cooperation as is reasonably required and requested in order 
+to respond to such a disclosure request. 
+ Notwithstanding the requirements of this Agreement, the Parties may release the Confidential 
+Information if directed to do so by operation of law, pursuant to a lawfully issued subpoena, or 
+pursuant to a ruling by a court or arbitrator of competent jurisdiction, or if OIT determines, in its 
+sole discretion, that such information is a public record under FOAA. OIT shall promptly notify the 
+Vendor of such ruling or directive upon being made aware of same. 
+12.  Governing Law 
+This Agreement shall be governed by and construed in accordance with the laws of the State of 
+Maine. The place of this Agreement, its situs and forum, shall be Kennebec County, Maine, where 
+all matters, whether sounding in contract or in tort, relating to its validity, construction, 
+interpretation, and enforcement shall be determined. Vendor agrees and submits, solely for 
+matters relating to this Agreement, to the jurisdiction of the courts of the State of Maine, and 
+stipulates that the State Courts in Kennebec County shall be the proper venue for all matters. If 
+any provision of the Agreement is declared by a court of competent jurisdiction to be invalid, 
+illegal, or unenforceable, the other provisions shall remain in full force and effect. 
+13.  Entire Agreement 
+This Agreement constitutes the entire agreement with respect to the Confidential Information 
+disclosed hereunder and supersedes all prior or contemporaneous oral or written agreements 
+concerning such Confidential Information. 
+ 
+IN WITNESS WHEREOF, the Parties have executed this Agreement through their duly authorized 
+representatives effective as of the Effective Date set forth above. 
+[Name of Vendor]: 
+ 
+ 
+By:  
+Printed:  
+Title:  
+Date:   
+State of Maine /Office of Information 
+Technology: 
+ 
+By:  
+Printed: Charles X. Rote   
+Title: Chief Information Security Officer   
+Date:   
+ 
+OIT Non-Disclosure Agreement     Date of Last Revision 6.3.2026 6 
+APPENDIX A TO CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT 
+ 
+CERTIFICATION OF RETURN OR DESTRUCTION OF CONFIDENTIAL INFORMATION, 
+ELECTRONIC INFORMATION, AND TANGIBLE PROPERTY BY VENDOR PURSUANT TO 
+VENDOR CONFIDENTIALITY & NONDISCLOSURE AGREEMENT DATED    
+ 
+Pursuant to the Vendor Confidentiality and Non-Disclosure Agreement between the State of 
+Maine, acting by and through the Office of Information Technology (“OIT”)  
+and______________________________ (“Vendor”) dated______________________, Vendor 
+acknowledges their responsibility to return or destroy all Confidential Information upon termination 
+of the Vendor’s services to OIT. This document certifies that all copies of Confidential Information, 
+electronic property and tangible property belonging to the State of Maine or OIT have been 
+returned, or if necessary, destroyed, as described below: 
+ 
+ 
+Description of returned Confidential Information, electronic information or tangible property: 
+ 
+ 
+ 
+ 
+ 
+ 
+Description of destroyed Confidential Information, electronic information or tangible property: 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                             
+Vendor Signature 
+                                                                                     
+Vendor Name 
+                                                                                     
+Date 
+ 
+ 
+STATE OF MAINE | IT SERVICE CONTRACT 
+IT-SC Template – 6/3/2026  
+ATTACHMENT B: BUSINESS ASSOCIATE AGREEMENT   
+ 
+(Included at Department’s Discretion) 
+ 
+Enter Business Associate Agreement (BAA) here, if applicable. If not applicable, delete this page and 
+make sure BAA is deleted in the Table of Riders section.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  

@@ -1,0 +1,148 @@
+STATE OF MONTANA
+PURCHASE ORDER
+Date:
+Purchase Order Number:
+Purchase Order Title:
+Requisition Number:
+Solicitation Number:
+STATE
+Bill To:
+Ship To:
+Agency Name
+Agency Name
+Address
+Address
+City, State, Zip
+City, State, Zip
+Primary Contact Information:
+Name
+Phone Number
+Email Address
+VENDOR
+Name
+Vendor Phone
+Address
+Vendor email
+City, State, Zip
+Federal ID no.
+Purchase Order Total
+Delivery Date
+PO Terms:  Net 30
+AUTHORIZED SIGNATURES
+Vendor
+ Acceptance:
+State Procurement Services Division Approval:
+Legal Counsel:
+Chief Information Officer Approval:
+ 
+Required for IT purchases
+The Contractor is notified that pursuant to section 2-17-514, MCA, the Department of Administration retains the right to cancel or modify any contract, project, or activity that is not in compliance with the Agency’s Plan for Information Technology, the State Strategic Plan for Information Technology, or any statewide IT policy or standard.
+ITPR #:
+STANDARD TERMS AND CONDITIONS – IFB
+IMPORTANT: The following terms and conditions must be tailored to the intended contracting instrument (contract or purchase order). 
+If the intended result of the solicitation is to produce a 
+contract
+, only those clauses in 
+BLACK
+ should be included.
+If the intended result is a 
+purchase order
+, include all clauses listed below – both 
+BLACK
+ and 
+RED
+. 
+When using an agency’s customized contract template, include all clauses which do not appear in the agency’s template.
+If utilizing this template to purchase IT goods/services, the State's IT Terms and Conditions must be included.
+If Federal Funds are being used, Federal Terms and Conditions must be included.
+Both Contract and Purchase Orders
+REMOVE 
+THIS LINE AND ABOVE BEFORE
+ POSTING OR ROUTING FOR SIGNATURES
+ACCEPTANCE/REJECTION OF BIDS: 
+The State reserves the right to accept or reject any or all bids, wholly or in part, and to make awards in any manner deemed in the best interest of the State. Bids will be firm for 30 days, unless stated otherwise in the text of the invitation for bid.
+ALTERATION OF SOLICITATION DOCUMENT:
+ In the event of inconsistencies or contradictions between language contained in the State’s solicitation document and a vendor’s response, the language contained in the State’s original solicitation document will prevail. Intentional manipulation and/or alteration of solicitation document language will result in the vendor’s disqualification and possible debarment.
+DEBARMENT:
+ Contractor certifies, by submitting this bid, that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible, or voluntarily excluded from participation in this transaction (contract) by any governmental department or agency. If Contractor cannot certify this statement, attach a written explanation for review by the State.
+FAILURE TO HONOR BID/PROPOSAL: 
+If a bidder to whom a contract is awarded refuses to accept the award (PO/contract) or fails to deliver in accordance with the contract terms and conditions, the department may, in its discretion, suspend the bidder for a period of time from entering into any contracts with the State of Montana.
+RECIPROCAL PREFERENCE:
+ The State of Montana applies a reciprocal preference against a vendor submitting a bid from a state or country that grants a residency preference to its resident businesses. A reciprocal preference is only applied to an invitation for bid for supplies or an invitation for bid for non-construction services for public works as defined in section 18-2-401(9), 
+MCA, and then only if federal funds are not involved. For a list of states that grant resident preference go to the 
+State Procurement Bureau website
+.   
+SOLICITATION DOCUMENT EXAMINATION:
+ Vendors shall promptly notify the State of any ambiguity, inconsistency, or error 
+that
+ they may discover upon examination of a solicitation document.
+U.S. FUNDS:
+ All prices and payments must be in U.S. dollars.
+Purchase Orders
+ACCESS AND RETENTION OF RECORDS: 
+Contractor agrees to provide the department, Legislative Auditor, or their authorized agents, access to any records necessary to determine contract compliance. (Section 18-1-118, MCA). Contractor agrees to create and retain records supporting the services rendered or supplies delivered for a period of eight years after either the completion date of the contract or the conclusion of any claim, litigation, or exception relating to the contract taken by the State of Montana or third party.
+ASSIGNMENT, TRANSFER AND SUBCONTRACTING:
+ Contractor shall not assign, transfer or subcontract any portion of the contract without the express written consent of the department. (Section 18-4-141, MCA.)
+COMPLIANCE WITH LAWS:
+ Contractor shall, in performance of work under this contract, fully comply with all applicable federal, state, or local laws, rules, and regulations, including but not limited to, the Montana Human Rights Act, the Equal Pay Act of 1963, the Civil Rights Act of 1964, the Age Discrimination Act of 1975, the Americans with Disabilities Act of 1990, and Section 504 of the Rehabilitation Act of 1973. The Contractor is the employer for the purpose of providing healthcare benefits and paying any applicable penalties, fees and taxes under the Patient Protection and Affordable Care Act [
+P.l
+. 111-148, 124 Stat. 119]. Any subletting or subcontracting by the Contractor subjects its subcontractors to the same provisions. In accordance with 49-3-207, MCA, Contractor agrees that the hiring of persons to perform this contract will be made on the basis of merit and qualifications and there will be no discrimination 
+based upon 
+race, color, religion, creed, political ideas, sex, age, marital status, physical or mental disability, or national origin by the persons performing this contract.
+CONFORMANCE WITH CONTRACT:
+ No alteration of the terms, conditions, delivery, price, quality, quantities, or specifications of the contract shall be granted without the State Procurement 
+Services Division
+ prior written consent. Product or services provided that do not conform to the contract terms, conditions, and specifications may be rejected and returned at Contractor’s expense. 
+DISABILITY ACCOMMODATIONS: 
+The State does not discriminate 
+on the basis of
+ disability in admission to, access to, or operations of its programs, services, or activities. Individuals who need aids, alternative document formats, or services for effective communications or other disability 
+related accommodations in the programs and services offered are invited to make their needs and preferences known to this office. Interested parties should provide as much advance notice as possible.
+FORCE MAJEURE:
+ Neither party is responsible for failure to fulfill its obligations due to causes beyond its reasonable control, including without limitation, acts or omissions of government or military authority, acts of God, materials shortages, transportation delays, fires, floods, labor disturbances, riots, wars, terrorist acts, or any other causes, directly or indirectly beyond the reasonable control of the nonperforming party, so long as such party uses its best efforts to remedy such failure or delays. A party affected by a force majeure condition shall provide written notice to the other party within a reasonable time of the onset of the condition. In no event, however, shall the notice be provided later than five working days after the onset. If the notice is not provided within the five-day period, then a party may not claim a force majeure event. A force majeure condition suspends a party’s obligations under this contract, unless the parties mutually agree that the obligation need not be performed because of the condition. 
+DEFENSE, INDEMNIFICATION / HOLD HARMLESS
+ 
+Contractor shall defend, indemnify and hold harmless the State of Montana and the contracting agency hereunder and their elected and appointed officials, agents, and employees, while acting within the scope of their duties as such, from and against all claims, demands, causes of action, liabilities, damages, judgments, expenses or fees, including the reasonable cost of defense thereof and attorney fees, arising or awarded in favor of Contractor's or its subcontractor’s employees or agents or third parties for bodily or personal injuries, death, damage to property, or financial or other loss resulting or allegedly resulting in whole or part from (i) the services performed or products provided or (ii) other acts or omissions of Contractor and/or its agents, employees, representatives, assigns, subcontractors, except the sole negligence of State.
+INTELLECTUAL PROPERTY: 
+All patents and other legal rights in or to inventions created in whole or in part under the contract must be available to the State for royalty-free and nonexclusive licensing. Both parties shall have a royalty-free, nonexclusive, and irrevocable right to reproduce, publish or otherwise use and authorize others to use, copyrightable property created under the contract.
+NONDISCRIMINATION AGAINST FIREARMS ENTITIES/TRADE ASSOCIATIONS:
+ 
+Contractor shall not have a practice, policy, guidance, or directive that discriminates against a firearm entity of firearm trade association, and Contractor shall not discriminate during the term of the contract against a firearm entity or firearm trade association. This section shall be construed in accordance with 30-20-301, MCA.
+PATENT AND COPYRIGHT PROTECTION:
+ If a third party makes a claim against the State that the products furnished under this purchase order infringe upon or violate any patent or copyright, the State shall promptly notify Contractor. Contractor shall defend such claim in the State's name or its own name, as appropriate, but at Contractor's expense. Contractor shall indemnify the State against all costs, damages, attorney fees, and all other costs and expenses of litigation that accrue 
+as a result of
+ such claim. If the State reasonably concludes that its interests are not being properly protected, or if principles of governmental or public law are involved, it may enter any action. 
+PAYMENT TERM:
+ All payment terms will be computed from the date of delivery of supplies or services OR receipt of a properly executed invoice, whichever is later. Unless otherwise noted in the solicitation document, the State is allowed 30 days to pay such invoices. All contractors will be required to provide banking information at the time of contract execution 
+in order to
+ facilitate State electronic funds transfer payments.
+REDUCTION OF FUNDING: 
+The State must terminate this contract if funds are not appropriated or otherwise made available to support the State's continuation of performance in a subsequent fiscal period. (See section 18-4-313(4), MCA.)
+REFERENCE TO CONTRACT:
+ The contract or purchase order number MUST appear on all invoices, packing lists, packages, and correspondence pertaining to the contract.
+REGISTRATION WITH THE SECRETARY OF STATE:
+ Any business intending to transact business in Montana must register with the Secretary of State. Businesses that are domiciled in another state or country, but which are conducting activity in Montana, must determine whether they are transacting business in Montana in accordance with §§ 35-14-1505, 35-8-1001, and 35-12-1309 MCA. Such businesses may want to obtain the guidance of their attorney or accountant to determine whether their activity is considered transacting business.
+If businesses determine that they are transacting business in Montana, they must register with the Secretary of State and obtain a certificate of authority to demonstrate that they are in good standing in Montana. §§ 35-8-1001, 35-12-1302, and 35-14-1502, MCA. To obtain registration materials, call the Office of the Secretary of State at (406) 444-3665, or visit their website at 
+http://sosmt.gov
+. 
+SEVERABILITY CLAUSE: 
+A declaration by any court, or any other binding legal source, that any provision of the contract is illegal and void shall not affect the legality and enforceability of any other provision of the contract, unless the provisions are mutually dependent.
+SHIPPING: 
+Supplies shall be shipped prepaid, F.O.B. Destination, unless the contract specifies otherwise.
+TAX EXEMPTION:
+ 
+State of Montana is exempt from Federal Excise Taxes (#81-0302402) except as otherwise provided in the federal Patient Protection and Affordable Care Act [
+P.l
+. 111-148, 124 Stat. 119].
+TECHNOLOGY ACCESS FOR BLIND OR VISUALLY IMPAIRED:
+ Contractor acknowledges that no state funds may be expended for the purchase of information technology equipment and software for use by employees, program participants, or members of the public unless it provides blind or visually impaired individuals with access, including interactive use of the equipment and services, that is equivalent to that provided to individuals who are not blind or visually impaired. (Section 18-5-603, MCA.) 
+TERMINATION OF CONTRACT: 
+Unless otherwise stated, the State may, by written notice to Contractor, terminate the contract in whole or in part at any time Contractor fails to perform the contract.
+VENUE: 
+This solicitation is governed by the laws of Montana. The parties agree that any litigation concerning this bid, request for proposal, limited solicitation, or subsequent contract, must be brought in the First Judicial District in and for the County of Lewis and Clark, State of Montana, and each party shall pay its own costs and attorney fees. (Section 18-1-401, MCA.)
+State Procurement Services Division
+Purchase Order Template
+Revised 
+11
+/202
+5

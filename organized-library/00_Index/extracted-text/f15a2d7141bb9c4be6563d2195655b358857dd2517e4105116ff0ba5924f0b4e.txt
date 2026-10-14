@@ -1,0 +1,2030 @@
+I
+nvitation 
+T
+o 
+B
+id (ITB)
+ Instructions
+:
+ 
+This template 
+is designed for use for solicitations 
+for goods and services under ORS 279B.
+ 
+DELETE
+ all instructive comments prior to 
+sending to DOJ and/or 
+releasing the draft ITB
+ 
+for publication
+.
+NOTES
+: 
+For
+ a 
+Public Improvement ITB
+, us
+e
+ the 
+ITB for 
+Public Improvement
+/Public Works
+ Solicitation/Contract Template
+(s)
+.
+ 
+Generally:
+Turn on and use tracked changes for all edits, including deletion of optional areas.
+Yellow highlighted areas 
+are text to be selected or completed as part of drafting the 
+ITB
+. 
+Please delete the selection
+ or choice
+ that does not apply
+.
+If 
+your agency 
+needs to add information about 
+alternate formats and languages
+, insert your agency’s 
+desired clause
+ on the Cover Page. Below are two example clauses to use:
+This document can be provided upon request in an alternate format for individuals with disabilities or in a language other than English for people with limited English skills. To request this document in another format or language, contact [
+enter department and phone number
+] for TTY, or email: [
+enter email address for your agency
+]; OR
+You can get this document in other languages, large print, braille, or a format you prefer free of charge. Contact the 
+SPC
+ 
+via 
+email 
+found 
+o
+n
+ the Cover Page
+. [
+Agency
+] accepts all relay calls
+.
+              
+Template Sections
+:
+Update the Table of Contents to 
+make sure that the page numbers are accurate
+ before releasing the draft ITB.
+Section 1.
+2
+ 
+–
+ 
+Optional: Add the following line item to the table, if needed:
+Responses to Questions/Requests for Clarifications Issued (approximate)
+Section 1.
+5 
+–
+ Submission Requirements. Insert applicable attachment identifiers.
+Section 2.
+1 
+–
+ Description of Goods and Services. Insert
+ the 
+Scope of Work/Statement of Work/Specifications (choos
+ing the
+ appropriate
+ designation
+) or
+ refer Bidders to additional attachments.
+ 
+Include the character of the Goods or Services the Contracting Agency is purchasing
+,
+ including, 
+as 
+applicable, a description of the acquisition, Specifications, delivery or performance schedule, 
+inspection,
+ and acceptance requirements. 
+As required by Oregon Revised Statutes (ORS), Chapter 279B.055(2)(c), the Contracting Agency’s description of its need to purchase must: 
+(A) Identify the scope of the work to be performed under the resulting Contract, if the 
+Contracting Agency awards one; 
+(B) Outline the anticipated duties of the Contractor under any resulting Contract; 
+(C) Establish the expectations for the Contractor’s performance of any resulting Contract; and 
+(D) Unless the Contracting Agency for Good Cause specifies otherwise, the scope of work must require the Contractor to meet the highest standards prevalent in the industry or business most closely involved in providing the Goods or Services that the Contracting Agency is purchasing.
+Section 3.1 
+–
+ 
+Procurement Authority. Insert your applicable agency procurement authority.
+ If the Agency wants to 
+use the option(s) for a Competitive Sealed Bidding
+,
+ i.e. Multi-Step Invitation to Bid; Revised Rounds of Bidding, 
+Buyer
+ need
+s
+ to modify the language in this section regarding the process to be used. See OAR 125-247-0255(
+2
+)(
+A
+). See also: OAR 125-247-0720 for protest of multiple-tiered and multi-step solicitations.
+Section 3.
+4
+ - Prequalification Process. 
+Include this 
+text in this 
+section only if
+ a
+ pre-qualification process is part of the solicitation process
+. 
+Delete the text and insert 
+“Reserve
+d
+” 
+in 
+Section 3.3
+ if 
+a 
+p
+requalification process is 
+not 
+part of the solicitation process.
+Section 3.
+5
+ - Pre-Bid Conference. 
+Insert information regarding participation
+ in a pre-bid conference, if one will be held
+ (process to sign up, conference call information, webinar information, URL, and 
+any 
+limitations). 
+Delete the text and insert 
+“Reserve
+d
+”
+ in
+ this section if no pre-bid conference
+ will be
+ scheduled.
+Section 3.
+10
+ 
+–
+ Bid Submission. 
+Requirements identified here must be precisely defined and must be essential elements to be met by 
+a 
+Bidder. 
+The drafter is to i
+dentify specific document(s) Bidder
+s
+ must provide.
+ For example, 
+if Key
+ Persons are required
+, identify the roles required to be filled. 
+Section 3.
+10
+.2
+ 
+-
+The drafter must e
+nsure
+ 
+t
+h
+e 
+number of references and years 
+in this section 
+match 
+A
+ttachment C.
+Section 3.1
+5
+ 
+–
+ Firm Offer. Determine
+ if pre-set length of time is adequate; if not, modify to set desired 
+length of time.
+Section 4.3 
+–
+ References. If references will not be obtained, 
+delete 
+the text and insert 
+“Reserved”
+ 
+i
+n this section.
+ 
+Section 4.4.1 
+–
+ Oregon 
+Supplies and Services
+. 
+The preference
+ in this section
+ is an option
+. This option 
+may not be allowable in federally funded ITBs. This preference allows 
+Agency
+ 
+to apply up to a 10% preference to the price portion.
+ 
+Buyer
+ is to identify the preference percentage.
+ 
+The percentage may be increased 
+with written justification in the procurement file
+.
+Section 4.4.2 -
+Benefit Companies. The preference in this section is an option. This option may not be allowable in federally funded ITBs. This preference allows 
+Agency
+ to apply up to a 10% preference to the price portion
+. 
+Buyer
+ is to identify the preference percentage. The percentage may be increased 
+with written justification in the procurement file
+.
+Section 4.5 - Cost Comparison
+. Describe the methodology used to calculate pricing.
+Section 4.6 - Additional Rounds. 
+If 
+you intend to conduct a multistep competitive bidding process, you must define that upfront. 
+For example, t
+he first step 
+may 
+require 
+unpriced 
+submittals
+,
+ 
+and include 
+ 
+demonstration
+s
+, presentations, or interview
+s
+ in the 
+evaluation of that first round. Y
+ou
+ must identify 
+in the solicitation document 
+what the options are and 
+how this information will be used
+, and make sure 
+the requirements for the 
+first round (
+demo/presentation/interviews
+)
+ are described clearly in the 
+solicitation
+. 
+In this example, s
+tep two can be the request for the price bid.  
+You may 
+also allow for 
+a
+n optional
+ 
+Best and Final Offer 
+step.  
+Remember that in an ITB process t
+he 
+result must
+ be 
+based 
+upon lowest price
+.
+ 
+If your agency is under DAS procurement authority, s
+ee OAR 125-247-0255(2)(d), which describes how to conduct revised rounds of bidding.
+Section 5.2 
+–
+ Protest of Intent to Award. You may adjust the number of days permitted to submit protests of award. However, you must include written findings in the procurement file to allow an award protest period of less than 
+seven
+ calendar days from issue of notice of intent to award. (See OAR 137-04-0700, 125-247-0610
+, ORS 
+279B.135
+.)
+Section 5.3 
+–
+ Method of Award. If 
+you are
+ awarding 
+a contract for
+ multiple items
+,
+ explain 
+the 
+process for award. See OAR 125-247-0600(4)(b).
+ If 
+you are
+ awarding multiple 
+contracts
+ 
+explain
+ the
+ process for award. See OAR 125-247-0600(4)(c).
+ 
+Section 6.
+8
+ 
+–
+ 
+Recycled P
+roducts
+. 
+Delete
+ 
+this section, if not applicable to the ITB
+.
+Section 6.
+9
+ - Checklist Disclaimer. 
+Delete this section, if not applicable to the ITB
+.
+State of Oregon
+[AGENCY NAME]
+, 
+issues
+Invitation to Bid (“ITB”) under OregonBuys
+®
+ Bid Number 
+#
+for
+      
+ 
+[Description of Goods and 
+S
+ervices]
+Date of Issue: 
+MM/DD/YYYY
+Bid 
+Opening Date and Time: 
+MM/DD/YYYY, Time 00:00 PM
+ (Pacific
+ Time
+)
+Single Point of Contact (“SPC”): 
+[Name, Title]
+Address:
+[Address 1] 
+City, State, Zip:
+[Address 2]
+Phone (voice):
+[Phone]
+E-mail:
+[Email]
+Table of Contents
+SECTION 1:
+GENERAL OVERVIEW
+9
+1.1
+Summary Overview
+9
+1.2
+Schedule of Events
+9
+1.3
+Minimum Requirements
+10
+1.4
+Submission Requirements
+10
+1.5
+Single Point of Contact
+11
+SECTION 2:
+GOODS AND SERVICES
+11
+2.1
+Description of Goods and Services
+11
+SECTION 3:
+Procurement Process
+11
+3.1
+Procurement Authority and Method
+11
+3.2
+Defined 
+Terms
+11
+3.3
+E-Procurement System: OregonBuys
+®
+11
+3.4
+Pre-Qualification Process
+12
+3.5
+Pre-Bid Conference
+12
+3.6
+Questions and Requests for Clarification
+13
+3.7
+Protest of ITB
+13
+3.8
+Amendments
+13
+3.9
+Protest of Amendments
+14
+3.10
+Bid Submission
+14
+3.11
+Bid Delivery
+15
+3.12
+Bid Modification or Withdrawal
+15
+3.13
+Late Bids
+15
+3.14
+Opening and Bid Review
+15
+3.15
+Firm Offer
+16
+3.16
+Additional Rounds
+16
+SECTION 4:
+BID REVIEW
+16
+4.1
+Responsiveness Determination
+16
+4.2
+Responsibility Determination
+16
+4.3
+References
+16
+4.4
+Preferences
+17
+4.5
+Price Comparison (including application of preferences) and Ranking
+17
+SECTION 5:
+AWARD
+18
+5.1
+Notice of Intent to Award
+18
+5.2
+Protest of Notice of Intent to Award
+18
+5.3
+Method of Award
+18
+5.4
+Contract/Price Agreement
+ Execution
+18
+5.5
+Selection of a Contractor in Multiple Award
+19
+SECTION 6:
+Additional Information
+19
+6.1
+Applicable Statutes and Rules
+19
+6.2
+Diversity, Equity, and Inclusion
+20
+6.3
+Government Bodies
+20
+6.4
+Electronic Signatures.
+20
+6.5
+Cancellation and/or Rejection of Bids; Damages
+20
+6.6
+Cost of Submitting a Bid
+21
+6.7
+Ownership/Permission to Use Materials
+21
+6.8
+Confidential or Proprietary Information; Public Records
+21
+6.9
+Recycled Products
+21
+6.10
+Checklist Disclaimer
+22
+6.11
+COBID
+22
+ATTACHMENT A Sample 
+Contract /Price Agreement
+23
+ATTACHMENT B Bid Cover Sheet
+24
+ATTACHMENT C Reference Check Form
+26
+ATTACHMENT D Bid Pricing Form
+28
+ATTACHMENT E Responsibility Inquiry
+29
+ATTACHMENT F Certified Disadvantaged Business Outreach Plan
+32
+ATTACHMENT G Defined Terms
+34
+GENERAL OVERVIEW
+Summary Overview
+The State of Oregon, acting by and through 
+its
+______
+_____
+,
+ (Agency),
+ is issuing this Invitation to Bid (ITB) 
+for
+ [
+Goods/Services/Goods and Services]
+.
+Background:
+ 
+Reason for soliciting, background information, and any other information helpful in understanding how you got to this procurement decision.
+Brief Description of Need
+ 
+(See Section 2 for full description):
+ 
+Brief project description such as:
+Benchmarks or past performance under previous agreements which may be indicators of future needs (such as spend volume on a previous agreement for repetitive purchases, 
+etc.
+)
+.
+[For price agreements] 
+Agency
+ has no estimate of the volume of potential purchases. By submitting an Offer, Bidder agrees to supply all Goods and Services ordered during the term of any awarded Contract/Price Agreement. 
+Any component typically related but 
+not
+ included in the scope of the solicitation (such as current functionality processes, goods, dependent items); any driving factors, such as state or federal legislation, business operational needs, an approved Special Procurement, a declared emergency, grant requirements, a Governor’s executive order, existing circumstances which may affect performance under the contract(s) or price agreement(s). 
+Optional: Budget limitation
+Required delivery date for [the 
+good
+ or service]:
+A
+gency
+ anticipates the award of 
+[number/one or more/one/multiple] 
+[
+Contracts
+ 
+Price Agreements
+]
+ resulting from this ITB. 
+The initial term is anticipated to be [
+term: years, months
+] with 
+the 
+option to 
+extend
+.
+Schedule of Events
+The table below represents a tentative schedule of events. 
+Agency
+ may modify these dates at any time, with appropriate notice. All 
+times
+ 
+are
+ Pacific Time.
+EVENT
+DATE
+TIME 
+Pre-Bid Conference 
+[mandatory, 
+voluntary
+, if none, remove]
+Questions/Requests for Clarifications Due
+ 
+ITB Protests Period Ends
+7 calendar days prior to 
+Bid
+ 
+Opening
+ Date
+ 
+Bid 
+Opening 
+Date
+ 
+(Due Date and time to submit 
+Bids)
+See cover page
+ 
+Opening of Bids
+Issuance of Notice of Intent to Award (approximate)
+Notice of Intent to Award Protest Ends
+XX
+ days from Notice of Intent to Award
+ 
+Agency
+ operating hours are 
+Monday through Friday 8:00 AM to 
+4:30 
+PM
+, Pacific Time, except for State holidays and State-approved closures, including those for inclement weather.
+Minimum Requirements
+In order to be considered for an award under this ITB, Bidder must 
+meet or exceed the following minimum requirements:
+ 
+(fill in minimum requirements)
+ 
+(fill in minimum requirements)
+(fill in minimum requirements)
+Submission Requirements
+The Bid 
+must include the following 
+mandatory forms 
+in its submittal:
+Attachment B – Bid 
+Cover Sheet
+Attachment C – Reference Check Form
+Attachment D
+ – Bid Pricing Form
+Attachment 
+E
+ – Responsibility Inquiry
+Attachment 
+F
+ – Certified Disadvantaged Business Outreach Plan
+The Bid may include the following 
+optional 
+forms 
+in its submittal:
+Optional:
+ 
+Public Records Exemption Statement and redacted copy of Bid
+Optional:
+ 
+Completed Benefit Report
+ required under ORS 60.768, if certif
+ied as a benefit company
+Single Point of Contact
+All questions, requests for clarification, protests about any component of this ITB, including technical requirements, contractual requirements, and the procurement process must be directed to the SPC identified on the cover page of this ITB.
+GOODS AND SERVICES
+Description of Goods and Services
+Procurement Process
+Procurement Authority and Method
+Agency
+ is conducting this ITB pursuant to 
+____________________
+. 
+Agency
+ is using the Competitive Sealed Bidding method, pursuant to ORS 279B.055 and OAR 125-247-0255.
+Defin
+ed 
+T
+erms
+Defined terms applicable to this ITB and the resulting 
+Contract/Price Agreement
+ are 
+found 
+in OAR 
+125-246-0110, and
+ 
+set forth 
+in Attachment G 
+or
+ 
+elsewhere in this ITB
+ or its Attachments
+. For ease of reference, a link to the crosswalk of terms used in OregonBuys
+®
+ to terms defined in Oregon Administrative Rules is included in Attachment G.
+E-Procurement System:
+ 
+OregonBuys
+®
+ 
+OregonBuys
+®
+ posting.
+This ITB, including all Amendments, attachments and exhibits is posted in the State’s e-procurement system, OregonBuys
+®
+. 
+ITB documents will not be mailed or otherwise delivered.
+OregonBuys
+®
+ Registration Information
+.
+Bidder must be registered in OregonBuys
+®
+ to do business with the State.
+ 
+Registration is free.
+ 
+To create a vendor account, click the blue “
+Supplier 
+Registr
+ation
+” button in the top right corner of the OregonBuys
+®
+ website:
+ 
+https://oregonbuys.gov/bso
+.
+ 
+For registration assistance, see vendor registration guidance
+: 
+https://www.oregon.gov/das/ORBuys/Documents/SupplierRegistrationGuide.pdf
+.
+BIDDER
+ IS
+ SOLELY RESPONSIBLE FOR ENSURING 
+ITS 
+VENDOR INFORMATION IS CURRENT AND CORRECT IN OREGONBUYS
+®
+.
+ 
+AGENCY
+ WILL ACCEPT NO RESPONSIBILITY FOR MISSING OR INCORRECT VENDOR INFORMATION.
+ 
+OregonBuys
+®
+ Assistance
+Parties needing assistance with OregonBuys
+®
+ may contact the OregonBuys
+®
+ Helpdesk by telephone at (855) 800-5046 or by email at 
+support.oregonbuys@oregon.gov
+.
+Failure of Electronic Procurement System
+I
+n the event of a failure of an Electronic Procurement System that interferes with the ability of a Person to submit Electronic 
+Submittals,
+ to protest or to otherwise participate in the procurement, 
+Agency
+ may cancel the procurement or may extend the date and time of receipt of Electronic Submittals by providing notice of the extension immediately after the Electronic Procurement System becomes available.
+Pre-Qualification Process
+This solicitation requires Bidder be prequalified 
+[buyer to include what needs to be submitted for prequalification, e.g. criminal background checks, licenses, etc.],
+ in accordance with ORS 279B.120, 279B.125 and OAR 125-247-0305 (3) (c) and 125-247-0550.
+Bidder shall submit the [
+buyer to identify what information to include e.g. form, copy of certificate, copy of report, etc.]
+ by 
+[
+Bid C
+losing
+ 
+date and time].
+ The information must be delivered to the SPC listed on the cover page, and may be delivered 
+[
+in person, 
+email, other method
+], and must reference the ITB, and identify Bidder’s name.
+Pre-Bid Conference
+Agency
+ 
+will/will not
+ hold a 
+mandatory/voluntary
+ pre-Bid conference. The purpose of the pre-Bid conference is to explain the ITB requirements and to answer questions. Statements made at the pre-Bid conference are not binding upon 
+Agency
+. Bidders are cautioned
+ that
+ ITB requirements will change only by written Amendment issued by 
+Agency
+ as provided in this ITB.
+The pre-Bid conference will be:
+DATE
+TIME (Pacific Time)
+LOCATION
+Questions and 
+Requests for Clarification
+All questions and requests for clarification, related to this solicitation must be in 
+Writing. The
+ preferred method of submission is through the Q & A tab located in OregonBuys
+®
+. If Bidder is unable to submit through the Q & A tab in OregonBuys
+®
+, Bidder may email the SPC
+. The submitted question or request must 
+reference the
+ OregonBuys
+®
+ ITB number, section number
+,
+ and passage
+. 
+Questions 
+or requests for clarification will not be accepted 
+by telephone. 
+Protest of ITB
+Pro
+spective Bidders may submit
+ a
+ 
+Written 
+pro
+test of
+ the
+ ITB
+, including the specifications and requirements, the terms and conditions of the sample 
+Contract/Price Agreement
+,
+ or the procurement process described in this ITB.
+Prospective Bidder must submit the protest to the SPC via email.
+ 
+The protest must:
+Include prospective Bidder’s name and contact information;
+Reference
+ the ITB 
+number;
+Identify the reason for the protest, including the grounds demonstrating how the procurement process is:
+Contrary to law, and/or
+Unnecessarily restrictive, and/or
+Legally flawed, and/or
+Improperly specifies a brand name; 
+Provide evidence and documentation supporting the grounds on which the protest is based;
+Identify any proposed changes to the ITB provisions or other relief sought.
+Agency
+ will address all protests meeting the requirements within a reasonable time and will issue a written decision. 
+Agency
+ will not consider protests that do no not meet these requirements.
+Amendments
+Agency
+ may change this ITB by written Amendment
+,
+ post
+ed
+ to OregonBuys
+®
+. Clarifications, corrections or changes to this ITB made in any other manner are not binding on the State.
+ Prospective Bidder is solely responsible for checking 
+OregonBuy
+®
+s
+ to determine whether or not any Amendment(s) have been issued.
+ 
+Amendment(s) are incorporated into the ITB by this reference.
+Protest 
+of
+ Amendments
+A
+ prospective Bidder may submit a protest of an Amendment by the date set forth in the Amendment, or if no date is set forth, then by the close of the next 
+Business Day 
+after the issuance of the Amendment, whichever is later. Unless otherwise specified in the Amendment, a protest to an Amendment must be submitted in the same manner as a protest of the ITB under Section 3.
+7
+ 
+above.
+Bid Submission
+The Bid must include all submission requirements, follow the ITB sequence, reference the ITB section numbers
+ and include:
+Bidder shall complete and submit the Bid 
+Cover Sheet
+ (
+Attachment B
+)
+.
+ 
+Attachment B
+ must be signed by Bidder’s 
+authorized representative
+.
+ 
+Bidder 
+shall
+ complete and submit the Reference Check Form (
+Attachment C
+). 
+Bidder 
+shall
+ 
+provide 
+XX
+ references from project
+(
+s
+) of similar size and scope
+ performed for any clients within the last 
+XX
+ years.
+ 
+Forms must be completed by a reference, returned to Bidder, and submitted with the Bid.
+ 
+References should include references from state or federal entities that currently utilize, or within the last five years have utilized, the proposed Solution. 
+Bidder 
+shall
+ 
+complete 
+and submit 
+the 
+B
+id 
+P
+ricing 
+F
+orm (
+Attachment D
+).
+Bidder shall complete and submit the Responsibility Inquiry (
+Attachment 
+E
+).
+ 
+A
+ttachment E must be signed by Bidder’s authorized representative.
+Bidder shall complete and submit a Certified Disadvantaged Business Outreach Plan (Attachment F).
+Option: 
+Buyer
+ 
+to
+ list any required licenses or certificates required of 
+B
+idder
+.
+Public Re
+c
+ords Exemption. 
+If Bidder believes any portion of its Bid is exempt from disclosure under the Oregon Public Records Law (ORS 192.311 to 192.478), Bidder 
+must
+ 
+submit a statement indicating the portions that are exempt and the statutory authority for the exemption, along with 
+both
+ an unredacted and a redacted version of its Bid.
+ 
+Please refer to section 6.
+8 
+for more 
+in-depth
+ information.
+Benefit Company. If Bidder is an Oregon benefit company, Bidder must submit
+: (1) the complete benefit report required under ORS 60.
+768, and (2) certify that the majority of the benefit company’s regular, full-time
+ workforce is located in Oregon.
+Bid Delivery
+ 
+Bidder is solely responsible for ensuring its Bid is received by the Bid Opening Date. 
+Agency
+ is not responsible for any delays in delivery. Prospective Bidders may deliver Bids to 
+A
+gency
+ 
+through 
+OregonBuys
+®
+ 
+at: 
+https://OregonBuys.gov
+ .
+Detailed instructions on how to submit a Bid can be found at: 
+https://www.oregon.gov/das/ORBuys/Documents/OregonBuys%20Vendor%20Formal%20Solicitation%20Response.pdf
+Technical 
+Difficulties:
+ Larger files may take additional time to upload to OregonBuys
+®
+. Bidders are responsible for allowing sufficient time to navigate the OregonBuys
+®
+ system, upload files, and finalize and submit 
+Bid
+s
+ 
+via OregonBuys
+®
+ prior to the Bid Opening Date.
+If technical difficulties that are no
+ 
+fault of Bidder prevent submission of a Bid via OregonBuys
+®
+, Bidder m
+ust
+ 
+immediately 
+notify the SPC in writing, via email, to describe the difficulties encountered and to seek SPC approval of an alternative submission method.
+As circumstances warrant, SPC may, at the SPC’s sole discretion, allow for an alternative Bid submission method.
+ 
+ 
+Bid Modification or Withdrawal
+A Bidder wishing to make modifications to a Bid already received by 
+Agency
+ must withdraw its Bid in order to make modifications and resubmit the Bid. If a Bidder wishes to w
+ithdraw
+ its Bid, Bidder must submit 
+to 
+the SPC a written notice withdrawing the Bid. The notice must identify the ITB number, be signed by the authorized representative and be received by the SPC prior to the Bid Opening Date.
+ For assistance with 
+making modifications or withdrawing a Bid submitted through OregonBuys
+®
+, please contact
+ the OregonBuys
+®
+ Supplier Helpdes
+k
+ at 
+support.oregonbuys@das.oregon.gov or 1-855-800-5046
+.
+Late Bids
+Agency
+ will not accept late Bids. Bids submitted on or before the Bid Opening Date will be accepted.
+Opening and Bid Review
+Bids will be publicly opened, and the names of all Bidders will be read by 
+Agency
+ at [
+enter location where public opening will occur
+].
+OR
+Agency
+ will hold the public Bid Opening through electronic means.
+ 
+Interested parties may attend the public Bid Opening for this solicitation electronically as follows (It is attendee’s choice to use video or audio only.): 
+A Microsoft Teams meeting will be held at [Insert Time] A/PM for the Bid Opening following the specific time included in the Bid Opening Date. Be sure to have MS Teams access available on your computer or mobile phone and follow the following link [Insert Link], or via telephone at (number), using PIN (enter pin).
+OR
+A public Opening of Bids will not be held for this ITB. A list of all Bidders will be posted on OregonBuys
+®
+ within 5 
+business 
+days of Bid Opening Date.
+Bids will be reviewed as set forth in Section 4.
+Firm Offer
+A Bid is a firm offer for 
+60
+ 
+calendar days following the Opening.
+ 
+A
+dditional
+ R
+ounds
+If 
+Agency
+ believes additional rounds of review are necessary, 
+Agency
+ will post an Amendment on OregonBuys
+®
+ defining the additional round(s).
+BID REVIEW
+Responsiveness 
+Determin
+ation
+Agency
+ will review all Bids received prior to 
+the Bid 
+Opening 
+Date 
+to determine if a Bid is Responsive to all ITB requirements. If the Bid is unclear, the SPC may request clarification from Bidder. However, clarifications may not be used to rehabilitate a non-Responsive Bid. 
+Agency
+ may waive mistakes in accordance with OAR 125-247-0470. If the SPC finds the Bid non-Responsive, the Bid may be rejected.
+Responsibility 
+Determination
+Agency
+ will review the Responsibility Inquiry (Attachment 
+E
+), 
+Bid 
+Pricing 
+Form
+ (Attachment 
+D)
+, 
+references and other information to determine if an apparent 
+S
+uccessful Bidder is Responsible prior to award and execution of the 
+Contract/Price Agreement
+ per agreement ORS 279B
+.
+110 or ORS
+ 
+279C.375
+. 
+At any time prior to award, 
+Agency
+ may reject a Bidder found to be not Responsible.
+References
+Agency will review
+ the Reference Check Form (
+Attachment C
+)
+ submitted by Bidder. 
+Agency
+ may check to determine if references provided support Bidder’s ability to comply with the requirements of this ITB. 
+Agency
+ may conduct other reference checks with persons whose names have not been provided by Bidder, but for whom 
+Agency
+ has knowledge. 
+Agency
+ may use references to obtain additional information, break ties, or verify any information needed.
+Preferences
+Agency
+ will apply the following preferences to the Bid
+ Cost
+:
+Oregon S
+upplies and Services. 
+The State prefers that contract awards are for Oregon goods and services
+. 
+F
+or
+ bid calculation purposes, per ORS 279A.128, 
+Agency 
+shall subtract XX% from the 
+price 
+for any Bidder proposing all Goods fabricated or processed or all Services performed entirely in Oregon before 
+the comparison
+.
+Benefit Companies. 
+The State prefers goods and services provided by an Oregon public benefit company
+. F
+or evaluation purposes, per ORS 279A.128, 
+Agency
+ shall subtract 
+XX%
+ from the price for any Bidder/Proposer that submits a certificate of existence issued under ORS 60.027.
+Reciprocal Preference. 
+Pursuant to OAR 125-246-0310, 
+Agency
+ shall add a percent increase to each out-of-state Bidder’s Bid 
+price
+ 
+that is equal to the percent preference, if any, given to a Resident Bidder in Bidder's state.
+Recycled Materials. 
+In comparing Goods from two or more Bidders, if at least one Bidder offers Goods manufactured with Recycled Materials, and at least one Bidder does not, 
+Agency
+ will select the Bidder offering Goods manufactured from Recycled Materials if each of the conditions specified in ORS 279A.125 (2) exists following any adjustments made to the 
+cost
+ of the Goods according to any applicable reciprocal preference.
+Public Printing. 
+Agency
+ shall, for the purpose of evaluating Bids, apply the public printing preference set forth in ORS 282.210.
+Tiebreakers. 
+If 
+Agency
+ receives Bids identical in 
+cost
+, fitness, availability and quality and chooses to award a 
+Contract/Price Agreement
+, 
+Agency
+ shall award the 
+Contract/Price Agreement
+ by drawing lots as outlined in OAR 125-246-0300.
+Price
+ 
+Comparison (including application of preferences) and Ranking
+After applying all preferences, 
+Agency
+ will compare the 
+Bid Pricing Forms
+ from all Bidders and rank them from lowest to highest. 
+Agency
+ 
+intends to award the 
+Contract/Price Agreement
+ to the lowest Responsive and Responsible Bidder whose 
+Bid 
+substantially complies with the requirements and criteria set forth in this ITB and
+ that
+ provides the most favorable pricing
+ 
+(
+a
+pparent 
+s
+uccessful Bidder)
+. If th
+is
+ ITB authorizes the award of multiple 
+Contracts/Price Agreements
+, 
+Agency
+ 
+will 
+award the 
+Contract/Price Agreement
+ to the Responsive and Responsible Bidders whose Bids substantially comply with the requirements and criteria set forth in th
+is
+ ITB.
+AWARD
+Notice of Intent to Award
+Agency
+ will issue a notice of Intent to Award 
+to the
+ a
+pparent 
+successful 
+Bidder 
+on OregonBuys
+®
+. Bid files are available for review after issuance of the Notice of Intent to Award.
+Protest of Notice of Intent to Award
+Written Protest.
+ 
+An 
+Affected Person
+ has 
+seven
+ calendar days from the date of 
+issuance
+ 
+of the Notice of Intent to Award to file a Written protest.
+A Bidder is an 
+Affected 
+Person
+,
+ only
+ if Bidder would be eligible for award in the event the protest was successful and is protesting for one or more of the following reasons as specified in ORS 279B.410:
+All lower Bids are non-Responsive.
+Agency
+ failed to conduct an evaluation of Bids in accordance with the criteria or process described in the ITB.
+Agency
+ abused its discretion in rejecting the protestor’s Bid as non-Responsive.
+Agency’s
+ evaluation of Bid
+(s)
+ or determination of award otherwise violates ORS Chapter 279A or ORS Chapter 279B.
+The 
+Affected 
+Person must
+ submit the protest to the SPC via email or regular mail.
+ 
+The protest must:
+Include 
+protestor’s 
+name and contact information;
+Reference
+ the ITB 
+number;
+Identify the reason for the protest, including the grounds for the 
+p
+rotest; and
+Provide evidence and documentation supporting the grounds on which the 
+p
+rotest is based.
+Agency
+ will address all timely submitted protests 
+meeting requirements 
+within a reasonable time and will issue a Written decision. Protests that do not include the required information may not be considered by 
+Agency
+.
+Method of Award
+Agency
+ 
+will 
+award a contract to the Responsive and Responsible Bidder submitting the Bid with the lowest price (Apparent Successful Bidder).
+Contract/Price Agreement
+ Execution
+Agency
+ 
+intends to 
+enter into a 
+Contract/Price Agreement
+ based upon the form attached hereto (Attachment A) with the 
+apparent successful 
+Bidder.
+ 
+Prior to execution of the 
+Contract/Price Agreement,
+ the 
+a
+pparent 
+s
+uccessful Bidder must submit the following to 
+Agency
+:
+ 
+Pay Equity Certification. 
+If the value of the 
+Contract/Price Agreement
+ exceeds $500,000 and Bidder has 50 or more employees, the 
+a
+pparent 
+successful 
+Bidder shall submit to 
+Agency
+ a true and correct copy of an unexpired Pay Equity Compliance Certificate issued to Bidder by the Oregon Department of Administrative Services. See 
+https://www.oregon.gov/das/Procurement/Pages/PayEquity.aspx
+Non-Discrimination.
+ 
+As a condition of receiving the award of a 
+Contract/Price Agreement
+ under this ITB, the 
+apparent successful 
+Bidder must certify it has in place a policy and practice of preventing sexual harassment, sexual assault, and discrimination against employees who are members of a protected class. The policy and practice must include giving employees a written notice of a policy that both prohibits, and prescribes disciplinary measures for, conduct constituting sexual harassment, sexual assault, or unlawful discrimination.
+Insurance.
+ 
+The 
+apparent s
+uccessful Bidder shall obtain and provide 
+Agency
+ proof of insurance as required in this ITB. Insurance Requirements are found in 
+Exhibit B of
+ Attachment A.
+Other Requirements.
+Selection of a Contractor in 
+Multiple Award
+In the event 
+Agency
+ issues multiple awards, 
+Agency
+ w
+ill use 
+one of 
+the following 
+methodologies
+ to determine from which Contractor to purchase:
+Issue all purchases to the lowest responsible Bidder.
+OR
+Determine a list of the most commonly purchased items, compare 
+price
+ 
+between all awarded Contractors. Issue all purchases to the Contractor with the lowest Offer. A new comparison will be conducted at least once per year.
+OR
+Compare each item between all awarded 
+Contractors, 
+and
+ 
+issue
+ the
+ Purchase Order to the Contractor with the lowest Offer.
+ 
+ 
+OR
+Best Value Analysis (BVA) as determined by the State.
+Additional Information
+Applicable Statutes and Rules
+This ITB is governed by the laws of the State of Oregon, 
+specifically 
+including ORS 279B.055 and OAR 125-
+247
+-0255. 
+The v
+enue for any administrative or judicial action relating to this ITB, evaluation and award is the Circuit Court of Marion County for the State of Oregon; provided, however, if a proceeding must be brought in a federal forum, then it must be brought and conducted solely and exclusively within the United States District Court for the District of Oregon.
+ 
+In no event 
+may 
+this 
+s
+ection be construed as a waiver by the State of Oregon of any form of defense or immunity, whether sovereign immunity, governmental immunity, immunity based on the eleventh amendment to the Constitution of the United States or otherwise, to or from any claim or consent to the jurisdiction of any court.
+Statement of Values
+The State of Oregon is committed to taking active steps toward equity and inclusion 
+in
+ procurement processes for minority, women, emerging small, and veteran
+-
+owned businesses by reducing barriers to compete for and be awarded state contracts. All interested businesses are encouraged to submit 
+Bids
+ for this opportunity.
+ 
+The State of Oregon promotes equal opportunity for all individuals without regard to age, color, disability, marital status, national origin, race, religion or creed, sex or gender, sexual orientation, or veteran status.
+Government Bodies
+Under ORS Chapter 190, 
+Agency
+ may enter into an agreement with another government body for the Goods or Services that are the subject of this ITB. Intergovernmental agreements are not subject to the Public Contracting Code. If 
+Agency
+ receives an Offer from 
+a government body, 
+Agency
+ will initially review the Offer according to the same criteria set forth in this ITB. 
+Agency
+, in its sole discretion, may enter into an ORS Chapter 190 agreement with any government body for the Goods or Services, or any portion thereof and cancel this ITB if it would be in the public interest as determined by 
+Agency
+.
+Electronic
+ Signatures.
+ 
+By submitting a bid in response to this ITB, Bidder agrees with 
+AGENCY
+ that signatures, and other forms of authorized representative certification, showing on documents submitted via OregonBuys
+®
+ or email are “Electronic Signatures” under ORS Chapter 84 and, bind the signing party, and are intended to be and can be relied upon by the parties.
+Cancellation and/or Rejection of Bids; Damages
+Pursuant to ORS 279B.100, 
+Agency
+ may reject any or all Bids in whole or in part and may cancel this ITB at any time when the rejection or cancellation is in the best interest of the State. 
+Agency
+, the State, and their officers, employees and agents are not liable to any Bidder for any loss or expense caused by or resulting from the delay, suspension, or cancellation of this ITB, or rejection of any or all Bids. Unless 
+Agency
+ cancels this ITB prior to the 
+Bid 
+Opening
+ Date
+ identified in Section 1.
+2
+, all Bids will become part of the public record without obligation to 
+Agency
+.
+Cost of Submitting a Bid
+Bidder must pay all costs of bidding including, but not limited to, the cost to prepare and submit Bids, samples and other supporting materials, or to participate in demonstrations, if required by this ITB.
+Ownership/Permission to Use Materials
+Bids submitted in response to this ITB 
+become
+ the property of the State. The submission of a Bid in response to this ITB grants the State a non-exclusive, perpetual, irrevocable, royalty-free license for the rights to copy, distribute, display, prepare derivative works of and transmit the Bid solely for the purpose of evaluating the Bid, awarding a 
+Contract/Price Agreement
+, or as otherwise needed to administer the ITB process, and to fulfill obligations under Oregon Public Records Laws. Bids, including supporting materials, will not be returned to Bidder.
+Confidential or Proprietary Information; Public Records
+Following the Notice of Intent to Award of 
+a 
+Contract/Price Agreement
+, responses to this ITB are subject to public records requests unless the response or specific information contained therein is identified as exempt from public disclosure. Bidder is advised to consult with legal counsel regarding disclosure issues.
+ 
+If Bidder believes any portion of its Bid contains information considered a trade secret under 
+ORS Chapter 192.345(2)
+, or otherwise is exempt from disclosure under the 
+Oregon Public Records Law, ORS 192.311 through 192.478
+,
+ Bidder must submit a statement claiming the exemption and the statutory reason for the exemption and
+ each page containing such information must identify the exemption provision and include the following:
+“This data is exempt from disclosure under the Oregon Public Records Law pursuant to ORS Chapter 192 and is not to be disclosed except in accordance with the Oregon Public Records Law, ORS 192.311 through 192.478.”
+Identifying the Bid in whole as exempt from disclosure is not acceptable. Cost information submitted in response to an ITB is generally not considered a trade secret under Oregon Public Records Law. 
+Recycled Products
+Contractors shall use recyclable products to the maximum extent economically feasible in the performance of the contract services or work set forth in this document and the subsequent 
+Contract/Price Agreement
+. (ORS 279B.055(2)(f), ORS279B.225, and ORS279B.270-279B.280)
+Checklist Disclaimer
+Any checklists contained in this ITB are provided only as a courtesy. 
+Agency
+ makes no representation as to the completeness or accuracy of any checklist. Prospective Bidders are solely responsible for reviewing and understanding this ITB and complying with all requirements.
+COBID
+Pursuant to Oregon Revised Statute (ORS) Chapter 200, 
+Agency
+ encourages the participation of small businesses, certified by the Oregon Certification Office for Business Inclusion and Diversity (COBID) in all contracting opportunities.
+ 
+This includes certified small businesses in the following categories: minority-owned business, woman-owned business, 
+veteran
+-owned
+ business, or an emerging small business. 
+Agency
+ also encourages joint ventures or subcontracting with certified small business enterprises.
+ 
+For more information, visit: 
+https://www.oregon.gov/biz/programs/cobid/pages/default.aspx
+ 
+A
+TTACHMENT
+ A
+Sample 
+Contract 
+/
+Price Agreement
+ATTACHMENT B
+Bid 
+C
+over Sheet
+Bidder Name (printed):
+Address:
+City, State, Zip:
+Bid Clarification Contact Person:
+ 
+Telephone:
+Email:
+State of Incorporation:
+Entity Type:
+Oregon Secretary of State Business Registry Number (if required):
+T
+he undersigned
+,
+ 
+as
+ 
+Bidder’s
+ authorized representative
+,
+ 
+certifies
+ that:
+Bidder understands and accepts the requirements of this ITB. 
+Bidder acknowledges receipt of any and all Amendment
+s
+ to this ITB.
+By submitting a Bid, Bidder agrees to be bound by the
+ 
+Contract/
+Price Agreement
+ terms and conditions in Attachment A, as modified by Amendment, if any.
+The costs set forth 
+in Attachment 
+D
+ are
+ firm for 
+60
+ 
+Calendar Days after the Opening
+.
+Bidder has no undisclosed liquidated and delinquent debt owed to the State or any agency
+, board, commission, department of division
+ of the State.
+Bidder 
+complies with and 
+is not in violation of any tax laws of the state or a political subdivision of the state, including, without limitation
+ taxes referenced in
+ ORS 305.380(4), ORS 305.620 and ORS chapters 316, 317 and 318.
+Bidder does not discriminate in its employment practices with regard to race, creed, age, religious affiliation, gender, disability, sexual orientation, national origin. When awarding subcontracts, Bidder does not discriminate against any business certified under ORS 200.055 as a disadvantaged business enterprise, a minority-owned business, a woman-owned business, a veteran owned business, or an emerging small business. If applicable, Bidder has, or will have prior to 
+Contract/
+Price Agreement
+ execution, a written policy and practice, that meets the requirements described in ORS 279A.112, of preventing sexual harassment, sexual assault and discrimination against employees who are members of a protected class. 
+Agency
+ may not enter into a 
+Contract/
+Price Agreement
+ with an anticipated price of $150,000 or more with a Bidder that does not certify it has such a policy and practice. See 
+https://www.oregon.gov/DAS/Procurement/Pages/hb3060.aspx
+ for additional information and sample policy template.
+Bidder and Bidder’s employees, agents, and subcontractors are not included 
+on
+: 
+the “Specially Designated Nationals and Blocked Persons” list maintained by the Office of 
+Foreign Assets Control of the United States Department of the Treasury found at: 
+https://www.treasury.gov/ofac/downloads/sdnlist.pdf
+, or
+the government wide exclusions 
+list
+ in the System for Award Management found at: 
+https://www.sam.gov/
+ 
+ 
+Bidder certifies to the best of its knowledge, there exists no actual or potential conflict between the business or economic interests of Bidder, its employees, or its agents, on the one hand, and the business or economic interests of the State, on the other hand, arising out of, or relating in any way to, the subject matter of the ITB. If any changes occur with respect to Bidder’s status regarding conflict of interest, Bidder shall promptly notify the State in writing.
+Bidder
+ certifies a
+ll contents of the Bid (including any other forms or documentation, if required under this ITB), and this Bid 
+Cover Sheet
+ are truthful and accurate and have been prepared independently from all other Bidders, and without collusion, fraud, or other dishonesty. 
+Bidder understands any statement or representation made in response to this ITB, if determined to be false or fraudulent, a misrepresentation, or inaccurate because of the omission of material information could result in a "claim" 
+(
+as defined by the Oregon False Claims Act, ORS 180.750(1)}, made under Price Agreement being a "false claim" 
+(
+ORS 180.750(2)
+)
+ subject to the Oregon False Claims Act, ORS 180.750 to 180.785, and to any liabilities or penalties associated with the making of a false claim under that 
+a
+ct.
+Bidder acknowledges these certifications are in addition to any certifications required 
+in
+ the 
+Contract/
+Price Agreement
+ at the time of execution.
+If Bidder is 
+an Oregon benefit company, 
+Bidder certifies that
+ the majority of the 
+benefit company’s regular, full-time workforce is located in Oregon.
+BIDDER, Authorized Representative 
+Signature:
+ 
+_______________________________________________________________________
+Print Name and Title: _______________________________________________________________
+Date:
+ 
+____________
+Email: ________________________
+Telephone Number: (______) _________
+A
+TTACHMENT
+ C
+Reference Check Form
+REFERENCES COMPARABLE IN SIZE AND SCOPE
+: 
+Bidder shall include 
+references from 
+XX
+ different firms 
+who
+ Bidder provided similar 
+goods and/or 
+services to within the last 
+XX
+ years. 
+Goods and/or 
+Services must be comparable in size and scope of the 
+goods and/or 
+services detailed in this Project. Bidder must describe how the 
+goods and/or services provided 
+qualifies Bidder to 
+provide the goods and/or services 
+described in this solicitation. References must be available to confirm the quality of 
+goods and/or 
+services 
+th
+at 
+Bidder provided. 
+Reference #1
+Name of Firm:
+Reference Contact Person:
+Telephone:
+Email:
+Alternate Reference Contact Person:
+Telephone:
+Email:
+Description of 
+goods and/or 
+service
+s
+ provided, include type, size, duration
+ and
+ objectives:
+Describe how the 
+goods and/or 
+services provided qualifies Bidder to 
+provide the goods and/or 
+perform the services described in this solicitation:
+Describe the volume of work:
+Reference #2
+Name of Firm:
+Reference Contact Person:
+Telephone:
+Email:
+Alternate Reference Contact Person:
+Telephone:
+Email:
+Description of 
+goods and/or 
+service
+s
+ provided, include type, size, duration 
+and
+ objectives:
+Describe how the 
+goods and/or 
+services provided qualifies Bidder to 
+provide the goods and/or 
+perform the services described in this solicitation:
+Describe the volume of work:
+Reference #3
+Name of Firm:
+Reference Contact Person:
+Telephone:
+Email:
+Alternate Reference Contact Person:
+Telephone:
+Email:
+Description of 
+goods and/or 
+service
+s
+ provided, include type, size, duration 
+and
+ objectives:
+Describe how the 
+goods and/or 
+services provided qualifies Bidder to 
+provide the goods and/or 
+perform the services described in this solicitation:
+Describe the volume of work:
+A
+TTACHMENT
+ D
+Bid Pricing Form
+A
+TTACHMENT E
+Responsibility Inquiry
+Bidder must complete and return this Responsibility Inquiry with its Bid. 
+Agency
+ will determine responsibility of a Bidder prior to award and execution of a 
+Contract/
+Price Agreement
+. In addition to this form, 
+Agency
+ may notify Bidder of other documentation required, which may include but is not limited to recent profit-and-loss history, current balance statements and cash flow information, assets-to-liabilities ratio, including number and amount of secured versus unsecured creditor claims, availability of short and long-term financing, bonding capacity, insurability, credit information, materials and equipment, facility capabilities, personnel information, record of performance under previous contracts, etc.
+ 
+Failure to promptly provide requested information or clearly demonstrate responsibility may result in a
+n
+ 
+Agency
+ finding of non-responsibility and rejection.
+Does Bidder have available the appropriate financial, material, equipment, facility and personnel resources and expertise, or ability to obtain the resources and expertise, necessary to demonstrate the capability of Bidder to meet all contractual responsibilities?
+ 
+ 
+YES 
+ / NO 
+.
+Within the last five years, how many contracts of a similar nature has Bidder completed that, to the extent that the costs associated with and time available to perform the contract remained within Bidder′s control, Bidder stayed within the time and budget allotted, and there were no contract claims by any party? 
+Number: ____
+How many contracts did not meet those standards?
+ 
+Number: ____
+  
+ If any, please explain.
+Response: 
+ 
+ 
+ 
+ 
+ 
+Within the last three 
+years has
+ Bidder (incl. a partner or shareholder owning 10% or more of Bidder’s firm) or a major subcontractor (receiving 10% or more of a total contract amount) been criminally or civilly charged, 
+indicted,
+ or convicted in connection with: 
+O
+btaining, attempting to obtain, or performing a public (
+f
+ederal, state, or local) contract or subcontract,
+V
+iolation of federal or state antitrust statutes relating to the submission of bids, or
+E
+mbezzlement, theft, forgery, bribery, falsification, or destruction of records, making false statements, tax evasion, or receiving stolen property?
+  
+ 
+YES 
+ / NO 
+.
+  
+If "YES," indicate the jurisdiction, date of indictment, charge or judgment, and names and summary of charges in the response field below. 
+Response: 
+ 
+ 
+ 
+ 
+ 
+Within the last three years, 
+has Bidder
+ had:
+A
+ny contracts terminated for default by any government 
+agency
+, or 
+A
+ny lawsuits filed against it by creditors or involving contract disputes?
+ 
+ 
+ 
+YES 
+ / NO 
+.
+  
+If "YES," please explain.
+ 
+(With regard to judgments, include jurisdiction and date of final judgment or dismissal.)
+Response: 
+ 
+ 
+ 
+ 
+ 
+Does Bidder have any outstanding or pending judgments against it?
+ 
+YES 
+ / NO 
+.
+  
+ 
+Is Bidder experiencing financial distress or having difficulty securing financing? 
+YES 
+ / NO 
+.
+Does Bidder have sufficient cash flow to fund day-to-day operations throughout the proposed 
+Contract/
+Price Agreement
+ period?
+ 
+YES 
+ / NO 
+  
+If "YES” on the first question or second question
+ of the three questions immediately above
+, or “NO” on the third question, please provide additional details.
+ 
+Response: 
+ 
+ 
+ 
+ 
+ 
+Within the last three years, has Bidder filed a bankruptcy action, filed for reorganization, made a general assignment of assets for the benefit of creditors, or had an action for insolvency instituted against it?
+ 
+ 
+YES
+ 
+ 
+/ NO
+ 
+.
+ 
+If "YES," 
+indicate
+ the filing dates, jurisdictions, type of action, ultimate resolution, and dates of judgment or dismissal, if applicable.
+Response: 
+ 
+ 
+ 
+ 
+ 
+Does Bidder have all required licenses, insurance and/or registrations, if any, and is Bidder legally authorized to do business in the State of Oregon?
+ 
+YES
+ 
+ 
+/NO 
+.
+  
+ 
+If "NO," please explain.
+Response: 
+ 
+ 
+ 
+ 
+ 
+Pay Equity Certificate. Does a current authorized representative of Bidder possess an unexpired Pay Equity Certificate issued by the Department of Administrative Services?
+ 
+YES 
+ /
+ 
+NO 
+ /
+ 
+N/A 
+.
+ 
+ 
+ 
+If applicable, submit a copy of the certificate with this form.
+Response: 
+ 
+ 
+ 
+ 
+ 
+AUTHORIZED SIGNATURE
+:
+ 
+By signature below, the undersigned Authorized Representative on behalf of Bidder certifies to the best of 
+their
+ knowledge and 
+belief that 
+the responses provided on this form are complete, accurate, and not misleading.
+Bidder Name:
+ 
+ 
+ 
+ 
+ 
+ITB:
+ 
+ 
+ 
+ 
+ 
+ 
+Project Name: 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+___________________________________________
+Date:
+ 
+_________________________
+Authorized Representative 
+A
+TTACHMENT
+ 
+F
+Certified Disadvantage
+d
+ Business Outreach Plan
+Bidder Name:
+Date:
+Contact Name:
+Telephone:
+Email:
+“Certified Firm” means a small business certified under ORS 200.055 by the Oregon Certification Office for Business Inclusion and Diversity (COBID) as
+ 
+minority-owned businesses, woman-owned businesses, 
+veteran
+-
+own
+ed businesses
+, and emerging small businesses
+.
+Certified Firms must have an equal opportunity to participate in the performance of contracts financed with state funds.
+ 
+By submitting its offer, Bidder certifies that it has taken, and if there are further opportunities, will take reasonable steps to ensure that Certified Firms are 
+provided
+ an equal opportunity to compete for and participate in the performance of any subcontracts resulting from this procurement.
+ 
+The information submitted in response to this clause will not be considered in any evaluation. 
+Is Bidder an Oregon Certified Firm?
+ Yes 
+No 
+
+If yes, indicate all certification type(s): DBE 
+ MBE 
+WBE 
+ 
+SDV 
+ESB 
+and supply
+Oregon State Certification Number: __________________________
+ 
+Include a list of Certified Firms that Bidder has had a contractual relationship with within the last two years.
+Include a list of firms that Bidder has had a contractual relationship with within the last two years that are not Certified Firms but may be minority-owned, woman-owned, service-disabled veteran-owned or emerging small businesses.
+Does Bidder foresee any subcontracting opportunities for this procurement?
+ Yes 
+ No 
+If 
+no
+, do not complete the rest of this form and submit this first page with your Bid. 
+If yes, please complete the following pages and submit all pages with your Bid.
+Certified Disadvantaged Business Outreach Plan
+ (c
+ont
+.)
+Describe the steps Bidder will take to solicit Certified Firms for subcontracting opportunities if awarded a 
+Contract/Price Agreement
+ from this procurement.
+Describe the subcontracting opportunities and the approximate dollar value of each that may be available, if awarded a 
+Contract/Price Agreement
+.
+Would Bidder be willing to report the identity of each subcontractor and the value of each subcontract to COBID if awarded a 
+Contract/Price Agreement
+ from this procurement?
+A
+TTACHMENT
+ 
+G
+Defined Terms
+For ease of reference, a crosswalk of terms used in OregonBuys
+®
+ to terms defined in Oregon 
+Administrative Rules is included in this attachment.
+“Addendum” or “Addenda” (referred to as “Amendment” in OregonBuys
+®
+) means an addition or deletion to, a material change in, or clarification of, the ITB. Each Addendum 
+will 
+be labeled as such and 
+must be 
+made available to all interested Bidders in accordance with OAR 125-247-0305(8). The plural form of “Addendum” is “Addenda.”
+“Amendment”
+“Addendum” or “Addenda” as defined in OAR 125-246-0110(1), or any form of notice associated with the solicitation, such as intent to award, cancellation, etc., as set forth in the Amendment.
+"Bid" (referred to as “Quote” in OregonBuys
+®
+) means Bidder's written Bid submitted in response to the ITB, including all necessary attachments and information required to be submitted prior to award. Bid also means "Offer".
+"Bidder" means an individual (person), organization or representative of an organization that submits a Bid in response to an ITB.
+ 
+Bidder also mean
+s
+ “Offeror”.
+“Bid Solicitation” Any form of solicitation:
+ 
+Request for Proposal, Invitation to Bid, Request for Quote, Request for Information, etc., including notices (sole source notice, intent to participate, etc.).
+ 
+Each Bid Solicitation has a separate page and ID number in OregonBuys
+®
+.
+“Change Order” A formal change to an existing MBPO (i.e., any form of contract, agreement, price agreement or on-call contract, etc., purchase order or work order contract).
+"Closing" (referred to as “Bid Opening Date” in OregonBuys
+®
+) means the date and time set in the ITB for Bid submission, after which Bids may not be submitted, modified, or withdrawn by Bidder.
+“Master Blanket Purchase Order” (“MBPO”) Any form of contract, agreement, price agreement or on-call contract, etc., purchase order, or work order contract.
+"Opening" means the date/time set to read the Bid submittals.
+"OregonBuys
+®
+ System" or “OregonBuys
+®
+” means the on-line electronic Oregon automated procurement system administered by the Oregon Department of Administrative Services. The OregonBuys
+®
+ System website is: 
+https://oregonbuys.gov/bso/
+.
+“Quote
+” 
+Any form of Bid submission by Vendors, i.e., Bids, Quotes, or any other type of Bid 
+required by a Bid Solicitation.
+“Schedule of Events” means the specific time and dates events relating to this ITB will occur. 
+“Successful Bidder” means the person(s), organization(s) to which the award is made.
+“Vendor” Any form of business entity registered in OregonBuys
+®
+.
+ 
+CROSSWALK OF TERMS USED IN OREGONBUYS
+®
+ 
+Please see this link:
+ 
+https://www.oregon.gov/das/ORBuys/Documents/OregonBuys-glossary.pdf
+ 
+ITB [###-####-##]
+ – 
+[ITB title]
+DAS 
+State 
+Procurement Services, Version 2.0 
+–
+ 
+July
+, 
+202
+5
+2
+DAS 
+State 
+Procurement Services, Version 2.0 
+–
+ 
+July
+, 202
+5
+2

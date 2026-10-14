@@ -1,0 +1,3238 @@
+Page 1 of 61 
+ 
+ 
+PART I - GENERAL INFORMATION 
+1. PURPOSE. 
+ 
+The Commonwealth of Pennsylvania (Commonwealth) is issuing this Invitation for Bids 
+(IFB) to meet the needs of the Department of General Services to satisfy a need for 
+Digital Service Work. 
+ 
+ 
+2. TYPE OF CONTRACT. 
+ 
+Upon determination that the Contractor meets the ITQ requirements, the Commonwealth 
+will issue a contract to the Contractor and it will contain the Contract Terms and 
+Conditions as shown in Part V of this IFB. Upon receipt of a Purchase Order (PO) issued 
+under this Contract, the Contractor agrees to furnish the requested services to the 
+Commonwealth agency issuing the PO. 
+ 
+ 
+3. NO PRE-BID CONFERENCE. 
+ 
+There will be no pre-bid conference for this IFB. If there are any questions, please 
+forward them to the Issuing Office prior to the bid opening date and time. 
+ 
+ 
+4. QUESTIONS. 
+ 
+All questions regarding the IFB must be submitted in writing to the email address of the 
+Issuing Officer provided in the solicitation. All questions received will be answered, in 
+writing, and such responses shall be posted to eMarketplace as an addendum to the IFB. 
+The Issuing Officer shall not be bound by any verbal information nor shall it be bound by 
+any written information that is not either contained within the IFB or formally issued as 
+an addendum by the Issuing Office. The Issuing Office does not consider questions to be 
+a protest of the specifications or of the solicitation. 
+ 
+ 
+5. ADDENDA TO THE IFB. 
+If the Issuing Office deems it necessary to revise any part of this IFB, the Issuing Office 
+will post an addendum to its website at 
+HTTPS://WWW.PA.GOV/AGENCIES/DGS.HTML it is the Bidder's responsibility to 
+periodically check the website for any new information or addenda to the IFB. 
+ 
+ 
+6. BID PROTEST PROCEDURE. 
+Page 2 of 61 
+ 
+ 
+ 
+The Bid Protest Procedure is on the DGS website at: 
+https://www.pa.gov/content/dam/copapwp- 
+pagov/en/dgs/documents/documents/procurement- 
+forms/handbook/pt1/pt%20i%20ch%2058%20bid%20protests.pdf 
+ 
+ 
+7. REJECTION OF BIDS. 
+ 
+The Issuing Office reserves the right to reject any and all Bids, to waive technical defects 
+or any informality in Bids, and to accept or reject any part of any Bid if the best interests 
+of the Commonwealth are thereby served. 
+ 
+ 
+8. REPRESENTATIONS AND AUTHORIZATIONS. 
+ 
+By submitting its bid, each bidder understands, represents, and acknowledges that: 
+a. All of the Bidder’s information and representations in the bid are material and 
+important, and the Issuing Office may rely upon the contents of the bid in awarding 
+the contract(s). The Commonwealth shall treat any misstatement, omission or 
+misrepresentation as fraudulent concealment of the true facts relating to the 
+submission, punishable pursuant to 18 Pa. C.S. § 4904. 
+ 
+b. The Bidder has arrived at the price(s) and amounts in its bid independently and 
+without consultation, communication, or agreement with any other bidder or 
+potential bidder. 
+ 
+c. The Bidder has not disclosed the price(s), the amount of the bid, nor the 
+approximate price(s) or amount(s) of its bid to any other firm or person who is an 
+Bidder or potential bidder for this IFB. 
+ 
+d. The Bidder has not attempted, nor will it attempt, to induce any firm or person to 
+refrain from submitting a bid on this contract, or to submit a bid higher than this 
+bid, or to submit any intentionally high or noncompetitive bid or other form of 
+complementary bid. 
+ 
+e. The Bidder makes its proposal in good faith and not pursuant to any agreement or 
+discussion with, or inducement from, any firm or person to submit a complementary 
+or other noncompetitive bid. 
+Page 3 of 61 
+ 
+ 
+f. To the best knowledge of the person signing the bid for the Bidder, the Bidder, its 
+affiliates, subsidiaries, officers, directors, and employees are not currently under 
+investigation by any governmental agency and have not in the last four years been 
+convicted or found liable for any act prohibited by State or Federal law in any 
+jurisdiction, involving conspiracy or collusion with respect to bidding or proposing 
+on any public contract, except as the Bidder has disclosed in its bid. 
+ 
+g. To the best of the knowledge of the person signing the bid for the Bidder and except 
+as the Bidder has otherwise disclosed in its bid, the Bidder has no outstanding, 
+delinquent obligations to the Commonwealth including, but not limited to, any state 
+tax liability not being contested on appeal or other obligation of the Bidder that is 
+owed to the Commonwealth. 
+ 
+h. The Bidder is not currently under suspension or debarment by the Commonwealth, 
+any other state or the federal government, and if the Bidder cannot so certify, then 
+it shall submit along with its proposal a written explanation of why it cannot make 
+such certification. 
+ 
+i. The Bidder has not made, under separate contract with the Issuing Office, any 
+recommendations to the Issuing Office concerning the need for the services 
+described in its bid or the specifications for the services described in the bid. 
+ 
+j. Each Bidder, by submitting its proposal, authorizes Commonwealth agencies to 
+release to the Commonwealth information concerning the Bidder’s Pennsylvania 
+taxes, unemployment compensation and workers’ compensation liabilities. 
+ 
+k. Until the selected Bidder receives a fully executed and approved written contract 
+from the Issuing Office, there is no legal and valid contract, in law or in equity, and 
+the Bidder shall not begin to perform. 
+ 
+l. The Bidder is not currently engaged, and will not during the duration of the contract 
+engage, in a boycott of a person or an entity based in or doing business with a 
+jurisdiction which the Commonwealth is not prohibited by Congressional statute 
+from engaging in trade or commerce. 
+ 
+PART II – REQUIREMENTS 
+1. LOBBYING CERTIFICATION AND DISCLOSURE. 
+ 
+With respect to an award of a federal contract, grant, or cooperative agreement exceeding 
+$100,000 or an award of a federal loan or a commitment providing for the United States 
+to insure or guarantee a loan exceeding $150,000 all recipients must certify that they will 
+Page 4 of 61 
+ 
+ 
+not use federal funds for lobbying and must disclose the use of non-federal funds for 
+lobbying by filing required documentation. Bidders must complete and return the 
+Lobbying Certification Form if required by the using agency and the Disclosure of 
+Lobbying Activities Form. The completed and signed Lobbying Certification Form and 
+the Disclosure of Lobbying Activities Form should be submitted with any quote response 
+if required by the using agency. Commonwealth agencies will not contract with outside 
+firms or individuals to perform lobbying services, regardless of the source of funds. 
+ 
+ 
+2. IRAN FREE PROCUREMENT CERTIFICATION AND DISCLOSURE. 
+Prior to entering a contract worth at least $1,000,000 or more with a Commonwealth 
+entity, a bidder must: a) certify it is not on the current list of persons engaged in 
+investment activities in Iran created by the Pennsylvania Department of General Services 
+(“DGS”) pursuant to Section 3503 of the Procurement Code and is eligible to contract 
+with the Commonwealth under Sections 3501-3506 of the Procurement Code; or b) 
+demonstrate it has received an exception from the certification requirement for that 
+solicitation or contract pursuant to Section 3503(e). 
+All bidders must complete and return the Iran Free Procurement Certification form, 
+which is attached hereto and made part of this IFB. The completed and signed Iran Free 
+Procurement Certification form must be submitted with the Bid Response. See the 
+following web page for current Iran Free Procurement list: 
+http://www.dgs.pa.gov/businesses/materials%20and%20services%20procurement/procur 
+ement-resources/pages/default.aspx#.WDNfJJgo6Ht 
+ 
+ 
+3. WORKER PROTECTION AND INVESTMENT CERTIFICATION. 
+ 
+Pursuant to Executive Order 2021-06, Worker Protection and Investment (October 21, 
+2021), the Commonwealth is responsible for ensuring that every Pennsylvania worker has 
+a safe and healthy work environment and the protections afforded them through labor 
+laws. To that end, contractors and grantees of the Commonwealth must certify that they 
+are in compliance with all applicable Pennsylvania state labor and workforce safety laws. 
+Such certification shall be made through the Worker Protection and Investment 
+Certification Form (BOP-2201). Contractor must complete and return the Worker 
+Protection and Investment Certification form with its Bid Response. 
+ 
+ 
+PART III – SELECTION CRITERIA 
+ 
+ 
+1. MANDATORY RESPONSIVENESS REQUIREMENTS. 
+Page 5 of 61 
+ 
+ 
+ 
+To be eligible for selection, a bid must be: 
+a. Timely received from a Bidder; and 
+ 
+b. Properly signed by the Bidder. 
+ 
+ 
+2. METHOD OF AWARD – ALL BIDDERS. 
+ 
+Award will be made to all responsive and responsible bidders. 
+ 
+ 
+3. AWARDS. 
+ 
+Unless all Bids are rejected, and except as otherwise provided by law, award will be 
+made through the issuance of a contract/purchase order in accordance with the method of 
+award. Unless otherwise specified by the Issuing Office in the IFB form the 
+Commonwealth reserves the right to award by item or on a total Bid basis, whichever is 
+deemed more advantageous to the Commonwealth. In cases of discrepancies in prices, 
+the unit price will be binding unless the unit price is obviously in error and the extended 
+price is obviously correct, in which case the erroneous unit price will be corrected. As a 
+condition for receipt of award of a contract/purchase order, the Bidder must be registered 
+in the Commonwealth of Pennsylvania's Vendor Master file. In order to register, bidders 
+must visit the Pa Supplier Portal at https://www.pasupplierportal.state.pa.us/ or call the 
+Customer Support Center at 877-435-7363 or 717-346-2676. 
+ 
+ 
+4. TIE BIDS. 
+ 
+All tie bids will be broken by the Issuing Office. 
+ 
+ 
+5. OPTION FOR SEPARATE COMPETITIVE BIDDING PROCEDURE. 
+ 
+The Commonwealth reserves the right to purchase products or services covered under 
+this Contract through a separate competitive bidding procedure, whenever 
+Commonwealth deems it in the best interest of the Commonwealth. The right will 
+generally be exercised only when a specific need for a large quantity of the product or 
+service exists or when the price offered is significantly lower than the Contract price. 
+ 
+ 
+PART IV – STATEMENT OF WORK 
+Page 6 of 61 
+ 
+ 
+1.  STATEMENT OF WORK. 
+The Commonwealth is seeking bids to procure the services set forth in Attachment A, 
+Agile Development Scope of Work. 
+ 
+ 
+PART V – CONTRACT TERMS AND CONDITIONS 
+ 
+ 
+1. DEFINITIONS. 
+a. Agency. The department, board, commission or other agency of the 
+Commonwealth of Pennsylvania listed as the Purchasing Agency. If a COSTARS 
+entity or external procurement activity has issued an order against this Contract, 
+that entity shall also be identified as “Agency.” 
+b. Commonwealth. The Commonwealth of Pennsylvania. 
+c. Contract. The integrated documents as defined in Section 11, Order of Precedence. 
+d. Contracting Officer. The person authorized to administer this Contract for the 
+Commonwealth and to make written determinations with respect to the Contract. 
+e. Data. Any recorded information, regardless of the form, the media on which it is 
+recorded or the method of recording. 
+f. Days. Calendar days, unless specifically indicated otherwise. 
+g. Developed Works. All of the fully or partially complete property, whether tangible 
+or intangible prepared by the Contractor for ownership by the Commonwealth in 
+fulfillment of the requirements of this Contract, including but not limited to: 
+documents; sketches; drawings; designs; works; papers; files; reports; computer 
+programs; documentation; data; records; software; samples; literary works and 
+other works of authorship. Developed Works include all material necessary to 
+exercise all attributes of ownership or of the license granted in Section 46,  
+Ownership of Developed Works. 
+h. Documentation. All materials required to support and convey information about 
+the Services or Supplies required by this Contract, including, but not limited to: 
+written reports and analyses; diagrams maps, logical and physical designs; system 
+designs; computer programs; flow charts; and disks and/or other machine- readable 
+storage media. 
+i. Expiration Date. The last valid date of the Contract, as indicated in the Contract 
+documents to which these IT Contract Terms and Conditions are attached. 
+Page 7 of 61 
+ 
+ 
+j. Purchase Order. Written authorization for Contractor to proceed to furnish Supplies 
+or Services. 
+k. Proposal. Contractor’s response to a Solicitation issued by the Issuing Agency, as 
+accepted by the Commonwealth. 
+l. Services. All Contractor activity necessary to satisfy the Contract. 
+m. Software. A collection of one or more programs, databases or microprograms fixed 
+in any tangible medium of expression that comprises a sequence of instructions 
+(source code) to carry out a process in, or convertible into, a form executable by an 
+electronic computer (object code). 
+n. Solicitation. A document issued by the Commonwealth to procure Services or 
+Supplies, e.g., Request for Proposal; Request for Quotation; Supplier Pricing 
+Request; or Invitation for Bid, including all attachments and addenda thereto. 
+o. Supplies. All tangible and intangible property including, but not limited to, 
+materials and equipment provided by the Contractor to satisfy the Contract. 
+ 
+ 
+2. TERM OF CONTRACT. 
+a. Term. The term of the Contract shall commence on the Effective Date and shall end 
+on the Expiration Date identified in the Contract, subject to the other provisions of 
+the Contract. 
+b. Effective Date. The Effective Date shall be one of the following: 
+the date the Contract has been fully executed by the Contractor and all 
+approvals required by Commonwealth contracting procedures have been 
+obtained; or 
+the date stated in the Contract, whichever is later. 
+ 
+ 
+3. COMMENCEMENT OF PERFORMANCE. 
+a. General. The Contractor shall not commence performance and the Commonwealth 
+shall not be liable to pay the Contractor for any supply furnished or work performed 
+or expenses incurred, until both of the following have occurred: 
+the Effective Date has occurred; and 
+the Contractor has received a Purchase Order or other written notice to 
+proceed signed by the Contracting Officer. 
+
+Page 8 of 61 
+ 
+ 
+b. Prohibition Prior to Effective Date. No Commonwealth employee has the authority 
+to verbally direct the commencement of any Service or delivery of any Supply under 
+this Contract prior to the date performance may commence. The Contractor hereby 
+waives any claim or cause of action for any Service performed or Supply delivered 
+prior to the date performance may commence. 
+ 
+ 
+4. EXTENSION OF CONTRACT TERM. 
+The Commonwealth reserves the right, upon notice to the Contractor, to extend the term 
+of the Contract for up to three (3) months upon the same terms and conditions. 
+ 
+ 
+5. ELECTRONIC SIGNATURES. 
+a. The Contract and/or Purchase Orders may be electronically signed by the 
+Commonwealth. 
+Contract. “Fully Executed” at the top of the first page of the Contract 
+output indicates that the signatures of all the individuals required to bind 
+the Commonwealth to the terms of the Contract have been obtained. If the 
+Contract output form does not have “Fully Executed” at the top of the first 
+page, the Contract has not been fully executed. 
+Purchase Orders. The electronically-printed name of the Purchasing 
+Agent on the Purchase Order indicates that all approvals required by 
+Commonwealth contracting procedures have been obtained. 
+b. The Commonwealth and the Contractor specifically agree as follows: 
+Written signature not required. No handwritten signature shall be 
+required in order for the Contract or Purchase Order to be legally 
+enforceable. 
+Validity; admissibility. The parties agree that no writing shall be required 
+in order to make the Contract or Purchase Order legally binding, 
+notwithstanding contrary requirements in any law or regulation. The 
+parties hereby agree not to contest the validity or enforceability of the 
+Contract executed electronically, or acknowledgement issued 
+electronically, under the provisions of a statute of frauds or any other 
+applicable law relating to whether certain agreements be in writing and 
+signed by the party bound thereby. Any genuine Contract or 
+acknowledgement executed or issued electronically, if introduced as 
+evidence on paper in any judicial, arbitration, mediation, or administrative 
+proceedings, will be admissible as between the parties to the same extent 
+and under the same conditions as other business records originated and 
+
+Page 9 of 61 
+ 
+ 
+maintained in documentary form. Neither party shall contest the 
+admissibility of copies of a genuine Contract or acknowledgements under 
+either the business records exception to the hearsay rule or the best 
+evidence rule on the basis that the Contract or acknowledgement were not 
+in writing or signed by the parties. A Contract or acknowledgment shall 
+be deemed to be genuine for all purposes if it is transmitted to the location 
+designated for such documents. 
+c. Verification. Each party will immediately take steps to verify any document that 
+appears to be obviously garbled in transmission or improperly formatted to include 
+re-transmission of any such document if necessary. 
+ 
+ 
+6. PURCHASE ORDERS. 
+a. Purchase Orders. The Commonwealth may issue Purchase Orders against the 
+Contract or issue a Purchase Order as the Contract. These Purchase Orders 
+constitute the Contractor’s authority to make delivery. All Purchase Orders 
+received by the Contractor up to, and including, the Expiration Date of the 
+Contract are acceptable and must be performed in accordance with the Contract. 
+Each Purchase Order will be deemed to incorporate the terms and conditions set 
+forth in the Contract. 
+b. Electronic transmission. Purchase Orders may be issued electronically or through 
+facsimile equipment. The electronic transmission of a Purchase Order shall require 
+acknowledgement of receipt of the transmission by the Contractor. 
+c. Receipt. Receipt of the electronic or facsimile transmission of the Purchase Order 
+shall constitute receipt of a Purchase Order. 
+d. Received next business day. Purchase Orders received by the Contractor after 4 
+p.m. will be considered received the following business day. 
+ 
+ 
+7. CONTRACT SCOPE. 
+The Contractor agrees to furnish the requested Services and Supplies to the 
+Commonwealth as such Services and Supplies are defined in this Contract. 
+ 
+ 
+8. ACCESS TO COMMONWEALTH FACILITIES. 
+If the Contractor must perform work at a Commonwealth facility outside of the daily 
+operational hours set forth by the Commonwealth, it must make arrangements with the 
+Commonwealth to assure access to the facility and equipment. No additional payment 
+will be made on the basis of lack of access. 
+Page 10 of 61 
+ 
+ 
+ 
+ 
+9. NON-EXCLUSIVE CONTRACT. 
+The Commonwealth reserves the right to purchase Services and Supplies within the scope 
+of this Contract through other procurement methods whenever the Commonwealth deems 
+it to be in its best interest. 
+ 
+ 
+10. INFORMATION TECHNOLOGY POLICIES. 
+a. General. The Contractor shall comply with the IT standards and policies issued 
+by the Governor’s Office of Administration, Office for Information Technology 
+(located at https://www.oa.pa.gov/Policies/Pages/itp.aspx), including the Digital 
+Accessibility Policy. The Contractor shall ensure that Services and Supplies 
+procured under the Contract comply with the applicable standards. In the event 
+such standards change during the Contractor’s performance, and the 
+Commonwealth requests that the Contractor comply with the changed standard, 
+then any incremental costs incurred by the Contractor to comply with such 
+changes shall be paid for pursuant to a change order to the Contract. 
+ 
+ 
+b. Waiver. The Contractor may request a waiver from an Information Technology 
+Policy (ITP) by providing detailed written justification as to why the ITP cannot 
+be met. The Commonwealth may waive the ITP in whole, in part or 
+conditionally, or require that the Contractor provide an acceptable alternative. 
+Any Commonwealth waiver of the requirement must be in writing. 
+ 
+11. ORDER OF PRECEDENCE. 
+If any conflicts or discrepancies should arise in the terms and conditions of this Contract, 
+or the interpretation thereof, the order of precedence shall be: 
+a. The documents containing the parties’ signatures; 
+b. The IT Contract Terms and Conditions; 
+c. The Solicitation; and 
+d. The Proposal. 
+ 
+ 
+12. CONTRACT INTEGRATION. 
+a. Final contract. This Contract constitutes the final, complete, and exclusive Contract 
+between the parties, containing all the terms and conditions agreed to by the parties. 
+Page 11 of 61 
+ 
+ 
+b. Prior representations. All representations, understandings, promises, and agreements 
+pertaining to the subject matter of this Contract made prior to or at the time this 
+Contract is executed are superseded by this Contract. 
+c. Conditions precedent. There are no conditions precedent to the performance of this 
+Contract except as expressly set forth herein. 
+d. Sole applicable terms. No contract terms or conditions are applicable to this Contract 
+except as they are expressly set forth herein. 
+e. Other terms unenforceable. The Contractor may not require the Commonwealth or 
+any user of the Services or Supplies acquired within the scope of this Contract to 
+sign, click through, or in any other way agree to any terms associated with use of or 
+interaction with those Services and/or Supplies, unless the Commonwealth has 
+approved the terms in writing in advance under this Contract, and the terms are 
+consistent with this Contract. Further, changes to terms may be accomplished only 
+by processes set out in this Contract; no quotations, invoices, business forms or other 
+documentation, or terms referred to therein, shall become part of this Contract 
+merely by their submission to the Commonwealth or their ordinary use in meeting 
+the requirements of this Contract. Any terms imposed upon the Commonwealth or a 
+user in contravention of this subsection (e) must be removed at the direction of the 
+Commonwealth and shall not be enforced or enforceable against the Commonwealth 
+or the user. 
+ 
+ 
+13. PERIOD OF PERFORMANCE. 
+The Contractor, for the term of this Contract, shall complete all Services and provide all 
+Supplies as specified under the terms of this Contract. In no event shall the 
+Commonwealth be responsible or liable to pay for any Services or Supplies provided by 
+the Contractor prior to the Effective Date, and the Contractor hereby waives any claim or 
+cause of action for any such Services or Supplies. 
+ 
+ 
+14. INDEPENDENT PRIME CONTRACTOR. 
+a. Independent contractor. In performing its obligations under the Contract, the 
+Contractor will act as an independent contractor and not as an employee or agent of 
+the Commonwealth. 
+b. Sole point of contact. The Contractor will be responsible for all Services and 
+Supplies in this Contract whether or not Contractor provides them directly. Further, 
+the Contractor is the sole point of contact with regard to all contractual matters, 
+including payment of any and all charges resulting from the Contract. 
+Page 12 of 61 
+ 
+ 
+15. RESERVED. 
+ 
+ 
+16. OTHER CONTRACTORS. 
+The Commonwealth may undertake or award other contracts for additional or related 
+work, and the Contractor shall fully cooperate with other contractors and Commonwealth 
+employees and coordinate its Services and/or its provision of Supplies with such 
+additional work as may be required. The Contractor shall not commit or permit any act 
+that will interfere with the performance of work by any other contractor or by 
+Commonwealth employees. This section shall be included in the Contracts of all 
+contractors with which this Contractor will be required to cooperate. The 
+Commonwealth shall equitably enforce this section as to all contractors to prevent the 
+imposition of unreasonable burdens on any contractor. 
+ 
+ 
+17. ENHANCED MINIMUM WAGE. 
+a. Enhanced Minimum Wage. Contractor shall pay no less than $15.00 per hour to its 
+employees for all hours worked directly performing the services called for in this 
+contract/lease, and for an employee’s hours performing ancillary services necessary 
+for the performance of the services or lease when the employee spends at least 20% 
+of their time performing ancillary services in a given work week. 
+b. Adjustment. Beginning July 1, 2023, and annually thereafter, the minimum wage 
+rate will be increased by an annual cost-of-living adjustment using the percentage 
+change in the Consumer Price Index for All Urban Consumers (CPI-U) for 
+Pennsylvania, New Jersey, Delaware, and Maryland. The Commonwealth will 
+publish applicable adjusted amount in the Pennsylvania Bulletin by March 1 of each 
+year to be effective the following July 1. 
+c. Exceptions. These Enhanced Minimum Wage Provisions do not apply to employees 
+(i) Exempt from minimum wage under the Minimum Wage Act of 1968; 
+(ii) covered by a collective bargaining agreement; 
+(iii) required to be paid a higher wage under another state or federal law 
+governing the services, including the Prevailing Wage Act and Davis- 
+Bacon Act; or 
+(iv) required to be paid a higher wage under any state or local policy or 
+ordinance. 
+d. Notice. The Contractor shall: (1) if work is not being conducted remotely, post this 
+Enhanced Minimum Wage Provision for the entire period of the contract 
+conspicuously in easily-accessible and well-lighted places customarily frequented by 
+employees at or near where the contracted services are performed; or (2) for 
+Page 13 of 61 
+ 
+ 
+the entire period of the contract, provide electronic notice of this clause to its 
+employees when onboarding to the Contract. 
+e. Records. Contractor must maintain and, upon request and within the time periods 
+requested by the Commonwealth, provide to the Commonwealth all employment 
+and wage records necessary to document compliance with these Enhanced 
+Minimum Wage Provisions. 
+f. Sanctions. Contractor’s failure to comply with these Enhanced Minimum Wage 
+Provisions may result in the imposition of sanctions, which may include, but are not 
+limited to, termination of the contract or lease, nonpayment, debarment, or referral 
+to the Office of General Counsel for appropriate civil or criminal referral. 
+ 
+ 
+18. COMPENSATION. 
+a. General. The Contractor shall be required to perform at the price(s) quoted in the 
+Contract. All items shall be performed within the time period(s) specified in the 
+Contract. The Contractor shall be compensated only for items supplied and Services 
+performed to the satisfaction of the Commonwealth. 
+b. Travel. The Contractor shall not be allowed or paid travel or per diem expenses 
+except as specifically set forth in the Contract. If not otherwise specified in the 
+Contract, travel and related expenses shall be reimbursed in accordance with 
+Management Directive 230.10 Amended, Commonwealth Travel Policy, and Manual 
+230.1, Commonwealth Travel Procedures Manual. 
+ 
+ 
+19. BILLING REQUIREMENTS. 
+a. Unless the Contractor has been authorized by the Commonwealth for Evaluated 
+Receipt Settlement or Vendor Self-Invoicing, the Contractor shall include in all of its 
+invoices the following minimum information: 
+Vendor name and “Remit to” address, including SAP Vendor number; 
+Bank routing information, if ACH; 
+ SAP Purchase Order number; 
+ Delivery Address, including name of Commonwealth agency; 
+Description of the supplies/services delivered in accordance with SAP 
+Purchase Order (include Purchase Order line number if possible); 
+ Quantity provided; 
+Unit price; 
+
+Page 14 of 61 
+ 
+ 
+ Price extension; 
+ Total price; and 
+Delivery date of supplies or services. 
+b. If an invoice does not contain the minimum information set forth in this section, and 
+comply with the provisions located at https://www.budget.pa.gov/Programs/Pages/E- 
+Invoicing.aspx, relating to the Commonwealth E-Invoicing Program, the 
+Commonwealth may return the invoice as improper. If the Commonwealth returns an 
+invoice as improper, the time for processing a payment will be suspended until the 
+Commonwealth receives a correct invoice. The Contractor may not receive payment 
+until the Commonwealth has received a correct invoice. 
+ 
+ 
+20. PAYMENT. 
+a. Payment Date. The Commonwealth shall put forth reasonable efforts to make 
+payment by the required payment date. The required payment date is: 
+the date on which payment is due under the terms of the Contract; 
+thirty (30) days after a proper invoice actually is received at the “Bill To” 
+address if a date on which payment is due is not specified in the Contract 
+(a “proper” invoice is not received until the Commonwealth accepts the 
+service as satisfactorily performed); or 
+ the payment date specified on the invoice if later than the dates established 
+by paragraphs (a)(i) and (a)(ii), above. 
+b. Delay; Interest. Payment may be delayed if the payment amount on an invoice is not 
+based upon the price(s) as stated in the Contract. If any payment is not made within 
+15 days after the required payment date, the Commonwealth may pay interest as 
+determined by the Secretary of Budget in accordance with Act of December 13, 
+1982, P.L. 1155, No. 266, 72 P. S. § 1507, (relating to interest penalties on 
+Commonwealth accounts) and accompanying regulations 4 Pa. Code §§ 2.31—2.40 
+(relating to interest penalties for late payments to qualified small business concerns). 
+c. Payment should not be construed by the Contractor as acceptance of the Service 
+performed by the Contractor. The Commonwealth reserves the right to conduct 
+further testing and inspection after payment, but within a reasonable time after 
+performance, and to reject the service if such post payment testing or inspection 
+discloses a defect or a failure to meet specifications. 
+
+Page 15 of 61 
+ 
+ 
+21. AUTOMATED CLEARING HOUSE (ACH) PAYMENTS. 
+a. Payment Method. The Commonwealth shall make contract payments through the 
+Automated Clearing House (ACH). Within 10 days of award of the contract or 
+purchase order, the Contractor must submit or must have submitted its ACH 
+information within its user profile in the Commonwealth's procurement system 
+(SRM). 
+b. Unique Identifier. The Contractor must submit a unique invoice number with each 
+invoice submitted. The Commonwealth shall list the Contractor’s unique invoice 
+number on its ACH remittance advice to enable the Contractor to properly apply the 
+state agency’s payment to the invoice submitted. 
+c. ACH Information in SRM. The Contractor shall ensure that the ACH information 
+contained in SRM is accurate and complete. The Contractor’s failure to maintain 
+accurate and complete information may result in delays in payments. 
+ 
+ 
+22. ASSIGNABILITY. 
+a. Subject to the terms and conditions of this section the Contract is binding upon the 
+parties and their respective successors and assigns. 
+b. The Contractor may not assign, in whole or in part, the Contract or its rights, 
+duties, obligations, or responsibilities hereunder without the prior written consent 
+of the Commonwealth, which consent may be withheld at the sole and absolute 
+discretion of the Commonwealth. 
+c. For the purposes of the Contract, the term “assign” shall include, but shall not be 
+limited to, the sale, gift, assignment, encumbrance, pledge, or other transfer of any 
+ownership interest in the Contractor provided, however, that the term shall not 
+apply to the sale or other transfer of stock of a publicly traded company. 
+d. Any assignment consented to by the Commonwealth shall be evidenced by a 
+written assignment agreement executed by the Contractor and its assignee in 
+which the assignee agrees to be legally bound by all of the terms and conditions of 
+the Contract and to assume the duties, obligations, and responsibilities being 
+assigned. 
+e. Notwithstanding the foregoing, the Contractor may, without the consent of the 
+Commonwealth, assign its rights to payment to be received under the Contract, 
+provided that the Contractor provides written notice of such assignment to the 
+Commonwealth together with a written acknowledgement from the assignee that 
+any such payments are subject to all of the terms and conditions of the Contract. 
+f. A change of name by the Contractor, following which the Contractor’s federal 
+identification number remains unchanged, is not considered to be an assignment. 
+Page 16 of 61 
+ 
+ 
+g. The Contractor shall give the Commonwealth written notice of any such change 
+of name. 
+ 
+ 
+23. INSPECTION AND ACCEPTANCE. 
+a. Developed Works and Services. 
+Acceptance. Acceptance of any Developed Work or Service will occur in 
+accordance with an acceptance plan (Acceptance Plan) submitted by the 
+Contactor and approved by the Commonwealth. Upon approval of the 
+Acceptance Plan by the Commonwealth, the Acceptance Plan becomes 
+part of this Contract. 
+Software Acceptance Test Plan. For contracts where the development of 
+Software, the configuration of Software or the modification of Software is 
+being inspected and accepted, the Acceptance Plan must include a 
+Software Acceptance Test Plan. The Software Acceptance Test Plan will 
+provide for a final acceptance test, and may provide for interim acceptance 
+tests. Each acceptance test will be designed to demonstrate that the 
+Software conforms to the functional specifications, if any, and the 
+requirements of this Contract. The Contractor shall notify the 
+Commonwealth when the Software is completed and ready for acceptance 
+testing. The Commonwealth will not unreasonably delay commencement 
+of acceptance testing. 
+ If software integration is required at the end of the project, as set out in the 
+Solicitation, the Commonwealth’s acceptance of the Software shall be 
+final unless at the time of final acceptance, the Software does not meet the 
+acceptance criteria set forth in the Contract. 
+ If software integration is not required at the end of the project, as set out in 
+the Solicitation, the Commonwealth’s acceptance of the Software shall be 
+complete and final. 
+Certification of Completion. The Contractor shall certify, in writing, to 
+the Commonwealth when an item in the Acceptance Plan is completed and 
+ready for acceptance. Unless otherwise agreed to by the Commonwealth 
+in the Acceptance Plan, the acceptance period shall be 10 business days 
+for interim items and 30 business days for final items. Following receipt 
+of the Contractor’s certification of completion of an item, the 
+Commonwealth shall, either: 
+(1) Provide the Contractor with Commonwealth’s written acceptance 
+of the work product; or 
+
+Page 17 of 61 
+ 
+ 
+(2) Identify to the Contractor, in writing, the failure of the work 
+product to comply with the specifications, listing all such errors 
+and omissions with reasonable detail. 
+ Deemed Acceptance. If the Commonwealth fails to notify the Contractor 
+in writing of any failures in the work product within the applicable 
+acceptance period, the work product shall be deemed accepted. 
+ Correction upon Rejection. Upon the Contractor’s receipt of the 
+Commonwealth’s written notice of rejection, which must identify the 
+reasons for the failure of the work product to comply with the 
+specifications, the Contractor shall have 15 business days, or such other 
+time as the Commonwealth and the Contractor may agree is reasonable, 
+within which to correct all such failures, and resubmit the corrected item, 
+certifying to the Commonwealth, in writing, that the failures have been 
+corrected, and that the items have been brought into compliance with the 
+specifications. Upon receipt of such corrected and resubmitted items and 
+certification, the Commonwealth shall have 30 business days to test the 
+corrected items to confirm that they are in compliance with the 
+specifications. If the corrected items are in compliance with the 
+specifications, then the Commonwealth shall provide the Contractor with 
+its acceptance of the items in the completed milestone. 
+ Options upon Continued Failure. If, in the opinion of the Commonwealth, 
+the corrected items still contain material failures, the Commonwealth may 
+either: 
+(1) Repeat the procedure set forth above; or 
+(2) Proceed with its rights under Section 28, Termination, except that 
+the cure period set forth in Subsection 28(c) may be exercised in 
+the Commonwealth’s sole discretion. 
+ 
+ 
+24. DEFAULT. 
+The Commonwealth may, subject to the provisions of Section 25, Notice of Delays, and 
+Section 66, Force Majeure, and in addition to its other rights under the Contract, declare 
+the Contractor in default by written notice thereof to the Contractor, and provide an 
+opportunity to cure, and terminate (as provided in Section 28, Termination) the whole or 
+any part of this Contract if not cured within the time frame as provided for in the cure 
+letter for any of the following reasons: 
+Failure to begin Services within the time specified in the Contract or as 
+otherwise specified; 
+
+Page 18 of 61 
+ 
+ 
+Failure to perform the Services with sufficient labor, equipment, or 
+material to insure the completion of the specified Services in accordance 
+with the Contract terms; 
+ Unsatisfactory performance of the Services; 
+ Failure to meet requirements within the time periods(s) specified in the 
+Contract; 
+Multiple failures over time of a single service level agreement or a pattern 
+of failure over time of multiple service level agreements; 
+ Failure to provide a Supply or Service that conforms with the 
+specifications referenced in the Contract; 
+ Failure or refusal to remove material, or remove, replace or correct any 
+Supply rejected as defective or noncompliant; 
+ Discontinuance of Services without approval; 
+ Failure to resume a Service, which has been discontinued, within a 
+reasonable time after notice to do so; 
+Insolvency; 
+ Assignment made for the benefit of creditors; 
+ Failure or refusal, within 10 days after written notice by the Contracting 
+Officer, to make payment or show cause why payment should not be 
+made, of any amounts due subcontractors for materials furnished, labor 
+supplied or performed, for equipment rentals or for utility services 
+rendered; 
+ Failure to protect, repair or make good any damage or injury to property; 
+ Breach of any provision of this Contract; 
+ Any breach by Contractor of the security standards or procedures of this 
+Contract; 
+ Failure to comply with representations made in the Contractor’s Proposal; 
+or 
+ Failure to comply with applicable industry standards, customs and 
+practice. 
+25. NOTICE OF DELAYS. 
+Whenever the Contractor encounters any difficulty that delays or threatens to delay the 
+timely performance of this Contract (including actual or potential labor disputes), the 
+Contractor shall promptly give notice thereof in writing to the Commonwealth stating all 
+
+Page 19 of 61 
+ 
+ 
+relevant information with respect thereto. Such notice shall not in any way constitute a 
+basis for an extension of the delivery schedule or be construed as a waiver by the 
+Commonwealth of any rights or remedies to which it is entitled by law or pursuant to 
+provisions of this Contract. Failure to give such notice, however, may be grounds for 
+denial of any request for an extension of the delivery schedule because of such delay. If 
+an extension of the delivery schedule is granted, it will be done consistent with Section 
+27, Changes. 
+ 
+ 
+26. CONDUCT OF SERVICES. 
+Following the Effective Date of the Contract, Contractor shall proceed diligently 
+with all Services and shall perform such Services with qualified personnel, in 
+accordance with the completion criteria set forth in the Contract. 
+In determining whether the Contractor has performed with due diligence under 
+the Contract, it is agreed and understood that the Commonwealth may measure 
+the amount and quality of the Contractor’s effort against the representations made 
+in the Contractor’s Proposal. The Contractor’s Services hereunder shall be 
+monitored by the Commonwealth and the Commonwealth’s designated 
+representatives. If the Commonwealth reasonably determines that the Contractor 
+has not performed with due diligence, the Commonwealth and the Contractor will 
+attempt to reach agreement with respect to such matter. Failure of the 
+Commonwealth or the Contractor to arrive at such mutual determinations shall be 
+a dispute concerning a question of fact within the meaning of Section 30, 
+Contract Controversies. 
+ 
+ 
+27. CHANGES. 
+a. At any time during the performance of the Contract, the Commonwealth or the 
+Contractor may request a change to the Contract. Contractor will make 
+reasonable efforts to investigate the impact of the change request on the price, 
+timetable, specifications, and other terms and conditions of the Contract. If the 
+Commonwealth is the requestor of the change, the Contractor will inform the 
+Commonwealth of any charges for investigating the change request prior to 
+incurring such charges. If the Commonwealth and the Contractor agree on the 
+results of the investigation and any necessary changes to the Contract, the parties 
+must complete and execute a change order to modify the Contract and implement 
+the change. The change order will be evidenced by a writing in accordance with 
+the Commonwealth’s change order procedures. No work may begin on the 
+change order until the Contractor has received the executed change order. If the 
+parties are not able to agree upon the results of the investigation or the necessary 
+changes to the Contract, a Commonwealth-initiated change request will be 
+Page 20 of 61 
+ 
+ 
+implemented at Commonwealth’s option and the Contractor shall perform the 
+Services; and either party may elect to have the matter treated as a dispute 
+between the parties under Section 30, Contract Controversies. During the 
+pendency of any such dispute, Commonwealth shall pay to Contractor any 
+undisputed amounts. 
+b. Changes outside the scope of this Contract shall be accomplished through the 
+Commonwealth’s procurement procedures, and may result in an amended 
+Contract or a new contract. No payment will be made for services outside of the 
+scope of the Contract for which no amendment has been executed. 
+ 
+ 
+28. TERMINATION. 
+a. For Convenience. 
+The Commonwealth may terminate the Contract, or a Purchase Order 
+issued against the Contract, in whole or in part, without cause by giving 
+Contractor 30 days’ prior written notice (Notice of Termination) 
+whenever the Commonwealth shall determine that such termination is in 
+the best interest of the Commonwealth (Termination for Convenience). 
+Any such termination shall be effected by delivery to the Contractor of a 
+Notice of Termination specifying the extent to which performance under 
+this Contract is terminated either in whole or in part and the date on which 
+such termination becomes effective. 
+In the event of termination hereunder, Contractor shall receive payment 
+for the following: 
+(1) all Services performed consistent with the terms of the Contract 
+prior to the effective date of termination; 
+(2) all actual and reasonable costs incurred by Contractor as a result of 
+the termination of the Contract; and 
+In no event shall the Contractor be paid for any loss of anticipated profit 
+(by the Contractor or any subcontractor), loss of use of money, or 
+administrative or overhead costs. 
+Failure to agree on any termination costs shall be a dispute handled in 
+accordance with Section 30, Contract Controversies, of this Contract. 
+The Contractor shall cease Services as of the date set forth in the Notice of 
+Termination, and shall be paid only for such Services as have already been 
+satisfactorily rendered up to and including the termination date set forth in 
+said notice, or as may be otherwise provided for in said Notice of 
+Termination, and for such Services performed during the 30-day notice 
+
+Page 21 of 61 
+ 
+ 
+period, if such Services are requested by the Commonwealth, for the 
+collection, assembling, and transmitting to the Commonwealth of at least 
+all materials, manuals, magnetic media, studies, drawings, computations, 
+maps, supplies, and survey notes including field books, which were 
+obtained, prepared, or developed as part of the Services required under 
+this Contract. 
+ The above shall not be deemed to limit the Commonwealth’s right to 
+terminate this Contract for any reason as permitted by the other provisions 
+of this Contract, or under applicable law. 
+b. Non-Appropriation. Any payment obligation or portion thereof of the 
+Commonwealth created by this Contract is conditioned upon the availability and 
+appropriation of funds. When funds (state or federal) are not appropriated or 
+otherwise made available to support continuation of performance or full 
+performance in a subsequent fiscal year period, the Commonwealth shall have the 
+right to terminate the Contract in whole or in part. The Contractor shall be 
+reimbursed in the same manner as that described in subsection (a) to the extent 
+that appropriated funds are available. 
+c. Default. The Commonwealth may, in addition to its other rights under this 
+Contract, terminate this Contract in whole or in part by providing written notice of 
+default to the Contractor if the Contractor materially fails to perform its 
+obligations under the Contract and does not cure such failure within 30 days, or if 
+a cure within such period is not practical, commence a good faith effort to cure 
+such failure to perform within the specified period or such longer period as the 
+Commonwealth may specify in the written notice specifying such failure, and 
+diligently and continuously proceed to complete the cure. The Contracting 
+Officer shall provide any notice of default or written cure notice for Contract 
+terminations. 
+Subject to Section 38, Limitation of Liability, in the event the 
+Commonwealth terminates this Contract in whole or in part as provided in 
+this subsection (c), the Commonwealth may procure services similar to 
+those so terminated, and the Contractor, in addition to liability for any 
+liquidated damages, shall be liable to the Commonwealth for the 
+difference between the Contract price for the terminated portion of the 
+Services and the actual and reasonable cost (but in no event greater than 
+the fair market value) of producing substitute equivalent services for the 
+terminated Services, provided that the Contractor shall continue the 
+performance of this Contract to the extent not terminated under the 
+provisions of this section. 
+Except with respect to defaults of subcontractors, the Contractor shall not 
+be liable for any excess costs if the failure to perform the Contract arises 
+
+Page 22 of 61 
+ 
+ 
+out of causes beyond the control of the Contractor. Such causes may 
+include, but are not limited to, acts of God or of the public enemy, fires, 
+floods, epidemics, quarantine restrictions, strikes, work stoppages, freight 
+embargoes, acts of terrorism and unusually severe weather. The 
+Contractor shall notify the Contracting Officer promptly in writing of its 
+inability to perform because of a cause beyond the control of the 
+Contractor. 
+ Nothing in this subsection (c) shall abridge the Commonwealth’s right to 
+suspend, debar or take other administrative action against the Contractor. 
+ If it is later determined that the Commonwealth erred in terminating the 
+Contract for default, then the Contract shall be deemed to have been 
+terminated for convenience under subsection (a). 
+If this Contract is terminated as provided by this subsection (c), the 
+Commonwealth may, in addition to any other rights provided in this 
+subsection (c), and subject law and to other applicable provisions of this 
+Contract, require the Contractor to deliver to the Commonwealth in the 
+manner and to the extent directed by the Contracting Officer, such 
+Software, Data, Developed Works, Documentation and other materials as 
+the Contractor has specifically produced or specifically acquired for the 
+performance of such part of the Contract as has been terminated. 
+d. The rights and remedies of the Commonwealth provided in this section shall not 
+be exclusive and are in addition to any other rights and remedies provided by law 
+or under this Contract. 
+e. The Commonwealth’s failure to exercise any rights or remedies provided in this 
+section shall not be construed to be a waiver by the Commonwealth of its rights 
+and remedies in regard to the event of default or any succeeding event of default. 
+f. Following exhaustion of the Contractor’s administrative remedies as set forth in 
+Section 30, Contract Controversies, the Contractor’s exclusive remedy shall be 
+to seek damages in the Board of Claims. 
+ 
+ 
+29. BACKGROUND CHECKS. 
+a. The Contractor, at its expense, must arrange for a background check for each of 
+its employees, as well as the employees of any of its subcontractors, who will 
+have access to Commonwealth Data or Commonwealth facilities (including 
+leased facilities or facilities owned by third parties but utilized by the 
+Commonwealth), either through on-site access or through remote access. 
+Background checks shall be conducted via the Request for Criminal Record 
+Check for in-state Contractor employees or via a criminal background check 
+
+Page 23 of 61 
+ 
+ 
+through the appropriate State Agency for the out of state Contractor employees. 
+The background check shall be conducted prior to initial access by the Contractor 
+employee and annually thereafter. 
+b. Before the Commonwealth permits access to the Contractor, the Contractor must 
+provide written confirmation that the background checks have been conducted. 
+If, at any time, it is discovered that an employee of the Contractor or an employee 
+of a subcontractor of the Contractor has a criminal record that includes a felony or 
+misdemeanor involving terroristic behavior, violence, use of a lethal weapon, or 
+breach of trust/fiduciary responsibility or which raises concerns about building, 
+system or personal security or is otherwise job-related, the Contractor shall not 
+assign that employee to any Commonwealth facilities, shall remove any access 
+privileges already given to the employee and shall not permit that employee 
+remote access unless the Commonwealth consents to the access, in writing, prior 
+to the access. The Commonwealth may withhold its consent in its sole discretion. 
+Failure of the Contractor to comply with the terms of this section on more than 
+one occasion or Contractor’s failure to cure any single failure to the satisfaction of 
+the Commonwealth may result in the Contractor being deemed in default of its 
+Contract. 
+c. The Commonwealth specifically reserves the right of the Commonwealth to 
+conduct or require background checks over and above that described herein. 
+ 
+ 
+30. CONTRACT CONTROVERSIES. 
+a. Pursuant to Section 1712.1 of the Commonwealth Procurement Code, 62 Pa. C.S. 
+§ 1712.1, in the event of a claim arising from the Contract or a purchase order, the 
+Contractor, within six (6) months after the cause of action accrues, must file a 
+written claim with the Contracting Officer for a determination. The claim shall 
+state all grounds upon which the Contractor asserts a controversy exists. If the 
+Contractor fails to file a claim or files an untimely claim, the Contractor is 
+deemed to have waived its right to assert a claim in any forum. At the time the 
+claim is filed, or within 60 days thereafter, either party may request mediation 
+through the Commonwealth Office of General Counsel Dispute Resolution 
+Program, 
+https://www.ogc.pa.gov/Services%20to%20Agencies/Mediation%20Procedures/P 
+ages/default.aspx. 
+b. If the Contractor or the Contracting Officer requests mediation, and the other 
+party agrees, the Contracting Officer shall promptly make arrangements for 
+mediation. Mediation shall be scheduled so as to not delay the issuance of the 
+final determination beyond the required 120 days after receipt of the claim if 
+mediation is unsuccessful. If mediation is not agreed to or if resolution is not 
+reached through mediation, the Contracting Officer shall review timely-filed 
+Page 24 of 61 
+ 
+ 
+claims and issue a final determination, in writing, regarding the claim. The final 
+determination shall be issued within 120 days of the receipt of the claim, unless 
+extended by consent of the Contracting Officer and the Contractor. The 
+Contracting Officer shall send his/her written determination to the Contractor. If 
+the Contracting Officer fails to issue a final determination within the 120 days 
+(unless extended by consent of the parties), the claim shall be deemed denied. 
+The Contracting Officer’s determination shall be the final order of the purchasing 
+agency. 
+c. Within 15 days of the mailing date of the determination denying a claim or within 
+135 days of filing a claim if, no extension is agreed to by the parties, whichever 
+occurs first, the Contractor may file a statement of claim with the Commonwealth 
+Board of Claims. Pending a final judicial resolution of a controversy or claim, the 
+Contractor shall proceed diligently with the performance of the Contract or 
+Purchase Order in a manner consistent with the determination of the contracting 
+officer and the Commonwealth shall compensate the Contractor pursuant to the 
+terms of the Contract or Purchase Order. 
+ 
+ 
+31. CONFIDENTIALITY, PRIVACY AND COMPLIANCE. 
+a. General. The Contractor agrees to protect the confidentiality of the 
+Commonwealth’s confidential information. The Commonwealth agrees to protect 
+the confidentiality of Contractor’s confidential information. Unless the context 
+otherwise clearly indicates the need for confidentiality, information is deemed 
+confidential only when the party claiming confidentiality designates the 
+information as “confidential” in such a way as to give notice to the other party 
+(for example, notice may be communicated by describing the information, and the 
+specifications around its use or disclosure, in the Solicitation or in the Proposal). 
+Neither party may assert that information owned by the other party is such party’s 
+confidential information. Notwithstanding the foregoing, all Data provided by, or 
+collected, processed, or created on behalf of the Commonwealth is Confidential 
+Information unless otherwise indicated in writing. 
+b. Copying; Disclosure; Termination. The parties agree that confidential 
+information shall not be copied, in whole or in part, or used or disclosed except 
+when essential for authorized activities under this Contract and, in the case of 
+disclosure, where the recipient of the confidential information has agreed to be 
+bound by confidentiality requirements no less restrictive than those set forth 
+herein. Each copy of confidential information shall be marked by the party 
+making the copy with any notices appearing in the original. Upon expiration or 
+termination of this Contract or any license granted hereunder, the receiving party 
+will return to the disclosing party, or certify as to the destruction of, all 
+confidential information in the receiving party’s possession, other than one copy 
+Page 25 of 61 
+ 
+ 
+(where permitted by law or regulation), which may be maintained for archival 
+purposes only, and which will remain subject to this Contract’s security, privacy, 
+data retention/destruction and confidentiality provisions. A material breach of 
+these requirements may result in termination for default pursuant to Subsection 
+28(c), in addition to other remedies available to the non-breaching party. 
+c. Insofar as information is not otherwise protected by law or regulation, the 
+obligations stated in this section do not apply to information: 
+already known to the recipient at the time of disclosure other than through 
+the contractual relationship; 
+independently generated by the recipient and not derived from the 
+information supplied by the disclosing party; 
+ known or available to the public, except where such knowledge or 
+availability is the result of unauthorized disclosure by the recipient of the 
+proprietary information; 
+ disclosed to the recipient without a similar restriction by a third party who 
+has the right to make such disclosure; or 
+required to be disclosed by the recipient by law, regulation, court order, or 
+other legal process. 
+There shall be no restriction with respect to the use or disclosure of any ideas, 
+concepts, know-how or data processing techniques developed alone or jointly 
+with the Commonwealth in connection with services provided to the 
+Commonwealth under this Contract. 
+d. The Contractor shall use the following process when submitting information to 
+the Commonwealth it believes to be confidential and/or proprietary information 
+or trade secrets: 
+Prepare and submit an un-redacted version of the appropriate document; 
+Prepare and submit a redacted version of the document that redacts the 
+information that is asserted to be confidential or proprietary information or 
+a trade secret. The Contractor shall use a redaction program that ensures 
+the information is permanently and irreversibly redacted; and 
+ Prepare and submit a signed written statement that identifies confidential 
+or proprietary information or trade secrets and that states: 
+(1) the attached material contains confidential or proprietary 
+information or trade secrets; 
+
+Page 26 of 61 
+ 
+ 
+(2) the Contractor is submitting the material in both redacted and un- 
+redacted format, if possible, in accordance with 65 P.S. § 
+67.707(b); and 
+(3) the Contractor is requesting that the material be considered exempt 
+under 65 P.S. § 67.708(b)(11) from public records requests. 
+e. Disclosure of Recipient or Beneficiary Information Prohibited. The Contractor 
+shall not use or disclose any information about a recipient receiving services 
+from, or otherwise enrolled in, a Commonwealth program affected by or 
+benefiting from Services under the Contract for any purpose not connected with 
+the Contractor’s responsibilities, except with consent pursuant to applicable law 
+or regulations. All material associated with direct disclosures of this kind 
+(including the disclosed information) shall be provided to the Commonwealth 
+prior to the direct disclosure. 
+f. Compliance with Laws. Contractor will comply with all applicable laws or 
+regulations related to the use and disclosure of information, including information 
+that constitutes Protected Health Information (PHI) as defined by the Health 
+Insurance Portability and Accountability Act (HIPAA). It is understood that 
+Exhibit A, Commonwealth of Pennsylvania Business Associate Agreement, is 
+only applicable if and to the extent indicated in the Contract. 
+g. Additional Provisions. Additional privacy and confidentiality requirements may 
+be specified in the Contract. 
+h. Restrictions on Use. All Data and all intellectual property provided to the 
+Contractor pursuant to this Contract or collected or generated by the Contractor 
+on behalf of the Commonwealth pursuant to this Contract shall be used only for 
+the work of this Contract. No Data, intellectual property, Documentation or 
+Developed Works may be used, disclosed, or otherwise opened for access by or to 
+the Contractor or any third party unless directly related to and necessary under the 
+Contract. 
+ 
+ 
+32. PCI SECURITY COMPLIANCE. (if applicable) 
+If an ITQ Contractor performs services on a system or service which involves PCI; the 
+Contractor shall perform all work in accordance with this Section 32 PCI Security 
+Compliance. 
+a. General. By providing the Services under this Contract, the Contractor may 
+create, receive, or have access to credit card records or record systems 
+containing cardholder data including credit card numbers (collectively the 
+“Cardholder Data”). Contractor shall comply with the Payment Card 
+Industry Data Security Standard (“PCI DSS”) requirements for Cardholder 
+Data that are prescribed by 
+Page 27 of 61 
+ 
+ 
+the payment brands (including, but not limited to, Visa, MasterCard, American 
+Express, and Discover), as they may be amended from time to time. The 
+Contractor acknowledges and agrees that Cardholder Data may only be used for 
+assisting in completing a card transaction, for fraud control services, for loyalty 
+programs, or as specifically agreed to by the payment brands, for purposes of this 
+Contract or as required by applicable law or regulations. 
+b. Compliance with Standards. The Contractor shall conform to and comply with 
+the PCI DSS standards as defined by The PCI Security Standards Council at: 
+https://www.pcisecuritystandards.org/security_standards/index.php. The 
+Contractor shall monitor these PCI DSS standards and will promptly notify the 
+Commonwealth if its practices should not conform to such standards. The 
+Contractor shall provide a letter of certification to attest to meeting this 
+requirement within seven (7) days of the Contractor’s receipt of the annual PCI 
+DSS compliance report. 
+ 
+ 
+33. DATA BREACH OR LOSS. 
+The ITQ contractor will perform services and not be a hosting vendor of system(s), 
+Section 33 applies to the services provided under the ITQ contract and any data the 
+contractor has access to while performing work under this ITQ. 
+a. The Contractor shall comply with all applicable data protection, data security, 
+data privacy and data breach notification laws, including but not limited to the 
+Breach of Personal Information Notification Act, as amended November 22, 
+2022, P.L. 2139, No. 151, 73 P.S. §§ 2301—2330. Further, to the extent the 
+Contractor maintains, stores, or manages computerized data on behalf of the 
+Commonwealth that constitutes personal information, as defined in the Breach 
+of Personal Information Notification Act, the Contractor shall comply with the 
+then current version of the following IT Policies (ITPs): Data Classification 
+Policy, IT Security Incident Reporting Policy, and Encryption Policy. 
+b. For Data and Confidential Information in the possession, custody, and control of 
+the Contractor or its employees, agents, and/or subcontractors: 
+The Contractor shall report unauthorized access, use, release, loss, 
+destruction or disclosure of Data or Confidential Information (“Incident”) 
+to the Commonwealth within one (1) hour of when the Contractor knows 
+of or reasonably suspects such Incident, and the Contractor must 
+immediately take all reasonable steps to mitigate any potential harm or 
+further access, use, release, loss, destruction or disclosure of such Data or 
+Confidential Information. 
+The Contractor shall provide timely notice to all individuals that may 
+require notice under any applicable law or regulation as a result of an 
+Incident. The notice must be pre-approved by the Commonwealth. At the 
+
+Page 28 of 61 
+ 
+ 
+Commonwealth’s request, Contractor shall, at its sole expense, provide 
+credit monitoring services to all individuals that may be impacted by any 
+Incident requiring notice. 
+ The Contractor shall be solely responsible for any costs, losses, fines, or 
+damages incurred by the Commonwealth due to Incidents. 
+c. As to Data and Confidential Information fully or partially in the possession, 
+custody, or control of the Contractor and the Commonwealth, the Contractor shall 
+diligently perform all of the duties required in this section in cooperation with the 
+Commonwealth, until the time at which a determination of responsibility for the 
+Incident, and for subsequent action regarding the Incident, is made final. 
+ 
+ 
+34. INSURANCE. 
+a. General. Unless otherwise indicated in the Solicitation, the Contractor shall 
+maintain at its expense and require its agents, contractors and subcontractors to 
+procure and maintain, as appropriate, the following types and amounts of 
+insurance, issued by companies acceptable to the Commonwealth and authorized 
+to conduct such business under the laws of the Commonwealth: 
+Workers’ Compensation Insurance for all of the Contractor’s employees 
+and those of any subcontractor engaged in performing Services in 
+accordance with the Workers' Compensation Act, Act of June 2, 1915, P.L. 
+736, No. 338, reenacted and amended June 21, 1939, P.L. 520, No. 281, as 
+amended, 77 P.S.§§ 1—2708. 
+Commercial general liability insurance providing coverage from claims 
+for damages for personal injury, death and property of others, including 
+loss of use resulting from any property damage which may arise from its 
+operations under this Contract, whether such operation be by the 
+Contractor, by any agent, contractor or subcontractor, or by anyone 
+directly or indirectly employed by either. The limits of such insurance 
+shall be in an amount not less than $500,000 per person and $2,000,000 
+per occurrence, personal injury and property damage combined. Such 
+policies shall be occurrence based rather than claims-made policies and 
+shall name the Commonwealth of Pennsylvania as an additional insured, 
+as its interests may appear. The insurance shall not contain any 
+endorsements or any other form designed to limit and restrict any action 
+by the Commonwealth as an additional insured against the insurance 
+coverages in regard to the Services performed for or Supplies provided to 
+the Commonwealth. 
+
+Page 29 of 61 
+ 
+ 
+b. In addition to the commercial general liability insurance the Contractor shall have 
+additional umbrella coverage in the amount of $2,000,000 to cover additional 
+claims such as: 
+Professional and Technology-Based Services Liability 
+Professional Liability/Errors and Omissions 
+ Network/Cyber Liability Insurance 
+c. Certificate of Insurance. Prior to commencing Services under the Contract, and 
+annually thereafter, the Contractor shall provide the Commonwealth with a copy 
+of each current certificate of insurance required by this section. These certificates 
+shall contain a provision that coverages afforded under the policies will not be 
+canceled or changed in such a way to cause the coverage to fail to comply with 
+the requirements of this section until at least 15 days’ prior written notice has 
+been given to the Commonwealth. Such cancellation or change shall not relieve 
+the Contractor of its continuing obligation to maintain insurance coverage in 
+accordance with this section. 
+d. Insurance coverage length. The Contractor agrees to maintain such insurance for 
+the latter of the life of the Contract, or the life of any Purchase Orders issued 
+under the Contract. 
+ 
+ 
+35. CONTRACTOR RESPONSIBILITY. 
+a. Definition. For the purpose of these provisions, the term “Contractor” means as 
+any person, including, but not limited to, a bidder, offeror, loan recipient, grantee 
+or lessor, who has furnished or performed or seeks to furnish or perform, goods, 
+supplies, services, leased space, construction or other activity, under a contract, 
+grant, lease, purchase order or reimbursement agreement with the 
+Commonwealth. The term also includes a permittee, licensee, or any agency, 
+political subdivision, instrumentality, public authority, or other public entity in the 
+Commonwealth. 
+b. Contractor Representations. 
+The Contractor represents for itself and its subcontractors required to be 
+disclosed or approved by the Commonwealth, that as of the date of its 
+execution of this contract, that neither the Contractor, nor any such 
+subcontractors, are under suspension or debarment by the Commonwealth 
+or any governmental entity, instrumentality, or authority and, if the 
+Contractor cannot make this representation, the Contractor shall submit, 
+along with its contract, a written explanation of why such certification 
+cannot be made. 
+
+Page 30 of 61 
+ 
+ 
+The Contractor represents that as of the date of its execution of this 
+contract it has no tax liabilities or other Commonwealth obligations, or has 
+filed a timely administrative or judicial appeal if such liabilities or 
+obligations exist, or is subject to a duly approved deferred payment plan if 
+such liabilities exist. 
+ 
+c. Notification. The Contractor shall notify the Commonwealth if, at any time during 
+the term of this contract, it becomes delinquent in the payment of taxes, or other 
+Commonwealth obligations, or if it or, to the best of its knowledge, any of its 
+subcontractors are suspended or debarred by the Commonwealth, the federal 
+government, or any other state or governmental entity. The Contractor shall 
+provide this notification within 15 days of the date of suspension or debarment. 
+ 
+d. Default. The Contractor’s failure to notify the Commonwealth of its suspension or 
+debarment by the Commonwealth, any other state, or the federal government 
+constitutes an event of default of the contract with the Commonwealth. 
+ 
+e. Reimbursement. The Contractor shall reimburse the Commonwealth for the 
+reasonable costs of investigation incurred by the Office of State Inspector General 
+for investigations of the Contractor's compliance with the terms of this contract or 
+any other agreement between the Contractor and the Commonwealth that results 
+in the suspension or debarment of the Contractor. These costs include, but are not 
+limited to, salaries of investigators, including overtime; travel and lodging 
+expenses; and expert witness and documentary fees. The Contractor shall not be 
+responsible for investigative costs for investigations that do not result in the 
+Contractor's suspension or debarment. 
+ 
+e. Suspension and Debarment List. The Contractor may obtain a current list of 
+suspended and debarred Commonwealth contractors by visiting the eMarketplace 
+website at http://www.emarketplace.state.pa.us and clicking the Debarment list tab. 
+ 
+36. OFFSET PROVISION FOR COMMONWEALTH CONTRACTS. 
+The Commonwealth may set off the amount of any state tax liability or other obligation 
+of the Contractor, or its subsidiaries, owed to the Commonwealth against any payments 
+due the Contractor under any contract between the Commonwealth and Contractor. 
+ 
+ 
+37. TAXES-FEDERAL, STATE AND LOCAL. 
+The Commonwealth is exempt from all excise taxes imposed by the Internal Revenue 
+Service and has accordingly registered with the Internal Revenue Service to make tax- 
+free purchases under registration No. 23-7400001-K. With the exception of purchases of 
+
+Page 31 of 61 
+ 
+ 
+the following items, no exemption certificates are required and none will be issued: 
+undyed diesel fuel, tires, trucks, gas-guzzler emergency vehicles, and sports fishing 
+equipment. The Commonwealth is also exempt from Pennsylvania sales tax, local sales 
+tax, public transportation assistance taxes, and fees and vehicle rental tax. The 
+Department of Revenue regulations provide that exemption certificates are not required 
+for sales made to governmental entities and none will be issued. Nothing in this section 
+is meant to exempt a construction contractor from the payment of any of these taxes or 
+fees which are required to be paid with respect to the purchase, use, rental or lease of 
+tangible personal property or taxable services used or transferred in connection with the 
+performance of a construction contract. 
+ 
+ 
+38. LIMITATION OF LIABILITY. 
+a. General. The Contractor’s liability to the Commonwealth under this Contract 
+shall be limited to the value of all the purchase order(s) against the Contract 
+(including any amendments from any Agency). This limitation will apply, except 
+as otherwise stated in this section, regardless of the form of action, whether in 
+contract or in tort, including negligence. This limitation does not, however, apply 
+to any damages: 
+for bodily injury; 
+for death; 
+ for gross negligence or intentional or willful misconduct; 
+ for damage to real property or tangible personal property for which the 
+Contractor is legally liable; 
+under Section 42, Patent, Copyright, Trademark and Trade Secret 
+Protection; 
+ under Section 33, Data Breach or Loss; or 
+ under Section 41, Virus, Malicious, Mischievous or Destructive 
+Programming. 
+b. The Contractor will not be liable for consequential or incidental damages, except 
+for damages as set forth in paragraphs (a)(i)—(vii) above, or as otherwise 
+specified in the Contract. 
+ 
+ 
+39. INDEMNIFICATION. 
+a. Contractor Obligations. The Contractor shall indemnify the Commonwealth 
+against all third-party claims, suits, demands, losses, damages, costs, and 
+expenses, including without limitation, litigation expenses, attorneys' fees, and 
+
+Page 32 of 61 
+ 
+ 
+liabilities, arising out of or in connection with any activities performed by the 
+Contractor or its employees and agents that are related to this contract, as 
+determined by the Commonwealth in its sole discretion. 
+b. Commonwealth Attorneys Act. The Commonwealth shall provide the Contractor 
+with prompt notice of any claim or suit of which it learns. Pursuant to the 
+Commonwealth Attorneys Act (71 P.S. Section 732-101, et seq.), the Office of 
+Attorney General (OAG) has the sole authority to represent the Commonwealth in 
+actions brought against the Commonwealth. The OAG may, however, in its sole 
+discretion and under any terms as it deems appropriate, delegate its right of 
+defense. If OAG delegates the defense to the Contractor, the Commonwealth will 
+cooperate with all reasonable requests of Contractor made in the defense of such 
+suits. 
+c. Settlement. Notwithstanding the above, neither party may enter into a settlement 
+of any claim or suit without the other party's written consent, which will not be 
+unreasonably withheld. The Commonwealth may, in its sole discretion, allow the 
+Contractor to control the defense and any related settlement negotiations. 
+ 
+40. SOVEREIGN IMMUNITY. 
+No provision of this Contract may be construed to waive or limit the sovereign immunity 
+of the Commonwealth of Pennsylvania or its governmental sub-units. 
+ 
+ 
+41. VIRUS, MALICIOUS, MISCHIEVOUS OR DESTRUCTIVE PROGRAMMING. 
+a. The Contractor shall be liable for any damages incurred by the Commonwealth if 
+the Contractor or any of its employees, subcontractors or consultants introduces a 
+virus or malicious, mischievous or destructive programming into the 
+Commonwealth’s software or computer networks and has failed to comply with 
+the Commonwealth software security standards. The Commonwealth must 
+demonstrate that the Contractor or any of its employees, subcontractors or 
+consultants introduced the virus or malicious, mischievous or destructive 
+programming. The Contractor’s liability shall cease if the Commonwealth has not 
+fully complied with its own software security standards. 
+b. The Contractor shall be liable for any damages incurred by the Commonwealth 
+including, but not limited to, the expenditure of Commonwealth funds to 
+eliminate or remove a computer virus or malicious, mischievous or destructive 
+programming that results from the Contractor’s failure to take proactive measures 
+to keep virus or malicious, mischievous or destructive programming from 
+originating from the Contractor or any of its employees, subcontractors or 
+consultants through appropriate firewalls and maintenance of anti-virus software 
+and software security updates (such as operating systems security patches, etc.). 
+Page 33 of 61 
+ 
+ 
+c. In the event of destruction or modification of Software, the Contractor shall use 
+commercially reasonable methods in an effort to eliminate the virus, malicious, 
+mischievous or destructive programming, restore the Commonwealth’s software, 
+and be liable to the Commonwealth for any resulting damages. 
+d. The Contractor shall be responsible for reviewing Commonwealth software 
+security standards and complying with those standards. 
+e. The Commonwealth may, at any time, audit, by a means deemed appropriate by 
+the Commonwealth, any computing devices being used by representatives of the 
+Contractor to provide Services to the Commonwealth for the sole purpose of 
+determining whether those devices have anti-virus software with current virus 
+signature files and the current minimum operating system patches or workarounds 
+have been installed. Devices found to be out of compliance will immediately be 
+disconnected and will not be permitted to connect or reconnect to the 
+Commonwealth network until the proper installations have been made. 
+f. The Contractor may use the anti-virus software used by the Commonwealth to 
+protect Contractor’s computing devices used in the course of providing services to 
+the Commonwealth. It is understood that the Contractor may not install the 
+software on any computing device not being used to provide services to the 
+Commonwealth, and that all copies of the software will be removed from all 
+devices upon termination of this Contract. 
+g. The Commonwealth will not be responsible for any damages to the Contractor’s 
+computers, data, software, etc. caused as a result of the installation of the 
+Commonwealth’s anti-virus software or monitoring software on the Contractor’s 
+computers. 
+ 
+ 
+42. PATENT, COPYRIGHT, TRADEMARK AND TRADE SECRET PROTECTION. 
+a. The Contractor shall hold the Commonwealth harmless from any suit or 
+proceeding which may be brought by a third party against the Commonwealth, 
+its departments, officers or employees for the alleged infringement of any 
+United States or foreign patents, copyrights, trademarks or trade dress, or for a 
+misappropriation of trade secrets arising out of performance of this Contract, 
+including all work, services, materials, reports, studies, and computer programs 
+provided by the Contractor, and in any such suit or proceeding will satisfy any 
+final award for such infringement, including costs. The Commonwealth agrees 
+to give Contractor prompt notice of any such claim of which it learns. Pursuant 
+to the Commonwealth Attorneys Act, Act of October 15, 1980, P.L. 950, No. 
+164, as amended, 71 P.S. § 732-101—732-506, the Office of Attorney General 
+(OAG) has the sole authority to represent the Commonwealth in actions brought 
+against the Commonwealth. The OAG, however, in its sole discretion and under 
+the 
+Page 34 of 61 
+ 
+ 
+terms it deems appropriate, may delegate its right of defense. If OAG delegates 
+the defense to the Contractor, the Commonwealth will cooperate with all 
+reasonable requests of Contractor made in the defense of such suits. No 
+settlement that prevents the Commonwealth from continuing to use the Developed 
+Works as provided herein shall be made without the Commonwealth’s prior 
+written consent. In all events, the Commonwealth shall have the right to 
+participate in the defense of any such suit or proceeding through counsel of its 
+own choosing. It is expressly agreed by the Contractor that, in the event it 
+requests that the Commonwealth provide support to the Contractor in defending 
+any such claim, the Contractor shall reimburse the Commonwealth for all 
+expenses (including attorneys’ fees, if such are made necessary by the 
+Contractor’s request) incurred by the Commonwealth for such support. If OAG 
+does not delegate the defense of the matter, the Contractor’s obligation to 
+indemnify ceases. The Contractor, at its expense, will provide whatever 
+cooperation OAG requests in the defense of the suit. 
+b. The Contractor agrees to exercise reasonable due diligence to prevent claims of 
+infringement on the rights of third parties. The Contractor certifies that, in all 
+respects applicable to this Contract, it has exercised and will continue to exercise 
+due diligence to ensure that all works produced under this Contract do not 
+infringe on the patents, copyrights, trademarks, trade dress, trade secrets or other 
+proprietary interests of any kind which may be held by third parties. The 
+Contractor also agrees to certify that work produced for the Commonwealth under 
+this contract shall be free and clear from all claims of any nature. 
+c. If the defense of the suit is delegated to the Contractor, the Contractor shall pay 
+all damages and costs awarded therein against the Commonwealth. If information 
+and assistance are furnished by the Commonwealth at the Contractor’s written 
+request, it shall be at the Contractor’s expense, but the responsibility for such 
+expense shall be only that within the Contractor’s written authorization. 
+d. If, in the Contractor’s opinion, the products, materials, reports, studies, or 
+computer programs furnished hereunder are likely to or do become subject to a 
+claim of infringement of a United States patent, copyright, trademark or trade 
+dress, or for a misappropriation of trade secret, then without diminishing the 
+Contractor’s obligation to satisfy any final award, the Contractor may, at its 
+option and expense: 
+substitute functional equivalents for the alleged infringing products, 
+materials, reports, studies, or computer programs; or 
+obtain the rights for the Commonwealth to continue the use of such 
+products, materials, reports, studies, or computer programs. 
+
+Page 35 of 61 
+ 
+ 
+e. If any of the products, materials, reports, studies, or computer programs provided 
+by the Contractor are in such suit or proceeding held to constitute infringement 
+and the use or publication thereof is enjoined, the Contractor shall, at its own 
+expense and at its option, either procure the right to publish or continue use of 
+such infringing products, materials, reports, studies, or computer programs, 
+replace them with non-infringing items, or modify them so that they are no longer 
+infringing. 
+f. If the Contractor is unable to do any of the preceding, the Contractor agrees to pay 
+the Commonwealth: 
+any amounts paid by the Commonwealth less a reasonable amount based 
+on the acceptance and use of the deliverable; 
+any license fee less an amount for the period of usage of any software; and 
+ the prorated portion of any service fees representing the time remaining in 
+any period of service for which payment was made. 
+g. Notwithstanding the above, the Contractor shall have no obligation for: 
+modification of any product, service, or deliverable provided by the 
+Commonwealth; 
+any material provided by the Commonwealth to the Contractor and 
+incorporated into, or used to prepare, a product, service, or deliverable; 
+ use of the product, service, or deliverable in other than its specified 
+operating environment; 
+ the combination, operation, or use of the product, service, or deliverable 
+with other products, services, or deliverables not provided by the 
+Contractor as a system or the combination, operation, or use of the 
+product, service, or deliverable, with any products, data, or apparatus that 
+the Contractor did not provide; 
+infringement of a non-Contractor product alone; 
+ the Commonwealth’s distribution, marketing or use beyond the scope 
+contemplated by the Contract; or 
+ the Commonwealth’s failure to use corrections or enhancements made 
+available to the Commonwealth by the Contractor at no charge. 
+h. The obligation to indemnify the Commonwealth, under the terms of this section, 
+shall be the Contractor’s sole and exclusive obligation for the infringement or 
+misappropriation of intellectual property. 
+
+Page 36 of 61 
+ 
+ 
+43. CONTRACT CONSTRUCTION. 
+The provisions of this Contract shall be construed in accordance with the provisions of all 
+applicable laws and regulations of the Commonwealth. However, by executing this 
+Contract, the Contractor agrees that it has and will continue to abide by the intellectual 
+property laws and regulations of the United States of America. 
+ 
+ 
+44. USE OF CONTRACTOR AND THIRD PARTY PROPERTY. 
+a. Definitions. 
+“Contractor Property” refers to Contractor-owned tangible and intangible 
+property. 
+“Third Party” refers to a party that licenses its property to Contractor for 
+use under this Contract. 
+ “Third Party Property” refers to property licensed by the Contractor for 
+use in its work under this Contract. 
+b. Contractor Property shall remain the sole and exclusive property of the 
+Contractor. Third Party Property shall remain the sole and exclusive property of 
+the Third Party. The Commonwealth acquires rights to the Contractor Property 
+and Third Party Property as set forth in this Contract. 
+c. Where the Contractor Property is integrated into the Supplies or Services which 
+are not Developed Works), or the Contractor Property is otherwise necessary for 
+the Commonwealth to attain the full benefit of the Supplies or Services in 
+accordance with the terms of the Contract, the Contractor hereby grants to the 
+Commonwealth a non-exclusive, fully-paid up, worldwide license to use the 
+Contractor Property as necessary to meet the requirements of the Contract, 
+including the rights to reproduce, distribute, publicly perform, display and create 
+derivative works of the Contractor Property. These rights do not give the 
+Commonwealth rights for resale of the license. These rights are granted in 
+perpetuity. If the Contractor requires a separate license agreement, such license 
+terms shall include the aforementioned rights, be acceptable to the 
+Commonwealth and will be separately negotiated and executed between the 
+Commonwealth and the Contractor. 
+If Third Party Property is integrated into the Supplies or Services which 
+are not Developed Works, or the Third Party Property is otherwise 
+necessary for the Commonwealth to attain the full benefit of the Supplies 
+or Services in accordance with the terms of the Contract, the Contractor 
+shall gain the written approval of the Commonwealth prior to the use of 
+the Third Party Property or the integration of the Third Party Property into 
+
+Page 37 of 61 
+ 
+ 
+the Supplies or Services. Third Party Property approved by the 
+Commonwealth is hereby licensed to the Commonwealth as necessary to 
+meet the Contract requirements. 
+If the Third Party requires a separate license agreement, the license terms 
+shall be acceptable to the Commonwealth and will be separately 
+negotiated and executed between the Commonwealth and the Third Party. 
+ If the use or integration of the Third Party Property is not approved in 
+writing under this section, the Third Party Property shall be deemed to be 
+licensed under paragraph (b)(i) above. 
+ If the Contract expires or is terminated for default pursuant to subsection 
+28(c) before the Contract requirements are complete, all rights are granted 
+for a duration and for purposes necessary to facilitate Commonwealth’s or 
+a Commonwealth-approved vendor’s completion of the Supplies, Services 
+or Developed Works under this Contract. The Contractor, in the form 
+used by Contractor in connection with the Supplies, Services, or 
+Developed Works, shall deliver to Commonwealth the object code version 
+of such Contractor Property, the Third Party Property and associated 
+licenses immediately prior to such expiration or termination to allow the 
+Commonwealth to complete such work. 
+Where third party users are reasonably anticipated by the Contract, all 
+users are granted the right to access and use Contractor Property for the 
+purposes of and within the scope indicated in the Contract. 
+d. The Commonwealth will limit its agents and contractors’ use and disclosure of the 
+Contractor Property as necessary to perform work on behalf of the 
+Commonwealth. 
+e. The parties agree that the Commonwealth, by acknowledging the Contractor 
+Property, does not agree to any terms and conditions of the Contractor Property 
+agreements that are inconsistent with or supplemental to this Contract. 
+f. Reports. When a report is provided under this Contract, but was not developed 
+specifically for the Commonwealth under this Contract, the ownership of the 
+report will remain with the Contractor; provided, however, that the 
+Commonwealth has the right to use, copy and distribute the report within the 
+executive agencies of the Commonwealth. 
+ 
+ 
+45. USE OF COMMONWEALTH PROPERTY. 
+“Commonwealth Property” refers to Commonwealth-owned Software, Data and property 
+(including intellectual property) and third party owned Software and property (including 
+intellectual property) licensed to the Commonwealth. 
+
+Page 38 of 61 
+ 
+ 
+a. Confidentiality of Commonwealth Property. All Commonwealth Property provided 
+to the Contractor pursuant to this Contract or collected or generated by the 
+Contractor on behalf of the Commonwealth pursuant to this Contract shall be 
+considered confidential information under Section 31, Confidentiality, Privacy, 
+and Compliance. 
+b. License grant and restrictions. During the term of this Contract, Commonwealth 
+grants to Contractor and its subcontractors for the limited purpose of providing 
+the Services covered under this Contract, a limited, nonexclusive, nontransferable, 
+royalty-free right (subject to the terms of any third party agreement to which the 
+Commonwealth is a party) to access, use, reproduce, and modify Commonwealth 
+Property in accordance with the terms of the Contract. The Commonwealth’s 
+license to Contractor is limited by the terms of this Contract. 
+The Contractor hereby assigns to the Commonwealth its rights, if any, in 
+any derivative works resulting from Contractor’s modification of the 
+Commonwealth Intellectual Property. Contractor agrees to execute any 
+documents required to evidence this assignment and to waive any moral 
+rights and rights of attribution provided for in Section 106A of Title 17 of 
+the United States Code, the Copyright Act of 1976, as amended. 
+Neither Contractor nor any of its subcontractors may decompile or reverse 
+engineer, or attempt to decompile or reverse engineer, any of the 
+Commonwealth Intellectual Property. Commonwealth hereby represents 
+that it has the authority to provide the license grant and rights set forth in 
+this section. 
+c. Reservation of rights. All rights not expressly granted here to Contractor are 
+reserved by the Commonwealth. 
+d. Termination of Commonwealth license grant. 
+Rights Cease. Upon the expiration or termination for any reason of 
+Contractor’s obligation to provide the Services under this Contract, all 
+rights granted to Contractor under this section shall immediately cease. 
+Return Commonwealth Property. Contractor shall, at no cost to 
+Commonwealth, deliver to Commonwealth all of the Commonwealth 
+Intellectual Property (including any related source code then in 
+Contractor’s possession or under its control) in the form in use as of the 
+Effective Date of such expiration or termination (except that 
+Commonwealth Data shall be turned over in a form acceptable to the 
+Commonwealth). 
+ List of utilized Commonwealth Property/Destruction. Within 15 days 
+after termination, Contractor shall provide the Commonwealth with a 
+current copy of the list of Commonwealth Intellectual Property in use as of 
+
+Page 39 of 61 
+ 
+ 
+the date of such expiration or termination. Concurrently therewith, 
+Contractor shall destroy or erase all other copies of any of the 
+Commonwealth Software then in Contractor’s possession or under its 
+control unless otherwise instructed by Commonwealth, in writing; 
+provided, however, that Contractor may retain one archival copy of such 
+Commonwealth Software, until final resolution of any actively asserted 
+pending disputes between the Parties, such retention being for the sole 
+purpose of resolving such disputes. 
+e. Effect of license grant termination. Consistent with the provisions of this section, 
+Contractor shall refrain from manufacturing, copying, marketing, distributing or 
+using any Commonwealth Software or any other work which incorporates the 
+Commonwealth Software. 
+f. Commonwealth Property Protection. 
+Contractor acknowledges Commonwealth’s exclusive right, title and 
+interest, including without limitation copyright and trademark rights, in 
+and to Commonwealth Data, Commonwealth Software and the Developed 
+Works developed under the provisions of this Contract, and Contractor 
+shall not, directly or indirectly, do or cause to be done any act or thing 
+contesting or in any way impairing or tending to impair any part of said 
+right, title, and interest, and shall not use or disclose the Commonwealth 
+Data, Commonwealth Software or the Developed Works without 
+Commonwealth’s written consent, which consent may be withheld by the 
+Commonwealth for any reason. 
+Contractor shall not, in any manner, represent that Contractor has any 
+ownership interest in the Commonwealth Data, Commonwealth Software 
+or the Developed Works. 
+ 
+ 
+46. OWNERSHIP OF DEVELOPED WORKS. 
+Unless otherwise specified in the Contract, including the Solicitation, ownership of all 
+Developed Works shall be in accordance with the provisions set forth in this section. 
+a. Rules for usage for Developed Works. 
+Property of Contractor. If Developed Works modify, improve, contain, or 
+enhance application software programs or other materials generally 
+licensed by the Contractor, then such Developed Works shall be the 
+property of the Contractor, and Contractor hereby grants Commonwealth 
+an irrevocable, nonexclusive, worldwide, fully paid-up license (to include 
+source code and relevant documentation) in perpetuity to use, modify, 
+
+Page 40 of 61 
+ 
+ 
+execute, reproduce, display, perform, prepare derivative works from and 
+distribute, within the Commonwealth, such Developed Works. 
+(1) For purposes of distribution under the license grant created by this 
+section, Commonwealth includes any government agency, 
+department, instrumentality, division, unit or other office that is 
+part of the Commonwealth of Pennsylvania, together with the State 
+System of Higher Education (including any of its universities), any 
+county, borough, commonwealth, city, municipality, town, 
+township special purpose district, or other similar type of 
+governmental instrumentality located within the geographical 
+boundaries of the Commonwealth of Pennsylvania. 
+(2) If federal funds are used in creation of the Developed Works, the 
+Commonwealth also includes any other state government as well 
+as the federal government. 
+Property of Commonwealth/licensor. If the Developed Works modify, 
+improve or enhance application software or other materials not licensed to 
+the Commonwealth by the Contractor, then such modifications, 
+improvements and enhancements shall be the property of the 
+Commonwealth or its licensor. 
+b. Copyright Ownership. 
+Works made for hire; general. Except as indicated in paragraph (a)(i), 
+above, Developed Works developed as part of the scope of work for the 
+Project, including Developed Works developed by subcontractors, are the 
+sole and exclusive property of the Commonwealth and shall be considered 
+“works made for hire” under the Copyright Act of 1976, as amended, 17 
+United States Code. 
+Assignment. In the event that the Developed Works do not fall within the 
+specifically enumerated works that constitute works made for hire under 
+the United States copyright laws, Contractor agrees to assign and, upon 
+their authorship or creation, expressly and automatically assigns, all 
+copyright interests, proprietary rights, trade secrets, and other right, title, 
+and interest in and to such Developed Works to Commonwealth. 
+Contractor further agrees that it will have its subcontractors assign, and 
+upon their authorship or creation, expressly and automatically assigns all 
+copyright interest, proprietary rights, trade secrets, and other right, title, 
+and interest in and to the Developed Works to the Commonwealth. 
+ Rights to Commonwealth. Commonwealth shall have all rights accorded 
+an owner of copyright under the United States copyright laws including, 
+but not limited to, the exclusive right to reproduce the Developed Works 
+
+Page 41 of 61 
+ 
+ 
+in multiple copies, the right to distribute copies by sales or other transfers, 
+the right to register all copyrights in its own name as author in the United 
+States and in foreign countries, the right to prepare derivative works based 
+upon the Developed Works and the right to display the Developed Works. 
+ Subcontracts. The Contractor further agrees that it will include the 
+requirements of this section in any subcontractor or other agreement with 
+third parties who in any way participate in the creation or development of 
+Developed Works. 
+Completion or termination of Contract. Upon completion or termination 
+of this Contract, Developed Works, or completed portions thereof, shall 
+immediately be delivered by Contractor to the Commonwealth. 
+ Warranty of noninfringement. Contractor represents and warrants that the 
+Developed Works are original and do not infringe any copyright, patent, 
+trademark, or other intellectual property right of any third party and are in 
+conformance with the intellectual property laws and regulations of the 
+United States. 
+c. Patent ownership. Contractor and its subcontractors shall retain ownership to 
+patentable items, patents, processes, inventions or discoveries (collectively, the 
+Patentable Items) made by the Contractor during the performance of this Contract. 
+Notwithstanding the foregoing, the Commonwealth shall be granted a 
+nonexclusive, nontransferable, royalty free license to use or practice the 
+Patentable Items. Commonwealth may disclose to third parties any such 
+Patentable Items made by Contractor or any of its subcontractors under the scope 
+of work for the Project that have been previously publicly disclosed. 
+Commonwealth understands and agrees that any third party disclosure will not 
+confer any license to such Patentable Items. 
+d. Federal government interests. Certain funding under this Contract may be 
+provided by the federal government. Accordingly, the rights to Developed Works 
+or Patentable Items of Contractors or subcontractors hereunder will be further 
+subject to government rights as set forth in 37 C.F.R. Part 401, as amended, and 
+other applicable law or regulations. 
+e. Usage rights. Except as otherwise covered by this section either Party, in the 
+ordinary course of conducting business, may use any ideas, concepts, know-how, 
+methodologies, processes, components, technologies, algorithms, designs, 
+modules or techniques relating to the Services. The Contractor must perform 
+duties under the Contract in accordance with Commonwealth license agreement 
+with the platform vendor. 
+f. Contractor’s copyright notice obligations. Contractor will affix the following 
+Copyright Notice to the Developed Works developed under this section and all 
+
+Page 42 of 61 
+ 
+ 
+accompanying documentation: “Copyright © [year] by the Commonwealth of 
+Pennsylvania. All Rights Reserved.” This notice shall appear on all versions of 
+the Developed Works delivered under this Contract and any associated 
+documentation. It shall also be programmed into any and all Developed Works 
+delivered hereunder so that it appears at the beginning of all visual displays of 
+such Developed Works. 
+ 
+ 
+47. SOURCE CODE AND ESCROW ITEMS OBLIGATIONS. 
+Source code. Simultaneously with delivery of the Developed Works to Commonwealth, 
+Contractor shall deliver a true, accurate and complete copy of all source codes relating to 
+the Developed Works. 
+ 
+ 
+48. CONTRACTOR HOSTED SECURITY, LOCATION, STATUS AND DISPOSITION 
+OF DATA. 
+a. The ITQ contractor will perform services and not be a hosting vendor of system(s), 
+Section 33 applies to the services provided under the ITQ contract and any data the 
+contractor has access. 
+Unless the Solicitation specifies otherwise: 
+All Data must be stored within the United States; 
+The Contractor shall be responsible for maintaining the privacy, security 
+and integrity of Data in the Contractor’s or its subcontractors’ possession; 
+ All Data shall be provided to the Commonwealth upon request, in a form 
+acceptable to the Commonwealth and at no cost; 
+b. Any Data shall be securely disposed of by the Contractor at the Commonwealth’s 
+request subject to this Contract. Notwithstanding the foregoing; Contractor may 
+retain a copy of information received, developed, or otherwise relating to this 
+Contract in order to comply with its contractual obligations and applicable 
+professional standards. Information stored on routine back-up media for the 
+purpose of disaster recovery will be subject to destruction in due course. Latent 
+data such as deleted files and other non-logical data types, such as memory 
+dumps, swap files, temporary files, printer spool files, and metadata that can 
+customarily only be retrieved by computer forensics experts and are generally 
+considered inaccessible without the use of specialized tools and techniques will 
+not be within the requirement for the return or destruction of records 
+contemplated by this paragraph; 
+
+Page 43 of 61 
+ 
+ 
+Any Data shall be held for litigation or public records purposes by the 
+Contractor at the Commonwealth’s request, and in accordance with the 
+security, privacy and accessibility requirements of this Contract; and 
+The Contractor shall comply with the provisions set forth in Exhibit B, 
+Requirements for Non-Commonwealth Hosted Applications/Services. 
+ 
+ 
+49. PUBLICATION RIGHTS AND/OR COPYRIGHTS. 
+a. Except as otherwise provided in Section 46, Ownership of Developed Works, 
+the Contractor shall not publish any of the results of the work without the written 
+permission of the Commonwealth. The publication shall include the following 
+statement: “The opinions, findings, and conclusions expressed in this publication 
+are those of the author and not necessarily those of the Commonwealth of 
+Pennsylvania.” The Contractor shall not include in the documentation any 
+copyrighted matter, unless the Contractor provides the Commonwealth with 
+written permission of the copyright owner. 
+b. Except as otherwise provided in the Contract, the Commonwealth shall have 
+unrestricted authority to reproduce, distribute, and use any submitted report or 
+data designed or developed and delivered to the Commonwealth as part of the 
+performance of the Contract. 
+ 
+ 
+50. CHANGE IN CONTRACTOR’S OWNERSHIP. 
+a. In the event that the Contractor should change ownership, the Commonwealth 
+shall have the exclusive option of: 
+continuing under the terms and conditions of this Contract with the 
+Contractor or its successors or assigns for the full remaining term of this 
+Contract; 
+continuing under the terms and conditions of this Contract with the 
+Contractor or its successors or assigns for such period of time as is 
+necessary to replace the products, materials, reports, studies, or computer 
+programs; or 
+ immediately terminating this Contract. 
+ 
+ 
+51. OFFICIALS NOT TO BENEFIT. 
+No official or employee of the Commonwealth and no member of its General Assembly 
+who exercises any functions or responsibilities under this Contract shall participate in any 
+decision relating to this Contract which affects their personal interest or the interest of 
+
+Page 44 of 61 
+ 
+ 
+any corporation, partnership, or association in which they are, directly or indirectly, 
+interested; nor shall any such official or employee of the Commonwealth or member of 
+its General Assembly have any interest, direct or indirect, in this Contract or the proceeds 
+thereof. 
+ 
+ 
+52. COMPLIANCE WITH LAWS. 
+a. The Contractor shall comply with all federal, state and local laws, regulations and 
+policies applicable to its Services or Supplies, including, but not limited to, all 
+statutes, regulations and rules that are in effect as of the Effective Date of the 
+Contract and shall procure at its expense all licenses and all permits necessary for 
+the fulfillment of its obligation. 
+b. If any existing law, regulation or policy is changed or if any new law, regulation 
+or policy is enacted that affects the Services or Supplies provided under this 
+Contract, the Parties shall modify this Contract, via Section 27, Changes, to the 
+extent reasonably necessary to: 
+Ensure that such Services or Supplies will be in full compliance with such 
+laws, regulations and policies; and 
+Modify the rates applicable to such Services or Supplies, unless otherwise 
+indicated in the Solicitation. 
+ 
+ 
+53. AMERICANS WITH DISABILITIES ACT. 
+a. No Exclusion. Pursuant to the Americans with Disabilities Act, 42 U.S. Code § 
+12101, et seq., no qualified individual with a disability may, on the basis of the 
+disability, be excluded from participation in this contract or from activities 
+provided for under this contract. 
+b. Compliance. For all goods and services provided pursuant to this contract, the 
+Contractor shall comply with Title II of the Americans with Disabilities Act, the 
+"General Prohibitions Against Discrimination” set forth in 28 C. F. R. § 35.130, 
+and all other regulations promulgated under Title II of the Americans with 
+Disabilities Act that apply to state and local governments. 
+ 
+c. Indemnification. The Contractor shall indemnify the Commonwealth against all 
+third-party claims, suits, demands, losses, damages, costs, and expenses, including 
+without limitation, litigation expenses, attorneys' fees, and liabilities, arising out 
+of or in connection with the Contractor's failure or its employee’s or agent’s 
+failure to comply with the provisions of paragraph a, as determined by the 
+Commonwealth in its sole discretion. 
+
+Page 45 of 61 
+ 
+ 
+54. EXAMINATION OF RECORDS. 
+a. The Contractor agrees to maintain, using its standard procedures, and in 
+accordance with Generally Accepted Accounting Principles, books, records, 
+documents, and other evidence pertaining to the charges under this Contract to the 
+extent and in such detail as will properly reflect all charges for which 
+reimbursement is claimed under the provisions of this Contract. 
+b. The Contractor agrees to make available at the office of the Contractor at all 
+reasonable times, and upon reasonable written notice, during the term of this 
+Contract and the period set forth in subsection (c) below, any of the records for 
+inspection, audit, or reproduction by any authorized Commonwealth 
+representative. To the extent allowed by applicable laws or regulations, the 
+Commonwealth agrees to maintain any documents so provided in accordance with 
+the confidentiality provisions in Section 31, Confidentiality, Privacy and 
+Compliance. 
+c. The Contractor shall preserve and make available its records for a period of three 
+(3) years from the date of final payment under this Contract. 
+If this Contract is completely or partially  terminated, the records relating 
+to the work terminated shall be preserved and made available for a period 
+of three (3) years from the date of any resulting final settlement. 
+Non-privileged records which relate to litigation or the settlement of 
+claims arising out of the performance of this Contract, or charges under 
+this Contract as to which exception has been taken by the auditors, shall be 
+retained by the Contractor until such litigation, claims, or exceptions have 
+been finally resolved. 
+d. Except for documentary evidence retained pursuant to paragraph (c)(ii) above, the 
+Contractor may in fulfillment of its obligation to retain its records as required by 
+this section substitute photographs, microphotographs, or other authentic 
+reproductions of such records, after the expiration of two (2) years following the 
+last day of the month of reimbursement to the Contractor of the invoice or 
+voucher to which such records relate, unless a shorter period is authorized by the 
+Commonwealth with the concurrence of its auditors. 
+e. The provisions of this section shall be applicable to and included in each 
+subcontract hereunder. 
+ 
+ 
+55. SINGLE AUDIT ACT OF 1984. 
+Section 55, is applicable if work performed by the ITQ contractor is performed on a 
+system that is subject to the SINGLE AUDIT ACT OF 1984. 
+
+Page 46 of 61 
+ 
+ 
+In compliance with the Single Audit Act of 1984, as amended, the Contractor agrees to the 
+following: 
+a. This Contract is subject to audit by federal and state agencies or their authorized 
+representative in accordance with the auditing standards promulgated by the 
+Comptroller General of the United States and specified in the most current version 
+of Government Auditing Standards (Yellow Book). 
+b. The audit requirement of this Contract will be satisfied if a single audit is performed 
+under the provisions of the Single Audit Act of 1984, as amended, 31 
+U.S.C. § 7501, et seq., and all rules and regulations promulgated pursuant to the 
+Act. 
+c. The Commonwealth reserves the right for federal and state agencies or their authorized 
+representatives to perform additional audits of a financial/compliance, 
+economy/efficiency, or program results nature, if deemed necessary. 
+d. The Contractor further agrees to comply with requirements that may be issued by 
+the state agency upon receipt of additional guidance received from the federal 
+government regarding the Single Audit Act of 1984, as amended. 
+ 
+ 
+56. AGENCY-SPECIFIC SENSITIVE AND CONFIDENTIAL COMMONWEALTH 
+DATA (IF APPLICABLE). 
+a. Contractor understands that its level of access may allow or require it to view or 
+access highly sensitive and confidential Commonwealth and third party data. 
+This data is subject to various state and federal laws, regulations and policies that 
+vary from agency to agency, and from program to program within an agency. If 
+applicable, prior to deployment of the Supplies or Services, the Contractor must 
+receive and sign off on particular instructions and limitations as dictated by that 
+Commonwealth agency, including but not limited to, as necessary, HIPAA 
+Business Associate Agreements. This sign-off document, a sample of which is 
+attached as Exhibit C, Sample Sign-off Document, will include a description of 
+the nature of the data which may be implicated based on the nature of the 
+Contractor’s access, and will incorporate the Business Associate Agreement if it 
+is applicable. 
+b. The Contractor hereby certifies and warrants that, after being informed by the 
+Commonwealth agency of the nature of the data which may be implicated and 
+prior to the deployment of the Supplies or Services, the Contractor is and shall 
+remain compliant with all applicable state and federal laws, regulations and 
+policies regarding the data’s protection, and with the requirements memorialized 
+in every completed and signed sign-off document. Every sign-off document 
+completed by a Commonwealth agency and signed by at least one signatory 
+Page 47 of 61 
+ 
+ 
+authorized to bind the Contractor is valid and is hereby integrated and 
+incorporated by reference into this Contract. 
+c. This section does not require a Commonwealth agency to exhaustively list the 
+laws, regulations or policies to which implicated data is subject; the 
+Commonwealth agency is obligated only to list the nature of the data implicated 
+by the Contractor’s access, to refer the Contractor to its privacy and security 
+policies, and to specify requirements that are not otherwise inherent in compliance 
+with applicable laws, regulations and policies. 
+d. The requirements of this section are in addition to and not in lieu of other 
+requirements of this Contract, its Exhibits, Appendices and Attachments, having 
+to do with data privacy and security, including but not limited to the requirement 
+that the Contractor comply with all applicable Commonwealth ITPs, which can be 
+found at https://www.oa.pa.gov/Policies/Pages/itp.aspx. 
+e. Contractor shall conduct additional background checks, in addition to those 
+required in Section 29, Background Checks, as may be required by a 
+Commonwealth agency in its sign-off documents. The Contractor shall educate 
+and hold its agents, employees, contractors and subcontractors to standards at 
+least as stringent as those contained in this Contract. The Contractor shall provide 
+information regarding its agents, employees, contractors and subcontractors to the 
+Commonwealth upon request. 
+ 
+ 
+57. FEDERAL REQUIREMENTS. 
+If applicable, the Contractor must receive and sign off on particular federal requirements 
+that a Commonwealth agency may be required to include when utilizing federal funds to 
+procure the Supplies and Services. This sign-off document, in addition to any applicable 
+requirements of Section 56, Agency-Specific Sensitive and Confidential 
+Commonwealth Data, will include a description of the required federal provisions, 
+along with the applicable forms necessary for the Contractor and/or Software Licensor to 
+execute, as necessary. Every sign-off document completed by a Commonwealth agency 
+and signed by at least one signatory authorized to bind the Contractor is valid and is 
+hereby integrated and incorporated by reference into this Contract. A sample sign-off 
+document is attached to these Terms as Exhibit C, Sample Sign-off Document. 
+ 
+ 
+58. ADDITIONAL FEDERAL PROVISIONS. 
+Additional contract provisions may be incorporated into this Contract pursuant to federal 
+law, regulation or policy. 
+Page 48 of 61 
+ 
+ 
+59. ENVIRONMENTAL PROTECTION. 
+In carrying out this Contract, the Contractor shall minimize pollution and shall strictly 
+comply with all applicable environmental laws and regulations, including the Clean 
+Streams Law, Act of June 22, 1937 (P.L. 1987, No. 394), as amended, 35 P.S. §§ 691.1— 
+691.801; the Solid Waste Management Act, Act of July 7, 1980 (P.L. 380, No. 97), as 
+amended, 35 P.S. §§ 6018.101—68.1003; and the Dam Safety and Encroachment Act, 
+Act of November 26, 1978 (P.L. 1375, No. 325), as amended, 32 P.S. §§ 693.1—693.27. 
+ 
+ 
+60. NONDISCRIMINATION/SEXUAL HARASSMENT. 
+a. Representations. The Contractor represents that it is presently in compliance with 
+and will remain in compliance with all applicable federal, state, and local laws, 
+regulations, and policies relating to nondiscrimination and sexual harassment for 
+the term of the contract. The Contractor shall, upon request and within the time 
+periods requested by the Commonwealth, furnish all necessary employment 
+documents and records, including EEO-1 reports, and permit access to its books, 
+records, and accounts by the Commonwealth for the purpose of ascertaining 
+compliance with provisions of this Nondiscrimination/Sexual Harassment Clause. 
+b. Nondiscrimination/Sexual Harassment Obligations. The Contractor shall not: 
+ 
+in any manner discriminate in the hiring of any employee(s) for the 
+manufacture of supplies, performance of work, or any other activity 
+required under this contract or any subcontract, by reason of race, gender, 
+creed, color, sexual orientation, gender identity or expression, or in 
+violation of the Pennsylvania Human Relations Act (“PHRA”) and 
+applicable federal laws, against any citizen of this Commonwealth who is 
+qualified and available to perform the work to which the employment 
+relates. 
+ 
+in any manner discriminate by reason of race, gender, creed, color, sexual 
+orientation, gender identity or expression, or in violation of the PHRA and 
+applicable federal laws, against or intimidate any employee involved in 
+the manufacture of supplies, the performance of work, or any other 
+activity required under this contract. 
+ 
+ in any manner discriminate by reason of race, gender, creed, color, sexual 
+orientation, gender identity or expression, or in violation of the PHRA and 
+applicable federal laws, in the provision of services under this contract. 
+ 
+ in any manner discriminate by reason of race, gender, creed, color, sexual 
+orientation, gender identity or expression, or in violation of PHRA and 
+
+Page 49 of 61 
+ 
+ 
+applicable federal laws, against any subcontractor or supplier who is 
+qualified to perform the work to which this contract relates. 
+ 
+in any manner discriminate against employees by reason of participation 
+in or decision to refrain from participating in labor activities protected 
+under the Public Employee Relations Act, Pennsylvania Labor Relations 
+Act or National Labor Relations Act, as applicable and to the extent 
+determined by entities charged with such Acts’ enforcement and shall 
+comply with any provision of law establishing organizations as 
+employees’ exclusive representatives. 
+ 
+c. Establishment of Contractor Policy. The Contractor shall establish and maintain a 
+written nondiscrimination and sexual harassment policy that complies with the 
+applicable law and these Nondiscrimination/Sexual Harassment provisions and 
+shall inform its employees in writing of the policy. The policy must contain a 
+provision that states that sexual harassment will not be tolerated and employees 
+who practice it will be disciplined. For the entire period of the contract, the 
+Contractor shall: (1) post its written nondiscrimination and sexual harassment 
+policy or these Nondiscrimination/Sexual Harassment provisions conspicuously 
+in easily accessible and well-lighted places customarily frequented by employees 
+at or near where the contracted services are performed; or (2) provide electronic 
+notice of the policy or this clause to its employees not less than annually. 
+ 
+d. Notification of Violations. The Contractor’s obligations pursuant to these 
+provisions are ongoing from the effective date and through the termination date of 
+the contract. Accordingly, the Contractor shall notify the Commonwealth if, at 
+any time during the term of this contract, it becomes aware of any actions or 
+occurrences that would result in violation of these provisions. 
+ 
+e. Cancellation or Termination of Contract. The Commonwealth may cancel or 
+terminate this contract and all money due or to become due under this contract 
+may be forfeited for a violation of the terms and conditions of these 
+Nondiscrimination/Sexual Harassment provisions. In addition, the agency may 
+proceed with debarment or suspension and may place the Contractor in the 
+Contractor Responsibility File. 
+ 
+f. Subcontracts. The Contractor shall include these Nondiscrimination/Sexual 
+Harassment provisions in its contracts with all subcontractors providing goods or 
+services under this contract. The incorporation of these provisions in the 
+Contractor’s subcontracts does not create privity of contract between the 
+Commonwealth and any subcontractor, and no third-party beneficiaries are 
+created by those provisions. If the Contractor becomes aware of a subcontractor’s 
+
+Page 50 of 61 
+ 
+ 
+violation of this clause, the Contractor shall use its best efforts to ensure the 
+subcontractor’s compliance with these provisions. 
+61. CONTRACTOR INTEGRITY. 
+a. Definitions. For purposes of these Contractor Integrity Provisions, the following 
+definitions apply: 
+“Affiliate” means two or more entities where (a) a parent entity owns 
+more than 50% of the voting stock of each of the entities; (b) a common 
+shareholder or group of shareholders owns more than 50% of the voting 
+stock of each of the entities; or (c) the entities have a common proprietor 
+or general partner. 
+ 
+“Contractor” means the individual or entity, that has entered into this 
+contract with the Commonwealth. 
+ 
+ “Contractor Related Parties” means any Affiliates of the Contractor and 
+the Contractor’s executive officers, Pennsylvania officers and directors, or 
+owners of five percent or more interest in the Contractor. 
+ 
+ “Financial Interest” means ownership of more than a five percent interest 
+in any business or holding a position as an officer, director, trustee, 
+partner, employee, or holding any position of management. 
+ 
+“Gratuity” means tendering, giving, or providing anything of more than 
+nominal monetary value including, but not limited to, cash, travel, 
+entertainment, gifts, meals, lodging, loans, subscriptions, advances, 
+deposits of money, services, employment, or contracts of any kind. The 
+exceptions set forth in the Governor’s Code of Conduct, Executive Order 
+1980-18, as may be amended, 4 Pa. Code §7.153(b), apply. 
+ 
+ “Non-bid Basis” means a contract awarded or executed by the 
+Commonwealth with Contractor without seeking bids or proposals from 
+any other potential bidder or offeror. 
+ 
+b. Representations and Warranties. 
+ 
+Contractor Representation and Warranties. The Contractor represents, to 
+the best of its knowledge and belief, and warrants that within the last five 
+years neither the Contractor nor Contractor Related Parties have: 
+
+Page 51 of 61 
+ 
+ 
+c. been indicted or convicted of a crime involving moral turpitude or business honesty 
+or integrity in any jurisdiction; 
+d. been suspended, debarred, or otherwise disqualified from entering into any contract 
+with any governmental agency; 
+e. had any business license or professional license suspended or revoked; 
+f. had any sanction or finding of fact imposed as a result of a judicial or administrative 
+proceeding related to fraud, extortion, bribery, bid rigging, embezzlement, 
+misrepresentation or anti-trust; and 
+g. been, and are not currently, the subject of a criminal investigation by any federal, 
+state or local prosecuting or investigative agency or civil anti-trust investigation by 
+any federal, state, or local prosecuting or investigative agency. 
+ 
+Contractor Explanation. If the Contractor cannot make the representations 
+and warranties set forth above at the time of its submission of its bid or 
+proposal or if this contract is awarded on a non-bid basis at the time of the 
+execution of the contract, the Contractor shall submit a written explanation 
+outlining the reasons why it cannot make those representations and 
+warranties. The Commonwealth may, based on its evaluation of the 
+explanation provided, determine whether it is in the Commonwealth’s best 
+interest to execute the contract. 
+ 
+ Further Representations. By submitting any bills, invoices, or requests for 
+payment pursuant to this contract, the Contractor further represents that it 
+has not violated any of these Contractor Integrity Provisions during the 
+term of the contract. 
+ 
+ Notice. The Contractor shall immediately notify the Commonwealth, in 
+writing, if at any time during the term of the contract it becomes aware of 
+any event that would cause the Contractor's certification or explanation to 
+change. The Contractor acknowledges that the Commonwealth may, in its 
+sole discretion, terminate the contract for cause if it learns that any of the 
+certifications made in these provisions are currently false or misleading 
+due to intervening factual circumstances or were false or misleading or 
+should have been known to be false or misleading when entering into the 
+contract. 
+ 
+c. Contractor Responsibilities. During the term of this contract, the Contractor shall: 
+ 
+maintain the highest standards of honesty and integrity. 
+
+Page 52 of 61 
+ 
+ 
+take no action in violation of any applicable laws, regulations, or other 
+requirements applicable to the Contractor that govern Commonwealth 
+contracting and procurement. 
+ 
+ establish and implement a written business integrity policy that includes, 
+at a minimum, the requirements of these provisions as they relate to the 
+Contractor’s activity with the Commonwealth and Commonwealth 
+employees and ensure that its employees comply with the policy. 
+ 
+ not accept, agree to give, offer, confer, agree to confer, or promise to 
+confer, directly or indirectly, any gratuity or pecuniary benefit to any 
+person, or to influence or attempt to influence any person in violation of 
+any federal or state law, regulation, executive order, statement of policy, 
+management directive, or bulletin applicable to the provision of goods or 
+services under this contract. 
+ 
+not have a financial interest in any other contractor, subcontractor, or 
+supplier providing services, labor, or material under this contract, unless 
+the financial interest is disclosed to the Commonwealth in writing and the 
+Commonwealth consents to Contractor’s financial interest. The Contractor 
+must disclose the financial interest to the Commonwealth at the time of 
+bid or proposal submission, or if no bids or proposals are solicited, no later 
+than the date the Contractor signs the contract. The Commonwealth shall 
+be deemed to have consented if the required disclosure is received and all 
+of the required Commonwealth signatures are affixed. 
+ 
+ comply with the requirements of the Lobbying Disclosure Act (65 Pa.C.S. 
+§13A01 et seq.) regardless of the method of award. 
+ 
+ comply with the requirements of Section 1641 of the Pennsylvania 
+Election Code (25 P.S. §3260a) if this contract was awarded on a Non-bid 
+Basis. 
+ 
+ immediately notify the Commonwealth contracting officer or the Office of 
+the State Inspector General, in writing, when the Contractor has reason to 
+believe that any breach of ethical standards as set forth in law, the 
+Governor’s Code of Conduct, or these Contractor Integrity Provisions has 
+occurred or may occur, including, but not limited to, contact by a 
+Commonwealth officer or employee, which, if acted upon, would violate 
+the ethical standards. 
+ 
+d. Investigations. If a State Inspector General investigation is initiated, the 
+Contractor shall: 
+
+Page 53 of 61 
+ 
+ 
+ 
+reimburse the Commonwealth for the reasonable costs of investigation 
+incurred by the Office of the State Inspector General for investigations of 
+the Contractor’s compliance with the terms of this or any other agreement 
+between the Contractor and the Commonwealth that results in the 
+suspension or debarment of the Contractor. The Contractor shall not be 
+responsible for investigative costs for investigations that do not result in 
+the Contractor’s suspension or debarment. 
+ 
+cooperate with the Office of the State Inspector General in its 
+investigation of any alleged Commonwealth agency or employee breach 
+of ethical standards and any alleged Contractor non-compliance with these 
+Contractor Integrity Provisions and make identified Contractor employees 
+available for interviews at reasonable times and places. 
+ 
+ upon the inquiry or request of an Inspector General, provide, or if 
+appropriate, make promptly available for inspection or copying, any 
+information of any type or form deemed relevant by the Office of the State 
+Inspector General to Contractor's integrity and compliance with these 
+provisions. This information may include, but is not be limited to, 
+Contractor's business or financial records, documents or files of any type 
+or form that refer to or concern this contract. 
+ 
+e. Termination. For violation of any of these Contractor Integrity Provisions, the 
+Commonwealth may terminate this and any other contract with the Contractor, 
+claim liquidated damages in an amount equal to the value of anything received in 
+breach of these Contractor Integrity provisions, claim damages for all additional 
+costs and expenses incurred in obtaining another contractor to complete 
+performance under this contract, and debar and suspend the Contractor from 
+doing business with the Commonwealth. These rights and remedies are 
+cumulative, and the use or non-use of any one does not preclude the use of all or 
+any other. These rights and remedies are in addition to those the Commonwealth 
+may have under law, statute, regulation, or contract. 
+ 
+f. Subcontracts. The Contractor shall include these Contractor Integrity Provisions 
+in its contracts with all subcontractors providing goods or services under this 
+contract. The incorporation of this provision in the Contractor’s subcontracts does 
+not create privity of contract between the Commonwealth and any subcontractor, 
+and no third-party beneficiaries are created by the inclusion of these provisions. If 
+the Contractor becomes aware of a subcontractor’s violation of these provisions, 
+the Contractor shall use its best efforts to ensure the subcontractor’s compliance 
+with these provisions. 
+
+Page 54 of 61 
+ 
+ 
+62. ASSIGNMENT OF RIGHTS UNDER THE ANTITRUST LAWS. 
+The Contractor and the Commonwealth recognize that in actual economic practice, 
+overcharges by Contractor’s suppliers resulting from violations of state and federal 
+antitrust laws are in fact borne by the Commonwealth. As part of the consideration for 
+the award of this Contract, and intending to be legally bound, the Contractor assigns to 
+the Commonwealth all rights, title, and interest in and to any claims Contractor now has 
+or may hereafter acquire under state and federal antitrust laws relating to the goods and 
+services which are subject to this Contract. 
+ 
+ 
+63. WARRANTIES. 
+Except as otherwise set forth in the Contract, the Contractor warrants that the Services, 
+Supplies and Developed Works will conform in all material respects to the functional 
+specifications for the Services, Supplies and Developed Works and/or the requirements of 
+the Contract. The warranty period for the Services, Supplies and Developed Works shall 
+be 90 days from final acceptance. If third-party Services, Supplies or Developed Works 
+are subject to a warranty that exceeds 90 days from final acceptance, the longer warranty 
+period shall apply. The Contractor shall correct any non-conformity within the warranty 
+period specified herein. 
+a. Disruption. The Contractor hereby represents and warrants to the Commonwealth 
+that the Contractor will not cause, or take any action that, directly or indirectly, 
+may cause a disruption of the Commonwealth’s operations. 
+b. Nonconformity. In the event of any nonconformity with the foregoing warranties, 
+the Commonwealth will provide written notification of such nonconformity to the 
+Contractor and the Contractor, at no cost to the Commonwealth, shall within 10 
+days’ notice of the nonconformity, commence work to remedy the nonconformity 
+and shall work diligently, at no charge to the Commonwealth, until such time as 
+the deliverable conforms, in all material respects, to the Service requirements 
+and/or the functional specifications of the Developed Works set forth in this 
+Contract. The Contractor shall have no obligation with respect to 
+nonconformities arising out of: 
+Modifications to Developed Works made by the Commonwealth; 
+Use of the Developed Works not in accordance with the documentation or 
+specifications applicable thereto; 
+ Failure by the Commonwealth to implement any corrections or 
+enhancements made available by the Contractor; 
+ Combination of the Developed Works with any items not supplied or 
+approved by the Contractor; or 
+
+Page 55 of 61 
+ 
+ 
+Failure of any software licensed under a separate license agreement to 
+conform to its specifications or documentation. 
+c. Industry standards. The Contractor hereby represents and warrants to the 
+Commonwealth that the Services shall be performed in accordance with industry 
+standards using the utmost care and skill. 
+d. Right to perform. The Contractor hereby represents and warrants to the 
+Commonwealth that the Contractor has the necessary legal rights, including 
+licenses to third party products, tools or materials, to perform the Services and 
+deliver the Developed Works under this Contract. 
+e. Sole warranties. THE FOREGOING EXPRESS WARRANTIES ARE THE 
+CONTRACTOR’S SOLE AND EXCLUSIVE WARRANTIES AND NO 
+OTHER WARRANTIES, EXPRESS OR IMPLIED, SHALL APPLY, 
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF 
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+ 
+ 
+64. LIQUIDATED DAMAGES. 
+a. By accepting this Contract, the Contractor agrees to the delivery and acceptance 
+requirements of this Contract. If a due date is not met, the delay will interfere 
+with the Commonwealth’s program. In the event of any such delay, it would be 
+impractical and extremely difficult to establish the actual damage for which the 
+Contractor is the material cause. The Commonwealth and the Contractor 
+therefore agree that in the event of any such delay, the amount of damage shall be 
+the amount set forth in this section, unless otherwise indicated in the Contract, 
+and agree that the Contractor shall pay such amount as liquidated damages, not as 
+a penalty. Such liquidated damages are in lieu of all other damages arising from 
+such delay. 
+b. The amount of liquidated damages shall be as set out in the Solicitation. If not 
+amount is set out in the Solicitation, the amount of liquidated damages for failure 
+to meet a due date shall be three-tenths of a percent (.3%) of the price of the 
+deliverable for each calendar day following the scheduled completion date. If the 
+price of the deliverable associated with the missed due date is not identified, 
+liquidated damages shall apply to the total value of the Contract. Liquidated 
+damages shall be assessed each calendar day until the date on which the 
+Contractor meets the requirements for the deliverable associated with the due 
+date, up to a maximum of 30 days. If indicated in the Contract, the Contractor 
+may recoup all or some of the amount of liquidated damages assessed if the 
+Contractor meets the final project completion date set out in the Contract. 
+c. If, at the end of the 30-day period specified in subsection (b) above, the 
+Contractor still has not met the requirements for the deliverable associated with 
+
+Page 56 of 61 
+ 
+ 
+the due date, then the Commonwealth, at no additional expense and at its option, 
+may either: 
+Immediately terminate the Contract in accordance with Subsection 28(c) 
+and with no opportunity to cure; or 
+Order the Contractor to continue with no decrease in effort until the work 
+is completed in accordance with the Contract and accepted by the 
+Commonwealth or until the Commonwealth terminates the Contract. If 
+the Contract is continued, any liquidated damages will also continue until 
+the work is completed. 
+d. At the end of a calendar month, or at such other time(s) as identified in the 
+Contract, liquidated damages shall be paid by the Contractor and collected by the 
+Commonwealth by: 
+Deducting the amount from the invoices submitted under this Contract or 
+any other contract Contractor has with the Commonwealth; 
+Collecting the amount through the performance security, if any; or 
+ Billing the Contractor as a separate item. 
+ 
+65. SERVICE LEVELS. 
+a. The Contractor shall comply with the procedures and requirements of the Service 
+Level Agreements, if any, which are made part of this Contract. 
+b. Where there are expressly defined Service Levels, Contractor shall measure and 
+report its performance against these standards on at least a monthly basis, except 
+as may otherwise be agreed between the parties. Regardless of the presence or 
+absence of expressly defined Service Levels, any failure to adequately or timely 
+perform a Service may result in consequences under this Contract, up to and 
+including Contract termination. 
+c. The Commonwealth’s acceptance of any financial credit incurred by the 
+Contractor in favor of the Commonwealth for a Service Level default (“Service 
+Level Credit”) shall not bar or impair Commonwealth’s rights and remedies in 
+respect of the failure or root cause as set forth elsewhere in this Contract, 
+including without limitation other claims for liquidated damages, injunctive relief 
+and termination rights; provided however, Service Level Credits paid would be 
+credited against any such claims for damages. 
+ 
+ 
+66. FORCE MAJEURE. 
+
+Page 57 of 61 
+ 
+ 
+a. Neither party will incur any liability to the other if its performance of any 
+obligation under this Contract is prevented or delayed by causes beyond its 
+control and without the fault or negligence of either party. Causes beyond a 
+party’s control may include, but are not limited to, acts of God or war, changes in 
+controlling law, regulations, orders or the requirements of any governmental 
+entity, severe weather conditions, civil disorders, natural disasters, fire, epidemics 
+and quarantines, general strikes throughout the trade, and freight embargoes. 
+b. The Contractor shall notify the Commonwealth orally within five (5) days and in 
+writing within 10 days of the date on which the Contractor becomes aware, or 
+should have reasonably become aware, that such cause would prevent or delay its 
+performance. Such notification shall (i) describe fully such cause(s) and its effect 
+on performance, (ii) state whether performance under the contract is prevented or 
+delayed and (iii) if performance is delayed, state a reasonable estimate of the 
+duration of the delay. The Contractor shall have the burden of proving that such 
+cause(s) delayed or prevented its performance despite its diligent efforts to 
+perform and shall produce such supporting documentation as the Commonwealth 
+may reasonably request. After receipt of such notification, the Commonwealth 
+may elect to cancel the Contract, or to extend the time for performance as 
+reasonably necessary to compensate for the Contractor’s delay. 
+c. In the event of a declared emergency by competent governmental authorities, the 
+Commonwealth by notice to the Contractor, may suspend all or a portion of the 
+Contract. 
+ 
+ 
+67. PUBLICITY/ADVERTISEMENT. 
+The Contractor shall not issue news releases, internet postings, advertisements, 
+endorsements, or any other public communication without prior written approval of the 
+Commonwealth, and then only in coordination with the Commonwealth. This includes 
+the use of any trademark or logo. 
+ 
+ 
+68. TERMINATION ASSISTANCE. 
+a. Upon the Commonwealth’s request, Contractor shall provide termination 
+assistance services (Termination Assistance Services) directly to the 
+Commonwealth, or to any vendor designated by the Commonwealth. The 
+Commonwealth may request termination assistance from the Contractor upon full 
+or partial termination of the Contract and/or upon the expiration of the Contract 
+term, including any renewal periods. Contractor shall take all necessary and 
+appropriate actions to accomplish a complete, timely and seamless transition of 
+any Services from Contractor to the Commonwealth, or to any vendor designated 
+by the Commonwealth, without material interruption of or material adverse 
+Page 58 of 61 
+ 
+ 
+impact on the Services. Contractor shall cooperate with the Commonwealth and 
+any new contractor and otherwise promptly take all steps required or reasonably 
+requested to assist the Commonwealth in effecting a complete and timely 
+transition of any Services. 
+b. Such Termination Assistance Services shall first be rendered using resources 
+included within the fees for the Services, provided that the use of such resources 
+shall not adversely impact the level of service provided to the Commonwealth; 
+then by resources already included within the fees for the Services, to the extent 
+that the Commonwealth permits the level of service to be relaxed; and finally, 
+using additional resources at costs determined by the Parties via Section 27, 
+Changes. 
+ 
+ 
+69. NOTICE. 
+Any written notice to any party under this Contract shall be deemed sufficient if delivered 
+personally, or by facsimile, telecopy, electronic or digital transmission (provided such 
+delivery is confirmed), or by a recognized overnight courier service (e.g., DHL, Federal 
+Express, etc.), with confirmed receipt, or by certified or registered United States mail, 
+postage prepaid, return receipt requested, sent to the address such party may designate by 
+notice given pursuant to this section. 
+ 
+ 
+70. RIGHT-TO-KNOW LAW. 
+a. Applicability. The Pennsylvania Right-to-Know Law, 65 P.S. §§ 67.101-3104, 
+(“RTKL”) applies to this contract. 
+b. Contractor Assistance. If the Commonwealth needs the Contractor’s assistance in 
+any matter arising out of the RTKL related to this contract, the Commonwealth 
+shall notify the Contractor that it requires the Contractor’s assistance, and the 
+Contractor shall provide to the Commonwealth: 
+ 
+access to, and copies of, any document or information in the Contractor’s 
+possession (Requested Information) arising out of this contract that the 
+Commonwealth reasonably believes is a public record under the RTKL, 
+within ten calendar days after receipt of written notification; and 
+any other assistance as the Commonwealth may reasonably request, in 
+order to comply with the RTKL with respect to this contract. 
+ 
+c. Trade Secret or Confidential Proprietary Information. If the Contractor considers 
+the Requested Information to include a Trade Secret or Confidential Proprietary 
+Information, as those terms are defined by the RTKL, or other information that 
+the Contractor considers exempt from production under the RTKL, the Contractor 
+
+Page 59 of 61 
+ 
+ 
+shall notify the Commonwealth and provide, within seven calendar days of receipt 
+of the written notice a written statement, signed by a representative of the 
+Contractor, that explains why the requested material is exempt from public 
+disclosure under the RTKL. If the Commonwealth determines that the Requested 
+Information is clearly not exempt from disclosure, the Contractor shall provide 
+the Requested Information to the Commonwealth within five business days of 
+receipt of written notice of the Commonwealth’s determination. 
+ 
+d. Reimbursement. 
+ 
+Commonwealth Reimbursement. If the Contractor fails to provide the 
+Requested Information and the Commonwealth is ordered to produce the 
+Requested Information, the Contractor shall reimburse the Commonwealth 
+for any damages, penalties, or costs that the Commonwealth may incur as 
+a result of the Contractor’s failure, including any statutory damages 
+assessed against the Commonwealth. 
+ 
+Contractor Reimbursement. The Commonwealth will reimburse the 
+Contractor for any costs that the Contractor incurs as a direct result of 
+complying with these provisions only to the extent allowed under the fee 
+schedule established by the Office of Open Records or as otherwise 
+provided by the RTKL. 
+ 
+e. Challenges of Commonwealth Release. The Contractor may file a legal challenge 
+to any Commonwealth decision to release a record to the public with the Office of 
+Open Records, or in the Pennsylvania Courts, however, the Contractor shall 
+reimburse the Commonwealth for any legal expenses incurred by the 
+Commonwealth as a result of the challenge, including any damages, penalties or 
+costs that the Commonwealth may incur as a result of the Contractor’s legal 
+challenge, regardless of the outcome. 
+ 
+f. Waiver. As between the parties, the Contractor waives all rights or remedies that 
+may be available to it as a result of the Commonwealth’s disclosure of Requested 
+Information pursuant to the RTKL. 
+ 
+g. Survival. The Contractor’s obligations contained in this Section survive the 
+termination or expiration of this contract. 
+ 
+71. APPLICABLE LAW AND FORUM. 
+This contract is governed by and must be interpreted and enforced in accordance with the 
+laws of the Commonwealth of Pennsylvania (without regard to any conflict of laws 
+provisions) and the decisions of the Pennsylvania courts. The Contractor consents to the 
+jurisdiction of any court of the Commonwealth of Pennsylvania and any federal courts in 
+
+Page 60 of 61 
+ 
+ 
+Pennsylvania, and waives any claim or defense that such forum is not convenient or 
+proper. Any Pennsylvania court or tribunal has in personam jurisdiction over the 
+Contractor, and the Contractor consents to service of process in any manner authorized 
+by Pennsylvania law. This provision may not be interpreted as a waiver or limitation of 
+the Commonwealth’s rights or defenses. 
+ 
+ 
+72. CONTROLLING TERMS AND CONDITIONS. 
+The terms and conditions of this Contract shall be the exclusive terms of agreement 
+between the Contractor and the Commonwealth. Other terms and conditions or 
+additional terms and conditions included or referenced in the Contractor’s website, 
+quotations, invoices, business forms, click-through agreements, or other documentation 
+shall not become part of the parties’ agreement and shall be disregarded by the parties, 
+unenforceable by the Contractor, and not binding on the Commonwealth. 
+ 
+ 
+73. POST-CONSUMER RECYCLED CONTENT; RECYCLED CONTENT 
+ENFORCEMENT. 
+Except as specifically waived by the Department of General Services in writing, any 
+products which are provided to the Commonwealth as a part of the performance of the 
+Contract must meet the minimum percentage levels for total recycled content as specified 
+by the Environmental Protection Agency in its Comprehensive Procurement Guidelines, 
+which can be found at https://www.epa.gov/smm/comprehensive-procurement-guideline- 
+cpg-program. 
+The Contractor may be required, after delivery of the Contract item(s), to provide the 
+Commonwealth with documentary evidence that the item(s) was in fact produced with 
+the required minimum percentage of post-consumer and recovered material content. 
+ 
+ 
+74. WORKER PROTECTION AND INVESTMENT. 
+The Contractor shall comply with all applicable Pennsylvania state labor laws and worker 
+safety laws including, but not limited to, the following: 
+Construction Workplace Misclassification Act; 
+Employment of Minors Child Labor Act; 
+ Minimum Wage Act; 
+ Prevailing Wage Act; 
+Equal Pay Law; 
+
+Page 61 of 61 
+ 
+ 
+ Employer to Pay Employment Medical Examination Fee Act; 
+ Seasonal Farm Labor Act; 
+ Wage Payment and Collection Law; 
+ Industrial Homework Law; 
+Construction Industry Employee Verification Act; 
+ Act 102: Prohibition on Excessive Overtime in Healthcare; 
+ Apprenticeship and Training Act; and 
+Inspection of Employment Records Law. 
+ 
+ 
+75. SURVIVAL. 
+Sections 11, 30, 31, 33, 37, 38, 39, 41, 42, 45, 46, 47, 48, 49, 52, 54, 55, 56, 63, 67, 69, 
+70, 71 and 75 and any right or obligation of the parties in this Contract which, by its 
+express terms or nature and context is intended to survive termination or expiration of 
+this Contract, will survive any such termination or expiration shall survive the expiration 
+or termination of the Contract. 
+
+Exhibit A, Sample Business Associate Agreement 
+Page 1 of 7 
+ 
+ 
+EXHIBIT A 
+COMMONWEALTH OF PENNSYLVANIA 
+BUSINESS ASSOCIATE AGREEMENT 
+Health Insurance Portability and Accountability Act (HIPAA) Compliance 
+WHEREAS, the [name of program and/or Department] (Covered Entity) and the 
+Contractor (Business Associate), intend to protect the privacy and security of certain Protected 
+Health Information (PHI) to which Business Associate may have access in order to provide 
+goods or services to or on behalf of Covered Entity, in accordance with the Health Insurance 
+Portability and Accountability Act of 1996, as amended, Pub. L. No. 104-191 (HIPAA), the 
+Health Information Technology for Economic and Clinical Health (HITECH) Act, as amended, 
+Title XIII of Division A and Title IV of Division B of the American Recovery and Reinvestment 
+Act of 2009 (ARRA), as amended, Pub. L. No. 111-5 (Feb. 17, 2009) and related regulations, the 
+HIPAA Privacy Rule (Privacy Rule), 45 C.F.R. Parts 160 and 164, as amended, the HIPAA 
+Security Rule (Security Rule), 45 C.F.R. Parts 160, 162 and 164), as amended, 42 C.F.R. §§ 
+431.301—431.302, 42 C.F.R. Part 2, 45 C.F.R. § 205.50, 42 U.S.C. § 602(a)(1)(A)(iv), 42 
+U.S.C. § 1396a(a)(7), 35 P.S. § 7607, 50 Pa. C.S. § 7111, 71 P.S. § 1690.108(c), 62 P.S. § 404, 
+55 Pa. Code Chapter 105, 55 Pa. Code Chapter 5100, the Pennsylvania Breach of Personal 
+Information Notification Act, Act of December 22, 2005, P.L. 474, No. 94, as amended, 73 P.S. 
+§§ 2301—2329, and other relevant laws, including subsequently adopted provisions applicable 
+to use and disclosure of confidential information, and applicable agency guidance; and 
+WHEREAS, Business Associate may receive PHI from Covered Entity, or may create or 
+obtain PHI from other parties for use on behalf of Covered Entity, which PHI may be handled, 
+used or disclosed only in accordance with this Business Associate Agreement (BAA), the 
+Underlying Agreement and the standards established by HIPAA, the HITECH Act and related 
+regulations, and other applicable laws and agency guidance. 
+NOW, THEREFORE, Covered Entity and Business Associate agree as follows: 
+1. Definitions. 
+(a) “Business Associate” shall have the meaning given to such term under HIPAA, 
+the HITECH Act and related regulations, the Privacy Rule, the Security Rule and 
+agency guidance. 
+(b) “Business Associate Agreement” or “BAA” shall mean this Agreement. 
+(c) “Covered Entity” shall have the meaning given to such term under HIPAA, the 
+HITECH Act and related regulations, the Privacy Rule, the Security Rule and 
+agency guidance. 
+(d) “HIPAA” shall mean the Health Insurance Portability and Accountability Act of 
+1996, as amended, Pub. L. No. 104-191. 
+Exhibit A, Sample Business Associate Agreement 
+Page 2 of 7 
+ 
+ 
+(e) “HITECH Act” shall mean the Health Information Technology for Economic 
+and Clinical Health (HITECH) Act, as amended, Title XIII of Division A and 
+Title IV of Division B of the American Recovery and Reinvestment Act of 2009 
+(ARRA), Pub. L. No. 111-5 (Feb. 17, 2009). 
+(f) “Privacy Rule” shall mean the standards for privacy of individually identifiable 
+health information in 45 C.F.R. Parts 160 and 164, as amended, and related 
+agency guidance. 
+(g) “Protected Health Information” or “PHI” shall have the meaning given to such 
+term under HIPAA, the HITECH Act and related regulations, the Privacy Rule, 
+the Security Rule (all as amended) and agency guidance. 
+(h) “Security Rule” shall mean the security standards in 45 C.F.R. Parts 160, 162 
+and 164, as amended, and related agency guidance. 
+(i) “Underlying Agreement” shall mean Contract/Purchase Order #  . 
+(j) “Unsecured PHI” shall mean PHI that is not secured through the use of a 
+technology or methodology as specified in HITECH Act regulations, as amended, 
+and agency guidance or as otherwise defined in the HITECH Act, as amended. 
+2. Changes in Law. 
+Business Associate agrees that it will comply with any changes in the HIPAA Rules by 
+the compliance date established by any such changes and will provide the Covered Entity 
+with written certification of such compliance. 
+3. Stated Purposes for Which Business Associate May Use or Disclose PHI. 
+Except as otherwise limited in this BAA, Business Associate shall be permitted to use or 
+disclose PHI provided by or obtained by or obtained on behalf of Covered Entity to 
+perform those functions, activities, or services for, or on behalf of, Covered Entity which 
+are specified in Appendix A to this BAA, provided that such use or disclosure would not 
+violate the HIPPA Rules if done by Covered Entity. Business Associate agrees to make 
+uses, disclosures and requests for PHI consistent with Covered Entity’s minimum policies 
+and procedures. 
+4. Additional Purposes for Which Business Associate May Use or Disclose 
+Information. 
+Business Associate shall not use or disclose PHI provided by, or created or obtained on 
+behalf of, Covered Entity for any other purposes except as required by law. Business 
+Associate shall not use PHI to de-identify the information in accordance with 45 CFR § 
+164.514 (a)—(c) without the Covered Entity’s express written authorization(s). Business 
+Associate may use PHI for the proper management and administration of the Business 
+Associate or to carry out the legal responsibilities of the Business Associate. 
+5. Business Associate Obligations. 
+Exhibit A, Sample Business Associate Agreement 
+Page 3 of 7 
+ 
+ 
+(a) Limits on Use and Further Disclosure Established by Business Associate 
+Agreement and Law. Business Associate hereby agrees that the PHI provided 
+by, or created or obtained on behalf of, Covered Entity shall not be further used or 
+disclosed other than as permitted or required by BAA or as required by law. 
+(b) Appropriate Safeguards. Business Associate shall establish and maintain 
+appropriate safeguards to prevent any use or disclosure of PHI other than as 
+provided for by this BAA that reasonably and appropriately protects the 
+confidentiality, integrity, and availability of the PHI that is created, received, 
+maintained, or transmitted on behalf of the Covered Entity as required by Subpart 
+C of 45 CFR Part 164. Appropriate safeguards shall include but are not limited to 
+implementing: 
+administrative safeguards required by 45 CFR § 164.308; 
+physical safeguards as required by 45 CFR § 164.310; 
+ technical safeguards as required by 45 CFR § 164.312; and 
+ policies and procedures and document requirements as required by 45 
+CFR § 164.316. 
+(c) Training and Guidance. Business Associate shall provide annual training to 
+relevant contractors, Subcontractors, employees, agents and representatives on 
+how to prevent the improper use or disclosure of PHI. Business Associate shall 
+also comply with annual guidance on the most effective and appropriate technical 
+safeguards issued by the Secretary of Health and Human Services. 
+(d) Reports of Improper Use or Disclosure or Breach. Business Associate hereby 
+agrees that it shall notify the Covered Entity’s Project Officer and the Covered 
+Entity’s Legal Office within two (2) days of discovery of any use or disclosure of 
+PHI not provided for or allowed by this BAA, including breaches of unsecured 
+PHI as required by 45 CFR § 164.410. Such notification shall be written and 
+shall include the identification of each individual whose unsecured PHI has been, 
+or is reasonably believed by the Business Associate to have been, accessed, 
+acquired, or disclosed during the improper use or disclosure or Breach. Business 
+Associate shall furnish Covered Entity with any other available information that 
+Covered Entity is required to include in its notification to individuals under 45 
+CFR § 164.404(c) at the time of Business Associate’s notification to Covered 
+Entity or promptly thereafter as such information becomes available. An 
+improper use or disclosure or Breach shall be treated as discovered by the 
+Business Associate on the first day on which it is known to the Business 
+Associate (including any person, other than the individual committing the breach, 
+that is an employee, officer, or other agent of the Business Associate) or should 
+reasonably have been known to the Business Associate to have occurred. 
+
+Exhibit A, Sample Business Associate Agreement 
+Page 4 of 7 
+ 
+ 
+(e) Business Associate agrees that if any of its employees, agents, contractors, 
+subcontractors or representatives use or disclose PHI received from, or created or 
+received on behalf of, Covered Entity, or any derivative de-identified information, 
+Business Associate shall ensure that such employees, agents, contractors, 
+subcontractors and representatives shall receive training on Business Associate’s 
+procedure for compliance with the HIPAA Rules. Business Associate Agrees that 
+if any of its employees, agents, contractors, subcontractors or representatives use 
+or disclose PHI received from, or created or received on behalf of, Covered 
+Entity, or any derivative de-identified information in a manner not provided for in 
+this BAA, Business Associate shall ensure that such employees, agents, 
+contractors, subcontractors and representatives are sanctioned or prevented from 
+accessing any PHI Business Associate receives from, or creates or receives on 
+behalf of Covered Entity. Use or disclosure of PHI in a manner contrary to the 
+terms of this BAA shall constitute a material breach of the Underlying 
+Agreement. 
+(f) Contractors, Subcontractors, Agents and Representatives. In accordance with 
+45 CFR § 164.502(e)(1)(ii) and 45 CFR § 164.308(b)(2), if applicable, ensure that 
+any contractors, subcontractors, agents and representatives that create, receive, 
+maintain, or transmit PHI on behalf of the Business Associate agree to the same 
+restrictions, conditions, and requirements that apply to the Business Associate 
+with respect to such information. The existence of any contractors, 
+subcontractors, agents and representatives shall not change the obligations of 
+Business Associate to the Covered Entity under this BAA. 
+(g) Reports of Security Incidents. Business Associate hereby agrees that it shall 
+notify, in writing, the Department’s Project Officer within two (2) days of 
+discovery of any Security Incident at the time of Business Associate’s notification 
+to Covered Entity or promptly thereafter as such information becomes available. 
+(h) Right of Access to PHI. Business Associate hereby agrees to allow an individual 
+who is the subject of PHI maintained in a designated record set, to have access to 
+and copy that individual’s PHI within 10 business days of receiving a written 
+request from the Covered Entity or an authorized individual in accordance with 
+the HIPAA Rules. Business Associate shall provide PHI in the format requested, 
+unless it cannot readily be produced in such format, in which case it shall be 
+provided in standard hard copy. If any individual requests from Business 
+Associate or its contractors, subcontractors, agents or representatives, access to 
+PHI, Business Associate shall notify Covered Entity of same within five (5) 
+business days. Business Associate shall further conform with and meet all of the 
+requirements of 45 CFR § 164.524. 
+(i) Amendment and Incorporation of Amendments. Within five (5) business 
+days of receiving a request from Covered Entity or from the individual for an 
+Exhibit A, Sample Business Associate Agreement 
+Page 5 of 7 
+ 
+ 
+amendment of PHI maintained in a designated record set, Business Associate 
+shall make the PHI available to the Covered Entity and incorporate the 
+amendment to enable Covered Entity to comply with 45 CFR § 164.526. If any 
+individual requests an amendment from Business Associate or its contractors, 
+subcontractors, agents or representatives, Business Associate shall notify Covered 
+Entity of same within five (5) business days. 
+(j) Provide Accounting of Disclosures. Business Associate agrees to maintain a 
+record of all disclosures of PHI in accordance with 45 CFR § 164.528. Such 
+records shall include, for each disclosure, the date of the disclosure, the name and 
+address of the recipient of the PHI, a description of the PHI disclosed, the name of 
+the individual who is the subject of the PHI disclosed, the purpose of the 
+disclosure, and shall include disclosures made on or after the date which is six (6) 
+years prior to the request. Business Associate shall make such record available to 
+the individual or the Covered Entity within 10 business days of a request for an 
+accounting of disclosures and in accordance with 45 CFR § 164.528. 
+(k) Access to Books and Records. Business Associate hereby agrees to make its 
+internal practices, books, and records relating to the use or disclosure of PHI 
+received from, created or received by Business Associate on behalf of the 
+Covered Entity, available to the Covered Entity and the Secretary of Health and 
+Human Services or designee for purposes of determining compliance with the 
+HIPAA Rules. 
+(l) Return or Destruction of PHI. At termination of this BAA, Business Associate 
+hereby agrees to return or destroy all PHI provided by or obtained on behalf of 
+Covered Entity. Business Associate agrees not to retain any copies of the PHI 
+after termination of this BAA. If return or destruction of the PHI is not feasible, 
+Business Associate agrees to extend the protections of this BAA to limit any 
+further use or disclosure until such time as the PHI may be returned or destroyed. 
+If Business Associate elects to destroy the PHI, it shall certify to Covered Entity 
+that the PHI has been destroyed. 
+(m) Maintenance of PHI. Notwithstanding subsection 5(l) of this BAA, Business 
+Associate and its contractors, subcontractors, agents and representatives shall 
+retain all PHI throughout the term of the Underlying Agreement and shall 
+continue to maintain the information required under subsection 5(j) of this BAA 
+for a period of six (6) years after termination of the Underlying Agreement, 
+unless Covered Entity and Business Associate agree otherwise. 
+(n) Mitigation Procedures. Business Associate agrees to establish and to provide to 
+Covered Entity upon request, procedures for mitigating, to the maximum extent 
+practicable, any harmful effect from the use or disclosure of PHI in a manner 
+contrary to this BAA or the HIPAA Rules. Business Associate further agrees to 
+mitigate any harmful effect that is known to Business Associate of a use or 
+Exhibit A, Sample Business Associate Agreement 
+Page 6 of 7 
+ 
+ 
+disclosure of PHI by Business Associate in violation of this BAA or the Privacy 
+Rule. 
+(o) Sanction Procedures. Business Associate agrees that it shall develop and 
+implement a system of sanctions for any contractor, Subcontractor, employee, 
+agent and representative who violates this BAA or the HIPAA Rules. 
+(p) Application of Civil and Criminal Penalties. All Civil and Criminal Penalties 
+under the HIPAA Rules shall apply to Business Associate’s violation of any 
+provision contained in the HIPAA Rules. 
+(q) Breach Notification. Business Associate shall comply with the Breach 
+notification requirements of 45 CFR Part 164. In the event of a Breach requiring 
+indemnification in accordance with subsection 5(v), below, Covered Entity may 
+elect to directly comply with Breach notification requirements or require Business 
+Associate to comply with all Breach notifications requirements of 45 CFR Part 
+164 on behalf of Covered Entity. If Covered Entity requires Business Associate 
+to comply with Breach notification requirements, Business Associate shall 
+provide Covered Entity with a detailed weekly, written report, starting one week 
+following discovery of the Breach. The report shall include, at a minimum, 
+Business Associate’s progress regarding Breach notification and mitigation of the 
+Breach. If Covered Entity elects to directly meet the requirements of 45 CFR Part 
+164, Business Associate shall be financially responsible to Covered Entity for all 
+resulting costs and fees incurred by Covered Entity, including, but not limited to, 
+labor, materials, or supplies. Covered Entity may at its sole option: 
+Offset amounts otherwise due and payable to Business Associate under the 
+Underlying Agreement; or 
+Seek reimbursement of or direct payment to a third party of Covered 
+Entity’s costs and fees incurred under this subsection. 
+Business Associate shall make payment to Covered Entity (or a third party as 
+applicable) within 30 days from the date of Covered Entity’s written notice to 
+Business Associate. 
+(r) Grounds for Breach. Any non-compliance by Business Associate with this 
+BAA or the HIPAA Rules will automatically be considered to be a breach of the 
+Underlying Agreement. 
+(s) Termination by Commonwealth. Business Associate authorizes termination of 
+this BAA or Underlying Agreement by the Commonwealth if the Commonwealth 
+determines, in its sole discretion that the Business Associate has violated a 
+material term of this BAA. 
+(t) Failure to Perform Obligations. In the event Business Associate including its 
+contractors, Subcontractors, agents and representatives fails, to perform its 
+
+Exhibit A, Sample Business Associate Agreement 
+Page 7 of 7 
+ 
+ 
+obligations under this BAA, Covered Entity may immediately discontinue 
+providing PHI to Business Associate. Covered Entity may also, at its option, 
+require Business Associate to submit to a plan of compliance, including 
+monitoring by Covered Entity and reporting by Business Associate, as Covered 
+Entity in its sole discretion determines to be necessary to maintain compliance 
+with this BAA and applicable law. 
+(u) Privacy Practices. The Covered Entity will provide, and Business Associate 
+shall immediately begin using and/or distributing to clients, any applicable form, 
+including but not limited to, any form used for Notice of Privacy Practices, 
+Accounting for Disclosures, or Authorization, upon the effective date of this 
+BAA, or as otherwise designated by the Program or Covered Entity. The Covered 
+Entity retains the right to change the applicable privacy practices, documents and 
+forms. The Business Associate shall implement changes as soon as practicable, 
+but not later than 45 days from the date of notice of the change. 
+(v) Indemnification. Business Associate shall indemnify, defend and hold harmless 
+Covered Entity from and all claims and actions, whether in law or equity, 
+resulting from Business Associate’s Breach or other violation of the HIPAA 
+Rules (this includes but is not limited to Breach and violations by Business 
+Associate’s contractors, subcontractors, employees, agents and representatives). 
+Additionally, Business Associate shall reimburse Covered Entity for any civil 
+monetary penalties imposed on Covered Entity as a result of a Breach or violation 
+cognizable under this subsection 5(v). 
+6. Obligations of Covered Entity. 
+(a) Provision of Notice of Privacy Practices. Covered Entity shall provide Business 
+Associate with the notice of privacy practices that the Covered Entity produces in 
+accordance with 45 CFR § 164.520 (Appendix A to this BAA), as well as changes 
+to such notice. 
+(b) Permissions. Covered Entity shall provide Business Associate with any changes 
+in, or revocation of, permission by individual to use or disclose PHI of which 
+Covered Entity is aware, if such changes affect Business Associate’s permitted or 
+required uses and disclosures. 
+(c) Restrictions. Covered Entity shall notify Business Associate of any restriction to 
+the use or disclosure of PHI that the Covered Entity has agreed to in accordance 
+with 45 CFR § 164.522 to the extent that such restriction may affect Business 
+Associate’s use or disclosure of PHI. 
+7. Survival. 
+The requirements, rights and obligations created by this BAA shall survive the 
+termination of the Underlying Agreement. 
+Page 1 of 1 
+ 
+ 
+Appendix A to Exhibit A, 
+Commonwealth of Pennsylvania Business Associate Agreement 
+Permitted Purposes for the Creation, Receipt, Maintenance, Transmission, Use and/or 
+Disclosure of Protected Health Information 
+1. Purpose of Disclosure of PHI to Business Associate: To allow   to meet 
+the requirements of the Underlying Agreement. 
+2. Information to be disclosed to Business Associate:  . 
+3. Use Shall Effectuate Purpose of Underlying Agreement:   may use and disclose 
+PHI to the extent contemplated by the Underlying Agreement, and as permitted by law 
+with Commonwealth approval. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit A, Appendix A, Permitted Purposes for the Creation, Receipt, Maintenance, Transmission, Use 
+and/or Disclosure of Protected Health Information 
+Updated 11/03/2023 
+ 
+ 
+EXHIBIT B 
+Requirements for Non-Commonwealth Hosted 
+Applications/Services 
+In the instance where the system(s) are hosted by the platform vendor, the contractor shall 
+perform all work in compliance with the Commonwealth’s software license agreement with the 
+platform publisher, and in compliance with the Commonwealth’s Non-Commonwealth Hosted 
+Applications/Services as listed in this Exhibit B. 
+System(s) maybe hosted by a cloud or private hosting provider. If an ITQ Contractor performs 
+services on a system which is not hosted by the Commonwealth; the Contractor shall perform all 
+work in accordance with Commonwealth Hosting Requirements, as described in this Exhibit B. 
+The purpose of this Attachment is to define requirements for business or technology solutions 
+and services procured by the Commonwealth that are hosted within the Service Organization 
+(Contractor’s) or its Subservice Organization(s) (subcontractors) managed infrastructure. Any 
+reference to Contractor below applies to Contractor and its subcontractors. 
+A. Hosting Requirements 
+1. The Contractor shall supply and maintain all hosting equipment (hardware and 
+software) required for the delivery of the computing services. 
+2. The Contractor shall provide secure access to users leveraging the principle of 
+least privilege and delegating administration to the Commonwealth where 
+possible. 
+3. The Contractor shall use commercially reasonable resources and efforts to 
+maintain adequate network bandwidth and server capacity to meet expected 
+service levels. 
+4. The Contractor shall maintain all components of the Contractor hosted solution 
+with commercially reasonable support and replace as necessary to maintain 
+compliance. 
+5. The Contractor shall monitor, prevent, and deter unauthorized system access. The 
+Contractor shall use all commercially reasonable methods to confirm suspected 
+breaches. In the event of any impermissible disclosure, unauthorized loss or 
+destruction of Confidential Information, the receiving Party must immediately 
+notify the disclosing Party and take all reasonable steps to mitigate any potential 
+harm or further disclosure of such Confidential Information. The Contractor shall 
+provide the Commonwealth with any requested logs, reports, and other 
+ 
+Requirements for Non-Commonwealth Hosted Applications and/or Services 
+Page 2 of 7 
+Updated 11/03/2023 
+ 
+ 
+information concerning unauthorized access or disclosure of Commonwealth data, 
+including any mitigation efforts by Contractor. Any such information provided 
+by Contractor shall be treated as confidential. In addition, pertaining to the 
+unauthorized access, use, release, or disclosure of data, the Contractor shall 
+comply with state and federal data breach notification statutes and regulations, 
+and shall report security incidents to the Commonwealth within one (1) hour of 
+when the Contractor has reasonable confirmation of such unauthorized access, 
+use, release, or disclosure of data. 
+6. In the event the Contractor is not in compliance with Section B System and 
+Organization Controls (SOC) Reporting Requirements relating to the hosted 
+system’s data center locations and security architecture, the Contractor shall allow 
+the Commonwealth or its delegate, at times chosen by the Commonwealth, and 
+with at least ten (10) business days’ notice, to review the hosted system’s data 
+center locations and security architecture. 
+7. The Contractor’s employees or subcontractors, who are directly responsible for 
+day-to-day monitoring and maintenance of the hosted system, shall have industry 
+standard certifications applicable to the environment and system architecture 
+used. 
+8. The Contractor shall house all servers and equipment in an operational 
+environment that meets industry standards including, but not limited to, climate 
+control, fire and security hazard detection and response, electrical needs, and 
+physical security. 
+9. The Contractor shall examine applicable system and error logs, which should 
+include, but not be limited to, security events. Such logs shall be examined on a 
+continual basis, at least daily, to minimize and predict system problems and 
+initiate appropriate action. 
+10. The Contractor shall update and patch all applicable systems and third-party 
+software security configurations to reduce security risk in alignment with industry 
+best practices beginning prior to service release and on an ongoing basis. 
+11. During the term of the contract, the Contractor shall provide or make available all 
+Commonwealth data to the Commonwealth, at no cost and upon request in a 
+format and method agreeable to both parties. If the parties are unable to reach an 
+agreement regarding format or method, data shall be provided in an industry 
+standard format and method. 
+ 
+ 
+Requirements for Non-Commonwealth Hosted Applications and/or Services 
+Page 3 of 7 
+Updated 11/03/2023 
+ 
+ 
+B. System and Organization Controls (SOC) Reporting Requirements 
+In the event the Commonwealth project requires a SOC audit for compliance, the 
+Commonwealth will disclose this requirement within our scope of work. 
+1. Subject to this section and unless otherwise agreed to in writing by the 
+Commonwealth, the Contractor shall, and shall require its subcontractors to, 
+engage, on an annual basis, a CPA certified third-party auditing firm to conduct 
+the following, as applicable: 
+(i) a SOC 1 Type II report with respect to controls used by the Contractor 
+relevant to internal and external procedures and systems that process 
+Commonwealth financial transactions; and 
+(ii) a SOC 2 Type II report with respect to controls used by the Contractor 
+relevant to internal and external procedures and systems that access, 
+process, host or contain Commonwealth Data designated as Class “C” 
+Classified Records or Closed Records, as defined in ITP-SEC019, or in 
+compliance with mandates by federal or state audit requirements and/or 
+policy. 
+The Contractor shall receive and review their subcontractor’s relevant SOC 
+reports, and the Contractor shall provide the Commonwealth with a Letter of 
+Attestation that includes an analysis of their subcontractor’s SOC report. 
+2. Unless otherwise agreed to in writing by the Commonwealth, the Contractor’s 
+SOC Report(s) shall be provided upon contract execution and annually thereafter. 
+While it is preferable that SOC Reports coincide with Pennsylvania’s fiscal year 
+(July 1 through June 30), SOC Reports, at the very least, must cover at least 6 
+consecutive months of Pennsylvania’s fiscal year. 
+3. SOC 2 Type II reports shall address the following: 
+(i) Security of Information and Systems; 
+(ii) Availability of Information and Systems; 
+(iii) Processing Integrity; 
+(iv) Confidentiality; and 
+(v) Privacy. 
+ 
+ 
+ 
+Requirements for Non-Commonwealth Hosted Applications and/or Services 
+Page 4 of 7 
+Updated 11/03/2023 
+ 
+ 
+4. At the request of the Commonwealth and at Contractor’s expense, the Contractor 
+shall, and shall require its subcontractors, as applicable, to complete a SOC for 
+Cybersecurity audit in the event: 
+(i) Reoccurring findings in any SOC report required by subsection 1 above; 
+or 
+(ii) A cybersecurity incident or breach that impacts the Commonwealth has 
+occurred and was not handled in accordance with Contractor’s Incident 
+Response Plan (IRP) including, but not limited to, providing timely notice 
+to the Commonwealth as required by Contract or applicable law; or 
+(iii) As agreed upon by the parties. 
+The SOC for Cybersecurity report shall detail the controls used by the Contractor 
+or its subcontractor setting forth the description and effectiveness of the 
+Contractor’s or subcontractor’s cybersecurity risk management program and the 
+policies, processes and controls enacted to achieve each cybersecurity objective. 
+The Contractor shall provide to the Commonwealth a report of the SOC for 
+Cybersecurity audit findings within 60 days of its completion. 
+5. Additional standards, certifications or audits as required by law shall be supported 
+by Contractor as mutually agreed upon in writing by the parties. 
+6. The Contractor shall adhere to the then current American Institute of Certified 
+Public Accountants (AICPA) audit standards. The Contractor acknowledges that 
+the AICPA guidance may be updated during the Term of this Contract, and the 
+Contractor shall comply with such updates, which shall be reflected in the next 
+annual SOC report. 
+7. In the event an audit reveals any non-conformity within Contractor’s SOC 
+Reports, the Contractor shall provide the Commonwealth, within 45 days of the 
+issuance of the SOC report, a documented corrective action plan that addresses 
+each non-conformity that is identified within the SOC report, including any 
+subcontractor’s SOC report. The corrective action plan shall provide, in detail: 
+(i) clear responsibilities of the personnel designated to resolve the non- 
+conformity; 
+(ii) the remedial action to be taken by the Contractor or its subcontractor(s); 
+(iii) the dates when each remedial action is to be implemented; and 
+ 
+ 
+Requirements for Non-Commonwealth Hosted Applications and/or Services 
+Page 5 of 7 
+Updated 11/03/2023 
+ 
+ 
+(iv) a summary of potential risks or impacts to the Commonwealth that are 
+associated with the non-conformity(ies). 
+8. The Commonwealth may in its sole discretion agree, in writing, to accept 
+alternative security report in lieu of a SOC report. 
+C. Security Requirements 
+1. The Contractor shall conduct a third-party independent security/vulnerability 
+assessment at its own expense no less frequently than on an annual basis. 
+2. The Contractor shall provide, at minimum, an executive summary of vulnerability 
+assessment results to the Commonwealth upon request. Summary shall include, 
+at minimum, scan date, identified vulnerabilities, severity classification, and 
+remediation status. 
+3. The Contractor shall remediate any security/vulnerability assessment findings to 
+align with the industry standards. 
+4. The Contractor shall use industry best practices to protect access to the system 
+with a firewall and firewall rules to prevent access by non-authorized users and 
+block all improper and unauthorized access attempts. 
+5. The Contractor shall use industry best practices to secure access to public web 
+interfaces, which shall include, but is not limited to, web application firewall 
+(WAF) for services that handle non-public Commonwealth records. 
+6. The Contractor shall use industry best practices to provide applicable system 
+intrusion detection and prevention in order to detect intrusions in a timely manner. 
+7. The Contractor shall use industry best practices, such as those outlined in NIST 
+800-83, to provide appropriate exploit and malware controls, on all servers, 
+endpoints, and network components. 
+8. The Contractor shall provide access to provided systems and services and/or 
+Commonwealth data only to staff located within CONUS (any of the Continental 
+United States and Hawaii). Access shall be based on the principle of least 
+privilege. 
+9. The Contractor shall provide the services using security technologies and 
+techniques in accordance with industry best practices including, but not limited to, 
+the prevention and detection of intrusions, and any other inappropriate use or 
+access of systems and networks. 
+ 
+ 
+Requirements for Non-Commonwealth Hosted Applications and/or Services 
+Page 6 of 7 
+Updated 11/03/2023 
+ 
+ 
+10. The Contractor shall provide the Commonwealth with access to audit logs with 
+respect to the services being provided to the Commonwealth within 24 hours of a 
+written request from the Commonwealth’s Enterprise Information Security 
+Office. 
+D. Data Protection 
+1. The Contractor shall only host, handle, and process data in physical locations 
+within CONUS. 
+2. The Contractor shall use industry best practices to protect their operational 
+systems with applicable anti-virus, intrusion protection, incident response 
+monitoring and reporting, network firewalls, application firewalls, and employ 
+system and application patch management to protect its network and customer 
+data from unauthorized disclosure. 
+3. The Contractor shall be solely responsible for applicable data storage required. 
+4. The Contractor shall encrypt all Commonwealth data in transit and at rest. The 
+Contractor's method of data encryption shall meet or exceed National Institute 
+Standards and Technology (NIST) encryption guidelines and standards in 
+alignment with Commonwealth ITPs. 
+5. The Contractor shall take all commercially viable and appropriate measures to 
+protect the data availability including, but not limited to, real-time replication, 
+traditional backup, and/or georedundant storage of Commonwealth data in 
+accordance with industry best practices and encryption techniques. 
+6. The Contractor shall have appropriate controls in place to protect critical or 
+sensitive data and shall employ stringent policies, procedures, to protect that data 
+particularly in instances where such critical or sensitive data may be stored on a 
+Contractor-controlled or Contractor-owned electronic device. 
+7. The Contractor shall utilize a secured backup solution to prevent loss of data. 
+Stored backups must be kept in an all-hazards protective storage environment at 
+the primary location and any additional locations where the data is being 
+maintained. All back up data and media shall be encrypted. 
+E. Adherence to Policy 
+1. The Contractor support and problem resolution solution shall provide a means to 
+classify problems as to criticality and impact and with appropriate resolution 
+procedures and escalation process for classification of each problem. 
+ 
+Requirements for Non-Commonwealth Hosted Applications and/or Services 
+Page 7 of 7 
+Updated 11/03/2023 
+ 
+ 
+2. The Contractor shall abide by the Commonwealth’s Information Technology 
+Policies (https://www.oa.pa.gov/Policies/Pages/itp.aspx) that are applicable to the 
+products and services provided, as set forth within the responsibilities section of 
+each ITP. A non-exhaustive list of ITPs with Contractor responsibilities is 
+included below in Attachment 1. 
+3. The Contractor shall comply with all pertinent federal and state regulations and 
+laws, including but not limited to, data protections, data security, privacy, and 
+data breach notification. 
+F. Closeout 
+When the purchase order’s or other procurement document’s term expires or terminates, 
+and a new purchase order or other procurement document has not been issued by a 
+Commonwealth Agency within 60 days of expiration or termination, or at any other time 
+at the written request of the Commonwealth, the Contractor must promptly return to the 
+Commonwealth all Commonwealth’s data (and all copies of this information) that is in the 
+Contractor’s possession or control. The Commonwealth’s data shall be returned in a format 
+agreed to by the Commonwealth. 
+ 
+Upon confirmation that Commonwealth data is in possession or control of the 
+Commonwealth, the Contractor shall ensure all residual user account(s) are promptly 
+deleted or reset in the solution. The Contractor shall notify the Commonwealth within 10 
+business days that all user account(s) have been deleted or reset. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Requirements for Non-Commonwealth Hosted Applications and/or Services 
+Page 8 of 7 
+ 
+ 
+ 
+Page 1 of 1 
+ 
+ 
+EXHIBIT C 
+ 
+ 
+Sign-Off Document No.  , under Agreement No.   
+Between 
+[Contractor ] and the Commonwealth of PA, [Agency] 
+ 
+ 
+[Contractor ] Agency-level Deployment 
+ 
+ 
+This document becomes, upon its execution by the signatories named below, a legally valid, 
+binding part of Agreement No.   between the Commonwealth and   
+(Contractor), and is subject to the terms of that Agreement. 
+1. Scope of Deployment (need not be entire agency): 
+2. Nature of Data implicated or potentially implicated: 
+3. Agency Policies to which Contractor is subject (incorporated by reference): 
+4. Background checks (describe if necessary): 
+5. Additional requirements (describe with specificity): 
+6. Is Contractor a Business Associate (yes or no)? 
+If yes, the attached Business Associates Agreement, as completed by the 
+Agency, is applicable and is hereby incorporated into this Sign-Off 
+Document by reference. 
+Agency Contact Person Signature and Date:   
+ 
+ 
+ 
+[Contractor ] 
+ 
+Authorized Signatory and Date: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit C, Sample Sign-off Document 

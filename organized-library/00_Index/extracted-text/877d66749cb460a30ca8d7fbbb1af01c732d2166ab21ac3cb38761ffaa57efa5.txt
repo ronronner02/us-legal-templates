@@ -1,0 +1,29 @@
+LB-0285 (rev. 4/18) RDA 10183 
+Tennessee Bureau of Workers’ Compensation 
+220 French Landing Drive, I-B 
+Nashville, TN 37243-1002 
+800-332-2667 
+FORM C-26 
+NOTICE OF CHANGE OR TERMINATION OF COMPENSATION BENEFITS 
+This form is used by adjusters to notify workers’ compensation claimants of a change or termination in the monetary 
+amount of compensation benefits they will receive.  This information must be provided to the Bureau, via EDI, within five ( 5) 
+business days of the change or termination and to the claimant, using this form, simultaneously with the notice to the Bureau. 
+State File #: ________________________________________________ Insurer Claim # _________________________________ 
+Claimant Name __________________________________________________________________________________________ __ 
+Employer Name _________________________________________________________________________________________ __ 
+Date of Injury ___________________________________ Date of Disability __________________________________________ 
+CHANGE OF BENEFITS 
+Compensation benefit rate changed from $____________________________ to $______________________________________ 
+Reason for change: ________________________________________________________________________________________  
+________________________________________________________________________________________________________  
+Date of change: ____________________________________________Date claimant notified : ____________________________ 
+TERMINATION OF BENEFITS 
+Date benefits terminated _____________________________________ Date claimant notified: ____________________________ 
+Reason for termination: _____________________________________________________________________________________ 
+_________________________________________________________________________________________________________  
+_________________________________________________________________________________________________________  
+INSURER/SELF-INSURER/TPA 
+_________________________________________________________________________________________________________  
+Adjuster Name (printed)                                          Phone # 
+_________________________________________________________________________________________________________  
+Adjuster Email Address                                          Date 

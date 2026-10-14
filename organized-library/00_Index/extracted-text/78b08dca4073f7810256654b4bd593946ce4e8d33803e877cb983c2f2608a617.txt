@@ -1,0 +1,544 @@
+COTS-EULA-SC (licensor's name) Page 1 of 10                                                                   Ver. 5.2SA (Aug 
+2014) 
+[Licensor's name] 
+[mm/dd/yyyy to mm/dd/yyyy] 
+ 
+ 
+SOUTH CAROLINA STANDARD AMENDMENT 
+TO 
+END USER LICENSE AGREEMENTS 
+FOR 
+COMMERCIAL OFF-THE-SHELF SOFTWARE 
+---- 
+SINGLE AGENCY 
+ 
+ 
+ This Agreement is made the ______ day of ________, 20__ (the "Effective Date") between [Company 
+Name], a corporation organized and existing under the laws of [ State], and having its principal office at 
+[address] (hereinafter referred to as "Licensor") and [ Agency Name], an instrumentality of the State of 
+South Carolina (hereinafter referr ed to as “Licensee.” Licensor and Licensee may also be referred to in 
+this Agreement collectively as the "Parties."  
+ 
+ IN WITNESS WHEREOF, the Parties hereto have executed this Agreement by their duly authorized 
+agents. 
+ 
+ 
+Solicitation Description:_____________________ 
+ 
+Solicitation No.: ___________________________ 
+LICENSOR. 
+ 
+ 
+ 
+________________________________________ 
+ 
+By: 
+ 
+Its: 
+ 
+INFORMATION TECHNOLO GY MANAGEMENT 
+OFFICE, acting on behalf of Licensee. 
+ 
+ 
+________________________________________ 
+ 
+By: 
+ 
+Its: 
+ 
+ 
+ 
+Recitals 
+ 
+This document is being used in conjunction with a solicitation issued for a government procurement being 
+conducted for Licensee; nevertheless, the Parties intend for this document (including any attachments) to 
+memorialize a contractual relationship related to but independent of any contractual relationship entered 
+into by an award issued pursuant to that solicitation. 
+ 
+Agreement 
+ 
+ For the reasons recited above, and in consideration of the mutual covenants contained herein, the 
+Parties agree as follows: 
+ 
+Definitions 
+ 
+Agreement means this South Carolina Standard Amendment to End User License Agreements for 
+Commercial Off-The-Shelf Software, not including any EULA or other attachments. 
+ 
+Authorized EULA  means any EULAs attached as Exhibit "C", but do es not include any document 
+referenced or incorporated therein unless attached to this Agreement. Licensor warrants that every 
+Authorized EULA is an unmodified copy of Licensor's standard form agreement.  
+COTS-EULA-SC (licensor's name) Page 2 of 10                                                                   Ver. 5.2SA (Aug 
+2014) 
+ 
+Distributor means the generic category of entities authorized by Licensor, if any, that participate in the 
+distribution chain between Licensor and Licensee, including, but not limited to, value added resellers 
+(VARs), original equipment manufacturers (OEMs), distributors, dealers, independent sales organiz ations 
+(ISOs), resellers, and retail outlets.  
+ 
+Distributor Contract means a contract between a Licensee and a Distributor by which Licensee can 
+acquire licenses of the Software. Nothing in this agreement constitutes a representation or obligation that 
+Licensor has made or will make its Software available through a Distributor. 
+ 
+Documentation means all materials supplied, directly or indirectly, to Licensees by Licensor, by any 
+means or media that explain or facilitate the use of the Software, which may inc lude, without limitation, 
+any materials that describe the functional, operational, and/or performance capabilities of the Software; 
+training materials; user, operator, system administration, technical, support, and other manuals or 
+instructions; flow chart s, and logic diagrams. Licensor warrants that the Documentation does and will 
+continue to accurately describe the functional and operational characteristics of the Software. Licensor 
+warrants that the Documentation will be contemporaneously updated to refl ect any changes made to the 
+Software. 
+ 
+End User License Agreement ("EULA") means any license agreement or other commercial agreement, 
+regardless of how designated, pertaining to the right to use any Software, including, but not limited to, any 
+such agreement proposed prior to or after execution of this Agreement, and including without limitation 
+any such agreement that either is affixed to (e.g., shrinkwrap), imbedded in (e.g., clickwrap), or in any 
+way accompanies the Software upon delivery. The term "EULA " does not include this Agreement. The 
+term "EULA" does not include any contract awarded by or on behalf of a Licensee as a result of a formal 
+solicitation (e.g., invitation for bids or request for proposals) issued by or on behalf of a licensee. The term 
+"EULA" does not include a contract to the extent it governs software maintenance as defined in ISO/IEC 
+14764:2006.  
+ 
+ITMO means the Information Technology Management Office established by South Carolina Code 
+Section 11-35-820, as amended, or its successor in interest. Pursuant to Section 11- 35-510 of the South 
+Carolina Code of Laws, ITMO is authorized to act as the statutory procurement agent for every South 
+Carolina Governmental Body (as defined by S.C. Code Ann. § 11- 35-310(18), as amended) covered by 
+the South Carolina Consolidated Procurement Code. Consistent with its statutory authority, ITMO is 
+acting solely in a representative capacity and on behalf of Licensees. ITMO is not a party to this 
+Agreement. Notwithstanding any other provision, ITMO bears no liability for any party's losses arising out 
+of or relating in any way to this Agreement. 
+ 
+Ordering and Confirming Documents means those documents exchanged between a Licensee and the 
+Licensor to memorialize the number and configuration of licenses ordered and provided, whether 
+exchanged directly with Licensor or indirectly through a Distributor. By way of example, ordering 
+documents may include a purchase order or other instrument submitted by Licensee, and confirming 
+documents may include a software key or license-specific identifying information, an invoice, or another 
+document submitted by Licensor. 
+ 
+Prior Agreement  means a written agreement that was negotiated, signed using pen and paper, and 
+executed by an authorized representative of a Licensee prior to the Effective Date of this Agreement. 
+  
+Procurement Contract means any contract awarded pursuant to the Solicitation identified above by 
+reference to its Solicitation Number and Solicitation Description. 
+ 
+Software means any computer program referenced on Exhibit "B", including any future service packs, 
+maintenance updates, patches, fixes, or like modifications to the computer program by whatever name 
+provided by Licensor, if any. In addition, Exhibit B excludes any computer program not identified in the 
+Procurement Contract. For clarity, Exhibit B excludes all services, including without limitation, so- called 
+“software-as-a-service” and “cloud services,” application services, etc., even if included therein. 
+COTS-EULA-SC (licensor's name) Page 3 of 10                                                                   Ver. 5.2SA (Aug 
+2014) 
+ 
+Attachments 
+ 
+Exhibit A – [RESERVED ] 
+Exhibit B – Software List 
+Exhibit C - Authorized EULAs 
+ 
+1. RELATIONSHIP BETWEEN THIS AGREEMENT AND THE AUTHORIZED EULAs.  
+ 
+ 1.1 Agreement to Authorized EULAs. Subject to the provisions of this Agreement, Licensee agrees to 
+the terms and conditions of the Authorized EULAs. Any EULA that is not an Authorized EULA is void and 
+of no effect. Licensor represents that every EULA applicable to the computer programs referenced on 
+Exhibit "B" has been attached to  Exhibit "C" as an Authorized EULA. 
+ 
+ 1.2 Primacy of Agreement . The terms of this Agreement shall be given full effect prior to the 
+application of any term in the Authorized EULAs. To the extent of any inconsistency or conflict, the terms 
+of this Agreement take precedence over any similar terms in any Authorized EULAs.  To the extent an 
+Authorized EULA provides Licensee with options or rights in addition to or beyond those available under 
+this Agreement, nothing in this Agreement is intended to limit Licensee's exercise of such options or 
+rights. 
+ 
+ 1.3 Entire Agreement . Within the scope of this Agreement, as defined in Paragraph 2, this 
+Agreement, Exhibit “B” (the Software List), and the Authorized EULAs constitute the entire agreement 
+between the Parties and supersede all other prior or contemporaneous agreements, repres entations, or 
+discussions, whether oral or written. This Agreement and the Authorized EULAs shall apply 
+notwithstanding any conflicting or additional provisions in Ordering or Confirming Documents. 
+ 
+2. LIMITED SCOPE OF AGREEMENT. 
+ 
+ 2.1 This Agreement and t he Authorized EULAs apply only to the use and licensing of Software by 
+Licensee. All terms in an Authorized EULA regarding services (other than warranty services) are void.  
+ 
+ 2.2 Neither this Agreement nor an Authorized EULA authorize any Licensee to pay any funds directly 
+to Licensor. All terms in a EULA regarding pricing, payment, interest, and delivery are void. This 
+Agreement and the Authorized EULAs are independent of, and do not form a part of a Procurement 
+Contract. Ordering and Confirming Documents may not be issued pursuant to an Authorized EULA, but 
+must be issued pursuant to a Procurement Contract. Ordering and Confirming Documents form a part of 
+this Agreement and the Authorized EULAs but only to the extent they memorialize the number of, 
+configuration of, and prices paid for licenses ordered and provided. Ordering and Confirming Documents 
+may not supplement, alter, or modify any provision of this Agreement or an Authorized EULA.  
+ 
+ 2.3 Subject to the limits of item 2.1, this Agreement and the Authorized EULAs apply to all licenses of 
+Software licensed from Licensor by a Licensee during the term of this Agreement, whether acquired 
+directly from Licensor or indirectly through a Distributor.  
+ 
+3. TERM OF AGREEMENT. 
+ 
+ 3.1 With regard to the licensure of any particular copy of Software, the terms of this Agreement and 
+the Authorized EULAs shall continue to apply to that license notwithstanding the expiration of this 
+Agreement. 
+ 
+ 3.2 This Agreement shall be in effect for seven years from the Effective Dat e. Expiration of this 
+Agreement does not terminate any particular license of Software. 
+  
+4. LICENSE GRANT. 
+ 
+COTS-EULA-SC (licensor's name) Page 4 of 10                                                                   Ver. 5.2SA (Aug 
+2014) 
+ 4.1 Any rights granted by Licensor to Licensee in an Authorized EULA are in addition to any rights 
+granted by this Paragraph 4. Licensor agrees that Licensee shall have the rights that are set forth in items 
+4.2, 4.3, 4.4, and 4.5 below. 
+ 
+ 4.2 For each license acquired, the Software may be: 
+ 
+  4.2.1 Used or copied for use in or with the computer or computers for which it was acquired, 
+including witho ut limitation use at any of Licensee's installations to which such computer or computers 
+may be transferred; 
+ 
+  4.2.2 Used or copied for use in or with a backup computer if any computer for which it was acquired 
+is inoperative; 
+ 
+  4.2.3 Reproduced for safekeeping (archives) or backup purposes; 
+ 
+  4.2.4 Modified, adapted, or combined with other computer programs  or computer data bases ; 
+however, a Licensee may not reverse engineer, decompile or disassemble the Software except to the 
+extent necessary to create interfaces to, or allow inter -operability with, other computer programs or 
+computer data bases; 
+ 
+  4.2.5 Disclosed to and used by support service contractors or their subcontractors for the benefit of 
+the Licensee, subject to the restrictions set forth in this Agreement; and, 
+ 
+  4.2.6 Used or copied for use in or transferred to a replacement computer. 
+ 
+ 4.3 Notwithstanding any other provision, Licensee's fair use rights (17 U.S.C. § 107) are not limited in 
+any way. 
+ 
+5. INTELLECTUAL PROPERTY INFRINGEMENT. 
+ 
+ 5.1 As used in this Paragraph 5, these terms are defined as follows: "Acquired Item(s)" means the 
+rights, Software, or services, if any, furnished under this Agreement or any Authorized EULA.  “Affiliate” 
+means any business connected with or related to Lic ensor. "Indemnitee" means Licensee, its 
+instrumentalities, agencies, departments, boards, political subdivisions and all their respective officers, 
+agents and employees. "IP Right(s)" means a copyright, patent, trademark, trade secret, or any other 
+proprietary right. 
+ 
+ 5.2 In the event of any claim by any third party against an Indemnitee asserting or involving an IP 
+Right which concerns any Acquired Item(s), Licensor shall defend Indemnitee, at its expense, against all 
+actions, proceedings or claims of any  nature and shall, without limitation, indemnify Indemnitee for and 
+against any loss, cost, expense, attorneys' fees and expenses (including inside counsel), or liability, 
+resulting from or related to such claim, whether or not such claim is successful.  
+ 
+ 5.3 Indemnitee must notify Licensor in writing within a reasonable period of time after Indemnitee first 
+receives written notice of any such claim or action. Indemnitee's failure to provide or delay in providing 
+such notice will relieve Licensor of its obl igations under this Paragraph 5 only if and to the extent that 
+such delay or failure materially prejudices Licensor's ability to defend such claim. Indemnitee must 
+reasonably cooperate with Licensor's defense of such claims or suits and, subject to Title 1 , Chapter 7 of 
+the South Carolina Code of Laws, allow Licensor sole control of the defense, so long as the defense is 
+diligently and capably prosecuted. Licensee may participate in Licensor’s  defense of any action. Except 
+for an injunction limited to requiring the cessation of use of an Acquired Item that is the subject of a claim, 
+Licensor may not, without Licensee’s prior written consent, settle, compromise, or consent to the entry of 
+any judgment in any such commenced or threatened claim or action unless  such settlement, compromise 
+or consent (i) includes an unconditional release of Indemnitee from all liability related to such commenced 
+or threatened claim or action, and (ii) is solely monetary in nature and does not include a statement as to, 
+or an admi ssion of fault, culpability or failure to act by or on behalf of, an Indemnitee or otherwise 
+COTS-EULA-SC (licensor's name) Page 5 of 10                                                                   Ver. 5.2SA (Aug 
+2014) 
+adversely affect an Indemnitee. Licensee's consent is necessary for any settlement that requires 
+Licensee to part with any right or make any payment or subjects Li censee to any injunction, except for an 
+injunction requiring cessation of use of an Acquired Item that is the subject of the claim.  
+ 
+ 5.4 In the event an injunction, order, or agreement shall be obtained against Licensee's use of any 
+Acquired Item, Licensor shall, without in any way limiting its other obligations under this Agreement and at 
+its sole expense: (a) use good faith, diligent efforts to procure for Licensee the right to continue to use, 
+and to have used, the Acquired Item, and if such remedy is c ommercially impracticable, to then (b) 
+replace or modify the Acquired Item so that it becomes non- infringing but only if the modification or 
+replacement does not materially  adversely affect the functionality of the Acquired Item or its use by 
+Licensee. In the event that both of these remedies are commercially impracticable, Licensor may require 
+that Licensee stop using the Acquired Item, refund to Licensee an amount equal to all money paid by 
+Licensee therefore, and take all steps necessary to have any Indemnitees released from any further 
+liability. 
+ 
+ 5.5 Licensor's obligations under this Paragraph 5 do not apply to a claim to the extent (a) that the 
+claim is caused by a modification of Software made by Licensee; (b) that the claim is caused by 
+Licensee’s use of a superseded release of Software if the infringement would have been avoided by 
+Licensee's timely implementation of an update or upgrade previously provided to Licensee, but only if 
+such update or upgrade (1) was provided by Licensor at no cost or as  part of either maintenance or a 
+previous purchase by Licensee, and (2) does not materially adversely affect the functionality of the 
+Acquired Item or its use by Licensee; (c) that the claim is caused by Licensee combining the Software 
+with another computer program or hardware unless such combinations are recommended by the 
+Documentation or otherwise suggested by Licensor or its Affiliates; (d) that the claim is caused by 
+Licensee reverse engineering, decompiling, or disassembling Software; (e) that the claim arises from 
+Licensee's use of any Software that is open source or freeware, but only if the open source or freeware is 
+not incorporated or combined by Licensor in Software provided by Licensor; (f) that the claim is caused 
+(1) by modifications made to t he Software by Licensor or its Affiliates in accordance with a detailed, exact 
+statement of specifications furnished by Licensee unless Licensor or its Affiliates knew or should have 
+known that compliance with the Licensee's specifications would infringe an IP right, or (2) by compliance 
+by Licensor or its Affiliates with specifications furnished by Licensee if Licensee knowingly relied on a 
+third party's product to develop the specifications provided to Licensor or its Affiliates and failed to identify 
+such product to Licensor. 
+ 
+ 5.6 Notwithstanding any other provision, Licensor's obligations pursuant to this Paragraph 5 are 
+without any limitation whatsoever. Licensor's obligations under this clause shall survive the termination, 
+cancellation, rejection, or expiration of this Agreement. 
+ 
+ 5.7 Paragraph 5 states Licensee's exclusive remedy for third party damages claims asserting a 
+violation or infringement of the third party's intellectual property rights. 
+ 
+6. LIMITATION OF RECOVERY. 
+ 
+ 6.1 Limitation of Damages – Licensor. Except as provided in Paragraph 5 (Intellectual Property 
+Infringement), Paragraph 7.1 (Right to Audit; Misuse of Data), and Paragraph 14.22 (Privacy), Licensor’s 
+liability for damages, if any, for any cause whatsoever, and regardless of the form of action, shall in no 
+event exceed an amount equal to twice the cumulative fees paid or payable by Licensee to license the 
+Software. The foregoing limitation applies to the exclusion of any other limitation or exclusion of the 
+remedies available against Licensor, the liability of Licensor, or the damages recoverable from Licensor.  
+ 
+ 6.2 Limitation of Damages -  Licensee. Except as provided in Paragraph 7.2 (Audit Remedy; 
+Exclusivity), Licensee’s liability for damages, if any, for any cause whatsoever, and regardless of the form 
+of action, shall in no event exceed an amount equal to twice the cumulative fees paid or payable by 
+Licensee to license Software. Licensee’s total liability for any obligation arising under any clause imposing 
+any duty of confidentiality or non- disclosure shall not exceed an amount equal to fifty thousand dollars. 
+The foregoing limitations do not apply to a loss incurred by Licensor to the extent the loss results because 
+COTS-EULA-SC (licensor's name) Page 6 of 10                                                                   Ver. 5.2SA (Aug 
+2014) 
+Licensee has created a derivative work from, reverse assembled, reverse compiled, or otherwise reduced 
+to human readable form the Software without Licensor's prior written consent. Nothing herein shall be 
+construed to waive any clause regarding the availability or appropriation of funds, sovereign immunity, or 
+any other immunity, restriction, or limitation on recovery provided by law. 
+ 
+7. AUDIT. 
+ 
+ 7.1 Right to Audit; Misuse of Data. Licensor has the right to audit Licensee at Licensor's expense.  
+Licensor shall conduct an audit and use the information obtained in a n audit only to enforce Licensor's 
+rights under, and to determine whether Licensee is in compliance with, the terms of this Agreement and 
+any Authorized EULAs. Any audit will be subject to a confidentiality obligation and will take place upon not 
+fewer than 30 days notice, during Licensee's normal business hours, and in a manner that does not 
+interfere unreasonably with Licensee's operations. Licensor's sole audit right regarding Licensee is 
+provided by this Paragraph 7. Notwithstanding any other provision,  Licensor's liability for intentional 
+breach of its obligation regarding the use of information obtained in an audit is without any limitation 
+whatsoever. 
+ 
+ 7.2 Audit Remedy; Exclusivity . If an audit reveals or Licensor otherwise discovers unlicensed use of 
+Software by Licensee, Licensee shall either (a) promptly order and pay for sufficient licenses to permit all 
+Software usage discovered and pay Licensor the difference between (i) the license fees  that Licensee 
+should have paid for such Software, based upon actual usage, and (ii) the actual license fees that 
+Licensee paid for the software, based upon the actual usage level for which such Software was licensed, 
+or (b) immediately terminate any unlicensed use of Software and pay any applicable license fees f or any 
+noncompliance discovered. If a Distributor Contract exists, Licensee may order licenses from, and pay 
+license fees to, a Distributor at a price established by a Distributor Contract. If Licensee's unlicensed use 
+of the Software would be within the s cope of license rights granted by this Agreement and the Authorized 
+EULAs but for Licensee's failure to acquire an adequate number of licenses or an available license, 
+Licensor's exclusive remedy for the unlicensed use shall be the remedy provided by this item 7.2. If 
+Licensee fails to execute either option within a reasonable time, the foregoing remedy will not be 
+considered exclusive. 
+  
+ 7.3 Licensor's right to conduct an audit is limited by any applicable statutory or regulatory limitations 
+on access to public records. 
+ 
+8. LICENSEE'S RECORDS.  For each license of Software acquired pursuant to this Agreement, 
+Licensee agrees to retain records of that license for one year beyond the duration of that license, 
+provided that Licensee has no obligation to retain records of a license beyond one year after Licensee 
+ceases to retain a copy of the Software to which a license applies. Licensor may access Licensee's 
+records as provided in the South Carolina Freedom of Information Act and any other applicable law. 
+Except as stated in this Agreement, Licensor agrees that Licensee has no obligation to retain any 
+records. 
+ 
+9. CONFIDENTIALITY & NONDISCLOSURE. This Agreement and the Authorized EULAs are subject to 
+public disclosure. All provisions of an Authorized EULA regard ing confidentiality or nondisclosure are 
+subject to the South Carolina Freedom of Information Act and other applicable laws. Any duty of 
+confidentiality or nondisclosure established by an Authorized EULA applies only to Software and 
+Documentation that has been conspicuously marked with the words confidential, proprietary, or trade 
+secret. 
+ 
+10. TERMINATION. Licensor may not terminate either this Agreement or the Authorized EULAs in the 
+absence of a breach by Licensee that would, under the common law, be mate rial. Any termination by 
+Licensor must be preceded by adequate notice and opportunity to cure. If Licensor exercises any 
+termination rights under any Authorized EULA, Licensee may, in addition to any rights provided in the 
+Authorized EULAs, continue using software pursuant to this Agreement and the Authorized EULAs for a 
+period of six months in order to allow Licensee to convert from the use of Software, unless Licensee has 
+violated the restrictions in paragraph 4.2.4. During the conversion period, and to t he extent applicable 
+COTS-EULA-SC (licensor's name) Page 7 of 10                                                                   Ver. 5.2SA (Aug 
+2014) 
+Licensee shall pay any applicable, previously unpaid license fees at the price last available from Licensor 
+to Licensee prior to termination or, at Licensee's option, at the price established by an applicable 
+Distributor Contract, if any.  
+ 
+11. WARRANTIES. The warranties provided in this Paragraph 11 are in addition to any other 
+warranties provided in the Authorized EULAs. Licensor warrants (a) that every item of Software, without 
+unauthorized modification, will perform substantially in  accordance with the Documentation applicable to 
+the Software for a period of 365 days from the date the item of Software is installed by Licensee, (b) that 
+Licensor has all necessary right and authority to license the Software and to grant the licenses pr ovided 
+hereunder, and  (c) that there is currently no actual or threatened legal action against Licensor by any 
+third party based on an alleged violation of an intellectual or proprietary property right that has not been 
+disclosed to ITMO and that could ad versely affect Licensor's ability to license the use of the Software.  
+Licensor agrees that it will not electronically repossess, trigger any lock, or use any device capable of 
+halting operations or erasing or altering data or programs with regard to any Software that it has licensed 
+to Licensee. 
+ 
+12. BANKRUPTCY. 
+ 
+ 12.1 Notice of Insolvency . Licensor shall provide ITMO and Licensee with written notice immediately 
+upon the filing by Licensor of a petition in bankruptcy or insolvency or upon any other proceedi ng or 
+action by or against Licensor under the relevant law on insolvency or bankruptcy, or after the making by 
+Licensor of any assignment or attempted assignment for the benefit of creditors or upon or after the 
+institution of any proceedings for the liquidation or winding up of Licensor's business or for the termination 
+of its corporate charter. 
+ 
+ 12.2 Rejection of Executory License. The Parties agree that the Software is "intellectual property" as 
+defined in Section § 101(35A) of the U.S. Bankruptcy Code.  Upon the filing by Licensor of a petition in 
+bankruptcy or insolvency or upon any other proceeding or action by or against the Licensor under the 
+relevant law on insolvency or bankruptcy, this Agreement and the Authorized EULAs shall be governed 
+by Sectio n 365(n) of the U.S. Bankruptcy Code. If any person seeks to reject this Agreement or the 
+Authorized EULAs pursuant to bankruptcy law, Licensee shall have the option of using the Software for 
+either the original term of the Authorized EULAs or a period of five years after rejection is requested.  
+ 
+13. RIGHTS TO SOFTWARE OR DATABASE DEVELOPED BY LICENSEE. Nothing in this Agreement 
+or any Authorized EULA shall be construed to give Licensor any rights with regard to computer programs 
+developed by Licensee, regardless of whether or not such programs are connected to or embedded in 
+Software or are functionally similar, in whole or part, to Software. Nothing in this paragraph grants a 
+Licensee any rights to Licensor's intellectual property or to any derivative work s. 
+ 
+14. GENERAL 
+ 
+ 14.1 Choice of Law & Choice of Forum . Both the rights and obligations of the Parties and this 
+Agreement and any EULA, as well as any dispute, claim, or controversy arising out of or relating to this 
+Agreement or any EULA, shall, in all respects, be established, interpreted, construed, enforced and 
+governed by and under the laws of the State of South Carolina, without regard to any provision governing 
+conflicts of law. All disputes, claims, or controversies arising out of or in any way rela ting to this 
+Agreement or any EULA shall be resolved exclusively by the appropriate Chief Procurement Officer in 
+accordance with Title 11, Chapter 35, Article 17 of the South Carolina Code of Laws, or in the absence of 
+jurisdiction, only in the Court of Co mmon Pleas for, or a federal court located in, Richland County, State 
+of South Carolina. 
+ 
+ 14.2 Sovereign Immunity . Title 11, Chapter 35, Article 17 constitutes a limited statutory waiver of 
+sovereign immunity. Notwithstanding paragraph 14.1, Licensor agre es that neither this Agreement, any 
+Authorized EULAs, nor any act by either ITMO or Licensee regarding this Agreement or any EULA is a 
+waiver of either their sovereign immunity or their immunity under the Eleventh Amendment of the United 
+States Constitution. 
+COTS-EULA-SC (licensor's name) Page 8 of 10                                                                   Ver. 5.2SA (Aug 
+2014) 
+  
+ 14.3 Subject to Applicable Law . This Agreement is entered into pursuant to the South Carolina 
+Consolidated Procurement Code (Title 11, Chapter 35 of the South Carolina Code of Laws.) As a public 
+entity, all of Licensee's obligations are subject to any applicable laws. 
+ 
+ 14.4 Alternative Dispute Resolution. No method of mandatory alternative dispute resolution shall apply 
+to any dispute, claim, or controversy arising out of or relating to this Agreement or the Authorized EULAs.  
+ 
+ 14.5 CISG / UCITA . Neither the UN Convention on the International Sale of Goods nor the Uniform 
+Computer Information Transactions Act (nor any non-uniform version) shall apply to this Agreement or the 
+Authorized EULAs. 
+ 
+ 14.6 ITMO Participation In Contract Disputes . Consistent with its statutory authority, ITMO is acting 
+solely in a representative capacity and on behalf of Licensees . Accordingly, ITMO is not a party to this 
+Agreement and need not be joined as a party to any dispute that may arise out of this Agreement. With 
+regard to this Agreement, the officers, agents and employees of ITMO are acting solely in their official 
+capacity and need not be joined as a party to any dispute that may arise out of this Agreement.  
+ 
+ 14.7 Notices. In addition to any other obligations the parties may have regarding notice, all  notices or 
+other communications regarding termination, material breach, modification, or audit of this 
+Agreement, an Authorized EULA, or a license covered by either shall be copied to ITMO at the 
+following address. 
+ 
+Information Technology Management Office 
+Procurement Services Division  
+State Budget & Control Board 
+1201 Main Street, Suite 600 
+Columbia, SC 29201 
+ 
+ 14.8 Third Party Beneficiary . This Agreement and the Authorized EULAs are made solely and 
+specifically among and for the benefit of the Parties hereto, and their respective successors and assigns, 
+and no other person will have any rights, interest, or claims hereunder or be entitled to any benefits under 
+or on account of this Agreement or the Authorized EULAs as a third party beneficiary or otherwise. 
+ 
+ 14.9 Assignment. Except as set forth below, neither party may assign or transfer this Agreement, the 
+Authorized EULAs, or any rights regarding either, without the prior written consent of ITMO. Reference 
+S.C. Code Ann. Regs § 19 -445.2180. Such consent shall not be unreasonably withheld. Any attempted 
+assignment, delegation or transfer in derogation of this Paragraph shall be null and void.  
+ 
+  14.9.1 This Agreement and the Authorized EULAs, and any rights regarding either, may be assigned 
+to an affiliates of the Licensor, or to successors -in-interest of substantially all the assets of the Licensor, if 
+the assignee expressly assumes the Licensor's obligations under the assigned agreement. Licensor must 
+give Licensee reasonable prior notice of any assignment. As used in this item, affiliate means a legal 
+entity that controls, is controlled by, or is under common control with Licensor.  
+ 
+  14.9.2  If Licensee is reorganized such that certain operations or functions are t ransferred from 
+Licensee to a different public procurement unit, then in connection with such reorganization, a Licensee 
+may, upon written notice to Licensor, transfer licenses to another public procurement unit provided that 
+the transferee is performing s ome substantially similar business and/or operational functions as the 
+original Licensee. Both entities shall execute such paperwork as Licensor may reasonably require.  
+ 
+ 14.10 Interpretation. Any question of interpretation or construction shall not be res olved by any rule 
+providing for interpretation or construction against the party who causes the uncertainty to exist or against 
+the drafters of this Agreement. 
+ 
+COTS-EULA-SC (licensor's name) Page 9 of 10                                                                   Ver. 5.2SA (Aug 
+2014) 
+ 14.11 Headings. The headings contained in this Agreement are for the purposes of convenience 
+only and are not intended to define or limit the contents of this Agreement.  
+ 
+ 14.12 Publicity. Licensor agrees not to refer to Licensees in such a manner as to state or imply that 
+either Licensor or its Software is endorsed or preferred by Licensee, the St ate of South Carolina, or any 
+unit of either.  The foregoing shall not prohibit the Licensor from identifying a Licensee as a customer in a 
+customer list.  
+ 
+ 14.13 Relationship Among Public Entities . Each Licensee's obligations and liabilities are 
+independent of every other Licensee's obligations and liabilities. Termination of one Licensee does not 
+constitute grounds for termination of a different Licensee. 
+ 
+ 14.14 Language of Agreement & Notices . The language of this Agreement is English. If translated 
+into another language, this English version of the Agreement shall be controlling. All notices required or 
+permitted to be given hereunder shall be written in the English language.  
+ 
+ 14.15 Survival of Obligations . The Parties' rights and obligations which, b y their nature, would 
+continue beyond the termination, cancellation, rejection, or expiration of this Agreement shall survive such 
+termination, cancellation, rejection, or expiration, including, but not limited to, the rights and obligations 
+created by the following clauses: Intellectual Property Infringement, Limitation of Recovery, Audit, 
+Bankruptcy, and General.  
+ 
+ 14.16 Waiver & Modification. No waiver of any default by either party shall act as a waiver of a 
+subsequent or different default. The provisi ons of this Agreement and the Authorized EULAs may not be 
+modified or waived except by another agreement in writing executed by an authorized representative of 
+Licensee and an authorized representative of Licensor. 
+ 
+ 14.17 Anti-Indemnification & Anti -Representation. Any provision in the Authorized EULAs is void to 
+the extent it imposes an obligation upon ITMO or a Licensee that would properly be characterized as an 
+indemnity. Licensee makes no representations or warranties to Licensor, and any language to t he 
+contrary is void. 
+ 
+ 14.18 Statute of Limitations . Any provision in the Authorized EULAs is void to the extent that it 
+modifies the statute of limitations or alters the time period within which an action must be brought.  
+ 
+ 14.19 Non-appropriations. Payment and performance obligations for succeeding fiscal periods shall 
+be subject to the availability and appropriation of funds therefore. When funds are not appropriated or 
+otherwise made available to support continuation of performance in a subsequent fiscal period, the 
+contract shall be cancelled. 
+ 
+ 14.20 Attorneys' Fees. Except as otherwise provided in this Agreement, each party waives any claim 
+it may have to recover attorneys' fees from any other party.  
+ 
+ 14.21 Users. A Licensee has no liability for any acts or omissions of any person that Licensee allows 
+to use the Software, unless such acts or omissions are within the scope of that person's employment or 
+have been properly authorized by Licensee. 
+ 
+ 14.22 Privacy. As used in this paragraph, the term 'data' means any information regarding any 
+person or entity other than a Licensee that is gathered or acquired as a result of the Software licensed by 
+Licensee being used. Except to the extent fully disclosed in writing (e.g., a privacy policy or the 
+Documentation) prior to execution of this Agreement, Licensor represents that Software will not provide 
+any entity other than Licensor with any data. Notwithstanding anything to the contrary, Licensor agrees (i) 
+not to use or retain data for any purpose other than  performing this contract, except to the extent that 
+using or retaining state data is incidental to contract administration, such as financial, administrative, cost 
+or pricing, and (ii) not to sell, trade, or release data. Upon request, Licensor shall prov ide written 
+confirmation of compliance with this clause. Licensor agrees that Licensee has no adequate remedy at 
+COTS-EULA-SC (licensor's name) Page 10 of 10                                                                   Ver. 5.2SA (Aug 
+2014) 
+law for a violation of Licensor's obligations under this paragraph. Notwithstanding any other provision, 
+Licensor's liability for breach of its  obligation under this paragraph is without any limitation whatsoever. 
+[09-9030-1] 
+ 
+--- end of Piggyback --- 
+COTS-EULA-SC (licensor's name)                                                                                  Ver. 5.2 (Aug 2014) 
+EXHIBIT B 
+SOFTWARE LIST 
+ 

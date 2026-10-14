@@ -1,0 +1,155 @@
+Nevada State Purchasing Division 
+Department of Administration 
+515 E Musser St Ste 300 
+Carson City, NV 89701 
+purchasing.nv.gov 
+nevadaepro.com 
+ 
+ 
+ 
+Revised 2024-10 Page 1 of 3  
+Terms and conditions for goods purchases 
+ 
+The information contained in this Attachment does not need to be returned with vendor’ s proposal. 
+ 
+1. TERMS AND CONDITIONS FOR GOODS PURCHASES 
+ 
+1.1. Terms 
+ 
+1.1.1. Goods. As defined in NRS 104.2105, and as specifically identified in this solicitation and includes, without limitation, 
+supplies, materials, equipment, and commodities, as those terms are used in NRS Chapter 333.  
+1.1.2. Purchase order. Buyer-generated document that authorizes a purchase transaction.  It sets forth the descriptions, 
+quantities, prices, discounts, payment terms, date of performance or shipment, other associated terms and conditions, 
+and identifies a specific seller. When accepted by the seller, it becomes a contract binding on both parties; also called 
+order. 
+1.1.3. Proprietary information. Any trade secret or confidential business information that is contained in a Quote  submitted 
+on a particular Contract. See NRS 333.020(5) (a); NRS 333.333. 
+1.1.4. Public record. All books and public records of a governmental entity, the contents of which are not otherwise declared 
+by law to be confidential must be open to inspection by any person and may be fully copied or an abstract or 
+memorandum may be prepared from those public books and public records.  See NRS 333.333; NRS 600A.030(5). 
+1.1.5. Trade secret. Information including, without limitation, a formula, pattern, compilation, program, device, method, 
+technique, product, system, process, design, prototype, procedure, computer programming instruction or code that 
+derives independent economic value, actual  or potential, from not being generally known to, and not being readily 
+ascertainable by proper means by the public or any other person who can obtain commercial or economic value from 
+its disclosure or use, and is the subject of efforts that  are reasonable under the circumstances to maintain its secrecy.  
+See  NRS 600A.030(5). 
+ 
+1.2. Express warranties. For the period specified in the Contract/Purchase Order, Vendor warrants and represents each of 
+the following with respect to any goods provided under the Contract/Purchase Order: 
+ 
+1.2.1. Fitness for a particular purpose. The goods shall be fit and sufficient for the particular purpose set forth in the 
+Contract/Purchase Order. 
+1.2.2. Fitness for ordinary use. The goods shall be fit for the purpose for which goods of a like nature are ordinarily intended, 
+it being understood that the purpose for the goods covered by the Contract/Purchase Order  are ordinarily intended for 
+use in general government administration and operations. 
+1.2.3. Merchantable, good quality, no defects. The goods shall be merchantable, of good quality, and free from defects, whether 
+patent or latent, in material and workmanship. 
+1.2.4. Conformity. The goods shall conform to the standards, specifications and descriptions set forth in the Contract/Purchase 
+Order. If Vendor has supplied a sample to the State, the goods delivered shall conform in all respects to the sample and 
+shall be identified by the word "sample" and Vendor's name. 
+1.2.5. Uniformity. The goods shall be without variation, and shall be of uniform kind, quality, and quantity within each unit 
+and among all units. 
+1.2.6. Packaging and l abels. The goods shall be contained, packaged, and labeled so as to satisfy all legal and commercial 
+requirements applicable to use by a government agency, including without limitation, Occupational Safety and Health 
+Administration material safety data sheets and shall conform to all statements made on the label.  
+1.2.7. Full warranty. The foregoing warranties are "full" warranties within the meaning of the Magnuson- Moss Warranty -- 
+Federal Trade Commission Improvement Act, 15 U.S.C. 2301 et seq., and implementing regulations 16 C.F.R. pts. 700-
+703, if applicable to this transaction. 
+1.2.8. Title. Vendor has exclusive title to the goods and shall pass title to the State free and clear of all liens, encumbrances, 
+and security interests. 
+1.2.9. Infringement; indemnity. Vendor warrants the purchase or use of the goods shall not infringe upon any United States or 
+foreign patent, and Vendor shall indemnify the State against all judgments, decrees, costs, and expenses resulting from 
+any alleged infringement and shall defend, upon written request of the State, at its own expense, any action which may 
+ 
+ Page 2 of 3 Terms and conditions for goods purchases 
+be brought against the State, its vendees, lessees, licensees, or assignees, under any claim of patent infringement in the 
+purchase or use of Vendor goods. If the State is enjoined from using such goods, Vendor shall re -purchase such goods 
+from the State at the original purchase price.  The State shall notify Vendor promptly in writing of any such suit.  If the 
+State compromises or settles any such suit without the written consent of Vendor, Vendor shall be released from the 
+obligations of this paragraph and from any liability to the State under any statute or other rule of law. 
+1.2.10. Usage of trade; course of dealings; implied warranties. Vendor shall be bound by any implied warranty that, at the time 
+of execution of the Contract/Purchase Order, prevails in the trade of government in the marketing area in and about the 
+State of Nevada. Vendor shall also be bound by any other implied warranty arising through course of dealings between 
+Vendor and the State from and after the execution of the Contract/Purchase Order . Vendor shall also be bound by all 
+warranties set forth in Nevada's Uniform Commercial Code (NRS Chapter 104) in effect on the date of issuance of the 
+Contract/Purchase Order. 
+1.2.11. Warranties cumulative. It is understood that warranties created by the Contract/Purchase Order , whether express or 
+implied, as well as all warranties arising by operation of law that affect the rights of the parties, are cumulative and may 
+be construed in a manner consistent with one another. 
+1.2.12. Priority of warranties. If it is held by a court of competent jurisdiction that there is an irreconcilable conflict between 
+or among any of the warranties set forth in the Contract/Purchase Order  and any warranties implied by law, the parties 
+agree that the specifications contained in the Contract/Purchase Order  shall be deemed technical and mere language of 
+description. 
+1.2.13. Beneficiaries of warranties. Benefit of any warranty made in the Contract/Purchase Order shall be in favor of the State, 
+any of its political subdivisions or agencies, employee or licensee thereof who uses the goods, and the benefit of any 
+warranty shall apply to both personal injury and property damage. 
+ 
+1.3. Computer warranties. If the goods include computer software and/or hardware, the following warranties shall apply 
+in addition to the express warranties set forth above. 
+ 
+1.3.1. Software warranty. Contractor/licensor warrants that for the period specified in the incorporated attachments:  
+ 
+A. Under normal use and service, the media on which the licensed software is delivered shall be free from defects in 
+material and workmanship. 
+B. If the licensed product fails to meet the media warranty, and the State as licensee gives licensor written notice 
+thereof during the applicable warranty period, licensor shall replace such media.  
+C. The licensed product shall meet licensor's published specifications therefore in effect on the effective date of the 
+contract. 
+D. If the licensed product fails to meet the warranty and licensee gives licensor written notice thereof, licensor shall 
+correct the failure, if licensee gives licensor detailed information regarding such failure.  
+E. However, licensor shall not be liable to licensee for the warranty provided herein if: 
+F. Unanticipated or unauthorized modifications are made to the licensed product by someone other than licensor, or  
+G. The media for the licensed product is subject to misuse or abuse. 
+ 
+1.3.2. Hardware warranty 
+ 
+A. Contractor warrants that, under normal use and service, the computer hardware and spare parts purchased from 
+contractor shall be free from defects in material and workmanship, and the computer hardware shall  meet the 
+contractor's then current published specifications, therefore. 
+B. If hardware warranted hereunder fails to meet the warranties herein and the State gives contractor written notice 
+thereof during the applicable warranty period, contractor's sole obligation shall be to correct the failure by repair, 
+replacement, or adjustment, as determined in contractor's sole discretion. 
+C. However, contractor shall not be liable hereunder if: 
+ 
+1. Unanticipated or unauthorized modifications are made to the computer hardware by someone other than 
+contractor; 
+2. Attachments, features, or devices are employed on the computer hardware that are not supplied by contractor 
+or not approved in writing by contractor, including, without limitation, other components of the State's 
+systems; or  
+3. The computer hardware is subject to abuse or misuse. 
+ 
+1.4. Delivery, inspection, acceptance, title, risk of loss. Vendor agrees to deliver the goods as indicated in the 
+Contract/Purchase Order, and upon acceptance by the State, title to the goods shall pass to the State.  The State shall 
+have the right to inspect the goods on arrival and within a commercially reasonable time. The State shall give notice to 
+ 
+ Page 3 of 3 Terms and conditions for goods purchases 
+Vendor of any claim or damages on account of condition, quality, or grade of the goods, and shall specify the basis of 
+the claim in detail. Acceptance of the goods described in the Contract/Purchase Order is not a waiver of UCC revocation 
+of acceptance rights or of any right of action that the State may have for breach of warranty or any other cause. Unless 
+otherwise stated above, risk of loss from any casualty, regardless of the cause, shall be on Vendor until the goods have 
+been accepted and title has passed to the State. If provided by Vendor, the State agrees to follow reasonable instructions 
+regarding return of the goods. 
+ 
+1.5. No arrival, no sale. The Contract/Purchase Order is  subject to provisions of no arrival, no sale terms, but proof of 
+shipment shall be given by Vendor; each shipment to constitute a separate delivery. A variation of ten (10) days in time 
+of shipment or delivery from that specified in the Contract/Purchase Order  does not constitute a ground for rejection.  
+The State may treat any deterioration of the goods as entitling the State to the rights resulting from a casualty to the 
+identified goods without regard to whether there has been sufficient deterioration so that the goods no longer conform 
+to the Contract/Purchase Order. 
+ 
+1.6. Prices, taxes. The price quoted is for the specified delivery, and, unless otherwise specified in the contract, is F.O.B. 
+to the delivery address specified above. Unless otherwise specified in the contract, the price does not include applicable 
+federal or State sales, use, excise, processing or any similar taxes, or duty charges, which shall be paid by the State, or 
+in lieu thereof, the State shall provide contractor with a tax exemption certificate acceptable to the applicable taxing 
+authority. 
+ 
+1.7. Energy efficiency. In accordance with NRS 333.4611, the State of Nevada, Purchasing Division shall require the 
+purchase of new appliances, equipment, lighting and other devices that use electricity, natural gas, propane or oil, have 
+received the Energy Star label pursuant to  the program established pursuant to 42 U.S.C. 6294a or its successor, or 
+meet the requirements established pursuant to 48 C.F.R. 23.203. These standards do not apply insofar as: (a) No items 
+in a given class have been evaluated to deter mine whether they are eligible to receive the Energy Star label or have 
+been designated by the Federal Government to meet the requirements established pursuant to 48 C.F.R. 23.302 or (b) 
+The purchase of these items that have received the Energy Star label would not be cost -effective in an individual 
+instance, comparing the cost of the items to the cost of the amount of energy that shall be saved over the useful life of 
+the item. 
+ 

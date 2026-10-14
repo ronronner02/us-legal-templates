@@ -1,0 +1,4140 @@
+STATE OF MONTANA
+SOFTWARE
+ LICENSE AGREEMENT
+b
+etween
+The State
+ of Montana
+ (“
+the State
+”)
+a
+nd
+_______________________ (“
+Licensor
+”)
+TABLE OF CONTENTS
+Parties
+Definitions
+Effective Date, Duration and Renewal
+Term
+Agreement Renewal
+Licenses
+License
+Development License
+Ownership and Property Rights
+Disaster Recovery
+Licensor Obligations
+Delivery of Copies
+Licensor’s Employees and Agents
+Fees and Payments
+License Fees
+Tax Exemption
+Invoices
+No Obligation
+Cooperative Purchasing
+Non-Exclusive Contract
+Documentation
+Acceptance
+Acceptance Period
+Acceptance of Upgrades, Updates or Enhancements
+Maintenance and Support Services
+Upgrades, Updates, or Enhancements
+License
+Notice
+Maintenance
+Third Party Software
+Third Party Software and License
+Open Source
+ Software
+Third Party Software Warranty
+Source Code Escrow
+Confidentiality Rights and Obligations
+Ownership of Confidential Information
+Mutual Confidentiality Obligations
+Confidentiality Exceptions
+Warranties
+Compliance with Laws
+Licensor is Employer
+Licensor Provided Health Care Coverage
+Reporting Requirements
+Technology Access for Blind or Visually Impaired
+Registration with Secretary of State
+Hold Harmless/Indemnification
+Intellectual Property Indemnification
+Third-Party Claim
+Product Subject of Claim
+Limitation of Liability
+General Limitation
+Exceptions
+Insurance
+General Requirements
+Primary Insurance
+Specific Requirements for Commercial General Liability
+Specific Requirements for Automobile Liability
+Specific Requirements for Professional Liability
+Deductibles and Self-Insured Retentions
+Certificate of Insurance/Endorsements
+Specific Requirements for Cyber/Data Information Security
+Compliance with Workers’ Compensation Act
+Contract Oversight
+CIO Oversight
+Right to Assurance
+Stop Work Order
+Termination
+Termination for Cause
+Termination for Convenience
+Termination for Reduction of Funding
+Termination for Noncompliance with Department of Administration Requirements
+Bankruptcy or Receivership
+License Termination
+Transition Assistance
+Event of Breach – Remedies
+Event of Breach by Licensor
+State’s Remedies for Licensor’s Material Breach
+Event of Breach by State
+Licensor’s Remedies for State’s Material Breach
+Waiver
+Survival
+Assignment, Transfer, and Subcontracting
+Liaisons and Service of Notices
+Contract Liaisons
+ 
+OR
+Contract Manager
+Notifications
+Identification/Substitution of Personnel
+Meetings
+Technical or Contractual Problems
+Status Meetings
+Failure to Notify
+Professional Services
+Training
+Access and Retention of Records
+Access to Records
+Retention Period
+System Security
+ and Prohibited Activities
+System Security
+Prohibited Activities and Spoofing
+Audit
+Severability
+Force Majeure
+Choice of Law and Venue
+General Conditions
+Agreement
+Entire Agreement
+Amendments
+Remedies
+Authority
+Execution
+Schedule A – Description of Software and Training
+Schedule B 
+–
+ 
+Fees and Payments
+Schedule C – Maintenance Services
+Schedule D – Onsite Physical Access
+INSTRUCTIONS FOR USE OF THIS TEMPLATE: Remove these instructions before finalizing. Throughout this template, instructions for users of the template are shown in 
+blue font
+ and 
+should be removed
+ 
+before issuing 
+a
+ solicitation or 
+sending to a vendor.
+ 
+Material shown in 
+red font
+ is either 
+optional
+ 
+language 
+and/
+or language that 
+generally needs to be updated, customized, or checked to ensure it is applicable and accurate for the specific agreement.
+ 
+Customize the 
+optional/red
+ 
+text used, d
+elete 
+optional/red
+ text that 
+is not appropriate
+,
+ and c
+hange all
+ remaining
+ 
+optional/
+red
+ text to 
+black before issuing a solicitation or sending to a vendor.
+SOFTWARE
+ LICENSE AGREEMENT
+PARTIES
+T
+his 
+Software
+ License Agreement
+ (Agreement)
+ is entered into by and between 
+the State
+ of Montana 
+(insert agency name)
+, (
+"
+the State
+"), whose address and phone number are 
+(insert address)
+, 
+(insert phone number),
+ 
+and 
+(insert name of 
+Licensor
+)
+, 
+(the
+ "
+Licensor
+"), whose address and phone number are 
+(insert address)
+ 
+and 
+(insert phone number)
+.
+THE PARTIES AGREE AS FOLLOWS:
+2.
+DEFINITION
+S
+ 
+[NOTE: 
+Insert required definitions in this 
+s
+ection.
+ 
+Definitions should be included as a means of clarifying terms for 
+the 
+Software
+ application 
+being
+ licensed in the agreement. The following definitions are offered as examples. This is not an all-inclusive list.
+]
+ 
+“
+Acceptance Date
+” means the first 
+Business Day
+ after the day 
+the State
+ accepts the 
+Software
+ or it is deemed accepted pursuant to 
+Section 
+[
+10
+ (
+Acceptance
+)
+]
+;
+“
+Acceptance Period
+” means the period commencing on the 
+Installation Date
+ and continuing for 
+(insert the number of days)
+ days, as such period may be extended pursuant to 
+Section
+ 
+[
+10
+ (
+Acceptance
+)
+]
+;
+“
+Business Day
+” means 
+any day except Saturday
+s
+, Sunday
+s
+, and the legal holidays defined in 1-1-216(1), 
+MCA
+;
+“
+Access to Secure State Facilities and Confidential Information
+” means 
+Licensor
+ will
+:
+ enter upon secure premises controlled, held, leased, or occupied by the State
+;
+ or
+ ii) 
+have access to or receive any Con
+fidential 
+Information 
+during the course of
+ performing this 
+Agreement
+;
+“
+C
+onfidential Information
+” means, subject to Montana’s 
+public
+ 
+records laws, all written or oral information of either Party or a third party that has been identified as confidential or that by the nature of the information or the circumstances surrounding disclosure ought reasonably to be treated as confidential. 
+With respect to the State, Confidential Information shall also include a
+ny and all information 
+included within the definition of 
+"confidential information" in 2-6-1002, MCA, 
+that is 
+transmitted to or stored by Licensor in connection with performance of its obligations under this Agreement, including, but not limited to, personally identifiable information (“PII”) of residents, employees, or people recorded on data of the State, including name, address, phone number, e-mail address, date of birth, social security number, patient records, credit card information, driver’s license number, account numbers, PINs and/or passwords, and any other information that could reasonably identify a person
+. 
+If Licensor 
+orally 
+discloses information that Licensor intends to be kept confidential, Licensor shall provide a written statement identifying the information that is confidential and confirming the confidential nature of the information within 10 days of disclosure. Licensor's failure to provide this written confidentiality statement eliminates the State's obligation to keep the 
+oral disclosure 
+confidential
+;
+“
+Correction
+” 
+means 
+a modification to 
+Software
+ to resolve one or more 
+Error
+s
+;
+“
+Documentation
+” 
+means 
+all user, technical
+,
+ and operating manuals necessary to enable 
+the State
+ to properly install, use
+,
+ and maintain the 
+Software
+, including but not limited to 
+training materials, system specifications, hardware requirements, 
+and all other user instructions regarding the capabilities, operation, installation, and use 
+of the Software. Any modification to the Documentation will not reflect an overall material
+ decrease in the functionality or performance of the Software from that exi
+s
+ting on the Acceptance Date
+.
+“
+Enhancement
+”
+ 
+means 
+a 
+change 
+o
+r improvement to the 
+Software
+, whether
+ arising out of the 
+particular Software
+ configuration for the specific use of the 
+Licensor
+, Licensee,
+ or 
+otherwise;
+“
+Error
+” means an instance of failure of 
+Software
+ to be Operative.
+ 
+An 
+Error
+ is a Class 1 
+Error
+ if it renders the 
+Software
+ unusable for its intended purpose.
+ 
+An 
+Error
+ is a Class 2 
+Error
+ if the 
+Software
+ is still usable for its intended purpose, but such use is seriously inconvenient and the value to 
+the State
+ of the use of the 
+Software
+ is substantially reduced.
+ 
+All other 
+Error
+s are Class 3 
+Error
+s.
+“
+Installation Date
+” means the 
+initial 
+date the 
+Software
+ 
+was
+ properly installed
+ and 
+became
+ Operative
+.
+“
+Intellectual Property Right
+” means all 
+intellectual property rights
+ 
+recognized under the laws and treaties of the United States
+, including copyrights, patents, mask works, trademarks, trade secrets, authors’ rights, rights of attribution, and other proprietary rights and all applications and rights to apply for registration or protection of such rights.
+“
+Licensed Software”
+ 
+or
+ “Software
+” means the compiled, machine-readable, and/or executable version of the Software and related Documentation now in use by Licensor and as may be improved or modified by Licensor in the future, as more fully described on 
+Schedule A
+, including, but not limited to, the Documentation, all Corrections and Updates, and any Upgrades 
+or Enhancements 
+acquired by the State pursuant to this Agreement;
+“
+Maintenance Fees
+” means the fees for Maintenance Services set forth in 
+Schedule 
+B
+.
+“
+Maintenance Period
+” means
+,
+ unless otherwise specified in 
+Schedule C
+, 
+a period 
+commencing on the Installation Date and extending for a period 
+of 
+[insert 
+time period
+, e.g.,
+12 calendar months
+]
+ from the 
+later 
+of
+:
+ 
+i)
+ 
+the Acceptance Date; or 
+ii
+) 
+the date when the agree
+d
+-to Warranty Period expires
+. 
+“
+Maintenance Services
+” means the services described in 
+Schedule C
+ including
+ 
+telephone consultation, online and on-site technical support, 
+Error
+ 
+C
+orrection and the provision of Updates.
+ 
+“
+Operative
+” means conforming in all material respects to performance levels
+, requirements,
+ and functional specifications 
+established by the State and 
+described in
+:
+ this Agreement
+ and any associated relevant document 
+agreed to by both parties, including
+ the Schedules, 
+amendments, 
+addenda, and attachments
+;
+ 
+Solicitation 
+# ______________
+;
+ Licensor's response to the Solicitation
+;
+ the Documentation
+;
+ specifications
+;
+ and any other 
+information
+ 
+delivered in connection with the 
+Software
+.
+“
+Repair Period
+” means the 
+time period
+ commencing when 
+the State
+ reports an 
+Error
+ to 
+Licensor
+ and continuing for four
+ hours or such other period as may be specified in 
+Schedule C
+.
+“
+Source Code
+” means the human-readable code from which a computer can compile or assemble the Object Code of a computer program, together with a description of the procedure for generating the Object Code.
+“
+Time and Materials Rates
+”
+ means the rates specified in 
+Schedule B
+ that 
+Licensor
+ may charge for services provided under this Agreement which are not covered by the Maintenance Fee, or if not so specified, 
+Licensor
+’s standard rates for such services.
+“
+Update
+”
+ means a set of procedures or new program code that 
+Licensor
+ implements 
+which 
+may correct
+ 
+Errors, may
+ include modifications to improve performance
+,
+ and/or which may include a revised version or release of the 
+Software
+ which may incidentally improve its functionality, together with related Documentation
+.
+“
+Upgrade
+”
+ means a new version or release of 
+the Software
+ which 
+adds capabilities
+ or 
+improves the 
+performance or 
+functionality of 
+the Software
+, together with related Documentation.
+ 
+Upgrades include new programs which replace
+ the Software or the features and functions of the Software.
+“
+Warranty Period
+” means 
+[insert 
+time period
+, e.g., 
+one year
+]
+ (unless otherwise agreed to in writing) commencing upon the Acceptance
+ 
+of the applicable 
+Software
+ component
+.
+EFFECTIVE DATE, DURATION AND RENEWAL
+3.1 
+Term.
+ 
+This 
+Agreement
+ shall take effect on 
+(insert date)
+, 
+20
+(  
+)
+, 
+(or upon contract execution)
+ 
+and terminate on 
+(insert date)
+, 
+20
+(  
+)
+, unless terminated pursuant to the 
+terms of this Agreement.
+3.2
+Agreement
+ Renewal.
+ This 
+Agreement
+ may, upon mutual agreement between the parties and according to the terms of the existing 
+Agreement
+, be renewed in 
+(insert number)
+-year intervals, or any interval 
+selected by
+ the State. This 
+Agreement
+, including any renewals, may not to exceed a total of ten
+ 
+years.
+LICENSES
+4
+.1
+License
+.
+ 
+Licensor
+ hereby grants to 
+the State
+ a
+ non-exclusive, worldwide, perpetual, 
+transferable, 
+fully-paid
+ right and license to copy, use, install
+,
+ and operate the 
+Software
+ 
+and Documentation 
+for the benefit of 
+the State
+.
+ 
+This license
+, as further defined and described in 
+Schedule A
+-
+DESCRIPTION OF 
+SOFTWARE
+ AND 
+TRAINING
+,
+ shall also be deemed to grant 
+the State
+ the right to grant third parties
+ using the 
+Software
+ for the benefit of 
+the State
+ such as
+ vendors, sub
+contractor
+s, agents
+,
+ or business partners, 
+the right to access the features and functions of the Licensed 
+Software
+ 
+licensed
+ by 
+the State
+.
+ 
+ 
+In addition to the use rights granted above, 
+the State
+ may (i) install, use, execute
+,
+ and copy the 
+Software
+ for any backup, archival
+,
+ and emergency purposes and any internal, non-production
+ purpose of
+ 
+the State
+ including for test, development, and training; 
+and 
+(ii) 
+allow
+ 
+any
+ third party outsourcer or service provider to install, use, execute
+,
+ and copy the 
+Software
+ solely in connection with its provision of services to 
+the State
+.
+ 
+T
+he State
+ shall reproduce and include the copyright or other restrictive and proprietary notices and markings from the original and all copies. All copies are subject to the terms of this Agreement.
+4
+.2.
+Development License
+.
+ 
+Subject to the terms and conditions of this Agreement, 
+Licensor
+ hereby grants to 
+the State
+ a non-exclusive, fully-paid, 
+transferable, 
+worldwide, 
+perpetual
+ right and license to use, or have used, any A
+pplication 
+P
+rogramming 
+I
+nterface
+ (API)
+ for the Licensed 
+Software
+ and to modify and improve 
+via interfacing with API 
+the Licensed 
+Software
+, or have improved the Licensed 
+Software
+, and 
+the State
+ will exclusively own all rights to the modifications and improvements developed for 
+the State
+ under this 
+s
+ection
+.
+4
+.3
+Ownership and Proprietary Rights
+.
+ 
+Subject to the rights granted herein, 
+Licensor
+ retains all right, title
+,
+ and interest in and to the Licensed 
+Software
+, and 
+the State
+ acknowledges that it neither owns 
+n
+or acquires any r
+i
+ght in and to the Licensed 
+Software
+ not expressly granted by this Agreement.
+ 
+4.4
+Disaster Recovery.
+ 
+The State of Montana may replicate the Licensed Software onto its servers in its Disaster Recovery
+ 
+Data Center in Miles City, MT, for the purpose of utilizing the State’s licenses, at no additional cost, for
+ 
+testing the State of Montana’s disaster recovery plans during a 10-day test period, twice annually. The
+ 
+server shall remain in a cold stand-by state, or off, until testing is carried out, or a disaster occurs that
+ 
+shuts down the State’s primary data center in Helena, MT. The Miles City Data Center is located
+approximately 350 miles from Helena.
+Licensor
+ Obligations
+5
+.1
+Delivery of Copies
+.
+ 
+Licensor
+ shall deliver to 
+the State
+ the Licensed 
+Software
+ 
+and Documentation 
+on or before a mutually agreed date
+,
+ or if no date is specified, then
+ within
+ 
+[insert 
+time period
+, e.g., 
+10
+ Business Days]
+ 
+of 
+the Effective Date
+.
+5.
+2
+Licensor’s Employees and Agents.
+ 
+Licensor's authorized representatives for purposes of this Agreement shall be Licensor's directors, officers, 
+agents, or such persons as may be designated as authorized representatives 
+by Licensor or Licensor's directors, officers, or agents.
+ 
+6
+.
+Fees and Payments
+6
+.1
+License Fees
+.
+ 
+In consideration for the licenses granted to 
+the State
+ hereunder and the performance of 
+Licensor
+’
+s
+ obligations hereunder, 
+the State
+ shall pay to 
+Licensor
+ certain fees as set forth in 
+Schedule B
+, which 
+fees 
+shall be due and payable as set forth in 
+Schedule B
+.
+6
+.2
+Tax
+ Exemption
+.
+  
+State of Montana is exempt from Federal Excise 
+Taxes (#
+81-0302402) except as otherwise provided in the federal Patient Protection and Affordable Care Act [
+P.l
+. 111-148, 124 Stat. 119].
+6
+.3
+Invoices.
+ 
+Licensor
+ 
+shall
+ invoice 
+the State
+ separately for each transaction.
+ 
+Licensor
+ 
+shall
+ send invoices to the address set forth in
+ 
+Section 
+[
+3
+2
+ (
+Liaisons and Service of Notices
+)
+]
+.
+ 
+All payment terms will be computed from the 
+Acceptance D
+ate 
+or
+ receipt of a properly executed invoice, whichever is later. Unless otherwise noted, 
+the State
+ is allowed 30
+ days 
+from the receipt of an accurate invoice 
+to pay such invoices. Licensor
+ will be required to provide banking information at the time of 
+contract execution
+ 
+in order to
+ facilitate State electronic funds transfer payments. 
+6
+.4
+No Obliga
+tion
+.
+ 
+ 
+Notwithstanding 
+the State
+’s rights to license 
+Licensor
+’s pr
+oducts as described in 
+Section 
+[
+4.1
+ (License)
+]
+,
+ 
+the State
+ is under no obligation to purcha
+se or license
+ 
+from 
+Licensor
+ any of 
+Licensor
+’s products.
+ 
+7
+.
+COOPERATIVE PURCHASING
+Under Montana law, public procurement units, as defined in 18-4-401, MCA, have the option of cooperatively purchasing with State of Montana. Public procurement units are defined as local or state public procurement units of this or any other state, including an agency of the United States, or a tribal procurement unit. Unless the bidder/offeror objects, in writing, to State Procurement Bureau prior to the award of this Agreement, the prices, terms, and conditions of this Agreement will be offered to these public procurement units. However, State Procurement Bureau makes no guarantee of any public procurement unit participation in this Agreement.
+8
+.
+NON-EXCLUSIVE CONTRACT
+The intent of this 
+Agreement
+ is to provide state agencies with an expedited means of procuring supplies and/or services. 
+This Agreement
+ is for the convenience of state agencies and is considered by 
+the 
+State to be a "
+n
+on-exclusive" use contract. Therefore, agencies may obtain this product/service from sources other than the 
+Licensor
+ 
+as long as
+ they comply with Title 18
+ and Title
+ 2, chapter 17
+, MCA, and 
+the agency's
+ 
+delegation agreement. 
+The 
+State does not guarantee any usage.
+9
+.
+Documentation
+9
+.1
+At no additional charge, 
+Licensor
+ shall deliver a complete, written set of Documentation for the 
+Software
+ at the same time as the 
+Software
+ is delivered and for 
+all
+ Upgrade
+s
+, 
+Updates
+ or Enhancements 
+delivered to 
+the State
+.
+ 
+The Documentation 
+must
+ describe fully the proper procedure for using the 
+Software
+ and provide sufficient information to enable 
+the State
+ to operate all features and functionality of the 
+Software
+.
+ 
+Licensor
+ shall deliver reasonable Documentation to allow 
+the State
+ to install and use each 
+Upgrade
+, Update or Enhancement
+. 
+T
+he State
+ may
+, at no additional charge to 
+the State
+, 
+use and reproduce all Documentation furnished by 
+Licensor
+, including displaying the Documentation on 
+the State
+’s intranet or other internal electronic distribution system.
+ 
+Documentation for 
+Upgrades
+, 
+Updates
+ or Enhancements
+ must
+ 
+satisfy the requirements of this section
+ and 
+meet or exceed the level of quality, form and completeness of the Documentation for the Licensed 
+Software
+.
+9
+.2
+Licensor
+ shall deliver updated Documentation to 
+the State
+ concurrently with delivery of any 
+Upgrades
+, 
+Updates
+ or Enhancements
+ or any other occasion of issuance of updated Documentation.
+  If the only means available to provide updated Documentation is the Licensor’s website, then Licensor shall provide 
+written notice of any 
+Upgrades
+, 
+Updates
+ or Enhancement to the State prior to effective date of 
+Upgrades
+, 
+Updates
+ or Enhancement.
+10
+.
+ 
+Acceptance
+10
+.1
+Acceptance Period
+.
+ 
+During the Acceptance Period, 
+the State
+ 
+may
+ 
+perform a
+cceptance tests on the 
+Software
+ to confirm the 
+Software
+ is Operative. If 
+the State
+ discovers during the Acceptance Period that any 
+Software
+ is not 
+O
+perative
+, 
+the State
+ shall notify 
+Licensor
+ of the deficiencies. 
+Licensor
+, at its own expense, shall modify, repair, adjust
+,
+ or replace the 
+Software
+ to make it Operative within 15 days after the date of 
+the State
+’s deficiency notice. 
+T
+he State
+ may perform additional a
+cceptance tests during 
+a period
+ commencing when 
+Licensor
+ has delivered revised 
+Software
+ correcting all the deficiencies 
+the State
+ has noted. This restarted Acceptance Period shall have a duration equal to that of the initial Acceptance Period, unless 
+the State
+ earlier accepts the 
+Software
+ in writing. If the 
+Software
+, at the end of the Acceptance Period as so extended, still is not Operative in 
+the State
+'s judgment after consultation with 
+Licensor
+, 
+the State
+ may reject the 
+Software
+ and terminate this Agreement for material breach or, at its option, repeat the procedure of this 
+s
+ection
+ as often as it determines is necessary. 
+If 
+the State
+ rejects the 
+Software
+, 
+the State
+ will return it within 10 days after the end of the Acceptance Period or any extended Acceptance Period, no license or other fees shall appl
+y
+, and 
+Licensor
+ 
+shall
+ promptly reimburse 
+the State
+ for any fees previously paid for such 
+Software
+.
+10
+.2
+ 
+Acceptance of 
+Upgrades
+, 
+Updates
+ or Enhancements
+.
+ 
+T
+he State
+ shall use the procedure 
+in 
+Section 
+[
+10.1
+ (Acceptance Period)
+]
+ 
+to determine acceptance of 
+Upgrades
+, 
+Updates
+ or Enhancements
+. If 
+the State
+ finds 
+an 
+Up
+grade
+, 
+Update
+,
+ or Enhancement
+ 
+is 
+not Operative and rejects it, 
+the State
+ shall have no obligation to 
+use or 
+pay for such 
+Upgrade
+, 
+Update
+,
+ or Enhancement
+, and 
+Licensor
+ shall continue to support the version or release of the 
+Software
+ that 
+the State
+ has installed.
+11
+.
+Maintenance and Support Services
+Licensor
+ shall
+, at option of and upon order from 
+the State
+,
+ provide the Maintenance 
+and Support Services 
+attached hereto as 
+Schedule C
+.
+12
+.
+Upgrades
+, 
+Updates
+ or Enhancements
+12
+.1
+License.
+ 
+Licensor grants 
+State
+ a non-exclusive, non-transferable license to use Upgrades, Updates, and Enhancements provided by Licensor and made generally available to Licensor's other customers during the term of this Agreement. Such Upgrades, Updates, and Enhancements are subject to the terms of this Agreement
+.
+ 
+Upgrades, Updates, and Enhancements made generally available to Licensor's other customers during the term of this Agreement 
+shall be made available to the State at no additional 
+cost
+. 
+Licensor shall 
+use
+ commercially reasonable efforts to maintain backwards compatibility 
+with the most recent
+ version(s) of the Licensed Software having been provided under this Agreement
+. 
+Upon 
+install
+, a
+ll Up
+grades, Updates, and Enhancements shall become and be considered License
+d Software for 
+purposes of this Agreement
+ and 
+the Licensed Software with Upgrades, Updates, and Enhancements installed shall be Operative.
+ 
+12
+.2
+Notice.
+ 
+Licensor
+ shall notify 
+the State
+ as far in advance as reasonably possible, but 
+no
+ less than 
+[insert 
+time period
+, e.g., 6 months]
+ prior to release, of all 
+Upgrades
+, 
+Updates
+ or Enhancements
+ and 
+Software
+ replacements/phase-
+outs, and
+ shall provide 
+the 
+State
+ all relevant release notes and other Documentation as soon as possible after notification.
+  
+[
+NOTE: If the 
+time period
+ is shorter than 6 months for Upgrades, Updates, and Enhancements, it is advisable to have a separate period of 6 months or longer for phase outs.
+]
+12
+.3
+ 
+Maintenance.
+ 
+Unless the Parties expressly agree in writing to do otherwise, 
+Licensor
+ shall continue to 
+make available and 
+shall 
+provide Maintenance Services
+,
+ 
+at no cost to the State
+,
+ 
+on the terms and conditions of this Agreement for the version of 
+Software
+ 
+the State
+ has installed for at 
+least 
+[insert time period, 
+e.g., 
+36
+ months
+]
+ after 
+Upgrade
+s
+, 
+Updates
+ or Enhancements
+ 
+were made 
+available 
+to 
+the State
+ or until the Agreement terminates
+, whichever occurs later
+.
+13.
+THIRD PARTY SOFTWARE
+13.1
+Third Party Software
+ and Licenses
+.
+  In the event Licensor provides any third party software (
+"
+Third Party Software
+"
+), including Open Source Software as defined in Section 
+[
+13.2 (Open Source Software)]
+, to State in connection with this Agreement for which State would be obligated to accept and be bound by any third party terms and conditions, the following shall apply: (a) Licensor shall specifically identify in writing all Third Party Software in Schedule A; and (b) Licensor shall attach to Schedule A written copies of all third party license agreements applicable to State.
+13.2
+Open Source
+ Software.
+  Open Source Software means any software, programming, or other intellectual property that is subject to the GNU General Public License, GNU Library General Public License, Artistic License, BSD license, Mozilla Public License, or any similar license, including, but not limited to, those licenses listed at www.opensource.org/licenses or any agreement with terms requiring the intellectual property to be redistributable.  With regard to (a) Open Source Software, (b) any Third Party Software that Licensor fails to identify in the relevant Order Document, and (c) any third party software embedded in the Licensed Software for which State is not required to accept any third party terms and conditions, all such software shall be considered, as appropriate, part of and included in the definition of Licensed Software and subject to all warranties, indemnities, and other requirements of this Agreement, including scope of license and maintenance and support, relating to the Licensed Software. 
+13.3
+Third Party Software Warranty.
+  Licensor warrants that (a) it has the right to license any Third Party Software licensed to State under this Agreement; (b) to the best of Licensor's knowledge, the Third Party Software does not, and the use of the Third Party Software by State as contemplated by this Agreement will not, in fringe any Intellectual Property Rights of any third party; and (c) unless specifically provided otherwise herein, State shall have no obligation to pay any third party any fees, royalties, or other payments for State's use of any Third Party Software in accordance with the terms of this Agreement. Licensor 
+shall
+ support and maintain all 
+Third Party
+ Software to the same extent as the Licensed Software.
+1
+4
+.
+Source Code Escrow
+ 
+When requested by 
+the State
+,
+ 
+Licensor
+ 
+shall
+ place the 
+Source Code
+ and its D
+ocumentation with an escrow agent acceptable to both parties in accordance with the terms and conditions of an escrow agreement, the exact content of which shall be agreed upon by the parties
+ ("Source Code Escrow Agreement")
+. 
+Licensor shall bear a
+ll
+ escrow
+ fees
+.
+The Source Code Escrow Agreement shall provide that the escrow agent shall release the Source Code Escrow to 
+the State
+ in the event : (a) 
+of 
+Licensor
+’s insolvency, bankruptcy, or involvement in an involuntary proceeding 
+for protection of its creditors;
+ (b) 
+Licensor
+ materially breaches this Agreement; (c) 
+Licensor
+ fails to continue develo
+pment of the Licensed 
+Software
+; 
+(d)
+ 
+Licensor
+ fails to provide 
+the State
+ with the most recent version of the Licensed 
+Software
+; or 
+(e) 
+of 
+any other circumstance whereby 
+Licensor
+ can no longer satisfy its obligation to provide Maintenance Services to 
+the State
+ under this Agreement
+.
+ 
+T
+hese events shall be deemed 
+"
+Release Conditions
+"
+ for purposes of this 
+s
+ection.
+Upon occurrence of a Release Condition, 
+the State
+ shall be deemed to have, automatically, a nonexclusive, fully paid, non
+-
+terminable, royalty-free, world-wide license to use, modify, copy, produce derivative works from, display, disclose to persons who have entered into a written agreement containing substantially the same confidentiality provisions as in this Agreement for the purpose of maintaining the 
+Software
+ for 
+the State
+, and otherwise to utilize the 
+Software
+ and the Source Code and other materials necessary to maintain and improve the 
+Software
+ for use by 
+the State
+ and otherwise treat the Source Code as Object Code, subject always to the limitations in this Agreement
+ 
+as clarified by this 
+s
+ection
+.
+1
+5
+.
+Confidentiality Rights and Obligations
+1
+5
+.1
+Ownership of Confidential 
+Information
+.
+ 
+E
+ach Party will have access to certain of the other Party’s Confidential Information or Confidential Information of third parties that the disclosing Party is required to maintain as confidential.
+ 
+Both Parties agree that
+, subject to Montana’s open records laws,
+ all items of Confidential Information are proprietary to the disclosing Party or such third party, as applicable, and shall remain the sole property of the disclosing Party or such third party.
+1
+5
+.2
+Mutual Confidentiality Obligations.
+ 
+Except as expressly provided otherwise in this Agreement, each 
+Party agrees as follows: (i) to use the Confidential Information only for the purposes described herein; (ii) that such Party will not reproduce the Confidential Information and will hold in confidence and protect the Confidential Information from dissemination to, and use by, any third party; (iii) that neither Party will create any derivative work from Confidential Information disclosed to such Party by the other Party; (iv) to restrict access to the Confidential Information to such of its personnel, agents, and/or consultants, if any, who have a need to have access; and (v) to return or destroy all Confidential Information of the other Party in its possession upon termination or expiration of this Agreement
+. Notwithstanding the foregoing, 
+the State
+ shall not be require
+d to return 
+Software
+ if the license is paid for and 
+the license terms have 
+not 
+been 
+breached by 
+the State
+.
+1
+5
+.3
+Confidentiality Exceptions.
+ 
+Notwithstanding the foregoin
+g, the provisions of 
+Sections 
+[
+1
+5
+.1
+ (Ownership of Confidential Information)
+ and 
+1
+5
+.2 
+(Mutual Confidentiality Obligations)
+]
+ 
+shall not apply to Confidential Information that (i) is publicly available or in the public domain at the time disclosed; (ii) is or becomes publicly available or enters the public domain through no fault of the recipient; (iii) is rightfully communicated to the recipient Party by persons not bound by confidentiality obligations with respect thereto; (iv) is already in the recipient’s possession free of any confidentiality obligations with respect thereto at the time of disclosure; (v) is independently developed by the recipient; or (vi) is approved for release or disclosure by the disclosing Party without restriction.
+ 
+Notwithstanding the foregoing, each Party may disclose Confidential Information to the limited extent required (a) in order to comply with the order of a court or other governmental body, or as otherwise necessary to comply with applicable law, provided that the Party making the disclosure pursuant to the order shall
+, as early as reasonably possible under the circumstances,
+ 
+give 
+written notice to the other Party or (b) to 
+assist the other Party
+, at its expense,
+ in establishing its 
+rights under this Agreement, including to make such court filings as it may be required to do.
+1
+6
+.
+Warranties
+1
+6
+.1
+Licensor
+ hereby represents and warrants that the 
+Software
+ shall be and shall remain Operative, from the 
+Acceptance 
+Date through the end of the Warranty Period and 
+continuing for 
+so long as 
+Licensor
+ provides Maintenance Services for the 
+Software
+. If the 
+Software
+ is not 
+Operative
+ at the expiration of the initial Warranty Period, the Warranty Period shall be extended until 
+Licensor
+ makes the 
+Software
+ Operative. This warranty shall not be affected by 
+the State
+’s modification of the 
+Software
+ so long as 
+Licensor
+ can discharge its warranty obligations notwithstanding such modifications or following their removal by 
+the State
+.
+1
+6
+.2
+Licensor
+ represents and warrants that it shall perform the Maintenance Services in a timely and professional manner using competent personnel having expertise suitable to their assignments. 
+Licensor
+ represents and warrants that the services shall conform to or exceed, in all material respects, the specifications described herein, as well as the standards generally observed in the industry for similar services.
+  
+Licensor
+ represents and 
+warrants
+ that services supplied hereunder shall be free of defects in workmanship, design and material. 
+1
+6
+.
+3
+Licensor
+ represents and warrants that sale, licensing or use of any 
+Software
+ and Documentation furnished under this Agreement do not and shall not infringe, misappropriate or otherwise violate any Intellectual Property Right.
+1
+6
+.
+4
+Licensor
+ warrants that during the 
+t
+erm
+ of this Agreement, 
+the State
+ may use Licensed 
+Software
+ without disturbance
+ or interruption
+, subject only to 
+the State
+’s obligations to make the payments required by this Agreement.
+ 
+Licensor
+ represents that this Agreement, the Licensed 
+Software
+,
+ and the 
+Intellectual Property Rights
+ in the Licensed 
+Software
+ are not subject or subordinate to any right of 
+Licensor
+'s creditors, or if such subordination exists, the agreement or instrument creatin
+g it provides for the quiet enjoyment and uninterrupted use of the 
+Software
+ by 
+the State
+.
+1
+6
+.
+5
+Licensor represents and warrants that, 
+if
+ 
+Licensor
+ deletes functions from the 
+Software
+ 
+or degrades Software performa
+nce 
+and transfers or offers those 
+deleted or degraded 
+functions in other
+,
+ new
+, or renamed
+ products (whether directly or indirectly or through an agreement with a third party), the portion of those other
+,
+ new
+, or renamed
+ products that contain the functions in question, or the entire product, if the functions cannot be separated out, shall be provided to 
+the State
+ under the terms of this Agreement, at no additional charge
+,
+ and shall be covered under Maintenance Services 
+then in effect 
+for such 
+Software
+.
+ 
+Licensor agrees that any such changes will not result in a disruption of 
+functionality
+ and that 
+the Software will remain Operative.
+ Licensor may only replace with prod
+ucts with the same or better
+ functionality at no additional cost to the State.
+1
+6
+.
+6
+Licensor
+ represents and warrants that the Licensed 
+Software
+ and any media used to distribute it contain no computer instructions, circuitry or other technological means ("Harmful Code") whose purpose is to disrupt, damage
+,
+ or interfere with 
+the State
+'s use of its computer and telecommunications facilities for their commercial, test or research purposes.
+ 
+“
+Harmful Code
+"
+ shall include, without limitation, any automatic restraint, virus, worm, Trojan horse, time-bomb, 
+trap-door
+ or other harmful code or instrumentality that will cause the Licensed 
+Software
+ or any other 
+State
+ 
+s
+oftware
+, hardware or system to cease to operate or to fail to conform to its specifications.
+ 
+Licensor shall not include Harmful 
+Code that is capable of disabling 
+or degrading 
+system functionality
+ as a mechanism for enforcing licensing provisions. 
+[
+NOTE
+: 
+If Licensor cannot remove Harmful Code from 
+Software, 
+change "include" in the preceding sentence to "activate
+.] 
+ 
+Licensor
+ shall
+ defend,
+ indemnify
+,
+ and hold 
+the State
+ harmless from all claims, losses, damages and expenses, including attorney fees
+ and costs incurred enforcing this indemnity obligation or defending a 
+third party
+ claim
+, arising from the presence 
+or activation 
+of Harmful Code in or with the Licensed 
+Software
+ or contained 
+on
+ media delivered by 
+Licensor
+.
+ 
+Licensor
+ further represents and warrants that it will not introduce any 
+Harmful Code, into any computer or electronic data storage system used by 
+the State
+.
+1
+6
+.
+7
+Except during and in conjunction with maintenance or any other authorized servicing or support, in no event shall Licensor, its representatives or subcontractors, or anyone acting on its behalf, disable (or permit or cause any embedded mechanism to disable) the Software owned by, licensed to, or utilized by the State without the prior written permission of an officer of the State.
+  Licensor shall notify and request permission from the State at least sixty (60) days prior to any proposed disabling event.
+1
+7
+.
+COMPLIANCE WITH LAWS
+Licensor shall, in performance of work under this Agreement, fully comply with all applicable federal, state, or local laws, rules, regulations, and executive orders including but not limited to, the Montana Human Rights Act, the Equal Pay Act of 1963, the Civil Rights Act of 1964, the Age Discrimination Act of 1975, the Americans with Disabilities Act of 1990, and Section 504 of the Rehabilitation Act of 1973. Licensor is the employer for the purpose of providing healthcare benefits and paying any applicable penalties, fees and taxes under the Patient Protection and Affordable Care Act [P.
+L
+. 111-148, 124 Stat. 119] (“ACA”). Any subletting or subcontracting by Licensor 
+subjects
+ subcontractors to the same provisions. In accordance with 49-3-207, MCA, and Executive Order No. 04-2016 Licensor agrees that the hiring of persons to perform this Agreement will be made on the basis of merit and qualifications and there will be no discrimination based on race, color, sex, pregnancy, childbirth or medical conditions related to pregnancy or childbirth, political or religious affiliation or ideas, culture, creed, social origin or condition, genetic information, sexual orientation, gender identity or expression, national origin, ancestry, age, disability, military service or veteran status, or marital status by the persons performing this Agreement.
+The ACA requires an employer, 
+if the employer is an applicable large employer under the ACA, 
+to provide health care coverage for its employees who provide services and work for 30 or more hours per week. This coverage must also cover the eligible employee’s dependents under the ag
+e of 26.  The coverage must (a)
+ meet the minimum essential coverage, minimum value, and affordability requirements of the employer responsibility provisions under Section 4980H of the Internal Revenue Code (Code), and (b) otherwi
+se satisfy the requirements of 
+Section 4980H if provided by State.
+ 
+Licensor agrees as follows:
+1
+7
+.1
+Licensor is Employer.
+  Licensor is the employer and, therefore, responsible for providing healthcare benefits for its employees 
+if required to do so as an applicable large employer
+ 
+under the ACA.  Licensor represents and warrants that all individuals who perform services for an agency of State are and 
+at all times
+ shall remain Licensor's employees or common law employees.  Licensor further acknowledges and agrees that, throughout the term of this Agreement, Licensor retains the right to direct and control its employees.
+1
+7
+.2
+Licensor Provided Health Care Coverage.
+  Licensor,
+ if it is an applicable large employer under the ACA,
+ shall offer to all its agents or employees, who perform services for State under this Agreement for 30 or more hours a week and their dependents under age 26 health care coverage under its health care plans.  Such coverage must provide minimum essential coverage and minimum 
+value, and
+ be affordable for purposes of the employer responsibility provisions under Section 4980H of the Code, and otherwise satisfy the requirements of Section 4980H if provided by State. 
+1
+7
+.
+3
+Reporting Requirements.
+  Licensor further states that
+ 
+if it is an applicable large employer under the ACA,
+ it shall satisfy all reporting requirements under Sections 6055 and 6056 of the Code with respect to individuals who perform services for State.
+1
+8
+.
+TECHNOLOGY ACCESS FOR BLIND OR VISUALLY IMPAIRED
+Licensor acknowledges that no state funds may be expended for the purchase of information technology equipment and software for use by employees, program participants, or members of the public unless it provides blind or visually impaired individuals with access, including interactive use of the equipment and services, that is equivalent to that provided to individuals who are not blind or visually impaired. (
+S
+ection 18-5-603, MCA) Contact the State Procurement Bureau at (406) 444-2575 for more information concerning nonvisual access standards.
+1
+9
+.
+REGISTRATION WITH THE SECRETARY OF STATE
+Any business intending to transact business in Montana must register with the Secretary of State. Businesses that are domiciled in another state or country, but which are conducting activity in Montana, must determine whether they are transacting business in Montana in accordance with §§ 35-14-1505, 35-8-1001, and 35-12-1309 MCA. Such businesses may want to obtain the guidance of their attorney or accountant to determine whether their activity is considered transacting business.
+If businesses determine that they are transacting business in Montana, they must register with the Secretary of State and obtain a certificate of authority to demonstrate that they are in good standing in Montana. §§ 35-8-1001, 35-12-1302, and 35-14-1502, MCA. To obtain registration materials, call the Office of the Secretary of State at (406) 444-3665, or visit their website at 
+http://sosmt.gov
+.
+20
+.
+HOLD HARMLESS/INDEMNIFICATION
+Licensor
+ agrees to protect, defend, and save State, its elected and appointed officials, agents, and employees, while acting within the scope of their duties as such, harmless from and against all claims, demands, causes of action of any kind or character, including the cost of defense thereof, arising in favor of 
+Licens
+or's employees or third parties on account of bodily or personal injuries, death, or damage to property arising out of services performed or omissions of services or in any way resulting from the acts or omissions of 
+Licensor
+ and/or its agents, employees, representatives, assigns, subcontractors, except the sole negligence of State, under this 
+Licensor
+.
+  
+[NOTE: Vendors may object to a general hold harmless/indemnity clause if the vendor does not anticipate
+ physical presence in Montana
+; however, even if 
+the 
+vendor does not have personnel in Montana, 
+a third party 
+could
+ make a claim against the State 
+if the vendor is negligent in the performance of its duties under this agreement. For example, in the event of a security breach caused by a flaw in the Software, a 
+third party could file a claim
+ against the
+ State
+, and it would be appropriate for the State to 
+seek reimbursement 
+from the Vendor.]
+2
+1
+.
+intellectual property 
+Indemnification
+2
+1
+.1
+Third-Party Claim.
+  In the event of any claim by any third party against the State that the 
+Licensed Software or other 
+products furnished under this 
+Agreement
+ infringe upon or violate any 
+Intellectual Property Right
+, the State shall promptly notify the 
+Licensor
+. The 
+Licensor
+ shall defend such claim, in the State's name or its own name, as appropriate, but at the 
+Licensor
+'s expense. The 
+Licensor
+ will indemnify the State against all costs, damages, and attorney's fees that accrue 
+as a result of
+ such claim. Such indemnification will be conditional upon the following:
+a.
+the State will promptly notify the 
+Licensor
+ of the claim in writing; and
+b.
+the State will allow the 
+Licensor
+ to control, and will cooperate with the 
+Licensor
+ in the defense and any related settlement negotiations, provided that:
+i.
+the 
+Licensor
+ will permit the State to participate in the defense and settlement of any such claim, at the State's own expense, with counsel of its choosing; and
+ii.
+the 
+Licensor
+ shall not 
+enter into
+ or agree to any settlement containing any admission of or stipulation to any guilt, fault, liability or wrongdoing on the part of the State, its elected and appointed officials, agents or employees without the State's prior written consent.
+2
+1
+.2
+Product Subject of Claim
+.
+ If 
+the Licensed Software or 
+any product 
+or 
+Documentation 
+furnished is likely to or does become the subject of a claim of infringement of 
+an 
+Intellectual Property Right
+, then the 
+Licensor
+ 
+shall either
+ procure for the State the right to continue using the alleged infringing product
+;
+ or modify the product so that it becomes non
+-
+infringing
+;
+ or replace it with one that is at least functionally equivalent
+ and shall not degrade the operation or performance of the 
+Licensed Software, 
+p
+roduct
+,
+ or
+ Documentation
+. If none of the above options 
+may
+ be accomplished
+ within a reasonable time and at commercially reasonable rates
+ or if the use of such product by the State shall be prevented by injunction, the State agrees to return the product to the 
+Licensor
+ 
+up
+on written request.  
+The 
+Licensor shall accept the return from the State of the infringing component, along with any other components of any 
+p
+roducts rendered unusable 
+as a result of
+ the infringing component and refund the full price paid to Licensor for such components
+.
+  The State is not precluded from seeking other remedies available to it hereunder
+ 
+and in equity or law for any damages it may sustain due to 
+diminished ability or
+ 
+inability to continue using such product.
+2
+2
+.
+Limitation of Liability
+2
+2
+.1
+General Limitation
+.
+ 
+Except as provided in Section 
+[
+2
+2
+.
+2
+ (Exceptions)
+]
+,
+ 
+L
+icensor shall not be liable for special, incidental
+, consequential, punitive, or indirect
+ 
+damages
+, and 
+L
+icensor’s liability for contract damages is limited to direct damages and further to no more than twice the contract amount
+.  
+[
+note: 
+Choose one of the following options
+. T
+he first option, which does not cap the vendor's liability
+ for 
+personal injury, property damage, IP 
+breaches, and security breaches
+, is preferable
+; however, some vendors may not be willing to agree to uncapped 
+liability.
+ The second option 
+caps liability only for security breaches and breaches of confidentiality.
+]
+2
+2
+.
+2
+Exception
+s
+.
+ 
+Licensor's liability for d
+amage
+ 
+or loss caused by injury to persons or tangible property, or related to intellectual property indemnification
+,
+ 
+a breach of system security
+,
+ or a breach of confidentiality rights and obligations is
+ 
+not subject to a cap on the amount of damages
+.
+ 
+Licensor’s liability for 
+a breach of system security or a breach of confidentiality rights and obligation
+s
+ 
+is not limited to direct damages
+ and may 
+include 
+special, incidental, consequential, or indirect damages.
+OR
+2
+2
+.
+2
+Exception
+s
+.
+ 
+Licensor's liability for d
+amage
+ 
+or loss caused by injury to persons or tangible property or related to intellectual property indemnification
+ 
+is
+ 
+not subject to a cap on the amount of damages
+.
+ 
+Licensor’s liability for 
+a breach of system security or a breach of confidentiality rights and obligation
+s 
+is not limited to direct damages
+ and may include special, incidental, consequential, or indirect damages.
+ 
+Licensor’s liability for 
+a breach of system security or a breach of confidentiality rights and obligation
+s is
+ 
+limited to 
+no more than 
+$
+2
+,000,000
+ per 
+claim and 
+$50,000,000
+ per 
+occurrence
+.
+2
+3
+.
+INSURANCE
+ 
+(NOTE TO AGENCIES: Section 
+23
+ needs to be tailored to the project. Call SPB for assistance at (406) 444-2575.
+)
+2
+3
+.1
+General Requirements.
+  
+Licensor shall maintain for the duration of this Agreement, at its cost and expense, insurance against claims for injuries to persons or damages to property, including contractual liability, which may arise from or in connection with the performance of the work by Licensor, agents, employees, representatives, assigns, or subcontractors.  This insurance shall cover such claims as may be caused by any negligent act or omission.
+2
+3
+.2
+Primary Insurance.
+  
+Licensor's insurance coverage shall be primary insurance with respect to the State, its officers, officials, employees, and volunteers and shall apply separately to each project or location.  Any insurance or self-insurance maintained by the State, its officers, officials, employees, or volunteers shall be excess of Licensor's insurance and shall not contribute with it.
+2
+3
+.3
+Specific Requirements for Commercial General Liability.
+  Licensor shall purchase and maintain occurrence coverage with combined single limits for bodily injury, personal injury, and property damage of $1,000,000 per occurrence and $2,000,000 aggregate per year to cover such claims as may be caused by any act, omission, or negligence of Licensor or its officers, agents, representatives, assigns, or subcontractors.  
+The State, its officers, officials, employees, and volunteers are to be covered and listed as additional insureds for liability arising out of activities performed by or on behalf of Licensor, including the insured's general supervision of Licensor, products, and completed operations; and the premises owned, leased, occupied, or used.
+2
+3
+.4
+Specific Requirements for Automobile Liability.
+  
+Licensor shall purchase and maintain coverage with split limits of $500,000 per person (personal injury), $1,000,000 per accident occurrence (personal injury), and $100,000 per accident occurrence (property damage), OR combined single limits of $1,000,000 per occurrence to cover such claims as may be caused by any act, omission, or negligence of Licensor or its officers, agents, representatives, assigns, or subcontractors.  
+The State, its officers, officials, employees, and volunteers are to be covered and listed as additional insureds for automobiles leased, owned, or borrowed by Licensor.  
+2
+3
+.5
+Specific Requirements for Professional Liability.
+ 
+Licensor shall purchase and maintain occurrence coverage with combined single limits for each wrongful act of $1,000,000 per occurrence and $2,000,000 aggregate per year to cover such claims as may be caused by any act, omission, negligence of Licensor or its officers, agents, representatives, assigns, or subcontractors. Note: If "occurrence" coverage is unavailable or cost prohibitive, Licensor may provide "claims made" coverage provided the following conditions are met: (1) the commencement date of this Agreement must not fall outside the effective date of insurance coverage and it will be the retroactive date for insurance coverage in future years; and (2) the claims made 
+policy must have a three-year tail for claims that are made (filed) after the cancellation or expiration date of the policy.
+2
+3
+.6
+Deductibles and Self-Insured Retentions.
+  
+Any deductible or self-insured retention must be declared to and approved by the State.  At the request of the State either
+: (
+1) the insurer shall reduce or eliminate such deductibles or self-insured retentions as respects the State, its officers, officials, employees, or volunteers; or (2) at the expense of Licensor, Licensor shall procure a bond guaranteeing payment of losses and related investigations, claims administration, and defense expenses.
+2
+3
+.7
+Certificate of Insurance/Endorsements.
+  
+A certificate of insurance from an insurer with a Best's rating of no less than A- indicating compliance with the required coverages must be received by the State, P.O. Box 200113, Helena, MT 59620-0113.  Licensor must notify the State immediately of any material change in insurance coverage, such as changes in limits, 
+coverages
+, change in status of policy, etc.  The State reserves the right to 
+require complete copies of insurance policies at all times
+.
+2
+3
+.8
+[OPTIONAL IF APPLICABLE] 
+Specific Requirements for Cyber/Data Information Security Insurance
+.
+ Licensor shall purchase and maintain cyber/information security insurance coverage with combined single limits for each wrongful act of $2,000,000 per occurrence to cover the unauthorized acq
+uisition of personal information
+ such as social security numbers, credit card numbers, financial account information, or other information that uniquely identifies an individual and may be of a sensitive nature i
+n
+ accordance with 
+S
+ection 2-6-1501, MCA through 
+S
+ection 
+2-6-1503, MCA. If Licensor maintains higher limits than the minimums shown above, the State requires and shall be entitled to coverage for the higher limits maintained by Licensor. Any available insurance proceeds 
+in excess of
+ the specified minimum limits of insurance and coverage shall be available to the State. Such insurance must cover, at a minimum, privacy notification costs, credit monitoring, forensics investigations, legal fees/costs, regulatory fines and penalties, and 
+third party
+ liability settlements or judgments as may be caused by any act, omission, or negligence of Licensor’s officers, agents, representatives, assigns or subcontractors. 
+[
+N
+OTE
+: 
+Most vendors have access to 
+cybersecurity coverage
+; therefore, agencies should 
+require cybersecurity insurance unless the
+re is no risk 
+to the 
+S
+tate. Even 
+on-premise solutions can introduce security vulnerabilities
+ 
+to otherwise secure systems
+, and
+ agencies should require
+ 
+cybersecurity insurance
+ to reduce financial risk to the State.
+][NOTE: 
+If occurrence coverage is unavailable or cost-prohibitive, State will accept ‘claims made’ coverage provided the following conditions are met: 1) the retroactive date must be shown, and must be before the date of the contract or the beginning of contract work; 2) insurance must be maintained and evidence of insurance must be provided for at least three (3) years after completion of the contract of work; and 3) if coverage is canceled or non-renewed, and not replaced with another claims-made policy form with a retroactive date prior to the contract effective date, 
+Licensor
+ must purchase “extended reporting” coverage for a minimum of three (3) years after completion of work.
+]
+2
+4
+.
+COMPLIANCE WITH WORKERS' COMPENSATION ACT
+Licensor shall
+ comply with the provisions of the Montana Workers' Compensation Act while perfo
+rming work for State 
+in accordance with 39-71-401, 39-71-405, and 39-71-417, MCA. Proof of compliance must be in the form of workers' compensation insurance, an independent contractor's exemption, or documentation of corporate officer status. Neither 
+Licensor
+ nor its employees are State employees. This insurance/exemption must be valid for the entire 
+Agreement
+ term and any renewal. Upon expiration, a renewal document must be sent to State Procurement Bureau, P.O. Box 200135, Helena, MT 59620-0135.
+2
+5
+.
+CONTRACT OVERSIGHT
+2
+5
+.1
+CIO Oversight.
+ 
+The Chief Information Officer (
+"
+CIO
+"
+) for the State of Montana, or 
+designee
+, may perform contract oversight activities. Such activities may include the identification, analysis, resolution, and prevention of deficiencies that may occur within the performance of contract obligations. The CIO may require the issuance of a right to assurance or may issue a stop work order.
+2
+5
+.2
+Right to Assurance.
+ 
+If State, in good faith, has reason to believe that 
+Licens
+or does not intend to, is unable to, or has refused to perform or continue performing all material obligations under this 
+Agreement
+, State may demand in writing that 
+Licensor
+ give a written assurance of intent to perform. 
+Licensor
+’s failure to provide written assurance within the number of days specified in the demand (in no event less than five 
+B
+usiness 
+D
+ays may, at State's option, be the basis for terminating this 
+Agreement
+ and pursuing the rights and remedies available under this 
+Agreement
+ or law.
+2
+5
+.3
+Stop Work Order.
+ 
+State
+ 
+may, at any time, by written order to 
+Licensor
+,
+ require 
+Licensor
+ to stop any or all parts of the work required by this 
+Agreement
+ for the period of days indicated by State after the order is delivered to 
+Licensor
+. The order must be specifically identified as a stop work order issued under this clause. Upon receipt of the order, 
+Licensor
+ shall immediately comply with its terms and take all reasonable steps to minimize the incurrence of costs allocable to the work covered by the order during the period of work stoppage. 
+If a stop work order issued under this clause is canceled or the period of the order or any extension expires, 
+Licensor
+ shall resume work. The State 
+Contract
+ Manager shall make the necessary adjustment in the delivery schedule or contract price, or both, and this 
+Agreement
+ shall be amended in writing accordingly.
+ 
+2
+6
+.
+Termination.
+NOTE TO AGENCIES: The following termination provisions are presented as options for Section 
+2
+6
+.
+1 and/or 2
+6
+.2.
+ In deciding which provision
+(s)
+ to use
+, consideration should be given to the circumstances of each individual contract. In any case, all agencies must maintain documentation regarding why a contract is terminated or not renewed. 
+2
+6
+.
+1
+Termination for Cause.
+ 
+In addition to any other available remedy, a Party may terminate this Agreement
+,
+ in whole or in part
+,
+ for the other Party's failure to materially perform any of the services, duties, terms, or conditions contained in this Agreement after giving the breaching Party written notice of the stated failure. The written notice must demand performance of the stated failure within a specified 
+period of time
+ of not less than 
+(insert number of days)
+ days. If the demanded performance is not completed within the specified period, the termination is effective at the end of the specified period. A good-faith money dispute by the State is not a material breach under this 
+s
+ection that would permit Licensor to terminate this Agreement or to terminate the State’s licensed use of the Software.
+ 
+If the State terminates this Agreement for material breach by Licensor before the expiration of the Acceptance Period, the State shall be entitled to a full refund, within 30 calendar days after notice of termination, of all license fees, Maintenance Fees and other fees paid hereunder
+. 
+State may terminate the Maintenance Services for material default by Licensor. 
+Upon the State’s termination of Maintenance Services for default, the State shall be entitled to a pro rata refund of all prepaid Maintenance Fees for the period after the date of termination.
+AND/OR
+2
+6
+.2
+Termination for Convenience.
+ 
+State may, by written notice to Licensor, terminate this Agreement
+,
+ in whole or in part
+,
+ without cause and without incurring liability to Licensor. State shall give notice of termination to Licensor at least 
+(insert numbers of days)
+ days before the effective date of termination. 
+State shall pay Licensor only that amount, or prorated portion thereof, owed to Licensor up to the date State's termination takes effect. This is Licensor's sole remedy. State shall not be liable to Licensor for any other payments or damages arising from termination under this 
+s
+ection, including but not limited to general, special, or consequential damages such as lost profits or revenues.
+ 
+State may terminate Maintenance Services for 
+convenience at any time, and the State shall then have no obligation to pay any additional Maintenance Fees, other than for Maintenance Services performed through the date of termination. 
+2
+6
+.
+3
+Termination for
+ 
+Reduction of Funding.
+ 
+The 
+State must by law terminate this 
+Agreement
+ if funds are not appropriated or otherwise made available to support State's continuation of performance of this 
+Agreement
+ in a subsequent fiscal period. (
+Section 
+18-4-313(4), MCA)
+.
+ If state or federal government funds are not appropriated or otherwise made available through the state budgeting process to support continued performance of this 
+Agreement
+ (whether at an initial contract payment level or any contract increases to that initial level) in subsequent fiscal periods, State shall terminate this 
+Agreement
+ as required by law. State shall provide 
+Licensor
+ the date State's termination shall take effect. 
+State shall not be liable to Licensor 
+for any payment that would have been payable had the 
+Agreement
+ not been terminated under this provision. As stated above, State shall be liable to 
+Licensor 
+only for the payment, or prorated portion of that payment, owed to 
+Licensor
+ up to the date State's termination takes effect. This is 
+Licens
+or's sole remedy. State shall not be liable to 
+Licensor
+ for any other payments or damages arising from termination under this 
+s
+ection, including but not limited to general, special, or consequential damages such as lost profits or revenues.
+2
+6
+.
+4
+Termination for 
+Noncompliance with Department of Administration Requirements.
+ 
+The Department of Administration, 
+under the provisions of
+ 
+S
+ection 2-17-514, MCA, retains the right to cancel or modify any contract, project, or activity that is not in compliance with the Department's Plan for Information Technology, 
+the State
+ Strategic Plan for Information Technology, or any Statewide IT policy or standard in effect as of the date of contract execution. In the event of such termination, 
+the State
+ will pay for products and services delivered to date and any applicable termination fee specified in 
+the State
+ment of work or work order. Any modifications to this 
+Agreement
+ must be mutually agreed to by the parties.
+ 
+[N
+OTE TO AGENCIES: 
+Noncompliance should be brought to the attention of the State CIO
+. 
+Under 
+2-17-514, MCA, prior to cancelling or modifying 
+agency
+ contracts
+, the Department of Administration will 
+review 
+the noncompliance with the Information Technology Board.
+]
+ 
+2
+6
+.
+5
+Bankruptcy or Receivership.
+ 
+The 
+State may terminate this Agreement for cause 
+if Licensor 
+voluntarily or involuntarily 
+suspends, terminates, winds up, or liquidates its business; 
+becomes 
+subject to any bankruptcy or insolvency proceeding 
+under applicable law; or becomes insolvent or subject to direct control by a trustee, receiver, or similar authority
+.
+The Parties agree that all Software delivered pursuant to this Agreement and the Documentation therefore constitute "intellectual property" under Section 101(35A) of the Code (11 U.S.C. Section 101(35A)). Licensor agrees that if it, as a debtor-in-possession, or if a trustee in bankruptcy for Licensor, in a case under the Code, rejects this Agreement, the State may elect to retain its rights under this Agreement as provided in Section 365(n) of the Code. The State, and any Intellectual Property Rights, licenses or assignments from Licensor of which the State may have the benefit, shall receive the full protection granted to the State by applicable bankruptcy law. 
+2
+6
+.6
+License Termination.
+ 
+The licenses granted in this Agreement shall not be terminated by Licensor for any reason unless Licensor terminates this Agreement pursuant to Section 
+[2
+6
+.1 
+(Termination for Cause)
+]
+.
+2
+7
+.
+TRANSITION ASSISTANCE
+If this 
+A
+greement
+ is not renewed at the end of this term, if the 
+Agreement
+ is otherwise terminated before project completion
+,
+ or if particular work on a project is terminated for any reason, 
+Licens
+or shall provide transition assistance for a reasonable, mutually agreed period of time after the expiration or termination of this 
+Agreement
+ or particular work under this 
+Agreement
+. The purpose of this assistance is to allow for the expired or terminated portion of the services to continue without interruption or adverse effect, and to facilitate the orderly transfer of such services to State or its 
+designees
+. The parties agree that such transition assistance is governed by the terms and conditions of this 
+Agreement
+, except for those terms or conditions that do not reasonably apply to such transition assistance. State shall pay 
+Licensor
+ for any resources utilized in performing 
+such transition assistance at the most current 
+Agreement 
+rates. If State terminates a project or this 
+Agreement
+ for cause, then State may
+ offset the cost of paying Licensor
+ for the additional resources 
+Licensor 
+utilized in providing transition assistance with any damages State may have sustained 
+as a result of
+ 
+Licensor
+’s breach.
+2
+8
+.
+EVENT OF BREACH – REMEDIES
+2
+8
+.1
+Event of Breach by 
+Licens
+or
+.
+ 
+Any one or more of the following
+ Licensor 
+acts or omissions constitute an event of material breach
+ under this Agreemen
+t:
+Products or services furnished fail to conform to any 
+requirement;
+ 
+Failure to sub
+mit any report required by this 
+Agreement
+;
+ 
+Failure to perform any of the other terms and conditions of this 
+Agreement
+, including but not limited to beginning work under this 
+Agreement
+ without prior State approval or breaching 
+S
+ection 
+[
+3
+3
+ (Meetings)
+]
+ 
+obligations; or
+Voluntary or involuntary bankruptcy or receivership.
+2
+8
+.
+2
+State's Remedies for Licensor's Material Breach
+.
+ 
+ 
+In the event of 
+Licens
+or’s material breach, State may:
+Terminate this 
+Agreement 
+under 
+Section 
+2
+6
+ 
+(
+Termination for 
+[Caus
+e 
+and/
+or
+ Termination for 
+Convenience]
+)
+ 
+and pursue any of its remedies under this 
+Agreement
+, at law, or in equity; or
+Treat this 
+Agreement
+ as
+ materially breached and pursue any of its remedies under this 
+Agreement
+, at law, or in equity.
+2
+8
+.
+3
+Event of Breach by State.
+ 
+State’s failure to perform any material terms or conditions of this Agreement constitutes an event of breach.
+2
+8
+.4
+Licensor's Remedies for State's Material Breach.
+ 
+Upon State’s material breach,
+ Licensor
+ may:
+Terminate this 
+Agreement
+ under 
+S
+ection 
+[(
+2
+6
+.
+1
+ 
+(
+Terminat
+ion for Cause
+)
+]
+ an
+d
+ pursue any of its remedies under this 
+Agreement
+, at law, or in equity; or
+Treat this 
+Agreement
+ as
+ materially breached and, except as the remedy is limited in this 
+Agreement
+, pursue any of its remedies under this 
+Agreement
+, at law, or in equity.
+2
+9
+.
+WAIVER
+Either 
+P
+arty’s failure to enforce any 
+obligation
+,
+ responsibility
+,
+ or 
+provision 
+of this Agreement 
+is not a waiver of 
+any other obligation or responsibility or of 
+its right to enforce the 
+specific 
+provision
+ or this Agreement
+ in the future
+,
+ and 
+the Party may 
+exercise appropriate remedies if the breach occurs again. Neither 
+P
+arty may assert the defense of waiver in these situations. 
+30
+. 
+SURVIVAL
+The rights and obligations of the Parties which, by their nature must survive termination or expiration of this Agreement 
+in order to
+ achieve its fundamental purposes, include without limitation, the provisions of the following 
+s
+ections: LICENSES, CONFIDENTIALITY RIGHTS AND OBLIGATIONS, WARRANTIES, 
+HOLD HARMLESS/INDEMNIFICATION
+, 
+INTELLECTUAL PROPERTY 
+INDEMNIFICATION, LIMITATION OF LIABILITY
+, and CHOICE OF LAW AND VENUE
+. All such 
+s
+ections shall survive any termination of this Agreement.
+3
+1
+.
+Assignment
+, 
+TRANSFER, AND SUBCONTRACTING
+Licensor
+ may not assign, transfer, or subcontract any portion of this 
+Agreement
+ without State's prior written consent. (18-4-141, MCA) 
+Licensor
+ is responsible to State for the acts and omissions of all subcontractors or 
+agents and of persons directly or indirectly employed by such subcontractors, and for the acts and omissions of persons employed directly by 
+Licensor
+. No contractual relationships exist between any subcontractor and State under this 
+Agreement
+.
+3
+2
+.
+LIAISONS AND SERVICE OF NOTICES
+ 
+[
+NOTE TO AGENCIES: The following two provisions are presented as options for Section 
+3
+2
+.1. In deciding which provision to use, consideration should be given to the circumstances of each individual contract. The second option is generally applicable to IT contracts under the Montana Information Technology Act.
+]
+3
+2
+.1
+Contract Liaisons.
+ 
+All project management and coordination on State's behalf must be through a single point of contact designated as State's liaison. Licensor shall designate a liaison that will provide the single point of contact for management and coordination of Licensor's work. All work performed under this Agreement must be coordinated between State's liaison and Licensor's liaison.
+ is State's liaison
+(Address):
+(City, State, ZIP):
+Telephone: 
+Cell Phone: 
+Fax:
+E-mail: 
+ is Licensor's liaison
+(Address):
+(City, State, ZIP):
+Telephone: 
+Cell Phone: 
+Fax:
+E-mail:
+OR
+3
+2
+.1
+Contract Manager.
+ 
+State’s Contract Manager identified below is State's single point of contact and shall perform all contract management under 2-17-512, MCA, on State’s behalf. Written notices, requests, complaints, or any other issues regarding this Agreement should be directed to State’s Contract Manager.
+ is State's Contract Manager
+(Address):
+(City, State, ZIP):
+Telephone: 
+Cell Phone: 
+Fax:
+E-mail: 
+ is Licensor's Contract Manager
+(Address):
+(City, State, ZIP):
+Telephone: 
+Cell Phone: 
+Fax:
+E-mail:
+3
+2
+.2
+Notifications.
+ 
+State's liaison and 
+Licenso
+r's liaison may be changed by written notice to the other party. Written notices, requests, or complaints must first be directed to the liaison. Notice may be provided by personal service, mail, or facsimile. If notice is provided by personal service or facsimile, the notice is effective upon receipt; if notice is provided by mail, the notice is effective within three 
+B
+usiness 
+D
+ays of mailing. A signed and dated acknowledgement of the notice is required of both parties. 
+[
+NOTE TO AGENCIES: Section 3
+2
+.3 is optional depending on project.
+]
+3
+2
+.3
+Identification/Substitution of Personnel.
+ 
+The personnel identified or described in Licensor's proposal shall perform the services provided for State under this Agreement. Licensor
+ agrees that any personnel substituted during the term of this Agreement must be able to conduct the required work to industry standards and be equally or better qualified than the personnel originally assigned. State reserves the right to approve Licensor personnel assigned to work under this Agreement and any changes or substitutions to such personnel. State's approval of a substitution will not be unreasonably withheld. This approval or disapproval shall not relieve Licensor to perform and be responsible for its obligations under this Agreement. State 
+reserves the right to require Licensor personnel replacement. If Licensor personnel become unavailable, Licensor shall provide an equally qualified replacement in time to avoid delays to the work plan.
+3
+3
+.
+ 
+MEETINGS
+3
+3
+.1
+Technical or Contractual Problems.
+  
+Licensor
+ shall meet with State's personnel, or designated representatives, to resolve technical or contractual problems occurring during the 
+Agreement
+ term or 
+to discuss the progress made by 
+Licensor
+ and State in the performance of their respective obligations
+, at no additional cost to the State.  State may request the meetings as problems arise and will be coordinated by State.  State shall provide 
+Licensor
+ a minimum of three full working days’ notice of meeting date, time, and location.  Face-to-face meetings are desired; however, at 
+Licensor
+'s option and expense, a conference call meeting may be substituted.  
+Licensor
+’s consistent failure to participate in problem resolution meetings, 
+Licensor
+ missing or rescheduling two consecutive meetings, or 
+Licensor
+’s failure to make a good faith effort to resolve problems may result in termination of the 
+Agreement
+.
+3
+3
+.2
+Status Meetings.
+  
+During the term of this 
+Agreement
+, State's Liaison may plan and schedule status meetings with 
+Licensor
+ to discuss 
+Licensor
+’s and State’s performance of their respective obligations.  
+3
+3
+.3
+Failure to Notify.
+  
+If 
+Licensor
+ fails to specify in writing any problem or circumstance that materially affects the costs of its delivery of services or products, including a material breach by State, about which 
+Licensor
+ knew or reasonably should have known with respect to the period during the term covered by 
+Licensor
+'s status report, 
+Licensor
+ shall not be entitled to rely upon such problem or circumstance as a purported justification for an increase in the price for the services provided. 
+3
+4
+.
+Professional Services
+[
+NOTE
+: 
+Section 
+3
+4
+ may need to be modified if using the NASPO Software Value Added Reseller Agreement.] 
+At the State’s written request, Licensor may provide professional services to assist the State with the installation, configuration, and deployment of the Software application(s) covered by this Agreement. The parties shall agree to the scope of work, roles and responsibilities; deliverables; and cost of such professional services in a Statement of Work 
+[insert reference to specific statement of work]
+ executed by the parties.
+  
+[NOTE:
+ 
+If Licensor will be onsite
+, include the following sentence.
+]
+ Licensor shall adhere to the security requirements detailed in Schedule D.
+3
+5
+.
+Training 
+Licensor shall provide, at no additional charge, the training 
+for State personnel 
+in use, operation, and maintenance of the Software 
+called for 
+in
+ Schedule A 
+in the manner and location and
+ on 
+the 
+dates specified by the State. Prices for additional classes, if any, are specified 
+i
+n Schedule B. Licensor shall provide the 
+State
+, at no charge, all trainer/class leadership materials Licensor has available or has used in connection with the classes conducted for the State. The State may duplicate these materials for the State’s use exclusively and use them to conduct other classes at the State's convenience. At no additional charge, Licensor shall provide training Documentation for each attendee at any classes Licensor conducts.
+3
+6
+.
+Access and Retention of Record
+s
+3
+6
+.1
+Access to Records.
+ 
+Licensor
+ shall provide State,
+ 
+Legislative Auditor, or their authorized agents access to any records necessary to determine 
+Agreement 
+compliance. State may terminate this 
+Agreement 
+under 
+S
+ection
+ 
+[
+2
+6
+ 
+(
+Termination
+)
+]
+, without i
+ncurring liability, for Licens
+or’s refusal to al
+low access as required by this 
+s
+ection. (18-1-118, MCA.)
+3
+6
+.2
+Retention Period.
+ 
+Licensor
+ shall create and retain all records supporting the 
+(insert 
+Licensed Software
+ and Maintenance Services and/or 
+services rendered or supplies provided)
+ for a period of eight years after either the completion date of this 
+Agreement
+ or terminati
+on of the Agreement
+. 
+3
+7
+.
+SYSTEM SECURITY
+ and prohibited activities
+37
+.1
+System Security
+.
+ 
+Licens
+or shall ensure systems delivered under this Agreement are adequately secure. For purposes of this Agreement, adequate security is defined to require compliance with federal and State of Montana security requirements and to ensure freedom from those conditions that may impair the State's use of its data and information technology or permit unauthorized access to the State's data or information technology.  The State of Montana has established control standards and policies that align with the NIST Cybersecurity Framework.  The latest revision of NIST SP 800-53 is used for control adherence evaluation established after developing a security categorization utilizing FIPS PUB 199.  Thus, 
+Licens
+or shall provide reasonable proof, through independent audit reports, that the system specified under this Agreement meets or exceeds federal and State of Montana security requirements to ensure adequate security and privacy, confidentiality, integrity, and availability of the State's data and information technology.  Annual assurance statements shall be delivered to the Contract Liaison.  Annual assurance statements must contain a detailed accounting of the security controls provided and must be in the form of a NIST Security Assessment Report or FedRAMP Security Assessment Report.
+37
+.
+2
+Prohibited Activities and Spoofing
+.
+ 
+Licens
+or
+ 
+and its officers, employees, agents, subcontractors, and affiliated users, shall not violate or attempt to violate the security of the State’s network or interfere or attempt to interfere with the State’s systems, networks, authentication measures, servers or equipment, or with the use of or access to the State’s network by any other user.  Such prohibited activity includes (i) accessing or logging into a server where access is not authorized; (ii) unauthorized probing, scanning, or testing the security or vulnerability of the State’s network or other systems; and (iii) attempting to portray itself as the State or an affiliate of the State or otherwise attempting to gain access, without authorization, via the State’s network or systems to any account or information technology resource not belonging to 
+Licens
+or or its officers, employees, agents, subcontractors, and affiliated users (“Spoofing”).  
+Licens
+or shall not perform unauthorized Spoofing or scanning of any kind, including user account identity.  Systems shall not Spoof the mt.gov domain or engage in Email Spoofing. Email Spoofing is the creation of email messages with a forged sender address.  For example, Email Spoofing includes creating or sending emails using the State’s domain.
+3
+8
+.
+AUDIT
+At Licensor’s written request, but not more frequently than once annually, Licensor may audit State’s use of the Software to verify compliance with the terms and conditions of this Agreement.  Any audit shall be 
+limited to the six-month period immediately preceding the 
+beginning 
+da
+te of the audit
+; shall be 
+scheduled at least
+ sixty (
+60
+)
+ days in advance, at a time mutually agreed to by both parties
+;
+ and shall be conducted during regular business hours at the State’s facilities or remotely and shall not unreasonably interfere with the State’s business 
+activities.  Both p
+arties shall mutually agree in writing when the audit will be conducted, the records required to verify compliance, what constitutes proof of license and compliance as described in the Agreement, and shall specify the fees to be paid if such audit reveals that the State’s use of the Software fails
+ to comply with the terms of this
+ Agreement.  
+Each 
+agency, department, or political subdivision of the 
+State shall pay such fees in accordance with Section 
+[
+6
+ (Fees and Payments)
+]
+ above without interest or penalty solely as it relates to this audit provision, 
+and 
+the payment of 
+such 
+fees shall be the
+ Licensor’s sole remedy.  Each p
+arty shall be responsible for their own costs in conducting the audit.
+3
+9
+.
+Severability
+A declaration by any court or any other binding legal source that any provision of the 
+Agreement
+ is illegal and void shall not affect the legality and enforceability of any other provision of the 
+Agreement
+, unless the provisions are mutually and materially dependent.
+40
+.
+Force Majeure
+Neither party is responsible for failure to fulfill its obligations due to causes beyond its reasonable control, including without limitation, acts or omissions of government or military authority, acts of God, materials shortages, transportation delays, fires, floods, riots, wars, terrorist acts, or any other causes, directly or indirectly beyond the reasonable control of the nonperforming party, so long as such party uses its best efforts to remedy such failure or delays. A party affected by a force majeure condition shall provide written notice to the other party within a reasonable time of the onset of the condition. In no event, however, shall the notice be provided later than five 
+Business Days
+ after the onset. If the notice is not provided within the five-day period, then a party may not claim a force majeure event. A force majeure condition 
+te
+mporarily 
+suspends
+ a party’s obligations under this 
+Agreement
+ during the period when the force majeure condition 
+prevents performance
+, unless the parties mutually agree that the obligation is excused because of the condition. 
+The State may
+ terminate the Agreement and shall receive a pro-rata refund of any amount pre
+-paid in the event a force majeure condition prevents 
+Licensor's performance 
+for more than 15 Business Days.
+4
+1
+.
+choice of law and venue
+This Agreement will be governed solely by the laws of the State of Montana, without reference to: (a) any confl
+icts of law principle that would apply the substantive laws of another jurisdiction to the parties' rights or duties; (b) 
+the 1980 United Nations Convention on Contracts for the International Sale of Goods; (c) other international laws; or (d) 
+the Uniform Computer Information Transactions Act as adopted in any jurisdiction
+. The parties agree that any litigation concerning this bid, proposal, or this 
+Agreement
+ must be brought in the First Judicial District in and for the County of Lewis and Clark, State of Montana, and each party shall pay its own costs and attorney fees. 
+42
+.
+GENERAL CONDITIONS
+ 
+42
+.1
+ 
+Agreement
+.
+This Agreement 
+consists of 
+the 
+(insert number)
+ numbered pages
+ of this contract
+, any 
+Schedules
+ as required, Solicitation # 
+(insert solicitation number)
+, and 
+Licens
+or's response
+, as amended
+. In the case of dispute or ambiguity arising between or among the documents, the order of precedence of document interpretation is the 
+order in which these are 
+listed in the preceding sentence, with the Licensor's response having the lowest priority
+.
+42
+.2
+ 
+Entire Agreement.
+ 
+These documents are the entire agreement of the parties. They supersede all prior agreements, representations, and understandings.
+  
+T
+he 
+p
+arties specifically agree that any language or provisions contained on either 
+p
+arty’s website or product 
+schedule, or
+ contained in any 
+“
+shrinkwrap
+”
+ or "clickwrap" agreement, shall be of no force and effect and shall not in any way supersede, modify or amend this Agreement.
+42
+.3
+Amendments.
+ 
+Any amendment or modification must be in a written agreement signed by the parties.
+42
+.4
+Remedies
+.
+ 
+Except for remedies designated specifically as exclusive, no remedy conferred by any of the specific provisions of th
+e
+ Agreement
+ is intended to be exclusive of any other remedy, and each and every remedy will be cumulative and will be in addition to every other remedy given hereunder, now or 
+hereafter existing at law or in equity or by statute or otherwise. The election of any one or more remedies by either party will not constitute a waiver of the right to pursue other available remedies.
+42
+.
+5
+Authority
+.
+ 
+This 
+Agreement
+ is issued under authority of Title 18, Montana Code Annotated, and the Administrative Rules of Montana, Title 2, chapter 5.
+ 
+4
+3
+.
+EXECUTION
+The parties through their authorized agents have executed this 
+Agreement
+ on the dates set out below.
+(
+Insert Agency Name
+)
+(INSERT 
+LICENSOR
+'S NAME)
+(Insert Address)
+(Insert Address)
+Insert City, State, Zip)
+(
+Insert City, State, Zip)
+FEDERAL ID # 
+BY: 
+BY: 
+(Name/Title)
+(Name/Title)
+(Signature)
+(Signature)
+DATE: 
+ 
+DATE: 
+ 
+Approved as to Legal Content:
+Legal Counsel
+(Date)
+Approved as to Form:
+Procurement Officer
+(Date)
+State Procurement Bureau
+Chief Information Officer Approval:
+The 
+Licensor
+ is notified that pursuant to 
+S
+ection 2-17-514, MCA, the Department of Administration retains the right to cancel or modify any contract, project, or activity that is not in compliance with the Agency's Plan for Information Technology, 
+the State
+ Strategic Plan for Information Technology, or any statewide IT policy or standard.
+Chief Information Officer
+(Date)
+Department of Administration
+SCHEDULE 
+A
+Description of 
+Software
+ AND 
+TRAINING
+DESCRIPTION OF 
+SOFTWARE
+ AND
+ 
+TRAINING
+This table shall 
+list 
+all 
+S
+oftware, including 
+Third Party Software, 
+Open Source
+ Software,
+ and 
+any 
+other 
+ software
+ 
+provided under this Agreement:
+Purchase Date
+Component
+Platform (i.e. server, desktop, etc.)
+License Model (perpetual, term, etc.)
+License Metric (CPU, processor, MIPS, MSU, user, etc.)
+License Quantity
+Description
+This table shall list all 
+training 
+provided under this Agreement:
+Training Date
+Training Title
+Training Method
+Training Location
+Training Description
+ and Quantity
+“
+Description
+”
+ 
+means a high-level description of the 
+features and functionality of the Software or 
+t
+raining
+.
+ 
+“License Model”
+ 
+refers to the
+ categorization of license by its variables, including means of acquisition, packaging, intended purpose, License Metric or duration of license agreement.
+“License Metric”
+ 
+refers to
+ the alphanumeric or statistical descriptor for measuring the product-use rights specified in the entitlement portion of a Software license agreement, particularly for determining licensing and product usage pricing, i.e., per user, per machine, per processor or per use.
+AUTHORIZED USE
+Licensor
+ 
+authorizes
+ 
+the State
+ to use the 
+Software
+ in the specific scope and quantities defined in 
+Schedule A – Section 1
+,
+ 
+above
+ ("Authorized Use")
+.  
+Except as otherwise provided in this Agreement,
+ the
+ State
+’s use of the 
+Software
+ shall not exceed the specified Authorized Use.
+Within 
+sixty (
+60
+)
+ days of the Purchase Date, 
+Licensor
+ shall explain in writing 
+and provide detailed D
+ocumentation to State regarding
+ how 
+Software
+ usage will be counted for State to maintain compliance with Authorized Use
+.  
+Prior to any changes taking effect, Licensor shall notify State of any changes on how usage will be counted. 
+For example, if a license’s name and unit of measurement is a Full Administrator License, the license definition should provide explanation of what this means.  An example of how the Full Administrator License is counted could be “One Full Administrator’s License is equal to one user.”  In case of ambiguity or absence of definition, any 
+Software
+ Product where usage rights are unclear will be interpreted in State’s favor.
+Schedule
+ B
+FEES AND PAYMENTS
+License Fees 
+1
+.1
+Fees for 
+Software
+ License
+.
+  
+In consideration for the granting of the 
+Software 
+license to 
+the State
+, 
+the State
+ hereby agrees t
+o pay to Licensor a license fee
+ in the amount of 
+$ _______
+ upon receipt of a valid invoice as specified in 
+Agreement
+ 
+Section
+ 
+[
+6.3
+ (Invoices)
+.
+1.2
+Future Purchases
+.
+ 
+The
+ State
+ may acquire licenses, 
+M
+aintenance
+ Services,
+ and support at the prices on this 
+Schedule B
+ for a period of 
+(insert number of months or years)
+ from the effective date of this Agreement.
+Maintenance Fees
+ [if applicable]
+2.1
+Maintenance F
+ees.
+  
+In consideration 
+for 
+the 
+M
+aintenance
+ Services
+ and support services described in 
+Schedule C
+, the State hereby agrees to pay to Licensor a fee in the amount of 
+$ _______ 
+upon receipt of a valid invoice as specified in 
+Agreement
+ 
+Section 
+[
+6
+.3
+ (Invoices)
+]
+.
+2.2
+Renewal.
+  For each subsequent year, 
+the State
+, at its sole discretion, may issue a Purchase Order 
+or an amendment to 
+the 
+Agreement 
+to renew 
+M
+aintenance 
+Services 
+and support services.  Only upon receipt of a signed State of Montana Purchase Order
+ or amendment to 
+the 
+Agreement
+, 
+shall
+ 
+M
+aintenance
+ Services
+ and support services commence, and 
+shall
+ 
+Licensor
+ invoice 
+the State
+ of such services.
+2.3
+Increases in Annual Maintenance Fee.
+ 
+ 
+Licensor
+ 
+Maintenance Fees
+ may be increased after the initial year of 
+Maintenance Services
+ 
+provided ninety 
+(90) 
+days
+’
+ prior written notice is received by 
+the State
+.  
+The increased 
+M
+aintenance 
+F
+ee may not exceed the lesser of (i) the 
+increase in the 
+Consumer Price Index (CPI), (ii) the price charged to Licensor’s most favored customer, or (iii) 
+3
+% over the fees as contained in this Agreement.
+ 
+The
+ State
+ may terminate 
+M
+aintenance
+ Services 
+and
+ support
+ services
+ any time on or before sixty days of receipt of 
+Licensor
+’s written notice of a price increase.
+ 
+If
+ 
+a pricing adjustment 
+is made 
+based on the cost of living as reflected in the 
+Federal Bureau of Labor Statistics Consumer Price Index (CPI) for all Urban Consumers (see http://www.bls.gov/cpi/ for reference)
+, 
+t
+he CPI for the last 12-month period of the 
+Agreement
+ shall be the CPI base on which later adjustments are computed, and the original CPI base shall be the index announced for the month in which the 
+Agreement
+ was signed. The allowable percentage change shall be calculated as follows:
+New CPI Base - Original CPI Base
+Original CPI Base
+The original 
+Agreement
+ costs shall be adjusted according to this percentage change. Each time an adjustment is made, the original CPI base shall be replaced by the adjusted CPI base. The percentage of adjustment to 
+Agreement
+ prices shall in no event exceed the percentage change in the index. State is not obligated to agree upon a renewal or a cost increase.
+2.4
+Reinstatement.
+  If 
+Maintenance Services
+ 
+and support services lapse, 
+the State
+ may reinstate 
+M
+aintenance 
+Services 
+and support
+ services
+ at any time by 
+issuing
+ a Purchase Order.  
+[
+NOTE
+ TO AGENCIES: 
+CHOOSE:
+ 
+The reinstatement fees shall not exceed the monthly fee for the number of delinquent months multiplied by 50%
+ 
+OR
+ There is no reinstatement fee required to reinstate Maintenance Services and support services 
+for the first 12 months after lapse
+, and 
+beyond 12 months after lapse, 
+the reinstatement fee 
+shall not exceed the monthly fee for the number of delinquent months multiplied by 
+25
+%
+.
+]
+3.
+ 
+Time and Materials Rates (if applicable)
+4.
+ 
+Training Fees (if applicable)
+5
+.
+ 
+professional service 
+Fees (if applicable)
+Schedule C
+MAINTENANCE SERVICES
+1.
+Licensor
+ shall provide the Maintenance Services described in this 
+Schedule
+ 
+for 
+Software
+ 
+(
+including 
+any 
+Third Party
+ Software and 
+Open Source
+ Software
+)
+,
+ 
+Upgrades
+, 
+Updates
+,
+ and
+ Enhancements
+ provided to 
+the State
+ pursuant to this Agreement.
+ 
+After expiration of the Warranty Period, 
+the State
+ shall pay 
+as follows 
+for Maintenance Services
+ (if applicable)
+:
+ 
+1.
+1
+D
+uring the Maintenance Period, the Maintenance 
+Fee;
+ 
+1.2
+After
+ the Maintenance Period, and except as otherwise expressly stated in this 
+s
+ection or in 
+Schedule B
+ and when authorized in advance by 
+the State
+, the Time and Materials Rates.
+2.
+Except as otherwise provided in 
+this 
+Schedule or as otherwise agreed by the Parties in writing, Maintenance Services shall be performed Monday through Friday, from 8:00 a.m. to 5:00 p.m. local time 
+where
+ the Software is installed. 
+Licensor
+ shall provide:
+2.1
+ 
+H
+elp desk support 24 hours a day, seven days a week via toll-free telephone number with help desk technicians sufficiently trained and experienced to identify or resolve most support issues and who shall respond to all requests
+ from 
+the State
+ for support within 15 minutes after receiving a request for 
+assistance;
+ 
+2.2
+A
+ current list of persons and telephone numbers, including pager 
+or mobile
+ telephone 
+numbers, (the “Calling List”) for 
+the State
+ to contact to enable 
+the State
+ to escalate its support requests for issues that cannot be resolved by a help desk technician or for circumstances where a help desk technician does not respond within the time specified.
+ 
+The Calling List shall include:
+a.
+T
+he first person to contact if a question arises or problem occurs
+; 
+and
+b.
+T
+he 
+persons
+ in successively more responsible or qualified positions to provide the answer or assistance desired.
+ 
+If 
+Licensor
+ does not respond promptly to any request by 
+the State
+ for telephone consultative service, then 
+the State
+ may attempt to contact the next more responsible or qualified person on the Calling List until contact is made and a designated person responds to the call.
+3
+.
+Licensor shall make reasonable efforts to respond within 
+thirty (30) minutes
+ to the State’s initial request for assistance in correcting or creating a workaround for an 
+Error
+. Licensor’s response shall include assigning 
+fully-qualified
+ technicians to work with the State to diagnose and correct or create a workaround for the 
+Error
+ and notifying the State Representative making the initial request for assistance of Licensor’s efforts, plans for resolution of the 
+Error
+, and estimated time required to resolve the 
+Error
+. Licensor shall correct 
+Error
+s caused by the Object Code by modifying Source Code and distributing the modified 
+Software
+ to the State on the schedule called for in this 
+s
+ection 
+3
+.
+3
+.1
+For Class 1 
+Error
+s, 
+after the State reports the 
+Error,
+ 
+Licensor
+ shall provide a Correction or workaround reasonable in 
+the State
+'s judgment within the Repair Period or within 
+two
+ 
+(
+2
+) hours after 
+the State
+ first reports the 
+Error
+ if no other Repair Period is specified.
+ 
+These steps shall include assigning 
+fully-qualified
+ technicians to work with 
+the State
+ without interruption or additional charge, 24 hours per day
+, 
+until 
+Licensor
+ provides a Correction or workaround 
+that is 
+reasonable in 
+the State
+'s judgment.
+3
+.2
+ 
+For 
+critical 
+Class 2 
+Error
+s, 
+Licensor
+ shall take reasonable steps to provide a Correction or a workaround reasonable in 
+the State
+'s judgment 
+within 
+six
+ (
+6
+) hours after the State first reports the Error if no other Repair Period is specified
+.
+ 
+For 
+non-critical 
+Class 2 
+Error
+s, Licensor shall take reasonable steps to provide a Correction or a workaround reasonable in the State's judgment 
+within 
+twenty-four
+ (
+24
+) hours after the State first reports the Error if no other Repair Period is specified
+. 
+Reasonable 
+steps shall include assigning 
+fully-qualified
+ technicians to work with 
+the State
+ during 
+the State
+'s regular business hours until 
+Licensor
+ provides 
+a Correction 
+or 
+a workaround reasonable in 
+the State
+'s judgment or 
+the State
+ determines after consultation with 
+Licensor
+ that such a workaround or Correction cannot be produced by 
+Licensor
+'s technicians.
+ 
+If a Correction is not 
+timely 
+provided 
+as required by this 
+s
+ection
+, 
+Licensor
+ shall provide a Correction within 
+fifteen
+ (
+15
+) calendar days after 
+the State
+’s report of the 
+Error
+ unless the State has agreed in writing to accept a workaround
+ for more than fifteen (15) calendar days
+.
+3
+.3
+For Class 3 
+Error
+s, 
+Licensor
+ shall correct the 
+Error
+s by all reasonable means.
+ 
+Licensor
+ shall correct the 
+Error
+s and distribute the modified 
+Software
+ to 
+the State
+ no later than the next Update
+s
+, unless 
+Licensor
+ has scheduled release of such 
+Updates
+ less than 
+fifteen (
+15
+)
+ calendar days after 
+the State
+'s notice, in which case 
+Licensor
+ shall correct the 
+Error
+ no later than the following 
+Updates
+.
+3.
+4
+Without limiting 
+Licensor
+'s obligations under this 
+s
+ection, if 
+Licensor
+ does not deliver a Correction for an 
+Error
+ within the times allowed by this 
+s
+ection (whether 
+Licensor
+ has delivered a reasonable workaround or not), 
+Licensor
+ shall provide a written analysis of the problem and a written plan to supply 
+the State
+ with a Correction.
+4
+.
+Notwithstanding Section 
+3
+ 
+of this Schedule
+, if an 
+Error
+ prevents 
+the State
+ from making productive use of the 
+Software
+, 
+Licensor
+ shall use its best efforts to provide an effective workaround or a Correction by the time 
+the State
+ opens for business on the Business Day after the Business Day on which 
+the State
+ first reports the 
+Error
+.
+5
+.
+Licensor
+ shall pay 
+the State
+ a price adjustment reflecting the reduction in value 
+the State
+ 
+receives
+ 
+as a result of
+ the following Class 
+Error
+s;
+5
+.1
+If 
+Licensor
+ fails to provide a reasonable workaround or Correction for a Class 1 
+Error
+ within the Repair Period, 
+Licensor
+ shall pay 
+the State
+, as a price adjustment reflecting the reduction in value 
+the State
+ 
+receives
+ as a result of the Class 1 
+Error
+ and not as a penalty or compensation for damage, the sum of 2/365 of the Maintenance Fees, expressed as an annual charge, for each additional day or part thereof (not to exceed 90 days) that 
+Licensor
+ fails to provide a reasonable workaround or a Correction for the Class 1 
+Error
+.
+5
+.2
+If 
+Licensor
+ fails to provide a reasonable workaround in 
+the State
+’s judgment or Correction for a Class 2 
+Error
+ within three Business Days after 
+the State
+ reports the 
+Error
+, 
+Licensor
+ shall pay 
+the State
+, as a price reduction reflecting the reduction in value 
+the State
+ 
+receives
+ as a result of the Class 2 
+Error
+ and not as a penalty or compensation for damage, the sum of 1/365 of the Maintenance Fees, expressed as an annual charge, for each additional day or part thereof (not to exceed 
+sixty (
+60
+)
+ days) that 
+Licensor
+ fails to provide a reasonable workaround or a Correction for the Class 2 
+Error
+.
+5
+.3
+In each case of Class 1 or Class 2 
+Error
+ for which 
+Licensor
+ does not deliver a reasonable workaround or Correction on the schedule called for in the preceding 
+Sections 
+3
+.1
+ and 
+3
+.2
+ 
+of this Schedule
+, respectively, 
+Licensor
+ shall also credit 
+the State
+ the pro rata portion of Maintenance Fees that would otherwise be payable from the date 
+the State
+ first reported the 
+Error
+ until 
+Licensor
+ provides a Correction, in recognition that Maintenance Services during that period have not achieved their objective.
+ 
+If 
+Licensor
+ fails to provide a Correction within 30 days after 
+the State
+ first reported the Class 1 or Class 2 
+Error
+, 
+the State
+ may terminate 
+Maintenance Services for 
+Licensor
+’s material breach.
+ 
+Price adjustments under 
+Section 
+5
+.1
+ and
+ Section 
+5
+.2
+ 
+of this Schedule 
+shall
+ cease to accrue upon such termination.
+5
+.4
+Without limitation of 
+Licensor
+’s obligations above, 
+the State
+ may fall back, at its option, to any previous version or release of the 
+Software
+ in which a Class 1 or Class 2 
+Error
+ does not occur or can be worked around, and 
+Licensor
+ shall provide Maintenance Services at no charge, with respect to that version until 
+Licensor
+ provides a Correction.
+5
+.5
+The Parties agree that the price adjustments called for in this 
+s
+ection are reasonable 
+in light of
+ the reduction in value to 
+the State
+ of the products and services provided hereunder.
+5
+.6
+Price adjustments shall be waived to the extent 
+Error
+s are caused by actions or omissions of 
+the State
+.
+6
+.
+The
+ State
+ shall submit to 
+Licensor
+ a listing of output and such other data as 
+Licensor
+ reasonably may request 
+in order to
+ reproduce operating conditions 
+similar to
+ those present when 
+the State
+ detected the 
+Error
+.
+7
+.
+Licensor
+ shall provide all Updates to 
+the State
+ at no additional charge when Updates are completed
+.
+SCHEDULE D
+ 
+ONSITE PHYSICAL ACCESS 
+[OPTIONAL WHEN ONSITE PHYSICAL ACCESS IS 
+REQUIRED –
+ USE APPLICABLE PROVISION
+(S)
+ DEPENDING ON ACCESS NEEDS]
+1.
+Licensor Access to Secure State Facilities and Confidential Information.
+ 
+An employee of 
+Licens
+or or a 
+subcontractor
+ is required to complete a Federal Criminal Background Check, in accordance with 
+Montana's 
+security policies
+, if said employee of 
+Licensor
+ or a 
+subcontractor
+ will have 
+Access to Secure State Facilities and Confidential Information
+. 
+Licensor
+ shall provide 
+the State 
+with sufficient personal information (at 
+Licensor
+’s own expense) so that a Federal Criminal Background Check may be completed by 
+the State
+, at 
+the State’s 
+expense. 
+The State 
+will also provide 
+Licensor
+ with a 
+d
+isclosure 
+f
+orm and 
+c
+onfidentiality 
+a
+greement which must be filled out by 
+Licensor
+ and returned to 
+the State
+. 
+E
+ach employee of 
+Licensor
+ or a 
+subcontractor
+, who will have 
+Access to Secure State Facilities and Confidential Information
+, will be scheduled by 
+the State 
+to be fingerprinted, at a minimum of 
+two weeks
+ prior to having such access.  
+At the time of fingerprinting, said employee of 
+Licensor
+ or a 
+subcontractor
+ will disclose, in full, any past record of felony or misdemeanor convictions. 
+The State 
+is authorized to conduct a Federal Criminal Background Check based upon the fingerprints and personal information provided. 
+The State 
+reserves the right to revoke 
+Access to Secure State Facilities and Confidential Information 
+granted in the event of any negative results. 
+Licensor
+ agrees to notify 
+the State 
+if an arrest or conviction of any employee of 
+Licensor
+ or a 
+subcontractor
+ that has 
+Access to Secure State Facilities and Confidential Information
+ occurs during the 
+term of this Agreement or 
+the Maintenance Period
+. 
+Licensor
+, in executing any duty or exercising any right under this 
+Agreement
+, shall not cause or permit any of its employees or employees of a 
+subcontractor
+ (if any) who have been convicted of a felony to have 
+Access to Secure State Facilities and Confidential Information
+. 
+Licensor shall obtain permission from the State 
+p
+rior to causing or permitting any 
+employee or employee of a subcontractor who has been convicted of a misdem
+eanor to have Access to Secure State Facilities and Confidential Information
+.
+ 
+A felony and misdemeanor are defined by the laws of the State of 
+Montana
+, regardless of where the conviction occurred. 
+Upon request, 
+the State 
+agrees to provide 
+Licensor
+ with a copy of the latest version of the 
+State of Montana's security policies
+.
+For purposes of 
+this 
+Schedule D
+, a Federal Criminal Background Check is 
+a background check conducted 
+via the interstate identification index system, which is the cooperative federal-state system for the exchange of criminal history records 
+and 
+which includes 
+the national identification index, the national fingerprint file, and to the extent of their participation in the system, the criminal history record repositories of the states and the
+ Federal Bureau of Investigation
+. 
+Files shall be maintained regarding these investigations. 
+The State will review these background investigations to ensure compliance and appropriateness of hire or access.
+The State may use the following factors in determining acceptability of hire or Unescorted Access: 
+Prior criminal record
+Type of prior criminal convictions
+Time elapsed between prior convictions and the present
+Employment history
+Patterns of residency
+Any other reasonably relevant information
+Failure of Licensor to promptly reassign or otherwise establish an acceptable security clearance for any of its employees shall be grounds for termination of this Agreement for cause according to the agreement between Licensor and the State.
+The State shall have the final discretion for the determination of acceptability and reserves the right to reduce access to Escorted Access when appropriate or revoke Access to Secure State Facilities and Confidential Information.
+ Licensor will be given a reasonable opportunity to rebut an unfavorable security report for any of its employees.
+Licensor must supply experienced supervisors. The supervisor will be responsible for instructing and training Licensor personnel in proper and specified work methods and procedures. This supervisor will direct, schedule and coordinate all services and functions to completely accomplish the work as required by the Agreement and as specified herein. The supervisor will inspect the work 
+on a monthly basis
+ and before completion or acceptance of the Licensor's services. Licensor or a competent representative will be available Monday through Friday of each week to receive information, instruction, or complaints regarding Licensor's services.
+2.
+Data Center Access.
+ 
+In addition to the Access to Secure State Facilities and Confidential Information provisions in 
+Schedule D
+ – 
+Section 
+1 [insert applicable section]
+ above
+, the following provisions apply specifically 
+to Licensor, its subcontractors, and employees who 
+have
+ access to the Data Center.
+  For purposes 
+of
+ 
+this 
+Schedule D
+, 
+"Data Center" means 
+the State of Montana Data Center located in Helena, Montana and the Miles City Data Center, located in Miles City, Montana. 
+2.1
+Access Categories.
+ 
+There are two categories of Data Center access
+: "Escorted Access" and "Unescorted Access."
+  The appropriate category of Data Center access
+ applicable to Licensor
+, its subcontractors, and employees
+ shall be determined by the State.
+2.2
+Escorted Access.
+ 
+The State may 
+allow
+ Escorted Access when
+ Licensor, its subcontractors, and/or employees
+ only need access
+ to
+:
+the Data Center 
+Meet Me Room(s) (MMR)
+ 
+on a limited basis
+; or
+the 
+Data Center 
+on
+ce annually for a period of
+ ten or fewer Business Days.
+ 
+If the State allows Escorted Access
+ to the Data Center, the provisions of 
+Schedule D
+ – 
+Section 
+[insert applicable section, e.g. 
+3
+ (Escorted Access
+ Criteria
+)
+]
+ 
+ 
+shall
+ apply. 
+2.3
+Unescorted Access.
+ 
+For access 
+to the Data Center 
+not described as Escorted Access
+ 
+in 
+Schedule D
+ – 
+Section 
+[insert applicable section
+, e.g. 2.2
+ (Escorted Access)
+]
+ 
+above, Licensor, its subcontractors, and/or employees 
+shall meet the Unescorted Access requirements set forth in 
+Schedule D
+ – 
+Section 
+[insert applicable section
+, e.g. 4 (Unescorted Access Criteria)
+]
+.
+3.
+Escorted Access
+ Criteria
+.
+ The following 
+conditions and 
+requirements apply to Escorted Access:
+The State of Montana Data Center locations are secure locations. 
+Licensor
+ shall take reasonable actions to ensure the security of the premises while performing 
+Licensor
+’s duties.
+Licensor
+ shall be escorted while in the Data Center by a State 
+designee
+.
+Licensor
+ acknowledges that security cameras are in use throughout 
+the Data Center
+. 
+All persons, whether employees, representatives or subcontractors granted access to the Data Center shall be subject to security screening conducted by the State. This includes, but is not limited to, providing acceptable personal picture identification. The individual must be on the personnel listing provided to the State by 
+Licensor
+. The State may refuse access to the facility to any person who, in State’s sole discretion, presents an unreasonable security risk. 
+A Federal Criminal Background Check is not generally required for individuals who are 
+permitted only Escorted Access; however, the State reserves the right to require 
+a Federal Criminal Background Check when
+ the State determines the individual 
+has Access to Secure State Facilities and Confidential Information
+.
+ 
+Licensor
+ shall report any physical security related incidents at 
+the 
+Data Center to Data Center 
+personnel
+ or their State assigned escort immediately. 
+State security policies require all doors 
+be
+ 
+closed at all times
+ and lights turned off in unoccupied areas. Service personnel shall secure all doors on exiting an area and turn off building lights in areas where automatic light
+s are
+ not in place to conserve energy.
+ Temporary blocking of a door for the movement of equipment is permitted but doors must be closed immediately after 
+equipment movement.
+Licensor
+ and State assigned escort shall be responsible for securing the 
+Data Center 
+upon completion of the work. No door or gate shall remain unlocked. 
+Only employees of 
+Licensor
+ shall be allowed access into the 
+Data Center
+. No family members, friends or pets (
+exception
+ service 
+animal
+) shall be allowed access. 
+Licensor
+ shall not be allowed to take or distribute photos or videos of the Data Center without written permission from State Chief Information Security Officer or Data Center Manager.
+4.
+Unescorted Access
+ Criteria
+.
+ The following conditions and requirements apply to Unescorted Access:
+4.1
+Data Center
+ Security
+Licensor
+ shall take reasonable actions to ensure the security of the 
+Data Center 
+while performing 
+Licensor
+’s duties.
+Licensor
+ agrees to comply with the State’s security policies/rules, procedures and processes. State’s security polices/rules, procedures and processes may be revised from time to time
+. T
+hese revisions, or any additions shall be posted in the common areas or otherwise provided to 
+Licensor
+ by the State. State may issue additional security policies/rules, procedures and processes as deemed necessary. 
+Licensor
+ acknowledges that security cameras are in use throughout 
+the Data Center
+. 
+All 
+persons
+, whether employees, representatives or 
+invitees
+ of 
+Licensor
+, granted access to the Data Center are subject to security screening conducted by the State. This includes, but is not limited to, providing acceptable personal picture identification. The individual must be on the personnel listing provided to the State by 
+Licensor
+. State may refuse access to the 
+Data Center 
+to any person who, in State’s sole discretion, presents an unreasonable security risk. 
+Licensor
+ must report any physical security related incidents at 
+the 
+Data Center to Data Center personnel immediately. 
+The security system requires that all doors be 
+closed at all times
+, and lights be turned off except while an area is occupied. Secure all doors on exiting an area, and in areas that do not have automatic lights, turn off the lights to conserve energy.  Temporary blocking of a door for the movement of equipment is permitted but doors must be closed immediately after equipment movement.
+Licensor
+ shall be responsible for securing the premises upon completion of the work. No door or gate shall remain unlocked. Badge Access with BIO-finger print reader shall be utilized for access to the Data Center. 
+Licensor
+ 
+shall
+ be responsible for keys, and badges assigned and all costs related to replacement of lost badges or lost keys or replacement of locks.
+All persons, whether employees, representatives or subcontractors granted access to the Data Center shall badge through a secured door.  No “piggybacking” 
+or "tailgating" 
+is permitted. 
+Only employees of 
+Licensor
+ shall be allowed in the building. No family members, friends or pets (except 
+service animal
+s)
+ 
+shall be allowed access. 
+Only on an emergency basis may
+ access be allowed without background checks.
+Licensor
+ is not allowed to take or distribute photos or videos of the Data Center without written permission from State Information Technology Services Division’s (SITSD’s) Security Officer or Data Center Manager.
+4
+.
+2
+Data Center 
+Personnel/Employee Supervision
+Licensor
+ shall submit to the State a list of all employees working 
+at the Data Center 
+under the 
+Agreement
+. This list shall include names and work schedule of each employee. The State shall receive a revised listing prior to any new employee reporting to work in the Data Center. Each employee assigned 
+to 
+the Data Center shall be issued an identification badge, which will also allow access to the building.
+The State requires 
+that 
+all individuals
+ with 
+U
+nescorted 
+A
+ccess
+ to the Data Center
+ 
+c
+omplete 
+a Federal Criminal Background Check
+ prior to employment. 
+In addition
+ to the Federal Criminal Background Check, the State
+'s decision to allow Unescorted Access
+ may 
+be based on an 
+investigat
+ion 
+that includes but is
+ not limited to
+ an
+ active past employer reference check and past residence history for 10 years.
+Contract #, Title, Page 
+4
+Contract #, Schedule A, Page 
+4
+Contract #, Schedule B, Page 
+4
+Schedule B 
+– page 
+1
+Schedule 
+D
+ 
+– page 
+6
+Schedule 
+C
+ 
+– page 
+1
+Schedule D 
+– page 
+6
+Schedule D 
+– page 
+1

@@ -1,0 +1,323 @@
+STATEMENT OF WORK TEMPLATE
+Statement of Work
+For
+[Insert Project Name]
+Between:         
+ 
+                
+   [
+Agency name] 
+                                                        
+  
+       and:           
+            
+   [
+Contractor name]
+Prepared by: 
+     
+ ____________________________
+Effective Date: 
+_________________________
+Under Contract #:   
+_________________________
+Under Contract Name: 
+______________________
+                                     
+______________________
+Between:         
+ 
+                
+   [
+Agency name] 
+                                                        
+  
+       and:           
+            
+   [
+Contractor name]
+Prepared by: 
+     
+ ____________________________
+Effective Date: 
+_________________________
+Under Contract #:   
+_________________________
+Under Contract Name: 
+______________________
+                                     
+______________________
+Please refer to the companion document “SOW Guidelines MM-YYYY”
+ 
+for further detail of what should be included under each section of the template.
+ 
+The BLUE ITALICS text in this document is either instruction or a field which needs to be filled.
+ 
+When the SOW is complete, there should be no blue italics remaining. There may be some areas that are not applicable to your 
+particular SOW.
+ Simply enter 
+a N
+/A in those areas. (Delete this page)
+Table of Contents
+1.0  
+ 
+Introduction
+1.1
+Project Title
+1.2 Background
+1.3 Objectives
+1.4 Reference to other applicable documents
+2.0
+ 
+Staffing Roles and Responsibilities
+2.1 Staffing
+Project Manager – Contractor
+Project Manager – Agency
+2.2 Roles and Responsibilities Matrix
+Contractor Staff, Roles and Responsibilities
+Agency Staff, Roles and Responsibilities
+3.0  Key Assumptions
+4.0  Risks
+5.0  Scope of Work
+5.1 Inclusions
+5.2 Exclusions
+5.3 Deliverables
+5.4 Milestones
+6.0 Work Approach
+7.0 Completion Criteria and Final Acceptance Criteria
+7.1 Completion Criteria
+7.2 Final Acceptance
+8.0  Schedule
+9.0  Project Management (if applicable)
+10.0 State Policies Standards and Computing Environment
+11.0  Timeline and Period of Performance
+12.0  Compensation and Payment Schedule
+13.0  Miscellaneous
+14.0  Appendices
+Execution/Signature Block
+Statement of Work
+1.0 Introduction
+Project Title. 
+This work is being performed under the 
+[
+insert contract name, if being done under a current contract
+]
+ for 
+[
+insert a brief description of the project
+]
+. 
+If not being done under a current contract, use the State of Montana IT Contract template to complete a contract and reference the new contract number
+.
+This Statement of Work (SOW) is made and entered by and between
+ 
+[Purchasing Agency]
+ 
+and 
+[
+Contractor
+]
+.
+ 
+This SOW incorporates by reference the terms and conditions of Contract Number
+ [
+XXX-XXX-XXX
+]
+ in effect between the State and
+ [
+Contractor
+]
+.
+ 
+In case of any conflict between this SOW and the Contract, the Contract shall prevail. The Agency and Contractor agree as follows:
+1.2 Background
+1.3 Objectives
+1.4 Reference to other applicable documents
+List any pertinent documents or supporting materials pertaining to the SOW
+2.0 Staffing Roles and Responsibilities
+2.1 Staffing
+Project Manager – Contractor
+The Contractor’s Project Manager is:
+Name:
+Address:
+City:
+State & Zip
+Phone:
+Cell:
+Fax:
+Email:
+Project Manager – Agency
+The Agency’s Project Manager is:
+Name:
+Address:
+City:
+State & Zip
+Phone:
+Cell:
+Fax:
+Email:
+2.2 Roles and Responsibilities Matrix
+Contractor Staff, Roles and Responsibilities
+Contractor staff that will be involved
+Individuals key to the project
+Detail in a roles and responsibilities matrix the contractor tasks, staff, hours, rates, cost.
+Include function corresponding to the Org Chart
+Agency Staff, Roles and Responsibilities
+Who within the agency will have decision-making authority, including approval of changes, report, documentation and deliverables?
+Precise definition of all products, data services, and facilities the agency will provide
+Include quantities, locations and dates for delivery
+Agency staff that will be involved
+Individuals key to the project
+Detail their roles and responsibilities
+3.0 Key Assumptions. 
+Identify/quantify:
+Any unknowns
+Potential issues
+Any contractor and agency assumptions
+4.0 Risks. 
+Identify/quantify:
+Describe risks to the project and your proposed mitigation strategy
+Require Contractor to identify any risks they are aware of and how they plan to mitigate the risks
+5.0 Scope of Work
+Describe in detail what work Contractor will perform
+Identify all work elements and objectives of the SOW
+5.1 Inclusions
+Describe:
+Tasks to be performed
+Resources assigned to tasks 
+Costs associated with each task
+Location(s) where task is to be performed
+Include tasks that do not result in specific deliverables (i.e. project management)
+Include tasks to be performed by the agency
+5.2 Exclusions
+Describe:
+Tasks which are not part of the scope of this project
+5.3 Deliverables
+Describe:
+Items that will be developed or provided from the performance of the tasks (i.e. products, service, plans, status reports, documentation)
+Quantities, locations and dates for delivery
+Periods of performance for services
+Testing program plan
+Implementation or migration plan to production
+Are there Documentation Standards to be applied?
+If performance is a requirement, what are the reliability measures that will be used?
+5.4 Milestones
+6.0 Work Approach. 
+Describe how the work is to be performed – if a formal methodology will be used, provide a concise description here. (E.g., “This project will use the PMBOK based methodology.
+ 
+Also, for larger projects, indicate if the project will be tracked by the state CIO’s Project Management Office (PMO)
+7.0 Completion Criteria and Final Acceptance Criteria
+7.1 Completion Criteria
+The focus of this section is to define the process for submitting, approving and rejecting tasks and deliverables
+7.2 Final Acceptance
+Describe in detail the precise definition of the conditions and criteria that will be applied to determine that the contract has been successfully completed
+8.0 Schedule
+Dates of the seller’s key tasks or completion of the major elements of the project
+Identify interim quality gate milestones-these are decision points where the project can be stopped or approved to go forward
+9.0 Project Management (if applicable). 
+Describe what will be required as far as project management, which reports will be required and what must be submitted to the state Project Management Office.
+10.0 State Policies Standards and Computing Environment. 
+State Policies, Standards and Computing Environment can be found on the state Web site at:
+Environment - 
+http://itsd.mt.gov/techmt/compenviron.mcpx
+ 
+Policies - 
+http://itsd.mt.gov/policy/default.mcpx
+ 
+Supported Software- 
+http://itsd.mt.gov/policy/software/default.mcpx
+ 
+Double check to be sure that the links are to the latest versions of the policies, standards and environment
+11.0 Timeline and Period of Performance. 
+Outline the dates of contractor’s key tasks or submission of product or service. 
+The period of performance for this project will start on 
+[start date] 
+and the work tasks are estimated 
+to continue through
+ [end date]
+.
+ 
+The State has the right to extend or terminate this SOW at its sole discretion.
+12.0 Compensation and Payment Schedule
+Compensation/Payment should be tied to completed tasks/deliverables that have been approved by the agency. Require invoices to list task ID, hours, deliverables and resource roles that are being billed for
+List detail of compensation to be paid, e.g., hourly rates, number of hours per task, unit prices, cost per task, cost per deliverable, etc.
+Make it clear that the tasks and deliverables detailed in the invoice require the approval and sign-off by the agency project manage prior to payment of the invoice
+If Contractor will be reimbursed for any other expenses, describe them and any cost limits in this section
+Agency shall pay Contractor an amount not to exceed [________]
+ 
+dollars
+ 
+($___) [specify maximum dollar amount if there is one] for the performance of all activities necessary for or incidental to the performance of work as set forth in this SOW. See the template guidelines for suggested language on different types of compensation language.
+ 
+A 20% holdback is often used to ensure project completion
+Expenses are optional. Travel costs are the most common reimbursable expense. If no travel is expected, insert a statement to that effect, e.g. “All activities are expected to take place in the greater (fill in location) area, thus no travel expenses are expected or authorized.”
+ 
+If Agency agrees to reimburse travel costs, include the following language.
+Agency shall reimburse Contractor for travel and other expenses as identified in this SOW, or as authorized in writing, in advance by Agency.
+ 
+N
+o payment of travel expenses will be made to Contractor for routine travel to and from Agency’s location. Contractor
+ shall provide a detailed itemization of expenses
+ as requested by Agency. The amount reimbursed to Contractor is included in calculating the “not to exceed” amount specified above.
+13.0 Miscellaneous
+Describe any items unique to the project such as:
+Standards to be used including hardware, software and technical architecture
+Travel and accommodations
+Support personnel
+Shipping, handling and packaging
+Conflict resolution agreement
+Service level agreements
+Performance standards
+Other
+14.0 Appendices. 
+For example:
+Appendix A:
+ Contractor’s hardware and software
+Appendix B:
+ Change control procedure
+Appendix C:
+ Resource Documents 
+Appendix D:
+ Policies and Standards
+Appendix E:
+ Contractors Project Management Methodology
+Others.
+If additional sections are required for your specific project, please leave the above section numbering as it is and add your new sections here as 15.0, 16.0 etc.
+Execution/Signature Block
+In Witness Whereof, the parties hereto, having read this SOW 
+[Project Name]
+ 
+to Contract Number 
+[XXX-XXX-XXX]
+ in its entirety, do agree thereto in 
+each and every
+ particular.
+Approved
+Approved
+[Agency]
+[Contractor]
+Signature
+Signature
+Print or Type Name
+Print or Type Name
+Title:
+                                
+Title:
+                                   
+Date:
+Date:
+[Use this space for other applicable agency signatures]
+Approved as to Form:
+Procurement Officer
+(Date)
+State Procurement 
+Services Division
+The contractor is notified that pursuant to 2-17-514, MCA, the Department of Administration retains the right to cancel or modify any contract, project or activity that is not in compliance with the Agency’s Plan for Information Technology, the State Strategic Plan for Information Technology, or any statewide IT policy or standard.
+Reviewed and Approved by:
+Information Technology Services Division
+Montana Department of Administration, 
+per MCA 2-17-512:
+_____________________________________
+Date:
+               
+ 
+CIO (or Agency Designee for Delegated IT Authority)

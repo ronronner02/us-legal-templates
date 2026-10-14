@@ -1,0 +1,577 @@
+Contract No
+. [Enter Contract Number]
+ 
+ 
+This Contract is between 
+State of Montana
+ 
+[Enter Agency Information]
+ 
+(State)
+ 
+and 
+[Enter Contractor Information]
+.
+ 
+ (Contractor)
+ 
+The parties agree as follows: 
+GENERAL PURPOSE OF CONTRACT
+The general purpose of this 
+C
+ontract is to 
+[
+e
+nter contract 
+purpose
+]
+.
+SERVICES 
+AND/OR SUPPLIES
+[Option One] 
+Contractor shall provide State the following
+ 
+[
+insert a detailed description of the supplies, services, etc., to be provided to correspond to the requirements specified in the Scope of Project as listed in the solicitation
+]
+.
+[Option Two] 
+Contractor shall provide State 
+[
+insert brief description of goods or services
+]
+ 
+(the “Services”), as more particularly described in Exhibit 
+[
+e
+nter Exhibit Identifier]
+, Statement of Work, and the Contractor's response to the RFP.
+ 
+CONTRACT
+ 
+TERM
+Initial Term
+The initial term is for a period of 
+[
+e
+nter initial term]
+ 
+years. The effective date is 
+[
+upon final signature or 
+e
+nter
+ Begin Date
+]
+,
+ 
+and the termination date is 
+[
+e
+nter End Date]
+, unless terminated earlier or extended in accordance with this 
+C
+ontract
+. 
+ 
+Contract Renewal
+State may 
+renew this 
+Contract
+ 
+for
+ 
+[
+one-year
+ or insert other period]
+ intervals or any interval that is advantageous to State. This 
+Contract
+, including any renewals, may not exceed 
+the total duration specified in 
+Section 
+3
+.3-
+Total Duration of Contract
+.
+Total 
+Duration
+ of 
+Contract
+ 
+This Contract, including renewals, may not exceed a total of 
+ 7 years 
+10 years
+.
+ 
+(18-4-313, MCA)
+PROCUREMENT
+The procurement mechanism is
+:
+Request for 
+Proposal # 
+[
+Enter RFP #]
+Invitation for Bid
+Cooperative Contract 
+[Enter description and Master Contract #]
+Sole Source
+Limited Solicitation
+CONTRACT MANAGERS
+ AND NOTICES
+ 
+Contract Managers
+State’s Contract Manager 
+identified
+ below is State's single point of contact and shall perform all contract management on State’s behalf. 
+The listed 
+C
+ontract 
+M
+anagers serve as primary contacts between the parties regarding compliance with or other issues arising under this Contract. 
+Written notices, reports and other information required to be exchanged between the parties must be directed to the appropriate 
+Contract Manager
+.
+ 
+State Contract Manager
+ 
+Contractor’s Contract Manager
+ 
+(Name) 
+(Address) 
+(City, State, ZIP) 
+(Name) 
+(Address) 
+(City, State, ZIP) 
+(Telephone Number) 
+(Telephone Number)
+(Cell Number) 
+(Cell Number)
+(E-mail address)
+(E-mail address)
+A party may change its 
+Contract Manager
+’s information listed in this section by providing notice to the other party’s 
+Contract Manager
+. 
+Notice
+Any notices or communications required or permitted to be given by this 
+Contract
+ must be provided in writing to the recipient 
+in the manner required by this Contract 
+in one of the following ways:
+ personal delivery; prepaid, certified mail; overnight courier; or electronic mail.
+Receipt
+ of Notice
+N
+otice is deemed given on the day it is personally delivered or delivered by overnight courier
+ or
+ on the day the recipient confirmed receipt if delivered by certified mail
+. I
+f 
+notice is provided
+ by email, 
+notice is deemed given 
+on the date the email 
+wa
+s sent
+. If the sender receives 
+a
+ 
+message that delivery was unsuccessful
+, 
+the sender must 
+use another means of 
+notice
+ allowed by 
+S
+ection 
+5
+.2
+-Notice
+. 
+SCOPE
+, 
+ENTIRE
+ AGREEMENT, AND AMENDMENT 
+Contract  
+The following are incorporated by reference into this Contract.
+This Contract 
+Exhibit A: State Terms and Conditions 
+Exhibit B: Federal Terms and Conditions
+Exhibit 
+C
+: State of Montana Information Technology Terms and Conditions 
+Exhibit 
+D
+: Statement of Work
+[
+Request for Proposal
+]
+ or [Invitation for Bids]
+ 
+Response to 
+[Request for Proposal] or [Invitation for Bids] 
+[Vendor Service Agreements]
+Order of Precedence
+The documents referenced in Section 
+6
+.
+1
+-
+Contract
+ 
+will 
+be read to be consistent and complementary. Any
+ 
+conflict among these documents 
+will 
+be resolved by giving priority to these documents in the
+ 
+order listed above. Only those Contractor terms and conditions that are expressly accepted by 
+the
+ 
+State and included in this 
+Contract
+ or 
+that 
+are 
+listed
+ as an
+ 
+Exhibit or Attachment 
+in Section 
+6
+.1 
+will apply to this 
+Contract
+.
+Entire
+ Agreement 
+These documents are the entire agreement of the parties. They supersede all prior agreements, representations, and understandings. Any amendment or modification must be in a written agreement signed by the parties. 
+(The remainder of this page is intentionally left blank
+.
+) 
+SIGNATURES
+The parties through their authorized agents signed this Contract on the dates set out below.
+ 
+STATE OF MONTANA
+(Insert Agency Name)
+(Insert Contractor’s Name)
+(Insert Address)
+(Insert Address)
+(Insert City, State, Zip)
+(Insert City, State, Zip)
+By:
+By:
+(Insert Name)
+(Insert Name)
+(Insert 
+Title
+)
+(Insert 
+Title
+)
+(Optional: Insert 
+email
+)
+Date:
+Date:
+The 
+persons
+ who have signed above this line are authorized to bind their respective 
+parties
+.
+ 
+Approved as to Legal Content
+ for the State
+By:
+Attorney
+Date:
+Approved as to Form
+ for the State
+By:
+Procurement Officer
+Date:
+IF 
+THIS IS 
+AN IT CONTRACT:
+State Chief Information Officer Approval:
+Contractor is notified that, under the provisions of 2-17-514, MCA, the Department of Administration retains the right to cancel or modify any contract, project, or activity that is not in compliance with the Agency's Plan for Information Technology, the State Strategic Plan for Information Technology, or any statewide IT policy or standard.
+ITPR #: 
+[Enter 
+ITPR#]
+By:
+State Chief Information Officer
+Date:
+REMOVE THIS LINE AND EVERYTHING BELOW IT
+GUIDE
+ TO SERVICE CONTRACT BASE TEMPLATE
+INTRODUCTION
+This template is intended to be a starting point that includes terms that should or must appear in all State contracts. In consultation with agency legal counsel, you will likely need to add terms and customize the contract for your project.
+This template contains standard terms that should be included in most contracts, but it is not intended to be used as a standalone document. This template includes key information about the contract, such as identification of the parties, contact information, contract period, and cost. 
+Agency contract officers and attorneys should add other terms and conditions, including required terms not included in this contract, by identifying and adding exhibits pertaining to a particular purchase. In most cases, it will be necessary to include, at minimum: (
+i
+) Exhibit A: State Standard Terms and Conditions; and (ii) a Statement of Work Exhibit describing the specific goods or services the contractor 
+is providing
+. In addition, as appropriate, an agency may add an approved template defining agency standard terms and conditions, State of Montana Information Technology Terms and Conditions, and federal terms if a project is subject to federal contracting requirements or is federally funded. In some cases, the state may agree to add and incorporate by reference vendor terms and conditions describing how services will be delivered. 
+Please consult guidance documents for optional provisions, alternative language, notes, applicable law, and other information. Notes and alternatives that appeared within the text of the previous template have been moved to the guide. The alternatives in the guide are not listed in order of preference or priority. They are numbered for reference only. 
+Before sharing with a potential contractor, you must:
+Consult the Contract Guide for optional provisions, alternative language, notes, applicable law, and other 
+information;
+Tailor the contract for your specific purpose and do not rely on the standardized contract clauses without critically thinking about how they would 
+apply;
+Properly manage the risk associated with contracting for services:
+Identify the risk. Ask “what could go wrong and how?” 
+Manage the risk 
+by:
+ 1) assuming the risk, 2) eliminating the risk, or 3) mitigating the risk. Careful drafting of the contract terms is a powerful tool for managing risk; however, appropriate performance obligations can also help manage risk effectively.
+Complete all custom/optional information (shown in 
+red
+). After completing the optional information, remove any brackets and change the text color from red to black. Be sure to remove any unused 
+options;
+Clean up the contract to remove the Guide and 
+comments;
+Confirm that all internal references refer to the correct section; and
+Have the draft reviewed by your agency’s legal counsel
+. When sending a draft, you can expedite review by providing counsel the following: (1) a description of the product/service; (2) an indication whether an ITPR is required and confirmation it has been approved; (3) identification of the procurement method used to purchase the product/service; (4) explanation of any federal partnership, role, or funding; (5) advice on the timing of the contract.
+TIPS: 
+When you delete this Guide, the page numbering in the footer should automatically update to accurately reflect both the actual page number and the total number of pages in this 
+document
+.
+When searching for internal references, run a Find (from the editing box on the ribbon) on words like section, paragraph, exhibit, schedule, and attachment.
+You can also run a Find to look for brackets [
+]
+ which may indicate that an option needs to be chosen or removed.
+To remove all comments:
+Select the “Review” tab
+Select “Comments” in the ribbon
+Select the drop down on “Delete”
+Select “Delete all comments in the document”
+TEMPLATE REVISION DATE:
+ (
+FEBRUARY 2026
+)
+General 
+Guidance:
+Every contract must have either a title or number (we recommend both) to provide a unique identifier.  State Terms and Conditions require a contractor to reference the contract number on invoices.  The contractor cannot do this if the contract does not include a title or number.  If an agency utilizes eMACS, a numbering wheel automatically assigns a number based on the agency and contract type.  If an agency does not utilize eMACS, we recommend using a numbering methodology to provide a unique identifier. 
+A contract
+ title should be a short description of the goods/services provided under the contract.  
+A contract is a legally enforceable agreement between parties to do something (or not to do something). A legally enforceable contract will have an offer (the “what” that someone will do), the other party’s acceptance of that offer, and consideration (something of value exchanged between the parties). Both parties must be of “sound mind” and understand what is required of each party. In a business contract, the parties are generally presumed to be sophisticated buyers and sellers of services or goods.  Contracts should be in writing and for a legal purpose. Montana law requires all contracts that cannot by its terms be performed within a year to be in writing. Leases or agreements to purchase land must be in writing. We recommend all contracts for the state of Montana be in writing.  
+A contract may be referred to as a contract, agreement, or by another name. Whether a document becomes a legally enforceable contract depends on the intent of the parties and many of the factors described in the preceding paragraph. In this template, the contract is referred to as "agreement" purely as a matter of personal preference. By using "agreement" instead of "contract," the template user can easily find references to "agreement." Searching for "contract" should return 
+primarily
+ "Contractor" when the contract itself is called an "agreement."
+You should use the correct legal name of a party. A company may operate a business under a different name from the business owner – a DBA meaning “doing business as.” To do this, the company must file for an assumed business name with the Secretary of State. 
+An assumed business name is a “trade name” or a “fictitious business name” under which the business or operation is conducted and presented to the public. It is not the legal name of the person(s) who owns the business. 
+Sole proprietorships commonly use a DBA, but any type of entity can use a DBA, including LLCs, corporations, and partnerships. The correct name of the party to a contract should include the name of the entity and the DBA, if the business uses one.
+Previous versions of this template included address and other contact information. While this remains acceptable, there is a risk that this information will not match other places where that information is used in the document. For ease of editing and to ensure consistency, in the model template, the State's and Contractor's addresses are listed only in the signature block.
+Recitals may be included to provide a better description of the purpose and/or consideration for the contract. If recitals are used, ensure they are clear and concise to avoid creating an ambiguity with the body of the contract. Most contracts will not need recitals. Recitals may be more appropriate for amendments.  
+References:
+18-4-123 Definitions
+ (defines contract, contractor, services, supplies, vendor)
+28-2-101 Contract defined
+28-2-102 Essential elements of a contract
+28-2-103 Express versus implied contracts
+28-2-104 Executed versus executory contracts
+28-2-201 Who may contract
+SECTION 1: GENERAL PURPOSE OF CONTRACT
+SECTION 2: SERVICES AND/OR SUPPLIES
+Services and Supplies Alternatives
+Option 1
+SERVICES AND/OR SUPPLIES
+Contractor shall provide State 
+[
+insert brief description of goods or services
+]
+ (the “Services”), described in Exhibit 
+___
+, Scope of Project, and the Contractor's response to the RFP. If there is a conflict between 
+Exhibit 
+__
+_
+ and the Contractor’s response, the terms of Exhibit 
+__
+ control.
+Guidance:
+The services and/or supplies clause is required in all contracts and may be negotiated to ensure it accurately describes the contract’s scope. See 18-4-123, MCA. This clause is important because it is the essence of the agreement—what services or supplies the agency will receive. The description of the services or supplies should be clear and demonstrate how the services or supplies will apply to the agency’s business. 
+The optional provision adds
+ a detailed description of services or supplies as an attachment or exhibit to the contract. An exhibit or attachment may be used as a “scope of work” or “SOW” (e.g. consulting services or an IT project) and describe a specific project with key details including but not limited to: a description of services or supplies, project goals, special requirements, ordering and shipping details (for goods or supplies), testing, sampling, and delivery specs, and project deliverables and key milestones, project schedule, reporting, and service level guarantees. If a contractor must satisfy certain requirements as a key 
+deliverable
+ (e.g. licensing, certification), include a description of those criteria. 
+Keep in mind that the following hierarchy should apply: first, the contract and any attachments or exhibits, then, the contractor’s response to the RFP. If there is a conflict between a contract term or exhibit and the contractor’s response, the contract terms or exhibit will control.  
+If software is being sold, consider whether you wish to state that Uniform Commercial Code Article 2 applies to the contract.  Consult with your legal counsel to discuss this matter.
+If the contract is a two-tier model
+ (for example, an initial contract award to a qualified vendor list followed by selection of a contractor for a particular project)
+, this section should also include details on the two-tier solicitation process, such as selection process and scoring framework. 
+SECTION 3: C
+ONTRACT TERM
+Contract Term Alternatives
+Option 1
+Term
+The 
+Contract’s
+ initial term is (insert date), 
+20(  
+), 
+[
+or upon 
+execution
+]
+(
+the “Effective Date”), through 
+[
+insert date
+]
+, 
+20(  
+) (the “Initial Term”), unless terminated earlier as provided in this 
+Contract
+. The 
+Contract
+’s renewal term is 
+[insert date]
+ through 
+[insert date]
+, the 
+[
+insert number – first, second, third
+]
+ “Renewal Term.”  In no event is this 
+Contract
+ or any amendment
+ binding on State unless State’s authorized representative has signed it.
+Option 2
+Renewal
+State may renew this 
+Contract
+ under its then-existing terms and conditions 
+(subject to potential cost adjustments described below in 
+Exhibit A 
+S
+ection 
+2
+.#
+)
+ in 
+[
+insert number
+]
+-year intervals, or any interval that is advantageous to State. This 
+Contract
+, including any renewals, may not exceed a total of 
+[
+insert number
+]
+ years.
+Option 3 
+Renewal
+State may renew this 
+Contract
+ under its then-existing terms (
+subject to potential cost adjustments described below in 
+Exhibit A Section 
+2.#
+)
+ in one-year intervals, or any interval that is advantageous to State. This 
+Contract
+, including any renewals, may not exceed a total of seven years.
+Guidance:
+All contracts should establish an initial term with a start date and end date for the supplies or services provided by the contractor. The beginning date for the initial term may be the date the contract is executed (the date of the last signatory to the contract) or for a defined term. Agencies may have a contract term 
+coincide
+ with a calendar year (each January 1
+st
+ through December 31
+st
+) or with a fiscal year (each July 1
+st
+ through June 30
+th
+) if the contract depends upon a specific funding period.  Agencies may also use a start and end date for a specific project/event (e.g. project work begins April 1
+st
+ and ends 18 months later).   
+Some information technology and services contracts may require 
+implementation and planning work prior to 
+onset of services. 
+In such cases, it may be appropriate to define a subscription or services term that begins after Contractor has completed implementation. Otherwise, the State may be obligated to pay for the subscription or services 
+before they are operational and available to State.
+ 
+A contract renewal clause must be included if an agency wants to extend the contract for one or more renewal terms.  State contracts cannot exceed a total of seven years for 
+most contracts
+, except for IT contracts or Health Care and Benefits Division (HCBD) 
+contracts
+ which may be ten years. See 18-4-313, MCA.
+SECTION 
+4
+: 
+PROCUREMENT
+Guidance:
+The 
+state’s contract manager should check the box 
+corresponding to the procurement method used
+ to procure the contract. Having this information in the contract will provide context 
+to
+ future reviewers of the contract.
+SECTION 
+5
+: 
+CONTRACT MANAGERS AND NOTICES
+Guidance:
+Section 5.1 allows 
+the parties to change their respective contract managers by providing notice to the other party rather than 
+requiring a formal contract amendment. 
+Usually notice may be provided in the form specified in Section 5.2
+. 
+Of course, 
+if the contract is being amended for other reasons, such as a 
+contract 
+renewal
+ amendment
+, it makes sense to update the contract 
+manager
+ name and contract information as needed. 
+SECTION 
+6
+: 
+SCOPE, ENTIRE AGREEMENT, AND AMENDMENT
+Guidance:
+Section 6.2 gives priority to the state’s contract documents over documents created by the vendor
+; however, it is important to remember that priority only applies where two terms conflict. Where 
+a clause in one contract document only adds to the agreement but is not in conflict with another provision, courts will generally 
+interpret the agreement in such a way that 
+all of
+ the provisions can apply. 
+For example, if the state’s contract 
+exhibits
+ do not include a limitation of liability 
+clause 
+but the contractor’s
+ service level agreement does, a court would normally give effect to the limitation of liability 
+in the service level agreement. In other words, if there is language in a vendor-provided contract document that is 
+not 
+addressed in the state’s standard terms and the vendor’s language is not 
+satisfactory to the state, 
+you should always 
+try to have the language
+ deleted or amended. Otherwise, the 
+clause 
+will become part of the contract and enforced against the state.
+SECTION 7: GENERAL PURPOSE OF CONTRACT
+Guidance:
+The contract must be signed by an authorized signer of each party. Generally, neither the legal counsel who approves the contract’s content nor the procurement officer who approves the contract’s form can 
+bind the state of Montana or an agency to a contract. Positions with authority to bind an agency or division to a contract include, for example, the agency director or division administrator
+.
+[
+Enter 
+Contract
+ Name
+]
+Contract
+ Number: 
+[
+Enter 
+Contract
+ Number
+]
+Page 
+1
+ of 
+6

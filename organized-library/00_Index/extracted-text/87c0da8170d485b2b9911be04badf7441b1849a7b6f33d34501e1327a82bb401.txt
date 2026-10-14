@@ -1,0 +1,475 @@
+CONFIDENTIALITY
+ AND 
+NON-DISCLOSURE AGREEMENT
+RFP /
+ CONTRACT 
+#:
+THIS AGREEMENT 
+is hereby executed between the State of Maine 
+(
+“State”), acting by and through the Maine Office of Information Technology (“OIT
+”
+) and 
+[insert Vendor’s legal name] 
+having a principal place of business at 
+[insert 
+Vendor’s legal address
+] 
+(“Vendor”), in relation to services and/or products to be provided by 
+the 
+vendor pursuant to
+ 
+[insert Contract No.] 
+(“Contract”)
+ as
+ 
+of
+ _____
+__
+____
+ ____,
+ 
+20
+____
+(
+“
+Effective Date
+”
+).
+1. Definitions
+A
+. Authorized Person
+“Authorized Person” 
+is defined as a person authorized by OIT as having a need to receive, possess, store, access, view and/or use Confidential Information for an Authorized Use
+.   
+B. Authorized Use
+“Authorized Use” 
+is defined as the use of Confidential Information by the Vendor or Authorized Persons, solely for the purpose of performing the Contract
+.  Disclosure, display, use, duplication, storage or transmittal of Confidential Information, in any form, for any purpose other than that set forth in the Contract, including extrapolation or retention of summary information, data or business processes, even if without specific identifiers, shall be deemed an “unauthorized use.”
+C
+. Confidential Information
+“Confidential Information” shall mean any information that OIT or the State, regardless of form or medium of disclosure (e.g., verbal, observed, hard copy, or electronic) or source of information (e.g., OIT, other state agencies, state employees, electronic systems, or third-party contractors) provides to Vendor, or which Vendor obtains, discovers, derives or otherwise becomes aware of as a result of Vendor’s performance of the Contract.
+ It includes any sensitive information that may be protected 
+from disclosure 
+pursuant to 
+a 
+federal or state statutory or regulatory scheme inten
+ded 
+to protect 
+that 
+information, or 
+pursuant to an
+ order, resolution or determination of a court or administrative board or other administrative body
+.
+ In addition, information concerning OIT’s information technology infrastructure, systems and software and procedures will be considered Confidential Information. 
+It 
+also 
+includes 
+a
+ Vendor’s 
+Service
+ 
+Organization Control 
+audit report 
+(SOC
+ 2 Type 2
+)
+ 
+when 
+submitted
+ 
+upon request 
+to 
+OIT
+ 
+and labeled as 
+confidential
+.
+Confidential Information shall not include information which the Vendor can clearly demonstrate to OIT’s reasonable satisfaction is:
+(a)  information that is previously rightfully known to the Vendor 
+on a non-confidential basis 
+without restriction on disclosure;
+(b)  information that is or becomes, from no act or failure to act on the part of the Vendor, generally known in the relevant industry or in the public domain; and
+(c)  information that is independently developed by Vendor without the use of Confidential Information.
+At all times the State shall be the owner of any and all Confidential Information.
+D
+.
+ 
+Services
+“Services” is defined as the services to be performed by the Vendor in connection with the operation or management of the Contract.
+E
+.
+ 
+Vendor
+“Vendor” is defined to include the Vendor and the Vendor’s respective employees, agents and subcontractors assigned by Vendor
+ and approved by the State
+ to perform obligations under the Contract (all of the foregoing collectively referred to as “Representatives”).
+2. 
+Duty to Protect Confidential
+ 
+Information
+; Reporting Requirements
+In consideration for the ability to perform the Services, the Vendor shall hold all Confidential Information in confidence and protect that Confidential Information with the same standard of care required to keep its own similar information confidential
+. The Vendor
+ must abide by all commercially reasonable administrative, physical, and technical standards for maintaining this information 
+confidential
+, which must be 
+in a
+ccordance with 
+standards established by the National Institute of Standards and Technology
+ (
+“
+NIST
+”
+)
+. In addition, the Vendor must safeguard all Confidential Information from unauthorized access, loss, theft, destruction, and the like. The Vendor may not, without prior consent from OIT, disclose any Confidential Information to any person for any reason at any time; provided, however it is understood that the Vendor may disclose Confidential Information to its Representatives and its business, financial and legal advisors who require the Confidential Information for the purpose of evaluating or performing the Services on the condition that, prior to such disclosure, the Representatives and advisers have been advised of the confidential and non-public nature of the Confidential Information and are subject to a written confidentiality agreement that contains restrictions and safeguards at least as restrictive as those contained in this Agreement. The Vendor shall be responsible for any breach of this Agreement by any of the Vendor’s Representatives or advisors.
+ 
+The Vendor shall promptly report any activities by any individual or entity that the Vendor suspects may compromise the availability, integrity, 
+security,
+ or privacy of any Confidential Information. The Vendor shall notify OIT immediately upon becoming aware that Confidential Information is in the possession of
+,
+ or has been disclosed to
+,
+ an unauthorized person or entity.
+3.
+ 
+Discovery and Notification of Breach of Confidential Information
+In addition to the requirements set forth in any applicable Business Associate Agreement as may be attached to this Contract, i
+n the event of a breach of security or suspected security incident, intrusion, unauthorized use or disclosure involving Confidential Information, the Vendor shall notify OIT by telephone call (207-624-7700) and email to the OIT information security team (
+MaineITSecurityOperations@maine.gov
+) within the following timeframes:
+A.
+  
+Upon the discovery of a breach of security or suspected security incident involving Confidential Information in electronic, or any other medium if the information was, or is reasonably believed to have been, acquired by an unauthorized person; or
+B.
+  
+Within twenty-four (24) hours of the discovery of any suspected security incident, 
+intrusion,  
+  
+unauthorized use or disclosure of Confidential Information in violation of this Agreement, or potential loss of Confidential Information affecting this Agreement.
+Notification shall also be provided to the OIT Contract Manager and the OIT Information Security 
+Officer. The Vendor shall provide a written report of all information known at the time. The Vendor shall take:
+A.
+  
+Prompt corrective action to mitigate any risks or damages involved with the breach and to protect the operating environment; and
+B.
+  
+Any action pertaining to such unauthorized disclosure required by applicable 
+f
+ederal and 
+s
+tate laws and regulations.
+4.
+ 
+Written Report
+In addition to the report required above, the Vendor shall provide a written report of the investigation to the OIT Chief Information Security Officer within ten (10) working days of the discovery of the breach of security or suspected security incident, or unauthorized use or disclosure involving Confidential Information. The report shall include, but not be limited to, the information specified above, as well as a full, detailed corrective action plan, including information on measures that were taken to halt and/or contain the improper use or disclosure.
+5.
+ N
+otification to individuals.
+The Vendor shall notify individuals of the breach or unauthorized use or disclosure of Confidential Information when notification is required under state or federal law and shall pay any costs of such notifications, as well as any costs associated with the breach. Any notification provided must first be approved by the OIT Chief Information Security Officer, who shall approve the time, manner and content of any such notifications prior to their release.
+6
+.
+ 
+Use Restriction
+Vendor
+ shall not receive, possess, store, access, view and/or use Confidential Information for any purpose other than an Authorized Use. 
+Vendor
+ shall not permit unauthorized persons or entities to gain access to Confidential Information and shall not divulge methods of accessing Confidential Information to unauthorized persons.  
+7
+.
+ 
+Security Obligations 
+The Vendor agrees to comply with the following security obligations as well as any other such obligations specified in the contract
+,
+ including 
+requirements set forth in any applicable Business Associate Agreement as may be attached to this Contract, 
+or conveyed to him/her during the course of the Agreement. The Vendor agrees to
+ comply with the following security obligations
+:
+A
+.
+ 
+ 
+Implement administrative, physical and technical safeguards
+ in accordance with NIST standards
+ that reasonably and appropriately
+ 
+protect
+ 
+the confidentiality, integrity and availability of any Confidential Information that is created, received, maintained, used, possessed, stored, accessed, viewed and/or transmitted on behalf of OIT or through OIT or any agency, instrumentality or political subdivision of the State of Maine Government;
+B
+. 
+ 
+Unless otherwise authorized by 
+O
+IT, Confidential Information may NOT be stored on personal (non
+-
+State
+) computing or other electronic or mobile storage 
+devices or
+ taken or removed in any form from 
+O
+IT
+ or the State
+;
+ 
+C
+.
+  
+Vendor
+ shall comply with all 
+applicable 
+federal and 
+s
+tate laws
+ governing confidentiality and/or privacy of
+ 
+information
+;
+D
+.
+  
+Vendor
+ shall comply with all 
+applicable 
+O
+IT policies and procedures including but not limited to those that provide for accessing, 
+protecting,
+ and preserving State assets
+;
+ 
+E
+.
+Access to any and all Confidential Information will be limited to only those authorized persons who need the Information to perform the services required under the 
+C
+ontract
+;
+F
+. 
+ 
+Obtain fingerprint-based criminal history record checks for all Vendor's employees, agents and subcontractors when requested by OIT pursuant to federal and state statutory and regulatory directives, at the expense of the 
+V
+endor;
+G
+.
+Vendor shall instruct all personnel having access to Confidential Information about the confidential nature of the Information, the safeguards required to protect the Information, and the sanctions specified in 
+federal and 
+s
+tate law for unauthorized disclosure of said Information
+; and
+H
+.
+Vendor
+ shall use only those access rights granted by 
+OIT
+.
+8
+.
+  
+Certification by 
+Vendor
+ of Return of Confidential Information, Electronic Information and Tangible Property
+Promptly following the written request of OIT, and immediately upon termination of the Services,
+ 
+the 
+Vendor
+ shall return all Confidential Information stored 
+in 
+any format to 
+OIT
+,
+ or
+ destroy any Confidential Information that 
+Vendor
+ possesses in a format that cannot be returned. Further, 
+Vendor
+ agrees to submit to 
+OI
+T on 
+Vendo
+r’s letterhead a “CERTIFICATION OF RETURN OR DESTRUCTION OF CONFIDENTIAL INFORMATION, ELECTRONIC INFORMATION, AND TANGIBLE 
+PROPERTY” certifying
+ that all copies of Confidential Information, electronic property and tangible property belonging to the State
+ 
+or 
+O
+IT have been returned, or if necessary
+,
+ destroyed using the form provided in Appendix A.
+9
+.
+  
+Termination
+Vendor
+’s Authorized Use of Confidential Information shall terminate automatically upon: (a) breach of this Agreement as determined solely by 
+O
+IT, (b) completion or termination of 
+Vendor
+’s 
+S
+ervices
+, 
+or,
+ (c) termination of 
+Vendor
+’s 
+C
+ontract, whichever occurs first
+.
+ Vendor’s indemnification, confidentiality, and related assurances and obligations hereunder shall survive termination of the Agreement.
+10
+.
+  
+Compliance
+If
+ Vendor breaches or threatens to breach this Agreement, the State shall have all equitable and legal rights (including the right to obtain injunctive relief
+ and specific performance
+) to prevent such breach and/or to be fully compensated (including 
+litigation costs and 
+reasonable attorney’s fees) for losses or damages resulting from such breach. Vendor 
+acknow
+ledges
+ that compensation for damages may not be sufficient and that injunctive relief to prevent or limit any breach of confidentiality may be the only viable remedy to fully protect the Confidential Information.
+ Vendor shall hold OIT harmless from, and indemnify OIT for any claims, losses, expenses and/or damages arising out of the unauthorized disclosure by 
+the 
+Vendor, its 
+Representatives
+,
+ 
+or 
+t
+hird 
+p
+arty 
+p
+artners, of Confidential Information or other unauthorized use of the Confidential Information, including but not limited to, paying 
+the State a
+ny costs of enforcing this Agreement, securing appropriate corrective action, returning Information furnished hereunder, as well as any other costs reasonably incurred by 
+the State 
+in enforcing the terms of this Agreement.
+11
+.
+  
+Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the State of Maine. The place of this Agreement, its situs and forum, shall be Kennebec County, Maine, where 
+all matters, whether sounding in contract or in tort, relating to its validity, construction, 
+interpretation,
+ and enforcement shall be determined. Vendor agrees and submits, solely for matters relating to this Agreement, to the jurisdiction of the courts of the State of 
+Maine, and
+ stipulates that the State Courts in Kennebec County shall be the proper venue for all matters. If any provision of the Agreement is declared by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the other provisions shall remain in full force and effect.
+12
+.  
+Entire
+ 
+Agreement
+This Agreement constitutes the entire agreement with respect to the 
+Confidential Information
+ disclosed hereunder and supersedes all prior or contemporaneous oral or written agreements concerning such 
+Confidential Information
+.
+IN WITNESS WHEREOF, the Parties have executed this Agreement through their duly 
+a
+uthorized representatives effective as of the Effective Date set forth above.
+[Name of Vendor]:
+State of Maine /Office of Information Technology:
+By:
+By:
+Printed:
+Printed:
+Title:
+Title:
+Date:
+Date:
+APPENDIX A
+CERTIFICATION OF RETURN OR DESTRUCTION OF CONFIDENTIAL INFORMATION, ELECTRONIC INFORMATION, AND TANGIBLE PROPERTY
+ 
+BY VENDOR PURSUANT TO VENDOR CONFIDENTIALITY & NONDISCLOSURE AGREEMENT
+ 
+DATED
+ 
+ 
+Pursuant
+ 
+to
+ 
+the
+ 
+Vendor
+ 
+Confidentiality
+ 
+and
+ 
+Non-Disclosure
+ 
+Agreement
+ 
+between
+ 
+the
+ 
+State
+ 
+of
+ 
+Maine,
+ 
+acting by and through the Office of Information Technology (“OIT”)
+ 
+and
+______________________________
+ 
+(“Vendor”)
+ 
+dated
+______________________
+,
+ 
+Vendor acknowledges his/her responsibility to return or destroy all Confidential Information upon termination of the Vendor’s services to OIT. This document certifies that all copies of Confidential Information, electronic property and tangible property belonging to the
+ 
+State
+ 
+of
+ 
+Maine
+ 
+or
+ 
+OIT
+ 
+have
+ 
+been
+ 
+returned,
+ 
+or
+ 
+if
+ 
+necessary,
+ 
+destroyed,
+ 
+as
+ 
+described
+ 
+below:
+Description of 
+returned 
+Confidential Information, electronic information or tangible property:
+Description of 
+destroyed 
+Confidential Information, electronic information or tangible property:
+Vendor Signature
+Vendor Name
+Date
+STATE OF MAINE
+DEPARTMENT OF ADMINISTRATIVE AND FINANCIAL SERVICES 
+OFFICE OF INFORMATION TECHNOLOGY (OIT)
+OIT 
+Non-Disclosure Agreement  
+Date of Last Revision
+ 1.31.25
+1

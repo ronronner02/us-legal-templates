@@ -1,0 +1,99 @@
+Digital Accessibility 
+Agreement Language  
+ 
+Digital ADA Contract Language Ver. 1: rev. 3/26 pg. 1 
+Digital Accessibility Agreement Requirements 
+Instruction: This language must be included in all contractual agreements where a deliverable 
+consists of a digital asset. This includes, but is not limited to, websites or web applications, 
+software applications, electronic reports or output documentation, and training delivered in 
+electronic formats. 
+ 
+Accessibility Compliance 
+The Vendor shall ensure that, at a minimum, all digital products, services, and content provided 
+under this Agreement comply with the Americans with Disabilities Act (ADA), Section 508 of the 
+Rehabilitation Act (as applicable), and the Web Content Accessibility Guidelines (WCAG) version 
+2.1, Level AA. 
+This requirement applies, but is not limited to: 
+• Websites, web applications, and online systems 
+• Software and mobile applications 
+• PDFs, documents, and multimedia content 
+• Any digital tools or services procured by the State of Idaho 
+Accessibility Documentation 
+1. Vendor must submit an accurate Accessibility Conformance Report (ACR) created using the 
+applicable sections of the Voluntary Product Accessibility Template® (VPAT®) Revised 
+Section 508 Edition (Version 2.3 or higher) or links to ACRs located on Vendor websites for 
+each proposed product or product family, as applicable. Instructions for completing this 
+document are included in the VPAT/ACR template itself. 
+a. ACR must be based on the current product version. 
+b. ACR must be evaluated on current WCAG standards as of the date of this 
+agreement. 
+c. ACRs based on earlier versions of the product must be made available to the state 
+upon request.  
+2. If it is not possible to complete an ACR, the Vendor must complete a Vendor Accessibility 
+Assessment, which documents the Vendor's ability to produce accessible electronic and 
+information resources. 
+3. Failure to provide a current ACR or complete a Vendor Accessibility Assessment may result 
+in disqualiﬁcation of the Vendor’s proposal, delay in Agreement execution, or cancellation 
+of the Agreement.  
+Accessibility Testing  
+Vendor shall perform accessibility testing using both automated tools and manual testing methods, 
+including assistive technologies (e.g., screen readers). Any accessibility barriers identiﬁed must be 
+addressed prior to ﬁnal acceptance. 
+Digital ADA Contract Language Ver. 1: rev. 3/26 pg. 2 
+Vendor Remediation Responsibilities 
+If any accessibility violation is known or becomes known to the Vendor during the term of the 
+Agreement, whether by notice from the State of Idaho or through Vendor’s own testing, Vendor shall 
+remediate the violation within a time period agreed upon by the parties at no additional cost to the 
+state. 
+If the product or service cannot fully meet accessibility standards at the time of delivery, Vendor 
+must: 
+• Provide a detailed remediation plan with timelines; 
+• Demonstrate reasonable efforts to mitigate impacts on users with disabilities; 
+• Work in good faith with the purchasing agency to bring the product into compliance; 
+• Provide alternative solutions upon request at no additional charge to the state; and 
+• Document any undue burden or exemption with a sign-off by the Office of Information 
+Technology ADA Manager. 
+Ongoing Accessibility Obligations 
+For any updates, patches, or content changes made during the Agreement term, Vendor must 
+maintain compliance with accessibility requirements. The State reserves the right to request 
+updated accessibility conformance documentation at any time. 
+When updates or upgrades are made to the products or services available through this Agreement, 
+Vendor agrees to document how the changes will impact or improve accessibility and usability. This 
+documentation must be provided to the State in advance of the change, occurring within an agreed-
+upon timeframe sufficient for the State to review the changes and either approve or request a 
+remediation plan from the Vendor. If agreed-upon updates fail to improve accessibility or usability 
+as planned, failure to comply with this requirement may be cause for Agreement cancellation or 
+default.  
+Training and Support 
+Unless agreed to otherwise in Vendor’s Terms and Conditions, Vendor must provide training or 
+guidance to agency staff on how to use the product or platform in an accessible manner and how to 
+maintain accessibility in ongoing content or service delivery. 
+1. In facilitating trainings, Vendor shall coordinate and cooperate with the State in 
+identifying prospective attendees who may require accommodations and provide such 
+accommodations. 
+2. All administrator and end user documentation and training materials delivered by the 
+Vendor must be in compliance with the WCAG 2.1, level AA.  
+Noncompliance 
+If the vendor fails to perform its accessibility obligations, including but not limited to timely 
+remediation of Accessibility Violations or performance of their accessibility testing obligations, the 
+State of Idaho may exercise the following remedies, or other remedies in accordance with state 
+procurement statutes, rules, or policies:  
+1. Withhold payment. 
+2. Terminate the Agreement without penalty.  
+Digital ADA Contract Language Ver. 1: rev. 3/26 pg. 3 
+3. Perform necessary testing and/or remediate and deduct the actual cost from any 
+outstanding payments to the vendor or seek reimbursement. 
+4. Elect not to renew the Agreement upon expiration. 
+ 
+Optional Language for Terms & Conditions 
+The underlined text in yellow is not in the state’s Standard T&Cs but could be added to hold the 
+vendor liable for any claims against the state if the Vendor fails to meet any accessibility 
+requirements listed in the Agreement. 
+ 1.9.1 Contractor’s Indemniﬁcation. Contractor shall indemnify, defend, and save harmless 
+the State, its officers, agents, employees, and volunteers from and against any and all 
+liability, claims, damages, losses, expenses, actions, settlements, attorneys’ fees, and suits 
+whatsoever caused by, arising out of, or in connection with Contractor’s acts or omissions 
+under this Contract or Contractor’s failure to adhere to the speciﬁcations and requirements 
+detailed in the Agreement or comply with any state or federal statute, law, regulation, or rule 
+during performance or applicable to the performance of the Contract.  
+ 
