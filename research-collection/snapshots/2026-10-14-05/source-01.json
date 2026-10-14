@@ -1,0 +1,725 @@
+{
+  "state": "Utah",
+  "publisher": "Utah State Courts",
+  "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "Affidavit for Collecting Personal Property",
+      "title": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+      "family_id": "small-estate-affidavit",
+      "identity": "Affidavit for Collecting Personal Property",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+    "final_url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+    "http_status": 200,
+    "content_type": "text/html;charset=utf-8",
+    "retrieved_at": "2026-10-14T09:12:09.030Z",
+    "etag": "W/\"234d2-65dc92b527650-gzip\"",
+    "last_modified": "Wed, 14 Oct 2026 09:00:56 GMT",
+    "content_length": "21014",
+    "sha256": "7d5a7f8261680d22fa57fe88b363a701b07283ea76957fa43d6c8c66b93dd2b8",
+    "title": "Informal Probate",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-05/01-utah-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+      "final_url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "retrieved_at": "2026-10-14T09:12:09.030Z",
+      "etag": "W/\"234d2-65dc92b527650-gzip\"",
+      "last_modified": "Wed, 14 Oct 2026 09:00:56 GMT",
+      "content_length": "21014",
+      "sha256": "7d5a7f8261680d22fa57fe88b363a701b07283ea76957fa43d6c8c66b93dd2b8",
+      "title": "Informal Probate",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "Affidavit for Collecting Personal Property",
+      "title": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+      "family_id": "small-estate-affidavit",
+      "identity": "Affidavit for Collecting Personal Property",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "More Info",
+      "url": "https://www.utcourts.gov/content/dam/alerts/docs/Court-Scams-Info.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.utcourts.gov/en.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.utcourts.gov/en.html"
+    },
+    {
+      "text": "Find out more",
+      "url": "https://www.utcourts.gov/en/about.html"
+    },
+    {
+      "text": "Governing Boards and Committees",
+      "url": "https://www.utcourts.gov/en/about/administration/committees.html"
+    },
+    {
+      "text": "Judicial Council",
+      "url": "https://www.utcourts.gov/en/about/administration/judicial-council.html"
+    },
+    {
+      "text": "Strategic Plan",
+      "url": "https://www.utcourts.gov/content/dam/about/admin/USC-Strategic-Plan.pdf"
+    },
+    {
+      "text": "Alerts, Policies, and Information",
+      "url": "https://www.utcourts.gov/en/about/administration/alerts.html"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.utcourts.gov/privacy.html"
+    },
+    {
+      "text": "Jobs with the Courts / Employment Opportunities",
+      "url": "https://www.utcourts.gov/en/careers/careers/jobs.html"
+    },
+    {
+      "text": "Contact Information",
+      "url": "https://www.utcourts.gov/directory.html"
+    },
+    {
+      "text": "Find a Judicial Officer or Employee",
+      "url": "https://www.utcourts.gov/en/about/miscellaneous/directory/court-details.html"
+    },
+    {
+      "text": "Accessibility Information",
+      "url": "https://www.utcourts.gov/en/about/miscellaneous/ada.html"
+    },
+    {
+      "text": "CASA Program",
+      "url": "https://www.utcourts.gov/en/about/miscellaneous/casa.html"
+    },
+    {
+      "text": "Utah Office of Guardian ad Litem",
+      "url": "https://www.utcourts.gov/gal.html"
+    },
+    {
+      "text": "Utah State Law Library",
+      "url": "https://www.utcourts.gov/law-library.html"
+    },
+    {
+      "text": "Volunteer Opportunities",
+      "url": "https://www.utcourts.gov/en/about/miscellaneous/volunteers.html"
+    },
+    {
+      "text": "Legal Community",
+      "url": "https://www.utcourts.gov/en/about/miscellaneous/legal-community.html"
+    },
+    {
+      "text": "Mediation / Arbitration",
+      "url": "https://www.utcourts.gov/mediation.html"
+    },
+    {
+      "text": "General Court Information",
+      "url": "https://www.utcourts.gov/en/about/miscellaneous/general-court-information.html"
+    },
+    {
+      "text": "School Resources",
+      "url": "https://www.utcourts.gov/en/about/miscellaneous/schools.html"
+    },
+    {
+      "text": "Grand Jury Schedule",
+      "url": "https://www.utcourts.gov/en/about/miscellaneous/grand-jury.html"
+    },
+    {
+      "text": "Appellate Courts",
+      "url": "https://www.utcourts.gov/en/courts/court-types/appellate-courts.html"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.utcourts.gov/en/courts/court-types/appellate-courts/sup.html"
+    },
+    {
+      "text": "Court of Appeals",
+      "url": "https://www.utcourts.gov/en/courts/court-types/appellate-courts/coa.html"
+    },
+    {
+      "text": "District Courts",
+      "url": "https://www.utcourts.gov/courts/dist.html"
+    },
+    {
+      "text": "Juvenile Courts",
+      "url": "https://www.utcourts.gov/juv.html"
+    },
+    {
+      "text": "Justice Courts",
+      "url": "https://www.utcourts.gov/en/courts/court-types/just.html"
+    },
+    {
+      "text": "Business and Chancery Court",
+      "url": "https://www.utcourts.gov/about/courts/bcc.html"
+    },
+    {
+      "text": "Problem Solving Courts",
+      "url": "https://www.utcourts.gov/psc"
+    },
+    {
+      "text": "Court Organization, Judges, Court Governance",
+      "url": "https://www.utcourts.gov/en/courts/other-court-info/knowcts.html"
+    },
+    {
+      "text": "Utah Appellate Courts Pending Opinions Release",
+      "url": "https://legacy.utcourts.gov/opinions/pending.php"
+    },
+    {
+      "text": "Judges' Biographies",
+      "url": "https://www.utcourts.gov/en/courts/other-court-info/judges-bios.html"
+    },
+    {
+      "text": "Find Out More",
+      "url": "https://www.utcourts.gov/selfhelp.html"
+    },
+    {
+      "text": "Request an Interpreter /  Solicitud de intérprete judicial",
+      "url": "https://www.utcourts.gov/en/court-records-publications/resources/court-interpreters/request.html"
+    },
+    {
+      "text": "Military and Veterans",
+      "url": "https://www.utcourts.gov/military.html"
+    },
+    {
+      "text": "Self-Help Center",
+      "url": "https://www.utcourts.gov/selfhelp-contact.html"
+    },
+    {
+      "text": "My Court Case (Access your case online)",
+      "url": "https://www.utcourts.gov/MyCase.html"
+    },
+    {
+      "text": "Juror Information (Juryroom)",
+      "url": "https://www.utcourts.gov/juryroom.html"
+    },
+    {
+      "text": "Pay Fines/Fees Online (ePayments)",
+      "url": "https://www.utcourts.gov/epayments.html"
+    },
+    {
+      "text": "MyPaperwork",
+      "url": "https://www.utcourts.gov/mypaperwork"
+    },
+    {
+      "text": "Consumer",
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/consumer.html"
+    },
+    {
+      "text": "Criminal Justice",
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/criminal-justice.html"
+    },
+    {
+      "text": "Families and Children",
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/family.html"
+    },
+    {
+      "text": "Guardianship and Conservatorship",
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/gc.html"
+    },
+    {
+      "text": "Government Agencies",
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/government.html"
+    },
+    {
+      "text": "Appeals",
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/appeals.html"
+    },
+    {
+      "text": "Housing",
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/housing.html"
+    },
+    {
+      "text": "Juvenile Justice",
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/juvenile.html"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/consumer/small-claims.html"
+    },
+    {
+      "text": "Protection from Abuse",
+      "url": "https://www.utcourts.gov/abuse.html"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/resources.html"
+    },
+    {
+      "text": "Life Planning and Probate",
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/probate.html"
+    },
+    {
+      "text": "Court Rules and Procedures",
+      "url": "https://www.utcourts.gov/legal-help/legal-help/procedures.html"
+    },
+    {
+      "text": "Finding Legal Help",
+      "url": "https://www.utcourts.gov/legal-help/legal-help/finding-legal-help/legal-assist.html"
+    },
+    {
+      "text": "Utah Code",
+      "url": "https://le.utah.gov/Documents/code_const.htm"
+    },
+    {
+      "text": "Legal Clinics",
+      "url": "https://www.utcourts.gov/legal-help/legal-help/finding-legal-help/legal-clinics.html"
+    },
+    {
+      "text": "View Form Resources",
+      "url": "https://www.utcourts.gov/en/forms.html"
+    },
+    {
+      "text": "Court Forms",
+      "url": "https://www.utcourts.gov/forms.html"
+    },
+    {
+      "text": "Request for Audio/Digital Recording or Transcript",
+      "url": "https://pubapps.utcourts.gov/TranscriptWEB/publicrequest.jsp"
+    },
+    {
+      "text": "Court-Specific Forms",
+      "url": "https://www.utcourts.gov/en/forms/forms/court-specific.html"
+    },
+    {
+      "text": "Additional Forms Sources",
+      "url": "https://www.utcourts.gov/en/forms/forms/additional-form-sources.html"
+    },
+    {
+      "text": "MyPaperwork",
+      "url": "https://www.utcourts.gov/mypaperwork"
+    },
+    {
+      "text": "View more",
+      "url": "https://www.utcourts.gov/en/court-records-publications.html"
+    },
+    {
+      "text": "Appellate Court Opinions",
+      "url": "https://legacy.utcourts.gov/opinions/"
+    },
+    {
+      "text": "Appellate Docket Search",
+      "url": "https://apps.utcourts.gov/CourtsPublicWEB/index.jsp"
+    },
+    {
+      "text": "Court Records",
+      "url": "https://www.utcourts.gov/en/court-records-publications/records/court-records.html"
+    },
+    {
+      "text": "MyCase",
+      "url": "https://www.utcourts.gov/MyCase.html"
+    },
+    {
+      "text": "Xchange: Public Case Search",
+      "url": "https://www.utcourts.gov/en/court-records-publications/records/xchange.html"
+    },
+    {
+      "text": "Weekly Case Reports",
+      "url": "https://legacy.utcourts.gov/records/weeklyreports/"
+    },
+    {
+      "text": "Expunged Eviction Cases",
+      "url": "https://apps.utcourts.gov/CourtsPublicWEB/index.jsp?option=EVICT"
+    },
+    {
+      "text": "Requesting Audio of a Court Proceeding",
+      "url": "https://www.utcourts.gov/audio.html"
+    },
+    {
+      "text": "Request a Court Record",
+      "url": "https://www.utcourts.gov/en/court-records-publications/records/request-a-court-record.html"
+    },
+    {
+      "text": "Utah Division of Archives and Records Service",
+      "url": "https://archives.utah.gov/research/guides/courts/"
+    },
+    {
+      "text": "Public Notices",
+      "url": "https://www.utcourts.gov/en/court-records-publications/publications/public-notices/courts.html"
+    },
+    {
+      "text": "Court Publications",
+      "url": "https://www.utcourts.gov/en/court-records-publications/publications/court-publications.html"
+    },
+    {
+      "text": "Performance Measures",
+      "url": "https://www.utcourts.gov/en/court-records-publications/publications/performance-measures.html"
+    },
+    {
+      "text": "Utah Courts Caseload - Statewide Case Filings",
+      "url": "https://www.utcourts.gov/stats.html"
+    },
+    {
+      "text": "Judicial Ethics Opinions",
+      "url": "https://www.utcourts.gov/en/court-records-publications/publications/judicial-ethics-opinions.html"
+    },
+    {
+      "text": "Conflict of Interest Notices",
+      "url": "https://www.utcourts.gov/en/court-records-publications/publications/conflict-of-interest-notices.html"
+    },
+    {
+      "text": "Requests for Proposals",
+      "url": "https://www.utcourts.gov/en/court-records-publications/publications/rfp.html"
+    },
+    {
+      "text": "Request for Qualifications",
+      "url": "https://www.utcourts.gov/en/court-records-publications/publications/rfq.html"
+    },
+    {
+      "text": "Utah Judicial Facility Design Standards",
+      "url": "https://www.utcourts.gov/en/court-records-publications/publications/utah-judicial-facilities-design-standards.html"
+    },
+    {
+      "text": "Water Right Adjudications",
+      "url": "https://www.utcourts.gov/waterrights.html"
+    },
+    {
+      "text": "Court Calendar",
+      "url": "https://legacy.utcourts.gov/cal/"
+    },
+    {
+      "text": "Court Interpreters",
+      "url": "https://www.utcourts.gov/en/court-records-publications/resources/court-interpreters.html"
+    },
+    {
+      "text": "Victim Information Notification (VINE)",
+      "url": "https://www.utcourts.gov/en/court-records-publications/resources/vine.html"
+    },
+    {
+      "text": "Accounting Manual",
+      "url": "https://sites.google.com/utcourts.gov/utah-state-courts/accounting-manual"
+    },
+    {
+      "text": "Filing, Transcript, and Record Fees",
+      "url": "https://www.utcourts.gov/en/legal-help/legal-help/procedures/fees.html"
+    },
+    {
+      "text": "Court Fine Schedule",
+      "url": "https://legacy.utcourts.gov/rules/view.php?type=ucja&rule=10C"
+    },
+    {
+      "text": "Interest Rates / Fees / Price Indexes",
+      "url": "https://www.utcourts.gov/en/court-records-publications/resources/interest-rates.html"
+    },
+    {
+      "text": "Model Utah Jury Instructions",
+      "url": "https://legacy.utcourts.gov/resources/muji/"
+    },
+    {
+      "text": "Wireless Access in the Courts",
+      "url": "https://www.utcourts.gov/en/court-records-publications/resources/wireless.html"
+    },
+    {
+      "text": "Public Safety Assessment",
+      "url": "https://www.utcourts.gov/psa.html"
+    },
+    {
+      "text": "Additional Court Resources",
+      "url": "https://www.utcourts.gov/en/court-records-publications/resources/other-resources.html"
+    },
+    {
+      "text": "Learn about working for the courts",
+      "url": "https://sites.google.com/utcourts.gov/courts-hr"
+    },
+    {
+      "text": "Utah's Judicial Branch HR",
+      "url": "https://sites.google.com/utcourts.gov/courts-hr"
+    },
+    {
+      "text": "Jobs with the Courts / Employment Opportunities",
+      "url": "https://www.utcourts.gov/en/careers/careers/jobs.html"
+    },
+    {
+      "text": "Find out more",
+      "url": "https://www.utcourts.gov/en/media/media.html"
+    },
+    {
+      "text": "Media Policies / Resources",
+      "url": "https://www.utcourts.gov/en/media/media/Media-Policies-Resources.html"
+    },
+    {
+      "text": "Public Access to Juvenile Court",
+      "url": "https://www.utcourts.gov/en/media/media/public-access-to-juvenile-court.html"
+    },
+    {
+      "text": "Public Access to Juvenile Court: Questions & Answers",
+      "url": "https://www.utcourts.gov/en/media/media/access-qa.html"
+    },
+    {
+      "text": "Utah State Courts Media Guidelines",
+      "url": "https://www.utcourts.gov/en/media/media/media-guidelines.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/UtahStateCourts/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/UtahStateCourts"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/user/UtahStateCourts"
+    },
+    {
+      "text": "Self-Help",
+      "url": "https://www.utcourts.gov/en/self-help.html"
+    },
+    {
+      "text": "Life Planning and Probate",
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/probate.html"
+    },
+    {
+      "text": "Home (English)",
+      "url": "https://www.utcourts.gov/en.html"
+    },
+    {
+      "text": "Need Legal Help?",
+      "url": "https://www.utcourts.gov/en/self-help/legal-help.html"
+    },
+    {
+      "text": "Español",
+      "url": "https://www.utcourts.gov/es/self-help/case-categories/probate/informal-probate.html"
+    },
+    {
+      "text": "Fees",
+      "url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/fees.html"
+    },
+    {
+      "text": "Fee Waiver",
+      "url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/waiver.html"
+    },
+    {
+      "text": "Filing Procedures",
+      "url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/filing.html"
+    },
+    {
+      "text": "Life Planning and Probate",
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/probate.html"
+    },
+    {
+      "text": "Finding Legal Help",
+      "url": "https://www.utcourts.gov/en/self-help/legal-help/finding-legal-help/legal-assist.html"
+    },
+    {
+      "text": "Free Legal Clinics",
+      "url": "https://www.utcourts.gov/en/self-help/legal-help/legal-clinics.html"
+    },
+    {
+      "text": "Going to Court",
+      "url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/pro-se.html"
+    },
+    {
+      "text": "Mediation",
+      "url": "https://www.utcourts.gov/en/about/miscellaneous/mediation.html"
+    },
+    {
+      "text": "Utah Uniform Probate Code",
+      "url": "https://legacy.utcourts.gov/statutes/?s=75"
+    },
+    {
+      "text": "Utah Code 75-3-1201",
+      "url": "https://legacy.utcourts.gov/statutes/?s=75-3-1201"
+    },
+    {
+      "text": "Utah Code 75-3-203",
+      "url": "https://legacy.utcourts.gov/statutes/?s=75-3-203"
+    },
+    {
+      "text": "Utah Code 75-3-203",
+      "url": "https://legacy.utcourts.gov/statutes/?s=75-3-203"
+    },
+    {
+      "text": "Utah Code 75-3-307",
+      "url": "https://legacy.utcourts.gov/statutes/?s=75-3-307"
+    },
+    {
+      "text": "contact a probate attorney",
+      "url": "https://www.licensedlawyer.org/"
+    },
+    {
+      "text": "Utah Code 75-3-107",
+      "url": "https://legacy.utcourts.gov/statutes/?s=75-3-107"
+    },
+    {
+      "text": "Utah Code 75-3-201",
+      "url": "https://legacy.utcourts.gov/statutes/?s=75-3-201"
+    },
+    {
+      "text": "Utah Code 75-2-101 et seq.",
+      "url": "https://legacy.utcourts.gov/statutes/?s=75-2-1"
+    },
+    {
+      "text": "probate attorney",
+      "url": "https://www.licensedlawyer.org/"
+    },
+    {
+      "text": "Utah Code Section 75-1-201",
+      "url": "https://legacy.utcourts.gov/statutes/?s=75-1-201"
+    },
+    {
+      "text": "Utah Code 75-3-306",
+      "url": "https://legacy.utcourts.gov/statutes/?s=75-3-306"
+    },
+    {
+      "text": "Utah Code 75-3-203",
+      "url": "https://legacy.utcourts.gov/statutes/?s=75-3-203"
+    },
+    {
+      "text": "Utah Vital Records and Statistics website",
+      "url": "https://vitalrecords.health.utah.gov/death"
+    },
+    {
+      "text": "Where to Write for Vital Records page",
+      "url": "https://www.cdc.gov/nchs/w2w/"
+    },
+    {
+      "text": "about the process here",
+      "url": "https://www.utcourts.gov/en/about/miscellaneous/mediation/adr-prob.html"
+    },
+    {
+      "text": "Initial Disclosures web page",
+      "url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/court-process/initial-disclosures.html"
+    },
+    {
+      "text": "finding legal help",
+      "url": "https://www.utcourts.gov/en/self-help/legal-help/finding-legal-help/legal-assist.html"
+    },
+    {
+      "text": "Code of Judicial Administration Rule 6-506",
+      "url": "https://legacy.utcourts.gov/rules/view.php?type=ucja&rule=6-506"
+    },
+    {
+      "text": "Utah Code 75-3-801",
+      "url": "https://legacy.utcourts.gov/statutes/?s=75-3-801"
+    },
+    {
+      "text": "Department of Motor Vehicles Survivorship Affidavit",
+      "url": "http://tax.utah.gov/forms/current/tc-569c.pdf"
+    },
+    {
+      "text": "Continue",
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html#"
+    },
+    {
+      "text": "",
+      "url": "https://www.utcourts.gov/en.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.utcourts.gov/en.html"
+    },
+    {
+      "text": "Public Notices",
+      "url": "https://www.utcourts.gov/en/court-records-publications/publications/public-notices/courts.html"
+    },
+    {
+      "text": "Publications",
+      "url": "https://www.utcourts.gov/en/court-records-publications/publications/court-publications.html"
+    },
+    {
+      "text": "Records",
+      "url": "https://www.utcourts.gov/en/court-records-publications.html"
+    },
+    {
+      "text": "Court Rules",
+      "url": "https://legacy.utcourts.gov/rules/"
+    },
+    {
+      "text": "Utah Code",
+      "url": "https://le.utah.gov/Documents/code_const.htm"
+    },
+    {
+      "text": "Judicial Performance Evaluations",
+      "url": "https://judges.utah.gov/"
+    },
+    {
+      "text": "About the Courts",
+      "url": "https://www.utcourts.gov/en/about.html"
+    },
+    {
+      "text": "Jobs with the Courts",
+      "url": "https://www.utcourts.gov/en/careers/careers/jobs.html"
+    },
+    {
+      "text": "Human Resources",
+      "url": "https://www.utcourts.gov/en/careers/careers/human-resources.html"
+    },
+    {
+      "text": "Contact Information",
+      "url": "https://www.utcourts.gov/en/about/miscellaneous/directory.html"
+    },
+    {
+      "text": "Press Releases",
+      "url": "https://legacy.utcourts.gov/utc/news"
+    },
+    {
+      "text": "2024 State of the Judiciary",
+      "url": "https://www.utcourts.gov/content/dam/resources/reports/statejudiciary/2024-StateOfTheJudiciary.pdf"
+    },
+    {
+      "text": "2026 Utah Judicial Council Annual Report",
+      "url": "https://www.utcourts.gov/content/dam/court-records-publications/publications/court-publications/court-reports/2026-CourtsAnnualReport.pdf"
+    },
+    {
+      "text": "ADA Accessibility",
+      "url": "https://www.utcourts.gov/en/about/miscellaneous/ada.html"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.utcourts.gov/en/about/administration/privacy-policy.html"
+    },
+    {
+      "text": "Website Comments",
+      "url": "https://www.utcourts.gov/en/about/miscellaneous/directory/contact-forms/website.html"
+    },
+    {
+      "text": "Get help finding what you're looking for",
+      "url": "https://legacy.utcourts.gov/email/navigator.php"
+    },
+    {
+      "text": "",
+      "url": "https://www.levelaccess.com/a/utahcourts/"
+    },
+    {
+      "text": "",
+      "url": "https://www.levelaccess.com/a/utahcourts/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/UtahStateCourts/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/UtahStateCourts"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/user/UtahStateCourts"
+    },
+    {
+      "text": "",
+      "url": "https://www.utcourts.gov/en/court-records-publications/publications/court-publications/rss.html"
+    }
+  ]
+}

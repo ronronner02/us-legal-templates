@@ -1,0 +1,1645 @@
+[
+  {
+    "state": "Alaska",
+    "publisher": "Alaska Court System",
+    "url": "https://courts.alaska.gov/shc/probate/affidavit.htm",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "p-110\\.pdf",
+        "title": "Affidavit for Collection of Personal Property of Decedent",
+        "form_id": "P-110",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://courts.alaska.gov/shc/probate/affidavit.htm",
+      "final_url": "https://courts.alaska.gov/shc/probate/affidavit.htm",
+      "http_status": 200,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-14T09:03:46.934Z",
+      "etag": "\"8724f2e1d729dd1:0\"",
+      "last_modified": "Tue, 11 Aug 2026 21:25:07 GMT",
+      "content_length": null,
+      "sha256": "475193357a8816f965544b08ec21076c8caae928c9020661fa8fb6e227a03a5d",
+      "title": "Probate Collecting Personal Property without a Court Case - Alaska Court System",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14-02/01-alaska-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://courts.alaska.gov/shc/probate/affidavit.htm",
+        "final_url": "https://courts.alaska.gov/shc/probate/affidavit.htm",
+        "http_status": 200,
+        "content_type": "text/html",
+        "retrieved_at": "2026-10-14T09:03:46.934Z",
+        "etag": "\"8724f2e1d729dd1:0\"",
+        "last_modified": "Tue, 11 Aug 2026 21:25:07 GMT",
+        "content_length": null,
+        "sha256": "475193357a8816f965544b08ec21076c8caae928c9020661fa8fb6e227a03a5d",
+        "title": "Probate Collecting Personal Property without a Court Case - Alaska Court System",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "p-110\\.pdf",
+        "title": "Affidavit for Collection of Personal Property of Decedent",
+        "form_id": "P-110",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+        "max": 1,
+        "url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf",
+        "link_text": "P-110",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf",
+          "final_url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:49.332Z",
+          "etag": "\"6bfd1dd9c6afd21:0\"",
+          "last_modified": "Fri, 07 Apr 2017 17:46:12 GMT",
+          "content_length": "142345",
+          "sha256": "b9175cf81358df1267bf2f9f449a026c62fc4206e68fcf10bea0a4357db800eb",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf",
+            "final_url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:03:49.332Z",
+            "etag": "\"6bfd1dd9c6afd21:0\"",
+            "last_modified": "Fri, 07 Apr 2017 17:46:12 GMT",
+            "content_length": "142345",
+            "sha256": "b9175cf81358df1267bf2f9f449a026c62fc4206e68fcf10bea0a4357db800eb",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "b9175cf81358df1267bf2f9f449a026c62fc4206e68fcf10bea0a4357db800eb",
+        "local_archive_path": "archive/2026-10-14-02/01-affidavit-for-collection-of-personal-property-of-decedent-b9175cf81358.pdf",
+        "bytes": 142345,
+        "text_length": 6335,
+        "pages": 3,
+        "identity_excerpt": "Page 1 of 3 AS 13.16.680 P-110 (4/17)(cs duplex)(no hole punch) AFFIDAVIT FOR COLLECTION OF PERSONAL PROPERTY OF DECEDENT AFFIDAVIT FOR COLLECTION OF PERSONAL PROPERTY OF DECEDENT I, , being duly sworn, state the following: 1. I am the successor of who died on , 20 . I am the successor by reason of the fact that . (state basis upon which you claim to be successor) 2. The entire estate of the decedent, wherever located, less liens and encumbrances, consists only of not more than a. vehicles subject to registration under AS 28.10.011 with a total value that does not exceed $100,000; and b. personal property, other than vehicles described in (a) above, that does not exceed $50,000. 3. The decedent’s estate includes no real estate or the decedent had real estate that passed automatically to someone else. Title to property may transfer automatically based on how it was titled. For example, the property was held as tenants by the entirety (common for married couples) or there was a Transfer on Death Deed. 4. Thirty days have elapsed since the death of the decedent. 5. No application or petition for the appointment of a personal representative of the decedent’s estate is pending or has been granted in any jurisdiction. 6. I, as successor of the decedent, am entitled to the payment of any sums of money due and owing the decedent and to the delivery of all tangible personal property belonging to the decedent and to the delivery of all instruments evidencing a debt, obligation, stock or chose in action belonging to the decedent. 7. I understand that when I receive the decedent’s assets, I am accountable for them to any personal representative of the estate (if one is appointed) and to any other person who has a superior right. AS 13.16.685 8. I understand I may be asked to show a",
+        "revision_evidence": [
+          "Page 1 of 3 AS 13.16.680 P-110 (4/17)(cs duplex)(no hole punch) AFFIDAVIT FOR COLLECTION OF PERSONAL",
+          "Page 2 of 3 AS 13.16.680 P-110 (4/17)(cs duplex)(no hole punch) AFFIDAVIT FOR COLLECTION OF PERSONAL",
+          "Page 3 of 3 AS 13.16.680 P-110 (4/17)(cs duplex)(no hole punch) AFFIDAVIT FOR COLLECTION OF PERSONAL"
+        ],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "P-110",
+        "url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf"
+      },
+      {
+        "text": "P-110",
+        "url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf"
+      },
+      {
+        "text": "P-110",
+        "url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf"
+      },
+      {
+        "text": "Careers",
+        "url": "https://public.courts.alaska.gov/web/scheduled/docs/RecruitmentNews.pdf"
+      }
+    ]
+  },
+  {
+    "state": "Virginia",
+    "publisher": "Virginia Court System",
+    "url": "https://www.vacourts.gov/forms/circuit/fiduciary",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "cc1685\\.pdf",
+        "title": "Small Estate Affidavit",
+        "form_id": "CC-1685",
+        "family_id": "small-estate-affidavit",
+        "identity": "SMALL ESTATE AFFIDAVIT",
+        "max": 1
+      },
+      {
+        "pattern": "cc1611\\.pdf",
+        "title": "List of Heirs",
+        "form_id": "CC-1611",
+        "family_id": "probate-heirs-list",
+        "identity": "LIST OF HEIRS",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.vacourts.gov/forms/circuit/fiduciary",
+      "final_url": "https://www.vacourts.gov/forms/circuit/fiduciary",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:03:46.502Z",
+      "etag": null,
+      "last_modified": "Tue, 13 Oct 2026 20:25:28 GMT",
+      "content_length": null,
+      "sha256": "a7ac1a5894daf61d1a6d04959d07367105e41793c3034eede31b69e886580cf2",
+      "title": "Circuit Court Fiduciary Forms | Virginia Court System",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14-02/02-virginia-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.vacourts.gov/forms/circuit/fiduciary",
+        "final_url": "https://www.vacourts.gov/forms/circuit/fiduciary",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:03:46.502Z",
+        "etag": null,
+        "last_modified": "Tue, 13 Oct 2026 20:25:28 GMT",
+        "content_length": null,
+        "sha256": "a7ac1a5894daf61d1a6d04959d07367105e41793c3034eede31b69e886580cf2",
+        "title": "Circuit Court Fiduciary Forms | Virginia Court System",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "cc1685\\.pdf",
+        "title": "Small Estate Affidavit",
+        "form_id": "CC-1685",
+        "family_id": "small-estate-affidavit",
+        "identity": "SMALL ESTATE AFFIDAVIT",
+        "max": 1,
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1685.pdf",
+        "link_text": "Small Estate Affidavit",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.vacourts.gov/static/forms/circuit/cc1685.pdf",
+          "final_url": "https://www.vacourts.gov/static/forms/circuit/cc1685.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:47.137Z",
+          "etag": "\"8d49-6558de9787800\"",
+          "last_modified": "Wed, 01 Jul 2026 14:57:36 GMT",
+          "content_length": "36169",
+          "sha256": "9116746619f27008fa56ed884506dbc9d12b2a8792005a9b66c1a9fe78789f30",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.vacourts.gov/static/forms/circuit/cc1685.pdf",
+            "final_url": "https://www.vacourts.gov/static/forms/circuit/cc1685.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:03:47.137Z",
+            "etag": "\"8d49-6558de9787800\"",
+            "last_modified": "Wed, 01 Jul 2026 14:57:36 GMT",
+            "content_length": "36169",
+            "sha256": "9116746619f27008fa56ed884506dbc9d12b2a8792005a9b66c1a9fe78789f30",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "9116746619f27008fa56ed884506dbc9d12b2a8792005a9b66c1a9fe78789f30",
+        "local_archive_path": "archive/2026-10-14-02/02-small-estate-affidavit-9116746619f2.pdf",
+        "bytes": 36169,
+        "text_length": 5740,
+        "pages": 2,
+        "identity_excerpt": "Form CC-1685 (MASTER, Page 1 of 2) 07/26 SMALL ESTATE AFFIDAVIT Commonwealth of Virginia Va. Code § 64.2-601 I/we, the successor(s), after being duly sworn, state as follows pursuant to Va. Code § 64.2-601: 1. Name of the deceased person (“the decedent”): ....................................................................................................... 2. The decedent’s date of death: ................................................................ 3. The value of the decedent’s entire personal probate estate as of the date of the decedent’s death, wherever located, does not exceed $75,000. 4. A description of the small asset is as follows: ........................................................................................................................................................................................................................................ 5. The claiming successor is entitled to payment or delivery of the “small asset” and the basis for such entitlement is described below: [ ] Surviving Spouse [ ] Beneficiary under Will [ ] Heir (no Will) [ ] Other ............................................................................................................ 6. At least 60 days have passed since decedent’s death. 7. No application for the appointment of a personal representative is pending or has been granted in any jurisdiction. 8. The decedent’s will, if any, was duly probated. 9. The names and addresses of all successors, to the extent known, is/are: NAME ADDRESS a. ........................................................................................................................................................................................................ b. .....................................................................",
+        "revision_evidence": [
+          "Form CC-1685 (MASTER, Page 1 of 2) 07/26 SMALL ESTATE AFFIDAVIT Commonwealth of Vi",
+          "re space is needed) Form CC-1685 (MASTER, Page 2 of 2) 07/26 10. The name of each successor designated"
+        ],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      },
+      {
+        "pattern": "cc1611\\.pdf",
+        "title": "List of Heirs",
+        "form_id": "CC-1611",
+        "family_id": "probate-heirs-list",
+        "identity": "LIST OF HEIRS",
+        "max": 1,
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1611.pdf",
+        "link_text": "List of Heirs",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.vacourts.gov/static/forms/circuit/cc1611.pdf",
+          "final_url": "https://www.vacourts.gov/static/forms/circuit/cc1611.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:47.704Z",
+          "etag": "\"5c3a-523415aeed040\"",
+          "last_modified": "Thu, 29 Oct 2015 17:08:09 GMT",
+          "content_length": "23610",
+          "sha256": "f6995fc38dd7d38274d626d94a5d7d697aca5b6b29b76755c416b94e974129f4",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.vacourts.gov/static/forms/circuit/cc1611.pdf",
+            "final_url": "https://www.vacourts.gov/static/forms/circuit/cc1611.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:03:47.704Z",
+            "etag": "\"5c3a-523415aeed040\"",
+            "last_modified": "Thu, 29 Oct 2015 17:08:09 GMT",
+            "content_length": "23610",
+            "sha256": "f6995fc38dd7d38274d626d94a5d7d697aca5b6b29b76755c416b94e974129f4",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "f6995fc38dd7d38274d626d94a5d7d697aca5b6b29b76755c416b94e974129f4",
+        "local_archive_path": "archive/2026-10-14-02/02-list-of-heirs-f6995fc38dd7.pdf",
+        "bytes": 23610,
+        "text_length": 5662,
+        "pages": 1,
+        "identity_excerpt": "LIST OF HEIRS Court File No. ........................................................................... COMMONWEALTH OF VIRGINIA VA. CODE § 64.2-509 ............................................................................................................................................................................................................................... Circuit Court ..................................................................................................................... ................................................................................................................... NAME OF DECEDENT DATE OF DEATH I/We, the undersigned, hereby state under oath that the following are all of the heirs of the Decedent: NAMES OF HEIRS ADDRESSES RELATIONSHIP AGE ........................................................................................................................................................................................................................................................... ........................................................................................................................................................................................................................................................... ........................................................................................................................................................................................................................................................... .....................................................................................................................................................................................................................................................",
+        "revision_evidence": [
+          "lerk FORM CC-1611 MASTER 10/12"
+        ],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "Rules of the Supreme Court of Virginia",
+        "url": "https://www.vacourts.gov/static/courts/scv/rulesofcourt.pdf"
+      },
+      {
+        "text": "Designated Local ADA Coordinators",
+        "url": "https://www.vacourts.gov/static/courts/ada/local_ada_coordinators.pdf"
+      },
+      {
+        "text": "Judicial Inquiry and Review Commission Complaint Form",
+        "url": "https://www.vacourts.gov/static/agencies/jirc/jirc_complaint_form.pdf"
+      },
+      {
+        "text": "Parent Education Self Evaluation",
+        "url": "https://www.vacourts.gov/static/courtadmin/aoc/djs/programs/parented/selfev2.pdf"
+      },
+      {
+        "text": "Rules of the Supreme Court of Virginia",
+        "url": "https://www.vacourts.gov/static/courts/scv/rulesofcourt.pdf"
+      },
+      {
+        "text": "Deposition of Witness to Will Without Self-Proving Clause",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1601.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1601inst.pdf"
+      },
+      {
+        "text": "Deposition of Witness to Prove Holographic Will",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1602.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1602inst.pdf"
+      },
+      {
+        "text": "Deposition of Witness to Prove Signatures of Deceased Attesting Witnesses and of the Testator",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1603.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1603inst.pdf"
+      },
+      {
+        "text": "Proof of Holographic Will / Proof of Soldier's or Sailor's Will",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1604.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1604inst.pdf"
+      },
+      {
+        "text": "Waiver of Qualification",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1608.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1608inst.pdf"
+      },
+      {
+        "text": "Certificate of Creditor or Person Other Than a Distributee",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1609.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1609inst.pdf"
+      },
+      {
+        "text": "Consent of Nonresident Fiduciary for Service of Process",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1610.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1610inst.pdf"
+      },
+      {
+        "text": "List of Heirs",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1611.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1611inst.pdf"
+      },
+      {
+        "text": "Real Estate Affidavit",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1612.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1612inst.pdf"
+      },
+      {
+        "text": "Notice Regarding Estate of",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1616.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1616inst.pdf"
+      },
+      {
+        "text": "Affidavit of Notice Regarding Estate of",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1617.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1617inst.pdf"
+      },
+      {
+        "text": "Waiver of Notice of Probate or Qualification",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1618.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1618inst.pdf"
+      },
+      {
+        "text": "Power of Attorney For New Or Additional Bond",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1619.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1619inst.pdf"
+      },
+      {
+        "text": "Cover Sheet to Petition for Appointment of Guardian and/or Conservator",
+        "url": "https://www.vacourts.gov/static//forms/circuit/cc1640.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static//forms/circuit/cc1640inst.pdf"
+      },
+      {
+        "text": "Spanish Translation of CC-1640",
+        "url": "https://www.vacourts.gov/static/forms/circuit/fls/cc1640sp.pdf"
+      },
+      {
+        "text": "Addendum for Financial Information - Confidential (Guardian and/or Conservator)",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1641.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1641inst.pdf"
+      },
+      {
+        "text": "Addendum to Petition for Appointment of Guardian or Conservator-Under Seal",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1642.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1642inst.pdf"
+      },
+      {
+        "text": "Certification of Proposed Guardian",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1643.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1643inst.pdf"
+      },
+      {
+        "text": "Report of Guardian for an Incapacitated Person",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1644.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1644inst.pdf"
+      },
+      {
+        "text": "Sample Form CC-1644",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1644_samp.pdf"
+      },
+      {
+        "text": "Notice of Restriction by Guardian",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1645.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1645inst.pdf"
+      },
+      {
+        "text": "Petition for Review Hearing (Guardian and/or Conservator)",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1646.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1646inst.pdf"
+      },
+      {
+        "text": "Probate Information Form",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1650.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1650inst.pdf"
+      },
+      {
+        "text": "Probate Tax Return",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1651.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1651inst.pdf"
+      },
+      {
+        "text": "Incapacitated Adult Information Form",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1652.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1652inst.pdf"
+      },
+      {
+        "text": "Guardian of Minor Information Form",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1653.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1653inst.pdf"
+      },
+      {
+        "text": "Trust Information Form",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1654.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1654inst.pdf"
+      },
+      {
+        "text": "Inventory for Decedent's Estate",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1670.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1670inst.pdf"
+      },
+      {
+        "text": "Inventory for Incapacitated Adult",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1671.pdf"
+      },
+      {
+        "text": "Instructions and Sample Form",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1671inst.pdf"
+      },
+      {
+        "text": "Inventory for Estate of Minor",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1672.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1672inst.pdf"
+      },
+      {
+        "text": "Inventory for Trust",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1673.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1673inst.pdf"
+      },
+      {
+        "text": "Account for Decedent's Estate",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1680.pdf"
+      },
+      {
+        "text": "Instructions and Sample Form",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1680inst.pdf"
+      },
+      {
+        "text": "Statement In Lieu of Settlement of Account for Decedent's Estate Pursuant to Va. Code § 64.2-1314",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1681.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1681inst.pdf"
+      },
+      {
+        "text": "Account for Incapacitated Adult",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1682.pdf"
+      },
+      {
+        "text": "Instructions and Sample Form",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1682inst.pdf"
+      },
+      {
+        "text": "Account for Minor",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1683.pdf"
+      },
+      {
+        "text": "Instructions and Sample Form",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1683inst.pdf"
+      },
+      {
+        "text": "Account for Trust",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1684.pdf"
+      },
+      {
+        "text": "Instructions and Sample Form",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1684inst.pdf"
+      },
+      {
+        "text": "Small Estate Affidavit",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1685.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1685inst.pdf"
+      },
+      {
+        "text": "Notice to Creditors",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1686.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1686inst.pdf"
+      },
+      {
+        "text": "Affidavit of Notice to Creditors Regarding Estate",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1687.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1687inst.pdf"
+      }
+    ]
+  },
+  {
+    "state": "Vermont",
+    "publisher": "Vermont Judiciary",
+    "url": "https://www.vtcourts.gov/probate/estates-and-wills",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "Petition to Open Small Estate",
+        "title": "Petition to Open Small Estate",
+        "form_id": "700-00001SM",
+        "family_id": "small-estate-petition",
+        "identity": "PETITION TO OPEN SMALL ESTATE",
+        "max": 1
+      },
+      {
+        "pattern": "Funeral Expenses",
+        "title": "Affidavit of Paid and Outstanding Funeral Expenses and Debts for Small Estate",
+        "form_id": "700-00402",
+        "family_id": "small-estate-debt-affidavit",
+        "identity": "FUNERAL EXPENSES",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.vtcourts.gov/probate/estates-and-wills",
+      "final_url": "https://www.vtcourts.gov/probate/estates-and-wills",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:03:46.308Z",
+      "etag": "\"1791954066-gzip\"",
+      "last_modified": "Wed, 14 Oct 2026 05:01:06 GMT",
+      "content_length": "25771",
+      "sha256": "b13844e190a9e4a737a309711b81c94098e5d2d818211b09613d19d6975b18a6",
+      "title": "Estates and Wills | Vermont Judiciary",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14-02/03-vermont-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.vtcourts.gov/probate/estates-and-wills",
+        "final_url": "https://www.vtcourts.gov/probate/estates-and-wills",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:03:46.308Z",
+        "etag": "\"1791954066-gzip\"",
+        "last_modified": "Wed, 14 Oct 2026 05:01:06 GMT",
+        "content_length": "25771",
+        "sha256": "b13844e190a9e4a737a309711b81c94098e5d2d818211b09613d19d6975b18a6",
+        "title": "Estates and Wills | Vermont Judiciary",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "Petition to Open Small Estate",
+        "title": "Petition to Open Small Estate",
+        "form_id": "700-00001SM",
+        "family_id": "small-estate-petition",
+        "identity": "PETITION TO OPEN SMALL ESTATE",
+        "max": 1,
+        "url": "https://www.vtcourts.gov/media/377",
+        "link_text": "Petition to Open Small Estate",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.vtcourts.gov/media/377",
+          "final_url": "https://www.vtcourts.gov/sites/default/files/documents/700-00001SM.Petition%20to%20Open%20Small%20Estate.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:51.510Z",
+          "etag": "\"22e224-64c4a9ab6f3a0\"",
+          "last_modified": "Thu, 05 Mar 2026 17:52:47 GMT",
+          "content_length": "2286116",
+          "sha256": "1b87f9ec8882faa7de7e00960ea960689357b556b2338b676e7b9e321bc099ab",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.vtcourts.gov/media/377",
+            "final_url": "https://www.vtcourts.gov/sites/default/files/documents/700-00001SM.Petition%20to%20Open%20Small%20Estate.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:03:51.510Z",
+            "etag": "\"22e224-64c4a9ab6f3a0\"",
+            "last_modified": "Thu, 05 Mar 2026 17:52:47 GMT",
+            "content_length": "2286116",
+            "sha256": "1b87f9ec8882faa7de7e00960ea960689357b556b2338b676e7b9e321bc099ab",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "1b87f9ec8882faa7de7e00960ea960689357b556b2338b676e7b9e321bc099ab",
+        "local_archive_path": "archive/2026-10-14-02/03-petition-to-open-small-estate-1b87f9ec8882.pdf",
+        "bytes": 2286116,
+        "text_length": 3326,
+        "pages": 2,
+        "identity_excerpt": "700-00001SM – Petition to Open Small Estate (09/2023) Page 1 of 2 STATE OF VERMONT SUPERIOR COURT PROBATE DIVISION Unit Case No. In re ESTATE of: PETITION TO OPEN SMALL ESTATE 14 V.S.A. Ch. 81 __________________________________ was a resident of ______________________________________ Decedent Town/State and died on ________________________ leaving personal property valued at $45,000 or less and no real estate. Decedent left: ☐ No known Last Will and Testament OR ☐ Last Will and Testament dated _______________________ ☐ Codicil(s) to the Will, if any, dated ____________________ Attached are: 1. Filing fee; checks or money orders payable to Vermont Superior Court, 2. Original or Certified copy of the death certificate, 3. List of Interested Persons (form 700-00002), 4. ORIGINAL Will and Codicils, if any, 5. Inventory of the estate, including information or estimates available at the time of filing (form 700-00030), 6. Affidavit of paid and outstanding funeral expenses and any other known or reasonably ascertainable debts of the decedent (form 700-00402), 7. Bond without surety in the amount of the fair market value of the estate. Petitioner requests a small estate be opened and the following named person be appointed to administer the estate: _______________________________________________________________________ Proposed Executor/Administrator _______________________________________________________________________ Mailing Address ___________________________________ /___________________________________ Telephone Email ☐ This is the person named as executor in the Will. ACCEPTANCE OF APPOINTMENT I accept the appointment as Executor/Administrator and ask that the appointment documents be issued to me at the address above. _______________________________ ____________________",
+        "revision_evidence": [
+          "on to Open Small Estate (09/2023) Page 1 of 2 STATE OF VERMONT SUPERIOR COURT PROBATE DIVISION Unit Ca",
+          "on to Open Small Estate (09/2023) Page 2 of 2 CONSENT OF SURVIVING SPOUSE, IF ANY, AND CONSENT OF ALL "
+        ],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      },
+      {
+        "pattern": "Funeral Expenses",
+        "title": "Affidavit of Paid and Outstanding Funeral Expenses and Debts for Small Estate",
+        "form_id": "700-00402",
+        "family_id": "small-estate-debt-affidavit",
+        "identity": "FUNERAL EXPENSES",
+        "max": 1,
+        "url": "https://www.vtcourts.gov/media/12554",
+        "link_text": "Affidavit of Paid & Outstanding Funeral Expenses and Debts for Small Estate",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.vtcourts.gov/media/12554",
+          "final_url": "https://www.vtcourts.gov/sites/default/files/documents/700-00402.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:54.826Z",
+          "etag": "\"15078c-64c4a9b22cd00\"",
+          "last_modified": "Thu, 05 Mar 2026 17:52:54 GMT",
+          "content_length": "1378188",
+          "sha256": "d38fcd0fb6dce2e051c4722f03c606ce75ebf98f3abf650c0bd82f4305bc75ed",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.vtcourts.gov/media/12554",
+            "final_url": "https://www.vtcourts.gov/sites/default/files/documents/700-00402.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:03:54.826Z",
+            "etag": "\"15078c-64c4a9b22cd00\"",
+            "last_modified": "Thu, 05 Mar 2026 17:52:54 GMT",
+            "content_length": "1378188",
+            "sha256": "d38fcd0fb6dce2e051c4722f03c606ce75ebf98f3abf650c0bd82f4305bc75ed",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "d38fcd0fb6dce2e051c4722f03c606ce75ebf98f3abf650c0bd82f4305bc75ed",
+        "local_archive_path": "archive/2026-10-14-02/03-affidavit-of-paid-and-outstanding-funeral-expenses-and-debts-for-small-estate-d38fcd0fb6dc.pdf",
+        "bytes": 1378188,
+        "text_length": 1380,
+        "pages": 1,
+        "identity_excerpt": "700-00402 –Affidavit of Paid & Outstanding Funeral Expenses & Debts – Small Estates (07/2023) Page 1 of 1 STATE OF VERMONT SUPERIOR COURT PROBATE DIVISION Unit Case No. ______________________ In re: AFFIDAVIT OF PAID AND OUTSTANDING FUNERAL EXPENSES AND DEBTS FOR A SMALL ESTATE The undersigned Fiduciary, being duly sworn, states as follows: 1. The following is a list of paid funeral expenses and debts: ________________________________________ ________________________________________ ________________________________________ ________________________________________ ________________________________________ ________________________________________ 2. The following is a list of known and reasonably ascertainable debts of the Decedent: __________________________________________ ________________________________________ __________________________________________ ________________________________________ __________________________________________ ________________________________________ I declare that the above statements are true and accurate to the best of my knowledge and belief. I understand that if the above statements are false, I will be subject to the penalty of perjury or to other sanctions in the discretion of the Court. Date: ___________________________ __________________________________ Signature of Fiduciary __________________________________ Printed Name",
+        "revision_evidence": [
+          "& Debts – Small Estates (07/2023) Page 1 of 1 STATE OF VERMONT SUPERIOR COURT PROBATE DIVISION Unit Ca"
+        ],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "Petition to Open Small Estate",
+        "url": "https://www.vtcourts.gov/media/377"
+      },
+      {
+        "text": "Notice of Appearance - Probate Division",
+        "url": "https://www.vtcourts.gov/media/9354"
+      },
+      {
+        "text": "List of Interested Persons for Estates",
+        "url": "https://www.vtcourts.gov/media/378"
+      },
+      {
+        "text": "Inventory Schedule",
+        "url": "https://www.vtcourts.gov/media/7725"
+      },
+      {
+        "text": "Affidavit of Paid & Outstanding Funeral Expenses and Debts for Small Estate",
+        "url": "https://www.vtcourts.gov/media/12554"
+      },
+      {
+        "text": "Small Estate Administration Bond",
+        "url": "https://www.vtcourts.gov/media/14868"
+      },
+      {
+        "text": "Certificate of Service",
+        "url": "https://www.vtcourts.gov/media/11"
+      },
+      {
+        "text": "Appointment of Resident Agent",
+        "url": "https://www.vtcourts.gov/media/9087"
+      },
+      {
+        "text": "Probating a Vermont Estate Booklet",
+        "url": "https://www.vtcourts.gov/media/8694"
+      },
+      {
+        "text": "Probating a Vermont Estate Booklet",
+        "url": "https://www.vtcourts.gov/media/8694"
+      },
+      {
+        "text": "Public Portal User Guide",
+        "url": "https://www.vermontjudiciary.org/media/11040"
+      },
+      {
+        "text": "Probating a Vermont Estate Booklet",
+        "url": "https://www.vtcourts.gov/media/8694"
+      },
+      {
+        "text": "Probating a Vermont Estate Booklet",
+        "url": "https://www.vtcourts.gov/media/8694"
+      },
+      {
+        "text": "Petition to Open Small Estate",
+        "url": "https://www.vtcourts.gov/media/377"
+      },
+      {
+        "text": "Notice of Appearance - Probate Division",
+        "url": "https://www.vtcourts.gov/media/9354"
+      },
+      {
+        "text": "List of Interested Persons for Estates",
+        "url": "https://www.vtcourts.gov/media/378"
+      },
+      {
+        "text": "Inventory Schedule",
+        "url": "https://www.vtcourts.gov/media/7725"
+      },
+      {
+        "text": "Affidavit of Paid & Outstanding Funeral Expenses and Debts for Small Estate",
+        "url": "https://www.vtcourts.gov/media/12554"
+      },
+      {
+        "text": "Small Estate Administration Bond",
+        "url": "https://www.vtcourts.gov/media/14868"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "Instructions: Notifying Interested Persons of a Hearing on Allowance of Will",
+        "url": "https://www.vtcourts.gov/media/15567"
+      },
+      {
+        "text": "Appointment of Resident Agent",
+        "url": "https://www.vtcourts.gov/media/9087"
+      },
+      {
+        "text": "Report of Fiduciary of Small Estate",
+        "url": "https://www.vtcourts.gov/media/394"
+      },
+      {
+        "text": "Receipt",
+        "url": "https://www.vtcourts.gov/media/319"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "Probating a Vermont Estate Booklet",
+        "url": "https://www.vtcourts.gov/media/8694"
+      },
+      {
+        "text": "Petition to Open Decedent's Estate",
+        "url": "https://www.vtcourts.gov/media/375"
+      },
+      {
+        "text": "Notice of Appearance - Probate Division",
+        "url": "https://www.vtcourts.gov/media/9354"
+      },
+      {
+        "text": "List of Interested Persons for Estates",
+        "url": "https://www.vtcourts.gov/media/378"
+      },
+      {
+        "text": "Estate Administration Bond",
+        "url": "https://www.vtcourts.gov/media/379"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "Notice of Rights of Surviving Spouse",
+        "url": "https://www.vtcourts.gov/media/12506"
+      },
+      {
+        "text": "Notice of Elections and/or Waivers of Minor Children",
+        "url": "https://www.vtcourts.gov/media/20568"
+      },
+      {
+        "text": "Notice of Elections and/or Waivers by Surviving Spouse",
+        "url": "https://www.vtcourts.gov/media/393"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "Instructions: Notifying Interested Persons of a Hearing on Allowance of Will",
+        "url": "https://www.vtcourts.gov/media/15567"
+      },
+      {
+        "text": "Inventory Schedule",
+        "url": "https://www.vtcourts.gov/media/7725"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "Notice to Creditors",
+        "url": "https://www.vtcourts.gov/media/383"
+      },
+      {
+        "text": "Motion to Waive Notice to Creditors",
+        "url": "https://www.vtcourts.gov/media/384"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "Appointment of Resident Agent",
+        "url": "https://www.vtcourts.gov/media/9087"
+      },
+      {
+        "text": "Written Statement of Claim",
+        "url": "https://www.vtcourts.gov/media/385"
+      },
+      {
+        "text": "Notice of Disallowance",
+        "url": "https://www.vtcourts.gov/media/7724"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "Motion for License to Sell or Convey Real Estate",
+        "url": "https://www.vtcourts.gov/media/386"
+      },
+      {
+        "text": "Motion for License to Sell or Convey Personal Property",
+        "url": "https://www.vtcourts.gov/media/388"
+      },
+      {
+        "text": "Motion for License to Mortgage or Lease Personal Property",
+        "url": "https://www.vtcourts.gov/media/390"
+      },
+      {
+        "text": "Motion for License to Mortgage or Lease Real Estate",
+        "url": "https://www.vtcourts.gov/media/387"
+      },
+      {
+        "text": "Addendum to Motion for License to Sell or Convey Personal Property",
+        "url": "https://www.vtcourts.gov/media/389"
+      },
+      {
+        "text": "Report on License to Sell, Convey, Mortgage or Lease Real Estate or Personal Property",
+        "url": "https://www.vtcourts.gov/media/391"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "License to Sell or Convey",
+        "url": "https://www.vtcourts.gov/media/10454"
+      },
+      {
+        "text": "License to Mortgage or Lease",
+        "url": "https://www.vtcourts.gov/media/8009"
+      },
+      {
+        "text": "Summary of Account with Schedules & Motion to Allow Account",
+        "url": "https://www.vtcourts.gov/media/395"
+      },
+      {
+        "text": "Motion to Waive Accounting",
+        "url": "https://www.vtcourts.gov/media/13900"
+      },
+      {
+        "text": "Waiver of Final Accounting and Consent",
+        "url": "https://www.vtcourts.gov/media/12555"
+      },
+      {
+        "text": "Motion for Decree of Partial Distribution",
+        "url": "https://www.vtcourts.gov/media/397"
+      },
+      {
+        "text": "Motion to Waive Administration",
+        "url": "https://www.vtcourts.gov/media/17258"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "Decree of Partial Distribution",
+        "url": "https://www.vtcourts.gov/media/8010"
+      },
+      {
+        "text": "Final Decree of Distribution",
+        "url": "https://www.vtcourts.gov/media/8008"
+      },
+      {
+        "text": "Affidavit of Administration",
+        "url": "https://www.vtcourts.gov/media/12553"
+      },
+      {
+        "text": "Fiduciary's Closing Report & Discharge",
+        "url": "https://www.vtcourts.gov/media/318"
+      },
+      {
+        "text": "Receipt",
+        "url": "https://www.vtcourts.gov/media/319"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "Motion to Continue - Probate Division",
+        "url": "https://www.vtcourts.gov/media/368"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "General Motion - Probate",
+        "url": "https://www.vtcourts.gov/media/16440"
+      },
+      {
+        "text": "General Affidavit - Probate",
+        "url": "https://www.vtcourts.gov/media/16441"
+      },
+      {
+        "text": "Response to Motion - Probate",
+        "url": "https://www.vtcourts.gov/media/18336"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "Motion for Order of Dividend",
+        "url": "https://www.vtcourts.gov/media/16438"
+      },
+      {
+        "text": "Affidavit After Order of Dividend",
+        "url": "https://www.vtcourts.gov/media/16439"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "Notice of Name Change or Change of Address",
+        "url": "https://www.vtcourts.gov/media/10747"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "Cover Letter - Filing a Will for Safe Keeping",
+        "url": "https://www.vtcourts.gov/media/17855"
+      },
+      {
+        "text": "Request for Removal of Wills from Safekeeping",
+        "url": "https://www.vtcourts.gov/media/15569"
+      },
+      {
+        "text": "Affidavit of No Assets",
+        "url": "https://www.vtcourts.gov/media/10948"
+      },
+      {
+        "text": "Certificate of Service - Probate",
+        "url": "https://www.vtcourts.gov/media/20002"
+      },
+      {
+        "text": "Consent",
+        "url": "https://www.vtcourts.gov/media/309"
+      },
+      {
+        "text": "Executor’s Refusal of Appointment",
+        "url": "https://www.vtcourts.gov/media/381"
+      },
+      {
+        "text": "Motion to Appoint Special Administrator",
+        "url": "https://www.vtcourts.gov/media/376"
+      },
+      {
+        "text": "Motion for Extension of Time",
+        "url": "https://www.vtcourts.gov/media/392"
+      },
+      {
+        "text": "Petition for Issuance of Certificate of Presumed Death",
+        "url": "https://www.vtcourts.gov/media/396"
+      },
+      {
+        "text": "Waiver of Surety on Estate Administration Bond",
+        "url": "https://www.vtcourts.gov/media/8935"
+      },
+      {
+        "text": "Request for Access to Court Record",
+        "url": "https://www.vtcourts.gov/media/770"
+      },
+      {
+        "text": "Notice of Appeal of Decision on Access to Court Records",
+        "url": "https://www.vtcourts.gov/media/941"
+      }
+    ]
+  },
+  {
+    "state": "Washington",
+    "publisher": "Washington State Courts",
+    "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "MISC%2005%200100",
+        "title": "Notice of Small Claim",
+        "form_id": "MISC 05.0100",
+        "family_id": "small-claims-complaint",
+        "identity": "NOTICE OF SMALL CLAIM",
+        "max": 1
+      },
+      {
+        "pattern": "MISC%2005%200200",
+        "title": "Small Claims Proof of Service",
+        "form_id": "MISC 05.0200",
+        "family_id": "small-claims-service",
+        "identity": "(?:CERTIFICATE|PROOF) OF SERVICE",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+      "final_url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:03:55.928Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "63265567ee09c4913f08f1c169f4c12b8fa41bfe0834f757b93e1e05678cba7b",
+      "title": "Washington State Courts - Court Forms - Small Claims",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14-02/04-washington-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+        "final_url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+        "http_status": 200,
+        "content_type": "text/html;charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:03:55.928Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": null,
+        "sha256": "63265567ee09c4913f08f1c169f4c12b8fa41bfe0834f757b93e1e05678cba7b",
+        "title": "Washington State Courts - Court Forms - Small Claims",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "MISC%2005%200100",
+        "title": "Notice of Small Claim",
+        "form_id": "MISC 05.0100",
+        "family_id": "small-claims-complaint",
+        "identity": "NOTICE OF SMALL CLAIM",
+        "max": 1,
+        "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200100%20Notice%20of%20Small%20Claim%202025%2001.pdf",
+        "link_text": "",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200100%20Notice%20of%20Small%20Claim%202025%2001.pdf",
+          "final_url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200100%20Notice%20of%20Small%20Claim%202025%2001.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:56.532Z",
+          "etag": "\"d0c0d4f4d15adb1:0\"",
+          "last_modified": "Mon, 30 Dec 2024 15:46:13 GMT",
+          "content_length": "147985",
+          "sha256": "ed0d0baf7eb073c2f8aa342852611dfee05dced4aacf82fd372f2199d9bc6418",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200100%20Notice%20of%20Small%20Claim%202025%2001.pdf",
+            "final_url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200100%20Notice%20of%20Small%20Claim%202025%2001.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:03:56.532Z",
+            "etag": "\"d0c0d4f4d15adb1:0\"",
+            "last_modified": "Mon, 30 Dec 2024 15:46:13 GMT",
+            "content_length": "147985",
+            "sha256": "ed0d0baf7eb073c2f8aa342852611dfee05dced4aacf82fd372f2199d9bc6418",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "ed0d0baf7eb073c2f8aa342852611dfee05dced4aacf82fd372f2199d9bc6418",
+        "local_archive_path": "archive/2026-10-14-02/04-notice-of-small-claim-ed0d0baf7eb0.pdf",
+        "bytes": 147985,
+        "text_length": 2375,
+        "pages": 3,
+        "identity_excerpt": "RCW 12.40.020, .050. .060, .070 (01/2025) MISC 05.0100 Notice of Small Claim p. 1 of 3 District Court of Washington, County of __________________________________ PLAINTIFF’S NAME SMALL CLAIM NO. ADDRESS NOTICE OF SMALL CLAIMCITY STATE ZIP HOME PHONE NO. WORK PHONE NO. VS. DEFENDANT’S NAME DEFENDANT 2’S NAME ADDRESS ADDRESS CITY STATE ZIP CITY STATE ZIP PHONE NO. PHONE NO. Notice to the Defendant: The Plaintiff has filed a claim for money against you. The reasons are explained below. The Plaintiff claims you owe: $ in principal; and RCW 12.40.020, .050. .060, .070 (01/2025) MISC 05.0100 Notice of Small Claim p. 2 of 3 $ in interest; totaling $ . You must go to court: on: at a.m. p.m. Date Time at: in Court’s Address Room or Department Docket/calendar or judge/commissioner’s name This court hearing is for PRE-TRIAL TRIAL. Bring with you any and all papers, contracts, and proof needed by you to establish or defend this claim. You must bring any witnesses who will testify on your behalf to the trial. If you fail to personally appear as directed, a judgment may be entered against you for the amount claimed, plus Plaintiff’s costs of filing and service of the claim upon you. Plaintiff must appear for a judgment to be entered. If Plaintiff fails to appear, the claim may be dismissed. If this claim is settled prior to the hearing date, the parties must notify the court immediately, in writing. Clerk Small Claim No. STATEMENT OF CLAIM I, (Name) , declare that the defendant named above owes me the sum of $ in principal and $ in interest, which was due and owing on (Date) . The amount owed is for: Faulty Workmanship Merchandise Auto Damage - Accident Date Wages Loan Return of Deposit Rent Property Damage Other Explain reason for claim: RCW 12.40.020, .050. .060, .070 (01/2025) MIS",
+        "revision_evidence": [
+          "0.020, .050. .060, .070 (01/2025) MISC 05.0100 Notice of Small Claim p. 1 of 3 District Court of Washi",
+          "0.020, .050. .060, .070 (01/2025) MISC 05.0100 Notice of Small Claim p. 2 of 3 $ in interest; totaling",
+          "0.020, .050. .060, .070 (01/2025) MISC 05.0100 Notice of Small Claim p. 3 of 3 Military Service The fo"
+        ],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      },
+      {
+        "pattern": "MISC%2005%200200",
+        "title": "Small Claims Proof of Service",
+        "form_id": "MISC 05.0200",
+        "family_id": "small-claims-service",
+        "identity": "(?:CERTIFICATE|PROOF) OF SERVICE",
+        "max": 1,
+        "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200200%20SC%20-%20Proof%20of%20Service%202025%2001.pdf",
+        "link_text": "",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200200%20SC%20-%20Proof%20of%20Service%202025%2001.pdf",
+          "final_url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200200%20SC%20-%20Proof%20of%20Service%202025%2001.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:57.243Z",
+          "etag": "\"30dbcb1ed25adb1:0\"",
+          "last_modified": "Mon, 30 Dec 2024 15:47:24 GMT",
+          "content_length": "121396",
+          "sha256": "1f4d38eff43a6cf7aa4408213aececcf59afd844a943591bba15a47f6f995f71",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200200%20SC%20-%20Proof%20of%20Service%202025%2001.pdf",
+            "final_url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200200%20SC%20-%20Proof%20of%20Service%202025%2001.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:03:57.243Z",
+            "etag": "\"30dbcb1ed25adb1:0\"",
+            "last_modified": "Mon, 30 Dec 2024 15:47:24 GMT",
+            "content_length": "121396",
+            "sha256": "1f4d38eff43a6cf7aa4408213aececcf59afd844a943591bba15a47f6f995f71",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "1f4d38eff43a6cf7aa4408213aececcf59afd844a943591bba15a47f6f995f71",
+        "local_archive_path": "archive/2026-10-14-02/04-small-claims-proof-of-service-1f4d38eff43a.pdf",
+        "bytes": 121396,
+        "text_length": 1748,
+        "pages": 2,
+        "identity_excerpt": "RCW 12.40.040 (01/2025) MISC 05.0200 Certificate of Service p. 1 of 2 District Court of Washington, County of Plaintiff, vs. Defendant. No. ____________________ CERTIFICATE OF SERVICE I, (Name) declare that I am not the plaintiff, defendant, or a witness, and I served the Notice of Small Claim on: Name of Defendant Address Where Served Date of Service Defendant is a LLC, corporation, or other business entity. Title and Name of Person Served By: PERSONAL SERVICE I served the above by delivering a true copy to the defendant personally in ______________ County, State of Washington at the above address. SUBSTITUTE SERVICE I served the above by delivering a true copy to the defendant’s usual place of abode as listed above in County, State of Washington, and leaving it with a person over 12 years of age residing there, as follows: Name of Person Receiving a Copy Date of Service SERVICE BY MAIL (Attach to this form both the postal receipt and the return receipt signed by the defendant.) RCW 12.40.040 (01/2025) MISC 05.0200 Certificate of Service p. 2 of 2 I served the Notice by depositing in the United States Post Office in County, State of Washington, a true copy of the Notice enclosed in a sealed envelope having adequate postage and sent Certified or Registered Mail, Restricted Delivery, Return Receipt Requested, as follows: Address of Post Office Date Mailed Addressed to (Name of Defendant): Mailing Address of Defendant I declare under penalty of perjury that the foregoing is true and correct and that I was, at the time of service of the above notice(s), a resident of the State of Washington over the age of 18 years and not a party to the above-numbered claim. DATED: Signature of Server Server’s Phone No. Address of Server",
+        "revision_evidence": [
+          "RCW 12.40.040 (01/2025) MISC 05.0200 Certificate of Service p. 1 of 2 District Court of Wash",
+          "fendant.) RCW 12.40.040 (01/2025) MISC 05.0200 Certificate of Service p. 2 of 2 I served the Notice by"
+        ],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "",
+        "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200100%20Notice%20of%20Small%20Claim%202025%2001.pdf"
+      },
+      {
+        "text": "",
+        "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200200%20SC%20-%20Proof%20of%20Service%202025%2001.pdf"
+      },
+      {
+        "text": "",
+        "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%20300SC%20Order%20Dismiss%20Continue%202025%2001.pdf"
+      },
+      {
+        "text": "",
+        "url": "https://www.courts.wa.gov/forms/documents/MISC05_0500_SmallClaims%20Judgment%202025_01%2001.pdf"
+      }
+    ]
+  },
+  {
+    "state": "Montana",
+    "publisher": "Montana Judicial Branch",
+    "url": "https://courts.mt.gov/Forms/endoflife",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "(?:affidavit|aff).*?(?:personal|collection).*\\.pdf|(?:personal|collection).*?(?:affidavit|aff).*\\.pdf",
+        "title": "Affidavit for Collection of Personal Property of Decedent",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+        "max": 1
+      },
+      {
+        "pattern": "aff_of_death\\.pdf",
+        "title": "Affidavit of Death",
+        "family_id": "transfer-on-death-affidavit",
+        "identity": "AFFIDAVIT OF DEATH",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://courts.mt.gov/Forms/endoflife",
+      "final_url": "https://courts.mt.gov/Forms/endoflife",
+      "http_status": 200,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-14T09:03:55.910Z",
+      "etag": "\"26e73c75c2d1dc1:0\"",
+      "last_modified": "Tue, 21 Apr 2026 19:10:03 GMT",
+      "content_length": "9495",
+      "sha256": "2a1a0e7face28ebcf0b3256862110ef464d369604b5f495a03fda72881577cf1",
+      "title": "Wills - Trusts - Powers of Attorney - Estate Planning - Probate",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14-02/05-montana-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://courts.mt.gov/Forms/endoflife",
+        "final_url": "https://courts.mt.gov/Forms/endoflife",
+        "http_status": 200,
+        "content_type": "text/html",
+        "retrieved_at": "2026-10-14T09:03:55.910Z",
+        "etag": "\"26e73c75c2d1dc1:0\"",
+        "last_modified": "Tue, 21 Apr 2026 19:10:03 GMT",
+        "content_length": "9495",
+        "sha256": "2a1a0e7face28ebcf0b3256862110ef464d369604b5f495a03fda72881577cf1",
+        "title": "Wills - Trusts - Powers of Attorney - Estate Planning - Probate",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "(?:affidavit|aff).*?(?:personal|collection).*\\.pdf|(?:personal|collection).*?(?:affidavit|aff).*\\.pdf",
+        "title": "Affidavit for Collection of Personal Property of Decedent",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+        "max": 1,
+        "url": "https://www.montana.edu/estateplanning/affidavitforcollectionofpersonalpropertyforpdffillableform.pdf",
+        "link_text": "Affidavit for Collection of Personal Property of Decedent",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.montana.edu/estateplanning/affidavitforcollectionofpersonalpropertyforpdffillableform.pdf",
+          "final_url": "https://www.montana.edu/estateplanning/affidavitforcollectionofpersonalpropertyforpdffillableform.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:56.933Z",
+          "etag": null,
+          "last_modified": "Thu, 19 Sep 2024 21:14:26 GMT",
+          "content_length": "130551",
+          "sha256": "79ef6288b350b88e0a9f7054ddb276834d83d13f937466cabde34bd2c22d3628",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.montana.edu/estateplanning/affidavitforcollectionofpersonalpropertyforpdffillableform.pdf",
+            "final_url": "https://www.montana.edu/estateplanning/affidavitforcollectionofpersonalpropertyforpdffillableform.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:03:56.933Z",
+            "etag": null,
+            "last_modified": "Thu, 19 Sep 2024 21:14:26 GMT",
+            "content_length": "130551",
+            "sha256": "79ef6288b350b88e0a9f7054ddb276834d83d13f937466cabde34bd2c22d3628",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "79ef6288b350b88e0a9f7054ddb276834d83d13f937466cabde34bd2c22d3628",
+        "local_archive_path": "archive/2026-10-14-02/05-affidavit-for-collection-of-personal-property-of-decedent-79ef6288b350.pdf",
+        "bytes": 130551,
+        "text_length": 1444,
+        "pages": 1,
+        "identity_excerpt": "Affidavit for Collection of Personal Property of the Decedent STATE OF MONTANA County of Name of County Pursuant to Section §72-3-1101 Montana Code Annotated , after being first duly sworn, states that: Successor’s Name 1. died on Decedent’s Name Date of Death (M/D/YYYY) 2. The value of the decedent’s entire estate, wherever located, less liens and encumbrances, does not exceed $100,000. 3. Thirty (30) days have elapsed since the death of the decedent. (A certified death certificate accompanies this Affidavit.) 4. No application of petition for the appointment of a personal representative is pending or has been granted in any jurisdiction. 5. The claiming successor (affiant), , is entitled to the Successor’s Name decedent’s interest in the personal property, described as Describe asset: bank account number, insurance policy company number, or stock I have read the foregoing statements and affirm that all of the above are true. Successor’s (Affiant) Name State of Montana County of This instrument was signed before me on Date (M/D/YYYY) by Print name of successor (affiant) ____________________________________________________________________________________________ Signature of successor (affiant) Notary Signature [Montana notaries must complete the following, if not part of stamp.] Printed Name Notary Public for the State of Montana Residing at My Commission expires: , 20 Affix seal/stamp as close to signature as possible.",
+        "revision_evidence": [],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      },
+      {
+        "pattern": "aff_of_death\\.pdf",
+        "title": "Affidavit of Death",
+        "family_id": "transfer-on-death-affidavit",
+        "identity": "AFFIDAVIT OF DEATH",
+        "max": 1,
+        "url": "https://courts.mt.gov/external/library/forms/probate/aff_of_death.pdf",
+        "link_text": "Affidavit of Death",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://courts.mt.gov/external/library/forms/probate/aff_of_death.pdf",
+          "final_url": "https://courts.mt.gov/external/library/forms/probate/aff_of_death.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:57.584Z",
+          "etag": "\"0f83f429f63db1:0\"",
+          "last_modified": "Fri, 10 Jan 2025 20:36:00 GMT",
+          "content_length": "137809",
+          "sha256": "f39ed6a740e7ad72c4783ac5f1a1a63b30514b0227fd4e4a7a6ef0efc9fe15d8",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://courts.mt.gov/external/library/forms/probate/aff_of_death.pdf",
+            "final_url": "https://courts.mt.gov/external/library/forms/probate/aff_of_death.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:03:57.584Z",
+            "etag": "\"0f83f429f63db1:0\"",
+            "last_modified": "Fri, 10 Jan 2025 20:36:00 GMT",
+            "content_length": "137809",
+            "sha256": "f39ed6a740e7ad72c4783ac5f1a1a63b30514b0227fd4e4a7a6ef0efc9fe15d8",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "f39ed6a740e7ad72c4783ac5f1a1a63b30514b0227fd4e4a7a6ef0efc9fe15d8",
+        "local_archive_path": "archive/2026-10-14-02/05-affidavit-of-death-f39ed6a740e7.pdf",
+        "bytes": 137809,
+        "text_length": 4116,
+        "pages": 4,
+        "identity_excerpt": "Return To: ______________________ Address: ________________________ ________________________________ ________________________________ ________________________________ AFFIDAVIT OF DEATH I ______________________, [Name of Grantee Beneficiary], being first duly sworn, upon oath, depose and say the following: 1. _____________________________, [Name of Grantor/Decedent] signed and recorded a beneficiary deed with the intent to convey the following property located in _______________________ County, Montana described as follows: ________________________________________________________________ ________________________________________________________________ ________________________________________________________________ ________________________________________________________________ 2. The beneficiary deed was recorded in _________________________ County, Montana, on ______ day of ___________ 20____. Book _____ [number], Page ______ [number], or Instrument Number ________________________. 3. The grantor died on the _____ day of _______________ 20____. At the time of death, the grantor had not revoked the above described beneficiary deed. 4. The following person is the person named as the grantee beneficiary under the beneficiary deed described above, and is entitled to succeed to the grantor’s interest in the real property described above as a result of the grantor’s death: ________________________________, [Grantee Beneficiary’s Name] _________________________________ _________________________________ _________________________________ [Grantee Beneficiary’s Address] Dated this ______ day of __________________, 20____. ___________________________________ Affiant STATE OF MONTANA County of ____________________________ Signed and sworn to before me by ________________________",
+        "revision_evidence": [],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "Homestead Declaration",
+        "url": "https://courts.mt.gov/Forms/Homestead1.pdf"
+      },
+      {
+        "text": "Affidavit of Death",
+        "url": "https://courts.mt.gov/external/library/forms/probate/aff_of_death.pdf"
+      },
+      {
+        "text": "Affidavit for Collection of Personal Property of Decedent",
+        "url": "https://www.montana.edu/estateplanning/affidavitforcollectionofpersonalpropertyforpdffillableform.pdf"
+      },
+      {
+        "text": "Fiduciary Statement",
+        "url": "https://courts.mt.gov/external/library/forms/probate/fiduciary-statement.pdf"
+      },
+      {
+        "text": "Accessing A Deceased Person's Financial Accounts",
+        "url": "https://www.montana.edu/extension/montguides/montguidepdfsforstore/MT200301HR%20Accessing%20Deceased%20Persons%20Financials%20rev12.23.pdf"
+      },
+      {
+        "text": "Beneficiary Deeds in Montana",
+        "url": "https://www.montana.edu/extension/park/documents/Beneficiary%20Deeds.pdf"
+      },
+      {
+        "text": "Life Insurance - An Estate Planning Tool",
+        "url": "https://extension-store.montana.edu/assets/publications/montguidepdfs/mt199211hr_life_insurance_rev03.25.pdf"
+      },
+      {
+        "text": "Americans with Disabilities Act Public",
+        "url": "https://courts.mt.gov/external/docs/ada-judicial.pdf"
+      },
+      {
+        "text": "Privacy & Security",
+        "url": "http://mt.gov/1240-X06.pdf"
+      }
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "publisher": "Tennessee Health Facilities Commission",
+    "url": "https://www.tn.gov/hfc/health-care-decision-making.html",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "(?:advance|advanced).*directive.*\\.pdf",
+        "title": "Advance Directive for Health Care",
+        "family_id": "health-care-directive",
+        "identity": "ADVANCE DIRECTIVE",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.tn.gov/hfc/health-care-decision-making.html",
+      "final_url": "https://www.tn.gov/hfc/health-care-decision-making.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "retrieved_at": "2026-10-14T09:03:55.779Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": "12301",
+      "sha256": "e65a17ad6392827bea0b72f5586959f579e4081314d2f87fcd4653f6b33e0af4",
+      "title": "Resources and links for Healthcare Decision Making",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14-02/06-tennessee-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.tn.gov/hfc/health-care-decision-making.html",
+        "final_url": "https://www.tn.gov/hfc/health-care-decision-making.html",
+        "http_status": 200,
+        "content_type": "text/html;charset=utf-8",
+        "retrieved_at": "2026-10-14T09:03:55.779Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": "12301",
+        "sha256": "e65a17ad6392827bea0b72f5586959f579e4081314d2f87fcd4653f6b33e0af4",
+        "title": "Resources and links for Healthcare Decision Making",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "(?:advance|advanced).*directive.*\\.pdf",
+        "title": "Advance Directive for Health Care",
+        "family_id": "health-care-directive",
+        "identity": "ADVANCE DIRECTIVE",
+        "max": 1,
+        "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_for_Health_Care.pdf",
+        "link_text": "English",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_for_Health_Care.pdf",
+          "final_url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_for_Health_Care.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:56.309Z",
+          "etag": "\"1afdb-6052afa473580-gzip\"",
+          "last_modified": "Tue, 12 Sep 2023 15:20:06 GMT",
+          "content_length": null,
+          "sha256": "81fc44d9358335e9ed56963ce426db80f5acb28bc16417af737e869e739b7183",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_for_Health_Care.pdf",
+            "final_url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_for_Health_Care.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:03:56.309Z",
+            "etag": "\"1afdb-6052afa473580-gzip\"",
+            "last_modified": "Tue, 12 Sep 2023 15:20:06 GMT",
+            "content_length": null,
+            "sha256": "81fc44d9358335e9ed56963ce426db80f5acb28bc16417af737e869e739b7183",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "81fc44d9358335e9ed56963ce426db80f5acb28bc16417af737e869e739b7183",
+        "local_archive_path": "archive/2026-10-14-02/06-advance-directive-for-health-care-81fc44d93583.pdf",
+        "bytes": 110555,
+        "text_length": 6368,
+        "pages": 2,
+        "identity_excerpt": "PLEASE SIGN ON PAGE 2 Page 1 of 2 ADVANCE DIRECTIVE FOR HEALTH CARE* (Tennessee) I, ____________________________________, hereby give these advance instructions on how I want to be treated by my doctors and other health care providers when I can no longer make those treatment decisions myself. Part I Agent: I want the following person to make health care decisions for me. This includes any health care decision I could have made for myself if able, except that my agent must follow my instructions below: Name: Relation: Home Phone: Work Phone: Address: Mobile Phone: Other Phone: Alternate Agent: If the person named above is unable or unwilling to make health care decisions for me, I appoint as alternate the following person to make health care decisions for me. This includes any health care decision I could have made for myself if able, except that my agent must follow my instructions below: Name: Relation: Home Phone: Work Phone: Address: Mobile Phone: Other Phone: My agent is also my personal representative for purposes of federal and state privacy laws, including HIPAA. When Effective (mark one):  I give my agent permission to make health care decisions for me at any time, even if I have capacity to make decisions for myself.  I do not give such permission (this form applies only when I no longer have capacity). Part 2 Indicate Your Wishes for Quality of Life: By marking “yes” below, I have indicated conditions I would be willing to live with if given adequate comfort care and pain management. By marking “no” below, I have indicated conditions I would not be willing to live with (that to me would create an unacceptable quality of life).   Yes No Permanent Unconscious Condition: I become totally unaware of people or surroundings with little chance of ever waking up ",
+        "revision_evidence": [],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "Alert:  New Home health and hospice Certificate of Need applicants please review the attached link of the (CMS) enacted 6-month nationwide moratorium temporarily halting the processing of initial Medicare enrollment applications for new Home Health Agencies (HHAs) and hospices effective May 20, 2026. (Click on This Banner)",
+        "url": "https://www.cms.gov/files/document/qso-26-11-hha-hospice-original-release-2026-05-20.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_for_Health_Care.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_Form_2014_v2-2017_Spanish-2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.tn.gov/content/dam/tn/hfc/documents/PH-4269.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.tn.gov/content/dam/tn/hfc/documents/PH-4269S.pdf"
+      },
+      {
+        "text": "POST",
+        "url": "https://www.tn.gov/content/dam/tn/hfc/documents/POST_Form_FAQ.pdf"
+      },
+      {
+        "text": "Appointment of Surrogate",
+        "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Surrogate_Form_FAQ.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Post_Form.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Spanish_Version_of_POST_Form.pdf"
+      }
+    ]
+  }
+]

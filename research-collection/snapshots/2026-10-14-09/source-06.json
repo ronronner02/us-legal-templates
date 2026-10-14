@@ -1,0 +1,898 @@
+{
+  "state": "Missouri",
+  "publisher": "Missouri Seventh Judicial Circuit",
+  "url": "https://www.circuit7.net/civil/Index",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": "/108\\.pdf",
+      "title": "Petition of Landlord for Recovery of Possession for Non-Payment of Rent",
+      "family_id": "eviction-petition",
+      "identity": "PETITION OF LANDLORD.*RECOVERY"
+    },
+    {
+      "pattern": "/GN10\\.pdf",
+      "title": "Motion and Affidavit to Proceed as a Poor Person",
+      "family_id": "court-fee-waiver",
+      "identity": "MOTION AND AFFIDAVIT.*POOR PERSON"
+    }
+  ],
+  "jurisdiction": "Missouri; Seventh Judicial Circuit, Clay County",
+  "flags": [
+    "local-circuit-scope"
+  ],
+  "source": {
+    "url": "https://www.circuit7.net/civil/Index",
+    "final_url": "https://www.circuit7.net/civil/Index",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:58:52.066Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": "18275",
+    "sha256": "23d8243ad53c2618029cfa179f29e5898b12e4fff57cb2c80aae5846b295b814",
+    "title": "Circuit Civil Department",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-09/06-missouri-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.circuit7.net/civil/Index",
+      "final_url": "https://www.circuit7.net/civil/Index",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:58:52.066Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": "18275",
+      "sha256": "23d8243ad53c2618029cfa179f29e5898b12e4fff57cb2c80aae5846b295b814",
+      "title": "Circuit Civil Department",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "/108\\.pdf",
+      "title": "Petition of Landlord for Recovery of Possession for Non-Payment of Rent",
+      "family_id": "eviction-petition",
+      "identity": "PETITION OF LANDLORD.*RECOVERY",
+      "url": "https://www.circuit7.net/civil/forms/108.pdf",
+      "link_text": "",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.circuit7.net/civil/forms/108.pdf",
+        "final_url": "https://www.circuit7.net/civil/forms/108.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:58:52.858Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": "91437",
+        "sha256": "5097ca60df06d6a6c0911d2b1faed67596938245626106d422b3550f15309e61",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.circuit7.net/civil/forms/108.pdf",
+          "final_url": "https://www.circuit7.net/civil/forms/108.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:58:52.858Z",
+          "etag": null,
+          "last_modified": null,
+          "content_length": "91437",
+          "sha256": "5097ca60df06d6a6c0911d2b1faed67596938245626106d422b3550f15309e61",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "5097ca60df06d6a6c0911d2b1faed67596938245626106d422b3550f15309e61",
+      "local_archive_path": "archive/2026-10-14-09/06-petition-of-landlord-for-recovery-of-possession-for-non-payment-of-rent-5097ca60df06.pdf",
+      "bytes": 91437,
+      "text_length": 1963,
+      "pages": 2,
+      "identity_excerpt": "Form 108, 6/2015 Page 1 of 2 IN THE CIRCUIT COURT OF CLAY COUNTY, MISSOURI ) Plaintiff(s) ) ) ) ) ) Address ) ) ) Telephone ) ) Case No. vs ) ) Division No. ) Defendant(s) ) ) ) ) ) Address ) ) ) Telephone ) Petition of Landlord for Recovery of Possession for Non-Payment of Rent 1. Plaintiff is the owner of real estate located in Clay County, Missouri. The address of the property is . 2. Defendant(s) rent(s) this property from the Plaintiff(s) under a month to month tenancy and the agreed monthly rental amount is $____________________, payable on the __________ day of each month. 3. There is now unpaid rent due and owing in the amount of $____________________ as of today’s date. Late fees are due in the amount of $____________________ (if applicable). 4. The Plaintiff(s) demanded from Defendant(s) payment of the unpaid rent, but Defendant(s) have failed and refused to pay all or part of the rent. 5. Rent continues to become due each new month after this filing, and Plaintiff(s) requests continuing rent due. WHEREFORE, the Plaintiff prays for judgment for the rent due and owing from each Defendant, and for the immediate possession of the property set forth above, and for Plaintiff(s) costs. (Plaintiff sign here) Form 108, 6/2015 Page 2 of 2 State of Missouri ) ) ss. County of Clay ) __________________________________________________, plaintiff(s) herein (or agent of the plaintiff herein who is duly authorized to make this affidavit and file this statement), being first duly sworn, deposes and states that plaintiff has read over the foregoing petition and the facts stated therein are true. (Plaintiff or authorized agent sign here) Subscribed and sworn to before me this _____________ day of ________________________, 20____. JO ELLEN BEHRMAN Circuit Clerk By Deputy Clerk NO",
+      "revision_evidence": [
+        "Form 108, 6/2015 Page 1 of 2 IN THE CIRCUIT COURT OF CLAY COUNTY, MISSOURI ) Plaintiff",
+        "iff sign here) Form 108, 6/2015 Page 2 of 2 State of Missouri ) ) ss. County of Clay ) ______________"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "/GN10\\.pdf",
+      "title": "Motion and Affidavit to Proceed as a Poor Person",
+      "family_id": "court-fee-waiver",
+      "identity": "MOTION AND AFFIDAVIT.*POOR PERSON",
+      "url": "https://www.circuit7.net/general/forms/GN10.pdf",
+      "link_text": "",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.circuit7.net/general/forms/GN10.pdf",
+        "final_url": "https://www.circuit7.net/general/forms/GN10.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:58:54.473Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": "51671",
+        "sha256": "f27c08d9bcbfba8dea814fe312efd3d308b0a5076dfc9fc19ec7fc00f6ab1dfd",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.circuit7.net/general/forms/GN10.pdf",
+          "final_url": "https://www.circuit7.net/general/forms/GN10.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:58:54.473Z",
+          "etag": null,
+          "last_modified": null,
+          "content_length": "51671",
+          "sha256": "f27c08d9bcbfba8dea814fe312efd3d308b0a5076dfc9fc19ec7fc00f6ab1dfd",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "f27c08d9bcbfba8dea814fe312efd3d308b0a5076dfc9fc19ec7fc00f6ab1dfd",
+      "local_archive_path": "archive/2026-10-14-09/06-motion-and-affidavit-to-proceed-as-a-poor-person-f27c08d9bcbf.pdf",
+      "bytes": 51671,
+      "text_length": 3069,
+      "pages": 2,
+      "identity_excerpt": "CLAY (11/18/2015) GN10 1 of 2 Rule 77.03, Section 514.040 RSMo IN THE 7TH JUDICIAL CIRCUIT COURT, CLAY COUNTY, MISSOURI Judge or Division: Case Number: (Date File Stamp) Petitioner: Petitioner’s Address/Telephone: VS. Respondent: Respondent’s Address/Telephone: Motion and Affidavit in Support of Request to Proceed As a Poor Person Marital Status: If Married, Spouse’s name: Number of dependents: (Include Spouse’s Income and Expenses if Married) Monthly Income Monthly Expenses Gross salary (before deductions) $ __________________ Mortgage Rent Payment $ _______________ Public assistance $ __________________ Utilities $ _______________ Retirement/Pension $ __________________ Food $ _______________ Social Security $ __________________ Payment on debts & credit cards $ _______________ Child Support $ __________________ Child Support $ _______________ Maintenance $ __________________ Maintenance $ _______________ Other income to be considered $ __________________ Medical expenses to be considered $ _______________ __________________________ ____________________________ Total Monthly Income $ __________________ Total Monthly Expenses $ _______________ Assets Debts Cash on Hand $ ______________ Home loan balance $ _______________ Bank Accounts: Automobile loan(s) $ _______________ Checking $ ______________ Credit card balance(s) $ _______________ Savings $ ______________ Other debts to be considered Approximate value of home $ ______________ ______________________ $ _______________ And/or other real estate $ ______________ ______________________ $ _______________ Approximate value of automobile(s) $ ______________ ______________________ $ _______________ (1) yr/make ______________ ______________________ $ _______________ (2) yr/make ______________ ______________________ $ _____",
+      "revision_evidence": [
+        "CLAY (11/18/2015) GN10 1 of 2 Rule 77.03, Section 514.040 RSMo IN THE 7TH JUDICIAL CIR",
+        "ate Your Signature CLAY (11/18/2015) GN10 2 of 2 Rule 77.03, Section 514.040 RSMo Order to Proceed a"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Log In",
+      "url": "https://www.circuit7.net/account/login?ReturnUrl=%2Fcivil%2FIndex"
+    },
+    {
+      "text": "Create Account",
+      "url": "https://www.circuit7.net/account/create"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/"
+    },
+    {
+      "text": "7th Judicial Circuit Court,\n                            Clay County, Missouri",
+      "url": "https://www.circuit7.net/"
+    },
+    {
+      "text": "Adult Abuse/Stalking",
+      "url": "https://www.circuit7.net/adultprotection"
+    },
+    {
+      "text": "Bail Bonds",
+      "url": "https://www.circuit7.net/BailBond"
+    },
+    {
+      "text": "Jury",
+      "url": "https://www.circuit7.net/juryfaq"
+    },
+    {
+      "text": "Landlord/Tenant",
+      "url": "https://www.circuit7.net/landlord"
+    },
+    {
+      "text": "Links",
+      "url": "https://www.circuit7.net/general/LinkIndex"
+    },
+    {
+      "text": "Location and Parking",
+      "url": "https://www.circuit7.net/location"
+    },
+    {
+      "text": "Missouri Revised Statutes",
+      "url": "http://www.revisor.mo.gov/main/Home.aspx"
+    },
+    {
+      "text": "Missouri Courts",
+      "url": "https://www.courts.mo.gov/"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://www.circuit7.net/SmallClaims"
+    },
+    {
+      "text": "Circuit Clerk",
+      "url": "https://www.circuit7.net/circuitclerk"
+    },
+    {
+      "text": "Circuit Court",
+      "url": "https://www.circuit7.net/circuitcourt"
+    },
+    {
+      "text": "Family Court Services& Office of Dispute Resolution Services",
+      "url": "https://www.circuit7.net/fcs"
+    },
+    {
+      "text": "Oficina de Asuntos de Familia",
+      "url": "https://www.circuit7.net/fcs/index-es"
+    },
+    {
+      "text": "Juvenile",
+      "url": "https://www.circuit7.net/juvenile"
+    },
+    {
+      "text": "Parenting Court",
+      "url": "https://www.circuit7.net/ParentingCourt"
+    },
+    {
+      "text": "Prosecuting Attorney",
+      "url": "https://www.circuit7.net/prosecutingattorney"
+    },
+    {
+      "text": "Public Administrator",
+      "url": "https://www.circuit7.net/pubadmin"
+    },
+    {
+      "text": "Treatment Court",
+      "url": "https://www.circuit7.net/treatmentcourt"
+    },
+    {
+      "text": "Criminal Restitution Inquiry\n                                                (For Probation Agencies)",
+      "url": "https://www.circuit7.net/criminalrestitution"
+    },
+    {
+      "text": "eDiscovery\n                                                (For Attorneys)",
+      "url": "https://www.circuit7.net/ediscovery"
+    },
+    {
+      "text": "About eDiscovery",
+      "url": "https://www.circuit7.net/EDiscoveryAbout"
+    },
+    {
+      "text": "Arrest Warrants",
+      "url": "https://www.circuit7.net/arrestwarrant"
+    },
+    {
+      "text": "Phone Court Orders",
+      "url": "https://www.circuit7.net/historicalphonecourtorders"
+    },
+    {
+      "text": "Search Warrants",
+      "url": "https://www.circuit7.net/searchwarrant"
+    },
+    {
+      "text": "Parent Orientation Program",
+      "url": "https://www.circuit7.net/fcs/Cope-Orientation-Programs"
+    },
+    {
+      "text": "All",
+      "url": "https://www.circuit7.net/courtforms"
+    },
+    {
+      "text": "Accounting",
+      "url": "https://www.circuit7.net/courtforms?formName=&OfficeCode=BK"
+    },
+    {
+      "text": "Civil",
+      "url": "https://www.circuit7.net/courtforms?formName=&OfficeCode=CIV"
+    },
+    {
+      "text": "Criminal",
+      "url": "https://www.circuit7.net/courtforms?formName=&OfficeCode=CRI"
+    },
+    {
+      "text": "Family Court",
+      "url": "https://www.circuit7.net/courtforms?formName=&OfficeCode=FMC"
+    },
+    {
+      "text": "Probate",
+      "url": "https://www.circuit7.net/courtforms?formName=&OfficeCode=PRO"
+    },
+    {
+      "text": "Traffic",
+      "url": "https://www.circuit7.net/courtforms?formName=&OfficeCode=TRA"
+    },
+    {
+      "text": "Circuit Clerk",
+      "url": "https://www.circuit7.net/circuitclerk/Index"
+    },
+    {
+      "text": "Team Leads",
+      "url": "https://www.circuit7.net/teamleads"
+    },
+    {
+      "text": "Accounting",
+      "url": "https://www.circuit7.net/accounting"
+    },
+    {
+      "text": "Child Support",
+      "url": "https://www.circuit7.net/childsupport"
+    },
+    {
+      "text": "Civil",
+      "url": "https://www.circuit7.net/civil"
+    },
+    {
+      "text": "Criminal",
+      "url": "https://www.circuit7.net/criminal"
+    },
+    {
+      "text": "Probate",
+      "url": "https://www.circuit7.net/probate/Index"
+    },
+    {
+      "text": "Records Retention",
+      "url": "https://www.circuit7.net/records"
+    },
+    {
+      "text": "Traffic",
+      "url": "https://www.circuit7.net/traffic"
+    },
+    {
+      "text": "Case.net",
+      "url": "https://www2.courts.mo.gov/casenet/base/welcome.do?"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://www.circuit7.net/SmallClaims"
+    },
+    {
+      "text": "Missouri Revisor of Statutes - Revised Statutes of Missouri, RSMo Section 484.020",
+      "url": "https://revisor.mo.gov/main/OneSection.aspx?section=484.020"
+    },
+    {
+      "text": "Court Operating Rule 25 | Services by Court Clerks and Staff in Family Law Cases",
+      "url": "https://www.courts.mo.gov/page.jsp?id=50975"
+    },
+    {
+      "text": "Number",
+      "url": "https://www.circuit7.net/civil?order=number"
+    },
+    {
+      "text": "Title",
+      "url": "https://www.circuit7.net/civil?order=title_desc"
+    },
+    {
+      "text": "Last Revised",
+      "url": "https://www.circuit7.net/civil?order=lastrevised"
+    },
+    {
+      "text": "",
+      "url": "http://www.courts.mo.gov/file.jsp?id=537"
+    },
+    {
+      "text": "AA40",
+      "url": "http://www.courts.mo.gov/file.jsp?id=537"
+    },
+    {
+      "text": "Adult Abuse/Stalking Petition for Order of Protection",
+      "url": "http://www.courts.mo.gov/file.jsp?id=537"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=198854"
+    },
+    {
+      "text": "CV50",
+      "url": "https://www.courts.mo.gov/file.jsp?id=198854"
+    },
+    {
+      "text": "Application for Trial De Novo",
+      "url": "https://www.courts.mo.gov/file.jsp?id=198854"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/civil/forms/CV410.pdf"
+    },
+    {
+      "text": "CV410",
+      "url": "https://www.circuit7.net/civil/forms/CV410.pdf"
+    },
+    {
+      "text": "Application to Release Funds from Restriction",
+      "url": "https://www.circuit7.net/civil/forms/CV410.pdf"
+    },
+    {
+      "text": "",
+      "url": "http://www.courts.mo.gov/file.jsp?id=411"
+    },
+    {
+      "text": "Case Types List",
+      "url": "http://www.courts.mo.gov/file.jsp?id=411"
+    },
+    {
+      "text": "",
+      "url": "https://health.mo.gov/data/vitalrecords/forms/Dissolution_of_marriage.pdf"
+    },
+    {
+      "text": "Certificate of Dissolution of Marriage",
+      "url": "https://health.mo.gov/data/vitalrecords/forms/Dissolution_of_marriage.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/civil_supplement.pdf"
+    },
+    {
+      "text": "Civil Case Information Form Supplement",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/civil_supplement.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=161314"
+    },
+    {
+      "text": "FI-50",
+      "url": "https://www.courts.mo.gov/file.jsp?id=161314"
+    },
+    {
+      "text": "Confidential Case Filing Information Sheet -  Probate and Non-Domestic Relations",
+      "url": "https://www.courts.mo.gov/file.jsp?id=161314"
+    },
+    {
+      "text": "",
+      "url": "http://www.courts.mo.gov/file.jsp?id=34053"
+    },
+    {
+      "text": "FI-10",
+      "url": "http://www.courts.mo.gov/file.jsp?id=34053"
+    },
+    {
+      "text": "Confidential Case Filing Information Sheet - Domestic Relations Cases",
+      "url": "http://www.courts.mo.gov/file.jsp?id=34053"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=34054"
+    },
+    {
+      "text": "FI-15",
+      "url": "https://www.courts.mo.gov/file.jsp?id=34054"
+    },
+    {
+      "text": "Confidential Case Filing Information Sheet - Domestic Relations Cases - Adult Abuse/Stalking",
+      "url": "https://www.courts.mo.gov/file.jsp?id=34054"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=735"
+    },
+    {
+      "text": "SC10",
+      "url": "https://www.courts.mo.gov/file.jsp?id=735"
+    },
+    {
+      "text": "Counterclaim Small Claims Court",
+      "url": "https://www.courts.mo.gov/file.jsp?id=735"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/civil/forms/CV1000.docx"
+    },
+    {
+      "text": "CV1000",
+      "url": "https://www.circuit7.net/civil/forms/CV1000.docx"
+    },
+    {
+      "text": "Dismissal - Associate Court",
+      "url": "https://www.circuit7.net/civil/forms/CV1000.docx"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=736"
+    },
+    {
+      "text": "SC30",
+      "url": "https://www.courts.mo.gov/file.jsp?id=736"
+    },
+    {
+      "text": "Dismissal - Small Claims Court",
+      "url": "https://www.courts.mo.gov/file.jsp?id=736"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/documents/circuitclerk/entry-of-appearance.pdf"
+    },
+    {
+      "text": "511",
+      "url": "https://www.circuit7.net/documents/circuitclerk/entry-of-appearance.pdf"
+    },
+    {
+      "text": "Entry of Appearance",
+      "url": "https://www.circuit7.net/documents/circuitclerk/entry-of-appearance.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=104655"
+    },
+    {
+      "text": "CV91",
+      "url": "https://www.courts.mo.gov/file.jsp?id=104655"
+    },
+    {
+      "text": "Execution Application and Order",
+      "url": "https://www.courts.mo.gov/file.jsp?id=104655"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=104656"
+    },
+    {
+      "text": "CV92",
+      "url": "https://www.courts.mo.gov/file.jsp?id=104656"
+    },
+    {
+      "text": "Execution/Garnishment/Sequestration Application and Order",
+      "url": "https://www.courts.mo.gov/file.jsp?id=104656"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_form17.pdf"
+    },
+    {
+      "text": "17",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_form17.pdf"
+    },
+    {
+      "text": "Family Court Information Sheet (Form 17)",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_form17.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/Interrogatories.docx"
+    },
+    {
+      "text": "Guidelines for Interrogatories",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/Interrogatories.docx"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/civil/documents/Notice-of-Parent-Orientation-Flyer.pdf"
+    },
+    {
+      "text": "In Your Child's Best Interest Flyer",
+      "url": "https://www.circuit7.net/civil/documents/Notice-of-Parent-Orientation-Flyer.pdf"
+    },
+    {
+      "text": "",
+      "url": "http://www.courts.mo.gov/file.jsp?id=1783"
+    },
+    {
+      "text": "In Your Child's Best Interest Handbook",
+      "url": "http://www.courts.mo.gov/file.jsp?id=1783"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/civil/forms/t_plan_order.pdf"
+    },
+    {
+      "text": "In Your Child's Best Interest Parenting Plan Order",
+      "url": "https://www.circuit7.net/civil/forms/t_plan_order.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=101756"
+    },
+    {
+      "text": "CV110",
+      "url": "https://www.courts.mo.gov/file.jsp?id=101756"
+    },
+    {
+      "text": "Interrogatories to Garnishee",
+      "url": "https://www.courts.mo.gov/file.jsp?id=101756"
+    },
+    {
+      "text": "",
+      "url": "http://www.courts.mo.gov/file.jsp?id=82673"
+    },
+    {
+      "text": "CV96",
+      "url": "http://www.courts.mo.gov/file.jsp?id=82673"
+    },
+    {
+      "text": "Judgment Debtor's Claim for Exemption",
+      "url": "http://www.courts.mo.gov/file.jsp?id=82673"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=528"
+    },
+    {
+      "text": "GN130",
+      "url": "https://www.courts.mo.gov/file.jsp?id=528"
+    },
+    {
+      "text": "Mechanics' / Materialmen's Lien",
+      "url": "https://www.courts.mo.gov/file.jsp?id=528"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/general/forms/GN10.pdf"
+    },
+    {
+      "text": "GN10",
+      "url": "https://www.circuit7.net/general/forms/GN10.pdf"
+    },
+    {
+      "text": "Motion and Affidavit in Support of Request to Proceed As a Poor Person",
+      "url": "https://www.circuit7.net/general/forms/GN10.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_form112.pdf"
+    },
+    {
+      "text": "112",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_form112.pdf"
+    },
+    {
+      "text": "Motion for Order Appointing Special Process Server",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_form112.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_form163.pdf"
+    },
+    {
+      "text": "163",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_form163.pdf"
+    },
+    {
+      "text": "Motion for Order to Post / Order for Posting (Rent & Possession)",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_form163.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=34370"
+    },
+    {
+      "text": "CV145",
+      "url": "https://www.courts.mo.gov/file.jsp?id=34370"
+    },
+    {
+      "text": "Motion To Vacate, Set Aside Or Correct The Judgment Or Sentence *** FOR CRIMINAL JUDGMENTS ONLY ***",
+      "url": "https://www.courts.mo.gov/file.jsp?id=34370"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=108694"
+    },
+    {
+      "text": "Notice of Appeal - Civil",
+      "url": "https://www.courts.mo.gov/file.jsp?id=108694"
+    },
+    {
+      "text": "",
+      "url": "http://www.selfrepresent.mo.gov/file.jsp?id=30788"
+    },
+    {
+      "text": "CAFC501",
+      "url": "http://www.selfrepresent.mo.gov/file.jsp?id=30788"
+    },
+    {
+      "text": "Parenting Plan",
+      "url": "http://www.selfrepresent.mo.gov/file.jsp?id=30788"
+    },
+    {
+      "text": "",
+      "url": "http://www.courts.mo.gov/file.jsp?id=491"
+    },
+    {
+      "text": "Party Types List",
+      "url": "http://www.courts.mo.gov/file.jsp?id=491"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=660"
+    },
+    {
+      "text": "CV310",
+      "url": "https://www.courts.mo.gov/file.jsp?id=660"
+    },
+    {
+      "text": "Petition for Establishing Record of Birth",
+      "url": "https://www.courts.mo.gov/file.jsp?id=660"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_cr145.pdf"
+    },
+    {
+      "text": "CR145",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_cr145.pdf"
+    },
+    {
+      "text": "Petition for Expungement of Arrest Records",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_cr145.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=657"
+    },
+    {
+      "text": "CV135",
+      "url": "https://www.courts.mo.gov/file.jsp?id=657"
+    },
+    {
+      "text": "Petition for Review of a SATOP Assessment Assignment Recommendation",
+      "url": "https://www.courts.mo.gov/file.jsp?id=657"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/civil/forms/108.pdf"
+    },
+    {
+      "text": "108",
+      "url": "https://www.circuit7.net/civil/forms/108.pdf"
+    },
+    {
+      "text": "Petition of Landlord for Recovery of Possession for Non-Payment of Rent",
+      "url": "https://www.circuit7.net/civil/forms/108.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=706"
+    },
+    {
+      "text": "SC40",
+      "url": "https://www.courts.mo.gov/file.jsp?id=706"
+    },
+    {
+      "text": "Petition Small Claims Court",
+      "url": "https://www.courts.mo.gov/file.jsp?id=706"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_form162.pdf"
+    },
+    {
+      "text": "162",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_form162.pdf"
+    },
+    {
+      "text": "Request for Alias Summons",
+      "url": "https://www.circuit7.net/documents/circuitclerk/civil/t_form162.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/circuitcourt/forms/Request-for-Interpreter.pdf"
+    },
+    {
+      "text": "Request for Interpreter/Translator",
+      "url": "https://www.circuit7.net/circuitcourt/forms/Request-for-Interpreter.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=10060"
+    },
+    {
+      "text": "CV250",
+      "url": "https://www.courts.mo.gov/file.jsp?id=10060"
+    },
+    {
+      "text": "Satisfaction of Judgment",
+      "url": "https://www.courts.mo.gov/file.jsp?id=10060"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=737"
+    },
+    {
+      "text": "SC60",
+      "url": "https://www.courts.mo.gov/file.jsp?id=737"
+    },
+    {
+      "text": "Satisfaction of Judgment - Small Claims Court",
+      "url": "https://www.courts.mo.gov/file.jsp?id=737"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=114399"
+    },
+    {
+      "text": "CAFC050",
+      "url": "https://www.courts.mo.gov/file.jsp?id=114399"
+    },
+    {
+      "text": "Statement of Income & Expenses",
+      "url": "https://www.courts.mo.gov/file.jsp?id=114399"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.mo.gov/file.jsp?id=114399"
+    },
+    {
+      "text": "CAFC050",
+      "url": "https://www.courts.mo.gov/file.jsp?id=114399"
+    },
+    {
+      "text": "Statement of Marital and Non-Marital Assets and Debts",
+      "url": "https://www.courts.mo.gov/file.jsp?id=114399"
+    },
+    {
+      "text": "",
+      "url": "https://www.circuit7.net/criminal/forms/CR190.pdf"
+    },
+    {
+      "text": "CR190",
+      "url": "https://www.circuit7.net/criminal/forms/CR190.pdf"
+    },
+    {
+      "text": "Subpoena - Order to Appear / Produce Documents / Give Depositions",
+      "url": "https://www.circuit7.net/criminal/forms/CR190.pdf"
+    },
+    {
+      "text": "Missouri Courts website",
+      "url": "https://www.courts.mo.gov/page.jsp?id=638"
+    },
+    {
+      "text": "Landlord/tenant",
+      "url": "https://www.circuit7.net/landlord"
+    },
+    {
+      "text": "Small claims",
+      "url": "https://www.circuit7.net/smallclaims"
+    },
+    {
+      "text": "Filing Deposits and Other Fees",
+      "url": "https://www.circuit7.net/circuitclerk/fees"
+    },
+    {
+      "text": "James S. Rooney Justice Center",
+      "url": "https://www.circuit7.net/location"
+    },
+    {
+      "text": "Holidays",
+      "url": "https://www.circuit7.net/holidays"
+    },
+    {
+      "text": "Contacts",
+      "url": "https://www.circuit7.net/contacts.aspx"
+    },
+    {
+      "text": "Privacy Statement",
+      "url": "https://www.circuit7.net/general/privacy-statement.aspx"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/SeventhJudicialCircuit"
+    },
+    {
+      "text": "Other Links",
+      "url": "https://www.circuit7.net/general/links.aspx"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.circuit7.net/"
+    },
+    {
+      "text": "Top",
+      "url": "https://www.circuit7.net/civil/Index#pageTop"
+    },
+    {
+      "text": "Public Records",
+      "url": "https://www.circuit7.net/general/public-access.aspx"
+    },
+    {
+      "text": "Contacts",
+      "url": "https://www.circuit7.net/contacts"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.circuit7.net/general/privacy-statement.aspx"
+    },
+    {
+      "text": "Feedback",
+      "url": "https://www.circuit7.net/general/feedback.aspx"
+    }
+  ]
+}

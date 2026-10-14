@@ -1,0 +1,4520 @@
+[
+  {
+    "state": "Utah",
+    "publisher": "Utah State Courts",
+    "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "Affidavit for Collecting Personal Property",
+        "title": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+        "family_id": "small-estate-affidavit",
+        "identity": "Affidavit for Collecting Personal Property",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+      "final_url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "retrieved_at": "2026-10-14T09:12:09.030Z",
+      "etag": "W/\"234d2-65dc92b527650-gzip\"",
+      "last_modified": "Wed, 14 Oct 2026 09:00:56 GMT",
+      "content_length": "21014",
+      "sha256": "7d5a7f8261680d22fa57fe88b363a701b07283ea76957fa43d6c8c66b93dd2b8",
+      "title": "Informal Probate",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14-05/01-utah-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+        "final_url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+        "http_status": 200,
+        "content_type": "text/html;charset=utf-8",
+        "retrieved_at": "2026-10-14T09:12:09.030Z",
+        "etag": "W/\"234d2-65dc92b527650-gzip\"",
+        "last_modified": "Wed, 14 Oct 2026 09:00:56 GMT",
+        "content_length": "21014",
+        "sha256": "7d5a7f8261680d22fa57fe88b363a701b07283ea76957fa43d6c8c66b93dd2b8",
+        "title": "Informal Probate",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "Affidavit for Collecting Personal Property",
+        "title": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+        "family_id": "small-estate-affidavit",
+        "identity": "Affidavit for Collecting Personal Property",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "More Info",
+        "url": "https://www.utcourts.gov/content/dam/alerts/docs/Court-Scams-Info.pdf"
+      },
+      {
+        "text": "",
+        "url": "https://www.utcourts.gov/en.html"
+      },
+      {
+        "text": "",
+        "url": "https://www.utcourts.gov/en.html"
+      },
+      {
+        "text": "Find out more",
+        "url": "https://www.utcourts.gov/en/about.html"
+      },
+      {
+        "text": "Governing Boards and Committees",
+        "url": "https://www.utcourts.gov/en/about/administration/committees.html"
+      },
+      {
+        "text": "Judicial Council",
+        "url": "https://www.utcourts.gov/en/about/administration/judicial-council.html"
+      },
+      {
+        "text": "Strategic Plan",
+        "url": "https://www.utcourts.gov/content/dam/about/admin/USC-Strategic-Plan.pdf"
+      },
+      {
+        "text": "Alerts, Policies, and Information",
+        "url": "https://www.utcourts.gov/en/about/administration/alerts.html"
+      },
+      {
+        "text": "Privacy Policy",
+        "url": "https://www.utcourts.gov/privacy.html"
+      },
+      {
+        "text": "Jobs with the Courts / Employment Opportunities",
+        "url": "https://www.utcourts.gov/en/careers/careers/jobs.html"
+      },
+      {
+        "text": "Contact Information",
+        "url": "https://www.utcourts.gov/directory.html"
+      },
+      {
+        "text": "Find a Judicial Officer or Employee",
+        "url": "https://www.utcourts.gov/en/about/miscellaneous/directory/court-details.html"
+      },
+      {
+        "text": "Accessibility Information",
+        "url": "https://www.utcourts.gov/en/about/miscellaneous/ada.html"
+      },
+      {
+        "text": "CASA Program",
+        "url": "https://www.utcourts.gov/en/about/miscellaneous/casa.html"
+      },
+      {
+        "text": "Utah Office of Guardian ad Litem",
+        "url": "https://www.utcourts.gov/gal.html"
+      },
+      {
+        "text": "Utah State Law Library",
+        "url": "https://www.utcourts.gov/law-library.html"
+      },
+      {
+        "text": "Volunteer Opportunities",
+        "url": "https://www.utcourts.gov/en/about/miscellaneous/volunteers.html"
+      },
+      {
+        "text": "Legal Community",
+        "url": "https://www.utcourts.gov/en/about/miscellaneous/legal-community.html"
+      },
+      {
+        "text": "Mediation / Arbitration",
+        "url": "https://www.utcourts.gov/mediation.html"
+      },
+      {
+        "text": "General Court Information",
+        "url": "https://www.utcourts.gov/en/about/miscellaneous/general-court-information.html"
+      },
+      {
+        "text": "School Resources",
+        "url": "https://www.utcourts.gov/en/about/miscellaneous/schools.html"
+      },
+      {
+        "text": "Grand Jury Schedule",
+        "url": "https://www.utcourts.gov/en/about/miscellaneous/grand-jury.html"
+      },
+      {
+        "text": "Appellate Courts",
+        "url": "https://www.utcourts.gov/en/courts/court-types/appellate-courts.html"
+      },
+      {
+        "text": "Supreme Court",
+        "url": "https://www.utcourts.gov/en/courts/court-types/appellate-courts/sup.html"
+      },
+      {
+        "text": "Court of Appeals",
+        "url": "https://www.utcourts.gov/en/courts/court-types/appellate-courts/coa.html"
+      },
+      {
+        "text": "District Courts",
+        "url": "https://www.utcourts.gov/courts/dist.html"
+      },
+      {
+        "text": "Juvenile Courts",
+        "url": "https://www.utcourts.gov/juv.html"
+      },
+      {
+        "text": "Justice Courts",
+        "url": "https://www.utcourts.gov/en/courts/court-types/just.html"
+      },
+      {
+        "text": "Business and Chancery Court",
+        "url": "https://www.utcourts.gov/about/courts/bcc.html"
+      },
+      {
+        "text": "Problem Solving Courts",
+        "url": "https://www.utcourts.gov/psc"
+      },
+      {
+        "text": "Court Organization, Judges, Court Governance",
+        "url": "https://www.utcourts.gov/en/courts/other-court-info/knowcts.html"
+      },
+      {
+        "text": "Utah Appellate Courts Pending Opinions Release",
+        "url": "https://legacy.utcourts.gov/opinions/pending.php"
+      },
+      {
+        "text": "Judges' Biographies",
+        "url": "https://www.utcourts.gov/en/courts/other-court-info/judges-bios.html"
+      },
+      {
+        "text": "Find Out More",
+        "url": "https://www.utcourts.gov/selfhelp.html"
+      },
+      {
+        "text": "Request an Interpreter /  Solicitud de intérprete judicial",
+        "url": "https://www.utcourts.gov/en/court-records-publications/resources/court-interpreters/request.html"
+      },
+      {
+        "text": "Military and Veterans",
+        "url": "https://www.utcourts.gov/military.html"
+      },
+      {
+        "text": "Self-Help Center",
+        "url": "https://www.utcourts.gov/selfhelp-contact.html"
+      },
+      {
+        "text": "My Court Case (Access your case online)",
+        "url": "https://www.utcourts.gov/MyCase.html"
+      },
+      {
+        "text": "Juror Information (Juryroom)",
+        "url": "https://www.utcourts.gov/juryroom.html"
+      },
+      {
+        "text": "Pay Fines/Fees Online (ePayments)",
+        "url": "https://www.utcourts.gov/epayments.html"
+      },
+      {
+        "text": "MyPaperwork",
+        "url": "https://www.utcourts.gov/mypaperwork"
+      },
+      {
+        "text": "Consumer",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/consumer.html"
+      },
+      {
+        "text": "Criminal Justice",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/criminal-justice.html"
+      },
+      {
+        "text": "Families and Children",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/family.html"
+      },
+      {
+        "text": "Guardianship and Conservatorship",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/gc.html"
+      },
+      {
+        "text": "Government Agencies",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/government.html"
+      },
+      {
+        "text": "Appeals",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/appeals.html"
+      },
+      {
+        "text": "Housing",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/housing.html"
+      },
+      {
+        "text": "Juvenile Justice",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/juvenile.html"
+      },
+      {
+        "text": "Small Claims",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/consumer/small-claims.html"
+      },
+      {
+        "text": "Protection from Abuse",
+        "url": "https://www.utcourts.gov/abuse.html"
+      },
+      {
+        "text": "Resources",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/resources.html"
+      },
+      {
+        "text": "Life Planning and Probate",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/probate.html"
+      },
+      {
+        "text": "Court Rules and Procedures",
+        "url": "https://www.utcourts.gov/legal-help/legal-help/procedures.html"
+      },
+      {
+        "text": "Finding Legal Help",
+        "url": "https://www.utcourts.gov/legal-help/legal-help/finding-legal-help/legal-assist.html"
+      },
+      {
+        "text": "Utah Code",
+        "url": "https://le.utah.gov/Documents/code_const.htm"
+      },
+      {
+        "text": "Legal Clinics",
+        "url": "https://www.utcourts.gov/legal-help/legal-help/finding-legal-help/legal-clinics.html"
+      },
+      {
+        "text": "View Form Resources",
+        "url": "https://www.utcourts.gov/en/forms.html"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.utcourts.gov/forms.html"
+      },
+      {
+        "text": "Request for Audio/Digital Recording or Transcript",
+        "url": "https://pubapps.utcourts.gov/TranscriptWEB/publicrequest.jsp"
+      },
+      {
+        "text": "Court-Specific Forms",
+        "url": "https://www.utcourts.gov/en/forms/forms/court-specific.html"
+      },
+      {
+        "text": "Additional Forms Sources",
+        "url": "https://www.utcourts.gov/en/forms/forms/additional-form-sources.html"
+      },
+      {
+        "text": "MyPaperwork",
+        "url": "https://www.utcourts.gov/mypaperwork"
+      },
+      {
+        "text": "View more",
+        "url": "https://www.utcourts.gov/en/court-records-publications.html"
+      },
+      {
+        "text": "Appellate Court Opinions",
+        "url": "https://legacy.utcourts.gov/opinions/"
+      },
+      {
+        "text": "Appellate Docket Search",
+        "url": "https://apps.utcourts.gov/CourtsPublicWEB/index.jsp"
+      },
+      {
+        "text": "Court Records",
+        "url": "https://www.utcourts.gov/en/court-records-publications/records/court-records.html"
+      },
+      {
+        "text": "MyCase",
+        "url": "https://www.utcourts.gov/MyCase.html"
+      },
+      {
+        "text": "Xchange: Public Case Search",
+        "url": "https://www.utcourts.gov/en/court-records-publications/records/xchange.html"
+      },
+      {
+        "text": "Weekly Case Reports",
+        "url": "https://legacy.utcourts.gov/records/weeklyreports/"
+      },
+      {
+        "text": "Expunged Eviction Cases",
+        "url": "https://apps.utcourts.gov/CourtsPublicWEB/index.jsp?option=EVICT"
+      },
+      {
+        "text": "Requesting Audio of a Court Proceeding",
+        "url": "https://www.utcourts.gov/audio.html"
+      },
+      {
+        "text": "Request a Court Record",
+        "url": "https://www.utcourts.gov/en/court-records-publications/records/request-a-court-record.html"
+      },
+      {
+        "text": "Utah Division of Archives and Records Service",
+        "url": "https://archives.utah.gov/research/guides/courts/"
+      },
+      {
+        "text": "Public Notices",
+        "url": "https://www.utcourts.gov/en/court-records-publications/publications/public-notices/courts.html"
+      },
+      {
+        "text": "Court Publications",
+        "url": "https://www.utcourts.gov/en/court-records-publications/publications/court-publications.html"
+      },
+      {
+        "text": "Performance Measures",
+        "url": "https://www.utcourts.gov/en/court-records-publications/publications/performance-measures.html"
+      },
+      {
+        "text": "Utah Courts Caseload - Statewide Case Filings",
+        "url": "https://www.utcourts.gov/stats.html"
+      },
+      {
+        "text": "Judicial Ethics Opinions",
+        "url": "https://www.utcourts.gov/en/court-records-publications/publications/judicial-ethics-opinions.html"
+      },
+      {
+        "text": "Conflict of Interest Notices",
+        "url": "https://www.utcourts.gov/en/court-records-publications/publications/conflict-of-interest-notices.html"
+      },
+      {
+        "text": "Requests for Proposals",
+        "url": "https://www.utcourts.gov/en/court-records-publications/publications/rfp.html"
+      },
+      {
+        "text": "Request for Qualifications",
+        "url": "https://www.utcourts.gov/en/court-records-publications/publications/rfq.html"
+      },
+      {
+        "text": "Utah Judicial Facility Design Standards",
+        "url": "https://www.utcourts.gov/en/court-records-publications/publications/utah-judicial-facilities-design-standards.html"
+      },
+      {
+        "text": "Water Right Adjudications",
+        "url": "https://www.utcourts.gov/waterrights.html"
+      },
+      {
+        "text": "Court Calendar",
+        "url": "https://legacy.utcourts.gov/cal/"
+      },
+      {
+        "text": "Court Interpreters",
+        "url": "https://www.utcourts.gov/en/court-records-publications/resources/court-interpreters.html"
+      },
+      {
+        "text": "Victim Information Notification (VINE)",
+        "url": "https://www.utcourts.gov/en/court-records-publications/resources/vine.html"
+      },
+      {
+        "text": "Accounting Manual",
+        "url": "https://sites.google.com/utcourts.gov/utah-state-courts/accounting-manual"
+      },
+      {
+        "text": "Filing, Transcript, and Record Fees",
+        "url": "https://www.utcourts.gov/en/legal-help/legal-help/procedures/fees.html"
+      },
+      {
+        "text": "Court Fine Schedule",
+        "url": "https://legacy.utcourts.gov/rules/view.php?type=ucja&rule=10C"
+      },
+      {
+        "text": "Interest Rates / Fees / Price Indexes",
+        "url": "https://www.utcourts.gov/en/court-records-publications/resources/interest-rates.html"
+      },
+      {
+        "text": "Model Utah Jury Instructions",
+        "url": "https://legacy.utcourts.gov/resources/muji/"
+      },
+      {
+        "text": "Wireless Access in the Courts",
+        "url": "https://www.utcourts.gov/en/court-records-publications/resources/wireless.html"
+      },
+      {
+        "text": "Public Safety Assessment",
+        "url": "https://www.utcourts.gov/psa.html"
+      },
+      {
+        "text": "Additional Court Resources",
+        "url": "https://www.utcourts.gov/en/court-records-publications/resources/other-resources.html"
+      },
+      {
+        "text": "Learn about working for the courts",
+        "url": "https://sites.google.com/utcourts.gov/courts-hr"
+      },
+      {
+        "text": "Utah's Judicial Branch HR",
+        "url": "https://sites.google.com/utcourts.gov/courts-hr"
+      },
+      {
+        "text": "Jobs with the Courts / Employment Opportunities",
+        "url": "https://www.utcourts.gov/en/careers/careers/jobs.html"
+      },
+      {
+        "text": "Find out more",
+        "url": "https://www.utcourts.gov/en/media/media.html"
+      },
+      {
+        "text": "Media Policies / Resources",
+        "url": "https://www.utcourts.gov/en/media/media/Media-Policies-Resources.html"
+      },
+      {
+        "text": "Public Access to Juvenile Court",
+        "url": "https://www.utcourts.gov/en/media/media/public-access-to-juvenile-court.html"
+      },
+      {
+        "text": "Public Access to Juvenile Court: Questions & Answers",
+        "url": "https://www.utcourts.gov/en/media/media/access-qa.html"
+      },
+      {
+        "text": "Utah State Courts Media Guidelines",
+        "url": "https://www.utcourts.gov/en/media/media/media-guidelines.html"
+      },
+      {
+        "text": "",
+        "url": "https://www.facebook.com/UtahStateCourts/"
+      },
+      {
+        "text": "",
+        "url": "https://twitter.com/UtahStateCourts"
+      },
+      {
+        "text": "",
+        "url": "https://www.youtube.com/user/UtahStateCourts"
+      },
+      {
+        "text": "Self-Help",
+        "url": "https://www.utcourts.gov/en/self-help.html"
+      },
+      {
+        "text": "Life Planning and Probate",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/probate.html"
+      },
+      {
+        "text": "Home (English)",
+        "url": "https://www.utcourts.gov/en.html"
+      },
+      {
+        "text": "Need Legal Help?",
+        "url": "https://www.utcourts.gov/en/self-help/legal-help.html"
+      },
+      {
+        "text": "Español",
+        "url": "https://www.utcourts.gov/es/self-help/case-categories/probate/informal-probate.html"
+      },
+      {
+        "text": "Fees",
+        "url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/fees.html"
+      },
+      {
+        "text": "Fee Waiver",
+        "url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/waiver.html"
+      },
+      {
+        "text": "Filing Procedures",
+        "url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/filing.html"
+      },
+      {
+        "text": "Life Planning and Probate",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/probate.html"
+      },
+      {
+        "text": "Finding Legal Help",
+        "url": "https://www.utcourts.gov/en/self-help/legal-help/finding-legal-help/legal-assist.html"
+      },
+      {
+        "text": "Free Legal Clinics",
+        "url": "https://www.utcourts.gov/en/self-help/legal-help/legal-clinics.html"
+      },
+      {
+        "text": "Going to Court",
+        "url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/pro-se.html"
+      },
+      {
+        "text": "Mediation",
+        "url": "https://www.utcourts.gov/en/about/miscellaneous/mediation.html"
+      },
+      {
+        "text": "Utah Uniform Probate Code",
+        "url": "https://legacy.utcourts.gov/statutes/?s=75"
+      },
+      {
+        "text": "Utah Code 75-3-1201",
+        "url": "https://legacy.utcourts.gov/statutes/?s=75-3-1201"
+      },
+      {
+        "text": "Utah Code 75-3-203",
+        "url": "https://legacy.utcourts.gov/statutes/?s=75-3-203"
+      },
+      {
+        "text": "Utah Code 75-3-203",
+        "url": "https://legacy.utcourts.gov/statutes/?s=75-3-203"
+      },
+      {
+        "text": "Utah Code 75-3-307",
+        "url": "https://legacy.utcourts.gov/statutes/?s=75-3-307"
+      },
+      {
+        "text": "contact a probate attorney",
+        "url": "https://www.licensedlawyer.org/"
+      },
+      {
+        "text": "Utah Code 75-3-107",
+        "url": "https://legacy.utcourts.gov/statutes/?s=75-3-107"
+      },
+      {
+        "text": "Utah Code 75-3-201",
+        "url": "https://legacy.utcourts.gov/statutes/?s=75-3-201"
+      },
+      {
+        "text": "Utah Code 75-2-101 et seq.",
+        "url": "https://legacy.utcourts.gov/statutes/?s=75-2-1"
+      },
+      {
+        "text": "probate attorney",
+        "url": "https://www.licensedlawyer.org/"
+      },
+      {
+        "text": "Utah Code Section 75-1-201",
+        "url": "https://legacy.utcourts.gov/statutes/?s=75-1-201"
+      },
+      {
+        "text": "Utah Code 75-3-306",
+        "url": "https://legacy.utcourts.gov/statutes/?s=75-3-306"
+      },
+      {
+        "text": "Utah Code 75-3-203",
+        "url": "https://legacy.utcourts.gov/statutes/?s=75-3-203"
+      },
+      {
+        "text": "Utah Vital Records and Statistics website",
+        "url": "https://vitalrecords.health.utah.gov/death"
+      },
+      {
+        "text": "Where to Write for Vital Records page",
+        "url": "https://www.cdc.gov/nchs/w2w/"
+      },
+      {
+        "text": "about the process here",
+        "url": "https://www.utcourts.gov/en/about/miscellaneous/mediation/adr-prob.html"
+      },
+      {
+        "text": "Initial Disclosures web page",
+        "url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/court-process/initial-disclosures.html"
+      },
+      {
+        "text": "finding legal help",
+        "url": "https://www.utcourts.gov/en/self-help/legal-help/finding-legal-help/legal-assist.html"
+      },
+      {
+        "text": "Code of Judicial Administration Rule 6-506",
+        "url": "https://legacy.utcourts.gov/rules/view.php?type=ucja&rule=6-506"
+      },
+      {
+        "text": "Utah Code 75-3-801",
+        "url": "https://legacy.utcourts.gov/statutes/?s=75-3-801"
+      },
+      {
+        "text": "Department of Motor Vehicles Survivorship Affidavit",
+        "url": "http://tax.utah.gov/forms/current/tc-569c.pdf"
+      },
+      {
+        "text": "Continue",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html#"
+      },
+      {
+        "text": "",
+        "url": "https://www.utcourts.gov/en.html"
+      },
+      {
+        "text": "",
+        "url": "https://www.utcourts.gov/en.html"
+      },
+      {
+        "text": "Public Notices",
+        "url": "https://www.utcourts.gov/en/court-records-publications/publications/public-notices/courts.html"
+      },
+      {
+        "text": "Publications",
+        "url": "https://www.utcourts.gov/en/court-records-publications/publications/court-publications.html"
+      },
+      {
+        "text": "Records",
+        "url": "https://www.utcourts.gov/en/court-records-publications.html"
+      },
+      {
+        "text": "Court Rules",
+        "url": "https://legacy.utcourts.gov/rules/"
+      },
+      {
+        "text": "Utah Code",
+        "url": "https://le.utah.gov/Documents/code_const.htm"
+      },
+      {
+        "text": "Judicial Performance Evaluations",
+        "url": "https://judges.utah.gov/"
+      },
+      {
+        "text": "About the Courts",
+        "url": "https://www.utcourts.gov/en/about.html"
+      },
+      {
+        "text": "Jobs with the Courts",
+        "url": "https://www.utcourts.gov/en/careers/careers/jobs.html"
+      },
+      {
+        "text": "Human Resources",
+        "url": "https://www.utcourts.gov/en/careers/careers/human-resources.html"
+      },
+      {
+        "text": "Contact Information",
+        "url": "https://www.utcourts.gov/en/about/miscellaneous/directory.html"
+      },
+      {
+        "text": "Press Releases",
+        "url": "https://legacy.utcourts.gov/utc/news"
+      },
+      {
+        "text": "2024 State of the Judiciary",
+        "url": "https://www.utcourts.gov/content/dam/resources/reports/statejudiciary/2024-StateOfTheJudiciary.pdf"
+      },
+      {
+        "text": "2026 Utah Judicial Council Annual Report",
+        "url": "https://www.utcourts.gov/content/dam/court-records-publications/publications/court-publications/court-reports/2026-CourtsAnnualReport.pdf"
+      },
+      {
+        "text": "ADA Accessibility",
+        "url": "https://www.utcourts.gov/en/about/miscellaneous/ada.html"
+      },
+      {
+        "text": "Privacy Policy",
+        "url": "https://www.utcourts.gov/en/about/administration/privacy-policy.html"
+      },
+      {
+        "text": "Website Comments",
+        "url": "https://www.utcourts.gov/en/about/miscellaneous/directory/contact-forms/website.html"
+      },
+      {
+        "text": "Get help finding what you're looking for",
+        "url": "https://legacy.utcourts.gov/email/navigator.php"
+      },
+      {
+        "text": "",
+        "url": "https://www.levelaccess.com/a/utahcourts/"
+      },
+      {
+        "text": "",
+        "url": "https://www.levelaccess.com/a/utahcourts/"
+      },
+      {
+        "text": "",
+        "url": "https://www.facebook.com/UtahStateCourts/"
+      },
+      {
+        "text": "",
+        "url": "https://twitter.com/UtahStateCourts"
+      },
+      {
+        "text": "",
+        "url": "https://www.youtube.com/user/UtahStateCourts"
+      },
+      {
+        "text": "",
+        "url": "https://www.utcourts.gov/en/court-records-publications/publications/court-publications/rss.html"
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "publisher": "Unified Judicial System of Pennsylvania",
+    "url": "https://www.pacourts.us/forms/for-the-public",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "civilcomplaint-000771",
+        "title": "Civil Complaint (Magisterial District Court)",
+        "family_id": "civil-complaint",
+        "identity": "CIVIL COMPLAINT",
+        "max": 1
+      },
+      {
+        "pattern": "Landlord and Tenant Complaint",
+        "title": "Landlord/Tenant Complaint",
+        "family_id": "landlord-tenant-complaint",
+        "identity": "LANDLORD.*TENANT.*COMPLAINT",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.pacourts.us/forms/for-the-public",
+      "final_url": "https://www.pacourts.us/forms/for-the-public",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:12:08.970Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": "17415",
+      "sha256": "c3613f9137a528491f2aa40c60552f7c685c02fabe72567786894ac14f16b8d3",
+      "title": "For the Public | Forms | Unified Judicial System of Pennsylvania",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14-05/02-pennsylvania-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.pacourts.us/forms/for-the-public",
+        "final_url": "https://www.pacourts.us/forms/for-the-public",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "retrieved_at": "2026-10-14T09:12:08.970Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": "17415",
+        "sha256": "c3613f9137a528491f2aa40c60552f7c685c02fabe72567786894ac14f16b8d3",
+        "title": "For the Public | Forms | Unified Judicial System of Pennsylvania",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "civilcomplaint-000771",
+        "title": "Civil Complaint (Magisterial District Court)",
+        "family_id": "civil-complaint",
+        "identity": "CIVIL COMPLAINT",
+        "max": 1,
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221034-220311-civilcomplaint-000771.pdf",
+        "link_text": "‌\n                    \n                    \n‌Civil Complaint",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221034-220311-civilcomplaint-000771.pdf",
+          "final_url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221034-220311-civilcomplaint-000771.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:12:10.583Z",
+          "etag": "\"c7566a78ac63db1:0\"",
+          "last_modified": "Fri, 10 Jan 2025 22:10:34 GMT",
+          "content_length": "860788",
+          "sha256": "b098291428530b7fb0164ab5458d6bef317a9daa47b218b0e6ed4519d9bc9857",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221034-220311-civilcomplaint-000771.pdf",
+            "final_url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221034-220311-civilcomplaint-000771.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:12:10.583Z",
+            "etag": "\"c7566a78ac63db1:0\"",
+            "last_modified": "Fri, 10 Jan 2025 22:10:34 GMT",
+            "content_length": "860788",
+            "sha256": "b098291428530b7fb0164ab5458d6bef317a9daa47b218b0e6ed4519d9bc9857",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "b098291428530b7fb0164ab5458d6bef317a9daa47b218b0e6ed4519d9bc9857",
+        "local_archive_path": "archive/2026-10-14-05/02-civil-complaint-magisterial-district-court-b09829142853.pdf",
+        "bytes": 860788,
+        "text_length": 2097,
+        "pages": 1,
+        "identity_excerpt": "CIVIL COMPLAINTCOMMONWEALTH OF PENNSYLVANIA COUNTY OF DEFENDANT: Mag. Dist. No: MDJ Name: Address: Telephone: PLAINTIFF: NAME and ADDRESS NAME and ADDRESS V. AMOUNT DATE PAID FILING COSTS $ POSTAGE $ SERVICE COSTS $ CONSTABLE ED. $ TOTAL $ Docket No: Case Filed: Pa.R.Civ.P.M.D.J. 206 sets forth those costs recoverable by the prevailing party. To The Defendant: The above named plaintiff(s) asks judgment against you for $__________________ together with costs upon the following claim (Civil fines must include citation of the statute or ordinance violated): AOPC 308A www.pacourts.us/language-rights FREE INTERPRETER1 Please see the attached Hearing Notice for important information about appearing at the hearing and the opportunity to file a complaint against the plaintiff if you have a claim. See Pa.R.Civ.P.M.D.J. 305. If you have a claim against the plaintiff which is within the magisterial district judge jurisdiction and which you intend to assert at the hearing, you must file it on a complaint form at this office at least five days before the date set for the hearing. If you are disabled and require a reasonable accommodation to gain access to the Magisterial District Court and its services, please contact the Magisterial District Court at the above address or telephone number. We are unable to provide transportation. (Signature of Plaintiff or Authorized Agent) The plaintiff's attorney shall file an entry of appearance with the magisterial district court pursuant to Pa.R.Civ.P.M.D.J. 207.1 I, ______________________________________ verify that the facts set forth in this complaint are true and correct to the best of my knowledge, information, and belief. This statement is made subject to the penalties of Section 4904 of the Crimes Code (18 Pa.C.S. § 4904) related to unsw",
+        "revision_evidence": [],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      },
+      {
+        "pattern": "Landlord and Tenant Complaint",
+        "title": "Landlord/Tenant Complaint",
+        "family_id": "landlord-tenant-complaint",
+        "identity": "LANDLORD.*TENANT.*COMPLAINT",
+        "max": 1,
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221209-235323-220318-file-71.pdf",
+        "link_text": "‌\n                    \n                    \n‌Landlord and Tenant Complaint",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221209-235323-220318-file-71.pdf",
+          "final_url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221209-235323-220318-file-71.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:12:16.677Z",
+          "etag": "\"cf8d2eb1ac63db1:0\"",
+          "last_modified": "Fri, 10 Jan 2025 22:12:09 GMT",
+          "content_length": "933158",
+          "sha256": "0f64a96715386f8d7a2d390c7404a10767816d4eaabf95debb14371817c71978",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221209-235323-220318-file-71.pdf",
+            "final_url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221209-235323-220318-file-71.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:12:16.677Z",
+            "etag": "\"cf8d2eb1ac63db1:0\"",
+            "last_modified": "Fri, 10 Jan 2025 22:12:09 GMT",
+            "content_length": "933158",
+            "sha256": "0f64a96715386f8d7a2d390c7404a10767816d4eaabf95debb14371817c71978",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "0f64a96715386f8d7a2d390c7404a10767816d4eaabf95debb14371817c71978",
+        "local_archive_path": "archive/2026-10-14-05/02-landlord-tenant-complaint-0f64a9671538.pdf",
+        "bytes": 933158,
+        "text_length": 3840,
+        "pages": 1,
+        "identity_excerpt": "LANDLORD/TENANT COMPLAINTCOMMONWEALTH OF PENNSYLVANIA COUNTY OF TENANT: Mag. Dist. No: MDJ Name: Address: Telephone: LANDLORD: NAME and ADDRESS NAME and ADDRESS V. Docket No: Case Filed: AMOUNT DATE PAID FILING COSTS $ POSTAGE $ SERVICE COSTS $ CONSTABLE ED. $ TOTAL $ Pa.R.Civ.P.M.D.J. 206 sets forth those costs recoverable by the prevailing party. TO THE TENANT: The above named landlord(s) asks judgment together with costs against you for the possession of real __________________________________ ____________________________________________________________________________________________________________________ Damages for the unjust detention of the real property in the amount of $ ____________________________________________________________________________________________________ Rent remaining due and unpaid on filing date in the amount of $ ____________________________________________________________________________________________________ And additional rent remaining due and unpaid on hearing date $ ____________________________________________________________________________________________________ Attorney fees in the amount of $ ____________________________________________________________________________________________________ THE $ ______________________________________________________________________________LANDLORD FURTHER ALLEGES THAT: Total: ______________________ ___________________________________________ ___________________________________________________________________ 1. The location and the address, if any, of the real property is: _________________________________________________________ 2. The party filing the complaint is the landlord of that property. 3. The landlord leased or rented the property to you or to ____________________________________",
+        "revision_evidence": [],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "",
+        "url": "https://www.pacourts.us/"
+      },
+      {
+        "text": "Skip to Main Content",
+        "url": "https://www.pacourts.us/forms/for-the-public#maincontent"
+      },
+      {
+        "text": "ADA Compliance",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/americans-with-disabilities-act"
+      },
+      {
+        "text": "Careers",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings/"
+      },
+      {
+        "text": "Login",
+        "url": "https://www.pacourts.us/login/"
+      },
+      {
+        "text": "User Profile",
+        "url": "https://www.pacourts.us/members/"
+      },
+      {
+        "text": "Opinions\n                                Search court opinions and postings",
+        "url": "https://www.pacourts.us/courts/supreme-court/court-opinions/"
+      },
+      {
+        "text": "Cases of Public Interest\n                                Find information on cases",
+        "url": "https://www.pacourts.us/news-and-statistics/cases-of-public-interest"
+      },
+      {
+        "text": "Court of Judicial Discipline\n                                New postings",
+        "url": "https://www.pacourts.us/courts/court-of-judicial-discipline/court-cases"
+      },
+      {
+        "text": "Docket Sheets\n                                Search, view and print court docket sheets",
+        "url": "https://ujsportal.pacourts.us/Home/CaseInformation"
+      },
+      {
+        "text": "Pay Traffic Ticket or Court Costs\n                                Securely pay fines, costs, and restitution",
+        "url": "https://ujsportal.pacourts.us/Home/PayOnline"
+      },
+      {
+        "text": "E-Filing\n                                Electronically file documents with the courts",
+        "url": "https://ujsportal.pacourts.us/PACFile/Overview"
+      },
+      {
+        "text": "Forms\n                                Access Unified Judicial System forms",
+        "url": "https://www.pacourts.us/forms"
+      },
+      {
+        "text": "Public Records\n                                Access public records and policies",
+        "url": "https://www.pacourts.us/public-records"
+      },
+      {
+        "text": "Contact Us\n                                Access Judiciary contact information",
+        "url": "https://www.pacourts.us/contact-us"
+      },
+      {
+        "text": "Careers\n                                Review open job listings",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings/"
+      },
+      {
+        "text": "Sign Up for Court News and Updates\n                                Sign Me Up",
+        "url": "https://www.pacourts.us/email-subscriptions"
+      },
+      {
+        "text": "Translation Disclaimer\n                                    Disclaimer",
+        "url": "https://www.pacourts.us/translation-disclaimer"
+      },
+      {
+        "text": "Menu",
+        "url": "https://www.pacourts.us/forms/for-the-public#menu-mobile"
+      },
+      {
+        "text": "Resources",
+        "url": "https://www.pacourts.us/forms/for-the-public#resource"
+      },
+      {
+        "text": "Search",
+        "url": "https://www.pacourts.us/forms/for-the-public#search"
+      },
+      {
+        "text": "Courts",
+        "url": "https://www.pacourts.us/courts"
+      },
+      {
+        "text": "Supreme Court",
+        "url": "https://www.pacourts.us/courts/supreme-court"
+      },
+      {
+        "text": "Supreme Court Justices",
+        "url": "https://www.pacourts.us/courts/supreme-court/supreme-court-justices"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/supreme-court/docket-sheets"
+      },
+      {
+        "text": "Court Opinions and Postings",
+        "url": "https://www.pacourts.us/courts/supreme-court/court-opinions"
+      },
+      {
+        "text": "Supreme Court Prothonotary's Addresses",
+        "url": "https://www.pacourts.us/courts/supreme-court/prothonotarys-addresses"
+      },
+      {
+        "text": "Calendar",
+        "url": "https://www.pacourts.us/courts/supreme-court/calendar"
+      },
+      {
+        "text": "Committees, Boards & Advisory Groups",
+        "url": "https://www.pacourts.us/courts/supreme-court/committees"
+      },
+      {
+        "text": "Superior Court",
+        "url": "https://www.pacourts.us/courts/superior-court"
+      },
+      {
+        "text": "Superior Court Judges",
+        "url": "https://www.pacourts.us/courts/superior-court/superior-court-judges"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/superior-court/docket-sheets"
+      },
+      {
+        "text": "Court Opinions",
+        "url": "https://www.pacourts.us/courts/superior-court/court-opinions"
+      },
+      {
+        "text": "Superior Court Prothonotary's Addresses",
+        "url": "https://www.pacourts.us/courts/superior-court/prothonotarys-addresses"
+      },
+      {
+        "text": "Calendar",
+        "url": "https://www.pacourts.us/courts/superior-court/calendar"
+      },
+      {
+        "text": "Commonwealth Court",
+        "url": "https://www.pacourts.us/courts/commonwealth-court"
+      },
+      {
+        "text": "Commonwealth Court Judges",
+        "url": "https://www.pacourts.us/courts/commonwealth-court-judges"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/commonwealth-court/docket-sheets"
+      },
+      {
+        "text": "Court Opinions and Postings",
+        "url": "https://www.pacourts.us/courts/commonwealth-court/court-opinions"
+      },
+      {
+        "text": "Commonwealth Court Prothonotary's Address",
+        "url": "https://www.pacourts.us/courts/commonwealth-court/commonwealth-court-prothonotarys-address"
+      },
+      {
+        "text": "Calendar",
+        "url": "https://www.pacourts.us/courts/commonwealth-court/calendar"
+      },
+      {
+        "text": "Courts of Common Pleas",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas"
+      },
+      {
+        "text": "Common Pleas President Judges",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/common-pleas-president-judges"
+      },
+      {
+        "text": "Common Pleas Judges",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/common-pleas-judges"
+      },
+      {
+        "text": "District Court Administrators",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/district-court-administrators"
+      },
+      {
+        "text": "Individual County Courts",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/individual-county-courts"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/docket-sheets"
+      },
+      {
+        "text": "Minor Courts",
+        "url": "https://www.pacourts.us/courts/minor-courts"
+      },
+      {
+        "text": "Magisterial District Judges",
+        "url": "https://www.pacourts.us/courts/minor-courts/magisterial-district-judges"
+      },
+      {
+        "text": "Philadelphia Municipal Court Judges",
+        "url": "https://www.pacourts.us/courts/minor-courts/philadelphia-municipal-court-judges"
+      },
+      {
+        "text": "Pittsburgh Municipal Court Judges",
+        "url": "https://www.pacourts.us/courts/minor-courts/pittsburgh-municipal-court-judges"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/minor-courts/docket-sheets"
+      },
+      {
+        "text": "Judicial Administration",
+        "url": "https://www.pacourts.us/judicial-administration"
+      },
+      {
+        "text": "Communications",
+        "url": "https://www.pacourts.us/judicial-administration/office-of-communications-and-intergovernmental-relations"
+      },
+      {
+        "text": "Information Technology",
+        "url": "https://www.pacourts.us/judicial-administration/judicial-automation"
+      },
+      {
+        "text": "Operations",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs"
+      },
+      {
+        "text": "Interpreter Program",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/interpreter-program"
+      },
+      {
+        "text": "Language Access",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/language-access-and-interpreter-program"
+      },
+      {
+        "text": "Office of Children & Families in the Courts",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-children-and-families-in-the-courts"
+      },
+      {
+        "text": "Treatment Courts",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/treatment-courts"
+      },
+      {
+        "text": "Elder Justice in the Courts",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-elder-justice-in-the-courts"
+      },
+      {
+        "text": "Office of Behavioral Health",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-behavioral-health"
+      },
+      {
+        "text": "Judicial District Security",
+        "url": "https://www.pacourts.us/judicial-administration/judicial-security"
+      },
+      {
+        "text": "Budget",
+        "url": "https://www.pacourts.us/judicial-administration/budget"
+      },
+      {
+        "text": "Human Resources",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources"
+      },
+      {
+        "text": "Benefits",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources/benefits"
+      },
+      {
+        "text": "Job Openings",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings"
+      },
+      {
+        "text": "Judicial Education",
+        "url": "https://www.pacourts.us/judicial-administration/judicial-education"
+      },
+      {
+        "text": "News & Statistics",
+        "url": "https://www.pacourts.us/news-and-statistics"
+      },
+      {
+        "text": "News",
+        "url": "https://www.pacourts.us/news-and-statistics/news"
+      },
+      {
+        "text": "Cases of Public Interest",
+        "url": "https://www.pacourts.us/news-and-statistics/cases-of-public-interest"
+      },
+      {
+        "text": "News Releases",
+        "url": "https://www.pacourts.us/news-and-statistics/news-releases"
+      },
+      {
+        "text": "Media Resources",
+        "url": "https://www.pacourts.us/news-and-statistics/media-resources"
+      },
+      {
+        "text": "Research & Statistics",
+        "url": "https://www.pacourts.us/news-and-statistics/research-and-statistics"
+      },
+      {
+        "text": "Reports",
+        "url": "https://www.pacourts.us/news-and-statistics/reports"
+      },
+      {
+        "text": "Archive",
+        "url": "https://www.pacourts.us/news-and-statistics/archived-resources"
+      },
+      {
+        "text": "Learn",
+        "url": "https://www.pacourts.us/learn"
+      },
+      {
+        "text": "Autism and the Courts",
+        "url": "https://www.pacourts.us/learn/autism-and-the-courts"
+      },
+      {
+        "text": "Human Trafficking",
+        "url": "https://www.pacourts.us/learn/human-trafficking"
+      },
+      {
+        "text": "Protection Orders",
+        "url": "https://www.pacourts.us/learn/protection-orders"
+      },
+      {
+        "text": "How the Courts Operate",
+        "url": "https://www.pacourts.us/learn/how-the-courts-operate"
+      },
+      {
+        "text": "History",
+        "url": "https://www.pacourts.us/learn/history"
+      },
+      {
+        "text": "How Judges Are Elected",
+        "url": "https://www.pacourts.us/learn/how-judges-are-elected"
+      },
+      {
+        "text": "Jury Duty",
+        "url": "https://www.pacourts.us/learn/jury-duty"
+      },
+      {
+        "text": "Civics Outreach and Education",
+        "url": "https://www.pacourts.us/civics-ed"
+      },
+      {
+        "text": "Sexual Violence Awareness",
+        "url": "https://www.pacourts.us/sexual-violence-awareness"
+      },
+      {
+        "text": "Back to Top",
+        "url": "https://www.pacourts.us/forms/for-the-public#menu-mobile"
+      },
+      {
+        "text": "Courts",
+        "url": "https://www.pacourts.us/courts"
+      },
+      {
+        "text": "Cases of Public Interest",
+        "url": "https://www.pacourts.us/news-and-statistics/cases-of-public-interest"
+      },
+      {
+        "text": "Court News",
+        "url": "https://www.pacourts.us/news-and-statistics/news/"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "http://ujsportal.pacourts.us/CaseSearch"
+      },
+      {
+        "text": "Opinions",
+        "url": "https://www.pacourts.us/courts/supreme-court/court-opinions"
+      },
+      {
+        "text": "E-Filing",
+        "url": "https://ujsportal.pacourts.us/PACFile/Overview"
+      },
+      {
+        "text": "Careers",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings"
+      },
+      {
+        "text": "Supreme Court",
+        "url": "https://www.pacourts.us/courts/supreme-court"
+      },
+      {
+        "text": "Supreme Court Justices",
+        "url": "https://www.pacourts.us/courts/supreme-court/supreme-court-justices"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/supreme-court/docket-sheets"
+      },
+      {
+        "text": "Court Opinions and Postings",
+        "url": "https://www.pacourts.us/courts/supreme-court/court-opinions"
+      },
+      {
+        "text": "Supreme Court Prothonotary's Addresses",
+        "url": "https://www.pacourts.us/courts/supreme-court/prothonotarys-addresses"
+      },
+      {
+        "text": "Calendar",
+        "url": "https://www.pacourts.us/courts/supreme-court/calendar"
+      },
+      {
+        "text": "Committees, Boards & Advisory Groups",
+        "url": "https://www.pacourts.us/courts/supreme-court/committees"
+      },
+      {
+        "text": "Superior Court",
+        "url": "https://www.pacourts.us/courts/superior-court"
+      },
+      {
+        "text": "Superior Court Judges",
+        "url": "https://www.pacourts.us/courts/superior-court/superior-court-judges"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/superior-court/docket-sheets"
+      },
+      {
+        "text": "Court Opinions",
+        "url": "https://www.pacourts.us/courts/superior-court/court-opinions"
+      },
+      {
+        "text": "Superior Court Prothonotary's Addresses",
+        "url": "https://www.pacourts.us/courts/superior-court/prothonotarys-addresses"
+      },
+      {
+        "text": "Calendar",
+        "url": "https://www.pacourts.us/courts/superior-court/calendar"
+      },
+      {
+        "text": "Commonwealth Court",
+        "url": "https://www.pacourts.us/courts/commonwealth-court"
+      },
+      {
+        "text": "Commonwealth Court Judges",
+        "url": "https://www.pacourts.us/courts/commonwealth-court-judges"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/commonwealth-court/docket-sheets"
+      },
+      {
+        "text": "Court Opinions and Postings",
+        "url": "https://www.pacourts.us/courts/commonwealth-court/court-opinions"
+      },
+      {
+        "text": "Commonwealth Court Prothonotary's Address",
+        "url": "https://www.pacourts.us/courts/commonwealth-court/commonwealth-court-prothonotarys-address"
+      },
+      {
+        "text": "Calendar",
+        "url": "https://www.pacourts.us/courts/commonwealth-court/calendar"
+      },
+      {
+        "text": "Courts of Common Pleas",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas"
+      },
+      {
+        "text": "Common Pleas President Judges",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/common-pleas-president-judges"
+      },
+      {
+        "text": "Common Pleas Judges",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/common-pleas-judges"
+      },
+      {
+        "text": "District Court Administrators",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/district-court-administrators"
+      },
+      {
+        "text": "Individual County Courts",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/individual-county-courts"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/docket-sheets"
+      },
+      {
+        "text": "Minor Courts",
+        "url": "https://www.pacourts.us/courts/minor-courts"
+      },
+      {
+        "text": "Magisterial District Judges",
+        "url": "https://www.pacourts.us/courts/minor-courts/magisterial-district-judges"
+      },
+      {
+        "text": "Philadelphia Municipal Court Judges",
+        "url": "https://www.pacourts.us/courts/minor-courts/philadelphia-municipal-court-judges"
+      },
+      {
+        "text": "Pittsburgh Municipal Court Judges",
+        "url": "https://www.pacourts.us/courts/minor-courts/pittsburgh-municipal-court-judges"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/minor-courts/docket-sheets"
+      },
+      {
+        "text": "Judicial Administration",
+        "url": "https://www.pacourts.us/judicial-administration"
+      },
+      {
+        "text": "Cases of Public Interest",
+        "url": "https://www.pacourts.us/news-and-statistics/cases-of-public-interest"
+      },
+      {
+        "text": "Court News",
+        "url": "https://www.pacourts.us/news-and-statistics/news/"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "http://ujsportal.pacourts.us/CaseSearch"
+      },
+      {
+        "text": "Opinions",
+        "url": "https://www.pacourts.us/courts/supreme-court/court-opinions"
+      },
+      {
+        "text": "E-Filing",
+        "url": "https://ujsportal.pacourts.us/PACFile/Overview"
+      },
+      {
+        "text": "Careers",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings"
+      },
+      {
+        "text": "Communications",
+        "url": "https://www.pacourts.us/judicial-administration/office-of-communications-and-intergovernmental-relations"
+      },
+      {
+        "text": "Information Technology",
+        "url": "https://www.pacourts.us/judicial-administration/judicial-automation"
+      },
+      {
+        "text": "Operations",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs"
+      },
+      {
+        "text": "Interpreter Program",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/interpreter-program"
+      },
+      {
+        "text": "Language Access",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/language-access-and-interpreter-program"
+      },
+      {
+        "text": "Office of Children & Families in the Courts",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-children-and-families-in-the-courts"
+      },
+      {
+        "text": "Treatment Courts",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/treatment-courts"
+      },
+      {
+        "text": "Elder Justice in the Courts",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-elder-justice-in-the-courts"
+      },
+      {
+        "text": "Office of Behavioral Health",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-behavioral-health"
+      },
+      {
+        "text": "Judicial District Security",
+        "url": "https://www.pacourts.us/judicial-administration/judicial-security"
+      },
+      {
+        "text": "Budget",
+        "url": "https://www.pacourts.us/judicial-administration/budget"
+      },
+      {
+        "text": "Human Resources",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources"
+      },
+      {
+        "text": "Benefits",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources/benefits"
+      },
+      {
+        "text": "Job Openings",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings"
+      },
+      {
+        "text": "Judicial Education",
+        "url": "https://www.pacourts.us/judicial-administration/judicial-education"
+      },
+      {
+        "text": "News & Statistics",
+        "url": "https://www.pacourts.us/news-and-statistics"
+      },
+      {
+        "text": "News",
+        "url": "https://www.pacourts.us/news-and-statistics/news"
+      },
+      {
+        "text": "Cases of Public Interest",
+        "url": "https://www.pacourts.us/news-and-statistics/cases-of-public-interest"
+      },
+      {
+        "text": "News Releases",
+        "url": "https://www.pacourts.us/news-and-statistics/news-releases"
+      },
+      {
+        "text": "Media Resources",
+        "url": "https://www.pacourts.us/news-and-statistics/media-resources"
+      },
+      {
+        "text": "Research & Statistics",
+        "url": "https://www.pacourts.us/news-and-statistics/research-and-statistics"
+      },
+      {
+        "text": "Reports",
+        "url": "https://www.pacourts.us/news-and-statistics/reports"
+      },
+      {
+        "text": "Archive",
+        "url": "https://www.pacourts.us/news-and-statistics/archived-resources"
+      },
+      {
+        "text": "Learn",
+        "url": "https://www.pacourts.us/learn"
+      },
+      {
+        "text": "Autism and the Courts",
+        "url": "https://www.pacourts.us/learn/autism-and-the-courts"
+      },
+      {
+        "text": "Human Trafficking",
+        "url": "https://www.pacourts.us/learn/human-trafficking"
+      },
+      {
+        "text": "Protection Orders",
+        "url": "https://www.pacourts.us/learn/protection-orders"
+      },
+      {
+        "text": "How the Courts Operate",
+        "url": "https://www.pacourts.us/learn/how-the-courts-operate"
+      },
+      {
+        "text": "History",
+        "url": "https://www.pacourts.us/learn/history"
+      },
+      {
+        "text": "How Judges Are Elected",
+        "url": "https://www.pacourts.us/learn/how-judges-are-elected"
+      },
+      {
+        "text": "Jury Duty",
+        "url": "https://www.pacourts.us/learn/jury-duty"
+      },
+      {
+        "text": "Civics Outreach and Education",
+        "url": "https://www.pacourts.us/civics-ed"
+      },
+      {
+        "text": "Sexual Violence Awareness",
+        "url": "https://www.pacourts.us/sexual-violence-awareness"
+      },
+      {
+        "text": "Back to Top",
+        "url": "https://www.pacourts.us/forms/for-the-public#menu-desktop"
+      },
+      {
+        "text": "Opinions\n                    Search court opinions and postings",
+        "url": "https://www.pacourts.us/courts/supreme-court/court-opinions/"
+      },
+      {
+        "text": "Cases of Public Interest\n                    Find information on cases",
+        "url": "https://www.pacourts.us/news-and-statistics/cases-of-public-interest"
+      },
+      {
+        "text": "Court of Judicial Discipline\n                    New postings",
+        "url": "https://www.pacourts.us/courts/court-of-judicial-discipline/court-cases"
+      },
+      {
+        "text": "Docket Sheets\n                    Search, view and print court docket sheets",
+        "url": "https://ujsportal.pacourts.us/Home/CaseInformation"
+      },
+      {
+        "text": "Pay Fine or Fees\n                    Securely pay fines, costs, and restitution",
+        "url": "https://ujsportal.pacourts.us/Home/PayOnline"
+      },
+      {
+        "text": "E-Filing\n                    Electronically file documents with the courts",
+        "url": "https://ujsportal.pacourts.us/PACFile/Overview"
+      },
+      {
+        "text": "Forms\n                    Access Unified Judicial System forms",
+        "url": "https://www.pacourts.us/forms"
+      },
+      {
+        "text": "Public Records\n                    Access public records and policies",
+        "url": "https://www.pacourts.us/public-records"
+      },
+      {
+        "text": "Contact Us\n                    Access Judiciary contact information",
+        "url": "https://www.pacourts.us/contact-us"
+      },
+      {
+        "text": "Careers\n                    Review open job listings",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings/"
+      },
+      {
+        "text": "Sign Up for Court News and Updates\n                    Sign Me Up",
+        "url": "https://www.pacourts.us/email-subscriptions"
+      },
+      {
+        "text": "Home",
+        "url": "https://www.pacourts.us/"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.pacourts.us/forms"
+      },
+      {
+        "text": "Access Register of Wills and Orphans' Court forms",
+        "url": "https://www.pacourts.us/page/1598"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Administrative Office of Pennsylvania Courts Americans with Disabilities Act Policy",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/215530-administrativeofficeofpennsylvaniacourtsamericanswithdisabilitiesactpolicy-003961.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌AOPC request for reasonable accommodation form",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/215540-aopcrequestforreasonableaccommodationform-003959.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌AOPC ADA Grievance Form",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/215554-aopcadagrievanceform-003960.pdf"
+      },
+      {
+        "text": "your local county court",
+        "url": "https://www.pacourts.us/page/1178"
+      },
+      {
+        "text": "here",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/213216-file-214.pdf"
+      },
+      {
+        "text": "here",
+        "url": "https://www.pacourts.us/page/1386"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Notice of Appeal from Magisterial District Judge Judgment",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233058-215950-noticeofappealfrommagisterialdistrictjudgejudgment-000763.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Statement of Objection",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/215958-forcitizensappealsobjectionsstatementofobjection-000764.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233209-220005-tanonsection81008c2-000772.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233332-220014-tanonsection81013c2-000773.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234313-220022-tasection81008c2-000774.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234409-220034-tasection81013c2-000775.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Tenant Affidavit - Supplemental Instructions for Obtaining a Stay of Eviction",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20260115/193559-2026supplementalinstructionsheet.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Writ of Certiorari",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20221115/152116-220050-writofcertiorari-000174.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \nNotice of Appeals to the Superior / Commonwealth / Supreme Court",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20260630/222325-noticeofappealtosuperiorcommonwealthsupremecourt.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \nCover Sheet for Common Pleas Civil Filings",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/220154-cofcpcivilcoversheet-000768.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \nConfidential Information Form",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20250905/185404-205149-confidentialinformationformcif.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \nConfidential Document Form",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20250905/185431-205439-file-6575-confidentialdocumentform.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Civil Complaint",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221034-220311-civilcomplaint-000771.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Authorization of Representative",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20221115/152545-220318-authorizationofrepresentativeform317-003474.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Guardian's Notice of Intent to Represent Minor Party",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/220325-guardiansnoticeofintenttorepresentminorparty-009212.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Service Members Civil Relief Affidavit",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/220339-servicememberscivilreliefaffidavit-009940.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \nNotice of Intent to Defend",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/220621-noticeofintenttodefend.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \nNotice of Appeal (Automated Speed Enforcement – Active Work Zone)",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20240802/180324-135738-165555-workzonenoticeofappeal.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \nNotice of Appeal (School Bus Stop Arm Camera Enforcement)",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20240802/180207-schoolbusnoticeofappeal.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Request for Order of Execution",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20221115/153410-222417-requestfororderofexecution-004523.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Entry of Satisfaction",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20220126/195744-222451-entryofsatisfaction-004293.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Request for Entry of Satisfaction",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20220126/195813-222504-requestforentryofsatisfaction-008220.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Blank Expungement Order 490",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222539-blankexpungementorder4900311121-000064.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Blank Expungement Order 790",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222549-blankexpungementorder7900309121-000065.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Petition for Expungement Pursuant to Pa.R.Crim.P. 490",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222603-petitionforexpungement490030912-000076.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \nPetition for Expungement Pursuant to Pa.R.Crim.P. 790",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222612-petitionforexpungement790030912-000077.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Court of Common Pleas - Petition for Expungement",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/213843-file-6287.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Court of Common Pleas - Order Granting Petition for Truancy Expungement",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/213835-file-6288.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Magisterial District Court - Petition for Expungement",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/213825-file-6289.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Magisterial District Court - Order Granting Petition for Truancy Expungement",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/213820-file-6290.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \nRequest for Educational Best Interest Determination",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20261009/185023-requestforeducationalbestinterestdetermination.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Blank Limited Access Order 791",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/215133-file-5631.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Petition for Limited Access Pursuant to 791",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/215125-file-5632.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Court of Common Pleas – Motion to Proceed In Forma Pauperis",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/215517-file-6679.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Magisterial District Court – In Forma Pauperis Affidavit Petition",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/215527-file-6680.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Landlord and Tenant Complaint",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221209-235323-220318-file-71.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Authorization Of Representative",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20221115/152545-220318-authorizationofrepresentativeform317-003474.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233209-220005-tanonsection81008c2-000772.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233332-220014-tanonsection81013c2-000773.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234313-220022-tasection81008c2-000774.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234409-220034-tasection81013c2-000775.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Tenant Affidavit - Supplemental Instructions for Obtaining a Stay of Eviction",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20260115/193559-2026supplementalinstructionsheet.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Request for Determination of Abandonment",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/220322-file-3664.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Domestic Violence Affidavit",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20221101/000102-220328-file-10974.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Servicemembers Civil Relief Affidavit",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/220328-file-9940.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \nIntervention Request",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/220842-interventionrequest.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Request for Order for Possession",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222809-requestfororderforpossession-004524.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Request for Transcript or Copy",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/221205-file-5813.pdf"
+      },
+      {
+        "text": "http://www.pacode.com/secure/data/201/chapter40/chap40toc.html",
+        "url": "http://www.pacode.com/secure/data/201/chapter40/chap40toc.html"
+      },
+      {
+        "text": "or a form prepared by the judicial district",
+        "url": "https://www.pacourts.us/page/1599"
+      },
+      {
+        "text": "‌\n                    \n                    \nNotice of Settlement with Stipulated Judgment",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20260331/202849-noticeofsettlementwithstipulatedjudgment.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \nNotice of Settlement without Stipulated Judgment",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20260331/202849-noticeofsettlementwithoutstipulatedjudgment.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Notice of Assignment of Judgment",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222843-noticeofassignmentjudgement-000784.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \nPrivate Criminal Complaint",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222925-privatecriminalcomplaint-000078.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Private Criminal Complaint",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222933-privatecriminalcomplaint-006375.docx"
+      },
+      {
+        "text": "How to Obtain a Civil Protection Order",
+        "url": "https://youtu.be/VuMMwgodAyY"
+      },
+      {
+        "text": "Prothonotary",
+        "url": "https://www.pacourts.us/page/1172"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Petition for Emergency Relief from Abuse",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223207-petitionforemergencyrelieffromabuse-002809.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Temporary Protection From Abuse Order",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223220-temporaryprotectionfromabuseorder-007706.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Petition for Protection from Abuse",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223233-petitionforprotectionfromabuse-007702.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Final Protection From Abuse Order",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223247-finalprotectionfromabuseorder-007704.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Notice of Hearing and Order",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223258-noticeofhearingandorder-007705.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Petition for Emergency Relief from Sexual Violence or Intimidation - English",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223334-petitionforemergencyrelieffromsexualviolenceorintimidationenglish-004531.pdf"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Petition for Protection from Sexual Violence and or Intimidation - English",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223341-petitionforprotectionfromsexualviolenceandorintimidationenglish-004533.pdf"
+      },
+      {
+        "text": "Cómo obtener una orden de protección civil",
+        "url": "https://youtu.be/uwsr9CdiKd4"
+      },
+      {
+        "text": "Protección contra Maltrato",
+        "url": "https://www.pacourts.us/page/1609"
+      },
+      {
+        "text": "Protección de Víctimas de Violencia Sexual y/o Intimidación",
+        "url": "https://www.pacourts.us/page/1620"
+      },
+      {
+        "text": "Protonotario",
+        "url": "https://www.pacourts.us/page/1172"
+      },
+      {
+        "text": "‌\n                    \n                    \n‌Notice of Appeal from Summary Criminal Conviction",
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223504-noticeofappealfromsummarycriminalconviction-003739.pdf"
+      },
+      {
+        "text": "â€Œ\n                                \n                                    Representing yourself in Pennsylvania\n                                    Forms and information for self-represented litigants",
+        "url": "https://www.pacourts.us/learn/representing-yourself"
+      },
+      {
+        "text": "Careers",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings/"
+      },
+      {
+        "text": "Login",
+        "url": "https://www.pacourts.us/login/"
+      },
+      {
+        "text": "Courts",
+        "url": "https://www.pacourts.us/courts"
+      },
+      {
+        "text": "Supreme Court",
+        "url": "https://www.pacourts.us/courts/supreme-court"
+      },
+      {
+        "text": "Supreme Court Justices",
+        "url": "https://www.pacourts.us/courts/supreme-court/supreme-court-justices"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/supreme-court/docket-sheets"
+      },
+      {
+        "text": "Court Opinions and Postings",
+        "url": "https://www.pacourts.us/courts/supreme-court/court-opinions"
+      },
+      {
+        "text": "Supreme Court Prothonotary's Addresses",
+        "url": "https://www.pacourts.us/courts/supreme-court/prothonotarys-addresses"
+      },
+      {
+        "text": "Calendar",
+        "url": "https://www.pacourts.us/courts/supreme-court/calendar"
+      },
+      {
+        "text": "Committees, Boards & Advisory Groups",
+        "url": "https://www.pacourts.us/courts/supreme-court/committees"
+      },
+      {
+        "text": "Superior Court",
+        "url": "https://www.pacourts.us/courts/superior-court"
+      },
+      {
+        "text": "Superior Court Judges",
+        "url": "https://www.pacourts.us/courts/superior-court/superior-court-judges"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/superior-court/docket-sheets"
+      },
+      {
+        "text": "Court Opinions",
+        "url": "https://www.pacourts.us/courts/superior-court/court-opinions"
+      },
+      {
+        "text": "Superior Court Prothonotary's Addresses",
+        "url": "https://www.pacourts.us/courts/superior-court/prothonotarys-addresses"
+      },
+      {
+        "text": "Calendar",
+        "url": "https://www.pacourts.us/courts/superior-court/calendar"
+      },
+      {
+        "text": "Commonwealth Court",
+        "url": "https://www.pacourts.us/courts/commonwealth-court"
+      },
+      {
+        "text": "Commonwealth Court Judges",
+        "url": "https://www.pacourts.us/courts/commonwealth-court-judges"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/commonwealth-court/docket-sheets"
+      },
+      {
+        "text": "Court Opinions and Postings",
+        "url": "https://www.pacourts.us/courts/commonwealth-court/court-opinions"
+      },
+      {
+        "text": "Commonwealth Court Prothonotary's Address",
+        "url": "https://www.pacourts.us/courts/commonwealth-court/commonwealth-court-prothonotarys-address"
+      },
+      {
+        "text": "Calendar",
+        "url": "https://www.pacourts.us/courts/commonwealth-court/calendar"
+      },
+      {
+        "text": "Courts of Common Pleas",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas"
+      },
+      {
+        "text": "Common Pleas President Judges",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/common-pleas-president-judges"
+      },
+      {
+        "text": "Common Pleas Judges",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/common-pleas-judges"
+      },
+      {
+        "text": "District Court Administrators",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/district-court-administrators"
+      },
+      {
+        "text": "Individual County Courts",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/individual-county-courts"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/courts-of-common-pleas/docket-sheets"
+      },
+      {
+        "text": "Minor Courts",
+        "url": "https://www.pacourts.us/courts/minor-courts"
+      },
+      {
+        "text": "Magisterial District Judges",
+        "url": "https://www.pacourts.us/courts/minor-courts/magisterial-district-judges"
+      },
+      {
+        "text": "Philadelphia Municipal Court Judges",
+        "url": "https://www.pacourts.us/courts/minor-courts/philadelphia-municipal-court-judges"
+      },
+      {
+        "text": "Pittsburgh Municipal Court Judges",
+        "url": "https://www.pacourts.us/courts/minor-courts/pittsburgh-municipal-court-judges"
+      },
+      {
+        "text": "Docket Sheets",
+        "url": "https://www.pacourts.us/courts/minor-courts/docket-sheets"
+      },
+      {
+        "text": "Judicial AdministrationAdministrative Office of Pennsylvania Courts",
+        "url": "https://www.pacourts.us/judicial-administration"
+      },
+      {
+        "text": "Communications",
+        "url": "https://www.pacourts.us/judicial-administration/office-of-communications-and-intergovernmental-relations"
+      },
+      {
+        "text": "Information Technology",
+        "url": "https://www.pacourts.us/judicial-administration/judicial-automation"
+      },
+      {
+        "text": "Operations",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs"
+      },
+      {
+        "text": "Language Access & Interpreter Program",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/language-access-and-interpreter-program"
+      },
+      {
+        "text": "Office of Children & Families in the Courts",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-children-and-families-in-the-courts"
+      },
+      {
+        "text": "Problem-Solving Courts",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/problem-solving-courts"
+      },
+      {
+        "text": "Elder Justice in the Courts",
+        "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-elder-justice-in-the-courts"
+      },
+      {
+        "text": "Judicial District Security",
+        "url": "https://www.pacourts.us/judicial-administration/judicial-security"
+      },
+      {
+        "text": "Budget",
+        "url": "https://www.pacourts.us/judicial-administration/budget"
+      },
+      {
+        "text": "Human Resources",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources"
+      },
+      {
+        "text": "Job Openings",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings"
+      },
+      {
+        "text": "Benefits",
+        "url": "https://www.pacourts.us/judicial-administration/human-resources/benefits"
+      },
+      {
+        "text": "Judicial Education",
+        "url": "https://www.pacourts.us/judicial-administration/judicial-education"
+      },
+      {
+        "text": "News & Statistics",
+        "url": "https://www.pacourts.us/news-and-statistics"
+      },
+      {
+        "text": "News",
+        "url": "https://www.pacourts.us/news-and-statistics/news"
+      },
+      {
+        "text": "Cases of Public Interest",
+        "url": "https://www.pacourts.us/news-and-statistics/cases-of-public-interest"
+      },
+      {
+        "text": "News Releases",
+        "url": "https://www.pacourts.us/news-and-statistics/news-releases"
+      },
+      {
+        "text": "Media Resources",
+        "url": "https://www.pacourts.us/news-and-statistics/media-resources"
+      },
+      {
+        "text": "Research & Statistics",
+        "url": "https://www.pacourts.us/news-and-statistics/research-and-statistics"
+      },
+      {
+        "text": "Reports",
+        "url": "https://www.pacourts.us/news-and-statistics/reports"
+      },
+      {
+        "text": "Archive",
+        "url": "https://www.pacourts.us/news-and-statistics/archived-resources"
+      },
+      {
+        "text": "Learn",
+        "url": "https://www.pacourts.us/learn"
+      },
+      {
+        "text": "Autism and the Courts",
+        "url": "https://www.pacourts.us/learn/autism-and-the-courts"
+      },
+      {
+        "text": "Human Trafficking",
+        "url": "https://www.pacourts.us/learn/human-trafficking"
+      },
+      {
+        "text": "Protection Orders",
+        "url": "https://www.pacourts.us/learn/protection-orders"
+      },
+      {
+        "text": "How the Courts Operate",
+        "url": "https://www.pacourts.us/learn/how-the-courts-operate"
+      },
+      {
+        "text": "History",
+        "url": "https://www.pacourts.us/learn/history"
+      },
+      {
+        "text": "How Judges Are Elected",
+        "url": "https://www.pacourts.us/learn/how-judges-are-elected"
+      },
+      {
+        "text": "FAQs",
+        "url": "https://www.pacourts.us/learn/faqs"
+      },
+      {
+        "text": "Jury Duty",
+        "url": "https://www.pacourts.us/learn/jury-duty"
+      },
+      {
+        "text": "Submit comments and inquiries ‌",
+        "url": "https://www.pacourts.us/comments-and-inquiries"
+      },
+      {
+        "text": "‌",
+        "url": "https://itunes.apple.com/app/paedocket/id943932164"
+      },
+      {
+        "text": "‌",
+        "url": "https://ujsportal.pacourts.us/ePay.aspx"
+      },
+      {
+        "text": "‌",
+        "url": "https://ujsportal.pacourts.us/PACFile.aspx"
+      },
+      {
+        "text": "Contact Us ‌",
+        "url": "https://www.pacourts.us/contact-us"
+      },
+      {
+        "text": "Get Directions",
+        "url": "https://maps.google.com/maps?t=m&q=Pennsylvania+Judicial+Center,+Commonwealth+Avenue,+Harrisburg,+PA"
+      },
+      {
+        "text": "‌",
+        "url": "https://www.facebook.com/pennsylvaniacourts"
+      },
+      {
+        "text": "‌",
+        "url": "https://x.com/pacourts"
+      },
+      {
+        "text": "‌",
+        "url": "https://www.youtube.com/channel/UCR7oiMya78Iixm8XFjQ3ctQ"
+      },
+      {
+        "text": "‌",
+        "url": "https://bsky.app/profile/pacourts.bsky.social"
+      },
+      {
+        "text": "‌",
+        "url": "https://itunes.apple.com/app/paedocket/id943932164"
+      },
+      {
+        "text": "‌",
+        "url": "https://ujsportal.pacourts.us/ePay.aspx"
+      },
+      {
+        "text": "‌",
+        "url": "https://ujsportal.pacourts.us/PACFile.aspx"
+      }
+    ]
+  },
+  {
+    "state": "West Virginia",
+    "publisher": "West Virginia State Bar",
+    "url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+    "category": "Estate and personal planning",
+    "direct": false,
+    "rules": [
+      {
+        "pattern": "Combined.*(?:MPOA|Power)",
+        "title": "Combined Medical Power of Attorney and Living Will",
+        "family_id": "combined-advance-directives",
+        "identity": "MEDICAL POWER OF ATTORNEY.*LIVING WILL",
+        "max": 1
+      },
+      {
+        "pattern": "WV Living Will",
+        "title": "Living Will",
+        "family_id": "health-care-directive",
+        "identity": "LIVING WILL",
+        "max": 1
+      },
+      {
+        "pattern": "WV Medical Power of Attorney",
+        "title": "Medical Power of Attorney",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "MEDICAL POWER OF ATTORNEY",
+        "max": 1
+      },
+      {
+        "pattern": "Power of Attorney Form",
+        "title": "Statutory Power of Attorney",
+        "family_id": "financial-power-of-attorney",
+        "identity": "POWER OF ATTORNEY",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+      "final_url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:12:13.918Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "07e02313e8e8a9a6ce143c0695e118b908d791229b03b298d73b94ef0cd43882",
+      "title": "Medical Power of Attorney & Living Will Forms – Statutorily Approved",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14-05/03-west-virginia-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+        "final_url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:12:13.918Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": null,
+        "sha256": "07e02313e8e8a9a6ce143c0695e118b908d791229b03b298d73b94ef0cd43882",
+        "title": "Medical Power of Attorney & Living Will Forms – Statutorily Approved",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "Combined.*(?:MPOA|Power)",
+        "title": "Combined Medical Power of Attorney and Living Will",
+        "family_id": "combined-advance-directives",
+        "identity": "MEDICAL POWER OF ATTORNEY.*LIVING WILL",
+        "max": 1,
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf",
+        "link_text": "WV Combined MPOA and Living Will form 2022",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf",
+          "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:12:17.405Z",
+          "etag": "\"698218f9-245de\"",
+          "last_modified": "Tue, 03 Feb 2026 15:49:13 GMT",
+          "content_length": "148958",
+          "sha256": "66ee59774b503a1b9be3733f58cf34b20fa1c3210a471dc4e055458a80f64966",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf",
+            "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:12:17.405Z",
+            "etag": "\"698218f9-245de\"",
+            "last_modified": "Tue, 03 Feb 2026 15:49:13 GMT",
+            "content_length": "148958",
+            "sha256": "66ee59774b503a1b9be3733f58cf34b20fa1c3210a471dc4e055458a80f64966",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "66ee59774b503a1b9be3733f58cf34b20fa1c3210a471dc4e055458a80f64966",
+        "local_archive_path": "archive/2026-10-14-05/03-combined-medical-power-of-attorney-and-living-will-66ee59774b50.pdf",
+        "bytes": 148958,
+        "text_length": 7355,
+        "pages": 3,
+        "identity_excerpt": "Page 1 of 3 STATE OF WEST VIRGINIA COMBINED MEDICAL POWER OF ATTORNEY AND LIVING WILL The Person I Want to Make Health Care Decisions for Me When I Can’t Make Them for Myself and the Kind of Medical Treatment I Want and Don’t Want If I Have a Terminal Condition Dated: ____________________, 20____. I,____________________________________________________, hereby appoint as my representative to act on my behalf to give, withhold, or withdraw informed consent to health care decisions in the event that I am unable to do so myself. The person I choose as my representative is: ______________________________________________________________________ ______________________________________________________________________ (Insert the name, address, area code, and telephone number of the person you wish to designate as your representative. Please insert only one name.) If my representative is unable, unwilling, or disqualified to serve, then I appoint as my successor representative: ______________________________________________________________________ ______________________________________________________________________ (Insert the name, address, area code, and telephone number of the person you wish to designate as your successor representative. Please insert only one name.) This appointment shall extend to, but not be limited to, health care decisions relating to medical treatment, surgical treatment, nursing care, medication, hospitalization, care and treatment in a nursing home or other facility, and home health care. The representative appointed by this document is specifically authorized to be granted access to my medical records and other health information and to act on my behalf to consent to, refuse, or withdraw any and all medical treatment or diagnostic procedures, or au",
+        "revision_evidence": [],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      },
+      {
+        "pattern": "WV Living Will",
+        "title": "Living Will",
+        "family_id": "health-care-directive",
+        "identity": "LIVING WILL",
+        "max": 1,
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf",
+        "link_text": "WV Living Will 2022 form",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf",
+          "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:12:18.245Z",
+          "etag": "\"698218fa-16b30\"",
+          "last_modified": "Tue, 03 Feb 2026 15:49:14 GMT",
+          "content_length": "92976",
+          "sha256": "2ddc42bd2419a12d1ea7b4b49530810567009210830b8bf446efc3762c4e9489",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf",
+            "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:12:18.245Z",
+            "etag": "\"698218fa-16b30\"",
+            "last_modified": "Tue, 03 Feb 2026 15:49:14 GMT",
+            "content_length": "92976",
+            "sha256": "2ddc42bd2419a12d1ea7b4b49530810567009210830b8bf446efc3762c4e9489",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "2ddc42bd2419a12d1ea7b4b49530810567009210830b8bf446efc3762c4e9489",
+        "local_archive_path": "archive/2026-10-14-05/03-living-will-2ddc42bd2419.pdf",
+        "bytes": 92976,
+        "text_length": 3703,
+        "pages": 2,
+        "identity_excerpt": "Page 1 of 2 STATE OF WEST VIRGINIA LIVING WILL The Kind of Medical Treatment I Want and Don’t Want If I Have a Terminal Condition THIS LIVING WILL made this ____day of _______________, 20___. I,___________________________________________________, being of sound mind, willfully and voluntarily declare that I want my wishes to be respected if I am very sick and unable to communicate my wishes for myself. In the absence of my ability to give directions regarding the use of life-prolonging intervention, it is my desire that my dying may not be prolonged under the following circumstances: If I am very sick and unable to communicate my wishes for myself and I am certified by one physician, who has personally examined me, to have a terminal condition, I direct that life- prolonging intervention that would serve solely to prolong the dying process be withheld or withdrawn. I understand that by signing this document I am agreeing to the REMOVAL or REFUSAL of cardiopulmonary resuscitation (CPR), breathing machine (ventilator), dialysis, and medically administered food and fluids, such as might be provided intravenously or by feeding tube. I want to be allowed to die naturally and only be given medications or other medical procedures necessary to keep me comfortable. I want to receive as much medication as is necessary to alleviate my pain. Nevertheless, oral food and fluids, such as may be provided by spoon or by straw, shall be offered as desired and can be tolerated. I give the following SPECIAL DIRECTIVES OR LIMITATIONS (Comments about funeral arrangements, autopsy, mental health treatment, and organ donation may be placed here. My failure to provide special directives or limitations does not mean that I want or refuse certain treatments.): ____________________________________",
+        "revision_evidence": [],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      },
+      {
+        "pattern": "WV Medical Power of Attorney",
+        "title": "Medical Power of Attorney",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "MEDICAL POWER OF ATTORNEY",
+        "max": 1,
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+        "link_text": "WV Medical Power of Attorney form 2022",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+          "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:12:19.004Z",
+          "etag": "\"698218fc-1ef03\"",
+          "last_modified": "Tue, 03 Feb 2026 15:49:16 GMT",
+          "content_length": "126723",
+          "sha256": "65a0334ee4fdf655c0a681a48e8ffb62b7e7b35bb4a39ed18df3beb4e0eea033",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+            "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:12:19.004Z",
+            "etag": "\"698218fc-1ef03\"",
+            "last_modified": "Tue, 03 Feb 2026 15:49:16 GMT",
+            "content_length": "126723",
+            "sha256": "65a0334ee4fdf655c0a681a48e8ffb62b7e7b35bb4a39ed18df3beb4e0eea033",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "65a0334ee4fdf655c0a681a48e8ffb62b7e7b35bb4a39ed18df3beb4e0eea033",
+        "local_archive_path": "archive/2026-10-14-05/03-medical-power-of-attorney-65a0334ee4fd.pdf",
+        "bytes": 126723,
+        "text_length": 5218,
+        "pages": 3,
+        "identity_excerpt": "Page 1 of 3 STATE OF WEST VIRGINIA MEDICAL POWER OF ATTORNEY The Person I Want to Make Health Care Decisions For Me When I Can’t Make Them for Myself Dated: ____________________, 20____. I,____________________________________________________, hereby appoint as my representative to act on my behalf to give, withhold, or withdraw informed consent to health care decisions in the event that I am unable to do so myself. The person I choose as my representative is: ______________________________________________________________________ ______________________________________________________________________ (Insert the name, address, area code, and telephone number of the person you wish to designate as your representative. Please insert only one name.) If my representative is unable, unwilling, or disqualified to serve, then I appoint as my successor representative: ______________________________________________________________________ ______________________________________________________________________ (Insert the name, address, area code, and telephone number of the person you wish to designate as your successor representative. Please insert only one name.) This appointment shall extend to, but not be limited to, health care decisions relating to medical treatment, surgical treatment, nursing care, medication, hospitalization, care and treatment in a nursing home or other facility, and home health care. The representative appointed by this document is specifically authorized to be granted access to my medical records and other health information and to act on my behalf to consent to, refuse, or withdraw any and all medical treatment or diagnostic procedures, or autopsy if my representative determines that I, if able to do so, would consent to, refuse, or withdraw such treat",
+        "revision_evidence": [],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      },
+      {
+        "pattern": "Power of Attorney Form",
+        "title": "Statutory Power of Attorney",
+        "family_id": "financial-power-of-attorney",
+        "identity": "POWER OF ATTORNEY",
+        "max": 1,
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+        "link_text": "WV Medical Power of Attorney form 2022",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+          "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:12:19.414Z",
+          "etag": "\"698218fc-1ef03\"",
+          "last_modified": "Tue, 03 Feb 2026 15:49:16 GMT",
+          "content_length": "126723",
+          "sha256": "65a0334ee4fdf655c0a681a48e8ffb62b7e7b35bb4a39ed18df3beb4e0eea033",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+            "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:12:19.414Z",
+            "etag": "\"698218fc-1ef03\"",
+            "last_modified": "Tue, 03 Feb 2026 15:49:16 GMT",
+            "content_length": "126723",
+            "sha256": "65a0334ee4fdf655c0a681a48e8ffb62b7e7b35bb4a39ed18df3beb4e0eea033",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "65a0334ee4fdf655c0a681a48e8ffb62b7e7b35bb4a39ed18df3beb4e0eea033",
+        "local_archive_path": "archive/2026-10-14-05/03-statutory-power-of-attorney-65a0334ee4fd.pdf",
+        "bytes": 126723,
+        "text_length": 5218,
+        "pages": 3,
+        "identity_excerpt": "Page 1 of 3 STATE OF WEST VIRGINIA MEDICAL POWER OF ATTORNEY The Person I Want to Make Health Care Decisions For Me When I Can’t Make Them for Myself Dated: ____________________, 20____. I,____________________________________________________, hereby appoint as my representative to act on my behalf to give, withhold, or withdraw informed consent to health care decisions in the event that I am unable to do so myself. The person I choose as my representative is: ______________________________________________________________________ ______________________________________________________________________ (Insert the name, address, area code, and telephone number of the person you wish to designate as your representative. Please insert only one name.) If my representative is unable, unwilling, or disqualified to serve, then I appoint as my successor representative: ______________________________________________________________________ ______________________________________________________________________ (Insert the name, address, area code, and telephone number of the person you wish to designate as your successor representative. Please insert only one name.) This appointment shall extend to, but not be limited to, health care decisions relating to medical treatment, surgical treatment, nursing care, medication, hospitalization, care and treatment in a nursing home or other facility, and home health care. The representative appointed by this document is specifically authorized to be granted access to my medical records and other health information and to act on my behalf to consent to, refuse, or withdraw any and all medical treatment or diagnostic procedures, or autopsy if my representative determines that I, if able to do so, would consent to, refuse, or withdraw such treat",
+        "revision_evidence": [],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "West Virginia State Bar",
+        "url": "https://wvbar.org/"
+      },
+      {
+        "text": "Login/Create Account",
+        "url": "https://mywvbar.org/"
+      },
+      {
+        "text": "Membership Directory Search",
+        "url": "https://mywvbar.org/membership-search-members"
+      },
+      {
+        "text": "Home",
+        "url": "https://wvbar.org/"
+      },
+      {
+        "text": "About Us",
+        "url": "https://wvbar.org/about-us/"
+      },
+      {
+        "text": "State Bar Districts",
+        "url": "https://wvbar.org/about-us/state-bar-districts/"
+      },
+      {
+        "text": "County Bar Associations",
+        "url": "https://wvbar.org/about-us/county-bar-associations/"
+      },
+      {
+        "text": "Constitution, Bylaws and Rules and Regulations",
+        "url": "https://wvbar.org/constitution-bylaws-and-rules-and-regulations/"
+      },
+      {
+        "text": "Board of Governors",
+        "url": "https://wvbar.org/committees/boards/board-of-governors/"
+      },
+      {
+        "text": "Young Lawyer Section",
+        "url": "https://wvbar.org/committees/yls/"
+      },
+      {
+        "text": "State Bar Past Presidents",
+        "url": "https://wvbar.org/about-us/past-presidents/"
+      },
+      {
+        "text": "Staff",
+        "url": "https://wvbar.org/about-us/staff/"
+      },
+      {
+        "text": "Contact Us",
+        "url": "https://wvbar.org/about-us/contact-us/"
+      },
+      {
+        "text": "Privacy Policy",
+        "url": "https://wvbar.org/about-us/privacy-policy/"
+      },
+      {
+        "text": "Committees",
+        "url": "https://wvbar.org/committees/"
+      },
+      {
+        "text": "Boards",
+        "url": "https://wvbar.org/committees/boards/"
+      },
+      {
+        "text": "Board of Governors",
+        "url": "https://wvbar.org/committees/boards/board-of-governors/"
+      },
+      {
+        "text": "Young Lawyer Board",
+        "url": "https://wvyounglawyers.com/about-us/executive-committee/"
+      },
+      {
+        "text": "WVJLAP Board of Directors",
+        "url": "https://wvjlap.org/who-we-are/board-of-directors/"
+      },
+      {
+        "text": "Bar Committees",
+        "url": "https://wvbar.org/committees/bar-committees/"
+      },
+      {
+        "text": "Committee Resources",
+        "url": "https://wvbar.org/committee-resources/"
+      },
+      {
+        "text": "Upcoming Committee Meetings",
+        "url": "https://www.mywvbar.org/events"
+      },
+      {
+        "text": "Young Lawyer Section",
+        "url": "https://wvbar.org/committees/yls/"
+      },
+      {
+        "text": "Meeting & Travel Reimbursement",
+        "url": "https://wvbar.org/meeting-travel-reimbursement/"
+      },
+      {
+        "text": "For Attorneys",
+        "url": "https://wvbar.org/members/"
+      },
+      {
+        "text": "Membership Information >",
+        "url": "https://wvbar.org/members/membership/"
+      },
+      {
+        "text": "Bar ID Card",
+        "url": "https://apps.wv.gov/DMV/SelfService/StateBar"
+      },
+      {
+        "text": "Fee Schedule",
+        "url": "https://wvbar.org/fee-schedule/"
+      },
+      {
+        "text": "Keller Notice (Membership Fee Guidelines)",
+        "url": "https://www.mywvbar.org/feeguidelines"
+      },
+      {
+        "text": "Members Login",
+        "url": "https://wvbar.org/members/member-login/"
+      },
+      {
+        "text": "Membership Reporting & Fees 2026 -2027",
+        "url": "https://wvbar.org/2023-24/"
+      },
+      {
+        "text": "Status Change",
+        "url": "https://wvbar.org/members/status-change/"
+      },
+      {
+        "text": "Succession Plan",
+        "url": "https://wvbar.org/sucession-plan/"
+      },
+      {
+        "text": "CLE",
+        "url": "https://wvbar.org/members/mcle/"
+      },
+      {
+        "text": "LC’s, LLP’s & PLLC Organizations",
+        "url": "https://wvbar.org/members/pllcs/"
+      },
+      {
+        "text": "IOLTA",
+        "url": "https://wvbar.org/members/iolta/"
+      },
+      {
+        "text": "2025-2026 WVSB Budget Overview",
+        "url": "https://wvbar.org/wp-content/uploads/2025/12/2025-2026-WVSB-Budget-Overview.pdf"
+      },
+      {
+        "text": "Strategic Plan",
+        "url": "https://wvbar.org/strategic-plan/"
+      },
+      {
+        "text": "Member Benefits >",
+        "url": "https://wvbar.org/members/member-benefits/"
+      },
+      {
+        "text": "ABA Retirement Fund",
+        "url": "https://wvbar.org/members/member-benefits/"
+      },
+      {
+        "text": "ALPS Attorney Match",
+        "url": "https://wvbar.org/members/alps-attorney-match/"
+      },
+      {
+        "text": "ALPS Legal Malpractice Insurance",
+        "url": "https://wvbar.org/alps-legal-malpractice-insurance/"
+      },
+      {
+        "text": "Bar ID Card",
+        "url": "https://apps.wv.gov/DMV/SelfService/StateBar"
+      },
+      {
+        "text": "Clio",
+        "url": "https://wvbar.org/members/clio/"
+      },
+      {
+        "text": "vLex Fastcase",
+        "url": "https://wvbar.org/members/fastcase/"
+      },
+      {
+        "text": "LawPay – Credit Card Processing",
+        "url": "https://wvbar.org/members/member-benefits/"
+      },
+      {
+        "text": "National Purchasing Partners (NPP)",
+        "url": "https://wvbar.org/members/member-benefits/"
+      },
+      {
+        "text": "Career Services",
+        "url": "https://wvbar.org/members/career-services-2/"
+      },
+      {
+        "text": "Volunteer Opportunities >",
+        "url": "https://wvbar.org/members/volunteer-opportunities/"
+      },
+      {
+        "text": "Bar Committees",
+        "url": "https://wvbar.org/committees/bar-committees/"
+      },
+      {
+        "text": "Tuesday Legal Connect ☎",
+        "url": "https://wvbar.org/public-information/get-legal-help/tuesday-legal-connect-for-attorneys/"
+      },
+      {
+        "text": "West Virginia Free Legal Answers Lawyer Registration",
+        "url": "http://wv.freelegalanswers.org/Attorneys/Account/Agreement"
+      },
+      {
+        "text": "Become a Mediator",
+        "url": "https://wvbar.org/members/become-a-mediator/"
+      },
+      {
+        "text": "E-Filing Training Seminar",
+        "url": "https://wvbar.org/the-supreme-court-of-appeals-of-west-virginias-courtplus-electronic-filing-system-training/"
+      },
+      {
+        "text": "Judicial & Lawyer Assistance Program",
+        "url": "http://www.wvjlap.org/"
+      },
+      {
+        "text": "More Than A Lawyer",
+        "url": "https://wvbar.org/mtal/"
+      },
+      {
+        "text": "Cyber Threats",
+        "url": "https://wvbar.org/members/cyber-threats/"
+      },
+      {
+        "text": "Membership Directory",
+        "url": "https://www.mywvbar.org/membership-search-members"
+      },
+      {
+        "text": "In Memory Of…",
+        "url": "https://wvbar.org/members/in-memory-of/"
+      },
+      {
+        "text": "Voluntary Fee Dispute Resolution Program",
+        "url": "https://wvbar.org/public-information/voluntary-fee-dispute-resolution-program/"
+      },
+      {
+        "text": "Members Login",
+        "url": "https://www.mywvbar.org/"
+      },
+      {
+        "text": "Fastcase Login",
+        "url": "https://wvbar.org/members/fastcase/"
+      },
+      {
+        "text": "Free Trust Accounting & Billing Software by Smokeball",
+        "url": "https://wvbar.org/free-trust-accounting-billing-software-by-smokeball/"
+      },
+      {
+        "text": "For The Public",
+        "url": "https://wvbar.org/public-information/"
+      },
+      {
+        "text": "Get Legal Help >",
+        "url": "https://wvbar.org/public-information/get-legal-help/"
+      },
+      {
+        "text": "Lawyer Referral Service",
+        "url": "http://www.wvlawyerreferral.org/#new_tab"
+      },
+      {
+        "text": "Tuesday Legal Connect ☎",
+        "url": "https://wvbar.org/public-information/get-legal-help/tuesday-legal-connect-for-attorneys/"
+      },
+      {
+        "text": "Veterans Legal Assistance",
+        "url": "https://wvlawyerreferral.org/pages/veteran"
+      },
+      {
+        "text": "West Virginia Free Legal Answers",
+        "url": "https://wvbar.org/public-information/get-legal-help/west-virginia-free-legal-answers/"
+      },
+      {
+        "text": "COVID-19: Help for West Virginians",
+        "url": "https://wvbar.org/wp-content/uploads/2021/06/COVID-19-Information-on-Programs-that-Help-002.pdf"
+      },
+      {
+        "text": "Public Programs >",
+        "url": "https://wvbar.org/public-information/public-programs/"
+      },
+      {
+        "text": "Lawyers Fund for Client Protection",
+        "url": "https://wvbar.org/public-information/lawyers-fund-for-client-protection/"
+      },
+      {
+        "text": "Mediator Search",
+        "url": "https://wvbar.org/public-information/mediator-search/"
+      },
+      {
+        "text": "Voluntary Fee Dispute Program",
+        "url": "https://wvbar.org/public-information/voluntary-fee-dispute-resolution-program/"
+      },
+      {
+        "text": "Unlawful Practice of Law >",
+        "url": "https://wvbar.org/public-information/unlawful-practice/"
+      },
+      {
+        "text": "Advisory Opinions",
+        "url": "https://wvbar.org/public-information/advisory-opinions/"
+      },
+      {
+        "text": "By-Laws Regarding Unlawful Practice of Law",
+        "url": "https://wvbar.org/public-information/unlawful-practice/"
+      },
+      {
+        "text": "Complaint Form",
+        "url": "https://wvbar.org/wp-content/uploads/2026/08/UPL-Complaint-uplcomplaintform1.docx"
+      },
+      {
+        "text": "Definition of the Practice of Law",
+        "url": "https://wvbar.org/definition-of-the-practice-of-law/"
+      },
+      {
+        "text": "Reporting of Possible Unlawful Practice of Law",
+        "url": "https://wvbar.org/public-information/unlawful-practice/reporting-of-possible-unlawful-practice-of-law/"
+      },
+      {
+        "text": "Rules for Admission to Practice in WV",
+        "url": "http://www.courtswv.gov/legal-community/rules-for-admission.html"
+      },
+      {
+        "text": "Basic Guidelines on the Unauthorized Practice of Law in Probate Administration",
+        "url": "https://wvbar.org/wp-content/uploads/2022/07/Updated-Basic-Guidelines-on-the-UPL-in-Probate-Administration.pdf"
+      },
+      {
+        "text": "Membership Directory Search",
+        "url": "https://www.mywvbar.org/membership-search-members"
+      },
+      {
+        "text": "PDF Directory",
+        "url": "https://wvbar.org/directory/"
+      },
+      {
+        "text": "",
+        "url": "https://www.mywvbar.org/membership-search-members"
+      },
+      {
+        "text": "Courthouse & County Information",
+        "url": "https://wvbar.org/public-information/courthouses/"
+      },
+      {
+        "text": "Advertise With Us",
+        "url": "https://wvbar.org/public-information/membership-list-agreement/"
+      },
+      {
+        "text": "FOIA Requests",
+        "url": "https://wvbar.org/public-information/foia-requests/"
+      },
+      {
+        "text": "Medical Power of Attorney & Living Will Forms – Statutorily Approved",
+        "url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/"
+      },
+      {
+        "text": "File a Complaint",
+        "url": "https://storage.googleapis.com/msgsndr/Rgd68xOkcVdteTsBkf6O/media/6686b82ea3b05e6cf69a6567.pdf"
+      },
+      {
+        "text": "Events",
+        "url": "https://www.mywvbar.org/events"
+      },
+      {
+        "text": "News",
+        "url": "https://wvbar.org/news/"
+      },
+      {
+        "text": "Publications",
+        "url": "https://wvbar.org/news/publications/"
+      },
+      {
+        "text": "Pro Hac Vice",
+        "url": "https://wvbar.org/pro-hac-vice/"
+      },
+      {
+        "text": "CLE",
+        "url": "https://wvbar.org/members/mcle/"
+      },
+      {
+        "text": "Related Links",
+        "url": "https://wvbar.org/related-links/"
+      },
+      {
+        "text": "WV Combined MPOA and Living Will form 2022",
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf"
+      },
+      {
+        "text": "Download",
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf"
+      },
+      {
+        "text": "WV Living Will 2022 form",
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf"
+      },
+      {
+        "text": "Download",
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf"
+      },
+      {
+        "text": "WV Medical Power of Attorney form 2022",
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf"
+      },
+      {
+        "text": "Download",
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf"
+      },
+      {
+        "text": "Power of Attorney Form",
+        "url": "https://wvbar.org/wp-content/uploads/2020/03/App-D-WV-POA-Form-2020.pdf"
+      },
+      {
+        "text": "Download",
+        "url": "https://wvbar.org/wp-content/uploads/2020/03/App-D-WV-POA-Form-2020.pdf"
+      },
+      {
+        "text": "Affidavit on Disposition of Remains state form 2020",
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/Affidavit-on-Disposition-of-Remains-state-form-2020.pdf"
+      },
+      {
+        "text": "Download",
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/Affidavit-on-Disposition-of-Remains-state-form-2020.pdf"
+      },
+      {
+        "text": "2026 Interest Rate on Judgments and Decrees",
+        "url": "https://wvbar.org/2026-interest-rate-on-judgments-and-decrees/"
+      },
+      {
+        "text": "Click Here for More News",
+        "url": "https://wvbar.org/category/news/"
+      },
+      {
+        "text": "",
+        "url": "https://wvbar.org/wv-state-bar-office-access-during-covid-19/"
+      },
+      {
+        "text": "",
+        "url": "https://wvbar.org/news/publications/wv-lawyer-magazine/"
+      },
+      {
+        "text": "Bar Blast – October 13, 2026",
+        "url": "https://conta.cc/4hNSqFI"
+      },
+      {
+        "text": "Bar Blast – October 6, 2026",
+        "url": "https://conta.cc/47Hl1rn"
+      },
+      {
+        "text": "Bar Blast – September 29, 2026",
+        "url": "https://conta.cc/4iOKztC"
+      },
+      {
+        "text": "Bar Blast – September 22, 2026",
+        "url": "https://conta.cc/4yi1vNZ"
+      },
+      {
+        "text": "Bar Blast – September 15, 2026",
+        "url": "https://conta.cc/4rlbbof"
+      },
+      {
+        "text": "Bar Blast – September 8, 2026",
+        "url": "https://conta.cc/4qVW4kP"
+      },
+      {
+        "text": "Bar Blast – September 1, 2026",
+        "url": "https://conta.cc/4xuvkKP"
+      },
+      {
+        "text": "Bar Blast – August 25, 2026",
+        "url": "https://conta.cc/3SclhuG"
+      },
+      {
+        "text": "More",
+        "url": "https://wvbar.org/category/bar-blast/"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/WVStateBar/"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/wvstatebar"
+      },
+      {
+        "text": "American Bar Association",
+        "url": "http://www.americanbar.org/aba.html"
+      },
+      {
+        "text": "Legal Aid of West Virginia",
+        "url": "https://legalaidwv.org/"
+      },
+      {
+        "text": "Public Defender Services",
+        "url": "http://www.pds.wv.gov/"
+      },
+      {
+        "text": "State Bar Young Lawyer Section",
+        "url": "http://www.wvyounglawyers.com/"
+      },
+      {
+        "text": "Supreme Court of Appeals of WV",
+        "url": "http://www.courtswv.gov/"
+      },
+      {
+        "text": "US Bankruptcy – NDWV",
+        "url": "http://www.wvnb.uscourts.gov/"
+      },
+      {
+        "text": "US Bankruptcy – SDWV",
+        "url": "http://www.wvsb.uscourts.gov/"
+      },
+      {
+        "text": "US Court of Appeals-4th Circuit",
+        "url": "http://www.ca4.uscourts.gov/"
+      },
+      {
+        "text": "US District Court – NDWV",
+        "url": "http://www.wvnd.uscourts.gov/"
+      },
+      {
+        "text": "US District Court – SDWV",
+        "url": "http://www.wvsd.uscourts.gov/"
+      },
+      {
+        "text": "WV Attorney General",
+        "url": "http://www.wvago.gov/"
+      },
+      {
+        "text": "WV Bar Foundation",
+        "url": "http://www.wvbarfound.org/"
+      },
+      {
+        "text": "WV Board of Law Examiners",
+        "url": "http://www.courtswv.gov/legal-community/board-of-law-examiners.html"
+      },
+      {
+        "text": "WV Continuing Legal Education",
+        "url": "http://wvcle.org/"
+      },
+      {
+        "text": "WV Judicial & Lawyer Assistance Program",
+        "url": "http://wvjlap.org/"
+      },
+      {
+        "text": "WV Office of Disciplinary Counsel",
+        "url": "http://www.wvodc.org/"
+      },
+      {
+        "text": "WVU College of Law",
+        "url": "http://law.wvu.edu/"
+      },
+      {
+        "text": "The West Virginia State Bar",
+        "url": "https://wvbar.org/"
+      },
+      {
+        "text": "Privacy Policy",
+        "url": "https://wvbar.org/about-us/privacy-policy"
+      },
+      {
+        "text": "Terms of Use",
+        "url": "https://wvbar.org/about-us/terms-of-use"
+      }
+    ]
+  },
+  {
+    "state": "Kansas",
+    "publisher": "Kansas Judicial Council",
+    "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "Petition.*pdf|pdf.*Petition",
+        "title": "Small Claims Petition",
+        "family_id": "small-claims-complaint",
+        "identity": "(?:SMALL CLAIMS|PETITION)",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case",
+      "final_url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:12:20.341Z",
+      "etag": null,
+      "last_modified": "Tue, 13 Oct 2026 18:16:07 GMT",
+      "content_length": "27667",
+      "sha256": "6b9d45c010b3677655b1cd13982ef63aaa66072aab1d024c8dfc29b4f4cb4314",
+      "title": "Filing a Small Claims Case | KS Judicial Council",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14-05/04-kansas-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case",
+        "final_url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "retrieved_at": "2026-10-14T09:12:20.341Z",
+        "etag": null,
+        "last_modified": "Tue, 13 Oct 2026 18:16:07 GMT",
+        "content_length": "27667",
+        "sha256": "6b9d45c010b3677655b1cd13982ef63aaa66072aab1d024c8dfc29b4f4cb4314",
+        "title": "Filing a Small Claims Case | KS Judicial Council",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "Petition.*pdf|pdf.*Petition",
+        "title": "Small Claims Petition",
+        "family_id": "small-claims-complaint",
+        "identity": "(?:SMALL CLAIMS|PETITION)",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "Skip to main content",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case#sitebody"
+      },
+      {
+        "text": "Home",
+        "url": "https://www.kjc.ks.gov/home"
+      },
+      {
+        "text": "Log In",
+        "url": "https://www.kjc.ks.gov/publications/online-access/online-publication-access"
+      },
+      {
+        "text": "Contact Us",
+        "url": "https://www.kjc.ks.gov/about/contact-us"
+      },
+      {
+        "text": "Home",
+        "url": "https://www.kjc.ks.gov/home"
+      },
+      {
+        "text": "About",
+        "url": "https://www.kjc.ks.gov/about"
+      },
+      {
+        "text": "Judicial Council Members",
+        "url": "https://www.kjc.ks.gov/about/judicial-council-members"
+      },
+      {
+        "text": "Former Judicial Coucil Members",
+        "url": "https://www.kjc.ks.gov/about/judicial-council-members/former-judicial-coucil-members"
+      },
+      {
+        "text": "Advisory Committees",
+        "url": "https://www.kjc.ks.gov/about/advisory-committees"
+      },
+      {
+        "text": "Ad Hoc Advisory Committee on Legal Notice by Publication",
+        "url": "https://www.kjc.ks.gov/about/advisory-committees/ad-hoc"
+      },
+      {
+        "text": "Appellate Practice",
+        "url": "https://www.kjc.ks.gov/about/advisory-committees/appellate-practice"
+      },
+      {
+        "text": "Civil Code",
+        "url": "https://www.kjc.ks.gov/about/advisory-committees/civil-code"
+      },
+      {
+        "text": "Criminal Law",
+        "url": "https://www.kjc.ks.gov/about/advisory-committees/criminal-law"
+      },
+      {
+        "text": "Family Law",
+        "url": "https://www.kjc.ks.gov/about/advisory-committees/family-law"
+      },
+      {
+        "text": "Guardianship and Conservatorship",
+        "url": "https://www.kjc.ks.gov/about/advisory-committees/guardianship-and-conservatorship"
+      },
+      {
+        "text": "Juvenile Offender/Child In Need of Care",
+        "url": "https://www.kjc.ks.gov/about/advisory-committees/juvenile-offender-child-in-need-of-care"
+      },
+      {
+        "text": "Municipal Court Manual",
+        "url": "https://www.kjc.ks.gov/about/advisory-committees/municipal-court-manual"
+      },
+      {
+        "text": "PIK - Civil",
+        "url": "https://www.kjc.ks.gov/about/advisory-committees/pik-civil"
+      },
+      {
+        "text": "PIK - Criminal",
+        "url": "https://www.kjc.ks.gov/about/advisory-committees/pik-criminal"
+      },
+      {
+        "text": "Probate Law",
+        "url": "https://www.kjc.ks.gov/about/advisory-committees/probate-law"
+      },
+      {
+        "text": "Tribal-State Judicial Forum",
+        "url": "https://www.kjc.ks.gov/about/advisory-committees/tribal-state-judicial-forum"
+      },
+      {
+        "text": "Website Forms",
+        "url": "https://www.kjc.ks.gov/about/advisory-committees/website-forms"
+      },
+      {
+        "text": "Judicial Council Staff",
+        "url": "https://www.kjc.ks.gov/about/judicial-council-staff"
+      },
+      {
+        "text": "News",
+        "url": "https://www.kjc.ks.gov/about/news"
+      },
+      {
+        "text": "Email Notification",
+        "url": "https://www.kjc.ks.gov/about/email-notification"
+      },
+      {
+        "text": "Legal Forms",
+        "url": "https://www.kjc.ks.gov/legal-forms"
+      },
+      {
+        "text": "Legal Forms – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish"
+      },
+      {
+        "text": "Legal Forms – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese"
+      },
+      {
+        "text": "Adoption",
+        "url": "https://www.kjc.ks.gov/legal-forms/adoption"
+      },
+      {
+        "text": "Agency or Independent Adoption",
+        "url": "https://www.kjc.ks.gov/legal-forms/adoption/agency-or-independent-adoption"
+      },
+      {
+        "text": "Stepparent Adoption",
+        "url": "https://www.kjc.ks.gov/legal-forms/adoption/stepparent-adoption"
+      },
+      {
+        "text": "Termination Orders under K.S.A. 59-2136(d)(2)(B)",
+        "url": "https://www.kjc.ks.gov/legal-forms/adoption/termination-orders-under-k-s-a-59-2136-d-2-b"
+      },
+      {
+        "text": "Adult Name Change",
+        "url": "https://www.kjc.ks.gov/legal-forms/adult-name-change"
+      },
+      {
+        "text": "Asking to Attend Court by Phone or Video",
+        "url": "https://www.kjc.ks.gov/legal-forms/asking-to-attend-court-by-phone-or-video"
+      },
+      {
+        "text": "Case Filing Cover Sheets",
+        "url": "https://www.kjc.ks.gov/legal-forms/case-filing-cover-sheets"
+      },
+      {
+        "text": "Chapter 60 Civil Actions",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions"
+      },
+      {
+        "text": "Common Civil Forms",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/common-civil-forms"
+      },
+      {
+        "text": "Summons and Service of Process",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/summons-and-service-of-process"
+      },
+      {
+        "text": "Subpoenas",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/subpoenas"
+      },
+      {
+        "text": "Garnishment and Attachment",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/garnishment-and-attachment"
+      },
+      {
+        "text": "Other",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/other"
+      },
+      {
+        "text": "Affidavit of Defendant's Military Status",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/affidavit-of-defendant-s-military-status"
+      },
+      {
+        "text": "Chapter 61 Civil Actions",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions"
+      },
+      {
+        "text": "Summons and Returns",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/summons-and-returns"
+      },
+      {
+        "text": "Pleadings",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/pleadings"
+      },
+      {
+        "text": "Garnishment and Attachment",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/garnishment-and-attachment"
+      },
+      {
+        "text": "Execution and Hearings in Aid",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/execution-and-hearings-in-aid"
+      },
+      {
+        "text": "Miscellaneous",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/miscellaneous"
+      },
+      {
+        "text": "Replevin and Foreclosure",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/replevin-and-foreclosure"
+      },
+      {
+        "text": "Appeals",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/appeals"
+      },
+      {
+        "text": "Child In Need of Care",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care"
+      },
+      {
+        "text": "Preliminary Matters (Forms 101-107)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/preliminary-matters-forms-101-107"
+      },
+      {
+        "text": "Commencement of CINC Action (Forms 110-136)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/commencement-of-cinc-action-forms-110-136"
+      },
+      {
+        "text": "Adjudicatory Procedure (Forms 140.1-142)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/adjudicatory-procedure-forms-140-1-142"
+      },
+      {
+        "text": "Dispositional Procedure (Forms 150-151.1)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/dispositional-procedure-forms-150-151-1"
+      },
+      {
+        "text": "Post-Dispositional Procedures (Forms 160-176)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/post-dispositional-procedures-forms-160-176"
+      },
+      {
+        "text": "Termination of Parental Rights (Forms 180-192)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/termination-of-parental-rights-forms-180-192"
+      },
+      {
+        "text": "Appeals (Forms 200-201)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/appeals-forms-200-201"
+      },
+      {
+        "text": "Indian Child Welfare Act (Forms 207-223)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/indian-child-welfare-act-forms-207-223"
+      },
+      {
+        "text": "Qualified Residential Treatment Program (QRTP) Placement (Forms 240-243)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/qualified-residential-treatment-program-qrtp-placement-forms-240-243"
+      },
+      {
+        "text": "Miscellaneous (Forms 250-264)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/miscellaneous-forms-250-264"
+      },
+      {
+        "text": "Child Support & Parenting Time",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time"
+      },
+      {
+        "text": "Modification of Child Support",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/modification-of-child-support"
+      },
+      {
+        "text": "Establishing Parenting Time",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/establishing-parenting-time"
+      },
+      {
+        "text": "Enforcing Parenting Time",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/enforcing-parenting-time"
+      },
+      {
+        "text": "Modifying Parenting Time",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/modifying-parenting-time"
+      },
+      {
+        "text": "Child Support Income Withholding Order (IWO)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/child-support-income-withholding-order-iwo"
+      },
+      {
+        "text": "Civil Asset Forfeiture",
+        "url": "https://www.kjc.ks.gov/legal-forms/civil-asset-forfeiture"
+      },
+      {
+        "text": "Common Interest Communities (UCIOBORA) Checklist",
+        "url": "https://www.kjc.ks.gov/legal-forms/common-interest-communities-uciobora-checklist"
+      },
+      {
+        "text": "Continuance (Changing Hearing Date)",
+        "url": "https://www.kjc.ks.gov/legal-forms/continuance-changing-hearing-date"
+      },
+      {
+        "text": "County Codes and Resolutions - K.S.A. 19-4738",
+        "url": "https://www.kjc.ks.gov/legal-forms/county-codes-and-resolutions-k-s-a-19-4738"
+      },
+      {
+        "text": "Divorce",
+        "url": "https://www.kjc.ks.gov/legal-forms/divorce"
+      },
+      {
+        "text": "Divorce Without Minor Children",
+        "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-without-minor-children"
+      },
+      {
+        "text": "Filing a Petition for Divorce",
+        "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-without-minor-children/filing-a-petition-for-divorce"
+      },
+      {
+        "text": "Responding to a Petition for Divorce",
+        "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-without-minor-children/responding-to-a-petition-for-divorce"
+      },
+      {
+        "text": "Divorce With Minor Children",
+        "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-with-minor-children"
+      },
+      {
+        "text": "Filing a Petition for Divorce",
+        "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-with-minor-children/filing-a-petition-for-divorce"
+      },
+      {
+        "text": "Responding to a Petition for Divorce",
+        "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-with-minor-children/responding-to-a-petition-for-divorce"
+      },
+      {
+        "text": "Drug Offender Registration Relief",
+        "url": "https://www.kjc.ks.gov/legal-forms/drug-offender-registration-relief"
+      },
+      {
+        "text": "Eminent Domain, Notice of Appraisers' Hearing - K.S.A. 26-506",
+        "url": "https://www.kjc.ks.gov/legal-forms/eminent-domain-notice-of-appraisers-hearing-k-s-a-26-506"
+      },
+      {
+        "text": "Evictions & Landlord-Tenant",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant"
+      },
+      {
+        "text": "Evictions",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions"
+      },
+      {
+        "text": "Filing an Eviction",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions/filing-an-eviction"
+      },
+      {
+        "text": "Responding to an Eviction",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions/responding-to-an-eviction"
+      },
+      {
+        "text": "Landlord Forms",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/landlord-forms"
+      },
+      {
+        "text": "Tenant Forms",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/tenant-forms"
+      },
+      {
+        "text": "Expungement (Adult)",
+        "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult"
+      },
+      {
+        "text": "Arrest Record Only",
+        "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult/arrest-record-only"
+      },
+      {
+        "text": "Conviction or Diversion",
+        "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult/conviction-or-diversion"
+      },
+      {
+        "text": "Eviction Record",
+        "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult/eviction-record"
+      },
+      {
+        "text": "Guardianships, Conservatorships, Other Protective Arrangements",
+        "url": "https://www.kjc.ks.gov/legal-forms/guardianships-conservatorships-other-protective-arrangements"
+      },
+      {
+        "text": "Host Families Act Power of Attorney - K.S.A. 38-2403",
+        "url": "https://www.kjc.ks.gov/legal-forms/host-families-act-power-of-attorney-k-s-a-38-2403"
+      },
+      {
+        "text": "Juvenile Offender",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender"
+      },
+      {
+        "text": "Commencement of Action (Forms 300-309)",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/commencement-of-action-forms-300-309"
+      },
+      {
+        "text": "Pre-Trial Pleadings (Forms 310-336)",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/pre-trial-pleadings-forms-310-336"
+      },
+      {
+        "text": "Adjudication (Forms 340-342)",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/adjudication-forms-340-342"
+      },
+      {
+        "text": "Sentencing (Forms 350-356)",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/sentencing-forms-350-356"
+      },
+      {
+        "text": "Post-Sentencing Proceedings (Forms 360-378)",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/post-sentencing-proceedings-forms-360-378"
+      },
+      {
+        "text": "Appeals (Forms 380-382)",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/appeals-forms-380-382"
+      },
+      {
+        "text": "Miscellaneous (Forms 390-410)",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/miscellaneous-forms-390-410"
+      },
+      {
+        "text": "Lien Against Property - K.S.A. 58-4301",
+        "url": "https://www.kjc.ks.gov/legal-forms/lien-against-property-k-s-a-58-4301"
+      },
+      {
+        "text": "Municipal",
+        "url": "https://www.kjc.ks.gov/legal-forms/municipal"
+      },
+      {
+        "text": "Notice of Hearing (General)",
+        "url": "https://www.kjc.ks.gov/legal-forms/notice-of-hearing-general"
+      },
+      {
+        "text": "Parentage",
+        "url": "https://www.kjc.ks.gov/legal-forms/parentage"
+      },
+      {
+        "text": "Filing to Establish Parentage",
+        "url": "https://www.kjc.ks.gov/legal-forms/parentage/filing-to-establish-parentage"
+      },
+      {
+        "text": "Responding to Petition to Establish Parentage",
+        "url": "https://www.kjc.ks.gov/legal-forms/parentage/responding-to-petition-to-establish-parentage"
+      },
+      {
+        "text": "Poverty Affidavit / Waiver of Filing Fee",
+        "url": "https://www.kjc.ks.gov/legal-forms/poverty-affidavit"
+      },
+      {
+        "text": "Power of Attorney",
+        "url": "https://www.kjc.ks.gov/legal-forms/power-of-attorney"
+      },
+      {
+        "text": "Probate",
+        "url": "https://www.kjc.ks.gov/legal-forms/probate"
+      },
+      {
+        "text": "Protection From Abuse",
+        "url": "https://www.kjc.ks.gov/legal-forms/protection-from-abuse"
+      },
+      {
+        "text": "Protection From Stalking, Sexual Assault, or Human Trafficking",
+        "url": "https://www.kjc.ks.gov/legal-forms/protection-from-stalking-sexual-assault-or-human-trafficking"
+      },
+      {
+        "text": "Requests for Disclosure of Warrant Information",
+        "url": "https://www.kjc.ks.gov/legal-forms/requests-for-disclosure-of-warrant-information"
+      },
+      {
+        "text": "Responding to DCF Parentage and Child Support Petitions",
+        "url": "https://www.kjc.ks.gov/legal-forms/responding-to-dcf-parentage-and-child-support-petitions"
+      },
+      {
+        "text": "Responding to DCF Petition to Determine Parentage and Child Support",
+        "url": "https://www.kjc.ks.gov/legal-forms/responding-to-dcf-parentage-and-child-support-petitions/responding-to-dcf-petition-to-determine-parentage-and-child-support"
+      },
+      {
+        "text": "Responding to DCF Petition for Child Support",
+        "url": "https://www.kjc.ks.gov/legal-forms/responding-to-dcf-parentage-and-child-support-petitions/responding-to-dcf-petition-for-child-support"
+      },
+      {
+        "text": "Self-Represented Litigant (SRL) Certification Form",
+        "url": "https://www.kjc.ks.gov/legal-forms/self-represented-litigant-srl-certification-form"
+      },
+      {
+        "text": "Small Claims",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims"
+      },
+      {
+        "text": "Filing a Small Claims Case",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case"
+      },
+      {
+        "text": "Responding to a Small Claims Case",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/responding-to-a-small-claims-case"
+      },
+      {
+        "text": "Small Estates Affidavit - K.S.A. 59-1507b",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-estates-affidavit-k-s-a-59-1507b"
+      },
+      {
+        "text": "Supreme Court Rules Forms",
+        "url": "https://www.kjc.ks.gov/legal-forms/supreme-court-rules-forms"
+      },
+      {
+        "text": "Rules Relating to District Courts",
+        "url": "https://www.kjc.ks.gov/legal-forms/supreme-court-rules-forms/rules-relating-to-district-courts"
+      },
+      {
+        "text": "Rules Relating to Appellate Courts",
+        "url": "https://www.kjc.ks.gov/legal-forms/supreme-court-rules-forms/rules-relating-to-appellate-courts"
+      },
+      {
+        "text": "Traffic",
+        "url": "https://www.kjc.ks.gov/legal-forms/traffic"
+      },
+      {
+        "text": "Publications",
+        "url": "https://www.kjc.ks.gov/publications"
+      },
+      {
+        "text": "Online Access",
+        "url": "https://www.kjc.ks.gov/publications/online-access"
+      },
+      {
+        "text": "PIK - Criminal 4th",
+        "url": "https://www.kjc.ks.gov/publications/pik-criminal-4th"
+      },
+      {
+        "text": "PIK - Civil 4th",
+        "url": "https://www.kjc.ks.gov/publications/pik-civil-4th"
+      },
+      {
+        "text": "Probate Forms 3d",
+        "url": "https://www.kjc.ks.gov/publications/probate-forms-3d"
+      },
+      {
+        "text": "Municipal Court Manual",
+        "url": "https://www.kjc.ks.gov/publications/municipal-court-manual"
+      },
+      {
+        "text": "Appellate Practice Handbook",
+        "url": "https://www.kjc.ks.gov/publications/appellate-practice-handbook"
+      },
+      {
+        "text": "Chapter 12 - Forms",
+        "url": "https://www.kjc.ks.gov/publications/appellate-practice-handbook/chapter-12-forms"
+      },
+      {
+        "text": "Studies and Reports",
+        "url": "https://www.kjc.ks.gov/studies-and-reports"
+      },
+      {
+        "text": "Resources",
+        "url": "https://www.kjc.ks.gov/resources"
+      },
+      {
+        "text": "Legal Forms – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish"
+      },
+      {
+        "text": "Case Filing Cover Sheets – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/case-filing-cover-sheets-spanish"
+      },
+      {
+        "text": "Chapter 61 Civil Actions – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish"
+      },
+      {
+        "text": "Summons and Returns – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish/summons-and-returns-spanish"
+      },
+      {
+        "text": "Pleadings – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish/pleadings-spanish"
+      },
+      {
+        "text": "Garnishment and Attachment – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish/garnishment-and-attachment-spanish"
+      },
+      {
+        "text": "Execution and Hearings in Aid – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish/execution-and-hearings-in-aid-spanish"
+      },
+      {
+        "text": "Miscellaneous – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish/miscellaneous-spanish"
+      },
+      {
+        "text": "Replevin and Foreclosure – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish/replevin-and-foreclosure-spanish"
+      },
+      {
+        "text": "Appeals – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish/appeals-spanish"
+      },
+      {
+        "text": "Divorce – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/divorce-spanish"
+      },
+      {
+        "text": "Divorce Without Minor Children – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/divorce-spanish/divorce-without-minor-children-spanish"
+      },
+      {
+        "text": "Filing a Petition for Divorce – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/divorce-spanish/divorce-without-minor-children-spanish/filing-a-petition-for-divorce-spanish"
+      },
+      {
+        "text": "Responding to a Petition for Divorce – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/divorce-spanish/divorce-without-minor-children-spanish/responding-to-a-petition-for-divorce-spanish"
+      },
+      {
+        "text": "Divorce With Minor Children – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/divorce-spanish/divorce-with-minor-children-spanish"
+      },
+      {
+        "text": "Filing a Petition for Divorce – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/divorce-spanish/divorce-with-minor-children-spanish/filing-a-petition-for-divorce-spanish"
+      },
+      {
+        "text": "Responding to a Petition for Divorce – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/divorce-spanish/divorce-with-minor-children-spanish/responding-to-a-petition-for-divorce-spanish"
+      },
+      {
+        "text": "Evictions & Landlord-Tenant – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish"
+      },
+      {
+        "text": "Evictions – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/evictions-spanish"
+      },
+      {
+        "text": "Filing an Eviction – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/evictions-spanish/filing-an-eviction-spanish"
+      },
+      {
+        "text": "Nonpayment of Rent – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/evictions-spanish/filing-an-eviction-spanish/nonpayment-of-rent-spanish"
+      },
+      {
+        "text": "Failure to Comply (Other Than Nonpayment) – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/evictions-spanish/filing-an-eviction-spanish/failure-to-comply-other-than-nonpayment-spanish"
+      },
+      {
+        "text": "Termination of Month-To-Month Rental Agreement – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/evictions-spanish/filing-an-eviction-spanish/termination-of-month-to-month-rental-agreement-spanish"
+      },
+      {
+        "text": "Responding to an Eviction – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/evictions-spanish/responding-to-an-eviction-spanish"
+      },
+      {
+        "text": "Landlord Forms – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/landlord-forms-spanish"
+      },
+      {
+        "text": "Tenant Forms – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/tenant-forms-spanish"
+      },
+      {
+        "text": "Expungement (Adult) – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/expungement-adult-spanish"
+      },
+      {
+        "text": "Arrest Record Only – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/expungement-adult-spanish/arrest-record-only-spanish"
+      },
+      {
+        "text": "Conviction or Diversion – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/expungement-adult-spanish/conviction-or-diversion-spanish"
+      },
+      {
+        "text": "Poverty Affidavit – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/poverty-affidavit-spanish"
+      },
+      {
+        "text": "Self-Represented Litigant (SRL) Certification Form – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/self-represented-litigant-srl-certification-form-spanish"
+      },
+      {
+        "text": "Small Claims – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/small-claims-spanish"
+      },
+      {
+        "text": "Filing a Small Claims Case – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/small-claims-spanish/filing-a-small-claims-case-spanish"
+      },
+      {
+        "text": "Responding to a Small Claims Case – Spanish",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/small-claims-spanish/responding-to-a-small-claims-case-spanish"
+      },
+      {
+        "text": "Legal Forms – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese"
+      },
+      {
+        "text": "Case Filing Cover Sheets – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/case-filing-cover-sheets-vietnamese"
+      },
+      {
+        "text": "Chapter 61 Civil Actions – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese"
+      },
+      {
+        "text": "Summons and Returns – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese/summons-and-returns-vietnamese"
+      },
+      {
+        "text": "Pleadings – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese/pleadings-vietnamese"
+      },
+      {
+        "text": "Garnishment and Attachment – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese/garnishment-and-attachment-vietnamese"
+      },
+      {
+        "text": "Execution and Hearings in Aid – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese/execution-and-hearings-in-aid-vietnamese"
+      },
+      {
+        "text": "Miscellaneous – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese/miscellaneous-vietnamese"
+      },
+      {
+        "text": "Replevin and Foreclosure – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese/replevin-and-foreclosure-vietnamese"
+      },
+      {
+        "text": "Appeals – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese/appeals-vietnamese"
+      },
+      {
+        "text": "Evictions & Landlord-Tenant – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese"
+      },
+      {
+        "text": "Evictions – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/evictions-vietnamese"
+      },
+      {
+        "text": "Filing an Eviction – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/evictions-vietnamese/filing-an-eviction-vietnamese"
+      },
+      {
+        "text": "Nonpayment of Rent – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/evictions-vietnamese/filing-an-eviction-vietnamese/nonpayment-of-rent-vietnamese"
+      },
+      {
+        "text": "Failure to Comply (Other Than Nonpayment) – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/evictions-vietnamese/filing-an-eviction-vietnamese/failure-to-comply-other-than-nonpayment-vietnamese"
+      },
+      {
+        "text": "Termination of Month-To-Month Rental Agreement – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/evictions-vietnamese/filing-an-eviction-vietnamese/termination-of-month-to-month-rental-agreement-vietnamese"
+      },
+      {
+        "text": "Responding to an Eviction – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/evictions-vietnamese/responding-to-an-eviction-vietnamese"
+      },
+      {
+        "text": "Landlord Forms – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/landlord-forms-vietnamese"
+      },
+      {
+        "text": "Tenant Forms – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/tenant-forms-vietnamese"
+      },
+      {
+        "text": "Expungement (Adult) – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/expungement-adult-vietnamese"
+      },
+      {
+        "text": "Arrest Record Only – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/expungement-adult-vietnamese/arrest-record-only-vietnamese"
+      },
+      {
+        "text": "Conviction or Diversion – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/expungement-adult-vietnamese/conviction-or-diversion-vietnamese"
+      },
+      {
+        "text": "Poverty Affidavit – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/poverty-affidavit-vietnamese"
+      },
+      {
+        "text": "Self-Represented Litigant (SRL) Certification Form – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/self-represented-litigant-srl-certification-form-vietnamese"
+      },
+      {
+        "text": "Small Claims – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/small-claims-vietnamese"
+      },
+      {
+        "text": "Filing a Small Claims Case – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/small-claims-vietnamese/filing-a-small-claims-case-vietnamese"
+      },
+      {
+        "text": "Responding to a Small Claims Case – Vietnamese",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/small-claims-vietnamese/responding-to-a-small-claims-case-vietnamese"
+      },
+      {
+        "text": "Adoption",
+        "url": "https://www.kjc.ks.gov/legal-forms/adoption"
+      },
+      {
+        "text": "Agency or Independent Adoption",
+        "url": "https://www.kjc.ks.gov/legal-forms/adoption/agency-or-independent-adoption"
+      },
+      {
+        "text": "Stepparent Adoption",
+        "url": "https://www.kjc.ks.gov/legal-forms/adoption/stepparent-adoption"
+      },
+      {
+        "text": "Termination Orders under K.S.A. 59-2136(d)(2)(B)",
+        "url": "https://www.kjc.ks.gov/legal-forms/adoption/termination-orders-under-k-s-a-59-2136-d-2-b"
+      },
+      {
+        "text": "Adult Name Change",
+        "url": "https://www.kjc.ks.gov/legal-forms/adult-name-change"
+      },
+      {
+        "text": "Asking to Attend Court by Phone or Video",
+        "url": "https://www.kjc.ks.gov/legal-forms/asking-to-attend-court-by-phone-or-video"
+      },
+      {
+        "text": "Case Filing Cover Sheets",
+        "url": "https://www.kjc.ks.gov/legal-forms/case-filing-cover-sheets"
+      },
+      {
+        "text": "Chapter 60 Civil Actions",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions"
+      },
+      {
+        "text": "Common Civil Forms",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/common-civil-forms"
+      },
+      {
+        "text": "Summons and Service of Process",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/summons-and-service-of-process"
+      },
+      {
+        "text": "Subpoenas",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/subpoenas"
+      },
+      {
+        "text": "Garnishment and Attachment",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/garnishment-and-attachment"
+      },
+      {
+        "text": "Other",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/other"
+      },
+      {
+        "text": "Affidavit of Defendant's Military Status",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/affidavit-of-defendant-s-military-status"
+      },
+      {
+        "text": "Chapter 61 Civil Actions",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions"
+      },
+      {
+        "text": "Summons and Returns",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/summons-and-returns"
+      },
+      {
+        "text": "Pleadings",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/pleadings"
+      },
+      {
+        "text": "Garnishment and Attachment",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/garnishment-and-attachment"
+      },
+      {
+        "text": "Execution and Hearings in Aid",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/execution-and-hearings-in-aid"
+      },
+      {
+        "text": "Miscellaneous",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/miscellaneous"
+      },
+      {
+        "text": "Replevin and Foreclosure",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/replevin-and-foreclosure"
+      },
+      {
+        "text": "Appeals",
+        "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/appeals"
+      },
+      {
+        "text": "Child In Need of Care",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care"
+      },
+      {
+        "text": "Preliminary Matters (Forms 101-107)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/preliminary-matters-forms-101-107"
+      },
+      {
+        "text": "Commencement of CINC Action (Forms 110-136)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/commencement-of-cinc-action-forms-110-136"
+      },
+      {
+        "text": "Adjudicatory Procedure (Forms 140.1-142)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/adjudicatory-procedure-forms-140-1-142"
+      },
+      {
+        "text": "Dispositional Procedure (Forms 150-151.1)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/dispositional-procedure-forms-150-151-1"
+      },
+      {
+        "text": "Post-Dispositional Procedures (Forms 160-176)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/post-dispositional-procedures-forms-160-176"
+      },
+      {
+        "text": "Termination of Parental Rights (Forms 180-192)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/termination-of-parental-rights-forms-180-192"
+      },
+      {
+        "text": "Appeals (Forms 200-201)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/appeals-forms-200-201"
+      },
+      {
+        "text": "Indian Child Welfare Act (Forms 207-223)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/indian-child-welfare-act-forms-207-223"
+      },
+      {
+        "text": "Qualified Residential Treatment Program (QRTP) Placement (Forms 240-243)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/qualified-residential-treatment-program-qrtp-placement-forms-240-243"
+      },
+      {
+        "text": "Miscellaneous (Forms 250-264)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/miscellaneous-forms-250-264"
+      },
+      {
+        "text": "Child Support & Parenting Time",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time"
+      },
+      {
+        "text": "Modification of Child Support",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/modification-of-child-support"
+      },
+      {
+        "text": "Establishing Parenting Time",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/establishing-parenting-time"
+      },
+      {
+        "text": "Enforcing Parenting Time",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/enforcing-parenting-time"
+      },
+      {
+        "text": "Modifying Parenting Time",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/modifying-parenting-time"
+      },
+      {
+        "text": "Child Support Income Withholding Order (IWO)",
+        "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/child-support-income-withholding-order-iwo"
+      },
+      {
+        "text": "Civil Asset Forfeiture",
+        "url": "https://www.kjc.ks.gov/legal-forms/civil-asset-forfeiture"
+      },
+      {
+        "text": "Common Interest Communities (UCIOBORA) Checklist",
+        "url": "https://www.kjc.ks.gov/legal-forms/common-interest-communities-uciobora-checklist"
+      },
+      {
+        "text": "Continuance (Changing Hearing Date)",
+        "url": "https://www.kjc.ks.gov/legal-forms/continuance-changing-hearing-date"
+      },
+      {
+        "text": "County Codes and Resolutions - K.S.A. 19-4738",
+        "url": "https://www.kjc.ks.gov/legal-forms/county-codes-and-resolutions-k-s-a-19-4738"
+      },
+      {
+        "text": "Divorce",
+        "url": "https://www.kjc.ks.gov/legal-forms/divorce"
+      },
+      {
+        "text": "Divorce Without Minor Children",
+        "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-without-minor-children"
+      },
+      {
+        "text": "Filing a Petition for Divorce",
+        "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-without-minor-children/filing-a-petition-for-divorce"
+      },
+      {
+        "text": "Responding to a Petition for Divorce",
+        "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-without-minor-children/responding-to-a-petition-for-divorce"
+      },
+      {
+        "text": "Divorce With Minor Children",
+        "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-with-minor-children"
+      },
+      {
+        "text": "Filing a Petition for Divorce",
+        "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-with-minor-children/filing-a-petition-for-divorce"
+      },
+      {
+        "text": "Responding to a Petition for Divorce",
+        "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-with-minor-children/responding-to-a-petition-for-divorce"
+      },
+      {
+        "text": "Drug Offender Registration Relief",
+        "url": "https://www.kjc.ks.gov/legal-forms/drug-offender-registration-relief"
+      },
+      {
+        "text": "Eminent Domain, Notice of Appraisers' Hearing - K.S.A. 26-506",
+        "url": "https://www.kjc.ks.gov/legal-forms/eminent-domain-notice-of-appraisers-hearing-k-s-a-26-506"
+      },
+      {
+        "text": "Evictions & Landlord-Tenant",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant"
+      },
+      {
+        "text": "Evictions",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions"
+      },
+      {
+        "text": "Filing an Eviction",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions/filing-an-eviction"
+      },
+      {
+        "text": "Nonpayment of Rent",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions/filing-an-eviction/nonpayment-of-rent"
+      },
+      {
+        "text": "Failure to Comply (Other Than Nonpayment)",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions/filing-an-eviction/failure-to-comply-other-than-nonpayment"
+      },
+      {
+        "text": "Termination of Month-To-Month Rental Agreement",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions/filing-an-eviction/termination-of-month-to-month-rental-agreement"
+      },
+      {
+        "text": "Responding to an Eviction",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions/responding-to-an-eviction"
+      },
+      {
+        "text": "Landlord Forms",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/landlord-forms"
+      },
+      {
+        "text": "Tenant Forms",
+        "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/tenant-forms"
+      },
+      {
+        "text": "Expungement (Adult)",
+        "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult"
+      },
+      {
+        "text": "Arrest Record Only",
+        "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult/arrest-record-only"
+      },
+      {
+        "text": "Conviction or Diversion",
+        "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult/conviction-or-diversion"
+      },
+      {
+        "text": "Eviction Record",
+        "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult/eviction-record"
+      },
+      {
+        "text": "Guardianships, Conservatorships, Other Protective Arrangements",
+        "url": "https://www.kjc.ks.gov/legal-forms/guardianships-conservatorships-other-protective-arrangements"
+      },
+      {
+        "text": "Host Families Act Power of Attorney - K.S.A. 38-2403",
+        "url": "https://www.kjc.ks.gov/legal-forms/host-families-act-power-of-attorney-k-s-a-38-2403"
+      },
+      {
+        "text": "Juvenile Offender",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender"
+      },
+      {
+        "text": "Commencement of Action (Forms 300-309)",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/commencement-of-action-forms-300-309"
+      },
+      {
+        "text": "Pre-Trial Pleadings (Forms 310-336)",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/pre-trial-pleadings-forms-310-336"
+      },
+      {
+        "text": "Adjudication (Forms 340-342)",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/adjudication-forms-340-342"
+      },
+      {
+        "text": "Sentencing (Forms 350-356)",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/sentencing-forms-350-356"
+      },
+      {
+        "text": "Post-Sentencing Proceedings (Forms 360-378)",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/post-sentencing-proceedings-forms-360-378"
+      },
+      {
+        "text": "Appeals (Forms 380-382)",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/appeals-forms-380-382"
+      },
+      {
+        "text": "Miscellaneous (Forms 390-410)",
+        "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/miscellaneous-forms-390-410"
+      },
+      {
+        "text": "Lien Against Property - K.S.A. 58-4301",
+        "url": "https://www.kjc.ks.gov/legal-forms/lien-against-property-k-s-a-58-4301"
+      },
+      {
+        "text": "Municipal",
+        "url": "https://www.kjc.ks.gov/legal-forms/municipal"
+      },
+      {
+        "text": "Notice of Hearing (General)",
+        "url": "https://www.kjc.ks.gov/legal-forms/notice-of-hearing-general"
+      },
+      {
+        "text": "Parentage",
+        "url": "https://www.kjc.ks.gov/legal-forms/parentage"
+      },
+      {
+        "text": "Filing to Establish Parentage",
+        "url": "https://www.kjc.ks.gov/legal-forms/parentage/filing-to-establish-parentage"
+      },
+      {
+        "text": "Responding to Petition to Establish Parentage",
+        "url": "https://www.kjc.ks.gov/legal-forms/parentage/responding-to-petition-to-establish-parentage"
+      },
+      {
+        "text": "Poverty Affidavit / Waiver of Filing Fee",
+        "url": "https://www.kjc.ks.gov/legal-forms/poverty-affidavit"
+      },
+      {
+        "text": "Power of Attorney",
+        "url": "https://www.kjc.ks.gov/legal-forms/power-of-attorney"
+      },
+      {
+        "text": "Probate",
+        "url": "https://www.kjc.ks.gov/legal-forms/probate"
+      },
+      {
+        "text": "Protection From Abuse",
+        "url": "https://www.kjc.ks.gov/legal-forms/protection-from-abuse"
+      },
+      {
+        "text": "Protection From Stalking, Sexual Assault, or Human Trafficking",
+        "url": "https://www.kjc.ks.gov/legal-forms/protection-from-stalking-sexual-assault-or-human-trafficking"
+      },
+      {
+        "text": "Requests for Disclosure of Warrant Information",
+        "url": "https://www.kjc.ks.gov/legal-forms/requests-for-disclosure-of-warrant-information"
+      },
+      {
+        "text": "Responding to DCF Parentage and Child Support Petitions",
+        "url": "https://www.kjc.ks.gov/legal-forms/responding-to-dcf-parentage-and-child-support-petitions"
+      },
+      {
+        "text": "Responding to DCF Petition to Determine Parentage and Child Support",
+        "url": "https://www.kjc.ks.gov/legal-forms/responding-to-dcf-parentage-and-child-support-petitions/responding-to-dcf-petition-to-determine-parentage-and-child-support"
+      },
+      {
+        "text": "Responding to DCF Petition for Child Support",
+        "url": "https://www.kjc.ks.gov/legal-forms/responding-to-dcf-parentage-and-child-support-petitions/responding-to-dcf-petition-for-child-support"
+      },
+      {
+        "text": "Self-Represented Litigant (SRL) Certification Form",
+        "url": "https://www.kjc.ks.gov/legal-forms/self-represented-litigant-srl-certification-form"
+      },
+      {
+        "text": "Small Claims",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims"
+      },
+      {
+        "text": "Filing a Small Claims Case",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case"
+      },
+      {
+        "text": "Responding to a Small Claims Case",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/responding-to-a-small-claims-case"
+      },
+      {
+        "text": "Small Estates Affidavit - K.S.A. 59-1507b",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-estates-affidavit-k-s-a-59-1507b"
+      },
+      {
+        "text": "Supreme Court Rules Forms",
+        "url": "https://www.kjc.ks.gov/legal-forms/supreme-court-rules-forms"
+      },
+      {
+        "text": "Rules Relating to District Courts",
+        "url": "https://www.kjc.ks.gov/legal-forms/supreme-court-rules-forms/rules-relating-to-district-courts"
+      },
+      {
+        "text": "Rules Relating to Appellate Courts",
+        "url": "https://www.kjc.ks.gov/legal-forms/supreme-court-rules-forms/rules-relating-to-appellate-courts"
+      },
+      {
+        "text": "Traffic",
+        "url": "https://www.kjc.ks.gov/legal-forms/traffic"
+      },
+      {
+        "text": "Legal Forms",
+        "url": "https://www.kjc.ks.gov/legal-forms"
+      },
+      {
+        "text": "Small Claims",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims"
+      },
+      {
+        "text": "Plaintiff Instruction Sheet",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-676-431"
+      },
+      {
+        "text": "Civil Cover Sheet",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-677-431"
+      },
+      {
+        "text": "Self-Represented Litigant Certification Form",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-678-431"
+      },
+      {
+        "text": "Request for Service",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-679-431"
+      },
+      {
+        "text": "Venue Information Sheet",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-680-431"
+      },
+      {
+        "text": "Petition",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-681-431"
+      },
+      {
+        "text": "Summons",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-682-431"
+      },
+      {
+        "text": "Journal Entry",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-683-431"
+      },
+      {
+        "text": "Certificate of Mailing",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-684-431"
+      },
+      {
+        "text": "Statement of Assets",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-685-431"
+      },
+      {
+        "text": "Request for Citation for Contempt",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-686-431"
+      },
+      {
+        "text": "Citation for Contempt",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-687-431"
+      },
+      {
+        "text": "Poverty Affidavit",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-688-431"
+      },
+      {
+        "text": "Motion for Appointment of a Special Process Server",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-689-431"
+      },
+      {
+        "text": "Order Appointing Special Process Server",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-690-431"
+      },
+      {
+        "text": "Notice of Appeal",
+        "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-691-431"
+      },
+      {
+        "text": "Supreme Court Rule Regarding District Court Filings by Self-Represented Litigants",
+        "url": "https://www.kjc.ks.gov/?splash=https%3a%2f%2fkscourts.gov%2fRules-Orders%2fRules%2fTemporary-Rule-for-Filing-in-a-District-Court-by-a&____isexternal=true"
+      },
+      {
+        "text": "Adobe Reader",
+        "url": "https://www.kjc.ks.gov/?splash=https%3a%2f%2fget.adobe.com%2freader%2f&____isexternal=true"
+      },
+      {
+        "text": "Spanish Legal Forms",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish"
+      },
+      {
+        "text": "Vietnamese Legal Forms",
+        "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese"
+      },
+      {
+        "text": "Kansas Judicial Branch Self-Help Website - Small Claims",
+        "url": "https://www.kjc.ks.gov/?splash=https%3a%2f%2fself-help.kscourts.gov%2fHome%2fSmallClaims&____isexternal=true"
+      },
+      {
+        "text": "Kansas Legal Services - Small Claims",
+        "url": "https://www.kjc.ks.gov/?splash=https%3a%2f%2fwww.kansaslegalservices.org%2ftopics%2f2176%2fsmall-claims-court&____isexternal=true"
+      },
+      {
+        "text": "American Bar Association Free Legal Answers",
+        "url": "https://www.kjc.ks.gov/?splash=https%3a%2f%2fkansas.freelegalanswers.org%2f&____isexternal=true"
+      },
+      {
+        "text": "About",
+        "url": "https://www.kjc.ks.gov/about"
+      },
+      {
+        "text": "Legal Forms",
+        "url": "https://www.kjc.ks.gov/legal-forms"
+      },
+      {
+        "text": "Publications",
+        "url": "https://www.kjc.ks.gov/publications"
+      },
+      {
+        "text": "Studies & Reports",
+        "url": "https://www.kjc.ks.gov/studies-and-reports"
+      },
+      {
+        "text": "Resources",
+        "url": "https://www.kjc.ks.gov/resources"
+      },
+      {
+        "text": "Site Map",
+        "url": "https://www.kjc.ks.gov/about/site-map"
+      },
+      {
+        "text": "301 SW 10th Ave, B2, Topeka, KS 66612",
+        "url": "https://www.kjc.ks.gov/?splash=https%3a%2f%2fmaps.app.goo.gl%2fUB9wCFxJntPXWHfY6&____isexternal=true"
+      },
+      {
+        "text": "Granicus",
+        "url": "https://www.granicus.com/"
+      }
+    ]
+  },
+  {
+    "state": "South Carolina",
+    "publisher": "South Carolina Department on Aging",
+    "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+    "direct": true,
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "South Carolina Health Care Power of Attorney",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "SOUTH CAROLINA HEALTH CARE POWER OF ATTORNEY",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+      "final_url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "retrieved_at": "2026-10-14T09:12:20.361Z",
+      "etag": "\"752e-55ae57970cec0\"",
+      "last_modified": "Fri, 06 Oct 2017 19:01:55 GMT",
+      "content_length": "29998",
+      "sha256": "00f43beec458a48a8a9709ede626e0ff7cc239e5b872b8f0a90b386f8139503c",
+      "title": "",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14-05/05-south-carolina-source.pdf"
+    },
+    "source_attempts": [
+      {
+        "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+        "final_url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:12:20.361Z",
+        "etag": "\"752e-55ae57970cec0\"",
+        "last_modified": "Fri, 06 Oct 2017 19:01:55 GMT",
+        "content_length": "29998",
+        "sha256": "00f43beec458a48a8a9709ede626e0ff7cc239e5b872b8f0a90b386f8139503c",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": ".*",
+        "title": "South Carolina Health Care Power of Attorney",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "SOUTH CAROLINA HEALTH CARE POWER OF ATTORNEY",
+        "max": 1,
+        "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+        "link_text": "South Carolina Health Care Power of Attorney",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+          "final_url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:12:20.361Z",
+          "etag": "\"752e-55ae57970cec0\"",
+          "last_modified": "Fri, 06 Oct 2017 19:01:55 GMT",
+          "content_length": "29998",
+          "sha256": "00f43beec458a48a8a9709ede626e0ff7cc239e5b872b8f0a90b386f8139503c",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+            "final_url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:12:20.361Z",
+            "etag": "\"752e-55ae57970cec0\"",
+            "last_modified": "Fri, 06 Oct 2017 19:01:55 GMT",
+            "content_length": "29998",
+            "sha256": "00f43beec458a48a8a9709ede626e0ff7cc239e5b872b8f0a90b386f8139503c",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "00f43beec458a48a8a9709ede626e0ff7cc239e5b872b8f0a90b386f8139503c",
+        "local_archive_path": "archive/2026-10-14-05/05-south-carolina-health-care-power-of-attorney-00f43beec458.pdf",
+        "bytes": 29998,
+        "text_length": 15457,
+        "pages": 7,
+        "identity_excerpt": "SOUTH CAROLINA HEALTH CARE POWER OF ATTORNEY INFORMATION ABOUT THIS DOCUMENT THIS IS AN IMPORTANT LEGAL DOCUMENT. BEFORE SIGNING THIS DOCUMENT, YOU SHOULD KNOW THESE IMPORTANT FACTS: 1. THIS DOCUMENT GIVES THE PERSON YOU NAME AS YOUR AGENT THE POWER TO MAKE HEALTH CARE DECISIONS FOR YOU IF YOU CANNOT MAKE THE DECISION FOR YOURSELF. THIS POWER INCLUDES THE POWER TO MAKE DECISIONS ABOUT LIFE- SUSTAINING TREATMENT. UNLESS YOU STATE OTHERWISE, YOUR AGENT WILL HAVE THE SAME AUTHORITY TO MAKE DECISIONS ABOUT YOUR HEALTH CARE AS YOU WOULD HAVE. 2. THIS POWER IS SUBJECT TO ANY LIMITATIONS OR STATEMENTS OF YOUR DESIRES THAT YOU INCLUDE IN THIS DOCUMENT. YOU MAY STATE IN THIS DOCUMENT ANY TREATMENT YOU DO NOT DESIRE OR TREATMENT YOU WANT TO BE SURE YOU RECEIVE. YOUR AGENT WILL BE OBLIGATED TO FOLLOW YOUR INSTRUCTIONS WHEN MAKING DECISIONS ON YOUR BEHALF. YOU MAY ATTACH ADDITIONAL PAGES IF YOU NEED MORE SPACE TO COMPLETE THE STATEMENT. 3. AFTER YOU HAVE SIGNED THIS DOCUMENT, YOU HAVE THE RIGHT TO MAKE HEALTH CARE DECISIONS FOR YOURSELF IF YOU ARE MENTALLY COMPETENT TO DO SO. AFTER YOU HAVE SIGNED THIS DOCUMENT, NO TREATMENT MAY BE GIVEN TO YOU OR STOPPED OVER YOUR OBJECTION IF YOU ARE MENTALLY COMPETENT TO MAKE THAT DECISION. 4. YOU HAVE THE RIGHT TO REVOKE THIS DOCUMENT, AND TERMINATE YOUR AGENT'S AUTHORITY, BY INFORMING EITHER YOUR AGENT OR YOUR HEALTH CARE PROVIDER ORALLY OR IN WRITING. 5. IF THERE IS ANYTHING IN THIS DOCUMENT THAT YOU DO NOT UNDERSTAND, YOU SHOULD ASK A SOCIAL WORKER, LAWYER, OR OTHER PERSON TO EXPLAIN IT TO YOU. 6. THIS POWER OF ATTORNEY WILL NOT BE VALID UNLESS TWO PERSONS SIGN AS WITNESSES. EACH OF THESE PERSONS MUST EITHER WITNESS YOUR SIGNING OF THE POWER OF ATTORNEY OR WITNESS YOUR ACKNOWLEDGMENT THAT THE SIGNATURE ON THE POWER OF ATTORNEY IS YOURS. THE ",
+        "revision_evidence": [
+          "ted in this document. 2. EFFECTIVE DATE AND DURABILITY By this document I intend to create a durable power of"
+        ],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "South Carolina Health Care Power of Attorney",
+        "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf"
+      }
+    ]
+  }
+]

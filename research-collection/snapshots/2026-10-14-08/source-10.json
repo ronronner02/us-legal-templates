@@ -1,0 +1,480 @@
+{
+  "state": "Minnesota",
+  "publisher": "Minnesota Attorney General",
+  "url": "https://www.ag.state.mn.us/consumer/Publications/PowersOfAttorney.asp",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "/PowerOfAtty\\.pdf",
+      "title": "Statutory Short Form Power of Attorney",
+      "family_id": "financial-power-of-attorney",
+      "identity": "STATUTORY SHORT FORM POWER OF ATTORNEY",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.ag.state.mn.us/consumer/Publications/PowersOfAttorney.asp",
+    "final_url": "https://www.ag.state.mn.us/consumer/Publications/PowersOfAttorney.asp",
+    "http_status": 200,
+    "content_type": "text/html",
+    "retrieved_at": "2026-10-14T09:40:07.413Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": "18647",
+    "sha256": "90e5c6ead7e65c7dc26f52187ac523e89e8459bde303299cf3185999434908d3",
+    "title": "Financial Powers of Attorney",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/10-minnesota-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.ag.state.mn.us/consumer/Publications/PowersOfAttorney.asp",
+      "final_url": "https://www.ag.state.mn.us/consumer/Publications/PowersOfAttorney.asp",
+      "http_status": 200,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-14T09:40:07.413Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": "18647",
+      "sha256": "90e5c6ead7e65c7dc26f52187ac523e89e8459bde303299cf3185999434908d3",
+      "title": "Financial Powers of Attorney",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "/PowerOfAtty\\.pdf",
+      "title": "Statutory Short Form Power of Attorney",
+      "family_id": "financial-power-of-attorney",
+      "identity": "STATUTORY SHORT FORM POWER OF ATTORNEY",
+      "max": 1,
+      "url": "https://www.ag.state.mn.us/consumer/Handbooks/Probate/PowerOfAtty.pdf",
+      "link_text": "statutory power of attorney short form",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.ag.state.mn.us/consumer/Handbooks/Probate/PowerOfAtty.pdf",
+        "final_url": "https://www.ag.state.mn.us/consumer/Handbooks/Probate/PowerOfAtty.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:07.749Z",
+        "etag": "\"3876513df49acf1:0\"",
+        "last_modified": "Tue, 08 Jul 2014 21:33:20 GMT",
+        "content_length": "37940",
+        "sha256": "bd49b1a608ef6c13b4d068649ca0a64375e234e207a8e5682478755b9e4669b3",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.ag.state.mn.us/consumer/Handbooks/Probate/PowerOfAtty.pdf",
+          "final_url": "https://www.ag.state.mn.us/consumer/Handbooks/Probate/PowerOfAtty.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:07.749Z",
+          "etag": "\"3876513df49acf1:0\"",
+          "last_modified": "Tue, 08 Jul 2014 21:33:20 GMT",
+          "content_length": "37940",
+          "sha256": "bd49b1a608ef6c13b4d068649ca0a64375e234e207a8e5682478755b9e4669b3",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "bd49b1a608ef6c13b4d068649ca0a64375e234e207a8e5682478755b9e4669b3",
+      "local_archive_path": "archive/2026-10-14-08/10-statutory-short-form-power-of-attorney-bd49b1a608ef.pdf",
+      "bytes": 37940,
+      "text_length": 11997,
+      "pages": 5,
+      "identity_excerpt": "STATUTORY SHORT FORM POWER OF ATTORNEY MINNESOTA STATUTES, SECTION 523.23 Before completing and signing this form, the principal must read and initial the IMPORTANT NOTICE TO PRINCIPAL that appears after the signature lines in this form. Before acting on behalf of the principal, the attorney(s)-in-fact must sign this form acknowledging having read and understood the IMPORTANT NOTICE TO ATTORNEY(S)-IN-FACT that appears after the notice to the principal. PRINCIPAL (Name and Address of Person Granting the Power) ________________________________________ ________________________________________ ________________________________________ ATTORNEY(S)-IN-FACT (Name and Address) __________________________________ __________________________________ __________________________________ __________________________________ __________________________________ __________________________________ NOTICE: If more than one attorney-in-fact is designated to act at the same time, make a check or \"x\" on the line in front of one of the following statements: ____ Each attorney-in-fact may independently exercise the powers granted. ____ All attorneys-in-fact must jointly exercise the powers granted. SUCCESSOR ATTORNEY(S)-IN-FACT (Optional) To act if any named attorney-in-fact dies, resigns, or is otherwise unable to serve. (Name and Address) First Successor ____________________ __________________________________ __________________________________ Second Successor __________________ __________________________________ __________________________________ EXPIRATION DATE (Optional) __________________ _____, ____________ Use Specific Month Day Year Only I, (the above-named Principal) hereby appoint the above named Attorney(s)-in-Fact to act as my attorney(s)-in-fact: FIRST: To act for me in any way that I ",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip to Main Content",
+      "url": "https://www.ag.state.mn.us/consumer/Publications/PowersOfAttorney.asp#content"
+    },
+    {
+      "text": "File a Complaint",
+      "url": "https://www.ag.state.mn.us/Office/Complaint.asp"
+    },
+    {
+      "text": "View Publications",
+      "url": "https://www.ag.state.mn.us/Office/Publications.asp"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.ag.state.mn.us/Office/ContactUs.asp"
+    },
+    {
+      "text": "",
+      "url": "https://www.ag.state.mn.us/default.asp"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.ag.state.mn.us/Search/"
+    },
+    {
+      "text": "",
+      "url": "https://www.ag.state.mn.us/default.asp"
+    },
+    {
+      "text": "How Can We Help?",
+      "url": "https://www.ag.state.mn.us/Office/Help.asp"
+    },
+    {
+      "text": "File a Complaint",
+      "url": "https://www.ag.state.mn.us/Office/Complaint.asp"
+    },
+    {
+      "text": "Data Privacy Act",
+      "url": "https://www.ag.state.mn.us/Data-Privacy/"
+    },
+    {
+      "text": "Conviction Review Unit",
+      "url": "https://www.ag.state.mn.us/Office/CRU/"
+    },
+    {
+      "text": "Seal My Criminal Records",
+      "url": "https://www.ag.state.mn.us/Office/Expungement.asp"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.ag.state.mn.us/Office/ContactUs.asp"
+    },
+    {
+      "text": "View Publications",
+      "url": "https://www.ag.state.mn.us/Office/Publications.asp"
+    },
+    {
+      "text": "Topics",
+      "url": "https://www.ag.state.mn.us/Consumer/"
+    },
+    {
+      "text": "Voting Rights",
+      "url": "https://www.ag.state.mn.us/Election/Voting-Rights/"
+    },
+    {
+      "text": "Automobiles",
+      "url": "https://www.ag.state.mn.us/Consumer/Auto/"
+    },
+    {
+      "text": "Businesses & Organizations",
+      "url": "https://www.ag.state.mn.us/Consumer/Org/"
+    },
+    {
+      "text": "Charities Information",
+      "url": "https://www.ag.state.mn.us/Charity/Donors.asp"
+    },
+    {
+      "text": "Club Contracts",
+      "url": "https://www.ag.state.mn.us/Charity/ClubContracts.asp"
+    },
+    {
+      "text": "Courts, Legal Rights, & Immigration",
+      "url": "https://www.ag.state.mn.us/Consumer/Law/"
+    },
+    {
+      "text": "Data Privacy",
+      "url": "https://www.ag.state.mn.us/Data-Privacy/"
+    },
+    {
+      "text": "Government Resources",
+      "url": "https://www.ag.state.mn.us/Consumer/Government/"
+    },
+    {
+      "text": "Health Care",
+      "url": "https://www.ag.state.mn.us/Consumer/Health/"
+    },
+    {
+      "text": "Housing & Utilities",
+      "url": "https://www.ag.state.mn.us/Consumer/Housing/"
+    },
+    {
+      "text": "Identity Theft & Computers",
+      "url": "https://www.ag.state.mn.us/Consumer/IdentityTheft/"
+    },
+    {
+      "text": "Misinformation",
+      "url": "https://www.ag.state.mn.us/Misinformation/"
+    },
+    {
+      "text": "Money, Credit, & Price Transparency",
+      "url": "https://www.ag.state.mn.us/Consumer/Finance/"
+    },
+    {
+      "text": "Protecting Rural Minnesota",
+      "url": "https://www.ag.state.mn.us/Rural-Minnesota/"
+    },
+    {
+      "text": "Scams",
+      "url": "https://www.ag.state.mn.us/Consumer/Scams/"
+    },
+    {
+      "text": "Senior Citizens",
+      "url": "https://www.ag.state.mn.us/Consumer/Seniors/"
+    },
+    {
+      "text": "Students",
+      "url": "https://www.ag.state.mn.us/Consumer/Students/"
+    },
+    {
+      "text": "Telephones & Unwanted Calls",
+      "url": "https://www.ag.state.mn.us/Consumer/Utilities/Phone.asp"
+    },
+    {
+      "text": "Veterans & Service Members",
+      "url": "https://www.ag.state.mn.us/Consumer/Vets/"
+    },
+    {
+      "text": "...Other Information",
+      "url": "https://www.ag.state.mn.us/Consumer/Misc/Other.asp"
+    },
+    {
+      "text": "Charities",
+      "url": "https://www.ag.state.mn.us/Charity/"
+    },
+    {
+      "text": "Search for Charities and Fundraisers",
+      "url": "https://www.ag.state.mn.us/Charity/Search/"
+    },
+    {
+      "text": "Charities Information for the Public",
+      "url": "https://www.ag.state.mn.us/Charity/Donors.asp"
+    },
+    {
+      "text": "File a Complaint about a Charity or Nonprofit",
+      "url": "https://www.ag.state.mn.us/Charity/FileAComplaint.asp"
+    },
+    {
+      "text": "Information for Nonprofits",
+      "url": "https://www.ag.state.mn.us/Charity/InfoNonProfits.asp"
+    },
+    {
+      "text": "Registration and Reporting - Charities and Charitable Trusts",
+      "url": "https://www.ag.state.mn.us/Charity/InfoCharitableorgandTrusts.asp"
+    },
+    {
+      "text": "Registration and Reporting - Professional Fundraisers",
+      "url": "https://www.ag.state.mn.us/Charity/InfoProfessionalFundRaisers.asp"
+    },
+    {
+      "text": "Forms and Instructions for Registration and Reporting",
+      "url": "https://www.ag.state.mn.us/Charity/DownloadForms.asp"
+    },
+    {
+      "text": "Pay Fees Electronically",
+      "url": "https://www.ag.state.mn.us/Charity/Fees/"
+    },
+    {
+      "text": "Request an Extension of a Filing Deadline",
+      "url": "https://www.ag.state.mn.us/Charity/ExtensionRequest.aspx"
+    },
+    {
+      "text": "Publications and Other Resources",
+      "url": "https://www.ag.state.mn.us/Charity/Resources.asp"
+    },
+    {
+      "text": "Health Care",
+      "url": "https://www.ag.state.mn.us/Consumer/Health/"
+    },
+    {
+      "text": "Insulin for Minnesotans",
+      "url": "https://www.ag.state.mn.us/MNinsulin35/"
+    },
+    {
+      "text": "Health Care Information for the Public",
+      "url": "https://www.ag.state.mn.us/Consumer/Health/"
+    },
+    {
+      "text": "Requirements for Certain Health Care Entity Transactions",
+      "url": "https://www.ag.state.mn.us/Health-Care/Transactions"
+    },
+    {
+      "text": "Proposed Hospital System Transactions",
+      "url": "https://www.ag.state.mn.us/Health-Care/Transactions/ProposedMergers.asp"
+    },
+    {
+      "text": "Health Care Transaction Community Input Form",
+      "url": "https://www.ag.state.mn.us/Health-Care/Transactions/Input.asp"
+    },
+    {
+      "text": "Sanford Health - North Memorial Health Transaction Review",
+      "url": "https://www.ag.state.mn.us/Health-Care/Transactions/Sanford-North.asp"
+    },
+    {
+      "text": "Medical Billing and Healthcare Access Community Input",
+      "url": "https://www.ag.state.mn.us/Health-Care/Billing-and-Access/"
+    },
+    {
+      "text": "Know Your Rights to Abortion and Reproductive Healthcare in Minnesota",
+      "url": "https://www.ag.state.mn.us/AbortionRights"
+    },
+    {
+      "text": "Fighting the Opioid Epidemic in Minnesota",
+      "url": "https://www.ag.state.mn.us/Opioids/"
+    },
+    {
+      "text": "About Our Office",
+      "url": "https://www.ag.state.mn.us/Office/"
+    },
+    {
+      "text": "Biography of Attorney General Keith Ellison",
+      "url": "https://www.ag.state.mn.us/Office/AGBio.asp"
+    },
+    {
+      "text": "News and Information from the Minnesota Solicitor General",
+      "url": "https://www.ag.state.mn.us/Office/Solicitor-General/"
+    },
+    {
+      "text": "Attorney General Opinions",
+      "url": "https://www.ag.state.mn.us/Office/Opinions/"
+    },
+    {
+      "text": "Attorney General CLEs",
+      "url": "https://www.ag.state.mn.us/Office/CLE/Default.aspx"
+    },
+    {
+      "text": "Career Opportunities",
+      "url": "https://www.ag.state.mn.us/Office/Employment/CareerOpportunities.asp"
+    },
+    {
+      "text": "Data Practices Requests",
+      "url": "https://www.ag.state.mn.us/Data-Requests/"
+    },
+    {
+      "text": "Office Policies and Notices",
+      "url": "https://www.ag.state.mn.us/Office/Policies.asp"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.ag.state.mn.us/Office/ContactUs.asp"
+    },
+    {
+      "text": "Service of Process",
+      "url": "https://www.ag.state.mn.us/Office/OpposingCounsel.asp"
+    },
+    {
+      "text": "Scheduling Request",
+      "url": "https://forms.office.com/g/KTB7QWEcpn"
+    },
+    {
+      "text": "News & Important Information",
+      "url": "https://www.ag.state.mn.us/Office/Communications.asp"
+    },
+    {
+      "text": "AGO Communications",
+      "url": "https://www.ag.state.mn.us/Office/Communications.asp"
+    },
+    {
+      "text": "Minnesota Litigation Tracker",
+      "url": "https://www.ag.state.mn.us/Rule-Of-Law/Litigation/"
+    },
+    {
+      "text": "Minnesota Opioid Litigation Backstop Fund",
+      "url": "https://www.ag.state.mn.us/Opioids/Backstop/"
+    },
+    {
+      "text": "Return to Repayment of Student Loans",
+      "url": "https://www.ag.state.mn.us/Student-Loans"
+    },
+    {
+      "text": "Advisory Task Force on the Future of Minnesota’s Water",
+      "url": "https://www.ag.state.mn.us/Taskforce/Water/"
+    },
+    {
+      "text": "Advisory Task Force on Worker Misclassification",
+      "url": "https://www.ag.state.mn.us/Taskforce/Misclassification/"
+    },
+    {
+      "text": "Advisory Task Force on Lowering Pharmaceutical Drug Prices",
+      "url": "https://www.ag.state.mn.us/Office/Initiatives/PharmaceuticalDrugPrices/Taskforce.asp"
+    },
+    {
+      "text": "Advisory Task Force on Expanding the Economic Security of Women",
+      "url": "https://www.ag.state.mn.us/Office/Initiatives/WESA/Taskforce.asp"
+    },
+    {
+      "text": "Information about the 3M Lawsuit",
+      "url": "https://www.ag.state.mn.us/Office/Cases/3M/"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.ag.state.mn.us/Default.asp"
+    },
+    {
+      "text": "How Can We Help?",
+      "url": "https://www.ag.state.mn.us/Office/Help.asp"
+    },
+    {
+      "text": "Topics",
+      "url": "https://www.ag.state.mn.us/Consumer/Default.asp"
+    },
+    {
+      "text": "Charities",
+      "url": "https://www.ag.state.mn.us/Charity/Default.asp"
+    },
+    {
+      "text": "About Our Office",
+      "url": "https://www.ag.state.mn.us/Office/Default.asp"
+    },
+    {
+      "text": "News & Information",
+      "url": "https://www.ag.state.mn.us/Office/Communications/Default.asp"
+    },
+    {
+      "text": "File a Complaint",
+      "url": "https://www.ag.state.mn.us/Office/Complaint.asp"
+    },
+    {
+      "text": "Order Publications",
+      "url": "https://www.ag.state.mn.us/Office/Publications.asp"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.ag.state.mn.us/Office/ContactUs.asp"
+    },
+    {
+      "text": "Search Our Site",
+      "url": "https://www.ag.state.mn.us/mobileSearch.asp"
+    },
+    {
+      "text": "Download this PDF",
+      "url": "https://www.ag.state.mn.us/Brochures/pubPowersOfAttorney.pdf"
+    },
+    {
+      "text": "View all Publications",
+      "url": "https://www.ag.state.mn.us/Office/Publications.asp"
+    },
+    {
+      "text": "statutory power of attorney short form",
+      "url": "https://www.ag.state.mn.us/consumer/Handbooks/Probate/PowerOfAtty.pdf"
+    },
+    {
+      "text": "Probate and Planning\nThe process of planning ahead for the end of life is something that many want to avoid. Although planning for such a time may not be comfortable, it is an important step to help those who will care for you and your affairs. This handbook addresses wills and the probate process. Next, it describes living trusts, conservatorships, and powers of attorney. Finally, it addresses health care directives and planning a funeral.",
+      "url": "https://www.ag.state.mn.us/Consumer/Handbooks/Probate/default.asp"
+    },
+    {
+      "text": "",
+      "url": "https://www.ag.state.mn.us/default.asp"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/AGEllison/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/AGEllison"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UC24VphM2BVBQYrN2oTjjHUQ"
+    }
+  ]
+}

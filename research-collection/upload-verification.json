@@ -1,0 +1,32 @@
+{
+  "verified_at": "2026-10-14T10:12:31.576Z",
+  "existing_organized_assets_hash_verified": 1238,
+  "research_documents": 240,
+  "research_hashes_verified": 240,
+  "reused_existing_originals": 157,
+  "new_originals": 83,
+  "combined_unique_documents": 493,
+  "local_links_verified": 484,
+  "collection_helper_tests_passed": 35,
+  "new_round_files": 22,
+  "new_round_pdf": 19,
+  "new_round_docx": 3,
+  "new_round_identity_checks_passed": 22,
+  "readable_text_checks_passed": 239,
+  "xfa_viewer_required": 1,
+  "selected_unresolved_tasks": 3,
+  "credential_pattern_findings": [],
+  "existing_library_preserved": true,
+  "browser_checks": {
+    "verified_at": "2026-10-14T10:14:37.776Z",
+    "all_visible": 240,
+    "kansas_visible": 6,
+    "missouri_visible": 6,
+    "iowa_3_11_visible": 1,
+    "linked_iowa_pdf_http_status": 200,
+    "linked_iowa_pdf_signature": "%PDF-",
+    "no_match_visible": 0,
+    "cleared_visible": 240,
+    "passed": true
+  }
+}

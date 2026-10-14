@@ -1,0 +1,77 @@
+{
+  "state": "Utah",
+  "publisher": "Utah State Courts",
+  "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "(?:affidavit_personal_property|Affidavit.*Collecting|Collecting.*Personal).*\\.pdf",
+      "title": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+      "family_id": "small-estate-affidavit",
+      "identity": "Affidavit for Collecting Personal Property",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+    "final_url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+    "http_status": 200,
+    "content_type": "text/html;charset=utf-8",
+    "retrieved_at": "2026-10-14T09:00:56.706Z",
+    "etag": "\"23105-65dc1a70e364a-gzip\"",
+    "last_modified": "Wed, 14 Oct 2026 00:02:53 GMT",
+    "content_length": "20618",
+    "sha256": "91a15315c90e8fdd3f8d299a273b0676d4544ea655b50b596dd3df7110fff135",
+    "title": "Informal Probate",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14/05-utah-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+      "final_url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "retrieved_at": "2026-10-14T09:00:56.706Z",
+      "etag": "\"23105-65dc1a70e364a-gzip\"",
+      "last_modified": "Wed, 14 Oct 2026 00:02:53 GMT",
+      "content_length": "20618",
+      "sha256": "91a15315c90e8fdd3f8d299a273b0676d4544ea655b50b596dd3df7110fff135",
+      "title": "Informal Probate",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "(?:affidavit_personal_property|Affidavit.*Collecting|Collecting.*Personal).*\\.pdf",
+      "title": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+      "family_id": "small-estate-affidavit",
+      "identity": "Affidavit for Collecting Personal Property",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Strategic Plan",
+      "url": "https://www.utcourts.gov/content/dam/about/admin/USC-Strategic-Plan.pdf"
+    },
+    {
+      "text": "Department of Motor Vehicles Survivorship Affidavit",
+      "url": "http://tax.utah.gov/forms/current/tc-569c.pdf"
+    },
+    {
+      "text": "2024 State of the Judiciary",
+      "url": "https://www.utcourts.gov/content/dam/resources/reports/statejudiciary/2024-StateOfTheJudiciary.pdf"
+    },
+    {
+      "text": "2026 Utah Judicial Council Annual Report",
+      "url": "https://www.utcourts.gov/content/dam/court-records-publications/publications/court-publications/court-reports/2026-CourtsAnnualReport.pdf"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "state": "Alabama",
+  "publisher": "Alabama Administrative Office of Courts",
+  "url": "https://eforms.alacourt.gov/small-claims/",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": "sm-1-statement-of-claim",
+      "title": "Statement of Claim (Complaint) ? General",
+      "family_id": "small-claims-complaint",
+      "identity": "STATEMENT OF CLAIM.*COMPLAINT",
+      "form_id": "SM-1",
+      "max": 1
+    },
+    {
+      "pattern": "sm-2-statement-of-claim",
+      "title": "Statement of Claim (Complaint) for Specific Property",
+      "family_id": "small-claims-replevin",
+      "identity": "SPECIFIC PROPERTY",
+      "form_id": "SM-2",
+      "max": 1
+    },
+    {
+      "pattern": "sm-3-defendant-s-answer",
+      "title": "Defendant's Answer",
+      "family_id": "small-claims-answer",
+      "identity": "DEFENDANT.*ANSWER",
+      "form_id": "SM-3",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://eforms.alacourt.gov/small-claims/",
+    "final_url": "https://eforms.alacourt.gov/small-claims/",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:39:52.476Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": "2656",
+    "sha256": "ae4cd2cc3786758048ab21d8df02a6296c54c4653e88fbeb2633cf9bf62d5d6b",
+    "title": "E-Forms - Alabama Administrative Office of Courts",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/01-alabama-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://eforms.alacourt.gov/small-claims/",
+      "final_url": "https://eforms.alacourt.gov/small-claims/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:39:52.476Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": "2656",
+      "sha256": "ae4cd2cc3786758048ab21d8df02a6296c54c4653e88fbeb2633cf9bf62d5d6b",
+      "title": "E-Forms - Alabama Administrative Office of Courts",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "sm-1-statement-of-claim",
+      "title": "Statement of Claim (Complaint) ? General",
+      "family_id": "small-claims-complaint",
+      "identity": "STATEMENT OF CLAIM.*COMPLAINT",
+      "form_id": "SM-1",
+      "max": 1,
+      "url": "https://eforms.alacourt.gov/media/fhjeaxgw/sm-1-statement-of-claim-complaint-general.pdf",
+      "link_text": "Statement of Claim (Complaint) - General",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://eforms.alacourt.gov/media/fhjeaxgw/sm-1-statement-of-claim-complaint-general.pdf",
+        "final_url": "https://eforms.alacourt.gov/media/fhjeaxgw/sm-1-statement-of-claim-complaint-general.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:39:53.292Z",
+        "etag": "\"548779945750dd1:0\"",
+        "last_modified": "Tue, 29 Sep 2026 21:14:57 GMT",
+        "content_length": "275873",
+        "sha256": "e0928869e1561a302fdfc235885dfe4a397b73839209a6b5516eba532997255c",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://eforms.alacourt.gov/media/fhjeaxgw/sm-1-statement-of-claim-complaint-general.pdf",
+          "final_url": "https://eforms.alacourt.gov/media/fhjeaxgw/sm-1-statement-of-claim-complaint-general.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:39:53.292Z",
+          "etag": "\"548779945750dd1:0\"",
+          "last_modified": "Tue, 29 Sep 2026 21:14:57 GMT",
+          "content_length": "275873",
+          "sha256": "e0928869e1561a302fdfc235885dfe4a397b73839209a6b5516eba532997255c",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "e0928869e1561a302fdfc235885dfe4a397b73839209a6b5516eba532997255c",
+      "local_archive_path": "archive/2026-10-14-08/01-statement-of-claim-complaint-general-e0928869e156.pdf",
+      "bytes": 275873,
+      "text_length": 6607,
+      "pages": 2,
+      "identity_excerpt": "State of Alabama Unified Judicial System Form SM-1 (front) Rev. 10/26 STATEMENT OF CLAIM (Complaint) General Case Number IN THE SMALL CLAIMS COURT OF _________________________________________________________________, ALABAMA (Name of County) __________________________________________ v._______________________________________ Plaintiff Defendant Plaintiff’s Defendant’s Home Address Home Address Plaintiff’s Attorney’s Additional Address Defendant(s) and Addresses NOTICE TO EACH DEFENDANT – READ CAREFULLY YOU ARE BEING SUED IN THE SMALL CLAIMS COURT BY THE PLAINTIFF(S) SHOWN ABOVE. THE JUDGE HAS NOT YET MADE ANY DECISION IN THIS CASE, AND YOU HAVE THE RIGHT TO A TRIAL TO TELL YOUR SIDE. HOWEVER, IF YOU, OR YOUR LAWYER, FAIL TO FILL OUT THE ENCLOSED ANSWER FORM AND DELIVER OR MAIL IT TO THE CLERK AT THE ADDRESS SHOWN BELOW, SO THAT IT WILL GET TO THE CLERK’S OFFICE WITHIN FOURTEEN (14) DAYS AFTER YOU RECEIVE THESE PAPERS, A JUDGMENT CAN BE TAKEN AGAINST YOU FOR THE MONEY OR PROPERTY DEMANDED IN THE FOLLOWING COMPLAINT, ONCE A JUDGMENT HAS BEEN ENTERED AGAINST YOU, YOUR PAYCHECK CAN BE GARNISHED AND/OR YOUR HOME OR PROPERTY SOLD TO SATISFY THAT JUDGMENT. COMPLAINT 1. I claim the defendant owes the plaintiff the sum of $____________________ because: 2. Plaintiff also claims from the defendant court costs in the sum of $ ________________________ (see note below), plus $__________________ for interest and $________________ for lawyers’ fees (only if plaintiff is represented by a licensed, practicing attorney and if the contract or note you signed so provides.) NOTE: The total amount of court costs may be more than this amount when the case is finally settled. The clerk will inform you of any additional costs at the close of the case. CLERK’S ADDRESS: ___________________________",
+      "revision_evidence": [
+        "System Form SM-1 (front) Rev. 10/26 STATEMENT OF CLAIM (Complaint) General Case Number IN THE SMALL C",
+        "_______ Form SM-1 (back) Rev. 3/95 INSTRUCTIONS TO THE PLAINTIFF’S This is your case, and if you are "
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "sm-2-statement-of-claim",
+      "title": "Statement of Claim (Complaint) for Specific Property",
+      "family_id": "small-claims-replevin",
+      "identity": "SPECIFIC PROPERTY",
+      "form_id": "SM-2",
+      "max": 1,
+      "url": "https://eforms.alacourt.gov/media/nwhfhzt0/sm-2-statement-of-claim-complaint-for-specific-property.pdf",
+      "link_text": "Statement of Claim (Complaint) for Specific Property",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://eforms.alacourt.gov/media/nwhfhzt0/sm-2-statement-of-claim-complaint-for-specific-property.pdf",
+        "final_url": "https://eforms.alacourt.gov/media/nwhfhzt0/sm-2-statement-of-claim-complaint-for-specific-property.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:39:53.789Z",
+        "etag": "\"fdfce9e5750dd1:0\"",
+        "last_modified": "Tue, 29 Sep 2026 21:15:13 GMT",
+        "content_length": "296607",
+        "sha256": "d9d4f1185bae694d9563406e4bc959ba3053594c794ca7cf22868cb886ac5cc3",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://eforms.alacourt.gov/media/nwhfhzt0/sm-2-statement-of-claim-complaint-for-specific-property.pdf",
+          "final_url": "https://eforms.alacourt.gov/media/nwhfhzt0/sm-2-statement-of-claim-complaint-for-specific-property.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:39:53.789Z",
+          "etag": "\"fdfce9e5750dd1:0\"",
+          "last_modified": "Tue, 29 Sep 2026 21:15:13 GMT",
+          "content_length": "296607",
+          "sha256": "d9d4f1185bae694d9563406e4bc959ba3053594c794ca7cf22868cb886ac5cc3",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "d9d4f1185bae694d9563406e4bc959ba3053594c794ca7cf22868cb886ac5cc3",
+      "local_archive_path": "archive/2026-10-14-08/01-statement-of-claim-complaint-for-specific-property-d9d4f1185bae.pdf",
+      "bytes": 296607,
+      "text_length": 7446,
+      "pages": 2,
+      "identity_excerpt": "State of Alabama Unified Judicial System Form SM-2 (front) Rev. 10/26 STATEMENT OF CLAIM (Complaint) For Specific Property Case Number NOTICE TO EACH DEFENDANT – READ CAREFULLY YOU ARE BEING SUED IN THE SMALL CLAIMS COURT BY THE PLAINTIFF(S) SHOWN ABOVE. THE JUDGE HAS NOT YET MADE ANY DECISION IN THIS CASE, AND YOU HAVE THE RIGHT TO A TRIAL TO TELL YOUR SIDE. HOWEVER, IF YOU, OR YOUR LAWYER, FAIL TO FILL OUT THE ENCLOSED ANSWER FORM AND DELIVER OR MAIL IT TO THE CLERK AT THE ADDRESS SHOWN BELOW, SO THAT IT WILL GET TO THE CLERK’S OFFICE WITHIN FOURTEEN (14) DAYS AFTER YOU RECEIVE THESE PAPERS, A JUDGMENT CAN BE TAKEN AGAINST YOU FOR THE MONEY OR PROPERTY DEMANDED IN THE FOLLOWING COMPLAINT, ONCE A JUDGMENT HAS BEEN ENTERED AGAINST YOU, YOUR PAYCHECK CAN BE GARNISHED AND/OR YOUR HOME OR PROPERTY SOLD TO SATISFY THAT JUDGMENT. COMPLAINT 1. Plaintiff demands right to possession from the defendant(s) of the following property: Otherwise, plaintiff claims sum of $____________________ from the defendant(s) as the alternate value of this property: 2. Plaintiff also claims from the defendant the sum of $ ________________________ for the use of this property from ______________________________ to the present. 3. Plaintiff also claims from the defendant(s) court costs in the sum of $ ________________________ (see note below), and $_______________ for lawyers’ fees (only if plaintiff is represented by a licensed, practicing attorney and if the contract or note you signed so provides.) NOTE: The total amount of court costs may be more than this amount when the case is finally settled. The clerk will inform you of any additional costs at the close of the case. CLERK’S ADDRESS: _____________________________________________________ Plaintiff or Plaintiff’s Attorney (Signature) Attorne",
+      "revision_evidence": [
+        "System Form SM-2 (front) Rev. 10/26 STATEMENT OF CLAIM (Complaint) For Specific Property Case Number ",
+        "_______ Form SM-2 (back) Rev. 3/95 INSTRUCTIONS TO THE PLAINTIFF’S This is your case, and if you are "
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "sm-3-defendant-s-answer",
+      "title": "Defendant's Answer",
+      "family_id": "small-claims-answer",
+      "identity": "DEFENDANT.*ANSWER",
+      "form_id": "SM-3",
+      "max": 1,
+      "url": "https://eforms.alacourt.gov/media/df4mch23/sm-3-defendant-s-answer.pdf",
+      "link_text": "Defendant's Answer",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://eforms.alacourt.gov/media/df4mch23/sm-3-defendant-s-answer.pdf",
+        "final_url": "https://eforms.alacourt.gov/media/df4mch23/sm-3-defendant-s-answer.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:39:55.019Z",
+        "etag": "\"5758bc815750dd1:0\"",
+        "last_modified": "Tue, 29 Sep 2026 21:14:25 GMT",
+        "content_length": "531817",
+        "sha256": "613f5e3362955ae59784da4c297c2907bba83cd377c7dabde45046d8ae1094c1",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://eforms.alacourt.gov/media/df4mch23/sm-3-defendant-s-answer.pdf",
+          "final_url": "https://eforms.alacourt.gov/media/df4mch23/sm-3-defendant-s-answer.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:39:55.019Z",
+          "etag": "\"5758bc815750dd1:0\"",
+          "last_modified": "Tue, 29 Sep 2026 21:14:25 GMT",
+          "content_length": "531817",
+          "sha256": "613f5e3362955ae59784da4c297c2907bba83cd377c7dabde45046d8ae1094c1",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "613f5e3362955ae59784da4c297c2907bba83cd377c7dabde45046d8ae1094c1",
+      "local_archive_path": "archive/2026-10-14-08/01-defendant-s-answer-613f5e336295.pdf",
+      "bytes": 531817,
+      "text_length": 5821,
+      "pages": 2,
+      "identity_excerpt": "State of Alabama Unified Judicial System Form SM-3 (front) Rev. 10/2026 DEFENDANT’S ANSWER Case Number IN THE SMALL CLAIMS COURT OF _________________________________________________________________, ALABAMA (Name of County) __________________________________________ v._______________________________________ Plaintiff Plaintiff’s Defendant’s Home Address Home Address: PART 1. DEFENDANTS ANSWER TO THE COMPLAINT Instructions: 1. Please print. 2. This answer must be signed by the person or persons who have been sued or their attorney. An answer which is not signed or which is not signed by the proper person cannot be considered. 3. Mail the original to the Small Claims Court Clerk at the address below. 4. Mail a copy to the plaintiff or his/her attorney, if he/she is represented by an attorney, at the address above. Keep a copy for your files. Notice: If you have been sued in county in which you do not live and if the suit against you is not for services or work and labor performed in the county where suit has been filed, you may request that it be transferred to your home county. If this applies, complete “A” below. SELECT ONLY ONE OF THE FOLLOWING: A. □ I do not live in this county and the suit against me is not for work or labor performed in the county where suit has been filed; thus, I want this case transferred to my home county of ______________________________________________, B. □ I admit everything in the Statement of Claim and do not want a trial. (This means that you consent to a judgment for the amount claimed plus court costs). C. □ I admit that I owe some money, but not the total amount claimed by the plaintiff(s). (If this block is checked, the case will be set for trial. Please note that any money paid by you on this claim after the suit was filed may not be",
+      "revision_evidence": [
+        "System Form SM-3 (front) Rev. 10/2026 DEFENDANT’S ANSWER Case Number IN THE SMALL CLAIMS COURT OF ___",
+        "_______ Form SM-3 (back) Rev. 10/2026 INSTRUCTIONS TO EACH DEFENDANT ANSWER ONLY 1. You MUST fill out"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "AOC E-FORMS",
+      "url": "https://eforms.alacourt.gov/"
+    },
+    {
+      "text": "Appellate Forms",
+      "url": "https://eforms.alacourt.gov/appellate-forms/"
+    },
+    {
+      "text": "Attorney Fee Declarations",
+      "url": "https://eforms.alacourt.gov/attorney-fee-declarations/"
+    },
+    {
+      "text": "Bonding Company Forms",
+      "url": "https://eforms.alacourt.gov/bonding-company-forms/"
+    },
+    {
+      "text": "Child Support Forms",
+      "url": "https://eforms.alacourt.gov/child-support-forms/"
+    },
+    {
+      "text": "Civil Forms",
+      "url": "https://eforms.alacourt.gov/civil-forms/"
+    },
+    {
+      "text": "Court Administration",
+      "url": "https://eforms.alacourt.gov/court-administration/"
+    },
+    {
+      "text": "Criminal Forms",
+      "url": "https://eforms.alacourt.gov/criminal-forms/"
+    },
+    {
+      "text": "Do It Yourself Forms",
+      "url": "https://eforms.alacourt.gov/do-it-yourself-forms/"
+    },
+    {
+      "text": "Finance Forms",
+      "url": "https://eforms.alacourt.gov/finance-forms/"
+    },
+    {
+      "text": "Human Resources",
+      "url": "https://eforms.alacourt.gov/human-resources/"
+    },
+    {
+      "text": "Interpreter Forms",
+      "url": "https://eforms.alacourt.gov/interpreter-forms/"
+    },
+    {
+      "text": "Juvenile Forms",
+      "url": "https://eforms.alacourt.gov/juvenile-forms/"
+    },
+    {
+      "text": "Limited Scope Representation",
+      "url": "https://eforms.alacourt.gov/limited-scope-representation/"
+    },
+    {
+      "text": "Local County Forms",
+      "url": "https://eforms.alacourt.gov/local-county-forms/"
+    },
+    {
+      "text": "Motion Cover Sheet",
+      "url": "https://eforms.alacourt.gov/motion-cover-sheet/"
+    },
+    {
+      "text": "Municipal Forms",
+      "url": "https://eforms.alacourt.gov/municipal-forms/"
+    },
+    {
+      "text": "Oaths of Office Forms",
+      "url": "https://eforms.alacourt.gov/oaths-of-office-forms/"
+    },
+    {
+      "text": "Probate Forms",
+      "url": "https://eforms.alacourt.gov/probate-forms/"
+    },
+    {
+      "text": "Professional Services Fee Declarations",
+      "url": "https://eforms.alacourt.gov/professional-services-fee-declarations/"
+    },
+    {
+      "text": "Sample Criminal Forms",
+      "url": "https://eforms.alacourt.gov/sample-criminal-forms/"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://eforms.alacourt.gov/small-claims/"
+    },
+    {
+      "text": "Traffic Forms",
+      "url": "https://eforms.alacourt.gov/traffic-forms/"
+    },
+    {
+      "text": "Notice That Affidavit of Substantial Hardship Has Been Granted",
+      "url": "https://eforms.alacourt.gov/media/ypip5oit/notice-that-affidavit-of-substantial-hardship-has-been-granted.pdf"
+    },
+    {
+      "text": "Affidavit of Substantial Hardship and Order - Civil",
+      "url": "https://eforms.alacourt.gov/media/na1j0cie/c-10-civil-affidavit-of-substantial-hardship-order-10-2026.pdf"
+    },
+    {
+      "text": "Statement of Claim (Complaint) - General",
+      "url": "https://eforms.alacourt.gov/media/fhjeaxgw/sm-1-statement-of-claim-complaint-general.pdf"
+    },
+    {
+      "text": "Statement of Claim (Complaint) for Specific Property",
+      "url": "https://eforms.alacourt.gov/media/nwhfhzt0/sm-2-statement-of-claim-complaint-for-specific-property.pdf"
+    },
+    {
+      "text": "Defendant's Answer",
+      "url": "https://eforms.alacourt.gov/media/df4mch23/sm-3-defendant-s-answer.pdf"
+    },
+    {
+      "text": "Defendant's Counterclaim",
+      "url": "https://eforms.alacourt.gov/media/asshrkmi/sm-6-defendant-s-counterclaim-10-2026.pdf"
+    },
+    {
+      "text": "Alabama Administrative Office of Courts",
+      "url": "http://www.alacourt.gov/"
+    }
+  ]
+}

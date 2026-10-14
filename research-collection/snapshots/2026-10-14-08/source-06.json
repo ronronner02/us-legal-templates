@@ -1,0 +1,965 @@
+{
+  "state": "Idaho",
+  "publisher": "Idaho Court Assistance Office",
+  "url": "https://courtselfhelp.idaho.gov/Forms/claims",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": "/CAO_SC_1-1\\.pdf",
+      "title": "Small Claims Complaint",
+      "family_id": "small-claims-complaint",
+      "identity": "COMPLAINT",
+      "max": 1
+    },
+    {
+      "pattern": "/CAO_SC_1-2\\.pdf",
+      "title": "Small Claims Summons",
+      "family_id": "small-claims-summons",
+      "identity": "SUMMONS",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://courtselfhelp.idaho.gov/Forms/claims",
+    "final_url": "https://courtselfhelp.idaho.gov/Forms/claims",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:39:57.093Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "d3f88872594dcc283e290022a48577e952f8a76be1b035cbeaec610221db24f5",
+    "title": "Small Claims",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/06-idaho-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://courtselfhelp.idaho.gov/Forms/claims",
+      "final_url": "https://courtselfhelp.idaho.gov/Forms/claims",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:39:57.093Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "d3f88872594dcc283e290022a48577e952f8a76be1b035cbeaec610221db24f5",
+      "title": "Small Claims",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "/CAO_SC_1-1\\.pdf",
+      "title": "Small Claims Complaint",
+      "family_id": "small-claims-complaint",
+      "identity": "COMPLAINT",
+      "max": 1,
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-1.pdf",
+      "link_text": "PDF",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-1.pdf",
+        "final_url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-1.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:39:57.549Z",
+        "etag": "\"f7b7b57df5adb1:0\"",
+        "last_modified": "Mon, 30 Dec 2024 17:22:02 GMT",
+        "content_length": "13075",
+        "sha256": "316a59bf36d6c819c53a6bc3684abeebf1f83e8677201067b3f9795303badf7a",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-1.pdf",
+          "final_url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-1.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:39:57.549Z",
+          "etag": "\"f7b7b57df5adb1:0\"",
+          "last_modified": "Mon, 30 Dec 2024 17:22:02 GMT",
+          "content_length": "13075",
+          "sha256": "316a59bf36d6c819c53a6bc3684abeebf1f83e8677201067b3f9795303badf7a",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "316a59bf36d6c819c53a6bc3684abeebf1f83e8677201067b3f9795303badf7a",
+      "local_archive_path": "archive/2026-10-14-08/06-small-claims-complaint-316a59bf36d6.pdf",
+      "bytes": 13075,
+      "text_length": 962,
+      "pages": 1,
+      "identity_excerpt": "SUMMONS PAGE 1 CAO SC 1-1 07/01/2018 IN THE DISTRICT COURT FOR THE JUDICIAL DISTRICT FOR THE STATE OF IDAHO, IN AND FOR THE COUNTY OF SMALL CLAIMS DEPARTMENT , Plaintiff(s), vs. , Defendant(s). Case No. SUMMONS To the Defendant(s): You have been sued by the Plaintiff(s) in the court listed above. IF YOU DO NOT FILE YOUR ANSWER with the court within 21 days, the court may enter judgment against you, for the money, personal property, and/or filing and service costs. IF YOU FILE AN ANSWER, the court will send you a notice with the date and time to appear in court. Make sure the court has your current mailing address. Favor de notificarnos, antes de la fecha de su audiencia, si necesita un intérprete. Date: CLERK OF THE DISTRICT COURT By: Typed/printed name Deputy Clerk Response Due at the Court Within 21 Days File the answer form you received, with the Court Clerk at: (mailing address, physical address if different, and telephone number of the court):",
+      "revision_evidence": [
+        "UMMONS PAGE 1 CAO SC 1-1 07/01/2018 IN THE DISTRICT COURT FOR THE JUDICIAL DISTRICT FOR THE STATE OF"
+      ],
+      "identity_verification": "identity-review-required",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "/CAO_SC_1-2\\.pdf",
+      "title": "Small Claims Summons",
+      "family_id": "small-claims-summons",
+      "identity": "SUMMONS",
+      "max": 1,
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-2.pdf",
+      "link_text": "PDF",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-2.pdf",
+        "final_url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-2.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:39:58.181Z",
+        "etag": "\"30768059df5adb1:0\"",
+        "last_modified": "Mon, 30 Dec 2024 17:22:06 GMT",
+        "content_length": "20396",
+        "sha256": "d1d9abd8fa0d7e064dd9d4d28627b0068e2ccb3d46a3ad82f650adef1b1efa59",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-2.pdf",
+          "final_url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-2.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:39:58.181Z",
+          "etag": "\"30768059df5adb1:0\"",
+          "last_modified": "Mon, 30 Dec 2024 17:22:06 GMT",
+          "content_length": "20396",
+          "sha256": "d1d9abd8fa0d7e064dd9d4d28627b0068e2ccb3d46a3ad82f650adef1b1efa59",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "d1d9abd8fa0d7e064dd9d4d28627b0068e2ccb3d46a3ad82f650adef1b1efa59",
+      "local_archive_path": "archive/2026-10-14-08/06-small-claims-summons-d1d9abd8fa0d.pdf",
+      "bytes": 20396,
+      "text_length": 1733,
+      "pages": 2,
+      "identity_excerpt": "CLAIM PAGE 1 CAO SC 1-2 07/01/2016 Full Name of Party Filing Document Mailing Address (Street or Post Office Box) City, State and Zip Code Telephone Email Address (if any) IN THE DISTRICT COURT FOR THE JUDICIAL DISTRICT FOR THE STATE OF IDAHO, IN AND FOR THE COUNTY OF SMALL CLAIMS DEPARTMENT , Plaintiff(s), vs. , Defendant(s). Case No. CLAIM $ Claim $ Filing Fee $ Service Fee $ Another Notice $ $ Total Plaintiff’s Name Address City State Zip Phone Plaintiff’s Name Address City State Zip Phone Defendant’s Name Address City State Zip Phone Defendant’s Name Address City State Zip Phone (If you are seeking a judgment for money, fill out this portion.) AMOUNT OF CLAIM: (not including filing and service fees) DATE CLAIM AROSE: (month and year) CLAIM PAGE 2 CAO SC 1-2 07/01/2016 BASIS FOR YOUR CLAIM: If you are seeking a judgment for the return of personal property, fill out this portion. PERSONAL PROPERTY: I am the owner, or I am entitled to possess, the following personal property, which is being held by the defendant (specifically describe the property): VALUE OF THE PROPERTY: $ Service of process by certified mail requested:  Yes  No BY SIGNING THIS CLAIM, THE PLAINTIFF VERIFIES THAT (1) the Plaintiff is the true owner of the claim, (2) the Defendant resides in County, or the Defendant resides outside Idaho and the claim arose in County, and (3) the information above is true and correct to the Plaintiff’s best knowledge. CERTIFICATION UNDER PENALTY OF PERJURY I certify under penalty of perjury pursuant to the law of the State of Idaho that the foregoing is true and correct. Date: Typed/printed name Plaintiff’s Signature Favor de avisarnos antes de la audencia si usted necesitara un interprete en la corte.",
+      "revision_evidence": [
+        "CLAIM PAGE 1 CAO SC 1-2 07/01/2016 Full Name of Party Filing Document Mailing Address (Street or Po",
+        " CLAIM PAGE 2 CAO SC 1-2 07/01/2016 BASIS FOR YOUR CLAIM: If you are seeking a judgment for the retu"
+      ],
+      "identity_verification": "identity-review-required",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "",
+      "url": "https://courtselfhelp.idaho.gov/"
+    },
+    {
+      "text": "",
+      "url": "https://courtselfhelp.idaho.gov/"
+    },
+    {
+      "text": "Home",
+      "url": "https://courtselfhelp.idaho.gov/"
+    },
+    {
+      "text": "Forms",
+      "url": "https://courtselfhelp.idaho.gov/Forms"
+    },
+    {
+      "text": "All Forms",
+      "url": "https://courtselfhelp.idaho.gov/Forms"
+    },
+    {
+      "text": "Change Custody",
+      "url": "https://courtselfhelp.idaho.gov/Forms/visitation"
+    },
+    {
+      "text": "Change Visitation",
+      "url": "https://courtselfhelp.idaho.gov/Forms/visitation"
+    },
+    {
+      "text": "Change Child Support",
+      "url": "https://courtselfhelp.idaho.gov/Forms/visitation"
+    },
+    {
+      "text": "Child Support",
+      "url": "https://courtselfhelp.idaho.gov/Forms/visitation"
+    },
+    {
+      "text": "Conservatorship",
+      "url": "https://courtselfhelp.idaho.gov/Forms/guardianship"
+    },
+    {
+      "text": "Custody & Paternity",
+      "url": "https://courtselfhelp.idaho.gov/Forms/Custody"
+    },
+    {
+      "text": "Divorce",
+      "url": "https://courtselfhelp.idaho.gov/Forms/Divorce"
+    },
+    {
+      "text": "Guardianship",
+      "url": "https://courtselfhelp.idaho.gov/Forms/guardianship"
+    },
+    {
+      "text": "Housing",
+      "url": "https://courtselfhelp.idaho.gov/Forms/housing"
+    },
+    {
+      "text": "Misc Civil Forms",
+      "url": "https://courtselfhelp.idaho.gov/Forms/civil"
+    },
+    {
+      "text": "Misc Family Law",
+      "url": "https://courtselfhelp.idaho.gov/Forms/family"
+    },
+    {
+      "text": "Name Change",
+      "url": "https://courtselfhelp.idaho.gov/Forms/name"
+    },
+    {
+      "text": "No Contact Order",
+      "url": "https://courtselfhelp.idaho.gov/Forms/protection"
+    },
+    {
+      "text": "Protection Orders",
+      "url": "https://courtselfhelp.idaho.gov/Forms/protection"
+    },
+    {
+      "text": "Set Aside",
+      "url": "https://courtselfhelp.idaho.gov/Forms/aside"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://courtselfhelp.idaho.gov/Forms/claims"
+    },
+    {
+      "text": "Tax Intercept Objection",
+      "url": "https://courtselfhelp.idaho.gov/Forms/Tax"
+    },
+    {
+      "text": "Visitation",
+      "url": "https://courtselfhelp.idaho.gov/Forms/visitation"
+    },
+    {
+      "text": "Resources",
+      "url": "https://courtselfhelp.idaho.gov/Resources"
+    },
+    {
+      "text": "Local Events",
+      "url": "https://courtselfhelp.idaho.gov/Event"
+    },
+    {
+      "text": "Publications",
+      "url": "https://courtselfhelp.idaho.gov/Publications"
+    },
+    {
+      "text": "Legal Services",
+      "url": "https://courtselfhelp.idaho.gov/Legal-Services"
+    },
+    {
+      "text": "About Us",
+      "url": "https://courtselfhelp.idaho.gov/About-Us"
+    },
+    {
+      "text": "Local Offices",
+      "url": "https://courtselfhelp.idaho.gov/Local"
+    },
+    {
+      "text": "Ada",
+      "url": "https://courtselfhelp.idaho.gov/Local/Ada"
+    },
+    {
+      "text": "Adams",
+      "url": "https://courtselfhelp.idaho.gov/Local/Adams"
+    },
+    {
+      "text": "Bannock",
+      "url": "https://courtselfhelp.idaho.gov/Local/Bannock"
+    },
+    {
+      "text": "Bear Lake",
+      "url": "https://courtselfhelp.idaho.gov/Local/Bearlake"
+    },
+    {
+      "text": "Benewah",
+      "url": "https://courtselfhelp.idaho.gov/Local/Benewah"
+    },
+    {
+      "text": "Bingham",
+      "url": "https://courtselfhelp.idaho.gov/Local/Bingham"
+    },
+    {
+      "text": "Blaine",
+      "url": "https://courtselfhelp.idaho.gov/Local/Blaine"
+    },
+    {
+      "text": "Boise",
+      "url": "https://courtselfhelp.idaho.gov/Local/Boise"
+    },
+    {
+      "text": "Bonner",
+      "url": "https://courtselfhelp.idaho.gov/Local/Bonner"
+    },
+    {
+      "text": "Bonneville",
+      "url": "https://courtselfhelp.idaho.gov/Local/Bonneville"
+    },
+    {
+      "text": "Boundary",
+      "url": "https://courtselfhelp.idaho.gov/Local/Boundary"
+    },
+    {
+      "text": "Butte",
+      "url": "https://courtselfhelp.idaho.gov/Local/Butte"
+    },
+    {
+      "text": "Camas",
+      "url": "https://courtselfhelp.idaho.gov/Local/Camas"
+    },
+    {
+      "text": "Canyon",
+      "url": "https://courtselfhelp.idaho.gov/Local/Canyon"
+    },
+    {
+      "text": "Caribou",
+      "url": "https://courtselfhelp.idaho.gov/Local/Caribou"
+    },
+    {
+      "text": "Cassia",
+      "url": "https://courtselfhelp.idaho.gov/Local/Cassia"
+    },
+    {
+      "text": "Clark",
+      "url": "https://courtselfhelp.idaho.gov/Local/Clark"
+    },
+    {
+      "text": "Clearwater",
+      "url": "https://courtselfhelp.idaho.gov/Local/Clearwater"
+    },
+    {
+      "text": "Custer",
+      "url": "https://courtselfhelp.idaho.gov/Local/Custer"
+    },
+    {
+      "text": "Elmore",
+      "url": "https://courtselfhelp.idaho.gov/Local/Elmore"
+    },
+    {
+      "text": "Franklin",
+      "url": "https://courtselfhelp.idaho.gov/Local/Franklin"
+    },
+    {
+      "text": "Fremont",
+      "url": "https://courtselfhelp.idaho.gov/Local/Fremont"
+    },
+    {
+      "text": "Gem",
+      "url": "https://courtselfhelp.idaho.gov/Local/Gem"
+    },
+    {
+      "text": "Gooding",
+      "url": "https://courtselfhelp.idaho.gov/Local/Gooding"
+    },
+    {
+      "text": "Idaho",
+      "url": "https://courtselfhelp.idaho.gov/Local/Idaho"
+    },
+    {
+      "text": "Jefferson",
+      "url": "https://courtselfhelp.idaho.gov/Local/Jefferson"
+    },
+    {
+      "text": "Jerome",
+      "url": "https://courtselfhelp.idaho.gov/Local/Jerome"
+    },
+    {
+      "text": "Kootenai",
+      "url": "https://courtselfhelp.idaho.gov/Local/Kootenai"
+    },
+    {
+      "text": "Latah",
+      "url": "https://courtselfhelp.idaho.gov/Local/Latah"
+    },
+    {
+      "text": "Lemhi",
+      "url": "https://courtselfhelp.idaho.gov/Local/Lemhi"
+    },
+    {
+      "text": "Lewis",
+      "url": "https://courtselfhelp.idaho.gov/Local/Lewis"
+    },
+    {
+      "text": "Lincoln",
+      "url": "https://courtselfhelp.idaho.gov/Local/Lincoln"
+    },
+    {
+      "text": "Madison",
+      "url": "https://courtselfhelp.idaho.gov/Local/Madison"
+    },
+    {
+      "text": "Minidoka",
+      "url": "https://courtselfhelp.idaho.gov/Local/Minidoka"
+    },
+    {
+      "text": "Nez Perce",
+      "url": "https://courtselfhelp.idaho.gov/Local/NezPerce"
+    },
+    {
+      "text": "Oneida",
+      "url": "https://courtselfhelp.idaho.gov/Local/Oneida"
+    },
+    {
+      "text": "Owyhee",
+      "url": "https://courtselfhelp.idaho.gov/Local/Owyhee"
+    },
+    {
+      "text": "Payette",
+      "url": "https://courtselfhelp.idaho.gov/Local/Payette"
+    },
+    {
+      "text": "Power",
+      "url": "https://courtselfhelp.idaho.gov/Local/Power"
+    },
+    {
+      "text": "Shoshone",
+      "url": "https://courtselfhelp.idaho.gov/Local/Shoshone"
+    },
+    {
+      "text": "Teton",
+      "url": "https://courtselfhelp.idaho.gov/Local/Teton"
+    },
+    {
+      "text": "Twin Falls",
+      "url": "https://courtselfhelp.idaho.gov/Local/TwinFalls"
+    },
+    {
+      "text": "Valley",
+      "url": "https://courtselfhelp.idaho.gov/Local/Valley"
+    },
+    {
+      "text": "Washington",
+      "url": "https://courtselfhelp.idaho.gov/Local/Washington"
+    },
+    {
+      "text": "Forms Here",
+      "url": "https://idaho.tylertech.cloud/srl"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/instructions/CAO_SC_Instr_1-1.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/instructions/CAO_SC_Instr_1-1a.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/instructions/CAO_SC-Instr_1-1b.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/instructions/CAO_SC-Instr_1-1c.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_Instr_1-2.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_Instr_1-2ab.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_Instr_1-2ab.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_Instr_1-2c.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/instructions/CAO_SC_Instr_1-1.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-1.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-1.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-2.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-2.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/instructions/CAO_SC-Instr_1-1b.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_2-2.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_2-2.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_2-2B.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_2-2B.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_2-1.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_2-1.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_Instr_1-2.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_3-1.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_3-1.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/instructions/CAO_SC_Instr_1-1a.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/instructions/CAO_SC-Instr_1-1c.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_Instr_1-2c.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_5-1.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_5-1.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_5-1A.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_5-1A.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_7-1.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_7-1.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_Instr_10-1.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-1.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-1.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-6.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-6.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-9.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-9.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-3.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-3.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-8.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-8.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-9.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-9.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-2.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-2.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-7.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-7.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-9.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-9.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-4.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-4.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-5.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_9-5.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/instructions/CAO_SC-Instr_1-1c.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_7-2.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_7-2.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_6-1.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_6-1.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_6-2.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_6-2.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_10-1.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_10-1.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_8-3.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_8-3.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_8-4.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_8-4.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_8-1.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_8-1.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_8-2.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_8-2.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_10-2.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_10-2.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_10-3.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_10-3.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/instructions/CAO_SC_Instr_1-1a.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_Instr_1-2ab.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_Instr_1-2c.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_5-2.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_5-2.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_5-3.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_5-3.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-13.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-13.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-14.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-14.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/instructions/CAO_SC_Instr_1-1c.pdf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/instructions/CAO_SC_Instr_1-2c.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_11-1.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_11-1.pdf"
+    },
+    {
+      "text": "Word",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_11-2.docx"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_11-2.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_2-4.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_2-4.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-1.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-1.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-2.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-2.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-3.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-3.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-4.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-4.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-5.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-5.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-6.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-6.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-7.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-7.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-8.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-8.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-9.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-9.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-10.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-10.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-11.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-11.pdf"
+    },
+    {
+      "text": "RTF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-12.rtf"
+    },
+    {
+      "text": "PDF",
+      "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_4-12.pdf"
+    },
+    {
+      "text": "",
+      "url": "http://www.idaholegalaid.org/"
+    },
+    {
+      "text": "",
+      "url": "https://isb.idaho.gov/"
+    },
+    {
+      "text": "",
+      "url": "http://www.wcaboise.org/"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.idaho.gov/about-us/accessibility/"
+    },
+    {
+      "text": "Privacy & Security",
+      "url": "https://www.idaho.gov/about-us/privacy-policy/"
+    },
+    {
+      "text": "Cybersecurity",
+      "url": "https://cybersecurity.idaho.gov/"
+    },
+    {
+      "text": "iCourt Portal: Search your Records",
+      "url": "https://mycourts.idaho.gov/"
+    },
+    {
+      "text": "Idaho Guide and File",
+      "url": "https://guideandfile.idaho.gov/"
+    }
+  ]
+}

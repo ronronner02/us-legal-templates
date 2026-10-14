@@ -1,0 +1,1069 @@
+{
+  "state": "Missouri",
+  "publisher": "Dade County Circuit Clerk",
+  "url": "https://www.dadecountymo.gov/circuit-clerk",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": "Small-claims-handbook-2021",
+      "title": "Missouri Small Claims Court Handbook - county-hosted 2021 copy",
+      "family_id": "small-claims-instructions",
+      "identity": "SMALL CLAIMS.*HANDBOOK"
+    },
+    {
+      "pattern": "CIVIL_ApplicationForTrialDeNovo",
+      "title": "Application for Trial de Novo - Small Claims",
+      "family_id": "small-claims-appeal",
+      "identity": "APPLICATION.*TRIAL DE NOVO"
+    }
+  ],
+  "jurisdiction": "Missouri; Dade County Circuit Clerk source",
+  "flags": [
+    "county-source-scope",
+    "historical-copy-current-version-review"
+  ],
+  "source": {
+    "url": "https://www.dadecountymo.gov/circuit-clerk",
+    "final_url": "https://www.dadecountymo.gov/circuit-clerk",
+    "http_status": 200,
+    "content_type": "text/html;charset=utf-8",
+    "retrieved_at": "2026-10-14T09:58:52.378Z",
+    "etag": "\"-492547332\"",
+    "last_modified": null,
+    "content_length": "55016",
+    "sha256": "bc0feb3a6a1f37d21b5e201a9a7e4c4c7fdb0db98cb3bf1a60edb5ab5d8ad5ea",
+    "title": "Dade County Circuit Clerk",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-09/05-missouri-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.dadecountymo.gov/circuit-clerk",
+      "final_url": "https://www.dadecountymo.gov/circuit-clerk",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "retrieved_at": "2026-10-14T09:58:52.378Z",
+      "etag": "\"-492547332\"",
+      "last_modified": null,
+      "content_length": "55016",
+      "sha256": "bc0feb3a6a1f37d21b5e201a9a7e4c4c7fdb0db98cb3bf1a60edb5ab5d8ad5ea",
+      "title": "Dade County Circuit Clerk",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "Small-claims-handbook-2021",
+      "title": "Missouri Small Claims Court Handbook - county-hosted 2021 copy",
+      "family_id": "small-claims-instructions",
+      "identity": "SMALL CLAIMS.*HANDBOOK",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/Small-claims-handbook-2021.pdf",
+      "link_text": "Missouri Small Claims Court Handbook",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/Small-claims-handbook-2021.pdf",
+        "final_url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/Small-claims-handbook-2021.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:58:55.621Z",
+        "etag": "W/\"439b0e721cb967e188c1277312440b37\"",
+        "last_modified": "Wed, 07 Jul 2021 15:53:19 GMT",
+        "content_length": null,
+        "sha256": "79bf30cdc93dab6e4ae83a4020572d23df3b45915f5042d421dcdfa65ee471b5",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/Small-claims-handbook-2021.pdf",
+          "final_url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/Small-claims-handbook-2021.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:58:55.621Z",
+          "etag": "W/\"439b0e721cb967e188c1277312440b37\"",
+          "last_modified": "Wed, 07 Jul 2021 15:53:19 GMT",
+          "content_length": null,
+          "sha256": "79bf30cdc93dab6e4ae83a4020572d23df3b45915f5042d421dcdfa65ee471b5",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "79bf30cdc93dab6e4ae83a4020572d23df3b45915f5042d421dcdfa65ee471b5",
+      "local_archive_path": "archive/2026-10-14-09/05-missouri-small-claims-court-handbook-county-hosted-2021-copy-79bf30cdc93d.pdf",
+      "bytes": 520171,
+      "text_length": 40093,
+      "pages": 18,
+      "identity_excerpt": "Revised April 2021 T H E M I S Y O U R IB A R O U N G L A W Y E R S S E C T I O N S MISSOURI SMALL CLAIMS COURT HANDBOOK Cases involving money in the amount of $5,000 or less I. Introduction to small claims court 1 II. Things to consider before bringing a claim 2 A. Who can I sue? What can I sue them for? B. When do I have to file my lawsuit? C. Can I settle before I sue? III. What should I do before I sue? 4 A. How do I prepare to bring my claim? 1. Get the correct name, address, and telephone number of the person or business being sued 2. How to determine type of business for purpose of naming defendant 3. Choose the right court (“venue”) 5 4. Filing for minors (under age 18) 5. State your claim 6 6. Pay the court costs 7 B. How can I get the other person to court? 7 1. Serving notice on the defendant 2. Alternative methods of serving notice on the defendant 8 3. Failed service of summons 4. Postponement of the trial C. What do I do if I’ve been sued in small claims court? 8 1. If you are being sued (someone else sued you first) 2. Counterclaims (someone filed a claim against you in response to your claim) 9 D. How should I prepare for trial? 11 1. Before court - preparing yourself 2. During court - proving your claim 12 3. After court - getting your money and appeals E. How do I appeal the judge’s decision? 12 IV. If I win, how do I get my money? 13 A. What happens to the losing party? B. Money: Garnishment 1. Garnishing wages 2. Garnishing a bank account 3. Executing your garnishment action (wages or bank account) 13 C. Other collection methods D. Satisfaction of judgment V. Terms commonly used in small claims court 15 TABLE OF CONTENTS I. INTRODUCTION TO SMALL CLAIMS COURT Small claims court is a division of the circuit court presided over by an appointed judge. Sm",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "CIVIL_ApplicationForTrialDeNovo",
+      "title": "Application for Trial de Novo - Small Claims",
+      "family_id": "small-claims-appeal",
+      "identity": "APPLICATION.*TRIAL DE NOVO",
+      "url": "https://irp-cdn.multiscreensite.com/3a4d916c/files/uploaded/CIVIL_ApplicationForTrialDeNovo.pdf",
+      "link_text": "Application for Trial de Novo (Small Claims appeal)",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://irp-cdn.multiscreensite.com/3a4d916c/files/uploaded/CIVIL_ApplicationForTrialDeNovo.pdf",
+        "final_url": "https://irp-cdn.multiscreensite.com/3a4d916c/files/uploaded/CIVIL_ApplicationForTrialDeNovo.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:58:56.618Z",
+        "etag": "W/\"33f36582b659f5a78e38c63b97ccfa46\"",
+        "last_modified": "Tue, 13 Oct 2020 18:13:55 GMT",
+        "content_length": null,
+        "sha256": "c03a45717628eb818b8f82e0867782a485047943b761150a1c50feeeb5debc71",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://irp-cdn.multiscreensite.com/3a4d916c/files/uploaded/CIVIL_ApplicationForTrialDeNovo.pdf",
+          "final_url": "https://irp-cdn.multiscreensite.com/3a4d916c/files/uploaded/CIVIL_ApplicationForTrialDeNovo.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:58:56.618Z",
+          "etag": "W/\"33f36582b659f5a78e38c63b97ccfa46\"",
+          "last_modified": "Tue, 13 Oct 2020 18:13:55 GMT",
+          "content_length": null,
+          "sha256": "c03a45717628eb818b8f82e0867782a485047943b761150a1c50feeeb5debc71",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "c03a45717628eb818b8f82e0867782a485047943b761150a1c50feeeb5debc71",
+      "local_archive_path": "archive/2026-10-14-09/05-application-for-trial-de-novo-small-claims-c03a45717628.pdf",
+      "bytes": 19584,
+      "text_length": 1742,
+      "pages": 1,
+      "identity_excerpt": "OSCA (4-10) CV50 1 of 1 512.190 RSMo IN THE ______ JUDICIAL CIRCUIT COURT, _____________________________, MISSOURI Case Number:Judge or Division: Court ORI Number: Applicant: Respondent Petitioner Petitioner(s): vs. Judgment in Favor of: Respondent Petitioner Judgment Date:Respondent(s): Applicant’s Telephone Number: (Date File Stamp) Application for Trial De Novo I apply for a Trial De Novo from the judgment rendered by the court not more than 10 days ago. The petition alleged a claim of $ ___________________________. I also understand that an application for a Trial De Novo will not stay execution of the judgment unless I post a court approved bond with this application, and I further understand if this application for Trial De Novo is dismissed or Trial De Novo judgment is entered against me, then the bond money may be used to pay this judgment and costs. (Section 512.190, RSMo) Further, I understand that this process applies only to the signed applicant(s) below. ____________________________________________ ____________________________________________ Applicant Signature/Address Applicant Signature/Address ____________________________________________ ____________________________________________ ____________________________________________ ____________________________________________ Type of Bond: Cash Surety No Bond Posted Bond Amount $ ___________________ So Ordered: _______________________________________ ____________________________________________ Date Judge Certificate of Clerk I certify that I have mailed a copy of the application for Trial De Novo to: Petitioner Respondent Filed with bond Filed without bond _______________________________________ _____________________________________________ Date Clerk",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "",
+      "url": "https://www.dadecountymo.gov/"
+    },
+    {
+      "text": "Offices",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#"
+    },
+    {
+      "text": "Assessor",
+      "url": "https://www.dadecountymo.gov/assessor"
+    },
+    {
+      "text": "Public GIS",
+      "url": "https://www.dadecountymo.gov/assessor#PublicGIS"
+    },
+    {
+      "text": "Change Of Address",
+      "url": "https://www.dadecountymo.gov/assessor#AssessorChangeOfAddress"
+    },
+    {
+      "text": "Personal Property E-File",
+      "url": "https://dade.missouriassessors.com/"
+    },
+    {
+      "text": "Property Assessment Appeal",
+      "url": "https://www.dadecountymo.gov/assessor#PropertyAssessmentAppeal"
+    },
+    {
+      "text": "Personal Property FAQs",
+      "url": "https://www.dadecountymo.gov/assessor#PersonalPropertyFAQs"
+    },
+    {
+      "text": "Real Estate FAQs",
+      "url": "https://www.dadecountymo.gov/assessor#RealEstateFAQs"
+    },
+    {
+      "text": "Circuit Clerk",
+      "url": "https://www.dadecountymo.gov/circuit-clerk"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#JuryDuty"
+    },
+    {
+      "text": "Court Dates",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtDates"
+    },
+    {
+      "text": "Court Costs",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtCosts"
+    },
+    {
+      "text": "Forms",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#Forms"
+    },
+    {
+      "text": "I Want To...",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ClerkFAQ"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ContactUs"
+    },
+    {
+      "text": "Collector",
+      "url": "https://www.dadecountymo.gov/collector"
+    },
+    {
+      "text": "Tax Questions",
+      "url": "https://www.dadecountymo.gov/collector#TaxQuestions"
+    },
+    {
+      "text": "Pay Taxes Online",
+      "url": "https://www.dadecountymo.gov/collector#PayTaxesOnline"
+    },
+    {
+      "text": "Methods Of Payment",
+      "url": "https://www.dadecountymo.gov/collector#MethodsOfPayment"
+    },
+    {
+      "text": "Merchants License",
+      "url": "https://www.dadecountymo.gov/collector#MerchantsLicense"
+    },
+    {
+      "text": "Change Of Address",
+      "url": "https://www.dadecountymo.gov/collector#ChangeOfAddress"
+    },
+    {
+      "text": "Delinquent Tax Sale",
+      "url": "https://www.dadecountymo.gov/collector#DelinquentTaxSale"
+    },
+    {
+      "text": "County Clerk",
+      "url": "https://www.dadecountymo.gov/county-clerk"
+    },
+    {
+      "text": "Prosecuting Attorney",
+      "url": "https://www.dadecountymo.gov/prosecuting-attorney"
+    },
+    {
+      "text": "Prosecuting A Case",
+      "url": "https://www.dadecountymo.gov/prosecuting-attorney#ProsecutingACase"
+    },
+    {
+      "text": "I Want To...",
+      "url": "https://www.dadecountymo.gov/prosecuting-attorney#IWantTo"
+    },
+    {
+      "text": "Victim Advocate Services",
+      "url": "https://www.dadecountymo.gov/prosecuting-attorney#VictimAdvocateServices"
+    },
+    {
+      "text": "Recorder Of Deeds",
+      "url": "https://www.dadecountymo.gov/recorder-of-deeds"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.dadecountymo.gov/job-postings"
+    },
+    {
+      "text": "Directory",
+      "url": "https://www.dadecountymo.gov/directory"
+    },
+    {
+      "text": "Pay / Search Taxes Online",
+      "url": "https://dadecountycollector.org/"
+    },
+    {
+      "text": "e-Juror Registration",
+      "url": "https://www.courts.mo.gov/jurorportal/"
+    },
+    {
+      "text": "Personal Property E-File",
+      "url": "https://dade.missouriassessors.com/"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#JuryDuty"
+    },
+    {
+      "text": "Court Dates",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtDates"
+    },
+    {
+      "text": "Court Costs",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtCosts"
+    },
+    {
+      "text": "Forms",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#Forms"
+    },
+    {
+      "text": "I Want To...",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ClerkFAQ"
+    },
+    {
+      "text": "Search for Case Records",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#SearchforCaseRecords"
+    },
+    {
+      "text": "Make a Payment",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#MakeaPayment"
+    },
+    {
+      "text": "Learn About Child Support",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#LearnAboutChildSupport"
+    },
+    {
+      "text": "Obtain Copies from Case Files",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#1135015044"
+    },
+    {
+      "text": "File a Small Claim",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#1293835418"
+    },
+    {
+      "text": "File an Ex-Parte Protection Order",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#FileanEx-ParteProtectionOrder"
+    },
+    {
+      "text": "File a Refusal of Letters",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#FileaRefusalofLetters"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ContactUs"
+    },
+    {
+      "text": "e-Juror Registration",
+      "url": "https://www.courts.mo.gov/ejuror"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#JuryDuty"
+    },
+    {
+      "text": "Court Dates",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtDates"
+    },
+    {
+      "text": "Court Costs",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtCosts"
+    },
+    {
+      "text": "Forms",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#Forms"
+    },
+    {
+      "text": "I Want To...",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ClerkFAQ"
+    },
+    {
+      "text": "Search for Case Records",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#SearchforCaseRecords"
+    },
+    {
+      "text": "Make a Payment",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#MakeaPayment"
+    },
+    {
+      "text": "Learn About Child Support",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#LearnAboutChildSupport"
+    },
+    {
+      "text": "Obtain Copies from Case Files",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#1135015044"
+    },
+    {
+      "text": "File a Small Claim",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#1293835418"
+    },
+    {
+      "text": "File an Ex-Parte Protection Order",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#FileanEx-ParteProtectionOrder"
+    },
+    {
+      "text": "File a Refusal of Letters",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#FileaRefusalofLetters"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ContactUs"
+    },
+    {
+      "text": "e-Juror Registration",
+      "url": "https://www.courts.mo.gov/ejuror"
+    },
+    {
+      "text": "the juror portal",
+      "url": "https://www.courts.mo.gov/jurorportal/"
+    },
+    {
+      "text": "www.courts.mo.gov/ejuror",
+      "url": "https://www.courts.mo.gov/ejuror"
+    },
+    {
+      "text": "www.courts.mo.gov/ejuror",
+      "url": "https://www.courts.mo.gov/ejuror/"
+    },
+    {
+      "text": "www.courts.mo.gov/ejuror",
+      "url": "https://www.courts.mo.gov/ejuror/"
+    },
+    {
+      "text": "Missouri Revised Statute 494.430",
+      "url": "https://www.revisor.mo.gov/main/OneSection.aspx?section=494.430&bid=47689&hl="
+    },
+    {
+      "text": "Missouri Revised Statute 494.430",
+      "url": "https://www.revisor.mo.gov/main/OneSection.aspx?section=494.430&bid=47689&hl="
+    },
+    {
+      "text": "Back to Top",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#JuryDuty"
+    },
+    {
+      "text": "Back to Circuit Clerk's Home Page",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#dm"
+    },
+    {
+      "text": "",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#dm"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#JuryDuty"
+    },
+    {
+      "text": "Court Dates",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtDates"
+    },
+    {
+      "text": "Court Costs",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtCosts"
+    },
+    {
+      "text": "Forms",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#Forms"
+    },
+    {
+      "text": "I Want To...",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ClerkFAQ"
+    },
+    {
+      "text": "Search for Case Records",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#SearchforCaseRecords"
+    },
+    {
+      "text": "Make a Payment",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#MakeaPayment"
+    },
+    {
+      "text": "Learn About Child Support",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#LearnAboutChildSupport"
+    },
+    {
+      "text": "Obtain Copies from Case Files",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#1135015044"
+    },
+    {
+      "text": "File a Small Claim",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#1293835418"
+    },
+    {
+      "text": "File an Ex-Parte Protection Order",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#FileanEx-ParteProtectionOrder"
+    },
+    {
+      "text": "File a Refusal of Letters",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#FileaRefusalofLetters"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ContactUs"
+    },
+    {
+      "text": "Download 2026 Criminal Court Dates",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/2026+CRIMINAL+COURT+DATE.pdf"
+    },
+    {
+      "text": "Download 2026 Law Days",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/2026+LAW+DAYS.pdf"
+    },
+    {
+      "text": "Download 2026 Civil Dates",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/2026+CIVIL+DATES-2.pdf"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#JuryDuty"
+    },
+    {
+      "text": "Court Dates",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtDates"
+    },
+    {
+      "text": "Court Costs",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtCosts"
+    },
+    {
+      "text": "Forms",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#Forms"
+    },
+    {
+      "text": "I Want To...",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ClerkFAQ"
+    },
+    {
+      "text": "Search for Case Records",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#SearchforCaseRecords"
+    },
+    {
+      "text": "Make a Payment",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#MakeaPayment"
+    },
+    {
+      "text": "Learn About Child Support",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#LearnAboutChildSupport"
+    },
+    {
+      "text": "Obtain Copies from Case Files",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#1135015044"
+    },
+    {
+      "text": "File a Small Claim",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#1293835418"
+    },
+    {
+      "text": "File an Ex-Parte Protection Order",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#FileanEx-ParteProtectionOrder"
+    },
+    {
+      "text": "File a Refusal of Letters",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#FileaRefusalofLetters"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ContactUs"
+    },
+    {
+      "text": "Download a Copy of Court Costs",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/28th+JUDICIAL+CIRCUIT+COSTS+SHEET.pdf"
+    },
+    {
+      "text": "Download a Schedule of Copy Fees",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/2025+NEW+COPY+-+FAX+CHARGES.pdf"
+    },
+    {
+      "text": "Back to Circuit Clerk's Home Page",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#dm"
+    },
+    {
+      "text": "",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#dm"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#JuryDuty"
+    },
+    {
+      "text": "Court Dates",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtDates"
+    },
+    {
+      "text": "Court Costs",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtCosts"
+    },
+    {
+      "text": "Forms",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#Forms"
+    },
+    {
+      "text": "I Want To...",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ClerkFAQ"
+    },
+    {
+      "text": "Search for Case Records",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#SearchforCaseRecords"
+    },
+    {
+      "text": "Make a Payment",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#MakeaPayment"
+    },
+    {
+      "text": "Learn About Child Support",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#LearnAboutChildSupport"
+    },
+    {
+      "text": "Obtain Copies from Case Files",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#1135015044"
+    },
+    {
+      "text": "File a Small Claim",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#1293835418"
+    },
+    {
+      "text": "File an Ex-Parte Protection Order",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#FileanEx-ParteProtectionOrder"
+    },
+    {
+      "text": "File a Refusal of Letters",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#FileaRefusalofLetters"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ContactUs"
+    },
+    {
+      "text": "28th Judicial Circuit Local Court Rules",
+      "url": "https://www.courts.mo.gov/file.jsp?id=4073"
+    },
+    {
+      "text": "2020 Rule 68",
+      "url": "https://irp-cdn.multiscreensite.com/3a4d916c/files/uploaded/2020-Rule-68.pdf"
+    },
+    {
+      "text": "Dissolution of Marriage (Divorce)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=3832"
+    },
+    {
+      "text": "Paternity",
+      "url": "https://www.courts.mo.gov/page.jsp?id=43589"
+    },
+    {
+      "text": "Motion to Modify Custody (and Support)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=38347"
+    },
+    {
+      "text": "Motion to Modify Child Support",
+      "url": "https://www.courts.mo.gov/page.jsp?id=38397"
+    },
+    {
+      "text": "Motion for Family Access (Visitation)",
+      "url": "https://www.courts.mo.gov/page.jsp?id=700"
+    },
+    {
+      "text": "Petition for Child Custody and Support",
+      "url": "https://www.courts.mo.gov/page.jsp?id=38352"
+    },
+    {
+      "text": "Ex Parte Order of Protection-Adult",
+      "url": "https://www.courts.mo.gov/page.jsp?id=533"
+    },
+    {
+      "text": "Ex parte Order of Protection- one child",
+      "url": "https://www.courts.mo.gov/file.jsp?id=443"
+    },
+    {
+      "text": "Ex Parte Order of Protection – up to five children",
+      "url": "https://www.courts.mo.gov/file.jsp?id=65374"
+    },
+    {
+      "text": "Affidavit for Termination of Child Support",
+      "url": "https://www.courts.mo.gov/file.jsp?id=639"
+    },
+    {
+      "text": "Acknowledgment Agreeing to Termination",
+      "url": "https://www.courts.mo.gov/file.jsp?id=640"
+    },
+    {
+      "text": "Answer Objecting to Termination",
+      "url": "https://www.courts.mo.gov/file.jsp?id=641"
+    },
+    {
+      "text": "Affidavit for Credit of Child Support",
+      "url": "https://www.courts.mo.gov/file.jsp?id=10040"
+    },
+    {
+      "text": "www.courts.mo.gov",
+      "url": "http://www.courts.mo.gov/"
+    },
+    {
+      "text": "Small Claims Handbook",
+      "url": "https://irp-cdn.multiscreensite.com/3a4d916c/files/uploaded/SMALL%20CLAIMS%20HANDBOOK.pdf"
+    },
+    {
+      "text": "Petition for Small Claims",
+      "url": "https://www.courts.mo.gov/file.jsp?id=706"
+    },
+    {
+      "text": "Counterclaim of Small Claims",
+      "url": "https://www.courts.mo.gov/file.jsp?id=735"
+    },
+    {
+      "text": "Dismissal of Small Claims",
+      "url": "https://www.courts.mo.gov/file.jsp?id=736"
+    },
+    {
+      "text": "Satisfaction of Judgment",
+      "url": "https://www.courts.mo.gov/file.jsp?id=737"
+    },
+    {
+      "text": "Application for Trial de Novo (Small Claims appeal)",
+      "url": "https://irp-cdn.multiscreensite.com/3a4d916c/files/uploaded/CIVIL_ApplicationForTrialDeNovo.pdf"
+    },
+    {
+      "text": "Garnishment Application and Order",
+      "url": "https://www.courts.mo.gov/file.jsp?id=104656"
+    },
+    {
+      "text": "Execution Application and Order",
+      "url": "https://www.courts.mo.gov/file.jsp?id=104655"
+    },
+    {
+      "text": "Statement of Judgment Balance",
+      "url": "https://www.courts.mo.gov/file.jsp?id=101755"
+    },
+    {
+      "text": "Affidavit for Head of Family Exemption of Wages",
+      "url": "https://www.courts.mo.gov/file.jsp?id=82673"
+    },
+    {
+      "text": "Interrogatories to Garnishee",
+      "url": "https://www.courts.mo.gov/file.jsp?id=101756"
+    },
+    {
+      "text": "Application and Affidavit for Public Defender Services",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/MSPD+application.pdf"
+    },
+    {
+      "text": "Application of Creditor for Refusal of Letters",
+      "url": "https://www.courts.mo.gov/file.jsp?id=652"
+    },
+    {
+      "text": "Application of Surviving Spouse for Refusal of Letters",
+      "url": "https://www.courts.mo.gov/file.jsp?id=656"
+    },
+    {
+      "text": "Case Filing Information Sheet",
+      "url": "https://www.courts.mo.gov/page.jsp?id=384"
+    },
+    {
+      "text": "Subpoena Form",
+      "url": "https://irp-cdn.multiscreensite.com/3a4d916c/files/uploaded/Subpoena.pdf"
+    },
+    {
+      "text": "Mechanic’s Lien",
+      "url": "https://www.courts.mo.gov/file.jsp?id=40852"
+    },
+    {
+      "text": "Request for Copies",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/COPIES_REQUEST_FORM.pdf"
+    },
+    {
+      "text": "Petition for Change of Name- Adult",
+      "url": "https://www.courts.mo.gov/file.jsp?id=55062"
+    },
+    {
+      "text": "Petition for Change of Name-Minor",
+      "url": "https://www.courts.mo.gov/file.jsp?id=71354"
+    },
+    {
+      "text": "www.courts.mo.gov",
+      "url": "http://www.courts.mo.gov/"
+    },
+    {
+      "text": "Back to Circuit Clerk's Home Page",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#dm"
+    },
+    {
+      "text": "",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#dm"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#JuryDuty"
+    },
+    {
+      "text": "Court Dates",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtDates"
+    },
+    {
+      "text": "Court Costs",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtCosts"
+    },
+    {
+      "text": "Forms",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#Forms"
+    },
+    {
+      "text": "I Want To...",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ClerkFAQ"
+    },
+    {
+      "text": "Search for Case Records",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#SearchforCaseRecords"
+    },
+    {
+      "text": "Make a Payment",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#MakeaPayment"
+    },
+    {
+      "text": "Learn About Child Support",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#LearnAboutChildSupport"
+    },
+    {
+      "text": "Obtain Copies from Case Files",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#1135015044"
+    },
+    {
+      "text": "File a Small Claim",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#1293835418"
+    },
+    {
+      "text": "File an Ex-Parte Protection Order",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#FileanEx-ParteProtectionOrder"
+    },
+    {
+      "text": "File a Refusal of Letters",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#FileaRefusalofLetters"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ContactUs"
+    },
+    {
+      "text": "Search Now",
+      "url": "https://www.courts.mo.gov/casenet/base/welcome.do"
+    },
+    {
+      "text": "If paying by web",
+      "url": "https://www.courts.mo.gov/pbw/search.do?execution=e1s1"
+    },
+    {
+      "text": "Case.net",
+      "url": "https://www.courts.mo.gov/casenet/base/welcome.do"
+    },
+    {
+      "text": "litigant name",
+      "url": "https://www.courts.mo.gov/casenet/cases/searchCases.do?searchType=name"
+    },
+    {
+      "text": "https://mo.smartchildsupport.com",
+      "url": "https://mo.smartchildsupport.com/"
+    },
+    {
+      "text": "https://dss.mo.gov/child-support/",
+      "url": "https://dssapp.dss.mo.gov/payments"
+    },
+    {
+      "text": "found here",
+      "url": "https://www.courts.mo.gov/file.jsp?id=639"
+    },
+    {
+      "text": "www.selfrepresent.mo.gov",
+      "url": "https://www.selfrepresent.mo.gov/"
+    },
+    {
+      "text": "found here",
+      "url": "https://www.courts.mo.gov/file.jsp?id=10040"
+    },
+    {
+      "text": "here",
+      "url": "https://www.courts.mo.gov/file.jsp?id=28833"
+    },
+    {
+      "text": "found here",
+      "url": "https://www.acf.hhs.gov/sites/default/files/ocse/omb_0970_0154_instructions.pdf"
+    },
+    {
+      "text": "Income Withholding Order",
+      "url": "https://www.courts.mo.gov/file.jsp?id=28833"
+    },
+    {
+      "text": "found here",
+      "url": "https://www.acf.hhs.gov/sites/default/files/ocse/omb_0970_0154_instructions.pdf"
+    },
+    {
+      "text": "Affidavit of Credit",
+      "url": "https://www.courts.mo.gov/file.jsp?id=10040"
+    },
+    {
+      "text": "Affidavit for Termination of Child Support",
+      "url": "https://www.courts.mo.gov/file.jsp?id=639"
+    },
+    {
+      "text": "Motion to Modify Child Support",
+      "url": "https://www.courts.mo.gov/page.jsp?id=38396"
+    },
+    {
+      "text": "https://dss.mo.gov/child-support/",
+      "url": "https://www.courts.mo.gov/"
+    },
+    {
+      "text": "Request for Record/Copy form",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/COPIES_REQUEST_FORM.pdf"
+    },
+    {
+      "text": "Request for Record/Copy form",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/COPIES_REQUEST_FORM.pdf"
+    },
+    {
+      "text": "CLICK HERE FOR THE RECORD/COPY REQUEST FORM",
+      "url": "https://irp-cdn.multiscreensite.com/3a4d916c/files/uploaded/Request%20for%20Records.pdf"
+    },
+    {
+      "text": "Missouri Small Claims Court Handbook",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/Small-claims-handbook-2021.pdf"
+    },
+    {
+      "text": "Case.net",
+      "url": "https://www.courts.mo.gov/casenet/base/welcome.do"
+    },
+    {
+      "text": "Small Claims Handbook",
+      "url": "https://irp-cdn.multiscreensite.com/3a4d916c/files/uploaded/SMALL%20CLAIMS%20HANDBOOK.pdf"
+    },
+    {
+      "text": "Filing Information Sheet",
+      "url": "https://www.courts.mo.gov/file.jsp?id=34052"
+    },
+    {
+      "text": "Petition for Small Claims",
+      "url": "https://www.courts.mo.gov/file.jsp?id=706"
+    },
+    {
+      "text": "Dismissal of Small Claims",
+      "url": "https://www.courts.mo.gov/file.jsp?id=736"
+    },
+    {
+      "text": "Counterclaim of Small Claims",
+      "url": "https://www.courts.mo.gov/file.jsp?id=735"
+    },
+    {
+      "text": "Satisfaction of Judgment",
+      "url": "https://www.courts.mo.gov/file.jsp?id=737"
+    },
+    {
+      "text": "Application for Trial de Novo",
+      "url": "https://irp-cdn.multiscreensite.com/3a4d916c/files/uploaded/CIVIL_ApplicationForTrialDeNovo.pdf"
+    },
+    {
+      "text": "is available here",
+      "url": "http://www.selfrepresent.mo.gov/file.jsp?id=69655"
+    },
+    {
+      "text": "Chapter 455, RSMo",
+      "url": "http://revisor.mo.gov/main/OneChapter.aspx?chapter=455"
+    },
+    {
+      "text": "is available here",
+      "url": "http://www.selfrepresent.mo.gov/file.jsp?id=69656"
+    },
+    {
+      "text": "Sections 455.500 through 455.538, RSMo",
+      "url": "http://revisor.mo.gov/main/OneChapter.aspx?chapter=455"
+    },
+    {
+      "text": "adult form here",
+      "url": "https://www.courts.mo.gov/file.jsp?id=537"
+    },
+    {
+      "text": "one child here",
+      "url": "https://www.courts.mo.gov/file.jsp?id=443"
+    },
+    {
+      "text": "five children here",
+      "url": "https://www.courts.mo.gov/file.jsp?id=65374"
+    },
+    {
+      "text": "application here.",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/CREDITOR+REFUSAL+-+FORMS+ONLY.pdf"
+    },
+    {
+      "text": "this document",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/CREDITOR+REFUSAL-+INFO+ONLY.pdf"
+    },
+    {
+      "text": "application here",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/SPOUSAL+REFUSAL-FORMS+ONLY.pdf"
+    },
+    {
+      "text": "document",
+      "url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/SPOUSAL+REFUSAL-+INFO+ONLY.pdf"
+    },
+    {
+      "text": "Back to Circuit Clerk's Home Page",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#dm"
+    },
+    {
+      "text": "",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#dm"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#JuryDuty"
+    },
+    {
+      "text": "Court Dates",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtDates"
+    },
+    {
+      "text": "Court Costs",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#CourtCosts"
+    },
+    {
+      "text": "Forms",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#Forms"
+    },
+    {
+      "text": "I Want To...",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ClerkFAQ"
+    },
+    {
+      "text": "Search for Case Records",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#SearchforCaseRecords"
+    },
+    {
+      "text": "Make a Payment",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#MakeaPayment"
+    },
+    {
+      "text": "Learn About Child Support",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#LearnAboutChildSupport"
+    },
+    {
+      "text": "Obtain Copies from Case Files",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#1135015044"
+    },
+    {
+      "text": "File a Small Claim",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#1293835418"
+    },
+    {
+      "text": "File an Ex-Parte Protection Order",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#FileanEx-ParteProtectionOrder"
+    },
+    {
+      "text": "File a Refusal of Letters",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#FileaRefusalofLetters"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#ContactUs"
+    },
+    {
+      "text": "Back to Circuit Clerk's Home Page",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#dm"
+    },
+    {
+      "text": "",
+      "url": "https://www.dadecountymo.gov/circuit-clerk#dm"
+    },
+    {
+      "text": "",
+      "url": "https://www.dadecountymo.gov/"
+    },
+    {
+      "text": "Accessibility Statement",
+      "url": "https://www.dadecountymo.gov/accessibility"
+    }
+  ]
+}

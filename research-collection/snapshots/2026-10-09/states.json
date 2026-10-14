@@ -1,0 +1,5264 @@
+[
+  {
+    "state": "Alabama",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1025",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1025",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:27:58.021Z",
+      "sha256": "a8246a6bae29f7bd509473c25e7c286b25d6b20d77a6d5338342505f9f54f901",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "http://www.aldoi.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://judicial.alabama.gov/",
+      "final_url": "https://judicial.alabama.gov/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:27:59.326Z",
+      "sha256": "8106b63a9a5f23fd648f550d0c112b54d3d51c8b471d82e429e74b2ab11075e1",
+      "title": "Alabama Judicial System",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Self-Help",
+        "url": "https://judicial.alabama.gov/library/selfhelp"
+      },
+      {
+        "text": "Self-Help",
+        "url": "https://judicial.alabama.gov/library/selfhelp"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Alaska",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1026",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1026",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:00.912Z",
+      "sha256": "bbf86ad811ce00d62ad52e2abc9aa8b068ae6dacb157537ebd20920bf898abce",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://insurance.alaska.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://courts.alaska.gov/forms/",
+      "final_url": "https://courts.alaska.gov/forms/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-09T09:28:03.104Z",
+      "sha256": "12bf3cfe322891696c33edd7f5c641632392ba360f060b75a10245c537284928",
+      "title": "Forms by Topic & Number (A - I) - Alaska Court System",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to content",
+        "url": "https://courts.alaska.gov/forms/#main_content"
+      },
+      {
+        "text": "Back to Top",
+        "url": "https://courts.alaska.gov/forms/#"
+      },
+      {
+        "text": "Self-Help",
+        "url": "https://courts.alaska.gov/index.htm"
+      },
+      {
+        "text": "Forms",
+        "url": "https://courts.alaska.gov/forms/index.htm"
+      },
+      {
+        "text": "Self-Help",
+        "url": "https://courts.alaska.gov/shc/index.htm"
+      },
+      {
+        "text": "Details.",
+        "url": "https://public.courts.alaska.gov/web/forms/docs/TrueFilingHere.pdf"
+      },
+      {
+        "text": "Administration",
+        "url": "https://courts.alaska.gov/forms/#adm"
+      },
+      {
+        "text": "Appeals",
+        "url": "https://courts.alaska.gov/forms/#ap"
+      },
+      {
+        "text": "Children in Need of Aid",
+        "url": "https://courts.alaska.gov/forms/#child"
+      },
+      {
+        "text": "Civil",
+        "url": "https://courts.alaska.gov/forms/#civ"
+      },
+      {
+        "text": "Criminal",
+        "url": "https://courts.alaska.gov/forms/#crim"
+      },
+      {
+        "text": "Delinquency",
+        "url": "https://courts.alaska.gov/forms/#del"
+      },
+      {
+        "text": "Domestic Relations (Family Law)",
+        "url": "https://courts.alaska.gov/forms/#dr"
+      },
+      {
+        "text": "Forms",
+        "url": "https://courts.alaska.gov/forms/#dv"
+      },
+      {
+        "text": "Petition Wizard",
+        "url": "https://courts.alaska.gov/forms/cipo/index.htm"
+      },
+      {
+        "text": "Eviction & Landlord/Tenant Matters",
+        "url": "https://courts.alaska.gov/forms/#force"
+      },
+      {
+        "text": "Family Law",
+        "url": "https://courts.alaska.gov/forms/#dr"
+      },
+      {
+        "text": "Healthcare Advocate Tools",
+        "url": "https://courts.alaska.gov/forms/#hca"
+      },
+      {
+        "text": "Jury",
+        "url": "https://courts.alaska.gov/forms/index2.htm#j"
+      },
+      {
+        "text": "Mediation",
+        "url": "https://courts.alaska.gov/forms/index2.htm#med"
+      },
+      {
+        "text": "Mental Commitment",
+        "url": "https://courts.alaska.gov/forms/index2.htm#mc"
+      },
+      {
+        "text": "Guardianship / Conservatorship",
+        "url": "https://courts.alaska.gov/forms/index2.htm#pg"
+      },
+      {
+        "text": "Other",
+        "url": "https://courts.alaska.gov/forms/index2.htm#p"
+      },
+      {
+        "text": "Publications",
+        "url": "https://courts.alaska.gov/forms/index2.htm#pub"
+      },
+      {
+        "text": "Small Claims",
+        "url": "https://courts.alaska.gov/forms/index2.htm#sc"
+      },
+      {
+        "text": "Forms",
+        "url": "https://courts.alaska.gov/forms/#stalk"
+      },
+      {
+        "text": "Petition Wizard",
+        "url": "https://courts.alaska.gov/forms/cipo/index.htm"
+      },
+      {
+        "text": "Traffic & Other Minor Offenses",
+        "url": "https://courts.alaska.gov/forms/index2.htm#tr"
+      },
+      {
+        "text": "Trial Court",
+        "url": "https://courts.alaska.gov/forms/index2.htm#tf"
+      },
+      {
+        "text": "Vital Records",
+        "url": "https://courts.alaska.gov/forms/index2.htm#vs"
+      },
+      {
+        "text": "Forms Catalog",
+        "url": "https://courts.alaska.gov/forms/#catalogs"
+      },
+      {
+        "text": "About Legal Forms",
+        "url": "https://courts.alaska.gov/forms/#about"
+      },
+      {
+        "text": "Self-Help Resources",
+        "url": "https://courts.alaska.gov/shc/index.htm"
+      },
+      {
+        "text": "Tribal Court Toolbox",
+        "url": "https://public.courts.alaska.gov/web/forms/docs/pub-70.pdf"
+      },
+      {
+        "text": "ADM-121",
+        "url": "https://public.courts.alaska.gov/web/forms/docs/adm-121.pdf"
+      },
+      {
+        "text": "ADM-122",
+        "url": "https://public.courts.alaska.gov/web/forms/docs/adm-122.pdf"
+      },
+      {
+        "text": "ADM-124",
+        "url": "https://public.courts.alaska.gov/web/forms/docs/adm-124.pdf"
+      },
+      {
+        "text": "ADM-229",
+        "url": "https://public.courts.alaska.gov/web/forms/docs/adm-229.pdf"
+      },
+      {
+        "text": "ADM-450",
+        "url": "https://public.courts.alaska.gov/web/forms/docs/adm-450.pdf"
+      },
+      {
+        "text": "ADM-455",
+        "url": "https://public.courts.alaska.gov/web/forms/docs/adm-455.pdf"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Arizona",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1027",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1027",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:04.752Z",
+      "sha256": "be79e97271acbb3390305c8f0c1e62ee28a9eef5c867b7c2f8e11265849159be",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://difi.az.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.azcourts.gov/",
+      "final_url": "https://www.azcourts.gov/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:06.114Z",
+      "sha256": "bac1e6c3e8a5fa74ba675d2e250c8a245f68703be2a7157e8d63080ec01e5da1",
+      "title": "Arizona Judicial Branch",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Family Law",
+        "url": "https://www.azcourts.gov/familylaw"
+      },
+      {
+        "text": "Child Support Calculator",
+        "url": "https://www.azcourts.gov/familylaw/Child-Support-Family-Law-Information/About-the-Child-Support-Calculator"
+      },
+      {
+        "text": "Seniors & Probate Law",
+        "url": "https://www.azcourts.gov/probate"
+      },
+      {
+        "text": "",
+        "url": "https://www.azcourts.gov/probate"
+      },
+      {
+        "text": "Legal Services Reforms",
+        "url": "https://www.azcourts.gov/accesstolegalservices"
+      },
+      {
+        "text": "Find Forms",
+        "url": "https://www.azcourts.gov/selfservicecenter/Forms"
+      },
+      {
+        "text": "Calculate Now",
+        "url": "https://www.azcourts.gov/familylaw"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Arkansas",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1028",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1028",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:07.730Z",
+      "sha256": "ec91fb3d59daf4c495407eb50b7284796d4eac582f4fb5eba7f4f98621876524",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://insurance.arkansas.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.arcourts.gov/",
+      "final_url": "https://arcourts.gov/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:28:10.223Z",
+      "sha256": "7b5705a2009d7330a9349f9ca680d8de14635939c91cd0553f294262801c4dcb",
+      "title": "Arkansas Judiciary",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "description Forms",
+        "url": "https://arcourts.gov/forms-and-publications/court-forms"
+      },
+      {
+        "text": "help_center Self−Help",
+        "url": "https://arcourts.gov/#"
+      },
+      {
+        "text": "Self−Help Resources",
+        "url": "https://arcourts.gov/directories/resources"
+      },
+      {
+        "text": "Domestic Relations/Probate Attorney Ad Litem Program",
+        "url": "https://arcourts.gov/administration/aal"
+      },
+      {
+        "text": "Domestic Violence Program",
+        "url": "https://arcourts.gov/administration/domestic-violence-forms"
+      },
+      {
+        "text": "Domestic Relations & Probate AAL Program",
+        "url": "https://arcourts.gov/administration/aal"
+      },
+      {
+        "text": "Domestic Violence Program",
+        "url": "https://arcourts.gov/administration/domestic-violence-forms"
+      },
+      {
+        "text": "Annual Reports",
+        "url": "https://arcourts.gov/forms-and-publications/annual-reports"
+      },
+      {
+        "text": "Appellate Updates",
+        "url": "https://arcourts.gov/forms-and-publications/appellate-update/2024"
+      },
+      {
+        "text": "Court Forms & Judiciary Publications",
+        "url": "https://arcourts.gov/forms-and-publications"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://arcourts.gov/forms-and-publications/court-forms"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "California",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1029",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1029",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:11.158Z",
+      "sha256": "1c8bacbdf859a28ccf4551b729b6b3295af2e2898a972910b12108f4267dad53",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "http://www.insurance.ca.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://courts.ca.gov/forms-rules/court-forms",
+      "final_url": "https://courts.ca.gov/forms-rules/court-forms",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:28:12.227Z",
+      "sha256": "890658098edb3859e3b2e9c28e38101e289baf5a6206fbfe036c14366f5f2354",
+      "title": "Court Forms | Judicial Branch of California",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to main content",
+        "url": "https://courts.ca.gov/forms-rules/court-forms#main-content"
+      },
+      {
+        "text": "Self-Help",
+        "url": "https://selfhelp.courts.ca.gov/"
+      },
+      {
+        "text": "Forms & Rules",
+        "url": "https://courts.ca.gov/forms-rules"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://courts.ca.gov/forms-rules/court-forms"
+      },
+      {
+        "text": "Rules of Court",
+        "url": "https://courts.ca.gov/forms-rules/rules-court"
+      },
+      {
+        "text": "Forms & Rules",
+        "url": "https://courts.ca.gov/forms-rules"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://courts.ca.gov/forms-rules/court-forms"
+      },
+      {
+        "text": "Rules of Court",
+        "url": "https://courts.ca.gov/forms-rules/rules-court"
+      },
+      {
+        "text": "Self-Help",
+        "url": "https://selfhelp.courts.ca.gov/"
+      },
+      {
+        "text": "Forms & Rules",
+        "url": "https://courts.ca.gov/forms-rules"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://courts.ca.gov/forms-rules/court-forms"
+      },
+      {
+        "text": "Using Forms",
+        "url": "https://courts.ca.gov/rules-forms/find-your-court-forms/using-forms"
+      },
+      {
+        "text": "Latest Changes",
+        "url": "https://courts.ca.gov/forms-rules/court-forms/latest-changes"
+      },
+      {
+        "text": "Statutory Forms",
+        "url": "https://courts.ca.gov/forms-rules/court-forms/statutory-forms"
+      },
+      {
+        "text": "Appellate Claim Form",
+        "url": "https://courts.ca.gov/rules-forms/find-your-court-forms/appellate-claim-form"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Colorado",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1030",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1030",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:14.651Z",
+      "sha256": "52ad6ab21ed9c8c56a5cc7234287d08805b0e5d4ac51f8e77952de66fc3a969b",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://doi.colorado.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.coloradojudicial.gov/",
+      "final_url": "https://www.coloradojudicial.gov/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:28:16.081Z",
+      "sha256": "1729d7e57f30f671b75ec6ca24cc5412199c9168264dd2eb0eec86b8b45ca35e",
+      "title": "Home | Colorado Judicial Branch",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Self-Help Resources",
+        "url": "https://www.coloradojudicial.gov/self-help-resources"
+      },
+      {
+        "text": "Self-Help Forms",
+        "url": "https://www.coloradojudicial.gov/self-help-forms"
+      },
+      {
+        "text": "Self-Help Resources",
+        "url": "https://www.coloradojudicial.gov/self-help-resources"
+      },
+      {
+        "text": "Self-Help Forms",
+        "url": "https://www.coloradojudicial.gov/self-help-forms"
+      },
+      {
+        "text": "Family Cases and Divorce",
+        "url": "https://www.coloradojudicial.gov/taxonomy/term/448?resource_type=448"
+      },
+      {
+        "text": "Probate",
+        "url": "https://www.coloradojudicial.gov/self-help-and-court-forms/probate?resource_type=1047"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Connecticut",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1031",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1031",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:18.965Z",
+      "sha256": "4113a3bd42afcf0c44feeda266401e55902bf4e8127a01cfeb495fac471005b5",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://portal.ct.gov/cid",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.jud.ct.gov/webforms/",
+      "final_url": "https://www.jud.ct.gov/webforms/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:20.614Z",
+      "sha256": "7b6d360fd304081517775b1314e5863f44fda193079b9cc56b5e045aff81ad45",
+      "title": "Official Court Forms of the Connecticut Judicial Branch",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Administrative",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Administrative#searchTable"
+      },
+      {
+        "text": "| Chinese",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Chinese#searchTable"
+      },
+      {
+        "text": "| Civil",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Civil#searchTable"
+      },
+      {
+        "text": "| Continuing Legal Education",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Continuing%20Legal%20Education#searchTable"
+      },
+      {
+        "text": "| Criminal",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Criminal#searchTable"
+      },
+      {
+        "text": "| Family",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Family#searchTable"
+      },
+      {
+        "text": "| General",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=General#searchTable"
+      },
+      {
+        "text": "| Grievance",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Grievance#searchTable"
+      },
+      {
+        "text": "| Housing",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Housing#searchTable"
+      },
+      {
+        "text": "| Juvenile",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Juvenile#searchTable"
+      },
+      {
+        "text": "| Other",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Other#searchTable"
+      },
+      {
+        "text": "| Polish",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Polish#searchTable"
+      },
+      {
+        "text": "| Portuguese",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Portuguese#searchTable"
+      },
+      {
+        "text": "| Small_Claims",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Small_Claims#searchTable"
+      },
+      {
+        "text": "| Spanish",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Spanish#searchTable"
+      },
+      {
+        "text": "| Supreme/Appellate",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Supreme/Appellate#searchTable"
+      },
+      {
+        "text": "| Victim_Services",
+        "url": "https://www.jud.ct.gov/webforms/default.aspx?load_catg=Victim_Services#searchTable"
+      },
+      {
+        "text": "Filing a Civil Lawsuit",
+        "url": "http://www.jud.ct.gov/forms/grouped/civil/file_suit.htm"
+      },
+      {
+        "text": "Forms to Apply for a Subpoena",
+        "url": "http://www.jud.ct.gov/forms/grouped/civil/subpoena.htm"
+      },
+      {
+        "text": "Forms to file if you are a Defendant in a Foreclosure Case",
+        "url": "http://www.jud.ct.gov/forms/grouped/civil/foreclosure.htm"
+      },
+      {
+        "text": "Forms to file for a Civil Protection Order",
+        "url": "http://jud.ct.gov/forms/grouped/civil/civil_protect_order.htm"
+      },
+      {
+        "text": "Forms to file if you would like to have a Judgment Opened",
+        "url": "http://www.jud.ct.gov/forms/grouped/civil/judgment.htm"
+      },
+      {
+        "text": "Forms to file if you are a Defendant in a Foreclosure Case and you file a Certificate for Foreclosure Mediation Program",
+        "url": "http://www.jud.ct.gov/forms/grouped/civil/foreclosure_FMP.htm"
+      },
+      {
+        "text": "Forms you may need to Collect on a Civil Judgment",
+        "url": "http://www.jud.ct.gov/forms/grouped/civil/collect_civil.htm"
+      },
+      {
+        "text": "Forms you may need after Lawsuit is started - the Complaint has already been filed",
+        "url": "http://www.jud.ct.gov/forms/grouped/civil/complaint_filed.htm"
+      },
+      {
+        "text": "General Foreclosure forms",
+        "url": "http://www.jud.ct.gov/external/super/ForeclosurebySale.htm"
+      },
+      {
+        "text": "Responding to a Civil Lawsuit",
+        "url": "http://www.jud.ct.gov/forms/grouped/civil/respond_suit.htm"
+      },
+      {
+        "text": "Responding to a Divorce",
+        "url": "http://www.jud.ct.gov/forms/grouped/family/respond_divorce.htm"
+      },
+      {
+        "text": "File for Custody or Visitation (or both)",
+        "url": "http://www.jud.ct.gov/forms/grouped/family/custody.htm"
+      },
+      {
+        "text": "File for a Motion for Modification",
+        "url": "http://www.jud.ct.gov/forms/grouped/family/modification.htm"
+      },
+      {
+        "text": "File for a Motion for Contempt",
+        "url": "http://www.jud.ct.gov/forms/grouped/family/motion_contempt.htm"
+      },
+      {
+        "text": "CCSG-1",
+        "url": "https://www.jud.ct.gov/webforms/forms/FM220.pdf"
+      },
+      {
+        "text": "CCSG-1A",
+        "url": "https://www.jud.ct.gov/webforms/forms/FM220A.pdf"
+      },
+      {
+        "text": "CO-17",
+        "url": "http://www.osc.ct.gov/agencies/forms/index.html"
+      },
+      {
+        "text": "SMC-1",
+        "url": "https://www.jud.ct.gov/webforms/forms/SMC001.pdf"
+      },
+      {
+        "text": "SMC-2",
+        "url": "https://www.jud.ct.gov/webforms/forms/SMC002.pdf"
+      },
+      {
+        "text": "Civil Forms grouped by Subject",
+        "url": "https://www.jud.ct.gov/webforms/#civilFormsLinks"
+      },
+      {
+        "text": "Facsimile Filing Cover Sheet",
+        "url": "https://www.jud.ct.gov/webforms/forms/cl073.pdf"
+      },
+      {
+        "text": "Family Forms grouped by Case Type",
+        "url": "https://www.jud.ct.gov/webforms/#familyGroupLinks"
+      },
+      {
+        "text": "Federal Uniform Interstate Family Support Act Forms",
+        "url": "https://www.acf.hhs.gov/css/form/intergovernmental-child-support-enforcement-forms"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Delaware",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1032",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1032",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:22.597Z",
+      "sha256": "95059c5b6bb1b2513b93e7933d5603c035f2a4880266befc7164eaa7bcaa8f5d",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://insurance.delaware.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://courts.delaware.gov/forms/",
+      "final_url": "https://courts.delaware.gov/forms/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:24.278Z",
+      "sha256": "fb0db40e4c7cd5b18df09a8cbad095f357ef199bac7f0491acc8ae0a0ebb3ec8",
+      "title": "Forms - Delaware Courts - State of Delaware",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to Content",
+        "url": "https://courts.delaware.gov/forms/#content"
+      },
+      {
+        "text": "Courts",
+        "url": "https://courts.delaware.gov/forms/#CourtsMenu"
+      },
+      {
+        "text": "Family Court",
+        "url": "https://courts.delaware.gov/family/"
+      },
+      {
+        "text": "eServices",
+        "url": "https://courts.delaware.gov/forms/#ServicesMenu"
+      },
+      {
+        "text": "Child Support Calculator",
+        "url": "https://courts.delaware.gov/family/support/supportcalculator.aspx"
+      },
+      {
+        "text": "Forms",
+        "url": "https://courts.delaware.gov/forms/"
+      },
+      {
+        "text": "JP Court Interactive Forms",
+        "url": "https://courts.delaware.gov/JPCourt/jp_videos.aspx"
+      },
+      {
+        "text": "Wireless Service in Courthouses",
+        "url": "https://courts.delaware.gov/forms/download.aspx?id=103848"
+      },
+      {
+        "text": "Forms",
+        "url": "https://courts.delaware.gov/forms/"
+      },
+      {
+        "text": "Self-Help",
+        "url": "https://courts.delaware.gov/help/"
+      },
+      {
+        "text": "Courts",
+        "url": "https://courts.delaware.gov/forms/#"
+      },
+      {
+        "text": "Family Court",
+        "url": "https://courts.delaware.gov/family/"
+      },
+      {
+        "text": "eServices",
+        "url": "https://courts.delaware.gov/forms/#"
+      },
+      {
+        "text": "Child Support Calculator",
+        "url": "https://courts.delaware.gov/family/support/supportcalculator.aspx"
+      },
+      {
+        "text": "Forms",
+        "url": "https://courts.delaware.gov/forms/"
+      },
+      {
+        "text": "JP Court Interactive Forms",
+        "url": "https://courts.delaware.gov/JPCourt/jp_videos.aspx"
+      },
+      {
+        "text": "Wireless Service in Courthouses",
+        "url": "https://courts.delaware.gov/forms/download.aspx?id=103848"
+      },
+      {
+        "text": "Forms",
+        "url": "https://courts.delaware.gov/forms/"
+      },
+      {
+        "text": "Self-Help",
+        "url": "https://courts.delaware.gov/help/"
+      },
+      {
+        "text": "View forms by Court",
+        "url": "https://courts.delaware.gov/forms/#collapse1"
+      },
+      {
+        "text": "Court Of Chancery",
+        "url": "https://courts.delaware.gov/forms/list.aspx?ag=Court%20Of%20Chancery&sec=Forms"
+      },
+      {
+        "text": "Court Of Common Pleas",
+        "url": "https://courts.delaware.gov/forms/list.aspx?ag=Court%20Of%20Common%20Pleas&sec=Forms"
+      },
+      {
+        "text": "Family Court",
+        "url": "https://courts.delaware.gov/forms/list.aspx?ag=Family%20Court&sec=Forms"
+      },
+      {
+        "text": "Family Court FAQs",
+        "url": "https://courts.delaware.gov/forms/list.aspx?ag=Family%20Court%20FAQs&sec=Forms"
+      },
+      {
+        "text": "Justice Of The Peace Court",
+        "url": "https://courts.delaware.gov/forms/list.aspx?ag=Justice%20Of%20The%20Peace%20Court&sec=Forms"
+      },
+      {
+        "text": "OSCCE",
+        "url": "https://courts.delaware.gov/forms/list.aspx?ag=OSCCE&sec=Forms"
+      },
+      {
+        "text": "Superior Court",
+        "url": "https://courts.delaware.gov/forms/list.aspx?ag=Superior%20Court&sec=Forms"
+      },
+      {
+        "text": "Supreme Court",
+        "url": "https://courts.delaware.gov/forms/list.aspx?ag=Supreme%20Court&sec=Forms"
+      },
+      {
+        "text": "All Courts",
+        "url": "https://courts.delaware.gov/forms/list.aspx?ag=All%20Courts&sec=Forms"
+      },
+      {
+        "text": "View forms by Subject",
+        "url": "https://courts.delaware.gov/forms/#collapse2"
+      },
+      {
+        "text": "Alternative Dispute Resolution",
+        "url": "https://courts.delaware.gov/forms/list.aspx?sec=Forms&sub=Alternative%20Dispute%20Resolution"
+      },
+      {
+        "text": "Appeals",
+        "url": "https://courts.delaware.gov/forms/list.aspx?sec=Forms&sub=Appeals"
+      },
+      {
+        "text": "Bail Bonds",
+        "url": "https://courts.delaware.gov/forms/list.aspx?sec=Forms&sub=Bail%20Bonds"
+      },
+      {
+        "text": "Change Your Name",
+        "url": "https://courts.delaware.gov/forms/list.aspx?sec=Forms&sub=Change%20Your%20Name"
+      },
+      {
+        "text": "Custody",
+        "url": "https://courts.delaware.gov/forms/list.aspx?sec=Forms&sub=Custody"
+      },
+      {
+        "text": "Custody Modification",
+        "url": "https://courts.delaware.gov/forms/list.aspx?sec=Forms&sub=Custody%20Modification"
+      },
+      {
+        "text": "Custody/Visitation",
+        "url": "https://courts.delaware.gov/forms/list.aspx?sec=Forms&sub=Custody/Visitation"
+      },
+      {
+        "text": "Divorce",
+        "url": "https://courts.delaware.gov/forms/list.aspx?sec=Forms&sub=Divorce"
+      },
+      {
+        "text": "Expedited Relief",
+        "url": "https://courts.delaware.gov/forms/list.aspx?sec=Forms&sub=Expedited%20Relief"
+      },
+      {
+        "text": "Expungement of Criminal Records",
+        "url": "https://courts.delaware.gov/forms/list.aspx?sec=Forms&sub=Expungement%20of%20Criminal%20Records"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Florida",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1034",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1034",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:24.820Z",
+      "sha256": "347e4156f290c237e51b9b41dad55e6515de79bb6596c23f04b8980d40286b32",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://floir.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.flcourts.gov/Resources-Services/Court-Improvement/Self-Help-Information",
+      "final_url": "https://www.flcourts.gov/Services/family-courts/self-help-information",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:29.005Z",
+      "sha256": "a1aae0abd224c30b22f375f35ce13d3d17d5423c4efa947092e787907cbfc43c",
+      "title": "Self-Help Information / Family Courts / Services - - Florida Courts",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to main content",
+        "url": "https://www.flcourts.gov/Services/family-courts/self-help-information#main-content"
+      },
+      {
+        "text": "Subscribe Now",
+        "url": "https://cdn.forms-content-1.sg-form.com/f7c178df-18d9-11f1-810f-4a5733508322"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Georgia",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1035",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1035",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:29.906Z",
+      "sha256": "1179bf544f6a970beb1eb95e4b0be9a3be402ee977ba15a8875b8f8f0724ef23",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://oci.georgia.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://georgiacourts.gov/",
+      "final_url": "https://georgiacourts.gov/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:28:31.392Z",
+      "sha256": "6c875288e46a256eab4e45b19a46c84961ff28d2a861a218befd550bef9e2fe8",
+      "title": "Georgia Courts – Home",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Hawaii",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1036",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1036",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:33.292Z",
+      "sha256": "aa52773149b51224c616fd10e7e37541630c92a5f8fef21ecdbcc5faa72b23cc",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://cca.hawaii.gov/ins/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.courts.state.hi.us/self-help/courts/forms",
+      "final_url": "https://www.courts.state.hi.us/self-help/courts/forms",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:28:35.752Z",
+      "sha256": "a72edd08a29e97aa9061f30c2db47674986f9de39e3963da5e05076f9a0804a9",
+      "title": "Judiciary | Court Forms",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to Main Nav",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#main-nav-collapse"
+      },
+      {
+        "text": "Skip to Main Content",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#main"
+      },
+      {
+        "text": "Skip to Footer Content",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#footer"
+      },
+      {
+        "text": "General Information",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      },
+      {
+        "text": "Pay Traffic Fines Online",
+        "url": "https://www.courts.state.hi.us/self-help/traffic/the_etraffic_hawaii_website"
+      },
+      {
+        "text": "News & Reports",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      },
+      {
+        "text": "Self-Help",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      },
+      {
+        "text": "Collections Agency (PCR)",
+        "url": "https://www.courts.state.hi.us/self-help/traffic/resolving_cases_submitted_to_the_collection_agency"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms/court_forms"
+      },
+      {
+        "text": "Divorce",
+        "url": "https://www.courts.state.hi.us/self-help/divorce/divorce"
+      },
+      {
+        "text": "Ex Parte Contact",
+        "url": "https://www.courts.state.hi.us/self-help/exparte/ex_parte_contact"
+      },
+      {
+        "text": "Juvenile Proceedings",
+        "url": "https://www.courts.state.hi.us/self-help/juvenile/juvenile_proceedings"
+      },
+      {
+        "text": "Landlord-Tenant Claims",
+        "url": "https://www.courts.state.hi.us/self-help/landlord/tenant_claims"
+      },
+      {
+        "text": "Mortgage Foreclosure",
+        "url": "https://www.courts.state.hi.us/self-help/foreclosure/foreclosure_conversion"
+      },
+      {
+        "text": "Pay Traffic Fines Online",
+        "url": "https://www.courts.state.hi.us/self-help/traffic/the_etraffic_hawaii_website"
+      },
+      {
+        "text": "Protective Orders",
+        "url": "https://www.courts.state.hi.us/self-help/protective_orders/protective_orders"
+      },
+      {
+        "text": "Regular Claims",
+        "url": "https://www.courts.state.hi.us/self-help/regular_claims/regular_claims"
+      },
+      {
+        "text": "Self-Help Centers",
+        "url": "https://www.courts.state.hi.us/general_information/access_to_justice_rooms_self_help_centers"
+      },
+      {
+        "text": "Tips on Going to Court",
+        "url": "https://www.courts.state.hi.us/self-help/tips/tips_on_going_to_court"
+      },
+      {
+        "text": "Traffic Cases",
+        "url": "https://www.courts.state.hi.us/self-help/traffic/traffic_cases"
+      },
+      {
+        "text": "Services",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      },
+      {
+        "text": "Courts",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      },
+      {
+        "text": "Family Court",
+        "url": "https://www.courts.state.hi.us/courts/family/family_courts"
+      },
+      {
+        "text": "Legal References",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      },
+      {
+        "text": "Community Outreach",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      },
+      {
+        "text": "Divorce Law Seminar",
+        "url": "https://www.courts.state.hi.us/self-help/divorce/divorce_law_in_hawaii"
+      },
+      {
+        "text": "Special Projects & Events",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      },
+      {
+        "text": "For Public",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms/court_forms"
+      },
+      {
+        "text": "Divorce Law Seminar",
+        "url": "https://www.courts.state.hi.us/self-help/divorce/divorce_law_in_hawaii"
+      },
+      {
+        "text": "Pay Traffic Fines Online",
+        "url": "https://www.courts.state.hi.us/self-help/traffic/the_etraffic_hawaii_website"
+      },
+      {
+        "text": "For Litigants",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms/court_forms"
+      },
+      {
+        "text": "Pay Fines",
+        "url": "https://www.courts.state.hi.us/self-help/traffic/the_etraffic_hawaii_website"
+      },
+      {
+        "text": "For Attorneys",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      },
+      {
+        "text": "Family Court Civil JEFS Info Page",
+        "url": "https://www.courts.state.hi.us/family-court-civil-jefs-info-page"
+      },
+      {
+        "text": "For Jurors",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      },
+      {
+        "text": "For Media",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      },
+      {
+        "text": "Language Access",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      },
+      {
+        "text": "ADA",
+        "url": "https://www.courts.state.hi.us/self-help/courts/forms#"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Idaho",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1037",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1037",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:37.359Z",
+      "sha256": "7bd6f37fb9393e86813c0d3ee20e341fe90a2fcf90c7639aee9bfef8da291353",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://doi.idaho.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://courtselfhelp.idaho.gov/Forms",
+      "final_url": "https://courtselfhelp.idaho.gov/Forms",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:38.696Z",
+      "sha256": "bea90fcd02bea11a04688bb5fbffbc6884a091728e041c734ca6d78fcd326408",
+      "title": "All Forms",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Forms",
+        "url": "https://courtselfhelp.idaho.gov/Forms"
+      },
+      {
+        "text": "All Forms",
+        "url": "https://courtselfhelp.idaho.gov/Forms"
+      },
+      {
+        "text": "Change Custody",
+        "url": "https://courtselfhelp.idaho.gov/Forms/visitation"
+      },
+      {
+        "text": "Change Visitation",
+        "url": "https://courtselfhelp.idaho.gov/Forms/visitation"
+      },
+      {
+        "text": "Change Child Support",
+        "url": "https://courtselfhelp.idaho.gov/Forms/visitation"
+      },
+      {
+        "text": "Child Support",
+        "url": "https://courtselfhelp.idaho.gov/Forms/visitation"
+      },
+      {
+        "text": "Conservatorship",
+        "url": "https://courtselfhelp.idaho.gov/Forms/guardianship"
+      },
+      {
+        "text": "Custody & Paternity",
+        "url": "https://courtselfhelp.idaho.gov/Forms/Custody"
+      },
+      {
+        "text": "Divorce",
+        "url": "https://courtselfhelp.idaho.gov/Forms/Divorce"
+      },
+      {
+        "text": "Guardianship",
+        "url": "https://courtselfhelp.idaho.gov/Forms/guardianship"
+      },
+      {
+        "text": "Housing",
+        "url": "https://courtselfhelp.idaho.gov/Forms/housing"
+      },
+      {
+        "text": "Misc Civil Forms",
+        "url": "https://courtselfhelp.idaho.gov/Forms/civil"
+      },
+      {
+        "text": "Misc Family Law",
+        "url": "https://courtselfhelp.idaho.gov/Forms/family"
+      },
+      {
+        "text": "Name Change",
+        "url": "https://courtselfhelp.idaho.gov/Forms/name"
+      },
+      {
+        "text": "No Contact Order",
+        "url": "https://courtselfhelp.idaho.gov/Forms/protection"
+      },
+      {
+        "text": "Protection Orders",
+        "url": "https://courtselfhelp.idaho.gov/Forms/protection"
+      },
+      {
+        "text": "Set Aside",
+        "url": "https://courtselfhelp.idaho.gov/Forms/aside"
+      },
+      {
+        "text": "Small Claims",
+        "url": "https://courtselfhelp.idaho.gov/Forms/claims"
+      },
+      {
+        "text": "Tax Intercept Objection",
+        "url": "https://courtselfhelp.idaho.gov/Forms/Tax"
+      },
+      {
+        "text": "Visitation",
+        "url": "https://courtselfhelp.idaho.gov/Forms/visitation"
+      },
+      {
+        "text": "Custody & Paternity",
+        "url": "https://courtselfhelp.idaho.gov/Forms/Custody"
+      },
+      {
+        "text": "Word",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_FL_2-1.docx"
+      },
+      {
+        "text": "PDF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_FL_2-1.pdf"
+      },
+      {
+        "text": "Word",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_FL_2-2.docx"
+      },
+      {
+        "text": "PDF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_FL_2-2.pdf"
+      },
+      {
+        "text": "RTF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_FL_1-11.rtf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_FL_1-11.pdf"
+      },
+      {
+        "text": "RTF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_FL_4-4.rtf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_FL_4-4.pdf"
+      },
+      {
+        "text": "RTF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CSS_809.rtf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CSS_809.pdf"
+      },
+      {
+        "text": "RTF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_P_1-2.rtf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_P_1-2.pdf"
+      },
+      {
+        "text": "RTF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_FL_7-4.rtf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_FL_7-4.pdf"
+      },
+      {
+        "text": "Word",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_C_3-4.docx"
+      },
+      {
+        "text": "PDF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_C_3-4.pdf"
+      },
+      {
+        "text": "RTF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_FL_1-1.rtf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_FL_1-1.pdf"
+      },
+      {
+        "text": "RTF",
+        "url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_FL_7-6.rtf"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Illinois",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1038",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1038",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:39.061Z",
+      "sha256": "ea9876a09e9a6f4448e9b3f592d33bf735a6c2e8ec606c75e8f1d37ac5b49900",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "http://insurance.illinois.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/",
+      "final_url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:40.703Z",
+      "sha256": "eb1859ac195975e135a21baf5e43a6b448529cb64560669ec54d3ebc5b194183",
+      "title": "Approved Statewide Standardized Forms",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to Main Content",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/#main"
+      },
+      {
+        "text": "Probation Eligible Employment Application",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/employment-application"
+      },
+      {
+        "text": "Statement of Economic Interest Forms",
+        "url": "https://www.illinoiscourts.gov/eservices/statement-of-economic-interest/"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/"
+      },
+      {
+        "text": "Approved Statewide Forms",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/"
+      },
+      {
+        "text": "Uniform Mental Health Orders",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/uniform-mental-health-orders/"
+      },
+      {
+        "text": "Probation Reimbursement Invoice Voucher",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/forms-probation-reimbursement-invoice-voucher/"
+      },
+      {
+        "text": "Probation Eligible Employment Application",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/employment-application/"
+      },
+      {
+        "text": "Judicial Speakers Bureau Request Form",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/speaking-engagement-request-form/"
+      },
+      {
+        "text": "State C-10 Travel Voucher Form",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/state-c-10-travel-voucher-form/"
+      },
+      {
+        "text": "Uniform Citation Forms",
+        "url": "https://www.illinoiscourts.gov/eservices/uniform-citation-forms"
+      },
+      {
+        "text": "Court Forms Hub",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/"
+      },
+      {
+        "text": "Emergency Closing Policy and Procedures",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/emergency-courthouse-and-building-closure/"
+      },
+      {
+        "text": "Representation by Law Students / Graduates (Rule 711)",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/representation-by-law-students-graduates-711-forms/"
+      },
+      {
+        "text": "Judicial Request for Removal of Personal Information",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/forms-judicial-request-for-removal-of-personal-information/"
+      },
+      {
+        "text": "Firearms Restraining Order Forms",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/firearms-restraining-order-forms/"
+      },
+      {
+        "text": "Civil No Contact and Stalking No Contact Orders",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/civil-no-contact-and-stalking-no-contact-orders/"
+      },
+      {
+        "text": "Self Help",
+        "url": "https://www.illinoiscourts.gov/self-help"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/"
+      },
+      {
+        "text": "Answer/Response",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-forms/answer-response"
+      },
+      {
+        "text": "Answer/ResponseSpanish",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/answer-response/answer-response-spanish/"
+      },
+      {
+        "text": "Appearance and Jury Request",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-forms/forms-appearance"
+      },
+      {
+        "text": "Appearance and Jury Request in Spanish",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/forms-appearance/approved-statewide-forms-appearance-sp/"
+      },
+      {
+        "text": "Appearance and Jury Request in Polish",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/forms-appearance/forms-appearance-pol/"
+      },
+      {
+        "text": "Appearance and Jury Request in Arabic",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/forms-appearance/approved-statewide-forms-appearance-arabic/"
+      },
+      {
+        "text": "Appearance and Jury Request in Chinese",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/forms-appearance/forms-appearance-chinese/"
+      },
+      {
+        "text": "Appearance and Jury Request in Russian",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/forms-appearance/forms-appearance-russian/"
+      },
+      {
+        "text": "Appearance and Jury Request in Korean",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/forms-appearance/forms-appearance-korean/"
+      },
+      {
+        "text": "Certificate of Good Conduct",
+        "url": "https://www.illinoiscourts.gov/forms/approved-forms/good-conduct"
+      },
+      {
+        "text": "Civil Asset Forfeiture",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-forms/civil-asset-forfeiture"
+      },
+      {
+        "text": "Complaint or Petition",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/complaint-or-petition/"
+      },
+      {
+        "text": "Divorce, Child Support, and\n      Maintenance",
+        "url": "https://www.illinoiscourts.gov/forms/approved-forms/forms-circuit-court/divorce-child-support-maintenance"
+      },
+      {
+        "text": "Eviction",
+        "url": "https://www.illinoiscourts.gov/forms/approved-forms/forms-approved-forms-circuit-court/eviction"
+      },
+      {
+        "text": "Exemption from\n      E-Filing for Good Cause",
+        "url": "https://www.illinoiscourts.gov/forms/approved-forms/forms-approved-forms-circuit-court/exemption-e-filing-good-cause"
+      },
+      {
+        "text": "Expungement and Sealing",
+        "url": "https://www.illinoiscourts.gov/forms/approved-forms/forms-approved-forms-circuit-court/expungement-sealing"
+      },
+      {
+        "text": "Fee Waiver for Civil\n      Cases",
+        "url": "https://www.illinoiscourts.gov/forms/approved-forms/forms-approved-forms-circuit-court/fee-waiver-civil"
+      },
+      {
+        "text": "Fee Waiver for Civil Cases in Spanish",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/fee-waiver-civil/fee-waiver-civil-spanish"
+      },
+      {
+        "text": "Fee Waiver for Civil Cases in Polish",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/fee-waiver-civil/fee-waiver-civil-polish"
+      },
+      {
+        "text": "Fee Waiver for Civil Cases in Arabic",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/fee-waiver-civil/forms-approved-statewide-forms-circuit-court-standardized-forms-fee-waiver-for-civil-cases-arabic/"
+      },
+      {
+        "text": "Fee Waiver for Civil Cases in Chinese",
+        "url": "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/fee-waiver-civil/fee-waiver-civil-chinese"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Indiana",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1039",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1039",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:41.168Z",
+      "sha256": "9489b2a90e00476e7d3e9e900017905399a0c96a1761dd1363c171d1b6c45bd4",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.in.gov/idoi/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.in.gov/courts/selfservice/",
+      "final_url": "https://www.in.gov/courts/selfservice/",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:28:42.539Z",
+      "sha256": "e3182c10282977cf57090163c74cd948d31012b2a4fc2ef42a11ea5e033469e6",
+      "title": "Self-Service Legal Center: Home",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Iowa",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1040",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1040",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:44.230Z",
+      "sha256": "3b3e7f7d84e6b77db66509e073eda4118280738102a7dd483e00ffe04c240dae",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://iid.iowa.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.iowacourts.gov/for-the-public/court-forms/",
+      "final_url": "https://www.iowacourts.gov/for-the-public/court-forms",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:28:46.084Z",
+      "sha256": "344613df3aa764f8c2932037e6852178fc2c33a92019333e2ba6dda7019ddb1f",
+      "title": "Court Forms | Iowa Judicial Branch",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to main content",
+        "url": "https://www.iowacourts.gov/for-the-public/court-forms#main-content"
+      },
+      {
+        "text": "Close",
+        "url": "https://www.iowacourts.gov/for-the-public/court-forms#"
+      },
+      {
+        "text": "Open Search Bar",
+        "url": "https://www.iowacourts.gov/for-the-public/court-forms#"
+      },
+      {
+        "text": "Find a Court Form",
+        "url": "https://www.iowacourts.gov/for-the-public/court-forms/"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.iowacourts.gov/for-the-public/court-forms/"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.iowacourts.gov/for-the-public/court-forms/"
+      },
+      {
+        "text": "Open Search Bar",
+        "url": "https://www.iowacourts.gov/for-the-public/court-forms#"
+      },
+      {
+        "text": "Interactive Court Forms",
+        "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/iowa-interactive-court-forms/"
+      },
+      {
+        "text": "Find a Court Form",
+        "url": "https://www.iowacourts.gov/for-the-public/court-forms/"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.iowacourts.gov/for-the-public/court-forms/"
+      },
+      {
+        "text": "Family Law, Mediation, and Children in the Middle",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-1/district-1-family-law-mediation/"
+      },
+      {
+        "text": "Informal Family Law Trial Program",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-1/informal-family-law-trial-program/"
+      },
+      {
+        "text": "Family Law, Mediation, and Children in the Middle",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-2/district-2-family-law-mediation/"
+      },
+      {
+        "text": "Informal Family Law Trial Program",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-2/informal-family-law-trial-program/"
+      },
+      {
+        "text": "Family Law Mediation",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-3/family-law-mediation/"
+      },
+      {
+        "text": "Informal Family Law Trial Program",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-3/informal-family-law-trial-program/"
+      },
+      {
+        "text": "Family Law Mediation",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-4/family-law-mediation/"
+      },
+      {
+        "text": "Informal Family Law Trial Program",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-4/informal-family-law-trial-program/"
+      },
+      {
+        "text": "Family Law Mediation",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-5/family-law-mediation/"
+      },
+      {
+        "text": "Probate and Guardianship Mediation",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-5/probate-and-guardianship-mediation/"
+      },
+      {
+        "text": "Informal Family Law Trial Program",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-5/informal-family-law-trial-program/"
+      },
+      {
+        "text": "Family Law Mediation",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-6/family-law-mediation/"
+      },
+      {
+        "text": "Informal Family Law Trial Program",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-6/informal-family-law-trial-program/"
+      },
+      {
+        "text": "Family Law Mediation",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-7/family-law-mediation/"
+      },
+      {
+        "text": "Informal Family Law Trial Program",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-7/informal-family-law-trial-program/"
+      },
+      {
+        "text": "Family Law Mediation",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-8/8th-judicial-district-family-law-mediation/"
+      },
+      {
+        "text": "Informal Family Law Trial Program",
+        "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-8/informal-family-law-trial-program/"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.iowacourts.gov/for-the-public/court-forms/"
+      },
+      {
+        "text": "Interactive Court Forms",
+        "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/iowa-interactive-court-forms/"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.iowacourts.gov/for-the-public/court-forms/"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.iowacourts.gov/for-the-public/court-forms/"
+      },
+      {
+        "text": "here",
+        "url": "https://www.iowacourts.gov/static/media/cms/PDFFillFormsAcrobatReaderDC_E766774940186.pdf"
+      },
+      {
+        "text": "Iowa Interactive Court Forms",
+        "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/iowa-interactive-court-forms/"
+      },
+      {
+        "text": "Reset",
+        "url": "https://www.iowacourts.gov/for-the-public/court-forms"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Kansas",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1041",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1041",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:47.852Z",
+      "sha256": "6eb623e741c557d84d544c9092bd9525dc523fb2bec13b68a2807fcea6afe4c9",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://insurance.kansas.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://kscourts.gov/",
+      "final_url": "https://kscourts.gov/",
+      "http_status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:28:48.670Z",
+      "sha256": "7b37809509c9c0255b4cf152c659f05f2a7e1c2bd15e624be9c4d4d4853779a6",
+      "title": "Attention Required! | Cloudflare",
+      "retrieval_status": "http-403"
+    },
+    "court_form_candidates": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Kentucky",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1042",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1042",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:50.209Z",
+      "sha256": "7001aa0d09e3292918aab032841509f4b04c776c1e09b9846962b92df0dd4be9",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "http://insurance.ky.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.kycourts.gov/",
+      "final_url": "https://www.kycourts.gov/Pages/index.aspx",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:52.862Z",
+      "sha256": "da246122892ce55be5408703b85a8fdcb9a3fbeeb6b9721b924fab0e1df6d771",
+      "title": "Kentucky Court of Justice - Kentucky Court of Justice",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Family Court",
+        "url": "https://www.kycourts.gov/Courts/Family-Court/Pages/default.aspx"
+      },
+      {
+        "text": "Family & Juvenile Services",
+        "url": "https://www.kycourts.gov/Court-Programs/Family-and-Juvenile-Services/Pages/default.aspx"
+      },
+      {
+        "text": "Legal Self-Help",
+        "url": "https://www.kycourts.gov/Legal-Help/Pages/default.aspx"
+      },
+      {
+        "text": "Legal Forms",
+        "url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx"
+      },
+      {
+        "text": "Legal Self-Help",
+        "url": "https://www.kycourts.gov/Legal-Help/Pages/default.aspx"
+      },
+      {
+        "text": "Self-Help Portal",
+        "url": "https://www.kycourts.gov/Legal-Help/Pages/Self-Help-Portal.aspx"
+      },
+      {
+        "text": "Legal Self-Help",
+        "url": "https://www.kycourts.gov/Legal-Help/Pages/default.aspx"
+      },
+      {
+        "text": "Legal Forms",
+        "url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Louisiana",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1043",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1043",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:54.612Z",
+      "sha256": "b70b7098f80d161af9582a2fb84b9c56e0a9a21faeb51eb162a3d7cdbf08fddd",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "http://www.ldi.la.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.lasc.org/",
+      "final_url": "https://www.lasc.org/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:55.880Z",
+      "sha256": "81d0fb2abef57e8a9dba1b5432305d762ab5ad630050a52ab6803aa6f793236f",
+      "title": "",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Maine",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1044",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1044",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:28:57.673Z",
+      "sha256": "8df319fa16caf9b31d5eaa3e143091cf78fc62eb7d7923fbaef84c1dfcbef0a7",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.maine.gov/pfr/insurance/home",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.courts.maine.gov/forms/",
+      "final_url": "https://www.courts.maine.gov/forms/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-09T09:28:59.731Z",
+      "sha256": "f2e1ec80c6ceac587171971df6dabab5bba35261ef4ae65a199223b6f1558981",
+      "title": "State of Maine Judicial Branch",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to top navigation",
+        "url": "https://www.courts.maine.gov/forms/#top-nav"
+      },
+      {
+        "text": "Skip to side navigation",
+        "url": "https://www.courts.maine.gov/forms/#content"
+      },
+      {
+        "text": "Skip to content",
+        "url": "https://www.courts.maine.gov/forms/#page-body"
+      },
+      {
+        "text": "Skip to footer",
+        "url": "https://www.courts.maine.gov/forms/#footer"
+      },
+      {
+        "text": "Family Division",
+        "url": "https://www.courts.maine.gov/courts/family/index.html"
+      },
+      {
+        "text": "Divorce & Family Separation",
+        "url": "https://www.courts.maine.gov/courts/family/divorce-separation/index.html"
+      },
+      {
+        "text": "Families & Children",
+        "url": "https://www.courts.maine.gov/courts/family/index.html"
+      },
+      {
+        "text": "Forms & Fees",
+        "url": "https://www.courts.maine.gov/forms/index.html"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.courts.maine.gov/forms/index.html"
+      },
+      {
+        "text": "Translated Court Forms",
+        "url": "https://www.courts.maine.gov/forms/translated.html"
+      },
+      {
+        "text": "Court Fees",
+        "url": "https://www.courts.maine.gov/forms/fees.html"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.courts.maine.gov/forms/index.html"
+      },
+      {
+        "text": "Translated Court Forms",
+        "url": "https://www.courts.maine.gov/forms/translated.html"
+      },
+      {
+        "text": "Fees",
+        "url": "https://www.courts.maine.gov/forms/fees.html"
+      },
+      {
+        "text": "Menu",
+        "url": "https://www.courts.maine.gov/forms/index.html"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.courts.maine.gov/forms/index.html"
+      },
+      {
+        "text": "Translated Court Forms",
+        "url": "https://www.courts.maine.gov/forms/translated.html"
+      },
+      {
+        "text": "Fees",
+        "url": "https://www.courts.maine.gov/forms/fees.html"
+      },
+      {
+        "text": "Search Court Forms",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/Index"
+      },
+      {
+        "text": "For Electronic Filing: Forms to file a Protection from Abuse",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-030"
+      },
+      {
+        "text": "For Electronic Filing: Forms to file a Protection from Harassment",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-032"
+      },
+      {
+        "text": "For Electronic Filing: Forms to file a Motion to Extend Order for Protection",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-034"
+      },
+      {
+        "text": "For Paper Filing: Forms to file a Protection from Abuse",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-029"
+      },
+      {
+        "text": "For Paper Filing: Forms to file Protection from Harassment",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-031"
+      },
+      {
+        "text": "For Paper Filing: Forms to file a Motion to Extend Order for Protection",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-033"
+      },
+      {
+        "text": "Forms to file a Complaint for Divorce with Children",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-039"
+      },
+      {
+        "text": "Forms to file a Complaint for Divorce without Children",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-040"
+      },
+      {
+        "text": "Forms to file a Complaint for Parentage, Parental Rights & Responsibilities & Child Support",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-041"
+      },
+      {
+        "text": "Forms to file a Motion to Modify",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-042"
+      },
+      {
+        "text": "Forms to file a Motion to Enforce",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-043"
+      },
+      {
+        "text": "Forms to file a Motion for Contempt",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-044"
+      },
+      {
+        "text": "Forms to file a Residential FED",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-045"
+      },
+      {
+        "text": "Forms to file a Recovery of Personal Property case under the Phased Management Plan (PMP)",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-046"
+      },
+      {
+        "text": "ADA Accommodation Request Form (OTH-011)",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-011"
+      },
+      {
+        "text": "ADA: Grievance Form for Disability Request",
+        "url": "https://www.courts.maine.gov/forms/pdf/misc/disability-accommodation-grievance.pdf"
+      },
+      {
+        "text": "Attorney and Vendor Forms",
+        "url": "https://www.courts.maine.gov/forms/attorney-forms.html"
+      },
+      {
+        "text": "Best Practices for Submitting an Abstract of Divorce Decree (FM-171) for Clerk Certification (FM-261)",
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-261"
+      },
+      {
+        "text": "FDP Complaint Form",
+        "url": "https://www.courts.maine.gov/forms/pdf/misc/fdp-complaint-form.pdf"
+      },
+      {
+        "text": "FDP: Description of words used in the FDP Mediator's Report",
+        "url": "https://www.courts.maine.gov/forms/pdf/misc/fdp-desc-words-in-report.pdf"
+      },
+      {
+        "text": "FDP Exit Survey",
+        "url": "https://www.courts.maine.gov/forms/pdf/misc/fdp-exit-survey-form.pdf"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Maryland",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1045",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1045",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:29:01.551Z",
+      "sha256": "c95e474acccd28b3ee56578e989dc3b86a7fb47bb77dbc1a419cc02955bb98a2",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://insurance.maryland.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.mdcourts.gov/courtforms",
+      "retrieved_at": "2026-10-09T09:29:08.806Z",
+      "retrieval_status": "fetch-failed",
+      "error": "fetch failed"
+    },
+    "court_form_candidates": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Massachusetts",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1046",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1046",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:29:11.048Z",
+      "sha256": "0e2659eeaa479b4d0fbce05506216b39a293b43ebe2aa11799fdd9c321283f13",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.mass.gov/orgs/division-of-insurance",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.mass.gov/court-forms",
+      "final_url": "https://www.mass.gov/court-forms",
+      "http_status": 404,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:29:12.609Z",
+      "sha256": "3b316f9faa5305273f45cf9d7c4c947bcf528f6a51af5adf41159cb991c2a0fb",
+      "title": "Not found | Mass.gov",
+      "retrieval_status": "http-404"
+    },
+    "court_form_candidates": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Michigan",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1047",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1047",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:29:14.145Z",
+      "sha256": "5ae865ca243f0ddb6956e218521379dabddf0c5da6b431fb6a2a2e598a66ef5d",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.michigan.gov/difs",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.courts.michigan.gov/administration/scao/forms/",
+      "final_url": "https://www.courts.michigan.gov/administration/scao/forms/",
+      "http_status": 404,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:29:15.499Z",
+      "sha256": "9de0adf6115549ec42a0c6a60da2abbfa20f36317b7da339a475e7902d88956a",
+      "title": "Error 404 | Michigan Courts",
+      "retrieval_status": "http-404"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Court Forms\n                            →",
+        "url": "https://www.courts.michigan.gov/SCAO-forms/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Minnesota",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1048",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1048",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:29:17.268Z",
+      "sha256": "694f604d013f0996ee37166c424632d2b52f8b99b8adc0a2eca79172c37edd99",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "http://mn.gov/commerce",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.mncourts.gov/GetForms.aspx",
+      "final_url": "https://www.mncourts.gov/GetForms.aspx",
+      "http_status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:29:18.815Z",
+      "sha256": "e033cb92ff1d553212b66e64fd14c7c9dd3e2db9d874ba823ae5f9af22a7536d",
+      "title": "Just a moment...",
+      "retrieval_status": "http-403"
+    },
+    "court_form_candidates": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Mississippi",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1049",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1049",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:29:20.769Z",
+      "sha256": "4897170ddf8423eba9551826f269f4d4d73db9767601158d3fbf590d71f08c5c",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.mid.ms.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://courts.ms.gov/",
+      "final_url": "https://courts.ms.gov/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:29:22.411Z",
+      "sha256": "25ccf59fd79265adb31889a77c920810c6d8dc987776fcf1b1716142af0a85c4",
+      "title": "State of Mississippi Judiciary",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Employee Information and Forms",
+        "url": "https://courts.ms.gov/aoc/forms/personnelinfo.php"
+      },
+      {
+        "text": "Camera Coverage Notice",
+        "url": "https://courts.ms.gov/news/forms/camnotice.pdf"
+      },
+      {
+        "text": "Translated Forms, Samples, and Documents",
+        "url": "https://courts.ms.gov/aoc/courtinterpreter/translations.php"
+      },
+      {
+        "text": "Employee Information and Forms",
+        "url": "https://courts.ms.gov/aoc/forms/personnelinfo.php"
+      },
+      {
+        "text": "Camera Coverage Notice",
+        "url": "https://courts.ms.gov/news/forms/camnotice.pdf"
+      },
+      {
+        "text": "Translated Forms, Samples, and Documents",
+        "url": "https://courts.ms.gov/aoc/courtinterpreter/translations.php"
+      },
+      {
+        "text": "Family Services Forum meets to discuss funding and other resources",
+        "url": "https://courts.ms.gov/news/view_news_page.php?article=3160&name=Family%20Services%20Forum%20meets%20to%20discuss%20funding%20and%20other%20resources"
+      },
+      {
+        "text": "Free family law clinics help 71 people",
+        "url": "https://courts.ms.gov/news/view_news_page.php?article=3157&name=Free%20family%20law%20clinics%20help%2071%20people"
+      },
+      {
+        "text": "Employee Information and Forms",
+        "url": "https://courts.ms.gov/aoc/forms/personnelinfo.php"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Missouri",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1050",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1050",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:29:24.294Z",
+      "sha256": "6c21e89ab09146f2498b52f1ff78a03e3c28a26a0113c90ba1bb6769e8517b1e",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://dci.mo.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.courts.mo.gov/",
+      "final_url": "https://www.courts.mo.gov/",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:29:25.681Z",
+      "sha256": "b5bc999fc72d933f1c7d10113ace7f015cb6dc1c3dc9e87e00768e14d5a55797",
+      "title": "Missouri Courts Home",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Court Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=103116"
+      },
+      {
+        "text": "Appellate Court Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=102294"
+      },
+      {
+        "text": "Adult Abuse Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=533"
+      },
+      {
+        "text": "Child Protection Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=383"
+      },
+      {
+        "text": "Child Support Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=638"
+      },
+      {
+        "text": "Civil Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=650"
+      },
+      {
+        "text": "Criminal Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=649"
+      },
+      {
+        "text": "Expungement Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=191585"
+      },
+      {
+        "text": "Family Law Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=5240"
+      },
+      {
+        "text": "Family Access Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=700"
+      },
+      {
+        "text": "General Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=526"
+      },
+      {
+        "text": "Municipal Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=614"
+      },
+      {
+        "text": "Name Change Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=55061"
+      },
+      {
+        "text": "Probate Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=662"
+      },
+      {
+        "text": "Small Claims Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=704"
+      },
+      {
+        "text": "Represent Yourself in Family Law Case",
+        "url": "https://www.courts.mo.gov/page.jsp?id=5240"
+      },
+      {
+        "text": "Adult Abuse Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=533"
+      },
+      {
+        "text": "Civil Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=650"
+      },
+      {
+        "text": "Expungement Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=191585"
+      },
+      {
+        "text": "Family Law Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=5240"
+      },
+      {
+        "text": "Probate Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=662"
+      },
+      {
+        "text": "Court\n                    Forms",
+        "url": "https://www.courts.mo.gov/page.jsp?id=103116"
+      },
+      {
+        "text": "Represent myself in a family law case?",
+        "url": "https://www.courts.mo.gov/page.jsp?id=5240"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Montana",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1051",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1051",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:29:27.390Z",
+      "sha256": "381538b2d04b9c3ef314463e123f32999d8a1389ef45cf3a17e31197704de49c",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "http://csimt.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://courts.mt.gov/forms/",
+      "final_url": "https://courts.mt.gov/forms/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-09T09:29:30.706Z",
+      "sha256": "84f2346587dbf66ac098c5fb7900342993046887f826ef28f668bde13d09895b",
+      "title": "Home",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Forms",
+        "url": "https://courts.mt.gov/forms/index"
+      },
+      {
+        "text": "Clerk of Court",
+        "url": "https://courts.mt.gov/forms/#"
+      },
+      {
+        "text": "Self Help",
+        "url": "https://courts.mt.gov/SelfHelp/index"
+      },
+      {
+        "text": "Forms",
+        "url": "https://courts.mt.gov/forms/index"
+      },
+      {
+        "text": "Self Help Videos here",
+        "url": "https://courts.mt.gov/selfhelp/resources"
+      },
+      {
+        "text": "Adoption",
+        "url": "https://courts.mt.gov/forms/Adoption"
+      },
+      {
+        "text": "Annulment",
+        "url": "https://courts.mt.gov/forms/end_marriage"
+      },
+      {
+        "text": "Appeals",
+        "url": "https://courts.mt.gov/forms/Appeals"
+      },
+      {
+        "text": "Attorney Complaints",
+        "url": "https://courts.mt.gov/forms/AttorneyComplaints"
+      },
+      {
+        "text": "Bankruptcy",
+        "url": "https://courts.mt.gov/forms/Bankruptcy"
+      },
+      {
+        "text": "Business Forms",
+        "url": "https://courts.mt.gov/forms/business"
+      },
+      {
+        "text": "Child Custody",
+        "url": "https://courts.mt.gov/forms/ChildCustody"
+      },
+      {
+        "text": "Child Support",
+        "url": "https://courts.mt.gov/forms/ChildSupport"
+      },
+      {
+        "text": "City Court",
+        "url": "https://courts.mt.gov/forms/CivilForms"
+      },
+      {
+        "text": "Civil Court Forms",
+        "url": "https://courts.mt.gov/forms/CivilForms"
+      },
+      {
+        "text": "Collecting a Judgment",
+        "url": "https://courts.mt.gov/forms/Judgement"
+      },
+      {
+        "text": "Common Law Marriage",
+        "url": "https://courts.mt.gov/forms/Marriage"
+      },
+      {
+        "text": "Conservatorship",
+        "url": "https://courts.mt.gov/forms/Guardianship"
+      },
+      {
+        "text": "Criminal Procedure",
+        "url": "https://courts.mt.gov/forms/PrisonApprovedForms"
+      },
+      {
+        "text": "Discovery",
+        "url": "https://courts.mt.gov/forms/Discovery"
+      },
+      {
+        "text": "Dissolution of Marriage",
+        "url": "https://courts.mt.gov/forms/end_marriage"
+      },
+      {
+        "text": "District Court",
+        "url": "https://courts.mt.gov/forms/CivilForms"
+      },
+      {
+        "text": "Divorce",
+        "url": "https://courts.mt.gov/forms/end_marriage"
+      },
+      {
+        "text": "Domestic Violence",
+        "url": "https://courts.mt.gov/forms/domestic"
+      },
+      {
+        "text": "Ending Your Marriage",
+        "url": "https://courts.mt.gov/forms/end_marriage"
+      },
+      {
+        "text": "End of Life Decisions",
+        "url": "https://courts.mt.gov/forms/endoflife"
+      },
+      {
+        "text": "Emancipation",
+        "url": "https://courts.mt.gov/forms/emancipation"
+      },
+      {
+        "text": "Estate Planning",
+        "url": "https://courts.mt.gov/forms/endoflife"
+      },
+      {
+        "text": "Evictions",
+        "url": "https://courts.mt.gov/forms/landlord"
+      },
+      {
+        "text": "Expungement of Misdemeanor Convictions",
+        "url": "https://courts.mt.gov/forms/misexpconpage"
+      },
+      {
+        "text": "Expungement of Marijuana-related Conviction",
+        "url": "https://courts.mt.gov/forms/mmrta"
+      },
+      {
+        "text": "Fee Waiver Form",
+        "url": "https://courts.mt.gov/external/forms/dissolution/FeeWaiver.pdf"
+      },
+      {
+        "text": "Getting Married",
+        "url": "https://courts.mt.gov/forms/Marriage"
+      },
+      {
+        "text": "Guardianship & Conservatorship",
+        "url": "https://courts.mt.gov/forms/Guardianship"
+      },
+      {
+        "text": "Invalidity of Marriage",
+        "url": "https://courts.mt.gov/forms/end_marriage"
+      },
+      {
+        "text": "Judge Grievances",
+        "url": "https://courts.mt.gov/forms/Disqualification"
+      },
+      {
+        "text": "Judgments",
+        "url": "https://courts.mt.gov/forms/Judgement"
+      },
+      {
+        "text": "Justice Court",
+        "url": "https://courts.mt.gov/forms/CivilForms"
+      },
+      {
+        "text": "Landlord Tenant Law",
+        "url": "https://courts.mt.gov/forms/landlord"
+      },
+      {
+        "text": "Lawyer Discipline",
+        "url": "https://courts.mt.gov/forms/AttorneyComplaints"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Nebraska",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1052",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1052",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:30:23.597Z",
+      "sha256": "92e008c17055e4a38d3062b434383ae96013470f24fe56a2ee375d6c83b209ce",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://doi.nebraska.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://supremecourt.nebraska.gov/forms",
+      "final_url": "https://nebraskajudicial.gov/forms",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:30:30.247Z",
+      "sha256": "c4ab90a0461aa4c5be344949ebadc2afa88008c2ad7432f563e4b6a07102cb20",
+      "title": "Master Forms List | Nebraska Judicial Branch",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to main content",
+        "url": "https://nebraskajudicial.gov/forms#main-content"
+      },
+      {
+        "text": "Forms",
+        "url": "https://nebraskajudicial.gov/forms"
+      },
+      {
+        "text": "Self-Help",
+        "url": "https://nebraskajudicial.gov/self-help"
+      },
+      {
+        "text": "Menu",
+        "url": "https://nebraskajudicial.gov/forms#off-canvas"
+      },
+      {
+        "text": "Title/Download",
+        "url": "https://nebraskajudicial.gov/forms?title=&field_form_number_value=&field_form_type_target_id=All&field_language_target_id=155&order=title&sort=asc"
+      },
+      {
+        "text": "Number",
+        "url": "https://nebraskajudicial.gov/forms?title=&field_form_number_value=&field_form_type_target_id=All&field_language_target_id=155&order=field_form_number&sort=asc"
+      },
+      {
+        "text": "Affidavit for Transfer of Personal Property without Probate",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-40.pdf"
+      },
+      {
+        "text": "Affidavit for Transfer of Real Property without Probate",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-41.pdf"
+      },
+      {
+        "text": "Certificate of Mailing, Annual Budget Reporting Forms",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-48.pdf"
+      },
+      {
+        "text": "Current page\n            1",
+        "url": "https://nebraskajudicial.gov/forms?page=0"
+      },
+      {
+        "text": "Page\n            2",
+        "url": "https://nebraskajudicial.gov/forms?page=1"
+      },
+      {
+        "text": "Page\n            3",
+        "url": "https://nebraskajudicial.gov/forms?page=2"
+      },
+      {
+        "text": "Page\n            4",
+        "url": "https://nebraskajudicial.gov/forms?page=3"
+      },
+      {
+        "text": "Page\n            5",
+        "url": "https://nebraskajudicial.gov/forms?page=4"
+      },
+      {
+        "text": "Page\n            6",
+        "url": "https://nebraskajudicial.gov/forms?page=5"
+      },
+      {
+        "text": "Next page\n            ››",
+        "url": "https://nebraskajudicial.gov/forms?page=1"
+      },
+      {
+        "text": "Last page\n            Last »",
+        "url": "https://nebraskajudicial.gov/forms?page=5"
+      },
+      {
+        "text": "Family Treatment Courts",
+        "url": "https://nebraskajudicial.gov/courts/problem-solving-courts/problem-solving-court-types/family-treatment-courts"
+      },
+      {
+        "text": "Child & Family",
+        "url": "https://nebraskajudicial.gov/programs-services/office-public-guardian/resources-private-guardians-and-conservators/opg-child-family-resources"
+      },
+      {
+        "text": "Probation Policy Forms",
+        "url": "https://nebraskajudicial.gov/probation/probation-policy-forms"
+      },
+      {
+        "text": "Forms",
+        "url": "https://nebraskajudicial.gov/forms"
+      },
+      {
+        "text": "Self-Help",
+        "url": "https://nebraskajudicial.gov/self-help"
+      },
+      {
+        "text": "Legal Resources & Information",
+        "url": "https://nebraskajudicial.gov/self-help/legal-resources-information"
+      },
+      {
+        "text": "Appeals",
+        "url": "https://nebraskajudicial.gov/self-help/appeals"
+      },
+      {
+        "text": "Appealing or Setting Aside A County Court Civil or Small Claims Judgment",
+        "url": "https://nebraskajudicial.gov/self-help/appeals/appealing-or-setting-aside-county-court-civil-or-small-claims-judgment"
+      },
+      {
+        "text": "Appealing to Supreme Court|Court of Appeals",
+        "url": "https://nebraskajudicial.gov/self-help/appeals/appealing-supreme-courtcourt-appeals"
+      },
+      {
+        "text": "Appealing a Workers' Compensation Decision to the Court of Appeals",
+        "url": "https://nebraskajudicial.gov/self-help/appeals/appealing-workers-compensation-decision-court-appeals"
+      },
+      {
+        "text": "Handgun Certificate Denial or Revocation Appeal",
+        "url": "https://nebraskajudicial.gov/self-help/appeals/handgun-certificate-denial-or-revocation-appeal"
+      },
+      {
+        "text": "Clean Slate - Criminal Record Rehabilitation",
+        "url": "https://nebraskajudicial.gov/self-help/criminal-record-rehabilitation"
+      },
+      {
+        "text": "Eligibility Questionnaire",
+        "url": "https://nebraskajudicial.gov/self-help/criminal-record-rehabilitation/clean-slate-eligibility-questionnaire"
+      },
+      {
+        "text": "Adult Record Sealing",
+        "url": "https://nebraskajudicial.gov/self-help/criminal-record-rehabilitation/adult-record-sealing"
+      },
+      {
+        "text": "Juvenile Record Sealing",
+        "url": "https://nebraskajudicial.gov/self-help/criminal-record-rehabilitation/juvenile-record-sealing"
+      },
+      {
+        "text": "Set-Aside of a Criminal Conviction",
+        "url": "https://nebraskajudicial.gov/self-help/criminal-record-rehabilitation/set-aside-criminal-conviction"
+      },
+      {
+        "text": "Pardons",
+        "url": "https://nebraskajudicial.gov/self-help/criminal-record-rehabilitation/pardons"
+      },
+      {
+        "text": "Court Records",
+        "url": "https://nebraskajudicial.gov/self-help/court-records"
+      },
+      {
+        "text": "Obtaining a Copy of Your Court Record That Has Been Sealed",
+        "url": "https://nebraskajudicial.gov/self-help/court-records/obtaining-copy-your-court-record-has-been-sealed"
+      },
+      {
+        "text": "Request to Open Adoption Records for Adoption Decree or Medical Records",
+        "url": "https://nebraskajudicial.gov/self-help/court-records/request-open-adoption-records-adoption-decree-or-medical-records"
+      },
+      {
+        "text": "Records That Are No Longer Available",
+        "url": "https://nebraskajudicial.gov/self-help/court-records/records-are-no-longer-available"
+      },
+      {
+        "text": "Request for a Typed Transcript of a Trial or Proceeding",
+        "url": "https://nebraskajudicial.gov/self-help/court-records/request-typed-transcript-trial-or-proceeding"
+      },
+      {
+        "text": "County Court",
+        "url": "https://nebraskajudicial.gov/self-help/court-records/request-typed-transcript-trial-or-proceeding/request-typed-transcript-or-digital-recording-trial-or-proceeding-county-court"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Nevada",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1053",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1053",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:30:33.020Z",
+      "sha256": "db5ef5af5ad0165a1af51661aa8c811fa403fdb93178d8ce34ed9dac8fbb39d1",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://doi.nv.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://nvcourts.gov/",
+      "final_url": "https://nvcourts.gov/",
+      "http_status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:30:33.814Z",
+      "sha256": "b3e391a4bb14b5a4308f59f3668e634b18e40244b09df4fa7047142ee1f343af",
+      "title": "Just a moment...",
+      "retrieval_status": "http-403"
+    },
+    "court_form_candidates": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "New Hampshire",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1054",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1054",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:30:35.470Z",
+      "sha256": "6561bf30e1833f23b377c716bfc0e4b2f66d14e630d8c9015f7f07deef231db0",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.nh.gov/insurance/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.courts.nh.gov/",
+      "final_url": "https://www.courts.nh.gov/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:30:37.141Z",
+      "sha256": "bfdadb413cc5a21fad636f143a7e78334ec306ae4993f0c692a308b3a9948c6d",
+      "title": "Welcome | New Hampshire Judicial Branch",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Self-Help",
+        "url": "https://www.courts.nh.gov/self-help"
+      },
+      {
+        "text": "Getting Started",
+        "url": "https://www.courts.nh.gov/self-help/getting-started"
+      },
+      {
+        "text": "Families & Children",
+        "url": "https://www.courts.nh.gov/our-courts/circuit-court/family-division"
+      },
+      {
+        "text": "Domestic Violence",
+        "url": "https://www.courts.nh.gov/self-help/restraining-orders"
+      },
+      {
+        "text": "Wills & Estates",
+        "url": "https://www.courts.nh.gov/self-help/estates"
+      },
+      {
+        "text": "Criminal",
+        "url": "https://www.courts.nh.gov/self-help/criminal"
+      },
+      {
+        "text": "Civil",
+        "url": "https://www.courts.nh.gov/self-help/civil"
+      },
+      {
+        "text": "Stalking",
+        "url": "https://www.courts.nh.gov/self-help/restraining-orders"
+      },
+      {
+        "text": "Name Changes",
+        "url": "https://www.courts.nh.gov/self-help/name-changes"
+      },
+      {
+        "text": "Restraining Orders",
+        "url": "https://www.courts.nh.gov/self-help/restraining-orders"
+      },
+      {
+        "text": "Record Checks",
+        "url": "https://www.courts.nh.gov/self-help/record-checks"
+      },
+      {
+        "text": "Representing Yourself",
+        "url": "https://www.courts.nh.gov/self-help/representing-yourself"
+      },
+      {
+        "text": "Preparing for Court",
+        "url": "https://www.courts.nh.gov/self-help/getting-started/preparing-court"
+      },
+      {
+        "text": "Contact a Court",
+        "url": "https://www.courts.nh.gov/self-help/getting-started/contact-court"
+      },
+      {
+        "text": "Circuit Court - Family Division",
+        "url": "https://www.courts.nh.gov/our-courts/circuit-court/family-division"
+      },
+      {
+        "text": "Circuit Court - Probate Division",
+        "url": "https://www.courts.nh.gov/our-courts/circuit-court/probate-division"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.courts.nh.gov/resources/forms-and-fees"
+      },
+      {
+        "text": "Domestic Violence and Stalking",
+        "url": "https://www.courts.nh.gov/self-help/restraining-orders"
+      },
+      {
+        "text": "Forms & Fees",
+        "url": "https://www.courts.nh.gov/resources/forms-and-fees"
+      },
+      {
+        "text": "Self-Help",
+        "url": "https://www.courts.nh.gov/self-help"
+      },
+      {
+        "text": "Representing Yourself",
+        "url": "https://www.courts.nh.gov/self-help/representing-yourself"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "New Jersey",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1055",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1055",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:30:38.984Z",
+      "sha256": "fcdbd9e7bad75bfcdc079b1903b8a81a52f4435678ec26b595ae4aaf405a0302",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.state.nj.us/dobi/index.html",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.njcourts.gov/self-help/forms",
+      "final_url": "https://www.njcourts.gov/self-help/forms",
+      "http_status": 403,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-09T09:30:39.961Z",
+      "sha256": "fa233db46ed9c4c8134aef89f421a9703ea38239eefe5a2e900314ab4c25325a",
+      "title": "",
+      "retrieval_status": "http-403"
+    },
+    "court_form_candidates": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "New Mexico",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1056",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1056",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:30:41.924Z",
+      "sha256": "baab866ee91205b5f177049ffadbeeba5293c1e34eb39b04ee45fa8b2c0ee469",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.osi.state.nm.us/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.nmcourts.gov/",
+      "final_url": "https://nmcourts.gov/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:30:52.583Z",
+      "sha256": "168461a90dae5e82e88b97e07877ea201ba17b463cf6b8e3d667081599d2718f",
+      "title": "Home - New Mexico Courts",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Jury Related Forms",
+        "url": "https://jury.nmcourts.gov/jury-related-forms/"
+      },
+      {
+        "text": "Probate",
+        "url": "https://selfrepresentation.nmcourts.gov/sample-page/probate/"
+      },
+      {
+        "text": "Forms & Files",
+        "url": "https://nmcourts.gov/#"
+      },
+      {
+        "text": "Forms & Files",
+        "url": "https://nmcourts.gov/forms-library/"
+      },
+      {
+        "text": "Accessibility",
+        "url": "https://nmcourts.gov/forms-files/accessibility"
+      },
+      {
+        "text": "Adult Guardianship",
+        "url": "https://nmcourts.gov/forms-files/adult-guardianship/"
+      },
+      {
+        "text": "Affidavits",
+        "url": "https://nmcourts.gov/forms-files/affidavits"
+      },
+      {
+        "text": "Appeals",
+        "url": "https://nmcourts.gov/forms-files/appeals"
+      },
+      {
+        "text": "Child Support",
+        "url": "https://nmcourts.gov/forms-files/child-support"
+      },
+      {
+        "text": "Children’s Court",
+        "url": "https://nmcourts.gov/forms-files/childrens-court/"
+      },
+      {
+        "text": "Civil",
+        "url": "https://nmcourts.gov/forms-files/civil"
+      },
+      {
+        "text": "Criminal",
+        "url": "https://nmcourts.gov/forms-files/criminal"
+      },
+      {
+        "text": "Divorce & Family",
+        "url": "https://nmcourts.gov/forms-library/"
+      },
+      {
+        "text": "Domestic Violence",
+        "url": "https://nmcourts.gov/forms-library/"
+      },
+      {
+        "text": "Jury Duty",
+        "url": "https://nmcourts.gov/forms-files/jury-duty"
+      },
+      {
+        "text": "Kinship Guardianship",
+        "url": "https://nmcourts.gov/forms-library/"
+      },
+      {
+        "text": "Landlord/Tenant",
+        "url": "https://nmcourts.gov/forms-library/"
+      },
+      {
+        "text": "Name Change",
+        "url": "https://nmcourts.gov/forms-files/name-change"
+      },
+      {
+        "text": "Other Files",
+        "url": "https://nmcourts.gov/forms-files/other-files/"
+      },
+      {
+        "text": "Probate",
+        "url": "https://nmcourts.gov/forms-files/probate"
+      },
+      {
+        "text": "Self-Representation",
+        "url": "https://nmcourts.gov/forms-files/self-representation"
+      },
+      {
+        "text": "Forms & Files\n                Access common forms and files for all New Mexico Courts. \n            \n        \n        \n            View More",
+        "url": "https://nmcourts.gov/forms-library/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "New York",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1057",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1057",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:30:54.496Z",
+      "sha256": "a5d83014b2c389c5e86821042c90452fc63c18e0532f606cbb046e3d7908d634",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.dfs.ny.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.nycourts.gov/forms/",
+      "final_url": "https://www.nycourts.gov/forms/",
+      "http_status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:30:55.059Z",
+      "sha256": "b35f6d628fd2acc14907f355034db834801e9a4fd308fe8a062d21f0865764ca",
+      "title": "Just a moment...",
+      "retrieval_status": "http-403"
+    },
+    "court_form_candidates": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "North Carolina",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1058",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1058",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:30:55.521Z",
+      "sha256": "ae9251fd5e6a19e0dfe493fb2064ddb8d4427df4ff08da2c888c56d141093b79",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.ncdoi.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.nccourts.gov/documents/forms",
+      "final_url": "https://www.nccourts.gov/documents/forms",
+      "http_status": 403,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-09T09:30:56.892Z",
+      "sha256": "f5ea168accb9d94892edefd614f13759f1e7bc1451f0231d5789e49ce8ba514f",
+      "title": "ERROR: The request could not be satisfied",
+      "retrieval_status": "http-403"
+    },
+    "court_form_candidates": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "North Dakota",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1059",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1059",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:30:58.364Z",
+      "sha256": "1402a99626b7653e992b3d5266a7bc162a0df8d70f09e6b1d96360d3679e7908",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://insurance.nd.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.ndcourts.gov/legal-self-help",
+      "final_url": "https://www.ndcourts.gov/legal-self-help",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:30:59.858Z",
+      "sha256": "c16fb2699ea90b6ba9775a3391bf8f51dc3dc9fe21db34fb819c0b1a2ea0286c",
+      "title": "North Dakota Court System - Legal Self Help Center",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Self-Help",
+        "url": "https://www.ndcourts.gov/legal-self-help"
+      },
+      {
+        "text": "Supreme Court",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Get Connected",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Publications",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Appealing a Case",
+        "url": "https://www.ndcourts.gov/legal-self-help/district-court-appeal-to-supreme-court"
+      },
+      {
+        "text": "District Courts",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Court Resources",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Court Resources (cont.)",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Alternative Dispute Resolution Roster",
+        "url": "https://www.ndcourts.gov/legal-self-help/alternative-dispute-resolution/roster"
+      },
+      {
+        "text": "Other Courts",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Juvenile",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Other Courts",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Legal Resources",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Resources",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Legal Self Help Center",
+        "url": "https://www.ndcourts.gov/legal-self-help"
+      },
+      {
+        "text": "Answering a Summons and Complaint",
+        "url": "https://www.ndcourts.gov/legal-self-help/answering-a-civil-action"
+      },
+      {
+        "text": "Divorce",
+        "url": "https://www.ndcourts.gov/legal-self-help/divorce"
+      },
+      {
+        "text": "Establishing Custody & Visitation",
+        "url": "https://www.ndcourts.gov/legal-self-help/establishing-custody-and-visitation"
+      },
+      {
+        "text": "Probate an Estate",
+        "url": "https://www.ndcourts.gov/legal-self-help/informal-probate"
+      },
+      {
+        "text": "Small Claims",
+        "url": "https://www.ndcourts.gov/legal-self-help/small-claims"
+      },
+      {
+        "text": "more...",
+        "url": "https://www.ndcourts.gov/legal-self-help"
+      },
+      {
+        "text": "Court Administration",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Departments",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Family Law Mediation Program",
+        "url": "https://www.ndcourts.gov/state-court-administration/family-law-mediation-program"
+      },
+      {
+        "text": "Publications",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Online Resources",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Lawyers",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Lawyers",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Legal Resources",
+        "url": "https://www.ndcourts.gov/legal-self-help#"
+      },
+      {
+        "text": "Legal Self Help Center",
+        "url": "https://www.ndcourts.gov/legal-self-help"
+      },
+      {
+        "text": "What the Self Help program can do for you",
+        "url": "https://www.ndcourts.gov/legal-self-help/about-us"
+      },
+      {
+        "text": "licensed lawyer",
+        "url": "https://www.ndcourts.gov/legal-self-help/finding-a-lawyer"
+      },
+      {
+        "text": "I Was Served a Summons & Complaint (or Petition). What Do I Do Now?",
+        "url": "https://www.ndcourts.gov/Media/Default/legal-resources/legal-self-help/Answer%20S%20%20C%20Flyer.pdf"
+      },
+      {
+        "text": "People in the Courtroom",
+        "url": "https://www.ndcourts.gov/legal-self-help/people-in-the-courtroom"
+      },
+      {
+        "text": "Contact Us",
+        "url": "https://www.ndcourts.gov/legal-self-help/contact-us"
+      },
+      {
+        "text": "Finding a Lawyer",
+        "url": "https://www.ndcourts.gov/legal-self-help/finding-a-lawyer"
+      },
+      {
+        "text": "Other Resources",
+        "url": "https://www.ndcourts.gov/legal-self-help/other-resources"
+      },
+      {
+        "text": "Criminal Defense Attorney Application",
+        "url": "https://forms.ndcourts.gov/indigentdefense"
+      },
+      {
+        "text": "lawyer",
+        "url": "https://www.ndcourts.gov/legal-self-help/finding-a-lawyer"
+      },
+      {
+        "text": "General-Use forms",
+        "url": "https://www.ndcourts.gov/legal-self-help/general-use-forms"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Ohio",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1060",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1060",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:01.997Z",
+      "sha256": "b808a1d37420554d7f71ee819365933fad62209f9cf3a1f73fdc6bb3c539e85a",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://insurance.ohio.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.supremecourt.ohio.gov/",
+      "final_url": "https://www.supremecourt.ohio.gov/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:03.545Z",
+      "sha256": "575227a971ba2bdf2b70af818b8833ef3bb7ae76cb66e33340564b2b2dd25722",
+      "title": "Supreme Court of Ohio » Supreme Court of Ohio",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Statistical Reporting",
+        "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/case-management-section/statistical-reporting-information-and-forms/"
+      },
+      {
+        "text": "For Families of Judges",
+        "url": "https://www.supremecourt.ohio.gov/courts/advisory/advisory-committees/advisory-committee-on-the-judicial-family-network/"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.supremecourt.ohio.gov/#"
+      },
+      {
+        "text": "All Forms",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/"
+      },
+      {
+        "text": "Affidavits of Indigency",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/affidavits-of-indigency/166"
+      },
+      {
+        "text": "Appellate Court",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/appellate-court/98"
+      },
+      {
+        "text": "Attorney Registration",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/attorney-registration/28"
+      },
+      {
+        "text": "Attorney Services",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/attorney-services/36"
+      },
+      {
+        "text": "Bar Admissions",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/bar-admissions/21"
+      },
+      {
+        "text": "Case Filing",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/case-filing/42"
+      },
+      {
+        "text": "Case Management and Statistical Reporting",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/case-management-and-statistical-reporting/47"
+      },
+      {
+        "text": "CLE",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/cle/19"
+      },
+      {
+        "text": "Crime Victims \"Marsy's Law\" Rights",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/crime-victims-marsys-law-rights/112"
+      },
+      {
+        "text": "Criminal Sentencing Commission",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/criminal-sentencing-commission/154"
+      },
+      {
+        "text": "Disciplinary",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/disciplinary/43"
+      },
+      {
+        "text": "Dispute Resolution and Mediation",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/dispute-resolution-and-mediation/61"
+      },
+      {
+        "text": "Domestic Relations and Juvenile Standardized",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/domestic-relations-and-juvenile-standardized/1"
+      },
+      {
+        "text": "Forms filed with the Local Tribunal",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/forms-filed-with-the-local-tribunal/165"
+      },
+      {
+        "text": "Forms submitted in PHV Portal",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/forms-submitted-in-phv-portal/164"
+      },
+      {
+        "text": "Language Services",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/language-services/55"
+      },
+      {
+        "text": "Miscellaneous",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/miscellaneous/73"
+      },
+      {
+        "text": "Probate",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/probate/5"
+      },
+      {
+        "text": "Protection Order",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/protection-order/2"
+      },
+      {
+        "text": "America 250: Ohio Courts Survey",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=FKlygY2_00aLUGCeTQR9H1fSg1XC7fhJuHNEk1mVnsJUREhXWlMwRUdVNFRLNzNNSVJEV0dWNks2TSQlQCN0PWcu"
+      },
+      {
+        "text": "Divorce/Dissolution Forms",
+        "url": "https://www.supremecourt.ohio.gov/forms/all-forms/domestic-relations-and-juvenile-standardized/1"
+      },
+      {
+        "text": "Courts of Common Pleas, Probate",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiYTI3Y2JmMTctYzc5Zi00NjU1LTg0YTUtMDc1ZTliNzMwNWQ1IiwidCI6IjgxNzJhOTE0LWJmOGQtNDZkMy04YjUwLTYwOWU0ZDA0N2QxZiJ9"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Oklahoma",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1061",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1061",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:04.027Z",
+      "sha256": "081b44c7475b86222c685b905048781f2d871bb77b12f5dfcfe5149f3f8f3d05",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.ok.gov/oid/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.oscn.net/",
+      "final_url": "https://www.oscn.net/home/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-09T09:31:06.109Z",
+      "sha256": "eec9ef7c5db2733b3dc581c581376e8354485453a59c589f10fb735cfeb65823",
+      "title": "Oklahoma State Courts Network – OSCN",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Forms",
+        "url": "https://www.oscn.net/static/forms/start.asp"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Oregon",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1062",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1062",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:07.653Z",
+      "sha256": "a09dd1c0a17753883f7109b0b2a4ee28ddb7e5d6cc75d37abbf8469934fcf13b",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://dfr.oregon.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.courts.oregon.gov/forms/Pages/default.aspx",
+      "final_url": "https://www.courts.oregon.gov/forms/Pages/default.aspx",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:14.054Z",
+      "sha256": "19cf23ea5bbe6a899cecdf8744c1e42a44766fadf76985565aef3040dbcea679",
+      "title": "Oregon Judicial Department : Forms Center : Forms Center : State of Oregon",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to main content",
+        "url": "https://www.courts.oregon.gov/forms/Pages/default.aspx#main"
+      },
+      {
+        "text": "How you know »",
+        "url": "https://www.courts.oregon.gov/forms/Pages/default.aspx#or-official-modal"
+      },
+      {
+        "text": "An official website of the State of Oregon »",
+        "url": "https://www.courts.oregon.gov/forms/Pages/default.aspx#or-official-modal"
+      },
+      {
+        "text": "How Do I? ",
+        "url": "https://www.courts.oregon.gov/forms/Pages/default.aspx#"
+      },
+      {
+        "text": "Find Divorce Information",
+        "url": "https://www.courts.oregon.gov/programs/family/marriage/Pages/default.aspx"
+      },
+      {
+        "text": "Get a Restraining Order",
+        "url": "https://www.courts.oregon.gov/programs/family/domestic-violence/Pages/restraining.aspx"
+      },
+      {
+        "text": "Online Services ",
+        "url": "https://www.courts.oregon.gov/forms/Pages/default.aspx#"
+      },
+      {
+        "text": "OJD iForms (Interactive Forms)",
+        "url": "https://www.courts.oregon.gov/services/online/Pages/iforms.aspx"
+      },
+      {
+        "text": "Forms/Rules/Fees ",
+        "url": "https://www.courts.oregon.gov/forms/Pages/default.aspx#"
+      },
+      {
+        "text": "Forms Center",
+        "url": "https://www.courts.oregon.gov/forms"
+      },
+      {
+        "text": "Self-Help ",
+        "url": "https://www.courts.oregon.gov/forms/Pages/default.aspx#"
+      },
+      {
+        "text": "Self-Help Center",
+        "url": "https://www.courts.oregon.gov/help"
+      },
+      {
+        "text": "Divorce, Separation, Annulment",
+        "url": "https://www.courts.oregon.gov/programs/family/marriage"
+      },
+      {
+        "text": "Protective (Restraining) Orders",
+        "url": "https://www.courts.oregon.gov/programs/family/domestic-violence"
+      },
+      {
+        "text": "Family Law",
+        "url": "https://www.courts.oregon.gov/programs/family/Pages/default.aspx"
+      },
+      {
+        "text": "Free Help for Family Law Cases",
+        "url": "https://www.courts.oregon.gov/programs/family/courtinfo/Pages/default.aspx"
+      },
+      {
+        "text": "Opinions & Law Library ",
+        "url": "https://www.courts.oregon.gov/forms/Pages/default.aspx#"
+      },
+      {
+        "text": "Programs & Committees ",
+        "url": "https://www.courts.oregon.gov/forms/Pages/default.aspx#"
+      },
+      {
+        "text": "Family Law",
+        "url": "https://www.courts.oregon.gov/programs/family"
+      },
+      {
+        "text": "Forms Center",
+        "url": "https://www.courts.oregon.gov/forms"
+      },
+      {
+        "text": "Self-Help Center",
+        "url": "https://www.courts.oregon.gov/help/Pages/default.aspx"
+      },
+      {
+        "text": "Abuse / Domestic Violence",
+        "url": "https://www.courts.oregon.gov/programs/family/forms/Pages/protective-orders.aspx"
+      },
+      {
+        "text": "Adoption",
+        "url": "https://www.courts.oregon.gov/programs/family/children/Pages/adoption.aspx"
+      },
+      {
+        "text": "Child Support",
+        "url": "https://www.courts.oregon.gov/programs/family/forms/Pages/child-spousal-support.aspx"
+      },
+      {
+        "text": "Modifications",
+        "url": "https://www.courts.oregon.gov/programs/family/forms/Pages/modifications.aspx"
+      },
+      {
+        "text": "Divorce / Dissolution",
+        "url": "https://www.courts.oregon.gov/programs/family/forms/Pages/divorce.aspx"
+      },
+      {
+        "text": "Parenting Plan",
+        "url": "https://www.courts.oregon.gov/programs/family/children/Pages/parenting-plan-guide.aspx"
+      },
+      {
+        "text": "Request for Hearing re: Statutory Restraining Order",
+        "url": "https://www.courts.oregon.gov/forms/Pages/req-hear-stat-rest-ord.aspx"
+      },
+      {
+        "text": "Enforcement",
+        "url": "https://www.courts.oregon.gov/programs/family/forms/Pages/enforcement.aspx"
+      },
+      {
+        "text": "Modification of Judgment",
+        "url": "https://www.courts.oregon.gov/programs/family/forms/Pages/modifications.aspx"
+      },
+      {
+        "text": "Parenting Plan",
+        "url": "https://www.courts.oregon.gov/programs/family/children/Pages/parenting-plan-guide.aspx"
+      },
+      {
+        "text": "Separation",
+        "url": "https://www.courts.oregon.gov/programs/family/forms/Pages/separation.aspx"
+      },
+      {
+        "text": "Parenting Plan",
+        "url": "https://www.courts.oregon.gov/programs/family/children/Pages/parenting-plan-guide.aspx"
+      },
+      {
+        "text": "Request for Hearingre: Statutory Restraining Order",
+        "url": "https://www.courts.oregon.gov/forms/Pages/req-hear-stat-rest-ord.aspx"
+      },
+      {
+        "text": "Temporary Orders",
+        "url": "https://www.courts.oregon.gov/programs/family/forms/Pages/temp-orders.aspx"
+      },
+      {
+        "text": "Unmarried Parents",
+        "url": "https://www.courts.oregon.gov/programs/family/forms/Pages/unmarried-parents.aspx"
+      },
+      {
+        "text": "Parenting Plan",
+        "url": "https://www.courts.oregon.gov/programs/family/children/Pages/parenting-plan-guide.aspx"
+      },
+      {
+        "text": "Request for Hearing \n                        re: Statutory Restraining Order",
+        "url": "https://www.courts.oregon.gov/forms/Pages/req-hear-stat-rest-ord.aspx"
+      },
+      {
+        "text": "Guardian Ad Litem",
+        "url": "https://www.courts.oregon.gov/programs/family/forms/Pages/guardian-ad-litem.aspx"
+      },
+      {
+        "text": "Miscellaneous",
+        "url": "https://www.courts.oregon.gov/programs/family/forms/Pages/misc.aspx"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Pennsylvania",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1063",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1063",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:16.200Z",
+      "sha256": "232e259034aab2b0509686bcb2a79e1d53ca286a7e7b01262d79a41dbb55cfae",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.insurance.pa.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.pacourts.us/forms",
+      "final_url": "https://www.pacourts.us/forms",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:17.846Z",
+      "sha256": "d3ff5a41410e2de38a9db1b4724ec72d29562928e4cdcac00c25b73fac0864e6",
+      "title": "Forms | Unified Judicial System of Pennsylvania",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to Main Content",
+        "url": "https://www.pacourts.us/forms#maincontent"
+      },
+      {
+        "text": "Forms\n                                Access Unified Judicial System forms",
+        "url": "https://www.pacourts.us/forms"
+      },
+      {
+        "text": "Menu",
+        "url": "https://www.pacourts.us/forms#menu-mobile"
+      },
+      {
+        "text": "Resources",
+        "url": "https://www.pacourts.us/forms#resource"
+      },
+      {
+        "text": "Search",
+        "url": "https://www.pacourts.us/forms#search"
+      },
+      {
+        "text": "Back to Top",
+        "url": "https://www.pacourts.us/forms#menu-mobile"
+      },
+      {
+        "text": "Back to Top",
+        "url": "https://www.pacourts.us/forms#menu-desktop"
+      },
+      {
+        "text": "Forms\n                    Access Unified Judicial System forms",
+        "url": "https://www.pacourts.us/forms"
+      },
+      {
+        "text": "For the Public",
+        "url": "https://www.pacourts.us/forms/for-the-public"
+      },
+      {
+        "text": "For the judiciary",
+        "url": "https://www.pacourts.us/forms/for-the-judiciary/"
+      },
+      {
+        "text": "For law enforcement",
+        "url": "https://www.pacourts.us/forms/for-law-enforcement/"
+      },
+      {
+        "text": "Dependency",
+        "url": "https://www.pacourts.us/forms/dependency-forms"
+      },
+      {
+        "text": "Juvenile Delinquency",
+        "url": "https://www.pacourts.us/forms/juvenile-delinquency-forms"
+      },
+      {
+        "text": "Representing Yourself in family law cases",
+        "url": "https://www.pacourts.us/learn/representing-yourself"
+      },
+      {
+        "text": "Orphans' Court forms",
+        "url": "https://www.pacourts.us/page/1598"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Rhode Island",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1064",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1064",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:19.521Z",
+      "sha256": "a7670b920a05e8385a1a6ac2563af6ecb3f3c7a5e7add68ad8583cbb4f6c8249",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://dbr.ri.gov/insurance-overview",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.courts.ri.gov/",
+      "final_url": "https://www.courts.ri.gov/Pages/default.aspx",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:27.857Z",
+      "sha256": "c2fd72d2663c7ad09c1687596648b54d1aec4fd98ccdcf80bd271d3001a60040",
+      "title": "Home",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Family Court",
+        "url": "https://www.courts.ri.gov/Courts/familycourt/Pages/default.aspx"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.courts.ri.gov/Pages/forms.aspx"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.courts.ri.gov/Pages/forms.aspx"
+      },
+      {
+        "text": "RIJPublicPortal",
+        "url": "https://www.courts.ri.gov/RIJPublicPortal/Forms/AllItems.aspx"
+      },
+      {
+        "text": "Calendar Protocol/Misc",
+        "url": "https://www.courts.ri.gov/Calendar%20ProtocolMisc/Forms/AllItems.aspx"
+      },
+      {
+        "text": "Family Court",
+        "url": "https://www.courts.ri.gov/Courts/familycourt/Pages/default.aspx"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.courts.ri.gov/Search/Pages/Forms.aspx"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.courts.ri.gov/Pages/forms.aspx"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.courts.ri.gov/Pages/forms.aspx"
+      },
+      {
+        "text": "Self-help",
+        "url": "https://www.courts.ri.gov/Pages/default.aspx"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "South Carolina",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1065",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1065",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:29.984Z",
+      "sha256": "173a581785262897669477aeebdfa618a2d67e54e9c5ea1bf22f897c7bc24efd",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://doi.sc.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.sccourts.org/",
+      "final_url": "https://www.sccourts.org/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:31.559Z",
+      "sha256": "34c041ccb4e35cabe353229154183589a08ae27dbce6d9f05b05b7635f48f723",
+      "title": "The South Carolina Judicial Branch",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Family Court",
+        "url": "https://www.sccourts.org/courts/trial-courts/family-court/"
+      },
+      {
+        "text": "Probate Court",
+        "url": "https://www.sccourts.org/courts/trial-courts/probate-court/"
+      },
+      {
+        "text": "Court Records - Family Court",
+        "url": "https://portal.fccms.dss.sc.gov/"
+      },
+      {
+        "text": "Self Help Resources",
+        "url": "https://www.sccourts.org/resources/general-public/self-help-resources/"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.sccourts.org/court-forms/"
+      },
+      {
+        "text": "Court Records - Family Court",
+        "url": "https://portal.fccms.dss.sc.gov/"
+      },
+      {
+        "text": "Family Court Attorney Portal",
+        "url": "https://attorneyportal.fccms.dss.sc.gov/#/login"
+      },
+      {
+        "text": "Family Court Filing Fees",
+        "url": "https://www.sccourts.org/courts/trial-courts/family-court/court-fees/"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.sccourts.org/court-forms/"
+      },
+      {
+        "text": "Court Records - Family Court",
+        "url": "https://www.sccourts.org/resources/general-public/court-records-family-court/"
+      },
+      {
+        "text": "Family Court",
+        "url": "https://www.sccourts.org/courts/trial-courts/family-court/"
+      },
+      {
+        "text": "Probate Court",
+        "url": "https://www.sccourts.org/courts/trial-courts/probate-court/"
+      },
+      {
+        "text": "Court Records - Family Court",
+        "url": "https://portal.fccms.dss.sc.gov/"
+      },
+      {
+        "text": "Self Help Resources",
+        "url": "https://www.sccourts.org/resources/general-public/self-help-resources/"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.sccourts.org/court-forms/"
+      },
+      {
+        "text": "Court Records - Family Court",
+        "url": "https://portal.fccms.dss.sc.gov/"
+      },
+      {
+        "text": "Family Court Attorney Portal",
+        "url": "https://attorneyportal.fccms.dss.sc.gov/#/login"
+      },
+      {
+        "text": "Family Court Filing Fees",
+        "url": "https://www.sccourts.org/courts/trial-courts/family-court/court-fees/"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.sccourts.org/court-forms/"
+      },
+      {
+        "text": "Court Records - Family Court",
+        "url": "https://www.sccourts.org/resources/general-public/court-records-family-court/"
+      },
+      {
+        "text": "Family Court Public Portal",
+        "url": "https://portal.fccms.dss.sc.gov/#/TermCondition"
+      },
+      {
+        "text": "Self Help Resources",
+        "url": "https://www.sccourts.org/resources/general-public/self-help-resources/"
+      },
+      {
+        "text": "Family Court Attorney Portal",
+        "url": "https://attorneyportal.fccms.dss.sc.gov/#/login"
+      },
+      {
+        "text": "Family Court Filing Fees",
+        "url": "https://www.sccourts.org/courts/trial-courts/family-court/court-fees/"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.sccourts.org/court-forms/"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.sccourts.org/court-forms/"
+      },
+      {
+        "text": "Court Records - Family Court",
+        "url": "https://www.sccourts.org/resources/general-public/court-records-family-court/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "South Dakota",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1066",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1066",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:33.149Z",
+      "sha256": "94aa84f89b88916beae43bf2823831e40461b2214e925ebcb3c151778be70c5a",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://dlr.sd.gov/insurance",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://ujs.sd.gov/",
+      "final_url": "https://ujs.sd.gov/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:34.694Z",
+      "sha256": "086a3a7edc91c45ea4a1690772bfa19f005c8e9117acf1d098d68c73e2cf3292",
+      "title": "Home | South Dakota Unified Judicial System",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Self Help",
+        "url": "https://ujs.sd.gov/self-help/"
+      },
+      {
+        "text": "Browse All Topics",
+        "url": "https://ujs.sd.gov/self-help/"
+      },
+      {
+        "text": "Pro Se Forms",
+        "url": "https://ujs.sd.gov/self-help/pro-se-forms/"
+      },
+      {
+        "text": "Family Law Help",
+        "url": "https://ujs.sd.gov/self-help/family-law-help/"
+      },
+      {
+        "text": "Civil Law Help",
+        "url": "https://ujs.sd.gov/self-help/civil-law-help/"
+      },
+      {
+        "text": "Criminal Law Help",
+        "url": "https://ujs.sd.gov/self-help/criminal-law-help/"
+      },
+      {
+        "text": "Get Legal Help",
+        "url": "https://ujs.sd.gov/self-help/get-legal-help/"
+      },
+      {
+        "text": "Representing Yourself",
+        "url": "https://ujs.sd.gov/self-help/representing-yourself/"
+      },
+      {
+        "text": "Understanding Courts",
+        "url": "https://ujs.sd.gov/self-help/understanding-the-courts/"
+      },
+      {
+        "text": "Españolas Formas (Spanish Forms)",
+        "url": "https://ujs.sd.gov/espanolas-formas-spanish-forms/"
+      },
+      {
+        "text": "Filing for Divorce",
+        "url": "https://ujs.sd.gov/self-help/family-law-help/divorce/"
+      },
+      {
+        "text": "Eviction",
+        "url": "https://ujs.sd.gov/self-help/civil-law-help/evictions/"
+      },
+      {
+        "text": "Housing Assistance Resources",
+        "url": "https://ujs.sd.gov/self-help/civil-law-help/housing-and-assistance/"
+      },
+      {
+        "text": "Military & Veterans Resources",
+        "url": "https://ujs.sd.gov/self-help/get-legal-help/military-veterans/"
+      },
+      {
+        "text": "Guardianship",
+        "url": "https://ujs.sd.gov/self-help/civil-law-help/guardianship/"
+      },
+      {
+        "text": "Shared Parenting Guidelines & Plans",
+        "url": "https://ujs.sd.gov/self-help/family-law-help/shared-parenting-guidelines-plans/"
+      },
+      {
+        "text": "Obtaining a Protection Order",
+        "url": "https://ujs.sd.gov/self-help/civil-law-help/protection-orders/"
+      },
+      {
+        "text": "Court Structure",
+        "url": "https://ujs.sd.gov/self-help/understanding-the-courts/court-structure/"
+      },
+      {
+        "text": "Fees and Costs",
+        "url": "https://ujs.sd.gov/self-help/understanding-the-courts/fees-and-costs/"
+      },
+      {
+        "text": "How the Court Assists",
+        "url": "https://ujs.sd.gov/self-help/understanding-the-courts/how-the-court-assists/"
+      },
+      {
+        "text": "Starting a Court Action",
+        "url": "https://ujs.sd.gov/self-help/representing-yourself/starting-a-court-action/"
+      },
+      {
+        "text": "Small Claims Court",
+        "url": "https://ujs.sd.gov/self-help/civil-law-help/small-claims/"
+      },
+      {
+        "text": "Electronic Filing for Self-Represented Litigants",
+        "url": "https://ujs.sd.gov/self-help/electronic-filing-for-self-represented-litigants/"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://ujs.sd.gov/form-file-search/"
+      },
+      {
+        "text": "Family Law",
+        "url": "https://ujs.sd.gov/form-file-search/?category=family-law"
+      },
+      {
+        "text": "Attorney Forms",
+        "url": "https://ujs.sd.gov/form-file-search/?category=attorney-forms"
+      },
+      {
+        "text": "Divorce",
+        "url": "https://ujs.sd.gov/self-help/family-law-help/divorce/?category=divorce"
+      },
+      {
+        "text": "Protection Orders",
+        "url": "https://ujs.sd.gov/self-help/civil-law-help/protection-orders/?category=protection-order"
+      },
+      {
+        "text": "Evictions",
+        "url": "https://ujs.sd.gov/self-help/civil-law-help/evictions/"
+      },
+      {
+        "text": "Guardianship",
+        "url": "https://ujs.sd.gov/self-help/civil-law-help/guardianship/"
+      },
+      {
+        "text": "Spanish Forms",
+        "url": "https://ujs.sd.gov/form-file-search/?category=spanish-forms"
+      },
+      {
+        "text": "Shared Parenting",
+        "url": "https://ujs.sd.gov/self-help/family-law-help/shared-parenting-guidelines-plans/"
+      },
+      {
+        "text": "Child Custody",
+        "url": "https://ujs.sd.gov/self-help/family-law-help/child-custody/"
+      },
+      {
+        "text": "Child Support",
+        "url": "https://ujs.sd.gov/self-help/family-law-help/child-support/"
+      },
+      {
+        "text": "Attorney Forms",
+        "url": "https://ujs.sd.gov/for-attorneys/attorney-forms/"
+      },
+      {
+        "text": "File a Small Claims Court Case",
+        "url": "https://ujs.sd.gov/self-help/civil-law-help/small-claims/"
+      },
+      {
+        "text": "Navigate a Case Alone",
+        "url": "https://ujs.sd.gov/self-help/"
+      },
+      {
+        "text": "Represent Myself",
+        "url": "https://ujs.sd.gov/self-help/representing-yourself/"
+      },
+      {
+        "text": "Find Eviction Forms",
+        "url": "https://ujs.sd.gov/self-help/civil-law-help/evictions/"
+      },
+      {
+        "text": "Locate Guardianship Resources",
+        "url": "https://ujs.sd.gov/self-help/civil-law-help/guardianship/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Tennessee",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1067",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1067",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:36.122Z",
+      "sha256": "cd4dd23abb9a99830a5722e5b00bd22ce24a8d6ed56bcf2bea60a08a921b37bf",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.tn.gov/commerce/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.tncourts.gov/",
+      "final_url": "https://www.tncourts.gov/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-09T09:31:37.257Z",
+      "sha256": "857d25ac34b37bbaae57ea4a395596cefc4934b816038598be14c43ad3779b2c",
+      "title": "",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Texas",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1068",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1068",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:39.578Z",
+      "sha256": "a001461fd11c460f32595d469a9fd71bc725acf59544fe5915a7b62b36c6ee77",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.tdi.texas.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.txcourts.gov/",
+      "final_url": "https://www.txcourts.gov/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:41.343Z",
+      "sha256": "25f7ca13b72753f025f6da0386ac2d610449640df033d609a5aff21dc780a724",
+      "title": "TJB",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Rules & FormsClick to expand submenu",
+        "url": "https://www.txcourts.gov/#"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.txcourts.gov/forms/"
+      },
+      {
+        "text": "Rules & Standards",
+        "url": "https://www.txcourts.gov/rules-forms/rules-standards/"
+      },
+      {
+        "text": "Local Rules, Forms and Standing Orders",
+        "url": "https://www.txcourts.gov/rules-forms/local-rules-forms-and-standing-orders/"
+      },
+      {
+        "text": "Self-Help",
+        "url": "https://www.txcourts.gov/programs-services/self-help/"
+      },
+      {
+        "text": "Completed Bail Forms",
+        "url": "https://topics.txcourts.gov/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Utah",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1069",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1069",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:43.399Z",
+      "sha256": "23be1a56430575f66c4b41696a5c0006817d461db0efe55c17f5b46592ae6cf4",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://insurance.utah.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.utcourts.gov/",
+      "final_url": "https://www.utcourts.gov/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:44.474Z",
+      "sha256": "3789a8e448d4259d60df3d7224151c2def429157638364c3bba2533c89f62eeb",
+      "title": "Utah State Courts",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Self-Help Center",
+        "url": "https://www.utcourts.gov/selfhelp-contact.html"
+      },
+      {
+        "text": "Consumer",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/consumer.html"
+      },
+      {
+        "text": "Criminal Justice",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/criminal-justice.html"
+      },
+      {
+        "text": "Families and Children",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/family.html"
+      },
+      {
+        "text": "Guardianship and Conservatorship",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/gc.html"
+      },
+      {
+        "text": "Government Agencies",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/government.html"
+      },
+      {
+        "text": "Appeals",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/appeals.html"
+      },
+      {
+        "text": "Housing",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/housing.html"
+      },
+      {
+        "text": "Juvenile Justice",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/juvenile.html"
+      },
+      {
+        "text": "Small Claims",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/consumer/small-claims.html"
+      },
+      {
+        "text": "Resources",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/resources.html"
+      },
+      {
+        "text": "Life Planning and Probate",
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/probate.html"
+      },
+      {
+        "text": "View Form Resources",
+        "url": "https://www.utcourts.gov/en/forms.html"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.utcourts.gov/forms.html"
+      },
+      {
+        "text": "Court-Specific Forms",
+        "url": "https://www.utcourts.gov/en/forms/forms/court-specific.html"
+      },
+      {
+        "text": "Additional Forms Sources",
+        "url": "https://www.utcourts.gov/en/forms/forms/additional-form-sources.html"
+      },
+      {
+        "text": "",
+        "url": "https://www.utcourts.gov/en/self-help/services/epayments.html"
+      },
+      {
+        "text": "Make a Payment",
+        "url": "https://www.utcourts.gov/en/self-help/services/epayments.html"
+      },
+      {
+        "text": "Make a Payment",
+        "url": "https://www.utcourts.gov/en/self-help/services/epayments.html"
+      },
+      {
+        "text": "Make a Payment",
+        "url": "https://www.utcourts.gov/en/self-help/services/epayments.html"
+      },
+      {
+        "text": "Make a Payment",
+        "url": "https://www.utcourts.gov/en/self-help/services/epayments.html"
+      },
+      {
+        "text": "Make a Payment",
+        "url": "https://www.utcourts.gov/en/self-help/services/epayments.html"
+      },
+      {
+        "text": "Make a Payment",
+        "url": "https://www.utcourts.gov/en/self-help/services/epayments.html"
+      },
+      {
+        "text": "",
+        "url": "https://www.utcourts.gov/en/self-help/services/juryroom.html"
+      },
+      {
+        "text": "Juror Information",
+        "url": "https://www.utcourts.gov/en/self-help/services/juryroom.html"
+      },
+      {
+        "text": "Juror Information",
+        "url": "https://www.utcourts.gov/en/self-help/services/juryroom.html"
+      },
+      {
+        "text": "Jurors",
+        "url": "https://www.utcourts.gov/en/self-help/services/juryroom.html"
+      },
+      {
+        "text": "Juror Information",
+        "url": "https://www.utcourts.gov/en/self-help/services/juryroom.html"
+      },
+      {
+        "text": "Juror Information",
+        "url": "https://www.utcourts.gov/en/self-help/services/juryroom.html"
+      },
+      {
+        "text": "Jurors",
+        "url": "https://www.utcourts.gov/en/self-help/services/juryroom.html"
+      },
+      {
+        "text": "",
+        "url": "https://www.utcourts.gov/en/self-help.html"
+      },
+      {
+        "text": "Representing Yourself",
+        "url": "https://www.utcourts.gov/en/self-help.html"
+      },
+      {
+        "text": "Representing Yourself",
+        "url": "https://www.utcourts.gov/en/self-help.html"
+      },
+      {
+        "text": "Representing yourself",
+        "url": "https://www.utcourts.gov/en/self-help.html"
+      },
+      {
+        "text": "Representing Yourself",
+        "url": "https://www.utcourts.gov/en/self-help.html"
+      },
+      {
+        "text": "Representing Yourself",
+        "url": "https://www.utcourts.gov/en/self-help.html"
+      },
+      {
+        "text": "Representing yourself",
+        "url": "https://www.utcourts.gov/en/self-help.html"
+      },
+      {
+        "text": "",
+        "url": "https://www.utcourts.gov/en/self-help/services/mycase.html"
+      },
+      {
+        "text": "MyCase",
+        "url": "https://www.utcourts.gov/en/self-help/services/mycase.html"
+      },
+      {
+        "text": "MyCase",
+        "url": "https://www.utcourts.gov/en/self-help/services/mycase.html"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Vermont",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1070",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1070",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:46.022Z",
+      "sha256": "c1eec4ba52aa1fbcd7861298549d31971327cbafb66ec8d18fa4b3eaee791072",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://dfr.vermont.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.vermontjudiciary.org/court-forms",
+      "final_url": "https://www.vtcourts.gov/court-forms",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:31:48.009Z",
+      "sha256": "6a731e5749cbde097e5008d4478072d0f0927488ca275d9615784c29493475a1",
+      "title": "Court Forms | Vermont Judiciary",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to main content",
+        "url": "https://www.vtcourts.gov/court-forms#main-content"
+      },
+      {
+        "text": "Menu",
+        "url": "https://www.vtcourts.gov/court-forms#"
+      },
+      {
+        "text": "Self-Help for the Public",
+        "url": "https://www.vtcourts.gov/self-help"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.vtcourts.gov/court-forms"
+      },
+      {
+        "text": "Protection from Abuse",
+        "url": "https://www.vtcourts.gov/self-help/protective-orders"
+      },
+      {
+        "text": "Adoption",
+        "url": "https://www.vtcourts.gov/probate/adoption"
+      },
+      {
+        "text": "Adult & Minor Guardianships",
+        "url": "https://www.vtcourts.gov/self-help/adult-minor-guardianship"
+      },
+      {
+        "text": "Debt and Small Claims",
+        "url": "https://www.vtcourts.gov/self-help/debt-collection-small-claims"
+      },
+      {
+        "text": "Divorce & Parentage",
+        "url": "https://www.vtcourts.gov/self-help/divorce-parentage"
+      },
+      {
+        "text": "Estates, Wills, and Trusts",
+        "url": "https://www.vtcourts.gov/self-help/wills-estates-trusts"
+      },
+      {
+        "text": "Eviction and Foreclosure",
+        "url": "https://www.vtcourts.gov/self-help/housing"
+      },
+      {
+        "text": "Finding Legal Help",
+        "url": "https://www.vtcourts.gov/self-help/finding-legal-help"
+      },
+      {
+        "text": "Judicial Commission on Family Treatment Dockets",
+        "url": "https://www.vtcourts.gov/about-vermont-judiciary/boards-and-committees/commission-on-family-treatment-dockets"
+      },
+      {
+        "text": "Traffic Violations",
+        "url": "https://www.vtcourts.gov/self-help/traffic-violations"
+      },
+      {
+        "text": "Other Topics",
+        "url": "https://www.vtcourts.gov/self-help/other-topics"
+      },
+      {
+        "text": "Family Division",
+        "url": "https://www.vtcourts.gov/family"
+      },
+      {
+        "text": "Probate Division",
+        "url": "https://www.vtcourts.gov/probate"
+      },
+      {
+        "text": "Access and Resource Center",
+        "url": "https://www.vtcourts.gov/self-help/ARC"
+      },
+      {
+        "text": "Going to Court",
+        "url": "https://www.vtcourts.gov/self-help/going-to-court"
+      },
+      {
+        "text": "Record Requests",
+        "url": "https://www.vtcourts.gov/court-forms#records"
+      },
+      {
+        "text": "Civil forms",
+        "url": "https://www.vtcourts.gov/court-forms#civil"
+      },
+      {
+        "text": "Criminal forms",
+        "url": "https://www.vtcourts.gov/court-forms#criminal"
+      },
+      {
+        "text": "Environmental forms",
+        "url": "https://www.vtcourts.gov/court-forms#environmental"
+      },
+      {
+        "text": "Family forms",
+        "url": "https://www.vtcourts.gov/court-forms#family"
+      },
+      {
+        "text": "Judicial Bureau forms",
+        "url": "https://www.vtcourts.gov/court-forms#jb"
+      },
+      {
+        "text": "Probate forms",
+        "url": "https://www.vtcourts.gov/court-forms#probate"
+      },
+      {
+        "text": "Supreme Court forms",
+        "url": "https://www.vtcourts.gov/court-forms#supreme"
+      },
+      {
+        "text": "Other forms",
+        "url": "https://www.vtcourts.gov/court-forms#other"
+      },
+      {
+        "text": "Self-Help for the Public web page",
+        "url": "https://www.vtcourts.gov/self-help"
+      },
+      {
+        "text": "alphabetical list of court forms",
+        "url": "https://www.vtcourts.gov/forms-library"
+      },
+      {
+        "text": "Access and Resource Center",
+        "url": "https://www.vermontjudiciary.org/self-help/ARC"
+      },
+      {
+        "text": "About Court Forms web page",
+        "url": "https://www.vermontjudiciary.org/self-help/about-court-forms"
+      },
+      {
+        "text": "Filing Procedures web page",
+        "url": "https://www.vtcourts.gov/self-help/filing-procedures"
+      },
+      {
+        "text": "Filing Procedures web page",
+        "url": "https://www.vermontjudiciary.org/self-help/filing-procedures"
+      },
+      {
+        "text": "Civil forms - General",
+        "url": "https://www.vtcourts.gov/civil"
+      },
+      {
+        "text": "Small Claims",
+        "url": "https://www.vtcourts.gov/civil/suing-and-being-sued#forms"
+      },
+      {
+        "text": "Criminal forms - General",
+        "url": "https://www.vtcourts.gov/criminal"
+      },
+      {
+        "text": "Environmental forms - General",
+        "url": "https://www.vtcourts.gov/environmental"
+      },
+      {
+        "text": "Family forms - General",
+        "url": "https://www.vtcourts.gov/family"
+      },
+      {
+        "text": "Annulment",
+        "url": "https://www.vtcourts.gov/family/divorce/annulment"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Virginia",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1072",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1072",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:49.986Z",
+      "sha256": "336f07731da9247a56ac7b409da0e727b068273c5f97390ed7f7e2181580d351",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "http://www.scc.virginia.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.courts.state.va.us/forms/home.html",
+      "final_url": "https://www.courts.state.va.us/forms/home",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:31:51.579Z",
+      "sha256": "d7af5f32b46dd5ccb2ac6f2e750bf9d7a2881184bf50d3613e5d67dd907ac49d",
+      "title": "Forms | Virginia Court System",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to main content",
+        "url": "https://www.courts.state.va.us/forms/home#main-content"
+      },
+      {
+        "text": "Criminal Sealing Forms",
+        "url": "https://www.courts.state.va.us/forms/circuit/crim_sealing/home"
+      },
+      {
+        "text": "Access to Justice Self-Help",
+        "url": "https://selfhelp.vacourts.gov/"
+      },
+      {
+        "text": "Supreme Court of Virginia",
+        "url": "https://www.courts.state.va.us/courts/scv/forms"
+      },
+      {
+        "text": "Court of Appeals",
+        "url": "https://www.courts.state.va.us/courts/cav/forms/general"
+      },
+      {
+        "text": "Circuit Court",
+        "url": "https://www.courts.state.va.us/forms/circuit/home"
+      },
+      {
+        "text": "Criminal Sealing Forms",
+        "url": "https://www.courts.state.va.us/forms/circuit/crim_sealing/home"
+      },
+      {
+        "text": "Foreign Language Translations of Forms",
+        "url": "https://www.courts.state.va.us/courtadmin/aoc/djs/programs/interpreters/fls_forms"
+      },
+      {
+        "text": "General District Court",
+        "url": "https://www.courts.state.va.us/forms/district/home"
+      },
+      {
+        "text": "Juvenile and Domestic Relations District Court",
+        "url": "https://www.courts.state.va.us/forms/district/jdr"
+      },
+      {
+        "text": "Other Court-Related Forms",
+        "url": "https://www.vacourts.gov/forms/home"
+      },
+      {
+        "text": "Judicial Settlement Conference",
+        "url": "https://www.courts.state.va.us/courtadmin/aoc/djs/programs/jsc/forms/home"
+      },
+      {
+        "text": "Mediation",
+        "url": "https://www.courts.state.va.us/courtadmin/aoc/djs/programs/drs/mediation/forms/home"
+      },
+      {
+        "text": "Criminal Sealing Forms",
+        "url": "https://www.courts.state.va.us/forms/circuit/crim_sealing/home"
+      },
+      {
+        "text": "Access to Justice Self-Help",
+        "url": "https://selfhelp.vacourts.gov/"
+      },
+      {
+        "text": "Foreign language translations",
+        "url": "https://www.courts.state.va.us/courtadmin/aoc/djs/programs/interpreters/fls_forms"
+      },
+      {
+        "text": "Forms and Applications",
+        "url": "https://www.courts.state.va.us/courts/scv/forms"
+      },
+      {
+        "text": "Templates and Forms used by the Court of Appeals of Virginia",
+        "url": "https://www.courts.state.va.us/courts/cav/forms/general"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.courts.state.va.us/forms/circuit/home"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.courts.state.va.us/forms/circuit/crim_sealing/home"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.courts.state.va.us/forms/district/home"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.courts.state.va.us/forms/district/jdr"
+      },
+      {
+        "text": "Notice of Administrative Suspension of Driver’s License/Driving Privilege (Form DC-201)",
+        "url": "https://www.courts.state.va.us/static/forms/district/dc201.pdf"
+      },
+      {
+        "text": "Certificate of Refusal - Blood/Breath Test Commercial Motor Vehicle (Form DC-232)",
+        "url": "https://www.courts.state.va.us/static/forms/district/dc232.pdf"
+      },
+      {
+        "text": "Declaration and Acknowledgment of Refusal - Breath/Blood Test (Form DC-233)",
+        "url": "https://www.courts.state.va.us/static/forms/district/dc233.pdf"
+      },
+      {
+        "text": "Foreign language translations",
+        "url": "https://www.courts.state.va.us/courtadmin/aoc/djs/programs/interpreters/fls_forms"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.courts.state.va.us/courtadmin/aoc/djs/programs/jsc/forms/home"
+      },
+      {
+        "text": "Forms and Applications Used for Mediation",
+        "url": "https://www.courts.state.va.us/courtadmin/aoc/djs/programs/drs/mediation/forms/home"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.courts.state.va.us/forms/home"
+      },
+      {
+        "text": "Subscribe to Updates",
+        "url": "https://www.courts.state.va.us/forms/home#"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Washington",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1073",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1073",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:31:54.645Z",
+      "sha256": "72042e839dec0e10a6aebdf812beb57eb806ddd36a478515c76b40b85eb34e4d",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.insurance.wa.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.courts.wa.gov/forms/",
+      "final_url": "https://www.courts.wa.gov/forms/",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:31:59.792Z",
+      "sha256": "98bb1822b6c1a9639e80a232e1cac597d2276079f97acb7f818d4d3d8c77b97d",
+      "title": "Washington State Courts - Court Forms",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to main content",
+        "url": "https://www.courts.wa.gov/forms/#maincontent"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.courts.wa.gov/forms/"
+      },
+      {
+        "text": "List of all forms",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.static&staticID=14"
+      },
+      {
+        "text": "Access to Family Law and Guardianship Court Records (GR 22)",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=67"
+      },
+      {
+        "text": "ADA/Request for Reasonable Accommodations (GR 33)",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=71"
+      },
+      {
+        "text": "Appellate Processing Forms",
+        "url": "https://www.courts.wa.gov/court_rules/?fa=court_rules.list&group=app&set=RAP"
+      },
+      {
+        "text": "Case Information Cover Sheets",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=59"
+      },
+      {
+        "text": "Dismissal",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=60"
+      },
+      {
+        "text": "Name Changes",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.static&staticID=13"
+      },
+      {
+        "text": "Waive Civil Filing Fees (GR 34)",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=87"
+      },
+      {
+        "text": "Forensic Evaluation and Competency Restoration Orders (10.77 RCW)",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=100"
+      },
+      {
+        "text": "Involuntary Civil Commitment Orders (71.05 RCW)",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=101"
+      },
+      {
+        "text": "Joel's Law Petition for Initial Detention",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=97"
+      },
+      {
+        "text": "Designated Crisis Responders Petitions, Orders, and Notices",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=150"
+      },
+      {
+        "text": "Blake Forms",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=151"
+      },
+      {
+        "text": "Certificate of Discharge/Provisional Voting Rights",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=43"
+      },
+      {
+        "text": "Certificate of Restoration of Opportunity",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=102"
+      },
+      {
+        "text": "Deferred Prosecution",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=11"
+      },
+      {
+        "text": "Domestic Violence No-Contact Orders, and Modify/Rescind",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=86"
+      },
+      {
+        "text": "Felony Judgment and Sentence",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=18"
+      },
+      {
+        "text": "Guilty Plea",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=21"
+      },
+      {
+        "text": "Indigent Defense",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=22"
+      },
+      {
+        "text": "Legal Financial Obligations",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=90"
+      },
+      {
+        "text": "Misdemeanor Judgment and Sentencing",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=27"
+      },
+      {
+        "text": "Relief from Offender Registration Requirements",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=85"
+      },
+      {
+        "text": "Vacating/Sealing Records",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=38"
+      },
+      {
+        "text": "Default",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=24"
+      },
+      {
+        "text": "Divorce (Dissolution)",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=13"
+      },
+      {
+        "text": "Invalidate (Annul) Marriage",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=12"
+      },
+      {
+        "text": "Legal Separation (Marriage)",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=25"
+      },
+      {
+        "text": "Petition to Decide Parentage",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=44"
+      },
+      {
+        "text": "Petition for a Parenting Plan/Residential Schedule And/Or \n                        Child Support With Paternity Acknowledgment or Final Parentage Order",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=34"
+      },
+      {
+        "text": "Request Parenting Plan within 2 Years of Parentage Judgment",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=89"
+      },
+      {
+        "text": "Immediate Restraining Order - Divorce",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=14"
+      },
+      {
+        "text": "Immediate Restraining Order - Unmarried Parents",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=88"
+      },
+      {
+        "text": "Immediate Restraining Order - Change a Parenting Plan",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=146"
+      },
+      {
+        "text": "Domestic Violence: Abusive Litigation",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=126"
+      },
+      {
+        "text": "Temporary Order - Divorce",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=36"
+      },
+      {
+        "text": "Temporary Order - Unmarried Parents",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=52"
+      },
+      {
+        "text": "Temporary Order - Change a Parenting Plan",
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=145"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "West Virginia",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1074",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1074",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:32:01.623Z",
+      "sha256": "06ade6bb3dab5c441d85c7d2207d08035e0b0e7abbe26b3c3e274ddc8253330b",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://www.wvinsurance.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.courtswv.gov/",
+      "final_url": "https://www.courtswv.gov/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:32:03.519Z",
+      "sha256": "c6cc40fa26edb68c7b7dcfbf5742f125825de67655cf54c84b3970126b1a30ae",
+      "title": "Home | West Virginia Judiciary",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Court Forms",
+        "url": "https://www.courtswv.gov/public-resources/court-forms"
+      },
+      {
+        "text": "Family Courts",
+        "url": "https://www.courtswv.gov/lower-courts/family-courts"
+      },
+      {
+        "text": "",
+        "url": "https://www.courtswv.gov/public-resources/court-forms"
+      },
+      {
+        "text": "Court Forms",
+        "url": "https://www.courtswv.gov/public-resources/court-forms"
+      },
+      {
+        "text": "",
+        "url": "https://www.courtswv.gov/public-resources/court-forms"
+      },
+      {
+        "text": "Divorce Forms",
+        "url": "https://www.courtswv.gov/public-resources/court-forms/divorce-forms"
+      },
+      {
+        "text": "HELP - PDF Forms / Files",
+        "url": "https://www.courtswv.gov/public-resources/viewing-pdf-files"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Wisconsin",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1075",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1075",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:32:05.518Z",
+      "sha256": "07ec86423c4844d60887121f0390d6c7f4f5e91f9eea9dd3c95ab9c5116472cb",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "https://oci.wi.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.wicourts.gov/forms1/index.htm",
+      "final_url": "https://www.wicourts.gov/forms1/index.htm",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:08.513Z",
+      "sha256": "022f671fecb8d1d9e21839b7dfb4e911e6a2adffcfdc1df5aa19149aa899a022",
+      "title": "Wisconsin Court System - Forms",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Skip to content",
+        "url": "https://www.wicourts.gov/forms1/index.htm#content"
+      },
+      {
+        "text": "Log in",
+        "url": "https://www.wicourts.gov/forms1/index.htm#"
+      },
+      {
+        "text": "How do I...",
+        "url": "https://www.wicourts.gov/forms1/index.htm#"
+      },
+      {
+        "text": "",
+        "url": "https://www.wicourts.gov/forms1/index.htm#"
+      },
+      {
+        "text": "",
+        "url": "https://www.wicourts.gov/forms1/index.htm#"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.wicourts.gov/forms1/index.htm"
+      },
+      {
+        "text": "Circuit court",
+        "url": "https://www.wicourts.gov/forms1/circuit/index.htm"
+      },
+      {
+        "text": "Search",
+        "url": "https://www.wicourts.gov/forms1/circuit/advance_search.jsp"
+      },
+      {
+        "text": "General",
+        "url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=16"
+      },
+      {
+        "text": "Civil",
+        "url": "https://www.wicourts.gov/forms1/circuit/formcategory.jsp?Category=4"
+      },
+      {
+        "text": "Criminal",
+        "url": "https://www.wicourts.gov/forms1/circuit/formcategory.jsp?Category=8"
+      },
+      {
+        "text": "Conservatorship",
+        "url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=7"
+      },
+      {
+        "text": "Family",
+        "url": "https://www.wicourts.gov/forms1/circuit/formcategory.jsp?Category=12"
+      },
+      {
+        "text": "Guardianship",
+        "url": "https://www.wicourts.gov/forms1/circuit/formcategory.jsp?Category=17"
+      },
+      {
+        "text": "Juvenile",
+        "url": "https://www.wicourts.gov/forms1/circuit/formcategory.jsp?Category=21"
+      },
+      {
+        "text": "Mental commitments",
+        "url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=24"
+      },
+      {
+        "text": "Self representation",
+        "url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=51"
+      },
+      {
+        "text": "Probate",
+        "url": "https://www.wicourts.gov/forms1/circuit/formcategory.jsp?Category=26"
+      },
+      {
+        "text": "Small claims",
+        "url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38"
+      },
+      {
+        "text": "Other languages",
+        "url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&Language=es&beg_date=&end_date=&StatuteCite=&Category=&Format="
+      },
+      {
+        "text": "Court of Appeals",
+        "url": "https://www.wicourts.gov/forms1/appeals.jsp?Category=59"
+      },
+      {
+        "text": "Office of Lawyer Regulation",
+        "url": "https://www.wicourts.gov/forms1/olr.htm"
+      },
+      {
+        "text": "Self-help",
+        "url": "https://www.wicourts.gov/services/public/selfhelp/index.htm"
+      },
+      {
+        "text": "Divorce & family law",
+        "url": "https://www.wicourts.gov/services/public/selfhelp/divorce.htm"
+      },
+      {
+        "text": "Probate",
+        "url": "https://www.wicourts.gov/services/public/selfhelp/probate.htm"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.wicourts.gov/services/attorney/redact/faq.htm"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.wicourts.gov/services/attorney/redact/forms.htm"
+      },
+      {
+        "text": "Judicial Family Institute",
+        "url": "https://www.wicourts.gov/services/judge/judfamily.htm"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.wicourts.gov/services/interpreter/forms.htm"
+      },
+      {
+        "text": "Forms assistant",
+        "url": "https://www.wicourts.gov/ecourts/prose.htm"
+      },
+      {
+        "text": "",
+        "url": "https://www.wicourts.gov/forms1/index.htm#"
+      },
+      {
+        "text": "Circuit court",
+        "url": "https://www.wicourts.gov/forms1/circuit/index.htm"
+      },
+      {
+        "text": "Court of Appeals",
+        "url": "https://www.wicourts.gov/forms1/appeals.jsp?Category=59"
+      },
+      {
+        "text": "Office of Lawyer Regulation",
+        "url": "https://www.wicourts.gov/forms1/olr.htm"
+      },
+      {
+        "text": "Administrative & interim orders",
+        "url": "https://www.wicourts.gov/forms1/supreme/sc_orders.jsp"
+      },
+      {
+        "text": "Forms",
+        "url": "https://www.wicourts.gov/forms1/index.htm"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  },
+  {
+    "state": "Wyoming",
+    "insurance_directory": {
+      "url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1076",
+      "final_url": "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1076",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:32:10.524Z",
+      "sha256": "8194ad8087d0693635fcc7907a8bf790e047d149fd305a8320477264c5964ff5",
+      "title": "Insurance Departments",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "insurance_department_url": "http://doi.wyo.gov/",
+    "insurance_department_direct_check": "not-run",
+    "court_seed_status": "manually-seeded-pending-authority-review",
+    "court": {
+      "url": "https://www.courts.state.wy.us/",
+      "final_url": "https://www.wyocourts.gov/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:32:13.497Z",
+      "sha256": "89e975f8031f4a262b421da52446fb72e5a47b30252f4e1f2510bbe370254157",
+      "title": "Home - Wyoming Judicial Branch",
+      "retrieval_status": "retrieved-pending-review"
+    },
+    "court_form_candidates": [
+      {
+        "text": "Family Advocacy",
+        "url": "https://www.wyocourts.gov/childrens-justice-project/"
+      },
+      {
+        "text": "Family Advocacy",
+        "url": "https://www.wyocourts.gov/childrens-justice-project/"
+      },
+      {
+        "text": "Self-Help Forms",
+        "url": "https://www.wyocourts.gov/self-help-forms/"
+      },
+      {
+        "text": "Court Rules Forms and Documents",
+        "url": "https://www.wyocourts.gov/court-rules-forms-and-documents/"
+      },
+      {
+        "text": "Self-Help Forms",
+        "url": "https://www.wyocourts.gov/self-help-forms/"
+      },
+      {
+        "text": "Court Rules Forms and Documents",
+        "url": "https://www.wyocourts.gov/court-rules-forms-and-documents/"
+      },
+      {
+        "text": "Family Advocacy",
+        "url": "https://www.wyocourts.gov/childrens-justice-project/"
+      },
+      {
+        "text": "Family Advocacy",
+        "url": "https://www.wyocourts.gov/childrens-justice-project/"
+      },
+      {
+        "text": "Find a Form",
+        "url": "https://www.wyocourts.gov/legal-assistance-and-forms/"
+      },
+      {
+        "text": "Legal Assistance and Forms",
+        "url": "https://www.wyocourts.gov/legal-assistance-and-forms/"
+      },
+      {
+        "text": "Forms & Publications",
+        "url": "https://www.wyocourts.gov/#"
+      },
+      {
+        "text": "Self-Help Forms",
+        "url": "https://www.wyocourts.gov/self-help-forms/"
+      },
+      {
+        "text": "Court Rules Forms and Documents",
+        "url": "https://www.wyocourts.gov/court-rules-forms-and-documents/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved"
+  }
+]

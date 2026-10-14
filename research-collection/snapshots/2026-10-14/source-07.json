@@ -1,0 +1,107 @@
+{
+  "state": "Michigan",
+  "publisher": "Michigan Department of Attorney General",
+  "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+  "category": "Estate and personal planning",
+  "direct": true,
+  "rules": [
+    {
+      "pattern": ".*",
+      "title": "Michigan Statutory Form Power of Attorney",
+      "family_id": "financial-power-of-attorney",
+      "identity": "MICHIGAN STATUTORY FORM POWER OF ATTORNEY",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+    "final_url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "retrieved_at": "2026-10-14T09:00:58.504Z",
+    "etag": "534440b5380f4a689b4afd32e293a295",
+    "last_modified": "Tue, 03 Jun 2025 20:15:27 GMT",
+    "content_length": "134472",
+    "sha256": "4e6d7a5d85c94ce5e4b369e9262132f382c361350d1d81db5020bcf9e5063ec0",
+    "title": "",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14/07-michigan-source.pdf"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+      "final_url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "retrieved_at": "2026-10-14T09:00:58.504Z",
+      "etag": "534440b5380f4a689b4afd32e293a295",
+      "last_modified": "Tue, 03 Jun 2025 20:15:27 GMT",
+      "content_length": "134472",
+      "sha256": "4e6d7a5d85c94ce5e4b369e9262132f382c361350d1d81db5020bcf9e5063ec0",
+      "title": "",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": ".*",
+      "title": "Michigan Statutory Form Power of Attorney",
+      "family_id": "financial-power-of-attorney",
+      "identity": "MICHIGAN STATUTORY FORM POWER OF ATTORNEY",
+      "max": 1,
+      "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+      "link_text": "Michigan Statutory Form Power of Attorney",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+        "final_url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:00:58.504Z",
+        "etag": "534440b5380f4a689b4afd32e293a295",
+        "last_modified": "Tue, 03 Jun 2025 20:15:27 GMT",
+        "content_length": "134472",
+        "sha256": "4e6d7a5d85c94ce5e4b369e9262132f382c361350d1d81db5020bcf9e5063ec0",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+          "final_url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:00:58.504Z",
+          "etag": "534440b5380f4a689b4afd32e293a295",
+          "last_modified": "Tue, 03 Jun 2025 20:15:27 GMT",
+          "content_length": "134472",
+          "sha256": "4e6d7a5d85c94ce5e4b369e9262132f382c361350d1d81db5020bcf9e5063ec0",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "4e6d7a5d85c94ce5e4b369e9262132f382c361350d1d81db5020bcf9e5063ec0",
+      "local_archive_path": "archive/2026-10-14/07-michigan-statutory-form-power-of-attorney-4e6d7a5d85c9.pdf",
+      "bytes": 134472,
+      "text_length": 15722,
+      "pages": 6,
+      "identity_excerpt": "MICHIGAN STATUTORY FORM POWER OF ATTORNEY IMPORTANT INFORMATION This power of attorney authorizes another person (your agent) to make decisions concerning your property for you (the principal). It is, therefore, an important legal document, and you are taking a serious step if you decide to make use of this form without seeking legal advice; for if the person you designate as your agent accepts authority granted under this power of attorney, the agent will be able to make decisions and act with respect to your property (including your money). The extent of your agent's authority over subjects listed on this form is explained in the uniform power of attorney act, MCL 556.201 to 556.505. This power of attorney does not authorize the agent to make health care decisions for you and it does not authorize the agent to exercise powers you have as a parent or guardian regarding care, custody, or property of a minor child or ward. You should select someone you trust to serve as your agent and you should ask yourself as you review each section of this form, whether you have chosen the right person(s) to act in that capacity. If your signature on this form is notarized or witnessed as provided below, then unless you specify otherwise, the agent's authority will generally continue until you die or revoke the power of attorney or the agent resigns or is unable to act for you. Your agent is entitled to reasonable compensation unless you state otherwise in the Special Instructions. This form provides for designation of an agent and successor agent(s) who serve one at a time, as opposed to coagents who serve simultaneously. If you wish to name coagents, you may do so in the Special Instructions. Coagents are not required to act together unless you include that requirement in the Specia",
+      "revision_evidence": [
+        "enefit of legal counsel. EFFECTIVE DATE This power of attorney is effective immediately unless I have stated "
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Michigan Statutory Form Power of Attorney",
+      "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb"
+    }
+  ]
+}

@@ -1,0 +1,1445 @@
+{
+  "state": "Pennsylvania",
+  "publisher": "Unified Judicial System of Pennsylvania",
+  "url": "https://www.pacourts.us/forms/for-the-public",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": "civilcomplaint.*pdf",
+      "title": "Civil Complaint (Magisterial District Court)",
+      "family_id": "civil-complaint",
+      "identity": "CIVIL COMPLAINT",
+      "max": 1
+    },
+    {
+      "pattern": "landlordtenantcomplaint.*pdf",
+      "title": "Landlord/Tenant Complaint",
+      "family_id": "landlord-tenant-complaint",
+      "identity": "LANDLORD.*TENANT.*COMPLAINT",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.pacourts.us/forms/for-the-public",
+    "final_url": "https://www.pacourts.us/forms/for-the-public",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:05:32.058Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": "17415",
+    "sha256": "c3613f9137a528491f2aa40c60552f7c685c02fabe72567786894ac14f16b8d3",
+    "title": "For the Public | Forms | Unified Judicial System of Pennsylvania",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-03/02-pennsylvania-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.pacourts.us/forms/for-the-public",
+      "final_url": "https://www.pacourts.us/forms/for-the-public",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:05:32.058Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": "17415",
+      "sha256": "c3613f9137a528491f2aa40c60552f7c685c02fabe72567786894ac14f16b8d3",
+      "title": "For the Public | Forms | Unified Judicial System of Pennsylvania",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "civilcomplaint.*pdf",
+      "title": "Civil Complaint (Magisterial District Court)",
+      "family_id": "civil-complaint",
+      "identity": "CIVIL COMPLAINT",
+      "max": 1,
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221034-220311-civilcomplaint-000771.pdf",
+      "link_text": "‌\n                    \n                    \n‌Civil Complaint",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221034-220311-civilcomplaint-000771.pdf",
+        "final_url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221034-220311-civilcomplaint-000771.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:05:36.863Z",
+        "etag": "\"c7566a78ac63db1:0\"",
+        "last_modified": "Fri, 10 Jan 2025 22:10:34 GMT",
+        "content_length": "860788",
+        "sha256": "b098291428530b7fb0164ab5458d6bef317a9daa47b218b0e6ed4519d9bc9857",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221034-220311-civilcomplaint-000771.pdf",
+          "final_url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221034-220311-civilcomplaint-000771.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:05:36.863Z",
+          "etag": "\"c7566a78ac63db1:0\"",
+          "last_modified": "Fri, 10 Jan 2025 22:10:34 GMT",
+          "content_length": "860788",
+          "sha256": "b098291428530b7fb0164ab5458d6bef317a9daa47b218b0e6ed4519d9bc9857",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "b098291428530b7fb0164ab5458d6bef317a9daa47b218b0e6ed4519d9bc9857",
+      "local_archive_path": "archive/2026-10-14-03/02-civil-complaint-magisterial-district-court-b09829142853.pdf",
+      "bytes": 860788,
+      "text_length": 2097,
+      "pages": 1,
+      "identity_excerpt": "CIVIL COMPLAINTCOMMONWEALTH OF PENNSYLVANIA COUNTY OF DEFENDANT: Mag. Dist. No: MDJ Name: Address: Telephone: PLAINTIFF: NAME and ADDRESS NAME and ADDRESS V. AMOUNT DATE PAID FILING COSTS $ POSTAGE $ SERVICE COSTS $ CONSTABLE ED. $ TOTAL $ Docket No: Case Filed: Pa.R.Civ.P.M.D.J. 206 sets forth those costs recoverable by the prevailing party. To The Defendant: The above named plaintiff(s) asks judgment against you for $__________________ together with costs upon the following claim (Civil fines must include citation of the statute or ordinance violated): AOPC 308A www.pacourts.us/language-rights FREE INTERPRETER1 Please see the attached Hearing Notice for important information about appearing at the hearing and the opportunity to file a complaint against the plaintiff if you have a claim. See Pa.R.Civ.P.M.D.J. 305. If you have a claim against the plaintiff which is within the magisterial district judge jurisdiction and which you intend to assert at the hearing, you must file it on a complaint form at this office at least five days before the date set for the hearing. If you are disabled and require a reasonable accommodation to gain access to the Magisterial District Court and its services, please contact the Magisterial District Court at the above address or telephone number. We are unable to provide transportation. (Signature of Plaintiff or Authorized Agent) The plaintiff's attorney shall file an entry of appearance with the magisterial district court pursuant to Pa.R.Civ.P.M.D.J. 207.1 I, ______________________________________ verify that the facts set forth in this complaint are true and correct to the best of my knowledge, information, and belief. This statement is made subject to the penalties of Section 4904 of the Crimes Code (18 Pa.C.S. § 4904) related to unsw",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "landlordtenantcomplaint.*pdf",
+      "title": "Landlord/Tenant Complaint",
+      "family_id": "landlord-tenant-complaint",
+      "identity": "LANDLORD.*TENANT.*COMPLAINT",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "",
+      "url": "https://www.pacourts.us/"
+    },
+    {
+      "text": "Skip to Main Content",
+      "url": "https://www.pacourts.us/forms/for-the-public#maincontent"
+    },
+    {
+      "text": "ADA Compliance",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/americans-with-disabilities-act"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings/"
+    },
+    {
+      "text": "Login",
+      "url": "https://www.pacourts.us/login/"
+    },
+    {
+      "text": "User Profile",
+      "url": "https://www.pacourts.us/members/"
+    },
+    {
+      "text": "Opinions\n                                Search court opinions and postings",
+      "url": "https://www.pacourts.us/courts/supreme-court/court-opinions/"
+    },
+    {
+      "text": "Cases of Public Interest\n                                Find information on cases",
+      "url": "https://www.pacourts.us/news-and-statistics/cases-of-public-interest"
+    },
+    {
+      "text": "Court of Judicial Discipline\n                                New postings",
+      "url": "https://www.pacourts.us/courts/court-of-judicial-discipline/court-cases"
+    },
+    {
+      "text": "Docket Sheets\n                                Search, view and print court docket sheets",
+      "url": "https://ujsportal.pacourts.us/Home/CaseInformation"
+    },
+    {
+      "text": "Pay Traffic Ticket or Court Costs\n                                Securely pay fines, costs, and restitution",
+      "url": "https://ujsportal.pacourts.us/Home/PayOnline"
+    },
+    {
+      "text": "E-Filing\n                                Electronically file documents with the courts",
+      "url": "https://ujsportal.pacourts.us/PACFile/Overview"
+    },
+    {
+      "text": "Forms\n                                Access Unified Judicial System forms",
+      "url": "https://www.pacourts.us/forms"
+    },
+    {
+      "text": "Public Records\n                                Access public records and policies",
+      "url": "https://www.pacourts.us/public-records"
+    },
+    {
+      "text": "Contact Us\n                                Access Judiciary contact information",
+      "url": "https://www.pacourts.us/contact-us"
+    },
+    {
+      "text": "Careers\n                                Review open job listings",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings/"
+    },
+    {
+      "text": "Sign Up for Court News and Updates\n                                Sign Me Up",
+      "url": "https://www.pacourts.us/email-subscriptions"
+    },
+    {
+      "text": "Translation Disclaimer\n                                    Disclaimer",
+      "url": "https://www.pacourts.us/translation-disclaimer"
+    },
+    {
+      "text": "Menu",
+      "url": "https://www.pacourts.us/forms/for-the-public#menu-mobile"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.pacourts.us/forms/for-the-public#resource"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.pacourts.us/forms/for-the-public#search"
+    },
+    {
+      "text": "Courts",
+      "url": "https://www.pacourts.us/courts"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.pacourts.us/courts/supreme-court"
+    },
+    {
+      "text": "Supreme Court Justices",
+      "url": "https://www.pacourts.us/courts/supreme-court/supreme-court-justices"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/supreme-court/docket-sheets"
+    },
+    {
+      "text": "Court Opinions and Postings",
+      "url": "https://www.pacourts.us/courts/supreme-court/court-opinions"
+    },
+    {
+      "text": "Supreme Court Prothonotary's Addresses",
+      "url": "https://www.pacourts.us/courts/supreme-court/prothonotarys-addresses"
+    },
+    {
+      "text": "Calendar",
+      "url": "https://www.pacourts.us/courts/supreme-court/calendar"
+    },
+    {
+      "text": "Committees, Boards & Advisory Groups",
+      "url": "https://www.pacourts.us/courts/supreme-court/committees"
+    },
+    {
+      "text": "Superior Court",
+      "url": "https://www.pacourts.us/courts/superior-court"
+    },
+    {
+      "text": "Superior Court Judges",
+      "url": "https://www.pacourts.us/courts/superior-court/superior-court-judges"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/superior-court/docket-sheets"
+    },
+    {
+      "text": "Court Opinions",
+      "url": "https://www.pacourts.us/courts/superior-court/court-opinions"
+    },
+    {
+      "text": "Superior Court Prothonotary's Addresses",
+      "url": "https://www.pacourts.us/courts/superior-court/prothonotarys-addresses"
+    },
+    {
+      "text": "Calendar",
+      "url": "https://www.pacourts.us/courts/superior-court/calendar"
+    },
+    {
+      "text": "Commonwealth Court",
+      "url": "https://www.pacourts.us/courts/commonwealth-court"
+    },
+    {
+      "text": "Commonwealth Court Judges",
+      "url": "https://www.pacourts.us/courts/commonwealth-court-judges"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/commonwealth-court/docket-sheets"
+    },
+    {
+      "text": "Court Opinions and Postings",
+      "url": "https://www.pacourts.us/courts/commonwealth-court/court-opinions"
+    },
+    {
+      "text": "Commonwealth Court Prothonotary's Address",
+      "url": "https://www.pacourts.us/courts/commonwealth-court/commonwealth-court-prothonotarys-address"
+    },
+    {
+      "text": "Calendar",
+      "url": "https://www.pacourts.us/courts/commonwealth-court/calendar"
+    },
+    {
+      "text": "Courts of Common Pleas",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas"
+    },
+    {
+      "text": "Common Pleas President Judges",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/common-pleas-president-judges"
+    },
+    {
+      "text": "Common Pleas Judges",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/common-pleas-judges"
+    },
+    {
+      "text": "District Court Administrators",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/district-court-administrators"
+    },
+    {
+      "text": "Individual County Courts",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/individual-county-courts"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/docket-sheets"
+    },
+    {
+      "text": "Minor Courts",
+      "url": "https://www.pacourts.us/courts/minor-courts"
+    },
+    {
+      "text": "Magisterial District Judges",
+      "url": "https://www.pacourts.us/courts/minor-courts/magisterial-district-judges"
+    },
+    {
+      "text": "Philadelphia Municipal Court Judges",
+      "url": "https://www.pacourts.us/courts/minor-courts/philadelphia-municipal-court-judges"
+    },
+    {
+      "text": "Pittsburgh Municipal Court Judges",
+      "url": "https://www.pacourts.us/courts/minor-courts/pittsburgh-municipal-court-judges"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/minor-courts/docket-sheets"
+    },
+    {
+      "text": "Judicial Administration",
+      "url": "https://www.pacourts.us/judicial-administration"
+    },
+    {
+      "text": "Communications",
+      "url": "https://www.pacourts.us/judicial-administration/office-of-communications-and-intergovernmental-relations"
+    },
+    {
+      "text": "Information Technology",
+      "url": "https://www.pacourts.us/judicial-administration/judicial-automation"
+    },
+    {
+      "text": "Operations",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs"
+    },
+    {
+      "text": "Interpreter Program",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/interpreter-program"
+    },
+    {
+      "text": "Language Access",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/language-access-and-interpreter-program"
+    },
+    {
+      "text": "Office of Children & Families in the Courts",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-children-and-families-in-the-courts"
+    },
+    {
+      "text": "Treatment Courts",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/treatment-courts"
+    },
+    {
+      "text": "Elder Justice in the Courts",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-elder-justice-in-the-courts"
+    },
+    {
+      "text": "Office of Behavioral Health",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-behavioral-health"
+    },
+    {
+      "text": "Judicial District Security",
+      "url": "https://www.pacourts.us/judicial-administration/judicial-security"
+    },
+    {
+      "text": "Budget",
+      "url": "https://www.pacourts.us/judicial-administration/budget"
+    },
+    {
+      "text": "Human Resources",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources"
+    },
+    {
+      "text": "Benefits",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources/benefits"
+    },
+    {
+      "text": "Job Openings",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings"
+    },
+    {
+      "text": "Judicial Education",
+      "url": "https://www.pacourts.us/judicial-administration/judicial-education"
+    },
+    {
+      "text": "News & Statistics",
+      "url": "https://www.pacourts.us/news-and-statistics"
+    },
+    {
+      "text": "News",
+      "url": "https://www.pacourts.us/news-and-statistics/news"
+    },
+    {
+      "text": "Cases of Public Interest",
+      "url": "https://www.pacourts.us/news-and-statistics/cases-of-public-interest"
+    },
+    {
+      "text": "News Releases",
+      "url": "https://www.pacourts.us/news-and-statistics/news-releases"
+    },
+    {
+      "text": "Media Resources",
+      "url": "https://www.pacourts.us/news-and-statistics/media-resources"
+    },
+    {
+      "text": "Research & Statistics",
+      "url": "https://www.pacourts.us/news-and-statistics/research-and-statistics"
+    },
+    {
+      "text": "Reports",
+      "url": "https://www.pacourts.us/news-and-statistics/reports"
+    },
+    {
+      "text": "Archive",
+      "url": "https://www.pacourts.us/news-and-statistics/archived-resources"
+    },
+    {
+      "text": "Learn",
+      "url": "https://www.pacourts.us/learn"
+    },
+    {
+      "text": "Autism and the Courts",
+      "url": "https://www.pacourts.us/learn/autism-and-the-courts"
+    },
+    {
+      "text": "Human Trafficking",
+      "url": "https://www.pacourts.us/learn/human-trafficking"
+    },
+    {
+      "text": "Protection Orders",
+      "url": "https://www.pacourts.us/learn/protection-orders"
+    },
+    {
+      "text": "How the Courts Operate",
+      "url": "https://www.pacourts.us/learn/how-the-courts-operate"
+    },
+    {
+      "text": "History",
+      "url": "https://www.pacourts.us/learn/history"
+    },
+    {
+      "text": "How Judges Are Elected",
+      "url": "https://www.pacourts.us/learn/how-judges-are-elected"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.pacourts.us/learn/jury-duty"
+    },
+    {
+      "text": "Civics Outreach and Education",
+      "url": "https://www.pacourts.us/civics-ed"
+    },
+    {
+      "text": "Sexual Violence Awareness",
+      "url": "https://www.pacourts.us/sexual-violence-awareness"
+    },
+    {
+      "text": "Back to Top",
+      "url": "https://www.pacourts.us/forms/for-the-public#menu-mobile"
+    },
+    {
+      "text": "Courts",
+      "url": "https://www.pacourts.us/courts"
+    },
+    {
+      "text": "Cases of Public Interest",
+      "url": "https://www.pacourts.us/news-and-statistics/cases-of-public-interest"
+    },
+    {
+      "text": "Court News",
+      "url": "https://www.pacourts.us/news-and-statistics/news/"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "http://ujsportal.pacourts.us/CaseSearch"
+    },
+    {
+      "text": "Opinions",
+      "url": "https://www.pacourts.us/courts/supreme-court/court-opinions"
+    },
+    {
+      "text": "E-Filing",
+      "url": "https://ujsportal.pacourts.us/PACFile/Overview"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.pacourts.us/courts/supreme-court"
+    },
+    {
+      "text": "Supreme Court Justices",
+      "url": "https://www.pacourts.us/courts/supreme-court/supreme-court-justices"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/supreme-court/docket-sheets"
+    },
+    {
+      "text": "Court Opinions and Postings",
+      "url": "https://www.pacourts.us/courts/supreme-court/court-opinions"
+    },
+    {
+      "text": "Supreme Court Prothonotary's Addresses",
+      "url": "https://www.pacourts.us/courts/supreme-court/prothonotarys-addresses"
+    },
+    {
+      "text": "Calendar",
+      "url": "https://www.pacourts.us/courts/supreme-court/calendar"
+    },
+    {
+      "text": "Committees, Boards & Advisory Groups",
+      "url": "https://www.pacourts.us/courts/supreme-court/committees"
+    },
+    {
+      "text": "Superior Court",
+      "url": "https://www.pacourts.us/courts/superior-court"
+    },
+    {
+      "text": "Superior Court Judges",
+      "url": "https://www.pacourts.us/courts/superior-court/superior-court-judges"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/superior-court/docket-sheets"
+    },
+    {
+      "text": "Court Opinions",
+      "url": "https://www.pacourts.us/courts/superior-court/court-opinions"
+    },
+    {
+      "text": "Superior Court Prothonotary's Addresses",
+      "url": "https://www.pacourts.us/courts/superior-court/prothonotarys-addresses"
+    },
+    {
+      "text": "Calendar",
+      "url": "https://www.pacourts.us/courts/superior-court/calendar"
+    },
+    {
+      "text": "Commonwealth Court",
+      "url": "https://www.pacourts.us/courts/commonwealth-court"
+    },
+    {
+      "text": "Commonwealth Court Judges",
+      "url": "https://www.pacourts.us/courts/commonwealth-court-judges"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/commonwealth-court/docket-sheets"
+    },
+    {
+      "text": "Court Opinions and Postings",
+      "url": "https://www.pacourts.us/courts/commonwealth-court/court-opinions"
+    },
+    {
+      "text": "Commonwealth Court Prothonotary's Address",
+      "url": "https://www.pacourts.us/courts/commonwealth-court/commonwealth-court-prothonotarys-address"
+    },
+    {
+      "text": "Calendar",
+      "url": "https://www.pacourts.us/courts/commonwealth-court/calendar"
+    },
+    {
+      "text": "Courts of Common Pleas",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas"
+    },
+    {
+      "text": "Common Pleas President Judges",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/common-pleas-president-judges"
+    },
+    {
+      "text": "Common Pleas Judges",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/common-pleas-judges"
+    },
+    {
+      "text": "District Court Administrators",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/district-court-administrators"
+    },
+    {
+      "text": "Individual County Courts",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/individual-county-courts"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/docket-sheets"
+    },
+    {
+      "text": "Minor Courts",
+      "url": "https://www.pacourts.us/courts/minor-courts"
+    },
+    {
+      "text": "Magisterial District Judges",
+      "url": "https://www.pacourts.us/courts/minor-courts/magisterial-district-judges"
+    },
+    {
+      "text": "Philadelphia Municipal Court Judges",
+      "url": "https://www.pacourts.us/courts/minor-courts/philadelphia-municipal-court-judges"
+    },
+    {
+      "text": "Pittsburgh Municipal Court Judges",
+      "url": "https://www.pacourts.us/courts/minor-courts/pittsburgh-municipal-court-judges"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/minor-courts/docket-sheets"
+    },
+    {
+      "text": "Judicial Administration",
+      "url": "https://www.pacourts.us/judicial-administration"
+    },
+    {
+      "text": "Cases of Public Interest",
+      "url": "https://www.pacourts.us/news-and-statistics/cases-of-public-interest"
+    },
+    {
+      "text": "Court News",
+      "url": "https://www.pacourts.us/news-and-statistics/news/"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "http://ujsportal.pacourts.us/CaseSearch"
+    },
+    {
+      "text": "Opinions",
+      "url": "https://www.pacourts.us/courts/supreme-court/court-opinions"
+    },
+    {
+      "text": "E-Filing",
+      "url": "https://ujsportal.pacourts.us/PACFile/Overview"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings"
+    },
+    {
+      "text": "Communications",
+      "url": "https://www.pacourts.us/judicial-administration/office-of-communications-and-intergovernmental-relations"
+    },
+    {
+      "text": "Information Technology",
+      "url": "https://www.pacourts.us/judicial-administration/judicial-automation"
+    },
+    {
+      "text": "Operations",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs"
+    },
+    {
+      "text": "Interpreter Program",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/interpreter-program"
+    },
+    {
+      "text": "Language Access",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/language-access-and-interpreter-program"
+    },
+    {
+      "text": "Office of Children & Families in the Courts",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-children-and-families-in-the-courts"
+    },
+    {
+      "text": "Treatment Courts",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/treatment-courts"
+    },
+    {
+      "text": "Elder Justice in the Courts",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-elder-justice-in-the-courts"
+    },
+    {
+      "text": "Office of Behavioral Health",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-behavioral-health"
+    },
+    {
+      "text": "Judicial District Security",
+      "url": "https://www.pacourts.us/judicial-administration/judicial-security"
+    },
+    {
+      "text": "Budget",
+      "url": "https://www.pacourts.us/judicial-administration/budget"
+    },
+    {
+      "text": "Human Resources",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources"
+    },
+    {
+      "text": "Benefits",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources/benefits"
+    },
+    {
+      "text": "Job Openings",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings"
+    },
+    {
+      "text": "Judicial Education",
+      "url": "https://www.pacourts.us/judicial-administration/judicial-education"
+    },
+    {
+      "text": "News & Statistics",
+      "url": "https://www.pacourts.us/news-and-statistics"
+    },
+    {
+      "text": "News",
+      "url": "https://www.pacourts.us/news-and-statistics/news"
+    },
+    {
+      "text": "Cases of Public Interest",
+      "url": "https://www.pacourts.us/news-and-statistics/cases-of-public-interest"
+    },
+    {
+      "text": "News Releases",
+      "url": "https://www.pacourts.us/news-and-statistics/news-releases"
+    },
+    {
+      "text": "Media Resources",
+      "url": "https://www.pacourts.us/news-and-statistics/media-resources"
+    },
+    {
+      "text": "Research & Statistics",
+      "url": "https://www.pacourts.us/news-and-statistics/research-and-statistics"
+    },
+    {
+      "text": "Reports",
+      "url": "https://www.pacourts.us/news-and-statistics/reports"
+    },
+    {
+      "text": "Archive",
+      "url": "https://www.pacourts.us/news-and-statistics/archived-resources"
+    },
+    {
+      "text": "Learn",
+      "url": "https://www.pacourts.us/learn"
+    },
+    {
+      "text": "Autism and the Courts",
+      "url": "https://www.pacourts.us/learn/autism-and-the-courts"
+    },
+    {
+      "text": "Human Trafficking",
+      "url": "https://www.pacourts.us/learn/human-trafficking"
+    },
+    {
+      "text": "Protection Orders",
+      "url": "https://www.pacourts.us/learn/protection-orders"
+    },
+    {
+      "text": "How the Courts Operate",
+      "url": "https://www.pacourts.us/learn/how-the-courts-operate"
+    },
+    {
+      "text": "History",
+      "url": "https://www.pacourts.us/learn/history"
+    },
+    {
+      "text": "How Judges Are Elected",
+      "url": "https://www.pacourts.us/learn/how-judges-are-elected"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.pacourts.us/learn/jury-duty"
+    },
+    {
+      "text": "Civics Outreach and Education",
+      "url": "https://www.pacourts.us/civics-ed"
+    },
+    {
+      "text": "Sexual Violence Awareness",
+      "url": "https://www.pacourts.us/sexual-violence-awareness"
+    },
+    {
+      "text": "Back to Top",
+      "url": "https://www.pacourts.us/forms/for-the-public#menu-desktop"
+    },
+    {
+      "text": "Opinions\n                    Search court opinions and postings",
+      "url": "https://www.pacourts.us/courts/supreme-court/court-opinions/"
+    },
+    {
+      "text": "Cases of Public Interest\n                    Find information on cases",
+      "url": "https://www.pacourts.us/news-and-statistics/cases-of-public-interest"
+    },
+    {
+      "text": "Court of Judicial Discipline\n                    New postings",
+      "url": "https://www.pacourts.us/courts/court-of-judicial-discipline/court-cases"
+    },
+    {
+      "text": "Docket Sheets\n                    Search, view and print court docket sheets",
+      "url": "https://ujsportal.pacourts.us/Home/CaseInformation"
+    },
+    {
+      "text": "Pay Fine or Fees\n                    Securely pay fines, costs, and restitution",
+      "url": "https://ujsportal.pacourts.us/Home/PayOnline"
+    },
+    {
+      "text": "E-Filing\n                    Electronically file documents with the courts",
+      "url": "https://ujsportal.pacourts.us/PACFile/Overview"
+    },
+    {
+      "text": "Forms\n                    Access Unified Judicial System forms",
+      "url": "https://www.pacourts.us/forms"
+    },
+    {
+      "text": "Public Records\n                    Access public records and policies",
+      "url": "https://www.pacourts.us/public-records"
+    },
+    {
+      "text": "Contact Us\n                    Access Judiciary contact information",
+      "url": "https://www.pacourts.us/contact-us"
+    },
+    {
+      "text": "Careers\n                    Review open job listings",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings/"
+    },
+    {
+      "text": "Sign Up for Court News and Updates\n                    Sign Me Up",
+      "url": "https://www.pacourts.us/email-subscriptions"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.pacourts.us/"
+    },
+    {
+      "text": "Forms",
+      "url": "https://www.pacourts.us/forms"
+    },
+    {
+      "text": "Access Register of Wills and Orphans' Court forms",
+      "url": "https://www.pacourts.us/page/1598"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Administrative Office of Pennsylvania Courts Americans with Disabilities Act Policy",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/215530-administrativeofficeofpennsylvaniacourtsamericanswithdisabilitiesactpolicy-003961.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌AOPC request for reasonable accommodation form",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/215540-aopcrequestforreasonableaccommodationform-003959.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌AOPC ADA Grievance Form",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/215554-aopcadagrievanceform-003960.pdf"
+    },
+    {
+      "text": "your local county court",
+      "url": "https://www.pacourts.us/page/1178"
+    },
+    {
+      "text": "here",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/213216-file-214.pdf"
+    },
+    {
+      "text": "here",
+      "url": "https://www.pacourts.us/page/1386"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Notice of Appeal from Magisterial District Judge Judgment",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233058-215950-noticeofappealfrommagisterialdistrictjudgejudgment-000763.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Statement of Objection",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/215958-forcitizensappealsobjectionsstatementofobjection-000764.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233209-220005-tanonsection81008c2-000772.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233332-220014-tanonsection81013c2-000773.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234313-220022-tasection81008c2-000774.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234409-220034-tasection81013c2-000775.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Tenant Affidavit - Supplemental Instructions for Obtaining a Stay of Eviction",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20260115/193559-2026supplementalinstructionsheet.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Writ of Certiorari",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20221115/152116-220050-writofcertiorari-000174.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \nNotice of Appeals to the Superior / Commonwealth / Supreme Court",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20260630/222325-noticeofappealtosuperiorcommonwealthsupremecourt.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \nCover Sheet for Common Pleas Civil Filings",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/220154-cofcpcivilcoversheet-000768.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \nConfidential Information Form",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20250905/185404-205149-confidentialinformationformcif.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \nConfidential Document Form",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20250905/185431-205439-file-6575-confidentialdocumentform.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Civil Complaint",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221034-220311-civilcomplaint-000771.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Authorization of Representative",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20221115/152545-220318-authorizationofrepresentativeform317-003474.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Guardian's Notice of Intent to Represent Minor Party",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/220325-guardiansnoticeofintenttorepresentminorparty-009212.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Service Members Civil Relief Affidavit",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/220339-servicememberscivilreliefaffidavit-009940.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \nNotice of Intent to Defend",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/220621-noticeofintenttodefend.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \nNotice of Appeal (Automated Speed Enforcement – Active Work Zone)",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20240802/180324-135738-165555-workzonenoticeofappeal.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \nNotice of Appeal (School Bus Stop Arm Camera Enforcement)",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20240802/180207-schoolbusnoticeofappeal.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Request for Order of Execution",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20221115/153410-222417-requestfororderofexecution-004523.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Entry of Satisfaction",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20220126/195744-222451-entryofsatisfaction-004293.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Request for Entry of Satisfaction",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20220126/195813-222504-requestforentryofsatisfaction-008220.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Blank Expungement Order 490",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222539-blankexpungementorder4900311121-000064.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Blank Expungement Order 790",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222549-blankexpungementorder7900309121-000065.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Petition for Expungement Pursuant to Pa.R.Crim.P. 490",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222603-petitionforexpungement490030912-000076.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \nPetition for Expungement Pursuant to Pa.R.Crim.P. 790",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222612-petitionforexpungement790030912-000077.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Court of Common Pleas - Petition for Expungement",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/213843-file-6287.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Court of Common Pleas - Order Granting Petition for Truancy Expungement",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/213835-file-6288.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Magisterial District Court - Petition for Expungement",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/213825-file-6289.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Magisterial District Court - Order Granting Petition for Truancy Expungement",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/213820-file-6290.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \nRequest for Educational Best Interest Determination",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20261009/185023-requestforeducationalbestinterestdetermination.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Blank Limited Access Order 791",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/215133-file-5631.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Petition for Limited Access Pursuant to 791",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/215125-file-5632.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Court of Common Pleas – Motion to Proceed In Forma Pauperis",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/215517-file-6679.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Magisterial District Court – In Forma Pauperis Affidavit Petition",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/215527-file-6680.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Landlord and Tenant Complaint",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221209-235323-220318-file-71.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Authorization Of Representative",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20221115/152545-220318-authorizationofrepresentativeform317-003474.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233209-220005-tanonsection81008c2-000772.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233332-220014-tanonsection81013c2-000773.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234313-220022-tasection81008c2-000774.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234409-220034-tasection81013c2-000775.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Tenant Affidavit - Supplemental Instructions for Obtaining a Stay of Eviction",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20260115/193559-2026supplementalinstructionsheet.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Request for Determination of Abandonment",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/220322-file-3664.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Domestic Violence Affidavit",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20221101/000102-220328-file-10974.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Servicemembers Civil Relief Affidavit",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/220328-file-9940.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \nIntervention Request",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20250110/220842-interventionrequest.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Request for Order for Possession",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222809-requestfororderforpossession-004524.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Request for Transcript or Copy",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/221205-file-5813.pdf"
+    },
+    {
+      "text": "http://www.pacode.com/secure/data/201/chapter40/chap40toc.html",
+      "url": "http://www.pacode.com/secure/data/201/chapter40/chap40toc.html"
+    },
+    {
+      "text": "or a form prepared by the judicial district",
+      "url": "https://www.pacourts.us/page/1599"
+    },
+    {
+      "text": "‌\n                    \n                    \nNotice of Settlement with Stipulated Judgment",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20260331/202849-noticeofsettlementwithstipulatedjudgment.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \nNotice of Settlement without Stipulated Judgment",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20260331/202849-noticeofsettlementwithoutstipulatedjudgment.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Notice of Assignment of Judgment",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222843-noticeofassignmentjudgement-000784.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \nPrivate Criminal Complaint",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222925-privatecriminalcomplaint-000078.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Private Criminal Complaint",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222933-privatecriminalcomplaint-006375.docx"
+    },
+    {
+      "text": "How to Obtain a Civil Protection Order",
+      "url": "https://youtu.be/VuMMwgodAyY"
+    },
+    {
+      "text": "Prothonotary",
+      "url": "https://www.pacourts.us/page/1172"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Petition for Emergency Relief from Abuse",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223207-petitionforemergencyrelieffromabuse-002809.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Temporary Protection From Abuse Order",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223220-temporaryprotectionfromabuseorder-007706.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Petition for Protection from Abuse",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223233-petitionforprotectionfromabuse-007702.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Final Protection From Abuse Order",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223247-finalprotectionfromabuseorder-007704.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Notice of Hearing and Order",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223258-noticeofhearingandorder-007705.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Petition for Emergency Relief from Sexual Violence or Intimidation - English",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223334-petitionforemergencyrelieffromsexualviolenceorintimidationenglish-004531.pdf"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Petition for Protection from Sexual Violence and or Intimidation - English",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223341-petitionforprotectionfromsexualviolenceandorintimidationenglish-004533.pdf"
+    },
+    {
+      "text": "Cómo obtener una orden de protección civil",
+      "url": "https://youtu.be/uwsr9CdiKd4"
+    },
+    {
+      "text": "Protección contra Maltrato",
+      "url": "https://www.pacourts.us/page/1609"
+    },
+    {
+      "text": "Protección de Víctimas de Violencia Sexual y/o Intimidación",
+      "url": "https://www.pacourts.us/page/1620"
+    },
+    {
+      "text": "Protonotario",
+      "url": "https://www.pacourts.us/page/1172"
+    },
+    {
+      "text": "‌\n                    \n                    \n‌Notice of Appeal from Summary Criminal Conviction",
+      "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/223504-noticeofappealfromsummarycriminalconviction-003739.pdf"
+    },
+    {
+      "text": "â€Œ\n                                \n                                    Representing yourself in Pennsylvania\n                                    Forms and information for self-represented litigants",
+      "url": "https://www.pacourts.us/learn/representing-yourself"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings/"
+    },
+    {
+      "text": "Login",
+      "url": "https://www.pacourts.us/login/"
+    },
+    {
+      "text": "Courts",
+      "url": "https://www.pacourts.us/courts"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.pacourts.us/courts/supreme-court"
+    },
+    {
+      "text": "Supreme Court Justices",
+      "url": "https://www.pacourts.us/courts/supreme-court/supreme-court-justices"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/supreme-court/docket-sheets"
+    },
+    {
+      "text": "Court Opinions and Postings",
+      "url": "https://www.pacourts.us/courts/supreme-court/court-opinions"
+    },
+    {
+      "text": "Supreme Court Prothonotary's Addresses",
+      "url": "https://www.pacourts.us/courts/supreme-court/prothonotarys-addresses"
+    },
+    {
+      "text": "Calendar",
+      "url": "https://www.pacourts.us/courts/supreme-court/calendar"
+    },
+    {
+      "text": "Committees, Boards & Advisory Groups",
+      "url": "https://www.pacourts.us/courts/supreme-court/committees"
+    },
+    {
+      "text": "Superior Court",
+      "url": "https://www.pacourts.us/courts/superior-court"
+    },
+    {
+      "text": "Superior Court Judges",
+      "url": "https://www.pacourts.us/courts/superior-court/superior-court-judges"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/superior-court/docket-sheets"
+    },
+    {
+      "text": "Court Opinions",
+      "url": "https://www.pacourts.us/courts/superior-court/court-opinions"
+    },
+    {
+      "text": "Superior Court Prothonotary's Addresses",
+      "url": "https://www.pacourts.us/courts/superior-court/prothonotarys-addresses"
+    },
+    {
+      "text": "Calendar",
+      "url": "https://www.pacourts.us/courts/superior-court/calendar"
+    },
+    {
+      "text": "Commonwealth Court",
+      "url": "https://www.pacourts.us/courts/commonwealth-court"
+    },
+    {
+      "text": "Commonwealth Court Judges",
+      "url": "https://www.pacourts.us/courts/commonwealth-court-judges"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/commonwealth-court/docket-sheets"
+    },
+    {
+      "text": "Court Opinions and Postings",
+      "url": "https://www.pacourts.us/courts/commonwealth-court/court-opinions"
+    },
+    {
+      "text": "Commonwealth Court Prothonotary's Address",
+      "url": "https://www.pacourts.us/courts/commonwealth-court/commonwealth-court-prothonotarys-address"
+    },
+    {
+      "text": "Calendar",
+      "url": "https://www.pacourts.us/courts/commonwealth-court/calendar"
+    },
+    {
+      "text": "Courts of Common Pleas",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas"
+    },
+    {
+      "text": "Common Pleas President Judges",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/common-pleas-president-judges"
+    },
+    {
+      "text": "Common Pleas Judges",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/common-pleas-judges"
+    },
+    {
+      "text": "District Court Administrators",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/district-court-administrators"
+    },
+    {
+      "text": "Individual County Courts",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/individual-county-courts"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/courts-of-common-pleas/docket-sheets"
+    },
+    {
+      "text": "Minor Courts",
+      "url": "https://www.pacourts.us/courts/minor-courts"
+    },
+    {
+      "text": "Magisterial District Judges",
+      "url": "https://www.pacourts.us/courts/minor-courts/magisterial-district-judges"
+    },
+    {
+      "text": "Philadelphia Municipal Court Judges",
+      "url": "https://www.pacourts.us/courts/minor-courts/philadelphia-municipal-court-judges"
+    },
+    {
+      "text": "Pittsburgh Municipal Court Judges",
+      "url": "https://www.pacourts.us/courts/minor-courts/pittsburgh-municipal-court-judges"
+    },
+    {
+      "text": "Docket Sheets",
+      "url": "https://www.pacourts.us/courts/minor-courts/docket-sheets"
+    },
+    {
+      "text": "Judicial AdministrationAdministrative Office of Pennsylvania Courts",
+      "url": "https://www.pacourts.us/judicial-administration"
+    },
+    {
+      "text": "Communications",
+      "url": "https://www.pacourts.us/judicial-administration/office-of-communications-and-intergovernmental-relations"
+    },
+    {
+      "text": "Information Technology",
+      "url": "https://www.pacourts.us/judicial-administration/judicial-automation"
+    },
+    {
+      "text": "Operations",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs"
+    },
+    {
+      "text": "Language Access & Interpreter Program",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/language-access-and-interpreter-program"
+    },
+    {
+      "text": "Office of Children & Families in the Courts",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-children-and-families-in-the-courts"
+    },
+    {
+      "text": "Problem-Solving Courts",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/problem-solving-courts"
+    },
+    {
+      "text": "Elder Justice in the Courts",
+      "url": "https://www.pacourts.us/judicial-administration/court-programs/office-of-elder-justice-in-the-courts"
+    },
+    {
+      "text": "Judicial District Security",
+      "url": "https://www.pacourts.us/judicial-administration/judicial-security"
+    },
+    {
+      "text": "Budget",
+      "url": "https://www.pacourts.us/judicial-administration/budget"
+    },
+    {
+      "text": "Human Resources",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources"
+    },
+    {
+      "text": "Job Openings",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources/job-openings"
+    },
+    {
+      "text": "Benefits",
+      "url": "https://www.pacourts.us/judicial-administration/human-resources/benefits"
+    },
+    {
+      "text": "Judicial Education",
+      "url": "https://www.pacourts.us/judicial-administration/judicial-education"
+    },
+    {
+      "text": "News & Statistics",
+      "url": "https://www.pacourts.us/news-and-statistics"
+    },
+    {
+      "text": "News",
+      "url": "https://www.pacourts.us/news-and-statistics/news"
+    },
+    {
+      "text": "Cases of Public Interest",
+      "url": "https://www.pacourts.us/news-and-statistics/cases-of-public-interest"
+    },
+    {
+      "text": "News Releases",
+      "url": "https://www.pacourts.us/news-and-statistics/news-releases"
+    },
+    {
+      "text": "Media Resources",
+      "url": "https://www.pacourts.us/news-and-statistics/media-resources"
+    },
+    {
+      "text": "Research & Statistics",
+      "url": "https://www.pacourts.us/news-and-statistics/research-and-statistics"
+    },
+    {
+      "text": "Reports",
+      "url": "https://www.pacourts.us/news-and-statistics/reports"
+    },
+    {
+      "text": "Archive",
+      "url": "https://www.pacourts.us/news-and-statistics/archived-resources"
+    },
+    {
+      "text": "Learn",
+      "url": "https://www.pacourts.us/learn"
+    },
+    {
+      "text": "Autism and the Courts",
+      "url": "https://www.pacourts.us/learn/autism-and-the-courts"
+    },
+    {
+      "text": "Human Trafficking",
+      "url": "https://www.pacourts.us/learn/human-trafficking"
+    },
+    {
+      "text": "Protection Orders",
+      "url": "https://www.pacourts.us/learn/protection-orders"
+    },
+    {
+      "text": "How the Courts Operate",
+      "url": "https://www.pacourts.us/learn/how-the-courts-operate"
+    },
+    {
+      "text": "History",
+      "url": "https://www.pacourts.us/learn/history"
+    },
+    {
+      "text": "How Judges Are Elected",
+      "url": "https://www.pacourts.us/learn/how-judges-are-elected"
+    },
+    {
+      "text": "FAQs",
+      "url": "https://www.pacourts.us/learn/faqs"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.pacourts.us/learn/jury-duty"
+    },
+    {
+      "text": "Submit comments and inquiries ‌",
+      "url": "https://www.pacourts.us/comments-and-inquiries"
+    },
+    {
+      "text": "‌",
+      "url": "https://itunes.apple.com/app/paedocket/id943932164"
+    },
+    {
+      "text": "‌",
+      "url": "https://ujsportal.pacourts.us/ePay.aspx"
+    },
+    {
+      "text": "‌",
+      "url": "https://ujsportal.pacourts.us/PACFile.aspx"
+    },
+    {
+      "text": "Contact Us ‌",
+      "url": "https://www.pacourts.us/contact-us"
+    },
+    {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/maps?t=m&q=Pennsylvania+Judicial+Center,+Commonwealth+Avenue,+Harrisburg,+PA"
+    },
+    {
+      "text": "‌",
+      "url": "https://www.facebook.com/pennsylvaniacourts"
+    },
+    {
+      "text": "‌",
+      "url": "https://x.com/pacourts"
+    },
+    {
+      "text": "‌",
+      "url": "https://www.youtube.com/channel/UCR7oiMya78Iixm8XFjQ3ctQ"
+    },
+    {
+      "text": "‌",
+      "url": "https://bsky.app/profile/pacourts.bsky.social"
+    },
+    {
+      "text": "‌",
+      "url": "https://itunes.apple.com/app/paedocket/id943932164"
+    },
+    {
+      "text": "‌",
+      "url": "https://ujsportal.pacourts.us/ePay.aspx"
+    },
+    {
+      "text": "‌",
+      "url": "https://ujsportal.pacourts.us/PACFile.aspx"
+    }
+  ]
+}

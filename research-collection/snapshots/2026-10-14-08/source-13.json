@@ -1,0 +1,480 @@
+{
+  "state": "Nevada",
+  "publisher": "Nevada State Self-Help Center",
+  "url": "https://selfhelp.nvcourts.gov/forms/probate-forms",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "affidavit-entitlement-pdf-fillable\\.pdf",
+      "title": "Affidavit of Entitlement",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT OF ENTITLEMENT",
+      "max": 1
+    },
+    {
+      "pattern": "Probate-Generic-Petition-fillable\\.pdf",
+      "title": "Generic Probate Petition",
+      "family_id": "probate-petition",
+      "identity": "PETITION",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://selfhelp.nvcourts.gov/forms/probate-forms",
+    "final_url": "https://selfhelp.nvcourts.gov/forms/probate-forms",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:40:08.782Z",
+    "etag": null,
+    "last_modified": "Wed, 14 Oct 2026 09:40:08 GMT",
+    "content_length": null,
+    "sha256": "b79693c0796e7e636b2b1f9702579d4b6f4db95d1f5639c292364389ee6a4bd9",
+    "title": "State of Nevada Self-Help Center - Probate Forms",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/13-nevada-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://selfhelp.nvcourts.gov/forms/probate-forms",
+      "final_url": "https://selfhelp.nvcourts.gov/forms/probate-forms",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:40:08.782Z",
+      "etag": null,
+      "last_modified": "Wed, 14 Oct 2026 09:40:08 GMT",
+      "content_length": null,
+      "sha256": "b79693c0796e7e636b2b1f9702579d4b6f4db95d1f5639c292364389ee6a4bd9",
+      "title": "State of Nevada Self-Help Center - Probate Forms",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "affidavit-entitlement-pdf-fillable\\.pdf",
+      "title": "Affidavit of Entitlement",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT OF ENTITLEMENT",
+      "max": 1,
+      "url": "https://selfhelp.nvcourts.gov/images/probate/affidavit-entitlement-pdf-fillable.pdf",
+      "link_text": "Affidavit of Entitlement (pdf fillable)",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://selfhelp.nvcourts.gov/images/probate/affidavit-entitlement-pdf-fillable.pdf",
+        "final_url": "https://selfhelp.nvcourts.gov/images/probate/affidavit-entitlement-pdf-fillable.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:09.091Z",
+        "etag": "\"6a984049-9765\"",
+        "last_modified": "Wed, 02 Sep 2026 15:27:05 GMT",
+        "content_length": "38757",
+        "sha256": "a826de42660511df11725ac07523c098b0f42f8b0ef22f4cd1f4aa8adebca01d",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://selfhelp.nvcourts.gov/images/probate/affidavit-entitlement-pdf-fillable.pdf",
+          "final_url": "https://selfhelp.nvcourts.gov/images/probate/affidavit-entitlement-pdf-fillable.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:09.091Z",
+          "etag": "\"6a984049-9765\"",
+          "last_modified": "Wed, 02 Sep 2026 15:27:05 GMT",
+          "content_length": "38757",
+          "sha256": "a826de42660511df11725ac07523c098b0f42f8b0ef22f4cd1f4aa8adebca01d",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "a826de42660511df11725ac07523c098b0f42f8b0ef22f4cd1f4aa8adebca01d",
+      "local_archive_path": "archive/2026-10-14-08/13-affidavit-of-entitlement-a826de426605.pdf",
+      "bytes": 38757,
+      "text_length": 3618,
+      "pages": 1,
+      "identity_excerpt": "□ □ __________________________________________________________________________________________ __________________________________________________________________________________________ AFFIDAVIT OF ENTITLEMENT FOR ESTATES PURSUANT TO NRS 146.080 STATE OF _____________ ) ) COUNTY OF ___________ ) I, (your name) _________________________________, residing at the address listed below, being first duly sworn upon oath, hereby affirm: Decedent (insert decedent’s name) _____________________________________ died in the County of (insert county of death) ____________________, State of (insert state of death) ____________________, on the (insert date of death) _____ day of _______________, 20___, being a resident of the State of (insert state where decedent lived at time of death) ____________________, leaving an estate in the County of Clark, State of Nevada. Decedent’s estate did not include real property nor a lien thereon. I affirm that (check one box): I am the surviving spouse of the decedent and the gross value of the estate, except amounts due the decedent for services in the Armed Forces of the United States or the value of any motor vehicles registered to decedent, is not in excess of $150,000.00. I am not the surviving spouse of the decedent, but I am the person who has a right to succeed the property of the decedent, or I am a beneficiary of the decedent’s Last Will and Testament, and the gross value of the estate, except amounts due the decedent for services in the Armed Forces of the United States or the value of any motor vehicles registered to decedent, is not in excess of $25,000.00. Decedent’s estate consists of the following: (Write the assets you need transferred, such as: bank account, stock certificate, insurance proceeds, payroll check, etc., and the port",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "Probate-Generic-Petition-fillable\\.pdf",
+      "title": "Generic Probate Petition",
+      "family_id": "probate-petition",
+      "identity": "PETITION",
+      "max": 1,
+      "url": "https://selfhelp.nvcourts.gov/images/probate/Probate-Generic-Petition-fillable.pdf",
+      "link_text": "Generic Probate Petition (pdf fillable)",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://selfhelp.nvcourts.gov/images/probate/Probate-Generic-Petition-fillable.pdf",
+        "final_url": "https://selfhelp.nvcourts.gov/images/probate/Probate-Generic-Petition-fillable.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:09.342Z",
+        "etag": "\"6a99f53c-b122\"",
+        "last_modified": "Thu, 03 Sep 2026 22:31:24 GMT",
+        "content_length": "45346",
+        "sha256": "6439dcd42f3757a8352f3f027d80ef26a849a7919994eca79a338e7488ccbe9f",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://selfhelp.nvcourts.gov/images/probate/Probate-Generic-Petition-fillable.pdf",
+          "final_url": "https://selfhelp.nvcourts.gov/images/probate/Probate-Generic-Petition-fillable.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:09.342Z",
+          "etag": "\"6a99f53c-b122\"",
+          "last_modified": "Thu, 03 Sep 2026 22:31:24 GMT",
+          "content_length": "45346",
+          "sha256": "6439dcd42f3757a8352f3f027d80ef26a849a7919994eca79a338e7488ccbe9f",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "6439dcd42f3757a8352f3f027d80ef26a849a7919994eca79a338e7488ccbe9f",
+      "local_archive_path": "archive/2026-10-14-08/13-generic-probate-petition-6439dcd42f37.pdf",
+      "bytes": 45346,
+      "text_length": 3499,
+      "pages": 2,
+      "identity_excerpt": "___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ FILING CODE: _____________ Your Name: Address: City, State, Zip: Telephone: Email Address: DISTRICT COURT _______________ COUNTY, NEVADA In the Matter of the Estate of: _______________________________________, Deceased. CASE NO.: ____________________ DEPT: ____________________ PETITION FOR (write a short title describing what you are asking the judge to order) 1. Petitioner (your name) respectfully represent that I am requsting the following relief and/or Order from the Court regarding this Estate: (explain what you want the Court to order) © 2025 Nevada Supreme Court Page 1 of 2 – Generic Probate Petition ___________________________________________________________________________ ___________________________________________________________________________ ______________________________________________",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip Navigation",
+      "url": "https://selfhelp.nvcourts.gov/forms/probate-forms#mainContent"
+    },
+    {
+      "text": "Home",
+      "url": "https://selfhelp.nvcourts.gov/"
+    },
+    {
+      "text": "Self-Help",
+      "url": "https://selfhelp.nvcourts.gov/self-help"
+    },
+    {
+      "text": "Getting Started",
+      "url": "https://selfhelp.nvcourts.gov/self-help/getting-started"
+    },
+    {
+      "text": "Divorce",
+      "url": "https://selfhelp.nvcourts.gov/self-help/divorce"
+    },
+    {
+      "text": "Custody Paternity & Child Support",
+      "url": "https://selfhelp.nvcourts.gov/self-help/custody-paternity-child-support"
+    },
+    {
+      "text": "Annulment",
+      "url": "https://selfhelp.nvcourts.gov/self-help/annulment"
+    },
+    {
+      "text": "Going to Court",
+      "url": "https://selfhelp.nvcourts.gov/self-help/going-to-court"
+    },
+    {
+      "text": "Guardianship",
+      "url": "https://selfhelp.nvcourts.gov/self-help/guardianship"
+    },
+    {
+      "text": "Probate",
+      "url": "https://selfhelp.nvcourts.gov/self-help/probate"
+    },
+    {
+      "text": "Adoption & Termination of Parental Rights",
+      "url": "https://selfhelp.nvcourts.gov/self-help/adoption-termination-of-parental-rights"
+    },
+    {
+      "text": "Name Changes",
+      "url": "https://selfhelp.nvcourts.gov/self-help/name-changes"
+    },
+    {
+      "text": "Protection Orders",
+      "url": "https://selfhelp.nvcourts.gov/self-help/temporary-protection-orders"
+    },
+    {
+      "text": "Appeals",
+      "url": "https://selfhelp.nvcourts.gov/self-help/appeals"
+    },
+    {
+      "text": "Other Topics",
+      "url": "https://selfhelp.nvcourts.gov/self-help/other-topics"
+    },
+    {
+      "text": "DIY Forms",
+      "url": "https://selfhelp.nvcourts.gov/self-help/diy"
+    },
+    {
+      "text": "Find My Court",
+      "url": "https://selfhelp.nvcourts.gov/find-my-court?view=map"
+    },
+    {
+      "text": "Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms"
+    },
+    {
+      "text": "Divorce Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/divorce-forms"
+    },
+    {
+      "text": "Custody Paternity & Child Support Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/custody-paternity-child-support-forms"
+    },
+    {
+      "text": "Separate Maintenance Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/legal-separation-forms"
+    },
+    {
+      "text": "Annulment Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/annulment-forms"
+    },
+    {
+      "text": "Name Change Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/name-change-forms"
+    },
+    {
+      "text": "Guardianship Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/guardianship-forms"
+    },
+    {
+      "text": "Probate Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/probate-forms"
+    },
+    {
+      "text": "Adoption & Termination of Parental Rights Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/adoption-termination-of-parental-rights-forms"
+    },
+    {
+      "text": "Miscellaneous Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/miscellaneous-forms"
+    },
+    {
+      "text": "Motions & Oppositions",
+      "url": "https://selfhelp.nvcourts.gov/forms/motions-oppositions"
+    },
+    {
+      "text": "Protection Orders",
+      "url": "https://selfhelp.nvcourts.gov/forms/temporary-protection-orders"
+    },
+    {
+      "text": "Court Forms, Fees, and Waivers",
+      "url": "https://selfhelp.nvcourts.gov/court-forms-fees-and-waivers"
+    },
+    {
+      "text": "Getting Started",
+      "url": "https://selfhelp.nvcourts.gov/self-help/getting-started"
+    },
+    {
+      "text": "Find My Court",
+      "url": "https://selfhelp.nvcourts.gov/find-my-court?view=map"
+    },
+    {
+      "text": "State of Nevada   Self-Help Center",
+      "url": "https://selfhelp.nvcourts.gov/"
+    },
+    {
+      "text": "FAQS",
+      "url": "https://selfhelp.nvcourts.gov/faq"
+    },
+    {
+      "text": "Find Legal Help",
+      "url": "https://selfhelp.nvcourts.gov/self-help/getting-started/lawyers-and-legal-help"
+    },
+    {
+      "text": "Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms"
+    },
+    {
+      "text": "Menu",
+      "url": "https://selfhelp.nvcourts.gov/forms/probate-forms#navWrap"
+    },
+    {
+      "text": "Home",
+      "url": "https://selfhelp.nvcourts.gov/"
+    },
+    {
+      "text": "Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms"
+    },
+    {
+      "text": "Adobe Reader",
+      "url": "http://get.adobe.com/reader/"
+    },
+    {
+      "text": "Basics of Court Forms",
+      "url": "https://selfhelp.nvcourts.gov/self-help/getting-started/court-forms-fees-and-waivers/basics-of-court-forms"
+    },
+    {
+      "text": "Probate",
+      "url": "https://selfhelp.nvcourts.gov/pro"
+    },
+    {
+      "text": "Affidavit of Entitlement (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/affidavit-entitlement-pdf-fillable.pdf"
+    },
+    {
+      "text": "Affidavit of Entitlement (pdf)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/affidavit-entitlement-pdf.pdf"
+    },
+    {
+      "text": "Civil Cover Sheet - Probate (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/misc/coversheet-civil-fillable.pdf"
+    },
+    {
+      "text": "Request for Submission - Probate (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/probate-request-submission-fillable.pdf"
+    },
+    {
+      "text": "Generic Probate Petition (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/Probate-Generic-Petition-fillable.pdf"
+    },
+    {
+      "text": "Consent to Ex Parte Petition (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/Probate-Consent-pdf-fillable.pdf"
+    },
+    {
+      "text": "Consent to Ex Parte Petition (pdf)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/Probate-Consent-pdf.pdf"
+    },
+    {
+      "text": "Ex Parte Petition for Cremation (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/Cremation-Petition-pdf-fillable.pdf"
+    },
+    {
+      "text": "Ex Parte Petition for Order Directing Transfer of Property (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/Direct-Transfer-pdf-fillable.pdf"
+    },
+    {
+      "text": "Ex Parte Petition for Order to Release Medical Records (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/Medical-Records-Petition-pdf-fillable.pdf"
+    },
+    {
+      "text": "Ex Parte Petition for Order to Open Safe Deposit Box (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/Safe-Deposit-Petition-pdf-fillable.pdf"
+    },
+    {
+      "text": "Petition to Set Aside Estate",
+      "url": "https://selfhelp.nvcourts.gov/pro/small-estates/set-aside"
+    },
+    {
+      "text": "Petition to Set Aside Estate Without Administration - No Will (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/set-aside-petition-no-will-fillable.pdf"
+    },
+    {
+      "text": "Petition to Prove Will and Set Aside Estate Without Administration - Will (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/set-aside-petition-will-fillable.pdf"
+    },
+    {
+      "text": "Notice of Hearing (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/set-aside-notice-hearing-fillable.pdf"
+    },
+    {
+      "text": "Certificate of Mailing - Set Aside (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/set-aside-com-fillable.pdf"
+    },
+    {
+      "text": "Special Administrators",
+      "url": "https://selfhelp.nvcourts.gov/pro/special-administrators"
+    },
+    {
+      "text": "Petition for Letters of Special Administration (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/Special-Adminstrator-Petition-pdf-fillable.pdf"
+    },
+    {
+      "text": "Nomination of Special Administrator (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/Special-Administrator-Nomination-pdf-fillable.pdf"
+    },
+    {
+      "text": "Nomination of Special Administrator (pdf)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/Special-Administrator-Nomination-pdf.pdf"
+    },
+    {
+      "text": "Letters of Special Administration (pdf fillable)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/Special-Administrator-Letters-pdf-fillable.pdf"
+    },
+    {
+      "text": "Letters of Special Administration (pdf)",
+      "url": "https://selfhelp.nvcourts.gov/images/probate/Special-Administrator-Letters-pdf.pdf"
+    },
+    {
+      "text": "Divorce Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/divorce-forms"
+    },
+    {
+      "text": "Custody Paternity & Child Support Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/custody-paternity-child-support-forms"
+    },
+    {
+      "text": "Separate Maintenance Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/legal-separation-forms"
+    },
+    {
+      "text": "Annulment Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/annulment-forms"
+    },
+    {
+      "text": "Name Change Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/name-change-forms"
+    },
+    {
+      "text": "Guardianship Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/guardianship-forms"
+    },
+    {
+      "text": "Probate Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/probate-forms"
+    },
+    {
+      "text": "Adoption & Termination of Parental Rights Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/adoption-termination-of-parental-rights-forms"
+    },
+    {
+      "text": "Miscellaneous Forms",
+      "url": "https://selfhelp.nvcourts.gov/forms/miscellaneous-forms"
+    },
+    {
+      "text": "Motions & Oppositions",
+      "url": "https://selfhelp.nvcourts.gov/forms/motions-oppositions"
+    },
+    {
+      "text": "Protection Orders",
+      "url": "https://selfhelp.nvcourts.gov/forms/temporary-protection-orders"
+    },
+    {
+      "text": "Clark CountyFamily Law Self-Help",
+      "url": "http://www.familylawselfhelpcenter.org/"
+    },
+    {
+      "text": "Clark CountyCivil Law Self-Help",
+      "url": "http://www.civillawselfhelpcenter.org/"
+    },
+    {
+      "text": "Washoe CountySelf-Help",
+      "url": "http://www.washoecourts.com/"
+    },
+    {
+      "text": "State of Nevada Self-Help Center - Probate Forms",
+      "url": "https://selfhelp.nvcourts.gov/"
+    },
+    {
+      "text": "Find Legal Help",
+      "url": "https://selfhelp.nvcourts.gov/self-help/getting-started/lawyers-and-legal-help"
+    },
+    {
+      "text": "PROOF",
+      "url": "https://www.proofinteractive.com/"
+    }
+  ]
+}

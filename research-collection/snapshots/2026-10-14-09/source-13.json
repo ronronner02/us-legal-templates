@@ -1,0 +1,193 @@
+{
+  "state": "Texas",
+  "publisher": "Texas Health and Human Services",
+  "url": "https://fhb.hhs.texas.gov/forms/advance-directives/statutory-durable-power-attorney-sdpoa",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "/SDPOA\\.docx",
+      "title": "Statutory Durable Power of Attorney",
+      "family_id": "financial-power-of-attorney",
+      "identity": "STATUTORY DURABLE POWER OF ATTORNEY"
+    }
+  ],
+  "source": {
+    "url": "https://fhb.hhs.texas.gov/forms/advance-directives/statutory-durable-power-attorney-sdpoa",
+    "final_url": "https://fhb.hhs.texas.gov/forms/advance-directives/statutory-durable-power-attorney-sdpoa",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:59:07.332Z",
+    "etag": "\"1791953649-gzip\"",
+    "last_modified": "Wed, 14 Oct 2026 04:54:09 GMT",
+    "content_length": "5736",
+    "sha256": "6ef027be877c074db54b434d46214b25e36bfe7e5361c6617f1dad05f0aa205a",
+    "title": "Statutory Durable Power of Attorney (SDPOA) | Forms and Handbooks",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-09/13-texas-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://fhb.hhs.texas.gov/forms/advance-directives/statutory-durable-power-attorney-sdpoa",
+      "final_url": "https://fhb.hhs.texas.gov/forms/advance-directives/statutory-durable-power-attorney-sdpoa",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:59:07.332Z",
+      "etag": "\"1791953649-gzip\"",
+      "last_modified": "Wed, 14 Oct 2026 04:54:09 GMT",
+      "content_length": "5736",
+      "sha256": "6ef027be877c074db54b434d46214b25e36bfe7e5361c6617f1dad05f0aa205a",
+      "title": "Statutory Durable Power of Attorney (SDPOA) | Forms and Handbooks",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "/SDPOA\\.docx",
+      "title": "Statutory Durable Power of Attorney",
+      "family_id": "financial-power-of-attorney",
+      "identity": "STATUTORY DURABLE POWER OF ATTORNEY",
+      "url": "https://fhb.hhs.texas.gov/sites/default/files/documents/laws-regulations/forms/SDPOA/SDPOA.docx",
+      "link_text": "SDPOA.docx",
+      "format": "docx",
+      "receipt": {
+        "url": "https://fhb.hhs.texas.gov/sites/default/files/documents/laws-regulations/forms/SDPOA/SDPOA.docx",
+        "final_url": "https://fhb.hhs.texas.gov/sites/default/files/documents/laws-regulations/forms/SDPOA/SDPOA.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-14T09:59:07.800Z",
+        "etag": null,
+        "last_modified": "Wed, 08 Jul 2026 22:02:54 GMT",
+        "content_length": null,
+        "sha256": "4e6a0c99de27bb9a9af0e7fe538d59d2a47e155f5d646cfc3d2675581ada0a11",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://fhb.hhs.texas.gov/sites/default/files/documents/laws-regulations/forms/SDPOA/SDPOA.docx",
+          "final_url": "https://fhb.hhs.texas.gov/sites/default/files/documents/laws-regulations/forms/SDPOA/SDPOA.docx",
+          "http_status": 200,
+          "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "retrieved_at": "2026-10-14T09:59:07.800Z",
+          "etag": null,
+          "last_modified": "Wed, 08 Jul 2026 22:02:54 GMT",
+          "content_length": null,
+          "sha256": "4e6a0c99de27bb9a9af0e7fe538d59d2a47e155f5d646cfc3d2675581ada0a11",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "4e6a0c99de27bb9a9af0e7fe538d59d2a47e155f5d646cfc3d2675581ada0a11",
+      "local_archive_path": "archive/2026-10-14-09/13-statutory-durable-power-of-attorney-4e6a0c99de27.docx",
+      "bytes": 66655,
+      "text_length": 10443,
+      "identity_excerpt": "STATUTORY DURABLE POWER OF ATTORNEY NOTICE: THE POWERS GRANTED BY THIS DOCUMENT ARE BROAD AND SWEEPING. THEY ARE EXPLAINED IN THE DURABLE POWER OF ATTORNEY ACT, SUBTITLE P, TITLE 2, ESTATES CODE. IF YOU HAVE ANY QUESTIONS ABOUT THESE POWERS, OBTAIN COMPETENT LEGAL ADVICE. THIS DOCUMENT DOES NOT AUTHORIZE ANYONE TO MAKE MEDICAL AND OTHER HEALTH-CARE DECISIONS FOR YOU. YOU MAY REVOKE THIS POWER OF ATTORNEY IF YOU LATER WISH TO DO SO. IF YOU WANT YOUR AGENT TO HAVE THE AUTHORITY TO SIGN HOME EQUITY LOAN DOCUMENTS ON YOUR BEHALF, THIS POWER OF ATTORNEY MUST BE SIGNED BY YOU AT THE OFFICE OF THE LENDER, AN ATTORNEY AT LAW, OR A TITLE COMPANY. You should select someone you trust to serve as your agent. Unless you specify otherwise, generally the agent’s authority will continue until: you die or revoke the power of attorney; your agent resigns, is removed by court order, or is unable to act for you; or a guardian is appointed for your estate. I, (insert your name and address), appoint (insert the name and address of the person appointed) as my agent to act for me in any lawful way with respect to all of the following powers that I have initialed below. (YOU MAY APPOINT CO-AGENTS. UNLESS YOU PROVIDE OTHERWISE, CO-AGENTS MAY ACT INDEPENDENTLY.) TO GRANT ALL OF THE FOLLOWING POWERS, INITIAL THE LINE IN FRONT OF (O) AND IGNORE THE LINES IN FRONT OF THE OTHER POWERS LISTED IN (A) THROUGH (N). TO GRANT A POWER, YOU MUST INITIAL THE LINE IN FRONT OF THE POWER YOU ARE GRANTING. TO WITHHOLD A POWER, DO NOT INITIAL THE LINE IN FRONT OF THE POWER. YOU MAY, BUT DO NOT NEED TO, CROSS OUT EACH POWER WITHHELD. _____ (A) Real property transactions; _____ (B) Tangible personal property transactions; _____ (C) Stock and bond transactions; _____ (D) Commodity and option transactions; _____ (E) B",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://fhb.hhs.texas.gov/forms/advance-directives/statutory-durable-power-attorney-sdpoa#main"
+    },
+    {
+      "text": "",
+      "url": "https://www.hhs.texas.gov/"
+    },
+    {
+      "text": "An official Texas Health and Human Services website.",
+      "url": "https://www.hhs.texas.gov/"
+    },
+    {
+      "text": "HHS Providers Home",
+      "url": "https://www.hhs.texas.gov/providers"
+    },
+    {
+      "text": "Forms and Handbooks",
+      "url": "https://fhb.hhs.texas.gov/"
+    },
+    {
+      "text": "Forms",
+      "url": "https://fhb.hhs.texas.gov/forms"
+    },
+    {
+      "text": "Handbooks",
+      "url": "https://fhb.hhs.texas.gov/handbooks"
+    },
+    {
+      "text": "Advance Directives",
+      "url": "https://fhb.hhs.texas.gov/forms/advance-directives"
+    },
+    {
+      "text": "Home",
+      "url": "https://fhb.hhs.texas.gov/"
+    },
+    {
+      "text": "Forms",
+      "url": "https://fhb.hhs.texas.gov/forms"
+    },
+    {
+      "text": "Advance Directives",
+      "url": "https://fhb.hhs.texas.gov/forms/advance-directives"
+    },
+    {
+      "text": "Click here for instructions on opening this form.",
+      "url": "https://fhb.hhs.texas.gov/web-browser-pdf-viewer-information"
+    },
+    {
+      "text": "SDPOA.docx",
+      "url": "https://fhb.hhs.texas.gov/sites/default/files/documents/laws-regulations/forms/SDPOA/SDPOA.docx"
+    },
+    {
+      "text": "SDPOA-S.doc",
+      "url": "https://fhb.hhs.texas.gov/sites/default/files/documents/laws-regulations/forms/SDPOA/SDPOA-S.doc"
+    },
+    {
+      "text": "Compact with Texans",
+      "url": "https://www.hhs.texas.gov/contact/complaints-appeals/hhs-compact-texans"
+    },
+    {
+      "text": "File Viewing",
+      "url": "https://fhb.hhs.texas.gov/web-browser-pdf-viewer-information"
+    },
+    {
+      "text": "Notice of Privacy Practices",
+      "url": "https://www.hhs.texas.gov/texas-health-human-services-commission-notice-privacy-practices"
+    },
+    {
+      "text": "Report Fraud, Waste or Abuse",
+      "url": "https://ors-oig.hhs.texas.gov/tickets/form-fraudreportingsystem/create/c1458e7f-bef7-4d4b-aea2-472d8717be19?form=fraudReportingSystem"
+    },
+    {
+      "text": "Statewide Search",
+      "url": "https://www.tsl.texas.gov/trail/index.html"
+    },
+    {
+      "text": "Texas.gov",
+      "url": "https://www.texas.gov/"
+    },
+    {
+      "text": "Texas Homeland Security",
+      "url": "https://gov.texas.gov/organization/hsgd"
+    },
+    {
+      "text": "Texas Veterans Portal",
+      "url": "http://veterans.portal.texas.gov/"
+    },
+    {
+      "text": "Website Policy",
+      "url": "https://www.hhs.texas.gov/policies-practices-privacy"
+    },
+    {
+      "text": "Back to top",
+      "url": "https://fhb.hhs.texas.gov/forms/advance-directives/statutory-durable-power-attorney-sdpoa#top"
+    }
+  ]
+}

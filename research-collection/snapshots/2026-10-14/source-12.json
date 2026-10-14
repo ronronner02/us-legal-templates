@@ -1,0 +1,2665 @@
+{
+  "state": "Kentucky",
+  "publisher": "Kentucky Court of Justice",
+  "url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "830\\.pdf",
+      "title": "Petition to Dispense with Administration",
+      "form_id": "AOC-830",
+      "family_id": "small-estate-petition",
+      "identity": "DISPENSE WITH ADMINISTRATION",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx",
+    "final_url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:01:01.393Z",
+    "etag": null,
+    "last_modified": "Wed, 14 Oct 2026 09:00:59 GMT",
+    "content_length": null,
+    "sha256": "9c827818f5385a11987d68072d3fbde9f0a4b6c42890148206be78a00513456a",
+    "title": "Legal Forms - Kentucky Court of Justice",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14/12-kentucky-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx",
+      "final_url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:01:01.393Z",
+      "etag": null,
+      "last_modified": "Wed, 14 Oct 2026 09:00:59 GMT",
+      "content_length": null,
+      "sha256": "9c827818f5385a11987d68072d3fbde9f0a4b6c42890148206be78a00513456a",
+      "title": "Legal Forms - Kentucky Court of Justice",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "830\\.pdf",
+      "title": "Petition to Dispense with Administration",
+      "form_id": "AOC-830",
+      "family_id": "small-estate-petition",
+      "identity": "DISPENSE WITH ADMINISTRATION",
+      "max": 1,
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.pdf",
+      "link_text": "English",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.pdf",
+        "final_url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:01:02.404Z",
+        "etag": "\"{2CF54C80-0252-40C1-BCA0-4192E04A7EA1},19\"",
+        "last_modified": "Tue, 27 Jan 2026 20:49:51 GMT",
+        "content_length": "251923",
+        "sha256": "501672e077bde1a5165a672d892f0fd37b1b66fffc980ea062d57081c3c908a9",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.pdf",
+          "final_url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:01:02.404Z",
+          "etag": "\"{2CF54C80-0252-40C1-BCA0-4192E04A7EA1},19\"",
+          "last_modified": "Tue, 27 Jan 2026 20:49:51 GMT",
+          "content_length": "251923",
+          "sha256": "501672e077bde1a5165a672d892f0fd37b1b66fffc980ea062d57081c3c908a9",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "501672e077bde1a5165a672d892f0fd37b1b66fffc980ea062d57081c3c908a9",
+      "local_archive_path": "archive/2026-10-14/12-petition-to-dispense-with-administration-501672e077bd.pdf",
+      "bytes": 251923,
+      "text_length": 6581,
+      "pages": 2,
+      "identity_excerpt": "Name: __________________________________________ Relation: ______________________ Age: _________ Address: ______________________________________________________________________________________ _____________________________________________________________________________________________ PETITION TO DISPENSE WITH ADMINISTRATION l e x e t j u s t i t i a C O M M O N W E A L T H O F K E N T U C K Y C O U R T O F J U S T I C E IN RE: Estate of (Name of Decedent) PETITION TO (check one) q A. DISPENSE WITH ADMINISTRATION q B. DISPENSE WITH ADMINISTRATION AND FOR PROBATE OF WILL Comes Petitioner, ______________________________________, and states as follows: 1. Decedent died (check one) q testate (with a Will) q intestate (without a Will) with residence at the above address and on the above date. 2. There has been no previous administration in Decedent's estate in Kentucky or elsewhere. 3. (Check and complete if Box B. is checked above) q The names of the surviving spouse, heirs at law and next of kin known to Petitioner are as follows: (Note: If Petitioner is the executor named in the Will, only the surviving spouse, if applicable, must be provided below.) 4. (Check if Box B. is checked above) q Petitioner applies for probate of Decedent's Will, (check one) q original offered this date q will be offered without delay, which is his/her Last Will and Testament. Case No. ____________________ Court ________________________ County ______________________ Division ______________________ AOC-830 Doc. Code: PDA Rev. 1-26 Page 1 of 2 Commonwealth of Kentucky Court of Justice www.kycourts.gov KRS 391.030; 394.145; 395.455; 396.095 Name: __________________________________________ Relation: ______________________ Age: _________ Address: _____________________________________________________",
+      "revision_evidence": [
+        "_ AOC-830 Doc. Code: PDA Rev. 1-26 Page 1 of 2 Commonwealth of Kentucky Court of Justice www.kycourts",
+        "________________ AOC-830 Rev. 1-26 Page 2 of 2 5. At the time of death, Decedent left no estate to be"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "New/Revised Legal Forms​",
+      "url": "https://www.kycourts.gov/Legal-Forms/Documents/NewRevised_Forms.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-4.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-3.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-21.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-20.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-13.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-12.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-11.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-10.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-009.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-009_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-009_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-009_FR.pdf"
+    },
+    {
+      "text": "Burmese",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-009_MY.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-009_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-006.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-005.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-004.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-004_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-004_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-004_FR.pdf"
+    },
+    {
+      "text": "Burmese",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-004_MY.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-004_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/MEDADR9.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/MEDADR8.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/MEDADR15.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/MEDADR15.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/MEDADR14.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/MEDADR13.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/MEDADR11.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-54.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-53.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-53.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-53.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-52.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-52.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-51.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-50.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-49.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-48.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-41.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-38.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-38.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-38_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-36.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-36.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-35.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-34.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-32.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-31.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-31.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-31.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-31_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-31_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-30.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-29.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-29.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-28.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-27.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-26.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-25.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-24.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-23.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-19.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-19_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-19_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-18.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-17.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-16.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-15.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-14.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-8.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-7.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-6.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-5.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-4.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-3.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-13.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-12.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-11.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-10.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/FC-9.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/FC-3.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/FC-3_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/FC-2.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/FC-2_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/FC-1.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/FC-1_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-9.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-9_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-7.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-7_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-6.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-6_ES.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-6_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-5.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-5_ES.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-5_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-4.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-4_ES.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-4_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-3.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-3_ES.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-3_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-21.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-20.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-2.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-2.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-2.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-2_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-19.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-19_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-18.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-18_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-17.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-16.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-16_ES.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-16_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-15.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-14.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-13.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-12.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-12_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-11.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-11_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-11_FR.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-10.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-10_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-1.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-1_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/CFCRB-8.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/CFCRB-16.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/CFCRB-16_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/CFCRB-12.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/CCCF-1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/BCD-4.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/BCD-3.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/BCD-2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/BCD-1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/860.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/860.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/859.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/859.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/858.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/858.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/857.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/857.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/856.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/855.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/854.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/853.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/852.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/851.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/850.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/850.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/846.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/846.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/846.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/845.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/841.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/840.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/831.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/825.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/825_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/815.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/810.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/810.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/809.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/808.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/807.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/805.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/805.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/805.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/798.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/796.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/796_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/795.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/790.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/785.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/782.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/780.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/777.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/775.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/770.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/765.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/760.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/755.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/755_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/750.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/750_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/748.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/748_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/747.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/747_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/746.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/745.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/745_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/740.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/740_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.8.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.7.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.6.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.5.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.4.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.3.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/736.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/735.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/734.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/733.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/732.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/731.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/730B.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/730A.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/728.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/727.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/726B.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/726A.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/725B.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/725A.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/724.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/720B.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/720A.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/718.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/717.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/716.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/715B.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/715A.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/713.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/712.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/711.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/710B.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/710A.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.8.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.7.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.6.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.5.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.4.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.3.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/706.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/705A.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/704B.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/704A.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/703A.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/702A.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/701A.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/700A.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/656.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/499.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/499.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/499.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/499_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/499_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/498.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/497.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/497.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.4.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.3.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.2.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.2_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.2_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.1.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.1_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.1_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495.3.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495.1%20(7-20).pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495_FR.pdf"
+    },
+    {
+      "text": "Haitian Creole",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495_HT.pdf"
+    },
+    {
+      "text": "Kinyarwanda",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495_RW.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/494.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/494_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/494_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/493.3.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/493.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/493.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/493.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/493_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/492.A%20(7-20).pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/492.A_AR%20(7-20).pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/492.A_ES%20(7-20).pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/492.1%20(7-20).pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/492%20(7-20).pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/491.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/491.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/491.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/491_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/491_FR.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/490.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/485.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/480.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/475.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/470.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4_FR.pdf"
+    },
+    {
+      "text": "Burmese",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4_MY.pdf"
+    },
+    {
+      "text": "Kinyarwanda",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4_RW.pdf"
+    },
+    {
+      "text": "Somali",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4_SO.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.3.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.2.pdf"
+    },
+    {
+      "text": "Burmese",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1%20(5-20)_MY.pdf"
+    },
+    {
+      "text": "Kinyarwanda",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1%20(5-20)_RW.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1%20(5-20)_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1_FR.pdf"
+    },
+    {
+      "text": "Somali",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1_SO.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/461.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/460.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/455.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/454.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/450.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/447.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/446.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/445.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/455_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/440.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/430.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/426.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/425.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/425.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/424.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/420.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/415.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/415_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/415_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/411.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/405.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/400.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/399.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/398.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/390.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/385.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/385.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/380.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/376.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/375.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/366.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/365.3.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/365.3_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/365.2.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/365.2_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/365.1.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/365.1_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/360.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/360.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/350.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/350_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/350_ES.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/350_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/347.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/346.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/345.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/343.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/343.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/342.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/341.A.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/341.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/341.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/340.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/340.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/339.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/335.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/335.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/334.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/333.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/332.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/332.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/331.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/331.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/330.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/330_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/330_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/325.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/320.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/315.B.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/315.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/315.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/315.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/298.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/297.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/296.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/296_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/295.1.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/295.1_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/295.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/295_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/292.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/292_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/291.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/290.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/290.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/280.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.9.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.9_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.9_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.9_FR.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.8.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.8_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.8_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.8_FR.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.7.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.7_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.7_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.6.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.6_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.6_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.6_FR.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.6_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.5.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.5_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.5_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.4.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.4_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.4_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.3.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.3_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.3_FR.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.3_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.2.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.2_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.2_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.2_FR.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.2_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.19.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.19_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.19_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.18.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.18_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.18_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.17.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.17_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.17_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.16.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.16_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.16_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.15.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.15_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.15_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.15_FR.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.15_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.14.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.14_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.14_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.13.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.13_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.13_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.12.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.12_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.12_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.11.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.11_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.10.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.10_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.1.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.1_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.1_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.1_FR.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.1_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275_FR.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/270.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/262.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/261.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/261.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/260.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252A.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252.8.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252.6.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252.5.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252.4.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/250.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/245.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/242.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/241.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/241_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/240.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/239.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/238-239.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/238-239_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/238.3-239.3.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/238.1-239.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/237.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/236.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/235.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/224.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/220.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/220_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/220_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/220_FR.pdf"
+    },
+    {
+      "text": "Kinyarwanda",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/220_RW.pdf"
+    },
+    {
+      "text": "Somali",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/220_SO.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/220_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/218.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/218_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/218_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/218_FR.pdf"
+    },
+    {
+      "text": "Kinyarwanda",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/218_RW.pdf"
+    },
+    {
+      "text": "Somali",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/218_SO.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/218_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/217.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/217_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/217_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/217_FR.pdf"
+    },
+    {
+      "text": "Kinyarwanda",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/217_RW.pdf"
+    },
+    {
+      "text": "Somali",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/217_SO.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/217_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/216.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/216_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/216_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/216_FR.pdf"
+    },
+    {
+      "text": "Kinyarwanda",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/216_RW.pdf"
+    },
+    {
+      "text": "Somali",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/216_SO.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/216_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/215.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/215_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/215_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/215_FR.pdf"
+    },
+    {
+      "text": "Kinyarwanda",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/215_RW.pdf"
+    },
+    {
+      "text": "Somali",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/215_SO.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/215_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/207.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/206.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/205.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/203.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/202.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/200.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/200_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/199.1.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/199.1_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/199.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/199_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/198.1.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/198.1_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/198.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/198_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/197.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/197_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/191.1.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/191.1_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/191.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/191_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/190.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/190_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/185.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/185_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/180.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/180_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/175.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/175_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/166.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/166_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/165.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/165_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/160.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/155.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/152.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/152_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/150.5.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/150.4.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/150.3.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/150.2.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/150.2_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/150.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/150.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/145.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/145_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/141SP.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/141S.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/141AMC.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/141.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/140.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/135.2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/135.1.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/135.1_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/135.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/130.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/125.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/120.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/119.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/115.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/110.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/108.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/106.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/105.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/104.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/104_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/1026.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/1025.4.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/1025.3.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/1025.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/1025.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/070.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/066.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/065.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/61.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/060.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/40.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/034.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/034_ES.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/033.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/032.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/031.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/030.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/026.pdf"
+    },
+    {
+      "text": "Arabic",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/026_AR.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/026_ES.pdf"
+    },
+    {
+      "text": "French",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/026_FR.pdf"
+    },
+    {
+      "text": "Kinyarwanda",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/026_RW.pdf"
+    },
+    {
+      "text": "Swahili",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/026_SW.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/25.1.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/025.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/005A.pdf"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "state": "Alaska",
+  "publisher": "Alaska Court System",
+  "url": "https://courts.alaska.gov/shc/probate/affidavit.htm",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "p-110\\.pdf",
+      "title": "Affidavit for Collection of Personal Property of Decedent",
+      "form_id": "P-110",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://courts.alaska.gov/shc/probate/affidavit.htm",
+    "final_url": "https://courts.alaska.gov/shc/probate/affidavit.htm",
+    "http_status": 200,
+    "content_type": "text/html",
+    "retrieved_at": "2026-10-14T09:03:46.934Z",
+    "etag": "\"8724f2e1d729dd1:0\"",
+    "last_modified": "Tue, 11 Aug 2026 21:25:07 GMT",
+    "content_length": null,
+    "sha256": "475193357a8816f965544b08ec21076c8caae928c9020661fa8fb6e227a03a5d",
+    "title": "Probate Collecting Personal Property without a Court Case - Alaska Court System",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-02/01-alaska-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://courts.alaska.gov/shc/probate/affidavit.htm",
+      "final_url": "https://courts.alaska.gov/shc/probate/affidavit.htm",
+      "http_status": 200,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-14T09:03:46.934Z",
+      "etag": "\"8724f2e1d729dd1:0\"",
+      "last_modified": "Tue, 11 Aug 2026 21:25:07 GMT",
+      "content_length": null,
+      "sha256": "475193357a8816f965544b08ec21076c8caae928c9020661fa8fb6e227a03a5d",
+      "title": "Probate Collecting Personal Property without a Court Case - Alaska Court System",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "p-110\\.pdf",
+      "title": "Affidavit for Collection of Personal Property of Decedent",
+      "form_id": "P-110",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+      "max": 1,
+      "url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf",
+      "link_text": "P-110",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf",
+        "final_url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:03:49.332Z",
+        "etag": "\"6bfd1dd9c6afd21:0\"",
+        "last_modified": "Fri, 07 Apr 2017 17:46:12 GMT",
+        "content_length": "142345",
+        "sha256": "b9175cf81358df1267bf2f9f449a026c62fc4206e68fcf10bea0a4357db800eb",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf",
+          "final_url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:49.332Z",
+          "etag": "\"6bfd1dd9c6afd21:0\"",
+          "last_modified": "Fri, 07 Apr 2017 17:46:12 GMT",
+          "content_length": "142345",
+          "sha256": "b9175cf81358df1267bf2f9f449a026c62fc4206e68fcf10bea0a4357db800eb",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "b9175cf81358df1267bf2f9f449a026c62fc4206e68fcf10bea0a4357db800eb",
+      "local_archive_path": "archive/2026-10-14-02/01-affidavit-for-collection-of-personal-property-of-decedent-b9175cf81358.pdf",
+      "bytes": 142345,
+      "text_length": 6335,
+      "pages": 3,
+      "identity_excerpt": "Page 1 of 3 AS 13.16.680 P-110 (4/17)(cs duplex)(no hole punch) AFFIDAVIT FOR COLLECTION OF PERSONAL PROPERTY OF DECEDENT AFFIDAVIT FOR COLLECTION OF PERSONAL PROPERTY OF DECEDENT I, , being duly sworn, state the following: 1. I am the successor of who died on , 20 . I am the successor by reason of the fact that . (state basis upon which you claim to be successor) 2. The entire estate of the decedent, wherever located, less liens and encumbrances, consists only of not more than a. vehicles subject to registration under AS 28.10.011 with a total value that does not exceed $100,000; and b. personal property, other than vehicles described in (a) above, that does not exceed $50,000. 3. The decedent’s estate includes no real estate or the decedent had real estate that passed automatically to someone else. Title to property may transfer automatically based on how it was titled. For example, the property was held as tenants by the entirety (common for married couples) or there was a Transfer on Death Deed. 4. Thirty days have elapsed since the death of the decedent. 5. No application or petition for the appointment of a personal representative of the decedent’s estate is pending or has been granted in any jurisdiction. 6. I, as successor of the decedent, am entitled to the payment of any sums of money due and owing the decedent and to the delivery of all tangible personal property belonging to the decedent and to the delivery of all instruments evidencing a debt, obligation, stock or chose in action belonging to the decedent. 7. I understand that when I receive the decedent’s assets, I am accountable for them to any personal representative of the estate (if one is appointed) and to any other person who has a superior right. AS 13.16.685 8. I understand I may be asked to show a",
+      "revision_evidence": [
+        "Page 1 of 3 AS 13.16.680 P-110 (4/17)(cs duplex)(no hole punch) AFFIDAVIT FOR COLLECTION OF PERSONAL",
+        "Page 2 of 3 AS 13.16.680 P-110 (4/17)(cs duplex)(no hole punch) AFFIDAVIT FOR COLLECTION OF PERSONAL",
+        "Page 3 of 3 AS 13.16.680 P-110 (4/17)(cs duplex)(no hole punch) AFFIDAVIT FOR COLLECTION OF PERSONAL"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "P-110",
+      "url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf"
+    },
+    {
+      "text": "P-110",
+      "url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf"
+    },
+    {
+      "text": "P-110",
+      "url": "https://public.courts.alaska.gov/web/forms/docs/p-110.pdf"
+    },
+    {
+      "text": "Careers",
+      "url": "https://public.courts.alaska.gov/web/scheduled/docs/RecruitmentNews.pdf"
+    }
+  ]
+}

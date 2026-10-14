@@ -1,0 +1,81 @@
+{
+  "state": "Minnesota",
+  "publisher": "Minnesota Judicial Branch",
+  "url": "https://www.mncourts.gov/GetForms.aspx?c=31",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "PRO202.*\\.pdf",
+      "title": "Affidavit for Collection of Personal Property",
+      "form_id": "PRO202",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+      "max": 1
+    },
+    {
+      "pattern": "PRO201.*\\.pdf",
+      "title": "Instructions for Affidavit for Collection of Personal Property",
+      "form_id": "PRO201",
+      "family_id": "small-estate-instructions",
+      "identity": "INSTRUCTIONS.*AFFIDAVIT",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.mncourts.gov/GetForms.aspx?c=31",
+    "final_url": "https://www.mncourts.gov/GetForms.aspx?c=31",
+    "http_status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:00:55.219Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "4346e0b3c44eb057104f42a3f2efee10ad3aae4d9d4976fb859d5332b5604df7",
+    "title": "Just a moment...",
+    "retrieval_status": "http-403",
+    "local_archive_path": "archive/2026-10-14/02-minnesota-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.mncourts.gov/GetForms.aspx?c=31",
+      "final_url": "https://www.mncourts.gov/GetForms.aspx?c=31",
+      "http_status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:00:55.219Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "4346e0b3c44eb057104f42a3f2efee10ad3aae4d9d4976fb859d5332b5604df7",
+      "title": "Just a moment...",
+      "retrieval_status": "http-403"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "PRO202.*\\.pdf",
+      "title": "Affidavit for Collection of Personal Property",
+      "form_id": "PRO202",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    },
+    {
+      "pattern": "PRO201.*\\.pdf",
+      "title": "Instructions for Affidavit for Collection of Personal Property",
+      "form_id": "PRO201",
+      "family_id": "small-estate-instructions",
+      "identity": "INSTRUCTIONS.*AFFIDAVIT",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": []
+}

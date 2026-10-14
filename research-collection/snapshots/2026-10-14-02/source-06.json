@@ -1,0 +1,136 @@
+{
+  "state": "Tennessee",
+  "publisher": "Tennessee Health Facilities Commission",
+  "url": "https://www.tn.gov/hfc/health-care-decision-making.html",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "(?:advance|advanced).*directive.*\\.pdf",
+      "title": "Advance Directive for Health Care",
+      "family_id": "health-care-directive",
+      "identity": "ADVANCE DIRECTIVE",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.tn.gov/hfc/health-care-decision-making.html",
+    "final_url": "https://www.tn.gov/hfc/health-care-decision-making.html",
+    "http_status": 200,
+    "content_type": "text/html;charset=utf-8",
+    "retrieved_at": "2026-10-14T09:03:55.779Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": "12301",
+    "sha256": "e65a17ad6392827bea0b72f5586959f579e4081314d2f87fcd4653f6b33e0af4",
+    "title": "Resources and links for Healthcare Decision Making",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-02/06-tennessee-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.tn.gov/hfc/health-care-decision-making.html",
+      "final_url": "https://www.tn.gov/hfc/health-care-decision-making.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "retrieved_at": "2026-10-14T09:03:55.779Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": "12301",
+      "sha256": "e65a17ad6392827bea0b72f5586959f579e4081314d2f87fcd4653f6b33e0af4",
+      "title": "Resources and links for Healthcare Decision Making",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "(?:advance|advanced).*directive.*\\.pdf",
+      "title": "Advance Directive for Health Care",
+      "family_id": "health-care-directive",
+      "identity": "ADVANCE DIRECTIVE",
+      "max": 1,
+      "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_for_Health_Care.pdf",
+      "link_text": "English",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_for_Health_Care.pdf",
+        "final_url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_for_Health_Care.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:03:56.309Z",
+        "etag": "\"1afdb-6052afa473580-gzip\"",
+        "last_modified": "Tue, 12 Sep 2023 15:20:06 GMT",
+        "content_length": null,
+        "sha256": "81fc44d9358335e9ed56963ce426db80f5acb28bc16417af737e869e739b7183",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_for_Health_Care.pdf",
+          "final_url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_for_Health_Care.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:56.309Z",
+          "etag": "\"1afdb-6052afa473580-gzip\"",
+          "last_modified": "Tue, 12 Sep 2023 15:20:06 GMT",
+          "content_length": null,
+          "sha256": "81fc44d9358335e9ed56963ce426db80f5acb28bc16417af737e869e739b7183",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "81fc44d9358335e9ed56963ce426db80f5acb28bc16417af737e869e739b7183",
+      "local_archive_path": "archive/2026-10-14-02/06-advance-directive-for-health-care-81fc44d93583.pdf",
+      "bytes": 110555,
+      "text_length": 6368,
+      "pages": 2,
+      "identity_excerpt": "PLEASE SIGN ON PAGE 2 Page 1 of 2 ADVANCE DIRECTIVE FOR HEALTH CARE* (Tennessee) I, ____________________________________, hereby give these advance instructions on how I want to be treated by my doctors and other health care providers when I can no longer make those treatment decisions myself. Part I Agent: I want the following person to make health care decisions for me. This includes any health care decision I could have made for myself if able, except that my agent must follow my instructions below: Name: Relation: Home Phone: Work Phone: Address: Mobile Phone: Other Phone: Alternate Agent: If the person named above is unable or unwilling to make health care decisions for me, I appoint as alternate the following person to make health care decisions for me. This includes any health care decision I could have made for myself if able, except that my agent must follow my instructions below: Name: Relation: Home Phone: Work Phone: Address: Mobile Phone: Other Phone: My agent is also my personal representative for purposes of federal and state privacy laws, including HIPAA. When Effective (mark one):  I give my agent permission to make health care decisions for me at any time, even if I have capacity to make decisions for myself.  I do not give such permission (this form applies only when I no longer have capacity). Part 2 Indicate Your Wishes for Quality of Life: By marking “yes” below, I have indicated conditions I would be willing to live with if given adequate comfort care and pain management. By marking “no” below, I have indicated conditions I would not be willing to live with (that to me would create an unacceptable quality of life).   Yes No Permanent Unconscious Condition: I become totally unaware of people or surroundings with little chance of ever waking up ",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Alert:  New Home health and hospice Certificate of Need applicants please review the attached link of the (CMS) enacted 6-month nationwide moratorium temporarily halting the processing of initial Medicare enrollment applications for new Home Health Agencies (HHAs) and hospices effective May 20, 2026. (Click on This Banner)",
+      "url": "https://www.cms.gov/files/document/qso-26-11-hha-hospice-original-release-2026-05-20.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_for_Health_Care.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_Form_2014_v2-2017_Spanish-2.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.tn.gov/content/dam/tn/hfc/documents/PH-4269.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.tn.gov/content/dam/tn/hfc/documents/PH-4269S.pdf"
+    },
+    {
+      "text": "POST",
+      "url": "https://www.tn.gov/content/dam/tn/hfc/documents/POST_Form_FAQ.pdf"
+    },
+    {
+      "text": "Appointment of Surrogate",
+      "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Surrogate_Form_FAQ.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Post_Form.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.tn.gov/content/dam/tn/hfc/documents/Spanish_Version_of_POST_Form.pdf"
+    }
+  ]
+}

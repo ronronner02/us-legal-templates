@@ -1,0 +1,306 @@
+[
+  {
+    "state": "Kansas",
+    "publisher": "Kansas Judicial Council",
+    "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-681-431",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "/2318/",
+        "title": "Small Claims Petition",
+        "family_id": "small-claims-complaint",
+        "identity": "PETITION.*SMALL CLAIMS"
+      }
+    ]
+  },
+  {
+    "state": "Kansas",
+    "publisher": "Kansas Judicial Council",
+    "url": "https://www.kjc.ks.gov/legal-forms/power-of-attorney",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "/6756/",
+        "title": "Durable Power of Attorney for Health Care Decisions",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "DURABLE POWER OF ATTORNEY.*HEALTH"
+      },
+      {
+        "pattern": "/6758/",
+        "title": "General Durable Power of Attorney",
+        "family_id": "financial-power-of-attorney",
+        "identity": "GENERAL DURABLE POWER OF ATTORNEY"
+      }
+    ]
+  },
+  {
+    "state": "Kansas",
+    "publisher": "Kansas Judicial Council",
+    "url": "https://www.kjc.ks.gov/legal-forms/small-estates-affidavit-k-s-a-59-1507b",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "/2398/",
+        "title": "Small Estates Affidavit",
+        "family_id": "small-estate-affidavit",
+        "identity": "SMALL ESTATES AFFIDAVIT"
+      }
+    ]
+  },
+  {
+    "state": "Kansas",
+    "publisher": "Kansas Judicial Council",
+    "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-without-minor-children/filing-a-petition-for-divorce",
+    "category": "Family",
+    "rules": [
+      {
+        "pattern": "/1350/",
+        "title": "Petition for Divorce without Minor Children",
+        "family_id": "divorce-petition",
+        "identity": "PETITION FOR DIVORCE"
+      },
+      {
+        "pattern": "/1340/",
+        "title": "Instructions for Filing for Divorce without Minor Children",
+        "family_id": "divorce-instructions",
+        "identity": "INSTRUCTIONS.*DIVORCE"
+      }
+    ]
+  },
+  {
+    "state": "Missouri",
+    "publisher": "Dade County Circuit Clerk",
+    "url": "https://www.dadecountymo.gov/circuit-clerk",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "Small-claims-handbook-2021",
+        "title": "Missouri Small Claims Court Handbook - county-hosted 2021 copy",
+        "family_id": "small-claims-instructions",
+        "identity": "SMALL CLAIMS.*HANDBOOK"
+      },
+      {
+        "pattern": "CIVIL_ApplicationForTrialDeNovo",
+        "title": "Application for Trial de Novo - Small Claims",
+        "family_id": "small-claims-appeal",
+        "identity": "APPLICATION.*TRIAL DE NOVO"
+      }
+    ],
+    "jurisdiction": "Missouri; Dade County Circuit Clerk source",
+    "flags": [
+      "county-source-scope",
+      "historical-copy-current-version-review"
+    ]
+  },
+  {
+    "state": "Missouri",
+    "publisher": "Missouri Seventh Judicial Circuit",
+    "url": "https://www.circuit7.net/civil/Index",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "/108\\.pdf",
+        "title": "Petition of Landlord for Recovery of Possession for Non-Payment of Rent",
+        "family_id": "eviction-petition",
+        "identity": "PETITION OF LANDLORD.*RECOVERY"
+      },
+      {
+        "pattern": "/GN10\\.pdf",
+        "title": "Motion and Affidavit to Proceed as a Poor Person",
+        "family_id": "court-fee-waiver",
+        "identity": "MOTION AND AFFIDAVIT.*POOR PERSON"
+      }
+    ],
+    "jurisdiction": "Missouri; Seventh Judicial Circuit, Clay County",
+    "flags": [
+      "local-circuit-scope"
+    ]
+  },
+  {
+    "state": "Missouri",
+    "publisher": "The Missouri Bar",
+    "url": "https://missourilawyershelp.org/legal-topics/durable-power-of-attorney-for-health/",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "DPOA-Fillable-2024",
+        "title": "Durable Power of Attorney for Health Care and Health Care Directive",
+        "family_id": "combined-advance-directives",
+        "identity": "DURABLE POWER OF ATTORNEY.*HEALTH CARE"
+      },
+      {
+        "pattern": "HIPPA-Privacy-Authorization-Fillable",
+        "title": "HIPAA Privacy Authorization",
+        "family_id": "hipaa-authorization",
+        "identity": "PRIVACY AUTHORIZATION"
+      }
+    ],
+    "flags": [
+      "bar-publisher-not-government",
+      "reuse-review-required"
+    ]
+  },
+  {
+    "state": "Rhode Island",
+    "publisher": "Rhode Island Department of Health",
+    "url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/living-will-declaration.pdf",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "Living Will Declaration",
+        "family_id": "health-care-directive",
+        "identity": "DECLARATION.*dying shall not be artificially prolonged"
+      }
+    ],
+    "direct": true
+  },
+  {
+    "state": "Iowa",
+    "publisher": "Iowa Judicial Branch",
+    "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/6",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "/files/535/",
+        "title": "Original Notice and Petition for a Money Judgment",
+        "family_id": "small-claims-complaint",
+        "identity": "Original Notice and Petition for a Money Judgment",
+        "form_id": "3.1"
+      },
+      {
+        "pattern": "/files/562/",
+        "title": "Appearance and Answer of Defendant(s)",
+        "family_id": "small-claims-answer",
+        "identity": "Appearance and Answer of Defendant",
+        "form_id": "3.11"
+      },
+      {
+        "pattern": "/files/547/",
+        "title": "Original Notice and Petition for Replevin",
+        "family_id": "small-claims-replevin",
+        "identity": "Original Notice and Petition for Replevin",
+        "form_id": "3.5"
+      },
+      {
+        "pattern": "/files/550/",
+        "title": "Original Notice and Petition for Forcible Entry and Detainer",
+        "family_id": "eviction-petition",
+        "identity": "Original Notice and Petition for Forcible Entry",
+        "form_id": "3.6"
+      },
+      {
+        "pattern": "/files/571/",
+        "title": "Counterclaim against Plaintiff(s)",
+        "family_id": "small-claims-counterclaim",
+        "identity": "Counterclaim against Plaintiff",
+        "form_id": "3.13"
+      }
+    ],
+    "flags": [
+      "historical-2018-order-archive",
+      "current-rule-and-e-filing-review-required"
+    ]
+  },
+  {
+    "state": "Oregon",
+    "publisher": "Oregon Health Authority",
+    "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "Appointing-Healthcare-Representative\\.pdf",
+        "title": "Form for Appointing Health Care Representative and Alternate",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "FORM FOR APPOINTING HEALTH CARE REPRESENTATIVE"
+      },
+      {
+        "pattern": "le3942\\.pdf",
+        "title": "Your Guide to the Oregon Advance Directive for Health Care",
+        "family_id": "advance-directive-guide",
+        "identity": "Guide.*Oregon Advance Directive"
+      }
+    ]
+  },
+  {
+    "state": "Oregon",
+    "publisher": "State Library of Oregon",
+    "url": "https://digitalcollections.library.oregon.gov/nodes/download/167640",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "/247732",
+        "title": "Your Guide to the Oregon Advance Directive for Health Care - library archive",
+        "family_id": "advance-directive-guide",
+        "identity": "Guide.*Oregon Advance Directive"
+      }
+    ],
+    "flags": [
+      "state-library-archived-publication",
+      "current-version-review-required"
+    ]
+  },
+  {
+    "state": "Kentucky",
+    "publisher": "Kentucky Attorney General",
+    "url": "https://www.ag.ky.gov/Resources/Consumer-Resources/seniors/Pages/Living-Wills-in-Kentucky.aspx",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "/livingwillpacket\\.pdf",
+        "title": "Kentucky Living Will Packet",
+        "family_id": "combined-advance-directives",
+        "identity": "KENTUCKY LIVING WILL"
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "publisher": "Texas Health and Human Services",
+    "url": "https://fhb.hhs.texas.gov/forms/advance-directives/statutory-durable-power-attorney-sdpoa",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "/SDPOA\\.docx",
+        "title": "Statutory Durable Power of Attorney",
+        "family_id": "financial-power-of-attorney",
+        "identity": "STATUTORY DURABLE POWER OF ATTORNEY"
+      }
+    ]
+  },
+  {
+    "state": "Minnesota",
+    "publisher": "Minnesota Judicial Branch",
+    "url": "https://www.mncourts.gov/mncourtsgov/media/CourtForms/PRO202.pdf?ext=.pdf",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "Affidavit for Collection of Personal Property (Small Estate - No Real Estate)",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+        "form_id": "PRO202"
+      }
+    ],
+    "direct": true
+  },
+  {
+    "state": "Missouri",
+    "publisher": "Missouri Thirteenth Judicial Circuit",
+    "url": "https://www.courts.mo.gov/hosted/circuit13/forms/Civil/CIVIL_SmallClaimsCourtHandbook.pdf",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "Small Claims Court Handbook - 13th Judicial Circuit",
+        "family_id": "small-claims-instructions",
+        "identity": "SMALL CLAIMS.*HANDBOOK"
+      }
+    ],
+    "direct": true,
+    "jurisdiction": "Missouri; Thirteenth Judicial Circuit",
+    "flags": [
+      "local-circuit-scope"
+    ]
+  }
+]

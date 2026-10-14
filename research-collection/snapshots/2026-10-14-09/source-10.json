@@ -1,0 +1,815 @@
+{
+  "state": "Oregon",
+  "publisher": "Oregon Health Authority",
+  "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "Appointing-Healthcare-Representative\\.pdf",
+      "title": "Form for Appointing Health Care Representative and Alternate",
+      "family_id": "health-care-power-of-attorney",
+      "identity": "FORM FOR APPOINTING HEALTH CARE REPRESENTATIVE"
+    },
+    {
+      "pattern": "le3942\\.pdf",
+      "title": "Your Guide to the Oregon Advance Directive for Health Care",
+      "family_id": "advance-directive-guide",
+      "identity": "Guide.*Oregon Advance Directive"
+    }
+  ],
+  "source": {
+    "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+    "final_url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:59:03.134Z",
+    "etag": null,
+    "last_modified": "Wed, 14 Oct 2026 09:59:02 GMT",
+    "content_length": "27612",
+    "sha256": "1a503b84359903ab3d3e346c7e53197ff1a5ea9484c6d04a7e96ceff07772a60",
+    "title": "Oregon Health Authority : Advance Directive Forms : About the Public Health Division : State of Oregon",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-09/10-oregon-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+      "final_url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:59:03.134Z",
+      "etag": null,
+      "last_modified": "Wed, 14 Oct 2026 09:59:02 GMT",
+      "content_length": "27612",
+      "sha256": "1a503b84359903ab3d3e346c7e53197ff1a5ea9484c6d04a7e96ceff07772a60",
+      "title": "Oregon Health Authority : Advance Directive Forms : About the Public Health Division : State of Oregon",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "Appointing-Healthcare-Representative\\.pdf",
+      "title": "Form for Appointing Health Care Representative and Alternate",
+      "family_id": "health-care-power-of-attorney",
+      "identity": "FORM FOR APPOINTING HEALTH CARE REPRESENTATIVE",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/Appointing-Healthcare-Representative.pdf",
+      "link_text": "English",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/Appointing-Healthcare-Representative.pdf",
+        "final_url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/Appointing-Healthcare-Representative.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:59:03.420Z",
+        "etag": "W/\"{FA0EC50C-5D5A-4D8C-BD77-2C9592A98875},32\"",
+        "last_modified": "Sat, 27 Jun 2026 19:13:14 GMT",
+        "content_length": null,
+        "sha256": "b5d2a1ad6596ebb882095dfb36242a747acc4d2f66d0fbf8df5a8f27230e8a3e",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/Appointing-Healthcare-Representative.pdf",
+          "final_url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/Appointing-Healthcare-Representative.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:59:03.420Z",
+          "etag": "W/\"{FA0EC50C-5D5A-4D8C-BD77-2C9592A98875},32\"",
+          "last_modified": "Sat, 27 Jun 2026 19:13:14 GMT",
+          "content_length": null,
+          "sha256": "b5d2a1ad6596ebb882095dfb36242a747acc4d2f66d0fbf8df5a8f27230e8a3e",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "b5d2a1ad6596ebb882095dfb36242a747acc4d2f66d0fbf8df5a8f27230e8a3e",
+      "local_archive_path": "archive/2026-10-14-09/10-form-for-appointing-health-care-representative-and-alternate-b5d2a1ad6596.pdf",
+      "bytes": 24629,
+      "text_length": 2935,
+      "pages": 3,
+      "identity_excerpt": "Page 1 of 3 FORM FOR APPOINTING HEALTH CARE REPRESENTATIVE AND ALTERNATE HEALTH CARE REPRESENTATIVE (STATE OF OREGON) This form may be used in Oregon to choose a person to make health care decisions for you if you become too sick to speak for yourself. The person is called a health care representative. • If you have completed a form appointing a health care representative in the past, this new form will replace any older form. • You must sign this form for it to be effective. You must also have it witnessed by two witnesses or a notary. Your appointment of a health care representative is not effective until the health care representative accepts the appointment. • If you become too sick to speak for yourself and do not have an effective health care representative appointment, a health care representative will be appointed for you in the order of priority set forth in ORS 127.635(2). 1. ABOUT ME. Name: Date of Birth: Telephone numbers: (Home) (Work) (Cell) Address: E-mail: 2. MY HEALTH CARE REPRESENTATIVE. I choose the following person as my health care representative to make health care decisions for me if I can’t speak for myself. Name: Relationship: Telephone numbers: (Home) (Work) (Cell) Address: E-mail: Page 2 of 3 I choose the following people to be my alternate health care representatives if my first choice is not available to make health care decisions for me or if I cancel the first health care representative’s appointment. First alternate health care representative: Name: Relationship: Telephone numbers: (Home) (Work) (Cell) Address: E-mail: Second alternate health care representative: Name: Relationship: Telephone numbers: (Home) (Work) (Cell) Address: E-mail: 3. MY SIGNATURE. My signature: Date: 4. WITNESS. COMPLETE EITHER A OR B WHEN YOU SIGN. A. NOTARY: Sta",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "le3942\\.pdf",
+      "title": "Your Guide to the Oregon Advance Directive for Health Care",
+      "family_id": "advance-directive-guide",
+      "identity": "Guide.*Oregon Advance Directive",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+      "link_text": "User guide",
+      "format": "unknown",
+      "receipt": {
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+        "retrieved_at": "2026-10-14T09:59:05.692Z",
+        "retrieval_status": "fetch-failed",
+        "error": "fetch failed"
+      },
+      "attempts": [
+        {
+          "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+          "retrieved_at": "2026-10-14T09:59:04.089Z",
+          "retrieval_status": "fetch-failed",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+          "retrieved_at": "2026-10-14T09:59:05.692Z",
+          "retrieval_status": "fetch-failed",
+          "error": "fetch failed"
+        }
+      ],
+      "downloaded": false,
+      "status": "fetch-failed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx#main"
+    },
+    {
+      "text": "How you know »",
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx#or-official-modal"
+    },
+    {
+      "text": "An official website of the State of Oregon »",
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx#or-official-modal"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregon.gov/oha/"
+    },
+    {
+      "text": "About OHA ",
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx#"
+    },
+    {
+      "text": "About OHA",
+      "url": "https://www.oregon.gov/oha/Pages/Portal-About-OHA.aspx"
+    },
+    {
+      "text": "Contact OHA",
+      "url": "https://www.oregon.gov/oha/Pages/Contact-Us.aspx"
+    },
+    {
+      "text": "Budget and Legislation",
+      "url": "https://www.oregon.gov/oha/Pages/Budget-Legislative.aspx"
+    },
+    {
+      "text": "Committees, Commissions and Workgroups",
+      "url": "https://www.oregon.gov/oha/Pages/CCW.aspx"
+    },
+    {
+      "text": "Digital Accessibility",
+      "url": "https://www.oregon.gov/oha/Digital-Accessibility/Pages/index.aspx"
+    },
+    {
+      "text": "Programs and Divisions",
+      "url": "https://www.oregon.gov/oha/Pages/Programs.aspx"
+    },
+    {
+      "text": "Policies",
+      "url": "https://www.oregon.gov/odhs/rules-policy/pages/agency-policies.aspx"
+    },
+    {
+      "text": "Public Meetings",
+      "url": "https://www.oregon.gov/oha/Pages/OHA-Public-Meetings.aspx"
+    },
+    {
+      "text": "Public Records Request",
+      "url": "https://www.oregon.gov/oha/ERD/Pages/Records.aspx"
+    },
+    {
+      "text": "Questions and Comments",
+      "url": "https://www.oregon.gov/oha/ERD/Pages/index.aspx"
+    },
+    {
+      "text": "Rules",
+      "url": "https://www.oregon.gov/oha/Pages/OHA-Rulemaking.aspx"
+    },
+    {
+      "text": "Oregon Health Forward",
+      "url": "https://www.oregon.gov/oha/OregonHealthForward/Pages/index.aspx"
+    },
+    {
+      "text": "Topics A to Z",
+      "url": "https://www.oregon.gov/oha/Pages/A-Z.aspx"
+    },
+    {
+      "text": "Programs and Services ",
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx#"
+    },
+    {
+      "text": "Addiction Services",
+      "url": "https://www.oregon.gov/oha/HSD/AMH/Pages/Addictions.aspx"
+    },
+    {
+      "text": "Crisis Lines - Get Help",
+      "url": "https://www.oregon.gov/oha/HSD/AMH/Pages/Get-Help.aspx"
+    },
+    {
+      "text": "DUII Resolution",
+      "url": "https://www.oregon.gov/oha/HSD/AMH-DUII"
+    },
+    {
+      "text": "Immunizations",
+      "url": "https://www.oregon.gov/oha/PH/PREVENTIONWELLNESS/VACCINESIMMUNIZATION"
+    },
+    {
+      "text": "Medicaid",
+      "url": "https://www.oregon.gov/oha/HSD/OHP"
+    },
+    {
+      "text": "Medical Marijuana Program",
+      "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/CHRONICDISEASE/MEDICALMARIJUANAPROGRAM"
+    },
+    {
+      "text": "Mental Health Services",
+      "url": "https://www.oregon.gov/oha/HSD/AMH/Pages/index.aspx"
+    },
+    {
+      "text": "Oregon State Hospital",
+      "url": "https://www.oregon.gov/oha/OSH"
+    },
+    {
+      "text": "Oregon Educators Benefit Board (OEBB)",
+      "url": "https://www.oregon.gov/oha/OEBB/Pages/index.aspx"
+    },
+    {
+      "text": "Public Employees' Benefit Board (PEBB)",
+      "url": "https://www.oregon.gov/oha/PEBB/Pages/index.aspx"
+    },
+    {
+      "text": "WIC Program",
+      "url": "https://www.oregon.gov/oha/PH/HEALTHYPEOPLEFAMILIES/WIC"
+    },
+    {
+      "text": "Other Program and Service Related Topics",
+      "url": "https://www.oregon.gov/oha/Pages/Portal-Programs-Services-TB.aspx"
+    },
+    {
+      "text": "Oregon Health Plan ",
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx#"
+    },
+    {
+      "text": "Oregon Health Plan Home",
+      "url": "https://www.oregon.gov/oha/HSD/OHP"
+    },
+    {
+      "text": "Log into your OHP Account (Opens in new window)",
+      "url": "https://one.oregon.gov/"
+    },
+    {
+      "text": "Do you qualify for OHP? (Opens in new window)",
+      "url": "https://healthcare.oregon.gov/Pages/get-covered.aspx"
+    },
+    {
+      "text": "Apply",
+      "url": "https://www.oregon.gov/oha/HSD/OHP/Pages/Apply.aspx"
+    },
+    {
+      "text": "Fee Schedule",
+      "url": "https://www.oregon.gov/oha/HSD/OHP/Pages/Fee-Schedule.aspx"
+    },
+    {
+      "text": "For Healthcare Providers",
+      "url": "https://www.oregon.gov/oha/HSD/OHP/Pages/Provider-Splash.aspx"
+    },
+    {
+      "text": "Preferred Drug List",
+      "url": "https://www.oregon.gov/oha/HSD/OHP/Pages/PDL.aspx"
+    },
+    {
+      "text": "Renew",
+      "url": "https://www.oregon.gov/oha/HSD/OHP/Pages/Reapply.aspx"
+    },
+    {
+      "text": "Benefits",
+      "url": "https://www.oregon.gov/oha/HSD/OHP/Pages/Benefits.aspx"
+    },
+    {
+      "text": "Other Oregon Health Plan Related Topics",
+      "url": "https://www.oregon.gov/oha/Pages/Portal-OHP-TB.aspx"
+    },
+    {
+      "text": "Health System Reform ",
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx#"
+    },
+    {
+      "text": "Coordinated Care Organizations (CCO)",
+      "url": "https://www.oregon.gov/oha/HSD/OHP/Pages/Coordinated-Care-Organizations.aspx"
+    },
+    {
+      "text": "Health Analytics Data",
+      "url": "https://www.oregon.gov/oha/HPA/ANALYTICS/Pages/index.aspx"
+    },
+    {
+      "text": "Health Care Cost Growth Target",
+      "url": "https://www.oregon.gov/oha/HPA/HP/Pages/Sustainable-Health-Care-Cost-Growth-Target.aspx"
+    },
+    {
+      "text": "Health Information Technology",
+      "url": "https://www.oregon.gov/oha/HPA/OHIT/Pages/index.aspx"
+    },
+    {
+      "text": "Hospital Reporting",
+      "url": "https://www.oregon.gov/oha/HPA/ANALYTICS/Pages/Hospital-Reporting.aspx"
+    },
+    {
+      "text": "Oregon Health Policy Board",
+      "url": "https://www.oregon.gov/oha/OHPB/Pages/index.aspx"
+    },
+    {
+      "text": "Recognized Clinics",
+      "url": "https://www.oregon.gov/oha/HPA/dsi-pcpch/Pages/Recognized-Clinics.aspx"
+    },
+    {
+      "text": "Transformation Center",
+      "url": "https://www.oregon.gov/oha/HPA/dsi-tc/Pages/index.aspx"
+    },
+    {
+      "text": "Licenses and Certificates ",
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx#"
+    },
+    {
+      "text": "Birth, Death, Marriage and Divorce Records",
+      "url": "https://www.oregon.gov/oha/PH/BIRTHDEATHCERTIFICATES/Pages/index.aspx"
+    },
+    {
+      "text": "Food Handler Cards",
+      "url": "https://www.oregon.gov/oha/PH/HEALTHYENVIRONMENTS/FOODSAFETY/Pages/cert.aspx"
+    },
+    {
+      "text": "Health Care Facility Licensing",
+      "url": "https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/HEALTHCAREPROVIDERSFACILITIES/HEALTHCAREHEALTHCAREREGULATIONQUALITYIMPROVEMENT/Pages/index.aspx"
+    },
+    {
+      "text": "Health Licensing Office",
+      "url": "https://www.oregon.gov/oha/PH/HLO/Pages/index.aspx"
+    },
+    {
+      "text": "Residential and Outpatient Behavioral Health",
+      "url": "https://www.oregon.gov/oha/HSD/AMH-LC/Pages/Index.aspx"
+    },
+    {
+      "text": "Other License and Certificate Related Topics",
+      "url": "https://www.oregon.gov/oha/Pages/Portal-Licenses-Certificates-TB.aspx"
+    },
+    {
+      "text": "Public Health ",
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx#"
+    },
+    {
+      "text": "Public Health Home",
+      "url": "https://www.oregon.gov/oha/PH/Pages/index.aspx"
+    },
+    {
+      "text": "Data and Statistics",
+      "url": "https://www.oregon.gov/oha/PH/DATASTATISTICS/Pages/index.aspx"
+    },
+    {
+      "text": "Disease and Conditions",
+      "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS"
+    },
+    {
+      "text": "Environmental Health",
+      "url": "https://www.oregon.gov/oha/PH/HEALTHYENVIRONMENTS"
+    },
+    {
+      "text": "Health Licensing Office",
+      "url": "https://www.oregon.gov/oha/PH/HLO/Pages/index.aspx"
+    },
+    {
+      "text": "Healthy People and Families",
+      "url": "https://www.oregon.gov/oha/PH/HEALTHYPEOPLEFAMILIES"
+    },
+    {
+      "text": "Preparedness",
+      "url": "https://www.oregon.gov/oha/PH/PREPAREDNESS"
+    },
+    {
+      "text": "Prevention and Wellness",
+      "url": "https://www.oregon.gov/oha/PH/PREVENTIONWELLNESS"
+    },
+    {
+      "text": "Provider and Partner Resources",
+      "url": "https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES"
+    },
+    {
+      "text": "State Public Health Laboratory",
+      "url": "https://www.oregon.gov/oha/PH/LABORATORYSERVICES"
+    },
+    {
+      "text": "Other Public Health Related Topics",
+      "url": "https://www.oregon.gov/oha/Pages/Portal-Public-Health-TB.aspx"
+    },
+    {
+      "text": "Jobs ",
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx#"
+    },
+    {
+      "text": "Office of Information Services",
+      "url": "https://www.oregon.gov/oha/FOD/OIS/Pages/index.aspx"
+    },
+    {
+      "text": "Working at Oregon State Hospital",
+      "url": "https://www.oregon.gov/oha/OSH/Pages/Employment.aspx"
+    },
+    {
+      "text": "Back to Home",
+      "url": "https://www.oregon.gov/oha/"
+    },
+    {
+      "text": "About the Public Health Division\n                                    \n                                    \n                                        Promoting health and preventing the leading causes of death, disease and injury in Oregon",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT"
+    },
+    {
+      "text": "Oregon Health Authority",
+      "url": "https://www.oregon.gov/oha/Pages/index.aspx"
+    },
+    {
+      "text": "Public Health Division",
+      "url": "https://www.oregon.gov/oha/PH/Pages/index.aspx"
+    },
+    {
+      "text": "About the Public Health Division",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Pages/index.aspx"
+    },
+    {
+      "text": "2025-29 State Health Improvement Plan",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Pages/2025-2029-State-Health-Improvement-Plan.aspx"
+    },
+    {
+      "text": "About the Public Health Division",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Pages/index.aspx"
+    },
+    {
+      "text": "Community Engagement",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Pages/CBO.aspx"
+    },
+    {
+      "text": "Public Health Accountability Metrics",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Pages/AccountabilityMetrics.aspx"
+    },
+    {
+      "text": "Public Health Advisory Board (PHAB)",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Pages/ophab.aspx"
+    },
+    {
+      "text": "Public Health System Workforce Plan",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Pages/PHS-Workforce-Plan.aspx"
+    },
+    {
+      "text": "Public Health Modernization",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/TASKFORCE/Pages/index.aspx"
+    },
+    {
+      "text": "Strategic Plan",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Pages/Goals.aspx"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.oregon.gov/oha/PH/PHD/Pages/Contact-Us.aspx"
+    },
+    {
+      "text": ".docx",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3905.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf"
+    },
+    {
+      "text": ".docx",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ls3905.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ls3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ls3942.pdf"
+    },
+    {
+      "text": ".docx",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/la3905.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/la3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/la3905.pdf"
+    },
+    {
+      "text": ".docx",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Cambodian_Khmer%20AD%20form.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Cambodian_Khmer%20AD%20form.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20UserGuide_Khmer.pdf"
+    },
+    {
+      "text": ".docx",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le9804b.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln3905.pdf"
+    },
+    {
+      "text": ".docx",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l43905.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l43905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l43942.pdf"
+    },
+    {
+      "text": ".docx",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l273905.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l273905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l273942.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/la3905.docx"
+    },
+    {
+      "text": ".docx",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Dari%20AD%20form.docx"
+    },
+    {
+      "text": "",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l273905.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Dari%20AD%20form.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20User%20Guide_Persian-Dari.pdf"
+    },
+    {
+      "text": ".docx",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lh3905.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lh3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lh3942.pdf"
+    },
+    {
+      "text": ".docx",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lj3905.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lj3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lj3942.pdf"
+    },
+    {
+      "text": ".docx",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lk3905.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lk3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lk3942.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lk3905.docx"
+    },
+    {
+      "text": ".docx",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Laotian%20AD%20form.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Laotian%20AD%20form.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20User%20Guide_LA.pdf"
+    },
+    {
+      "text": ".docx",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l333905.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l333905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l333942.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l333905.docx"
+    },
+    {
+      "text": ".docx",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Pashto_Pashtu%20AD%20form.docx"
+    },
+    {
+      "text": "",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l333905.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Pashto_Pashtu%20AD%20form.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20User%20Guide_Pashto.pdf"
+    },
+    {
+      "text": ".docx",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lp3905.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lp3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lp3942.pdf"
+    },
+    {
+      "text": ".docx",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lr3905.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lr3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lr3942.pdf"
+    },
+    {
+      "text": ".docx",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/li3905.docx"
+    },
+    {
+      "text": "pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/li3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/li3942.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/li3905.docx"
+    },
+    {
+      "text": ".docx",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Ukranian%20AD%20form.docx"
+    },
+    {
+      "text": "",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/li3905.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Ukranian%20AD%20form.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20User%20Guide_UK.pdf"
+    },
+    {
+      "text": ".docx",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lv3905.docx"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lv3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lv3942.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/Appointing-Healthcare-Representative.pdf"
+    },
+    {
+      "text": "Español / Spanish",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/Appointing-Healthcare-Representative-SP.pdf"
+    },
+    {
+      "text": "Large print",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/LARGE%20PRINT%20OHA%203905_OR%20Advance%20Directive%20for%20Health_v1.1.pdf"
+    },
+    {
+      "text": "Return to Advance Directive Advisory Committee page",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Pages/AdvanceDirectiveAdoptionCommittee.aspx"
+    },
+    {
+      "text": "Find us on Facebook",
+      "url": "https://www.facebook.com/OregonHealthAuthority/"
+    },
+    {
+      "text": "Follow us on Twitter",
+      "url": "https://twitter.com/OHAOregon"
+    },
+    {
+      "text": "Website Feedback",
+      "url": "https://www.oregon.gov/oha/Pages/WebsiteFeedback.aspx"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.oregon.gov/oha/Pages/Contact-Us.aspx"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.oregon.gov/oha/ERD/Pages/Media-Contacts.aspx"
+    },
+    {
+      "text": "Request Public Records",
+      "url": "https://www.oregon.gov/oha/ERD/Pages/Records.aspx"
+    },
+    {
+      "text": "New to Oregon Health Plan​",
+      "url": "https://www.oregon.gov/oha/HSD/OHP/Pages/New-OHP.aspx"
+    },
+    {
+      "text": "Language Access",
+      "url": "https://www.oregon.gov/oha/EI/Pages/OHA-Language-Access-and-Nondiscrimination-Policies-for-the-Public.aspx"
+    },
+    {
+      "text": "Digital Accessibility",
+      "url": "https://www.oregon.gov/oha/Digital-Accessibility/Pages/index.aspx"
+    },
+    {
+      "text": "Nondiscrimination Policy",
+      "url": "https://www.oregon.gov/oha/EI/Pages/OHA-Language-Access-and-Nondiscrimination-Policies-for-the-Public.aspx"
+    },
+    {
+      "text": "ADA Policy and Request for Modification",
+      "url": "https://www.oregon.gov/oha/EI/Pages/ADA-Notice.aspx"
+    },
+    {
+      "text": "Notice of Privacy Practices",
+      "url": "https://www.oregon.gov/oha/Pages/Notice-Privacy-Practices.aspx"
+    },
+    {
+      "text": "Back to Top",
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx#top"
+    },
+    {
+      "text": "Learn how",
+      "url": "https://bestvpn.org/outdatedbrowser/en.html"
+    },
+    {
+      "text": "×",
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx#"
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "state": "Virginia",
+  "publisher": "Virginia Court System",
+  "url": "https://www.vacourts.gov/forms/circuit/civil",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "cc1685\\.pdf",
+      "title": "Small Estate Affidavit",
+      "form_id": "CC-1685",
+      "family_id": "small-estate-affidavit",
+      "identity": "SMALL ESTATE AFFIDAVIT",
+      "max": 1
+    },
+    {
+      "pattern": "cc1611\\.pdf",
+      "title": "List of Heirs",
+      "form_id": "CC-1611",
+      "family_id": "probate-heirs-list",
+      "identity": "LIST OF HEIRS",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.vacourts.gov/forms/circuit/civil",
+    "final_url": "https://www.vacourts.gov/forms/circuit/civil",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:00:55.620Z",
+    "etag": null,
+    "last_modified": "Tue, 13 Oct 2026 20:28:16 GMT",
+    "content_length": null,
+    "sha256": "3ddf84fa180d406c47ef8377b4f57445e2ac384fa9a278edba7c609dc3f41407",
+    "title": "Circuit Court Civil Forms | Virginia Court System",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14/03-virginia-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.vacourts.gov/forms/circuit/civil",
+      "final_url": "https://www.vacourts.gov/forms/circuit/civil",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:00:55.620Z",
+      "etag": null,
+      "last_modified": "Tue, 13 Oct 2026 20:28:16 GMT",
+      "content_length": null,
+      "sha256": "3ddf84fa180d406c47ef8377b4f57445e2ac384fa9a278edba7c609dc3f41407",
+      "title": "Circuit Court Civil Forms | Virginia Court System",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "cc1685\\.pdf",
+      "title": "Small Estate Affidavit",
+      "form_id": "CC-1685",
+      "family_id": "small-estate-affidavit",
+      "identity": "SMALL ESTATE AFFIDAVIT",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    },
+    {
+      "pattern": "cc1611\\.pdf",
+      "title": "List of Heirs",
+      "form_id": "CC-1611",
+      "family_id": "probate-heirs-list",
+      "identity": "LIST OF HEIRS",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Rules of the Supreme Court of Virginia",
+      "url": "https://www.vacourts.gov/static/courts/scv/rulesofcourt.pdf"
+    },
+    {
+      "text": "Designated Local ADA Coordinators",
+      "url": "https://www.vacourts.gov/static/courts/ada/local_ada_coordinators.pdf"
+    },
+    {
+      "text": "Judicial Inquiry and Review Commission Complaint Form",
+      "url": "https://www.vacourts.gov/static/agencies/jirc/jirc_complaint_form.pdf"
+    },
+    {
+      "text": "Parent Education Self Evaluation",
+      "url": "https://www.vacourts.gov/static/courtadmin/aoc/djs/programs/parented/selfev2.pdf"
+    },
+    {
+      "text": "Rules of the Supreme Court of Virginia",
+      "url": "https://www.vacourts.gov/static/courts/scv/rulesofcourt.pdf"
+    },
+    {
+      "text": "Information about Petitioning a Circuit Court for Approval of the Right to Register to Vote",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1402.pdf"
+    },
+    {
+      "text": "Spanish Translation of CC-1402",
+      "url": "https://www.vacourts.gov/static/forms/circuit/fls/cc1402sp.pdf"
+    },
+    {
+      "text": "Petition for Approval of the Right to be Eligible to Register to Vote",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1403.pdf"
+    },
+    {
+      "text": "Spanish Translation of CC-1403",
+      "url": "https://www.vacourts.gov/static/forms/circuit/fls/cc1403sp.pdf"
+    },
+    {
+      "text": "Acceptance/Waiver of Service of Process and Waiver of Future Service of Process and Notice",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1406.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1406inst.pdf"
+    },
+    {
+      "text": "Service Other Than by Virginia Sheriff",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1407.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1407inst.pdf"
+    },
+    {
+      "text": "Application for Change of Name (Adult)",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1411.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1411inst.pdf"
+    },
+    {
+      "text": "Spanish Translation of CC-1411",
+      "url": "https://www.vacourts.gov/static/forms/circuit/fls/cc1411sp.pdf"
+    },
+    {
+      "text": "Petition for Proceeding in Civil Case Without Payment of Fees or Costs",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1414.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1414inst.pdf"
+    },
+    {
+      "text": "Cover Sheet for Filing Civil Actions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1416.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1416inst.pdf"
+    },
+    {
+      "text": "Affidavit for Service of Process on the Secretary of the Commonwealth",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1418.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1418inst.pdf"
+    },
+    {
+      "text": "Confession of Judgment/Certificate of Clerk",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1420.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1420inst.pdf"
+    },
+    {
+      "text": "Petition for Proceeding in No-Fault Divorce Without Payment of Fees and Costs",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1421.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1421inst.pdf"
+    },
+    {
+      "text": "Motion to Transfer Support, Custody and/or Visitation to Juvenile and Domestic Relations District Court",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1423.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1423inst.pdf"
+    },
+    {
+      "text": "Addendum for Protected Identifying Information - Confidential",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1426.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1426inst.pdf"
+    },
+    {
+      "text": "Application for Change of Name (Minor)",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1427.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1427inst.pdf"
+    },
+    {
+      "text": "Spanish Translation of CC-1427",
+      "url": "https://www.vacourts.gov/static/forms/circuit/fls/cc1427sp.pdf"
+    },
+    {
+      "text": "Application for Appointment of Special Conservator of the Peace",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1430.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1430inst.pdf"
+    },
+    {
+      "text": "Notice of Commencement of Action and Request for Waiver of Service of Process",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1433.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1433inst.pdf"
+    },
+    {
+      "text": "Affidavit for Order of Publication",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1435.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1435inst.pdf"
+    },
+    {
+      "text": "Motion and Notice of Proposed Payroll Deduction Order for Support",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1450.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1450inst.pdf"
+    },
+    {
+      "text": "Petition for Amendment of a Death Certificate",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1453.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1453inst.pdf"
+    },
+    {
+      "text": "Motion for Civil Show Cause Summons or Capias",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1458.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1458inst.pdf"
+    },
+    {
+      "text": "Judgment Lien Docket - Subsequent Entries",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1462.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1462inst.pdf"
+    },
+    {
+      "text": "Authorization for Partial or Full Release of Judgment Lien",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1463.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1463inst.pdf"
+    },
+    {
+      "text": "Petition for Restoration of Driving Privilege - Third Offense",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1470.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1470inst.pdf"
+    },
+    {
+      "text": "Petition for Expungement Filed in a Circuit Court Pursuant To § 19.2-392.2 A",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1473.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1473inst.pdf"
+    },
+    {
+      "text": "Petition and Order to Access Expunged Record",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1474a.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1474ainst.pdf"
+    },
+    {
+      "text": "Petition for Writ of Vacatur",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1475.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1475inst.pdf"
+    },
+    {
+      "text": "Addendum to Petition for Writ of Vacatur - Under Seal",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1475a.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1475ainst.pdf"
+    },
+    {
+      "text": "Writs of Possession and Fieri Facias in Detinue",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1478.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1478inst.pdf"
+    },
+    {
+      "text": "Notice of Claim of Lien for Attorney Fees",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1480.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1480inst.pdf"
+    },
+    {
+      "text": "Summons To Answer Interrogatories",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1481.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1481inst.pdf"
+    },
+    {
+      "text": "Suggestion for Summons in Garnishment",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1485.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1485inst.pdf"
+    },
+    {
+      "text": "Garnishment Summons",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1486.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1486inst.pdf"
+    },
+    {
+      "text": "Petition for Right of Entry",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1487.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1487inst.pdf"
+    },
+    {
+      "text": "Petition for Emergency Custody Order Violation of Conditional Release Sexual Predator",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1494.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1494inst.pdf"
+    },
+    {
+      "text": "Application for Authorization to Celebrate Rites of Marriage (Persons Other Than Ministers)",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1498.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1498inst.pdf"
+    },
+    {
+      "text": "Cover Sheet to Petition for Appointment of Guardian and/or Conservator",
+      "url": "https://www.vacourts.gov/static//forms/circuit/cc1640.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static//forms/circuit/cc1640inst.pdf"
+    },
+    {
+      "text": "Spanish Translation of CC-1640",
+      "url": "https://www.vacourts.gov/static/forms/circuit/fls/cc1640sp.pdf"
+    },
+    {
+      "text": "Addendum for Financial Information - Confidential (Guardian and/or Conservator)",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1641.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1641inst.pdf"
+    },
+    {
+      "text": "Addendum to Petition for Appointment of Guardian or Conservator-Under Seal",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1642.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1642inst.pdf"
+    },
+    {
+      "text": "Certification of Proposed Guardian",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1643.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1643inst.pdf"
+    },
+    {
+      "text": "Notice of Restriction by Guardian",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1645.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1645inst.pdf"
+    },
+    {
+      "text": "Petition for Review Hearing (Guardian and/or Conservator)",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1646.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1646inst.pdf"
+    }
+  ]
+}

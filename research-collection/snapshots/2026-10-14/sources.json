@@ -1,0 +1,5102 @@
+[
+  {
+    "state": "Alaska",
+    "publisher": "Alaska Court System",
+    "url": "https://www.courts.alaska.gov/shc/probate/forms.htm",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "p-110\\.pdf",
+        "title": "Affidavit for Collection of Personal Property of Decedent",
+        "form_id": "P-110",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.courts.alaska.gov/shc/probate/forms.htm",
+      "retrieved_at": "2026-10-14T09:00:55.971Z",
+      "retrieval_status": "fetch-failed",
+      "error": "fetch failed"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.courts.alaska.gov/shc/probate/forms.htm",
+        "retrieved_at": "2026-10-14T09:00:55.166Z",
+        "retrieval_status": "fetch-failed",
+        "error": "fetch failed"
+      },
+      {
+        "url": "https://www.courts.alaska.gov/shc/probate/forms.htm",
+        "retrieved_at": "2026-10-14T09:00:55.971Z",
+        "retrieval_status": "fetch-failed",
+        "error": "fetch failed"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "p-110\\.pdf",
+        "title": "Affidavit for Collection of Personal Property of Decedent",
+        "form_id": "P-110",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": []
+  },
+  {
+    "state": "Minnesota",
+    "publisher": "Minnesota Judicial Branch",
+    "url": "https://www.mncourts.gov/GetForms.aspx?c=31",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "PRO202.*\\.pdf",
+        "title": "Affidavit for Collection of Personal Property",
+        "form_id": "PRO202",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+        "max": 1
+      },
+      {
+        "pattern": "PRO201.*\\.pdf",
+        "title": "Instructions for Affidavit for Collection of Personal Property",
+        "form_id": "PRO201",
+        "family_id": "small-estate-instructions",
+        "identity": "INSTRUCTIONS.*AFFIDAVIT",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.mncourts.gov/GetForms.aspx?c=31",
+      "final_url": "https://www.mncourts.gov/GetForms.aspx?c=31",
+      "http_status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:00:55.219Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "4346e0b3c44eb057104f42a3f2efee10ad3aae4d9d4976fb859d5332b5604df7",
+      "title": "Just a moment...",
+      "retrieval_status": "http-403",
+      "local_archive_path": "archive/2026-10-14/02-minnesota-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.mncourts.gov/GetForms.aspx?c=31",
+        "final_url": "https://www.mncourts.gov/GetForms.aspx?c=31",
+        "http_status": 403,
+        "content_type": "text/html; charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:00:55.219Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": null,
+        "sha256": "4346e0b3c44eb057104f42a3f2efee10ad3aae4d9d4976fb859d5332b5604df7",
+        "title": "Just a moment...",
+        "retrieval_status": "http-403"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "PRO202.*\\.pdf",
+        "title": "Affidavit for Collection of Personal Property",
+        "form_id": "PRO202",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      },
+      {
+        "pattern": "PRO201.*\\.pdf",
+        "title": "Instructions for Affidavit for Collection of Personal Property",
+        "form_id": "PRO201",
+        "family_id": "small-estate-instructions",
+        "identity": "INSTRUCTIONS.*AFFIDAVIT",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": []
+  },
+  {
+    "state": "Virginia",
+    "publisher": "Virginia Court System",
+    "url": "https://www.vacourts.gov/forms/circuit/civil",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "cc1685\\.pdf",
+        "title": "Small Estate Affidavit",
+        "form_id": "CC-1685",
+        "family_id": "small-estate-affidavit",
+        "identity": "SMALL ESTATE AFFIDAVIT",
+        "max": 1
+      },
+      {
+        "pattern": "cc1611\\.pdf",
+        "title": "List of Heirs",
+        "form_id": "CC-1611",
+        "family_id": "probate-heirs-list",
+        "identity": "LIST OF HEIRS",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.vacourts.gov/forms/circuit/civil",
+      "final_url": "https://www.vacourts.gov/forms/circuit/civil",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:00:55.620Z",
+      "etag": null,
+      "last_modified": "Tue, 13 Oct 2026 20:28:16 GMT",
+      "content_length": null,
+      "sha256": "3ddf84fa180d406c47ef8377b4f57445e2ac384fa9a278edba7c609dc3f41407",
+      "title": "Circuit Court Civil Forms | Virginia Court System",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14/03-virginia-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.vacourts.gov/forms/circuit/civil",
+        "final_url": "https://www.vacourts.gov/forms/circuit/civil",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:00:55.620Z",
+        "etag": null,
+        "last_modified": "Tue, 13 Oct 2026 20:28:16 GMT",
+        "content_length": null,
+        "sha256": "3ddf84fa180d406c47ef8377b4f57445e2ac384fa9a278edba7c609dc3f41407",
+        "title": "Circuit Court Civil Forms | Virginia Court System",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "cc1685\\.pdf",
+        "title": "Small Estate Affidavit",
+        "form_id": "CC-1685",
+        "family_id": "small-estate-affidavit",
+        "identity": "SMALL ESTATE AFFIDAVIT",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      },
+      {
+        "pattern": "cc1611\\.pdf",
+        "title": "List of Heirs",
+        "form_id": "CC-1611",
+        "family_id": "probate-heirs-list",
+        "identity": "LIST OF HEIRS",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "Rules of the Supreme Court of Virginia",
+        "url": "https://www.vacourts.gov/static/courts/scv/rulesofcourt.pdf"
+      },
+      {
+        "text": "Designated Local ADA Coordinators",
+        "url": "https://www.vacourts.gov/static/courts/ada/local_ada_coordinators.pdf"
+      },
+      {
+        "text": "Judicial Inquiry and Review Commission Complaint Form",
+        "url": "https://www.vacourts.gov/static/agencies/jirc/jirc_complaint_form.pdf"
+      },
+      {
+        "text": "Parent Education Self Evaluation",
+        "url": "https://www.vacourts.gov/static/courtadmin/aoc/djs/programs/parented/selfev2.pdf"
+      },
+      {
+        "text": "Rules of the Supreme Court of Virginia",
+        "url": "https://www.vacourts.gov/static/courts/scv/rulesofcourt.pdf"
+      },
+      {
+        "text": "Information about Petitioning a Circuit Court for Approval of the Right to Register to Vote",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1402.pdf"
+      },
+      {
+        "text": "Spanish Translation of CC-1402",
+        "url": "https://www.vacourts.gov/static/forms/circuit/fls/cc1402sp.pdf"
+      },
+      {
+        "text": "Petition for Approval of the Right to be Eligible to Register to Vote",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1403.pdf"
+      },
+      {
+        "text": "Spanish Translation of CC-1403",
+        "url": "https://www.vacourts.gov/static/forms/circuit/fls/cc1403sp.pdf"
+      },
+      {
+        "text": "Acceptance/Waiver of Service of Process and Waiver of Future Service of Process and Notice",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1406.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1406inst.pdf"
+      },
+      {
+        "text": "Service Other Than by Virginia Sheriff",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1407.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1407inst.pdf"
+      },
+      {
+        "text": "Application for Change of Name (Adult)",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1411.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1411inst.pdf"
+      },
+      {
+        "text": "Spanish Translation of CC-1411",
+        "url": "https://www.vacourts.gov/static/forms/circuit/fls/cc1411sp.pdf"
+      },
+      {
+        "text": "Petition for Proceeding in Civil Case Without Payment of Fees or Costs",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1414.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1414inst.pdf"
+      },
+      {
+        "text": "Cover Sheet for Filing Civil Actions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1416.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1416inst.pdf"
+      },
+      {
+        "text": "Affidavit for Service of Process on the Secretary of the Commonwealth",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1418.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1418inst.pdf"
+      },
+      {
+        "text": "Confession of Judgment/Certificate of Clerk",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1420.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1420inst.pdf"
+      },
+      {
+        "text": "Petition for Proceeding in No-Fault Divorce Without Payment of Fees and Costs",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1421.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1421inst.pdf"
+      },
+      {
+        "text": "Motion to Transfer Support, Custody and/or Visitation to Juvenile and Domestic Relations District Court",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1423.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1423inst.pdf"
+      },
+      {
+        "text": "Addendum for Protected Identifying Information - Confidential",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1426.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1426inst.pdf"
+      },
+      {
+        "text": "Application for Change of Name (Minor)",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1427.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1427inst.pdf"
+      },
+      {
+        "text": "Spanish Translation of CC-1427",
+        "url": "https://www.vacourts.gov/static/forms/circuit/fls/cc1427sp.pdf"
+      },
+      {
+        "text": "Application for Appointment of Special Conservator of the Peace",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1430.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1430inst.pdf"
+      },
+      {
+        "text": "Notice of Commencement of Action and Request for Waiver of Service of Process",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1433.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1433inst.pdf"
+      },
+      {
+        "text": "Affidavit for Order of Publication",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1435.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1435inst.pdf"
+      },
+      {
+        "text": "Motion and Notice of Proposed Payroll Deduction Order for Support",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1450.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1450inst.pdf"
+      },
+      {
+        "text": "Petition for Amendment of a Death Certificate",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1453.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1453inst.pdf"
+      },
+      {
+        "text": "Motion for Civil Show Cause Summons or Capias",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1458.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1458inst.pdf"
+      },
+      {
+        "text": "Judgment Lien Docket - Subsequent Entries",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1462.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1462inst.pdf"
+      },
+      {
+        "text": "Authorization for Partial or Full Release of Judgment Lien",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1463.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1463inst.pdf"
+      },
+      {
+        "text": "Petition for Restoration of Driving Privilege - Third Offense",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1470.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1470inst.pdf"
+      },
+      {
+        "text": "Petition for Expungement Filed in a Circuit Court Pursuant To § 19.2-392.2 A",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1473.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1473inst.pdf"
+      },
+      {
+        "text": "Petition and Order to Access Expunged Record",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1474a.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1474ainst.pdf"
+      },
+      {
+        "text": "Petition for Writ of Vacatur",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1475.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1475inst.pdf"
+      },
+      {
+        "text": "Addendum to Petition for Writ of Vacatur - Under Seal",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1475a.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1475ainst.pdf"
+      },
+      {
+        "text": "Writs of Possession and Fieri Facias in Detinue",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1478.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1478inst.pdf"
+      },
+      {
+        "text": "Notice of Claim of Lien for Attorney Fees",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1480.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1480inst.pdf"
+      },
+      {
+        "text": "Summons To Answer Interrogatories",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1481.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1481inst.pdf"
+      },
+      {
+        "text": "Suggestion for Summons in Garnishment",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1485.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1485inst.pdf"
+      },
+      {
+        "text": "Garnishment Summons",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1486.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1486inst.pdf"
+      },
+      {
+        "text": "Petition for Right of Entry",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1487.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1487inst.pdf"
+      },
+      {
+        "text": "Petition for Emergency Custody Order Violation of Conditional Release Sexual Predator",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1494.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1494inst.pdf"
+      },
+      {
+        "text": "Application for Authorization to Celebrate Rites of Marriage (Persons Other Than Ministers)",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1498.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1498inst.pdf"
+      },
+      {
+        "text": "Cover Sheet to Petition for Appointment of Guardian and/or Conservator",
+        "url": "https://www.vacourts.gov/static//forms/circuit/cc1640.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static//forms/circuit/cc1640inst.pdf"
+      },
+      {
+        "text": "Spanish Translation of CC-1640",
+        "url": "https://www.vacourts.gov/static/forms/circuit/fls/cc1640sp.pdf"
+      },
+      {
+        "text": "Addendum for Financial Information - Confidential (Guardian and/or Conservator)",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1641.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1641inst.pdf"
+      },
+      {
+        "text": "Addendum to Petition for Appointment of Guardian or Conservator-Under Seal",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1642.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1642inst.pdf"
+      },
+      {
+        "text": "Certification of Proposed Guardian",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1643.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/forms/circuit/cc1643inst.pdf"
+      },
+      {
+        "text": "Notice of Restriction by Guardian",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1645.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1645inst.pdf"
+      },
+      {
+        "text": "Petition for Review Hearing (Guardian and/or Conservator)",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1646.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1646inst.pdf"
+      }
+    ]
+  },
+  {
+    "state": "Vermont",
+    "publisher": "Vermont Judiciary",
+    "url": "https://www.vtcourts.gov/probate/estates-and-wills",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "700-00001SM.*\\.pdf",
+        "title": "Petition to Open Small Estate",
+        "form_id": "700-00001SM",
+        "family_id": "small-estate-petition",
+        "identity": "PETITION TO OPEN SMALL ESTATE",
+        "max": 1
+      },
+      {
+        "pattern": "700-00402.*\\.pdf",
+        "title": "Affidavit of Paid and Outstanding Funeral Expenses and Debts for Small Estate",
+        "form_id": "700-00402",
+        "family_id": "small-estate-debt-affidavit",
+        "identity": "FUNERAL EXPENSES",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.vtcourts.gov/probate/estates-and-wills",
+      "final_url": "https://www.vtcourts.gov/probate/estates-and-wills",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:00:56.893Z",
+      "etag": "\"1791954066-gzip\"",
+      "last_modified": "Wed, 14 Oct 2026 05:01:06 GMT",
+      "content_length": "25762",
+      "sha256": "cf4981d61fc1b00654e0ee30788baed61b06b8b8bd0005ed35d118ad1851a8a7",
+      "title": "Estates and Wills | Vermont Judiciary",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14/04-vermont-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.vtcourts.gov/probate/estates-and-wills",
+        "final_url": "https://www.vtcourts.gov/probate/estates-and-wills",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:00:56.893Z",
+        "etag": "\"1791954066-gzip\"",
+        "last_modified": "Wed, 14 Oct 2026 05:01:06 GMT",
+        "content_length": "25762",
+        "sha256": "cf4981d61fc1b00654e0ee30788baed61b06b8b8bd0005ed35d118ad1851a8a7",
+        "title": "Estates and Wills | Vermont Judiciary",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "700-00001SM.*\\.pdf",
+        "title": "Petition to Open Small Estate",
+        "form_id": "700-00001SM",
+        "family_id": "small-estate-petition",
+        "identity": "PETITION TO OPEN SMALL ESTATE",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      },
+      {
+        "pattern": "700-00402.*\\.pdf",
+        "title": "Affidavit of Paid and Outstanding Funeral Expenses and Debts for Small Estate",
+        "form_id": "700-00402",
+        "family_id": "small-estate-debt-affidavit",
+        "identity": "FUNERAL EXPENSES",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": []
+  },
+  {
+    "state": "Utah",
+    "publisher": "Utah State Courts",
+    "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "(?:affidavit_personal_property|Affidavit.*Collecting|Collecting.*Personal).*\\.pdf",
+        "title": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+        "family_id": "small-estate-affidavit",
+        "identity": "Affidavit for Collecting Personal Property",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+      "final_url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "retrieved_at": "2026-10-14T09:00:56.706Z",
+      "etag": "\"23105-65dc1a70e364a-gzip\"",
+      "last_modified": "Wed, 14 Oct 2026 00:02:53 GMT",
+      "content_length": "20618",
+      "sha256": "91a15315c90e8fdd3f8d299a273b0676d4544ea655b50b596dd3df7110fff135",
+      "title": "Informal Probate",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14/05-utah-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+        "final_url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+        "http_status": 200,
+        "content_type": "text/html;charset=utf-8",
+        "retrieved_at": "2026-10-14T09:00:56.706Z",
+        "etag": "\"23105-65dc1a70e364a-gzip\"",
+        "last_modified": "Wed, 14 Oct 2026 00:02:53 GMT",
+        "content_length": "20618",
+        "sha256": "91a15315c90e8fdd3f8d299a273b0676d4544ea655b50b596dd3df7110fff135",
+        "title": "Informal Probate",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "(?:affidavit_personal_property|Affidavit.*Collecting|Collecting.*Personal).*\\.pdf",
+        "title": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+        "family_id": "small-estate-affidavit",
+        "identity": "Affidavit for Collecting Personal Property",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "Strategic Plan",
+        "url": "https://www.utcourts.gov/content/dam/about/admin/USC-Strategic-Plan.pdf"
+      },
+      {
+        "text": "Department of Motor Vehicles Survivorship Affidavit",
+        "url": "http://tax.utah.gov/forms/current/tc-569c.pdf"
+      },
+      {
+        "text": "2024 State of the Judiciary",
+        "url": "https://www.utcourts.gov/content/dam/resources/reports/statejudiciary/2024-StateOfTheJudiciary.pdf"
+      },
+      {
+        "text": "2026 Utah Judicial Council Annual Report",
+        "url": "https://www.utcourts.gov/content/dam/court-records-publications/publications/court-publications/court-reports/2026-CourtsAnnualReport.pdf"
+      }
+    ]
+  },
+  {
+    "state": "Washington",
+    "publisher": "Washington State Courts",
+    "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "(?:05\\.?0100|050100).*\\.pdf",
+        "title": "Notice of Small Claim",
+        "form_id": "MISC 05.0100",
+        "family_id": "small-claims-complaint",
+        "identity": "NOTICE OF SMALL CLAIM",
+        "max": 1
+      },
+      {
+        "pattern": "(?:05\\.?0200|050200).*\\.pdf",
+        "title": "Small Claims Certificate of Service",
+        "form_id": "MISC 05.0200",
+        "family_id": "small-claims-service",
+        "identity": "CERTIFICATE OF SERVICE",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+      "final_url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:00:57.049Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "51080e14cf723a1677a404fb3e7fc9afbc19533e940d5c50a3550c2ed45c16ef",
+      "title": "Washington State Courts - Court Forms - Small Claims",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14/06-washington-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+        "final_url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+        "http_status": 200,
+        "content_type": "text/html;charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:00:57.049Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": null,
+        "sha256": "51080e14cf723a1677a404fb3e7fc9afbc19533e940d5c50a3550c2ed45c16ef",
+        "title": "Washington State Courts - Court Forms - Small Claims",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "(?:05\\.?0100|050100).*\\.pdf",
+        "title": "Notice of Small Claim",
+        "form_id": "MISC 05.0100",
+        "family_id": "small-claims-complaint",
+        "identity": "NOTICE OF SMALL CLAIM",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      },
+      {
+        "pattern": "(?:05\\.?0200|050200).*\\.pdf",
+        "title": "Small Claims Certificate of Service",
+        "form_id": "MISC 05.0200",
+        "family_id": "small-claims-service",
+        "identity": "CERTIFICATE OF SERVICE",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "",
+        "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200100%20Notice%20of%20Small%20Claim%202025%2001.pdf"
+      },
+      {
+        "text": "",
+        "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200200%20SC%20-%20Proof%20of%20Service%202025%2001.pdf"
+      },
+      {
+        "text": "",
+        "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%20300SC%20Order%20Dismiss%20Continue%202025%2001.pdf"
+      },
+      {
+        "text": "",
+        "url": "https://www.courts.wa.gov/forms/documents/MISC05_0500_SmallClaims%20Judgment%202025_01%2001.pdf"
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "publisher": "Michigan Department of Attorney General",
+    "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+    "category": "Estate and personal planning",
+    "direct": true,
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "Michigan Statutory Form Power of Attorney",
+        "family_id": "financial-power-of-attorney",
+        "identity": "MICHIGAN STATUTORY FORM POWER OF ATTORNEY",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+      "final_url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "retrieved_at": "2026-10-14T09:00:58.504Z",
+      "etag": "534440b5380f4a689b4afd32e293a295",
+      "last_modified": "Tue, 03 Jun 2025 20:15:27 GMT",
+      "content_length": "134472",
+      "sha256": "4e6d7a5d85c94ce5e4b369e9262132f382c361350d1d81db5020bcf9e5063ec0",
+      "title": "",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14/07-michigan-source.pdf"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+        "final_url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:00:58.504Z",
+        "etag": "534440b5380f4a689b4afd32e293a295",
+        "last_modified": "Tue, 03 Jun 2025 20:15:27 GMT",
+        "content_length": "134472",
+        "sha256": "4e6d7a5d85c94ce5e4b369e9262132f382c361350d1d81db5020bcf9e5063ec0",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": ".*",
+        "title": "Michigan Statutory Form Power of Attorney",
+        "family_id": "financial-power-of-attorney",
+        "identity": "MICHIGAN STATUTORY FORM POWER OF ATTORNEY",
+        "max": 1,
+        "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+        "link_text": "Michigan Statutory Form Power of Attorney",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+          "final_url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:00:58.504Z",
+          "etag": "534440b5380f4a689b4afd32e293a295",
+          "last_modified": "Tue, 03 Jun 2025 20:15:27 GMT",
+          "content_length": "134472",
+          "sha256": "4e6d7a5d85c94ce5e4b369e9262132f382c361350d1d81db5020bcf9e5063ec0",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+            "final_url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:00:58.504Z",
+            "etag": "534440b5380f4a689b4afd32e293a295",
+            "last_modified": "Tue, 03 Jun 2025 20:15:27 GMT",
+            "content_length": "134472",
+            "sha256": "4e6d7a5d85c94ce5e4b369e9262132f382c361350d1d81db5020bcf9e5063ec0",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "4e6d7a5d85c94ce5e4b369e9262132f382c361350d1d81db5020bcf9e5063ec0",
+        "local_archive_path": "archive/2026-10-14/07-michigan-statutory-form-power-of-attorney-4e6d7a5d85c9.pdf",
+        "bytes": 134472,
+        "text_length": 15722,
+        "pages": 6,
+        "identity_excerpt": "MICHIGAN STATUTORY FORM POWER OF ATTORNEY IMPORTANT INFORMATION This power of attorney authorizes another person (your agent) to make decisions concerning your property for you (the principal). It is, therefore, an important legal document, and you are taking a serious step if you decide to make use of this form without seeking legal advice; for if the person you designate as your agent accepts authority granted under this power of attorney, the agent will be able to make decisions and act with respect to your property (including your money). The extent of your agent's authority over subjects listed on this form is explained in the uniform power of attorney act, MCL 556.201 to 556.505. This power of attorney does not authorize the agent to make health care decisions for you and it does not authorize the agent to exercise powers you have as a parent or guardian regarding care, custody, or property of a minor child or ward. You should select someone you trust to serve as your agent and you should ask yourself as you review each section of this form, whether you have chosen the right person(s) to act in that capacity. If your signature on this form is notarized or witnessed as provided below, then unless you specify otherwise, the agent's authority will generally continue until you die or revoke the power of attorney or the agent resigns or is unable to act for you. Your agent is entitled to reasonable compensation unless you state otherwise in the Special Instructions. This form provides for designation of an agent and successor agent(s) who serve one at a time, as opposed to coagents who serve simultaneously. If you wish to name coagents, you may do so in the Special Instructions. Coagents are not required to act together unless you include that requirement in the Specia",
+        "revision_evidence": [
+          "enefit of legal counsel. EFFECTIVE DATE This power of attorney is effective immediately unless I have stated "
+        ],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "Michigan Statutory Form Power of Attorney",
+        "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb"
+      }
+    ]
+  },
+  {
+    "state": "Montana",
+    "publisher": "Montana Judicial Branch",
+    "url": "https://www.courts.mt.gov/Forms/endoflife",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "(?:affidavit|aff).*?(?:personal|collection).*\\.pdf|(?:personal|collection).*?(?:affidavit|aff).*\\.pdf",
+        "title": "Affidavit for Collection of Personal Property of Decedent",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+        "max": 1
+      },
+      {
+        "pattern": "aff_of_death\\.pdf",
+        "title": "Affidavit of Death",
+        "family_id": "transfer-on-death-affidavit",
+        "identity": "AFFIDAVIT OF DEATH",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.courts.mt.gov/Forms/endoflife",
+      "retrieved_at": "2026-10-14T09:00:58.617Z",
+      "retrieval_status": "fetch-failed",
+      "error": "fetch failed"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.courts.mt.gov/Forms/endoflife",
+        "retrieved_at": "2026-10-14T09:00:57.887Z",
+        "retrieval_status": "fetch-failed",
+        "error": "fetch failed"
+      },
+      {
+        "url": "https://www.courts.mt.gov/Forms/endoflife",
+        "retrieved_at": "2026-10-14T09:00:58.617Z",
+        "retrieval_status": "fetch-failed",
+        "error": "fetch failed"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "(?:affidavit|aff).*?(?:personal|collection).*\\.pdf|(?:personal|collection).*?(?:affidavit|aff).*\\.pdf",
+        "title": "Affidavit for Collection of Personal Property of Decedent",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      },
+      {
+        "pattern": "aff_of_death\\.pdf",
+        "title": "Affidavit of Death",
+        "family_id": "transfer-on-death-affidavit",
+        "identity": "AFFIDAVIT OF DEATH",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": []
+  },
+  {
+    "state": "North Carolina",
+    "publisher": "North Carolina Secretary of State",
+    "url": "https://www.sosnc.gov/forms/by_title/_advance_healthcare_directives",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "health_care_power_of_attorney\\.pdf",
+        "title": "Health Care Power of Attorney",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "HEALTH CARE POWER OF ATTORNEY",
+        "max": 1
+      },
+      {
+        "pattern": "advance_directive_for_a_natural_death\\.pdf",
+        "title": "Advance Directive for a Natural Death (Living Will)",
+        "family_id": "health-care-directive",
+        "identity": "ADVANCE DIRECTIVE.*NATURAL DEATH",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.sosnc.gov/forms/by_title/_advance_healthcare_directives",
+      "final_url": "https://www.sosnc.gov/forms/by_title/_advance_healthcare_directives",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:00:57.976Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "a7608817b70b2566549b6bde6d379b30a72416044ffaf193aa96f1af0b277d8c",
+      "title": "Advance Healthcare Directives",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14/09-north-carolina-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.sosnc.gov/forms/by_title/_advance_healthcare_directives",
+        "final_url": "https://www.sosnc.gov/forms/by_title/_advance_healthcare_directives",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "retrieved_at": "2026-10-14T09:00:57.976Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": null,
+        "sha256": "a7608817b70b2566549b6bde6d379b30a72416044ffaf193aa96f1af0b277d8c",
+        "title": "Advance Healthcare Directives",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "health_care_power_of_attorney\\.pdf",
+        "title": "Health Care Power of Attorney",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "HEALTH CARE POWER OF ATTORNEY",
+        "max": 1,
+        "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/health_care_power_of_attorney.pdf",
+        "link_text": "Health Care Power of Attorney (PDF)",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/health_care_power_of_attorney.pdf",
+          "final_url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/health_care_power_of_attorney.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:00:58.765Z",
+          "etag": "\"80e1e12a6f2cdb1:0\"",
+          "last_modified": "Fri, 01 Nov 2024 15:03:11 GMT",
+          "content_length": "250307",
+          "sha256": "0b0cad2e8e474529358ef7020b9d13ded0336d018d75719bb9b8ef52ef37e79e",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/health_care_power_of_attorney.pdf",
+            "final_url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/health_care_power_of_attorney.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:00:58.765Z",
+            "etag": "\"80e1e12a6f2cdb1:0\"",
+            "last_modified": "Fri, 01 Nov 2024 15:03:11 GMT",
+            "content_length": "250307",
+            "sha256": "0b0cad2e8e474529358ef7020b9d13ded0336d018d75719bb9b8ef52ef37e79e",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "0b0cad2e8e474529358ef7020b9d13ded0336d018d75719bb9b8ef52ef37e79e",
+        "local_archive_path": "archive/2026-10-14/09-health-care-power-of-attorney-0b0cad2e8e47.pdf",
+        "bytes": 250307,
+        "text_length": 19092,
+        "pages": 7,
+        "identity_excerpt": "(Rev. 07-08-2022) STATE OF NORTH CAROLINA HEALTH CARE POWER OF ATTORNEY COUNTY OF ________________ NOTE: YOU SHOULD USE THIS DOCUMENT TO NAME A PERSON AS YOUR HEALTH CARE AGENT IF YOU ARE COMFORTABLE GIVING THAT PERSON BROAD AND SWEEPING POWERS TO MAKE HEALTH CARE DECISIONS FOR YOU. THERE IS NO LEGAL REQUIREMENT THAT ANYONE EXECUTE A HEALTH CARE POWER OF ATTORNEY. 1. Designation of Health Care Agent. I, __________________, being of sound mind, hereby appoint the following person(s) to serve as my health care agent(s) to act for me and in my name (in any way I could act in person) to make health care decisions for me as authorized in this document. My designated health care agent(s) shall serve alone, in the order named. EXPLANATION: You have the right to name someone to make health care decisions for you when you cannot make or communicate those decisions. This form may be used to create a health care power of attorney, and meets the requirements of North Carolina law. However, you are not required to use this form, and North Carolina law allows the use of other forms that meet certain requirements. If you prepare your own health care power of attorney, you should be very careful to make sure it is consistent with North Carolina law. This document gives the person you designate as your health care agent broad powers to make health care decisions for you when you cannot make the decision yourself or cannot communicate your decision to other people. You should discuss your wishes concerning life-prolonging measures, mental health treatment, and other health care decisions with your health care agent. Except to the extent that you express specific limitations or restrictions in this form, your health care agent may make any health care decision you could make yourself. Thi",
+        "revision_evidence": [
+          "(Rev. 07-08-2022) STATE OF NORTH CAROLINA HEALTH CARE POWER OF ATTORNEY COUNT",
+          "//www.sosnc.gov/health. (Rev. 07-08-2022) A. Name: _______________________ Home Telephone: __________",
+          "o as \"shock treatment.\" (Rev. 07-08-2022) F. Giving consent for, withdrawing consent for, or withhold",
+          "nutrition or hydration. (Rev. 07-08-2022) ________ (Initial) B. Limitations Concerning Health Care De",
+          "ou insert a limitation. (Rev. 07-08-2022) 6. Organ Donation. To the extent I have not already made va",
+          "s, friends, and others. (Rev. 07-08-2022) 9. Miscellaneous Provisions. A. Revocation of Prior Powers ",
+          " _________________STATE (Rev. 07-08-2022) Sworn to (or affirmed) and subscribed before me this day by"
+        ],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      },
+      {
+        "pattern": "advance_directive_for_a_natural_death\\.pdf",
+        "title": "Advance Directive for a Natural Death (Living Will)",
+        "family_id": "health-care-directive",
+        "identity": "ADVANCE DIRECTIVE.*NATURAL DEATH",
+        "max": 1,
+        "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_directive_for_a_natural_death.pdf",
+        "link_text": "Advance Directive for a Natural Death (\"Living Will\")(PDF)",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_directive_for_a_natural_death.pdf",
+          "final_url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_directive_for_a_natural_death.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:00:59.357Z",
+          "etag": "\"80e1e12a6f2cdb1:0\"",
+          "last_modified": "Fri, 01 Nov 2024 15:03:11 GMT",
+          "content_length": "180216",
+          "sha256": "c905e32db504b5fc8fc63a2ffe759b60196527e8cc9c51e336435b82f9379893",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_directive_for_a_natural_death.pdf",
+            "final_url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_directive_for_a_natural_death.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:00:59.357Z",
+            "etag": "\"80e1e12a6f2cdb1:0\"",
+            "last_modified": "Fri, 01 Nov 2024 15:03:11 GMT",
+            "content_length": "180216",
+            "sha256": "c905e32db504b5fc8fc63a2ffe759b60196527e8cc9c51e336435b82f9379893",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "c905e32db504b5fc8fc63a2ffe759b60196527e8cc9c51e336435b82f9379893",
+        "local_archive_path": "archive/2026-10-14/09-advance-directive-for-a-natural-death-living-will-c905e32db504.pdf",
+        "bytes": 180216,
+        "text_length": 8835,
+        "pages": 4,
+        "identity_excerpt": "(Rev. 07-08-2022) STATE OF NORTH CAROLINA ADVANCE DIRECTIVE FOR A NATURAL DEATH (“LIVING WILL’) COUNTY OF ________________ NOTE: YOU SHOULD USE THIS DOCUMENT TO GIVE YOUR HEALTH CARE PROVIDERS INSTRUCTIONS TO WITHHOLD OR WITHDRAW LIFE-PROLONGING MEASURES IN CERTAIN SITUATIONS. THERE IS NO LEGAL REQUIREMENT THAT ANYONE EXECUTE A LIVING WILL. My Desire for a Natural Death I, __________________________, being of sound mind, desire that, as specified below, my life not be prolonged by life-prolonging measures: 1. When My Directives Apply My directions about prolonging my life shall apply IF my attending physician determines that I lack capacity to make or communicate health care decisions and: NOTE: YOU MAY INITIAL ANY OR ALL OF THESE CHOICES. ________ (Initial) I have an incurable or irreversible condition that will result in my death within a relatively short period of time. ________ (Initial) I become unconscious and my health care providers determine that, to a high degree of medical certainty, I will never regain my consciousness. ________ (Initial) I suffer from advanced dementia or any other condition which results in the substantial loss of my cognitive ability and my health care providers determine that, to a high degree of medical certainty, this loss is not reversible. GENERAL INSTRUCTIONS: You can use this Advance Directive (\"Living Will\") form to give instructions for the future if you want your health care providers to withhold or withdraw life-prolonging measures in certain situations. You should talk to your doctor about what these terms mean. The Living Will states what choices you would have made for yourself if you were able to communicate. Talk to your family members, friends, and others you trust about your choices. Also, it is a good idea to talk with ",
+        "revision_evidence": [
+          "(Rev. 07-08-2022) STATE OF NORTH CAROLINA ADVANCE DIRECTIVE FOR A NATURAL DEA",
+          "//www.sosnc.gov/health. (Rev. 07-08-2022) 2. These are My Directives about Prolonging My Life: In tho",
+          "y advance instructions. (Rev. 07-08-2022) 6. If I have an Available Health Care Agent If I have appoi",
+          ", nor a licensed health (Rev. 07-08-2022) care provider who is (1) an employee of the declarant's att"
+        ],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "Advance Health Care Brochure (PDF)",
+        "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/Brochure.pdf"
+      },
+      {
+        "text": "Registration Form (PDF)",
+        "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/registration_form.pdf"
+      },
+      {
+        "text": "Removal Form (PDF)",
+        "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/remove_directive_form.pdf"
+      },
+      {
+        "text": "Health Care Power of Attorney (PDF)",
+        "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/health_care_power_of_attorney.pdf"
+      },
+      {
+        "text": "Advance Directive for a Natural Death (\"Living Will\")(PDF)",
+        "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_directive_for_a_natural_death.pdf"
+      },
+      {
+        "text": "Advance Directive for Mental Health Treatment (PDF)",
+        "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_instruction_for_mental_health.pdf"
+      },
+      {
+        "text": "Organ/Tissue Donor Card (PDF)",
+        "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/organ_tissue_donor_card.pdf"
+      }
+    ]
+  },
+  {
+    "state": "Rhode Island",
+    "publisher": "Rhode Island Department of Health",
+    "url": "https://health.ri.gov/death-and-dying/end-life-decisions-advanced-directives",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "(?:powerofattorney|PowerOfAttorney|power.of.attorney|DurablePower).*\\.pdf",
+        "title": "Durable Power of Attorney for Health Care",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "POWER OF ATTORNEY.*HEALTH CARE",
+        "max": 1
+      },
+      {
+        "pattern": "living.?will.*\\.pdf",
+        "title": "Living Will",
+        "family_id": "health-care-directive",
+        "identity": "LIVING WILL",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://health.ri.gov/death-and-dying/end-life-decisions-advanced-directives",
+      "final_url": "https://health.ri.gov/death-and-dying/end-life-decisions-advanced-directives",
+      "http_status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:00:59.924Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "583a746797f8ee4b9c5106dcd467e1c2b7220c95d5c8dcd2232ff8d93b3873bd",
+      "title": "Just a moment...",
+      "retrieval_status": "http-403",
+      "local_archive_path": "archive/2026-10-14/10-rhode-island-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://health.ri.gov/death-and-dying/end-life-decisions-advanced-directives",
+        "final_url": "https://health.ri.gov/death-and-dying/end-life-decisions-advanced-directives",
+        "http_status": 403,
+        "content_type": "text/html; charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:00:59.924Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": null,
+        "sha256": "583a746797f8ee4b9c5106dcd467e1c2b7220c95d5c8dcd2232ff8d93b3873bd",
+        "title": "Just a moment...",
+        "retrieval_status": "http-403"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "(?:powerofattorney|PowerOfAttorney|power.of.attorney|DurablePower).*\\.pdf",
+        "title": "Durable Power of Attorney for Health Care",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "POWER OF ATTORNEY.*HEALTH CARE",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      },
+      {
+        "pattern": "living.?will.*\\.pdf",
+        "title": "Living Will",
+        "family_id": "health-care-directive",
+        "identity": "LIVING WILL",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": []
+  },
+  {
+    "state": "Indiana",
+    "publisher": "Indiana Disability Rights",
+    "url": "https://www.in.gov/idr/advanced-directive-resources/",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "Health-Care-Representative.*(?:Eng|English).*\\.pdf",
+        "title": "Advance Directive: Indiana Health Care Representative",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "Health Care Representative",
+        "max": 1
+      },
+      {
+        "pattern": "Planning-Sheet.*(?:Eng|English).*\\.pdf",
+        "title": "Advance Directive Planning Sheet",
+        "family_id": "advance-care-planning-worksheet",
+        "identity": "Planning Sheet",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.in.gov/idr/advanced-directive-resources/",
+      "final_url": "https://www.in.gov/idr/advanced-directive-resources/",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:01:00.750Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "7290679d7e83d8f8398fba3ffa01664118424a7c0010206a0b95ba703e192307",
+      "title": "Indiana Disability Rights: Advanced Directive Resources",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14/11-indiana-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.in.gov/idr/advanced-directive-resources/",
+        "final_url": "https://www.in.gov/idr/advanced-directive-resources/",
+        "http_status": 200,
+        "content_type": "text/html;charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:01:00.750Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": null,
+        "sha256": "7290679d7e83d8f8398fba3ffa01664118424a7c0010206a0b95ba703e192307",
+        "title": "Indiana Disability Rights: Advanced Directive Resources",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "Health-Care-Representative.*(?:Eng|English).*\\.pdf",
+        "title": "Advance Directive: Indiana Health Care Representative",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "Health Care Representative",
+        "max": 1,
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-Eng.pdf",
+        "link_text": "English",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-Eng.pdf",
+          "final_url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-Eng.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:01:01.207Z",
+          "etag": "W/dot:e27cf188-05a7-46ae-9a3a-1db5030e04cb:1784812815000:33165",
+          "last_modified": "Thu, 23 Jul 2026 13:20:15 GMT",
+          "content_length": "33165",
+          "sha256": "3ecbdf1954959e771dadb9e37db2e449ff7b60dfff3d564f03472ccf6a63c0e8",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-Eng.pdf",
+            "final_url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-Eng.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:01:01.207Z",
+            "etag": "W/dot:e27cf188-05a7-46ae-9a3a-1db5030e04cb:1784812815000:33165",
+            "last_modified": "Thu, 23 Jul 2026 13:20:15 GMT",
+            "content_length": "33165",
+            "sha256": "3ecbdf1954959e771dadb9e37db2e449ff7b60dfff3d564f03472ccf6a63c0e8",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "3ecbdf1954959e771dadb9e37db2e449ff7b60dfff3d564f03472ccf6a63c0e8",
+        "local_archive_path": "archive/2026-10-14/11-advance-directive-indiana-health-care-representative-3ecbdf195495.pdf",
+        "bytes": 33165,
+        "text_length": 3105,
+        "pages": 2,
+        "identity_excerpt": "Equity Through Advocacy The Protection and Advocacy System for the State of Indiana 4755 Kingsway Drive, Suite 100 Phone: 317.722.5555 Indianapolis, IN 46205 Toll Free: 800.622.4845 IndianaDisabilityRights.org Fax: 317.722.5564 This Advanced Directive project was funded by the Indianapolis Bar Foundation. Advance Directive Indiana Health Care Representative A Health Care Representative is a person chosen by you to make healthcare decisions, including end of life decisions, if you are unable to make your own decisions. A doctor determines if a person is unable to make their own decisions. My legal name is (also known as \"Declarant\") ________________________________________________________________ My Health Care Representative can make decisions for me if I cannot make and share my own health care decisions. My Health Care Representative must follow my wishes and values. My values include my ideas about dignity and quality of life. If my Health Care Representative does not know my wishes, my Health Care Representative must act in good faith and make decisions in my best interests. These decisions include: • Agreeing to medical treatment; • Refusing medical treatment; • Stopping medical treatment; and • Arranging comfort care. I want the following person to be my Health Care Representative (HCR): (HCR Name): ____________________________________________________ (HCR Phone Number): _____________________________________________ If my primary HCR named above is not able or available to act for me, I want the following person to be my backup HCR. (Backup HCR Name): ______________________________________________ (Backup HCR Phone Number): _______________________________________ This Advanced Directive project was funded by the Indianapolis Bar Foundation. 2 Version 3: Last updat",
+        "revision_evidence": [],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      },
+      {
+        "pattern": "Planning-Sheet.*(?:Eng|English).*\\.pdf",
+        "title": "Advance Directive Planning Sheet",
+        "family_id": "advance-care-planning-worksheet",
+        "identity": "Planning Sheet",
+        "max": 1,
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-Eng-23.6.10-1.pdf",
+        "link_text": "English",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-Eng-23.6.10-1.pdf",
+          "final_url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-Eng-23.6.10-1.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:01:01.816Z",
+          "etag": "W/dot:fe2d8c60-1b67-45c4-9764-9cdf06a8471b:1784812809000:125737",
+          "last_modified": "Thu, 23 Jul 2026 13:20:09 GMT",
+          "content_length": "125737",
+          "sha256": "e3827f8c72ec4d928c5cbe0a2fa9ea00952d3341faa75430f2f99922f5e76c55",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-Eng-23.6.10-1.pdf",
+            "final_url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-Eng-23.6.10-1.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:01:01.816Z",
+            "etag": "W/dot:fe2d8c60-1b67-45c4-9764-9cdf06a8471b:1784812809000:125737",
+            "last_modified": "Thu, 23 Jul 2026 13:20:09 GMT",
+            "content_length": "125737",
+            "sha256": "e3827f8c72ec4d928c5cbe0a2fa9ea00952d3341faa75430f2f99922f5e76c55",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "e3827f8c72ec4d928c5cbe0a2fa9ea00952d3341faa75430f2f99922f5e76c55",
+        "local_archive_path": "archive/2026-10-14/11-advance-directive-planning-sheet-e3827f8c72ec.pdf",
+        "bytes": 125737,
+        "text_length": 14181,
+        "pages": 11,
+        "identity_excerpt": "_____________________________________________________________________________________________________ Equity Through Advocacy The Protection and Advocacy System for the State of Indiana 4755 Kingsway Drive, Suite 100 Phone: 317.722.5555 Indianapolis, IN 46205 Toll Free: 800.622.4845 IndianaDisabilityRights.org Fax: 317.722.5564 This Advanced Directive Planning Sheet was funded by the Indianapolis Bar Foundation. Advanced Directive Planning Sheet Your name: Your address: Your phone number: Your email address: Health Care Representative If you are unable to make or communicate your health care decisions, a health care representative (HCR) can help make those decisions for you. The questions below are designed to help you decide whether to appoint one or more HCR, who to choose, and the decisions they can make. An HCR can: • Say yes or no to any life support or medical treatment if you cannot do so yourself; and Decide what happens to your body after you die, such as organ donation, autopsy, and funeral plans. Advance Directive Effective Event When do you want your HCR to be appointed? (Please choose one.) This question asks when you want your HCR to take effect and have your HCR appointed: right away, or only once a doctor or court decides that you can no longer make or communicate health care decisions for yourself. In either case, you still get to make health care decisions as long as you are able. ☐ Immediately after you sign the form. ☐ When a doctor or court decides you can’t make decisions yourself. This Advanced Directive Planning Sheet was funded by the Indianapolis Bar Foundation. 2 Version 3: Last updated 23.6.10 ☐ Effective on the following date: _______________________________ NOTES: Decision-Making Standards for a Health Care Representative(s) Do you want you",
+        "revision_evidence": [],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "English",
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-Client-FAQ-Final-Eng-23.6.10.pdf"
+      },
+      {
+        "text": "English LP",
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-Client-FAQ-Final-LP-Eng-23.6.10.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-Client-FAQ-Final-SPA-23.6.10.pdf"
+      },
+      {
+        "text": "Spanish LP",
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-Client-FAQ-Final-LP-SPA-23.6.10.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-Eng-23.6.10-1.pdf"
+      },
+      {
+        "text": "English LP",
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-LP-Eng-23.6.10.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-SPA-23.6.10.pdf"
+      },
+      {
+        "text": "Spanish LP",
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-LP-SPA-23.6.10.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-Eng.pdf"
+      },
+      {
+        "text": "English LP",
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-LP-Eng.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-SPA.pdf"
+      },
+      {
+        "text": "Spanish LP",
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-LP-SPA.pdf"
+      }
+    ]
+  },
+  {
+    "state": "Kentucky",
+    "publisher": "Kentucky Court of Justice",
+    "url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "830\\.pdf",
+        "title": "Petition to Dispense with Administration",
+        "form_id": "AOC-830",
+        "family_id": "small-estate-petition",
+        "identity": "DISPENSE WITH ADMINISTRATION",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx",
+      "final_url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:01:01.393Z",
+      "etag": null,
+      "last_modified": "Wed, 14 Oct 2026 09:00:59 GMT",
+      "content_length": null,
+      "sha256": "9c827818f5385a11987d68072d3fbde9f0a4b6c42890148206be78a00513456a",
+      "title": "Legal Forms - Kentucky Court of Justice",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14/12-kentucky-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx",
+        "final_url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "retrieved_at": "2026-10-14T09:01:01.393Z",
+        "etag": null,
+        "last_modified": "Wed, 14 Oct 2026 09:00:59 GMT",
+        "content_length": null,
+        "sha256": "9c827818f5385a11987d68072d3fbde9f0a4b6c42890148206be78a00513456a",
+        "title": "Legal Forms - Kentucky Court of Justice",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "830\\.pdf",
+        "title": "Petition to Dispense with Administration",
+        "form_id": "AOC-830",
+        "family_id": "small-estate-petition",
+        "identity": "DISPENSE WITH ADMINISTRATION",
+        "max": 1,
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.pdf",
+        "link_text": "English",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.pdf",
+          "final_url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:01:02.404Z",
+          "etag": "\"{2CF54C80-0252-40C1-BCA0-4192E04A7EA1},19\"",
+          "last_modified": "Tue, 27 Jan 2026 20:49:51 GMT",
+          "content_length": "251923",
+          "sha256": "501672e077bde1a5165a672d892f0fd37b1b66fffc980ea062d57081c3c908a9",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.pdf",
+            "final_url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:01:02.404Z",
+            "etag": "\"{2CF54C80-0252-40C1-BCA0-4192E04A7EA1},19\"",
+            "last_modified": "Tue, 27 Jan 2026 20:49:51 GMT",
+            "content_length": "251923",
+            "sha256": "501672e077bde1a5165a672d892f0fd37b1b66fffc980ea062d57081c3c908a9",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "501672e077bde1a5165a672d892f0fd37b1b66fffc980ea062d57081c3c908a9",
+        "local_archive_path": "archive/2026-10-14/12-petition-to-dispense-with-administration-501672e077bd.pdf",
+        "bytes": 251923,
+        "text_length": 6581,
+        "pages": 2,
+        "identity_excerpt": "Name: __________________________________________ Relation: ______________________ Age: _________ Address: ______________________________________________________________________________________ _____________________________________________________________________________________________ PETITION TO DISPENSE WITH ADMINISTRATION l e x e t j u s t i t i a C O M M O N W E A L T H O F K E N T U C K Y C O U R T O F J U S T I C E IN RE: Estate of (Name of Decedent) PETITION TO (check one) q A. DISPENSE WITH ADMINISTRATION q B. DISPENSE WITH ADMINISTRATION AND FOR PROBATE OF WILL Comes Petitioner, ______________________________________, and states as follows: 1. Decedent died (check one) q testate (with a Will) q intestate (without a Will) with residence at the above address and on the above date. 2. There has been no previous administration in Decedent's estate in Kentucky or elsewhere. 3. (Check and complete if Box B. is checked above) q The names of the surviving spouse, heirs at law and next of kin known to Petitioner are as follows: (Note: If Petitioner is the executor named in the Will, only the surviving spouse, if applicable, must be provided below.) 4. (Check if Box B. is checked above) q Petitioner applies for probate of Decedent's Will, (check one) q original offered this date q will be offered without delay, which is his/her Last Will and Testament. Case No. ____________________ Court ________________________ County ______________________ Division ______________________ AOC-830 Doc. Code: PDA Rev. 1-26 Page 1 of 2 Commonwealth of Kentucky Court of Justice www.kycourts.gov KRS 391.030; 394.145; 395.455; 396.095 Name: __________________________________________ Relation: ______________________ Age: _________ Address: _____________________________________________________",
+        "revision_evidence": [
+          "_ AOC-830 Doc. Code: PDA Rev. 1-26 Page 1 of 2 Commonwealth of Kentucky Court of Justice www.kycourts",
+          "________________ AOC-830 Rev. 1-26 Page 2 of 2 5. At the time of death, Decedent left no estate to be"
+        ],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "New/Revised Legal Forms​",
+        "url": "https://www.kycourts.gov/Legal-Forms/Documents/NewRevised_Forms.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-4.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-3.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-21.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-20.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-13.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-12.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-11.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-10.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/SJ-1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-009.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-009_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-009_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-009_FR.pdf"
+      },
+      {
+        "text": "Burmese",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-009_MY.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-009_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-006.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-005.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-004.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-004_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-004_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-004_FR.pdf"
+      },
+      {
+        "text": "Burmese",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-004_MY.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/RU-004_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/MEDADR9.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/MEDADR8.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/MEDADR15.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/MEDADR15.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/MEDADR14.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/MEDADR13.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/MEDADR11.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-54.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-53.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-53.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-53.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-52.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-52.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-51.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-50.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-49.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-48.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-41.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-38.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-38.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-38_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-36.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-36.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-35.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-34.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-32.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-31.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-31.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-31.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-31_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-31_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-30.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-29.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-29.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-28.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-27.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-26.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-25.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-24.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-23.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-19.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-19_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-19_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-18.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-17.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-16.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-15.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-14.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/JV-1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-8.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-7.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-6.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-5.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-4.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-3.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-13.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-12.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-11.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-10.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/INT-1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/FC-9.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/FC-3.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/FC-3_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/FC-2.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/FC-2_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/FC-1.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/FC-1_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-9.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-9_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-7.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-7_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-6.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-6_ES.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-6_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-5.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-5_ES.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-5_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-4.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-4_ES.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-4_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-3.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-3_ES.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-3_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-21.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-20.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-2.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-2.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-2.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-2_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-19.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-19_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-18.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-18_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-17.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-16.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-16_ES.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-16_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-15.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-14.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-13.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-12.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-12_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-11.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-11_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-11_FR.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-10.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-10_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-1.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/DNA-1_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/CFCRB-8.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/CFCRB-16.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/CFCRB-16_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/CFCRB-12.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/CCCF-1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/BCD-4.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/BCD-3.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/BCD-2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/BCD-1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/860.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/860.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/859.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/859.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/858.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/858.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/857.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/857.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/856.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/855.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/854.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/853.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/852.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/851.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/850.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/850.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/846.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/846.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/846.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/845.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/841.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/840.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/831.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/825.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/825_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/815.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/810.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/810.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/809.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/808.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/807.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/805.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/805.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/805.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/798.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/796.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/796_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/795.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/790.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/785.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/782.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/780.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/777.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/775.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/770.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/765.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/760.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/755.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/755_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/750.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/750_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/748.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/748_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/747.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/747_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/746.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/745.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/745_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/740.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/740_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.8.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.7.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.6.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.5.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.4.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.3.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/737.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/736.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/735.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/734.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/733.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/732.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/731.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/730B.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/730A.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/728.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/727.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/726B.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/726A.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/725B.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/725A.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/724.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/720B.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/720A.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/718.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/717.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/716.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/715B.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/715A.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/713.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/712.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/711.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/710B.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/710A.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.8.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.7.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.6.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.5.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.4.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.3.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/708.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/706.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/705A.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/704B.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/704A.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/703A.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/702A.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/701A.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/700A.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/656.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/499.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/499.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/499.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/499_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/499_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/498.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/497.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/497.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.4.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.3.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.2.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.2_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.2_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.1.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.1_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.1_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/496_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495.3.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495.1%20(7-20).pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495_FR.pdf"
+      },
+      {
+        "text": "Haitian Creole",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495_HT.pdf"
+      },
+      {
+        "text": "Kinyarwanda",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495_RW.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/495_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/494.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/494_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/494_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/493.3.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/493.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/493.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/493.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/493_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/492.A%20(7-20).pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/492.A_AR%20(7-20).pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/492.A_ES%20(7-20).pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/492.1%20(7-20).pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/492%20(7-20).pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/491.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/491.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/491.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/491_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/491_FR.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/490.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/485.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/480.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/475.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/470.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4_FR.pdf"
+      },
+      {
+        "text": "Burmese",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4_MY.pdf"
+      },
+      {
+        "text": "Kinyarwanda",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4_RW.pdf"
+      },
+      {
+        "text": "Somali",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4_SO.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.4_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.3.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.2.pdf"
+      },
+      {
+        "text": "Burmese",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1%20(5-20)_MY.pdf"
+      },
+      {
+        "text": "Kinyarwanda",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1%20(5-20)_RW.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1%20(5-20)_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1_FR.pdf"
+      },
+      {
+        "text": "Somali",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/465.1_SO.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/461.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/460.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/455.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/454.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/450.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/447.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/446.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/445.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/455_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/440.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/430.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/426.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/425.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/425.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/424.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/420.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/415.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/415_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/415_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/411.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/405.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/400.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/399.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/398.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/390.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/385.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/385.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/380.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/376.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/375.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/366.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/365.3.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/365.3_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/365.2.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/365.2_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/365.1.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/365.1_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/360.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/360.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/350.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/350_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/350_ES.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/350_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/347.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/346.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/345.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/343.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/343.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/342.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/341.A.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/341.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/341.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/340.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/340.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/339.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/335.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/335.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/334.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/333.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/332.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/332.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/331.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/331.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/330.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/330_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/330_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/325.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/320.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/315.B.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/315.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/315.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/315.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/298.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/297.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/296.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/296_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/295.1.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/295.1_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/295.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/295_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/292.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/292_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/291.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/290.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/290.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/280.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.9.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.9_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.9_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.9_FR.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.8.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.8_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.8_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.8_FR.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.7.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.7_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.7_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.6.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.6_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.6_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.6_FR.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.6_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.5.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.5_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.5_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.4.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.4_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.4_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.3.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.3_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.3_FR.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.3_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.2.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.2_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.2_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.2_FR.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.2_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.19.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.19_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.19_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.18.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.18_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.18_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.17.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.17_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.17_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.16.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.16_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.16_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.15.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.15_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.15_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.15_FR.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.15_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.14.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.14_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.14_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.13.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.13_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.13_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.12.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.12_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.12_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.11.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.11_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.10.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.10_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.1.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.1_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.1_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.1_FR.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.1_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/275_FR.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/270.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/262.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/261.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/261.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/260.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252A.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252.8.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252.6.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252.5.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252.4.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/252.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/250.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/245.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/242.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/241.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/241_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/240.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/239.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/238-239.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/238-239_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/238.3-239.3.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/238.1-239.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/237.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/236.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/235.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/224.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/220.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/220_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/220_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/220_FR.pdf"
+      },
+      {
+        "text": "Kinyarwanda",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/220_RW.pdf"
+      },
+      {
+        "text": "Somali",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/220_SO.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/220_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/218.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/218_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/218_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/218_FR.pdf"
+      },
+      {
+        "text": "Kinyarwanda",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/218_RW.pdf"
+      },
+      {
+        "text": "Somali",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/218_SO.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/218_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/217.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/217_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/217_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/217_FR.pdf"
+      },
+      {
+        "text": "Kinyarwanda",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/217_RW.pdf"
+      },
+      {
+        "text": "Somali",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/217_SO.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/217_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/216.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/216_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/216_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/216_FR.pdf"
+      },
+      {
+        "text": "Kinyarwanda",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/216_RW.pdf"
+      },
+      {
+        "text": "Somali",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/216_SO.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/216_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/215.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/215_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/215_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/215_FR.pdf"
+      },
+      {
+        "text": "Kinyarwanda",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/215_RW.pdf"
+      },
+      {
+        "text": "Somali",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/215_SO.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/215_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/207.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/206.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/205.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/203.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/202.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/200.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/200_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/199.1.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/199.1_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/199.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/199_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/198.1.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/198.1_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/198.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/198_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/197.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/197_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/191.1.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/191.1_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/191.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/191_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/190.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/190_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/185.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/185_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/180.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/180_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/175.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/175_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/166.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/166_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/165.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/165_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/160.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/155.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/152.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/152_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/150.5.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/150.4.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/150.3.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/150.2.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/150.2_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/150.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/150.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/145.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/145_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/141SP.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/141S.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/141AMC.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/141.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/140.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/135.2.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/135.1.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/135.1_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/135.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/130.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/125.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/120.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/119.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/115.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/110.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/108.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/106.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/105.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/104.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/104_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/1026.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/1025.4.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/1025.3.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/1025.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/1025.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/070.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/066.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/065.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/61.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/060.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/40.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/034.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/034_ES.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/033.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/032.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/031.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/030.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/026.pdf"
+      },
+      {
+        "text": "Arabic",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/026_AR.pdf"
+      },
+      {
+        "text": "Spanish",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/026_ES.pdf"
+      },
+      {
+        "text": "French",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/026_FR.pdf"
+      },
+      {
+        "text": "Kinyarwanda",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/026_RW.pdf"
+      },
+      {
+        "text": "Swahili",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/026_SW.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/25.1.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/025.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/005A.pdf"
+      }
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "publisher": "Tennessee Health Facilities Commission",
+    "url": "https://www.tn.gov/hfc/health-care-decision-making/advanced-directives-for-health-care-decision-making--english-.html",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "(?:advance|advanced).*directive.*\\.pdf",
+        "title": "Advance Directive for Health Care",
+        "family_id": "health-care-directive",
+        "identity": "ADVANCE DIRECTIVE",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.tn.gov/hfc/health-care-decision-making/advanced-directives-for-health-care-decision-making--english-.html",
+      "final_url": "https://www.tn.gov/hfc/health-care-decision-making/advanced-directives-for-health-care-decision-making--english-.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "retrieved_at": "2026-10-14T09:01:03.298Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": "12132",
+      "sha256": "d628de2039dac67edfb7e4ec05b1b8f6a5d79895d4fb852165c5f3e1ec2e24b5",
+      "title": "Advanced Directives for Health Care Decision Making FAQ (English)",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14/13-tennessee-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.tn.gov/hfc/health-care-decision-making/advanced-directives-for-health-care-decision-making--english-.html",
+        "final_url": "https://www.tn.gov/hfc/health-care-decision-making/advanced-directives-for-health-care-decision-making--english-.html",
+        "http_status": 200,
+        "content_type": "text/html;charset=utf-8",
+        "retrieved_at": "2026-10-14T09:01:03.298Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": "12132",
+        "sha256": "d628de2039dac67edfb7e4ec05b1b8f6a5d79895d4fb852165c5f3e1ec2e24b5",
+        "title": "Advanced Directives for Health Care Decision Making FAQ (English)",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "(?:advance|advanced).*directive.*\\.pdf",
+        "title": "Advance Directive for Health Care",
+        "family_id": "health-care-directive",
+        "identity": "ADVANCE DIRECTIVE",
+        "max": 1,
+        "url": null,
+        "status": "no-matching-link",
+        "downloaded": false
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "Alert:  New Home health and hospice Certificate of Need applicants please review the attached link of the (CMS) enacted 6-month nationwide moratorium temporarily halting the processing of initial Medicare enrollment applications for new Home Health Agencies (HHAs) and hospices effective May 20, 2026. (Click on This Banner)",
+        "url": "https://www.cms.gov/files/document/qso-26-11-hha-hospice-original-release-2026-05-20.pdf"
+      }
+    ]
+  },
+  {
+    "state": "Nebraska",
+    "publisher": "Nebraska Judicial Branch",
+    "url": "https://nebraskajudicial.gov/forms",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "(?:CC[-_ ]?15[-_ ]?40|cc1540).*\\.pdf",
+        "title": "Affidavit for Transfer of Personal Property without Probate",
+        "form_id": "CC 15:40",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*(?:PERSONAL PROPERTY|TRANSFER)",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://nebraskajudicial.gov/forms",
+      "final_url": "https://nebraskajudicial.gov/forms",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:01:05.813Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "08e7be4a8c2f66d62671cee64631f85c81e3a76878758106a8c272760e73c5c3",
+      "title": "Master Forms List | Nebraska Judicial Branch",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14/14-nebraska-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://nebraskajudicial.gov/forms",
+        "final_url": "https://nebraskajudicial.gov/forms",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:01:05.813Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": null,
+        "sha256": "08e7be4a8c2f66d62671cee64631f85c81e3a76878758106a8c272760e73c5c3",
+        "title": "Master Forms List | Nebraska Judicial Branch",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "(?:CC[-_ ]?15[-_ ]?40|cc1540).*\\.pdf",
+        "title": "Affidavit for Transfer of Personal Property without Probate",
+        "form_id": "CC 15:40",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*(?:PERSONAL PROPERTY|TRANSFER)",
+        "max": 1,
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-40.pdf",
+        "link_text": "Affidavit for Transfer of Personal Property without Probate",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-40.pdf",
+          "final_url": "https://nebraskajudicial.gov/sites/default/files/CC-15-40.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:01:06.453Z",
+          "etag": "\"6a038a99-38194\"",
+          "last_modified": "Tue, 12 May 2026 20:16:25 GMT",
+          "content_length": "229780",
+          "sha256": "c2255fed6d5ece984a6e08816ae4da3f1588c43136eb578559b6511cf0fcaba1",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        },
+        "attempts": [
+          {
+            "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-40.pdf",
+            "final_url": "https://nebraskajudicial.gov/sites/default/files/CC-15-40.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-14T09:01:06.453Z",
+            "etag": "\"6a038a99-38194\"",
+            "last_modified": "Tue, 12 May 2026 20:16:25 GMT",
+            "content_length": "229780",
+            "sha256": "c2255fed6d5ece984a6e08816ae4da3f1588c43136eb578559b6511cf0fcaba1",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "downloaded": true,
+        "status": "hash-and-parser-passed",
+        "sha256": "c2255fed6d5ece984a6e08816ae4da3f1588c43136eb578559b6511cf0fcaba1",
+        "local_archive_path": "archive/2026-10-14/14-affidavit-for-transfer-of-personal-property-without-probate-c2255fed6d5e.pdf",
+        "bytes": 229780,
+        "text_length": 2287,
+        "pages": 1,
+        "identity_excerpt": "_______________________________________ __________________________________________ _______________________________________ STATE OF NEBRASKA ) ) ss COUNTY OF ________________ ) (county in which the document will be signed) Affidavit for Transfer of Personal Property without Probate I, ________________________, under penalty of perjury under Nebraska Revised Statute § 28-915, (your name) swear or affirm the following to be true and material: 1. thirty days have passed since _______________________’s death; (deceased’s name) 2. a certified or authenticated copy of the deceased’s death certificate is attached to this affidavit; 3. the value of the entire estate of the deceased, _______________________, less liens and (deceased’s name) encumbrances (claims against or on the property), is $100,000.00 or less; 4. there is no Personal Representative, application for Personal Representative, or petition for Personal Representative; and 5. I am entitled to payment and delivery of all property held by others in the sole name of the deceased, ________________________, pursuant to Nebraska Probate Code § 30-24,125 and because of my (deceased’s name) relationship as ____________________________________ to the deceased. As provided under Nebraska Probate Code § 30-24,126, the person releasing personal property or the evidence of property based upon this affidavit is discharged and released just as if that person dealt with a Personal Representative of the deceased. The person releasing the property is not required to see to the application of the personal property or evidence of that application or to inquire into the truth of any statement in this affidavit. A transfer agent of any security shall change the registered ownership on the books of a corporation from the decedent to the ",
+        "revision_evidence": [
+          "for Transfer of CC 15:40 Rev. 07/2022 Page 1 of 1 Personal Property without Probate"
+        ],
+        "identity_verification": "title-pattern-matched",
+        "local_verification": "hash-and-parser-passed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": "here",
+        "url": "https://supremecourt.nebraska.gov/sites/default/files/Navigating_the_website.pdf"
+      },
+      {
+        "text": "here",
+        "url": "https://supremecourt.nebraska.gov/sites/default/files/Downloading_Adobe_and_browser_settings.pdf"
+      },
+      {
+        "text": "here",
+        "url": "https://supremecourt.nebraska.gov/sites/default/files/PDFPRINTINGTIPS.pdf"
+      },
+      {
+        "text": "Acceptable Use of Information Technology Resources Policy - Acknowledgment of Receipt",
+        "url": "https://nebraskajudicial.gov/sites/default/files/Ch1Art12App2.pdf"
+      },
+      {
+        "text": "Acceptable Use of Information Technology Resources Policy - Revision History",
+        "url": "https://nebraskajudicial.gov/sites/default/files/Ch1Art12App1.pdf"
+      },
+      {
+        "text": "Acceptance of Appointment, Public Guardian, Conservator",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-214.pdf"
+      },
+      {
+        "text": "Acceptance of Appointment, Public Guardian, Conservator - All Funds Restricted",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-218.pdf"
+      },
+      {
+        "text": "Acceptance of Appointment, Public Guardian, Guardian",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-211.pdf"
+      },
+      {
+        "text": "Acceptance of Appointment, Public Guardian, Guardian and Conservator",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-216.pdf"
+      },
+      {
+        "text": "Acceptance of Appointment, Public Guardian, Temporary Conservator",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-229.pdf"
+      },
+      {
+        "text": "Acceptance of Appointment, Public Guardian, Temporary Guardian",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-228.pdf"
+      },
+      {
+        "text": "Acceptance of Appointment, Public Guardian, Temporary Guardian and Temporary Conservator",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-227.pdf"
+      },
+      {
+        "text": "Acceptances, Guardianships and/or Conservatorships, all variations included",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-ACCEPTANCE_Global.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-ACCEPTANCE_Global-instructions.pdf"
+      },
+      {
+        "text": "Accommodations Request Form (ADA Test Form)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/NSBC-1-10.pdf"
+      },
+      {
+        "text": "Additional Petitioners - Domestic Abuse and Harassment Protection Orders",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-19-46.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-19-46A.pdf"
+      },
+      {
+        "text": "Address, Address Information for Guardianships/Conservatorships",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-5.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-5-instructions.pdf"
+      },
+      {
+        "text": "Address, Change of Address for Guardianships and Conservatorships and Certificate of Mailing",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-46.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-46-instructions.pdf"
+      },
+      {
+        "text": "Adjudication Findings and Order",
+        "url": "https://nebraskajudicial.gov/sites/default/files/JC-14-11-4.pdf"
+      },
+      {
+        "text": "Affidavit (Generic)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-3-28.pdf"
+      },
+      {
+        "text": "Affidavit and Application for Order to Show Cause (Alimony/Property Settlement)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-42.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-42a.pdf"
+      },
+      {
+        "text": "Affidavit and Application for Order to Show Cause (Child Support)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-20.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-20a.pdf"
+      },
+      {
+        "text": "Affidavit and Application for Order to Show Cause (Visitation)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-27.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-27a.pdf"
+      },
+      {
+        "text": "Affidavit and Application for Preparation of Real Estate Assignment Certificate",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-7.pdf"
+      },
+      {
+        "text": "Affidavit and Application to Proceed Without Payment of Fees (In Forma Pauperis) (Civil, Appeals, Emancipation) (English)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-7-1.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-7-1a.pdf"
+      },
+      {
+        "text": "Affidavit and Motion for Bench Warrant and Commitment to Issue (Child Support)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-25.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-25a.pdf"
+      },
+      {
+        "text": "Affidavit and Motion for Bench Warrant and Commitment to Issue (Non-compliance of Divorce Terms)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-47.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-47a.pdf"
+      },
+      {
+        "text": "Affidavit and Motion for Bench Warrant and Commitment to Issue (Visitation)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-32.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-32a.pdf"
+      },
+      {
+        "text": "Affidavit for Transfer of Personal Property without Probate",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-40.pdf"
+      },
+      {
+        "text": "Affidavit for Transfer of Real Property without Probate",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-41.pdf"
+      },
+      {
+        "text": "Affidavit in Support of Motion for Service by Publication",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-2.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-2a.pdf"
+      },
+      {
+        "text": "Affidavit in Support of Personal Recognizance Bond (English/Spanish)/ Declaración Jurada En Apoyo De Fianza Bajo Palabra",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-13-23.pdf"
+      },
+      {
+        "text": "Affidavit in Support of Service by Publication",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-6-6-2.pdf"
+      },
+      {
+        "text": "Affidavit in Support of Substitute Service",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-6-6-6.pdf"
+      },
+      {
+        "text": "Affidavit of Lost Check",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-23-11.pdf"
+      },
+      {
+        "text": "Affidavit of Mailing Published Notice",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-8.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-8a.pdf"
+      },
+      {
+        "text": "Affidavit of Sex Offender Registry Search",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-30.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-30-instructions.pdf"
+      },
+      {
+        "text": "Alternate or Substitute Service Guide",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-4-20-G2.pdf"
+      },
+      {
+        "text": "Americans with Disabilities Act (ADA)- Accommodation Request Form",
+        "url": "https://nebraskajudicial.gov/sites/default/files/AD-2-19.pdf"
+      },
+      {
+        "text": "Americans with Disabilities Act (ADA)- Grievance Form",
+        "url": "https://nebraskajudicial.gov/sites/default/files/AD-2-18.pdf"
+      },
+      {
+        "text": "Annual Accounting (fillable)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-44fill.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-44-instructions.pdf"
+      },
+      {
+        "text": "Annual Report of Guardian for a Minor",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-14M.pdf"
+      },
+      {
+        "text": "Annual Report of Guardian on Condition of Ward",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-14.pdf"
+      },
+      {
+        "text": "Answer and Counterclaim for Dissolution of Marriage (Children)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-10-1.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-10-1a.pdf"
+      },
+      {
+        "text": "Answer and Counterclaim for Dissolution of Marriage (No Children)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-9-1.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-9-1a.pdf"
+      },
+      {
+        "text": "Answer and Counterclaim for Modification Case (Child Support)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-15-7.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-15-7a.pdf"
+      },
+      {
+        "text": "Answer and Counterclaim for Modification Case (Parenting Plan)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-15-6.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-15-6a.pdf"
+      },
+      {
+        "text": "Answer and Counterclaim to Complaint for Paternity, Custody, Parenting Time, and Child Support",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-8-8.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-8-8-A.pdf"
+      },
+      {
+        "text": "Answer and General Denial with Certificate of Service",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-3-18.pdf"
+      },
+      {
+        "text": "AOCP Research Request",
+        "url": "https://nebraskajudicial.gov/sites/default/files/AD-2-21.pdf"
+      },
+      {
+        "text": "Appeal Bond",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-9-3.pdf"
+      },
+      {
+        "text": "Appeal Packet with Notice of Appeal, Request for Transcript, Request for Bill of Exceptions and Instruction Page.",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-9-2_CC-9-6_CC-9-7.pdf"
+      },
+      {
+        "text": "Appeal Recognizance",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-9-1.pdf"
+      },
+      {
+        "text": "Appearance Bond",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-3-1.pdf"
+      },
+      {
+        "text": "Appearance Bond",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-13-1.pdf"
+      },
+      {
+        "text": "Appearance Bond with Preset Conditions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-13-1-1.pdf"
+      },
+      {
+        "text": "Application and Affidavit for Intervention on Behalf of the Welfare of the Ward/Minor Ward/Protected Person",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-21.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-21-instructions.pdf"
+      },
+      {
+        "text": "Application for Access to Confidential Information in JUSTICE Automation System (District Court)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/Ch6Art15App4_0.pdf"
+      },
+      {
+        "text": "Application for Access to JUSTICE Automation System",
+        "url": "https://nebraskajudicial.gov/sites/default/files/Ch6Art14App7.pdf"
+      },
+      {
+        "text": "Application for Approval of Annual Accounting and/or Fees",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-29.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-29-instructions.pdf"
+      },
+      {
+        "text": "Application for Approval of Monthly Budget",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-41.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-41-instructions.pdf"
+      },
+      {
+        "text": "Application for Continuing Lien",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-3-8D.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-3-8Da.pdf"
+      },
+      {
+        "text": "Application for Internship, Externship or Volunteer opportunity",
+        "url": "https://nebraskajudicial.gov/sites/default/files/HR-1-35.pdf"
+      },
+      {
+        "text": "Application for Postponement of Jury Service",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-8-4.pdf"
+      },
+      {
+        "text": "Application for Resignation of Membership in the Nebraska State Bar Association",
+        "url": "https://nebraskajudicial.gov/sites/default/files/ASD-3-09.pdf"
+      },
+      {
+        "text": "Application for Waiver",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-38.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-38-instructions.pdf"
+      },
+      {
+        "text": "Application for Withdrawal of Funds",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-19.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-19-instructions.pdf"
+      },
+      {
+        "text": "Application of Continuing Lien",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-4-1.pdf"
+      },
+      {
+        "text": "Application to Check Out Bill of Exceptions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-9-10.pdf"
+      },
+      {
+        "text": "Application to Deliver Nonexempt Funds",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-3-8C-1.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-3-8C-1a.pdf"
+      },
+      {
+        "text": "Application to Sit Out Fines/Costs (fillable)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-13-8.pdf"
+      },
+      {
+        "text": "Applying for Services Non IV-D Flyer",
+        "url": "https://nebraskajudicial.gov/sites/default/files/5-Non_IV-D_CP_Flyer_Final_applying_for_services.pdf"
+      },
+      {
+        "text": "Arraignment",
+        "url": "https://nebraskajudicial.gov/sites/default/files/JC-14-11-2.pdf"
+      },
+      {
+        "text": "Assignment of Bond",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-13-2.pdf"
+      },
+      {
+        "text": "Attorney Certificate of Providing Parenting Act Information",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-9.pdf"
+      },
+      {
+        "text": "Attorney Succession Planning Rules Sample Form",
+        "url": "https://nebraskajudicial.gov/sites/default/files/ASD-3-24.pdf"
+      },
+      {
+        "text": "Attorney Trust Account Overdraft Notification Agreement",
+        "url": "https://nebraskajudicial.gov/sites/default/files/ASD-3-22.pdf"
+      },
+      {
+        "text": "Attorney's Report of Identity Theft or Issue Compromising Professional Reputation",
+        "url": "https://nebraskajudicial.gov/sites/default/files/ASD-3-14.pdf"
+      },
+      {
+        "text": "Authorization to Conduct Criminal Background Check and Investigation (Interpreters)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/AD-2-07.pdf"
+      },
+      {
+        "text": "Authorization to Withdraw Will",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-6.pdf"
+      },
+      {
+        "text": "Background Check Letter of Understanding (Specific to Intern/Extern/Volunteer Opportunities)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/HR-1-04-1.pdf"
+      },
+      {
+        "text": "Bar Application Checklist",
+        "url": "https://nebraskajudicial.gov/sites/default/files/NSBC-1-16.pdf"
+      },
+      {
+        "text": "Bench Warrant (Child Support)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-26.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-26a.pdf"
+      },
+      {
+        "text": "Bench Warrant (Visitation or Alimony/Property Settlement)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-33.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-33a.pdf"
+      },
+      {
+        "text": "Bill of Exceptions Statement of Costs and Disbursement of Funds",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-9-15.pdf"
+      },
+      {
+        "text": "Bond Assignment",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-3-2.pdf"
+      },
+      {
+        "text": "Caregiver Information Form",
+        "url": "https://nebraskajudicial.gov/sites/default/files/JC-14-11-11.pdf"
+      },
+      {
+        "text": "Case Transfer Summary Form",
+        "url": "https://nebraskajudicial.gov/sites/default/files/JC-14-9.pdf"
+      },
+      {
+        "text": "Certificate of Completion of Limited Representation (submitted by attorney)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/ASD-3-12.pdf"
+      },
+      {
+        "text": "Certificate of Completion of Parenting Education Course (English)",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-5.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-5a.pdf"
+      },
+      {
+        "text": "Certificate of County Court Proceeding Involving Real Estate",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-31.pdf"
+      },
+      {
+        "text": "Certificate of Depositing Original, Authenticated or Certified Document",
+        "url": "https://nebraskajudicial.gov/sites/default/files/Ch2Art2App1.pdf"
+      },
+      {
+        "text": "Certificate of Mailing",
+        "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-9.pdf"
+      },
+      {
+        "text": "Certificate of Mailing a Notice of Filing a Petition For The Determination of Inheritance Tax",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-5.pdf"
+      },
+      {
+        "text": "Certificate of Mailing, Annual Budget Reporting Forms",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-48.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-48-instructions.pdf"
+      },
+      {
+        "text": "Certificate of Mailing, Application for Approval of Accounting and/or Fees",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-28.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-28-instructions.pdf"
+      },
+      {
+        "text": "Certificate of Mailing, Application for Withdrawal of Funds",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-27.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-27-instructions.pdf"
+      },
+      {
+        "text": "Certificate of Mailing, General",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-49.pdf"
+      },
+      {
+        "text": "Instructions",
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-49-instructions.pdf"
+      },
+      {
+        "text": "AOCP Research Request",
+        "url": "https://nebraskajudicial.gov/sites/default/files/AD-2-21.pdf"
+      }
+    ]
+  },
+  {
+    "state": "Oregon",
+    "publisher": "Oregon Health Authority",
+    "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "/le3942\\.pdf",
+        "title": "Your Guide to the Oregon Advance Directive for Health Care",
+        "form_id": "OHA 3942",
+        "family_id": "advance-directive-guide",
+        "identity": "GUIDE.*OREGON ADVANCE DIRECTIVE",
+        "max": 1
+      }
+    ],
+    "source": {
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+      "final_url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:01:04.475Z",
+      "etag": null,
+      "last_modified": "Wed, 14 Oct 2026 09:01:04 GMT",
+      "content_length": "26945",
+      "sha256": "213b07f9cda6a3489c34da815f6654780863019cdb7e46dd424cc5c5178dc227",
+      "title": "Oregon Health Authority : Advance Directive Forms : About the Public Health Division : State of Oregon",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-14/15-oregon-source.html"
+    },
+    "source_attempts": [
+      {
+        "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+        "final_url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "retrieved_at": "2026-10-14T09:01:04.475Z",
+        "etag": null,
+        "last_modified": "Wed, 14 Oct 2026 09:01:04 GMT",
+        "content_length": "26945",
+        "sha256": "213b07f9cda6a3489c34da815f6654780863019cdb7e46dd424cc5c5178dc227",
+        "title": "Oregon Health Authority : Advance Directive Forms : About the Public Health Division : State of Oregon",
+        "retrieval_status": "retrieved-pending-review"
+      }
+    ],
+    "artifacts": [
+      {
+        "pattern": "/le3942\\.pdf",
+        "title": "Your Guide to the Oregon Advance Directive for Health Care",
+        "form_id": "OHA 3942",
+        "family_id": "advance-directive-guide",
+        "identity": "GUIDE.*OREGON ADVANCE DIRECTIVE",
+        "max": 1,
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+        "link_text": "User guide",
+        "format": "pdf",
+        "receipt": {
+          "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+          "retrieved_at": "2026-10-14T09:01:05.815Z",
+          "retrieval_status": "fetch-failed",
+          "error": "fetch failed"
+        },
+        "attempts": [
+          {
+            "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+            "retrieved_at": "2026-10-14T09:01:05.134Z",
+            "retrieval_status": "fetch-failed",
+            "error": "fetch failed"
+          },
+          {
+            "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+            "retrieved_at": "2026-10-14T09:01:05.815Z",
+            "retrieval_status": "fetch-failed",
+            "error": "fetch failed"
+          }
+        ],
+        "downloaded": false,
+        "status": "fetch-failed"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "discovered_pdf_links": [
+      {
+        "text": ".pdf",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3905.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ls3905.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ls3942.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/la3905.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/la3905.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Cambodian_Khmer%20AD%20form.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20UserGuide_Khmer.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln3905.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln3905.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l43905.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l43942.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l273905.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l273942.pdf"
+      },
+      {
+        "text": "",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l273905.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Dari%20AD%20form.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20User%20Guide_Persian-Dari.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lh3905.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lh3942.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lj3905.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lj3942.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lk3905.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lk3942.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Laotian%20AD%20form.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20User%20Guide_LA.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l333905.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l333942.pdf"
+      },
+      {
+        "text": "",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l333905.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Pashto_Pashtu%20AD%20form.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20User%20Guide_Pashto.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lp3905.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lp3942.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lr3905.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lr3942.pdf"
+      },
+      {
+        "text": "pdf",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/li3905.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/li3942.pdf"
+      },
+      {
+        "text": "",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/li3905.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Ukranian%20AD%20form.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20User%20Guide_UK.pdf"
+      },
+      {
+        "text": ".pdf",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lv3905.pdf"
+      },
+      {
+        "text": "User guide",
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lv3942.pdf"
+      },
+      {
+        "text": "English",
+        "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/Appointing-Healthcare-Representative.pdf"
+      },
+      {
+        "text": "Español / Spanish",
+        "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/Appointing-Healthcare-Representative-SP.pdf"
+      },
+      {
+        "text": "Large print",
+        "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/LARGE%20PRINT%20OHA%203905_OR%20Advance%20Directive%20for%20Health_v1.1.pdf"
+      }
+    ]
+  }
+]

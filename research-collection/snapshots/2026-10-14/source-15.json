@@ -1,0 +1,261 @@
+{
+  "state": "Oregon",
+  "publisher": "Oregon Health Authority",
+  "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "/le3942\\.pdf",
+      "title": "Your Guide to the Oregon Advance Directive for Health Care",
+      "form_id": "OHA 3942",
+      "family_id": "advance-directive-guide",
+      "identity": "GUIDE.*OREGON ADVANCE DIRECTIVE",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+    "final_url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:01:04.475Z",
+    "etag": null,
+    "last_modified": "Wed, 14 Oct 2026 09:01:04 GMT",
+    "content_length": "26945",
+    "sha256": "213b07f9cda6a3489c34da815f6654780863019cdb7e46dd424cc5c5178dc227",
+    "title": "Oregon Health Authority : Advance Directive Forms : About the Public Health Division : State of Oregon",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14/15-oregon-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+      "final_url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:01:04.475Z",
+      "etag": null,
+      "last_modified": "Wed, 14 Oct 2026 09:01:04 GMT",
+      "content_length": "26945",
+      "sha256": "213b07f9cda6a3489c34da815f6654780863019cdb7e46dd424cc5c5178dc227",
+      "title": "Oregon Health Authority : Advance Directive Forms : About the Public Health Division : State of Oregon",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "/le3942\\.pdf",
+      "title": "Your Guide to the Oregon Advance Directive for Health Care",
+      "form_id": "OHA 3942",
+      "family_id": "advance-directive-guide",
+      "identity": "GUIDE.*OREGON ADVANCE DIRECTIVE",
+      "max": 1,
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+      "link_text": "User guide",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+        "retrieved_at": "2026-10-14T09:01:05.815Z",
+        "retrieval_status": "fetch-failed",
+        "error": "fetch failed"
+      },
+      "attempts": [
+        {
+          "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+          "retrieved_at": "2026-10-14T09:01:05.134Z",
+          "retrieval_status": "fetch-failed",
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+          "retrieved_at": "2026-10-14T09:01:05.815Z",
+          "retrieval_status": "fetch-failed",
+          "error": "fetch failed"
+        }
+      ],
+      "downloaded": false,
+      "status": "fetch-failed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ls3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ls3942.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/la3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/la3905.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Cambodian_Khmer%20AD%20form.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20UserGuide_Khmer.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln3905.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l43905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l43942.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l273905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l273942.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l273905.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Dari%20AD%20form.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20User%20Guide_Persian-Dari.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lh3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lh3942.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lj3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lj3942.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lk3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lk3942.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Laotian%20AD%20form.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20User%20Guide_LA.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l333905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l333942.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/l333905.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Pashto_Pashtu%20AD%20form.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20User%20Guide_Pashto.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lp3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lp3942.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lr3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lr3942.pdf"
+    },
+    {
+      "text": "pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/li3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/li3942.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/li3905.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/indicators/Ukranian%20AD%20form.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/OHA%203942%2012.7.21%20ADAC%20User%20Guide_UK.pdf"
+    },
+    {
+      "text": ".pdf",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lv3905.pdf"
+    },
+    {
+      "text": "User guide",
+      "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/lv3942.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/Appointing-Healthcare-Representative.pdf"
+    },
+    {
+      "text": "Español / Spanish",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/Appointing-Healthcare-Representative-SP.pdf"
+    },
+    {
+      "text": "Large print",
+      "url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/ADAC%20RAC/LARGE%20PRINT%20OHA%203905_OR%20Advance%20Directive%20for%20Health_v1.1.pdf"
+    }
+  ]
+}

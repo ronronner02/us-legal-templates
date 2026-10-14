@@ -1,0 +1,836 @@
+{
+  "state": "Arkansas",
+  "publisher": "Arkansas Judiciary",
+  "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "Form%202\\.pdf",
+      "title": "Petition for Appointment of Administrator",
+      "family_id": "probate-petition",
+      "identity": "PETITION FOR APPOINTMENT",
+      "max": 1
+    },
+    {
+      "pattern": "Form%203\\.pdf",
+      "title": "Petition for Probate of Will and Appointment of Personal Representative",
+      "family_id": "probate-petition",
+      "identity": "PETITION FOR PROBATE OF WILL",
+      "max": 1
+    },
+    {
+      "pattern": "Form%2023\\.pdf",
+      "title": "Affidavit for Collection of Small Estate by Distributee",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*COLLECTION.*SMALL ESTATE",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms",
+    "final_url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:39:52.412Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "1773133046c89b452ae27eb80c7fe2e40ee82bad37024f22101e793944034f79",
+    "title": "Official Probate Forms | Arkansas Judiciary",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/02-arkansas-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms",
+      "final_url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:39:52.412Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "1773133046c89b452ae27eb80c7fe2e40ee82bad37024f22101e793944034f79",
+      "title": "Official Probate Forms | Arkansas Judiciary",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "Form%202\\.pdf",
+      "title": "Petition for Appointment of Administrator",
+      "family_id": "probate-petition",
+      "identity": "PETITION FOR APPOINTMENT",
+      "max": 1,
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%202.pdf",
+      "link_text": "Form 2: Petition for Appointment of [Administrator] [Adminstratrix]",
+      "format": "pdf",
+      "receipt": {
+        "url": "http://arcourts.gov/sites/default/files/files-list/Form%202.pdf",
+        "final_url": "https://arcourts.gov/sites/default/files/files-list/Form%202.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:39:53.230Z",
+        "etag": "\"155fd-6066ff6b84b43\"",
+        "last_modified": "Thu, 28 Sep 2023 19:03:30 GMT",
+        "content_length": "87549",
+        "sha256": "aa3e5ab81ef7917f0c2d3daa4b2f1ed0f6ff7df6eaa95f0e4fcfce026b720ab2",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "http://arcourts.gov/sites/default/files/files-list/Form%202.pdf",
+          "final_url": "https://arcourts.gov/sites/default/files/files-list/Form%202.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:39:53.230Z",
+          "etag": "\"155fd-6066ff6b84b43\"",
+          "last_modified": "Thu, 28 Sep 2023 19:03:30 GMT",
+          "content_length": "87549",
+          "sha256": "aa3e5ab81ef7917f0c2d3daa4b2f1ed0f6ff7df6eaa95f0e4fcfce026b720ab2",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "aa3e5ab81ef7917f0c2d3daa4b2f1ed0f6ff7df6eaa95f0e4fcfce026b720ab2",
+      "local_archive_path": "archive/2026-10-14-08/02-petition-for-appointment-of-administrator-aa3e5ab81ef7.pdf",
+      "bytes": 87549,
+      "text_length": 2093,
+      "pages": 2,
+      "identity_excerpt": "Form 2. [Caption] PETITION FOR APPOINTMENT OF [ADMINISTRATOR] [ADMINISTRATRIX] _______________, whose address is ____________, and whose interest in the decedent's estate is that of ____________, petitions that letters of administration of the estate be issued. The facts known to petitioner are: 1. The decedent, ___________, aged ___, who resided at ___________ in ____________ County, Arkansas, died intestate at ____________ on or about [date]. 2. The surviving spouse and heirs of the decedent, and their respective ages, relationships to the decedent, and residence addresses, are: Name Age Relationship Residence Address ________________ ____ ______________ _________________ ________________ ____ ______________ _________________ ________________ ____ ______________ _________________ 3. The probable value of the decedent's estate is: Real property $ ________ Personal property $ ________ 4. Petitioner nominates ____________, whose residence address is _______________, for appointment as [administrator] [administratrix] of the estate. The relationship, if any, of the nominee to the decedent, and other facts, if any, which entitle the nominee to appointment are: ____________. THEREFORE, petitioner requests that this court make an order determining the fact of the death and of the intestacy of the decedent, and appointing petitioner's nominee [administrator] [administratrix] of the estate. Date: _________, ___. _________________________________ [Signature] [Petitioner] _________________________________ [Print Name] _________________________________ _________________________________ [Address] _________________________________ [Telephone Number] _________________________________ [Email Address] [Affidavit] Reporter's Notes to Form 2: See Ark. Code Ann. § 28-40- 107. The term \"h",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "Form%203\\.pdf",
+      "title": "Petition for Probate of Will and Appointment of Personal Representative",
+      "family_id": "probate-petition",
+      "identity": "PETITION FOR PROBATE OF WILL",
+      "max": 1,
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%203.pdf",
+      "link_text": "Form 3: Petition for Probate of Will and Appointment of Personal Representative",
+      "format": "pdf",
+      "receipt": {
+        "url": "http://arcourts.gov/sites/default/files/files-list/Form%203.pdf",
+        "final_url": "https://arcourts.gov/sites/default/files/files-list/Form%203.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:39:54.323Z",
+        "etag": "\"19f96-6066ffcd22538\"",
+        "last_modified": "Thu, 28 Sep 2023 19:05:13 GMT",
+        "content_length": "106390",
+        "sha256": "d41a587abdceea2c80d64f9735ee90bf09e23eb1351c9a8c9e8dd50b22cf1510",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "http://arcourts.gov/sites/default/files/files-list/Form%203.pdf",
+          "final_url": "https://arcourts.gov/sites/default/files/files-list/Form%203.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:39:54.323Z",
+          "etag": "\"19f96-6066ffcd22538\"",
+          "last_modified": "Thu, 28 Sep 2023 19:05:13 GMT",
+          "content_length": "106390",
+          "sha256": "d41a587abdceea2c80d64f9735ee90bf09e23eb1351c9a8c9e8dd50b22cf1510",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "d41a587abdceea2c80d64f9735ee90bf09e23eb1351c9a8c9e8dd50b22cf1510",
+      "local_archive_path": "archive/2026-10-14-08/02-petition-for-probate-of-will-and-appointment-of-personal-representative-d41a587abdce.pdf",
+      "bytes": 106390,
+      "text_length": 2655,
+      "pages": 3,
+      "identity_excerpt": "Form 3. [Caption] PETITION FOR PROBATE OF WILL AND APPOINTMENT OF PERSONAL REPRESENTATIVE ______________, whose address is ____________, and whose interest in the decedent's estate is that of ______________,petitions that a certain written instrument be admitted to probate as the last will of the decedent, and for the appointment of a personal representative. The facts known to petitioner are: 1. The decedent, ___________, aged ___, who resided at ___________ in ___________ County, Arkansas, died at __________ on or about [date]. 2. The decedent left as his last will a written instrument dated the ________ day of ________, ____, which has been filed in this court. Proof of its execution in the manner required by law has been made or will be made at the time of presentation of this petition. 3. The surviving spouse, heirs, and devisees of the decedent, and their respective ages, relationships to the decedent, and residence addresses, are: Name Age Relationship Residence Address ________________ ____ ______________ _________________ ________________ ____ ______________ _________________ ________________ ____ ______________ _________________ 4. The probable value of the decedent's estate is: Real property $ ________ Personal property $ ________ 5. The will of the decedent nominates ________________ as [executor] [executrix]. (Petitioner nominates for appointment as ________, ________ of __________ to administer the estate.) The relationship, if any, of the nominee to the decedent, and other facts, if any, which entitle the nominee to appointment are: ________________. THEREFORE, petitioner requests that this court make an order determining (1) the fact of the death of the decedent; (2) that the proffered instrument was executed in all respects according to law when the tes",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "Form%2023\\.pdf",
+      "title": "Affidavit for Collection of Small Estate by Distributee",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*COLLECTION.*SMALL ESTATE",
+      "max": 1,
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2023.pdf",
+      "link_text": "Form 23: Affidavit for Collection of Small Estate by Distributee",
+      "format": "pdf",
+      "receipt": {
+        "url": "http://arcourts.gov/sites/default/files/files-list/Form%2023.pdf",
+        "final_url": "https://arcourts.gov/sites/default/files/files-list/Form%2023.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:39:55.191Z",
+        "etag": "\"1aaff-60670075cdfa3\"",
+        "last_modified": "Thu, 28 Sep 2023 19:08:09 GMT",
+        "content_length": "109311",
+        "sha256": "5499dd5b1ef9014803a157ae04d566214fd49edf7d9b3797054d63c54bdd9e9a",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "http://arcourts.gov/sites/default/files/files-list/Form%2023.pdf",
+          "final_url": "https://arcourts.gov/sites/default/files/files-list/Form%2023.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:39:55.191Z",
+          "etag": "\"1aaff-60670075cdfa3\"",
+          "last_modified": "Thu, 28 Sep 2023 19:08:09 GMT",
+          "content_length": "109311",
+          "sha256": "5499dd5b1ef9014803a157ae04d566214fd49edf7d9b3797054d63c54bdd9e9a",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "5499dd5b1ef9014803a157ae04d566214fd49edf7d9b3797054d63c54bdd9e9a",
+      "local_archive_path": "archive/2026-10-14-08/02-affidavit-for-collection-of-small-estate-by-distributee-5499dd5b1ef9.pdf",
+      "bytes": 109311,
+      "text_length": 3835,
+      "pages": 4,
+      "identity_excerpt": "Form 23. [Caption] AFFIDAVIT FOR COLLECTION OF SMALL ESTATE BY DISTRIBUTEE ________, ________ and ________, for the purpose of dispensing with administration of this estate, deceased, state on oath: 1. The decedent ___________, aged ___, who resided at ________ in __________ County, Arkansas, died at ________ on or about [date]. No petition for the appointment of a personal representative for the decedent's estate is pending or has been granted. 2. More than forty-five (45) days have elapsed since decedent's death. 3. The value, less encumbrances, of all property owned by the decedent at the time of death, excluding the homestead of and statutory allowances for the benefit of the surviving spouse or minor children, if any, of the decedent, does not exceed one hundred thousand dollars ($100,000). 4. There are no unpaid claims or demands against the decedent or the decedent's estate, and the Department of Human Services furnished no federal or state benefits to the decedent (or, that if such benefits have been furnished, the Department of Human Services has been reimbursed in accordance with state and federal laws and regulations). 5. An itemized description and valuation of the decedent's personal property; a legal description and valuation of the decedent's real property, including homestead, if any; and the names and addresses of persons having possession thereof or residing on any of the decedent's real property, are: Description of Property, Valuation Less In Possession of and Extent and Details Encumbrances of Encumbrances, if Any ____________________ ______________ _______________ ____________________ ______________ _______________ 6. The names, ages, relationships to the decedent and residence addresses of the persons entitled to receive the property of the decede",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms#main-content"
+    },
+    {
+      "text": "MENU",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms#"
+    },
+    {
+      "text": "",
+      "url": "https://arcourts.gov/"
+    },
+    {
+      "text": "contacts Directories",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms#"
+    },
+    {
+      "text": "Administrative Office of the Courts",
+      "url": "https://arcourts.gov/directories/aoc1"
+    },
+    {
+      "text": "Attorney & Court Reporter Rosters",
+      "url": "https://attorneyinfo.aoc.arkansas.gov/roster"
+    },
+    {
+      "text": "Attorney Search",
+      "url": "https://attorneyinfo.aoc.arkansas.gov/info/attorney/attorneysearch.aspx"
+    },
+    {
+      "text": "Certified Mediators",
+      "url": "https://arcourts.gov/administration/adr/certified-mediators"
+    },
+    {
+      "text": "Circuit Clerks",
+      "url": "https://arcourts.gov/directories/circuit-clerks"
+    },
+    {
+      "text": "Circuit Court Judges",
+      "url": "https://arcourts.gov/directories/circuit-judges"
+    },
+    {
+      "text": "County Judge & County Clerk",
+      "url": "https://arcourts.gov/directories/county-judge-clerk"
+    },
+    {
+      "text": "Court of Appeals",
+      "url": "https://arcourts.gov/directories/court-of-appeals"
+    },
+    {
+      "text": "Court Interpreters Registry",
+      "url": "https://arcourts.gov/directories/court-interpreters-registry-dir"
+    },
+    {
+      "text": "Court Reporters",
+      "url": "https://arcourts.gov/directories/court-reporters"
+    },
+    {
+      "text": "District Courts",
+      "url": "https://arcourts.gov/directories/district-courts"
+    },
+    {
+      "text": "Qualified DR/PR AAL’s",
+      "url": "https://arcourts.gov/directories/qualified-drpr-aals"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://arcourts.gov/directories/supreme-court"
+    },
+    {
+      "text": "Trial Court Administrators",
+      "url": "https://arcourts.gov/directories/trial-court-administrators"
+    },
+    {
+      "text": "description Forms",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms"
+    },
+    {
+      "text": "help_center Self−Help",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms#"
+    },
+    {
+      "text": "Resources for the Public",
+      "url": "https://arcourts.gov/public"
+    },
+    {
+      "text": "Self−Help Resources",
+      "url": "https://arcourts.gov/directories/resources"
+    },
+    {
+      "text": "Unauthorized Practice of Law",
+      "url": "https://arcourts.gov/courts/supreme-court/boards-committees/committee-unauthorized-practice-law/home"
+    },
+    {
+      "text": "calculate ChildSupport",
+      "url": "https://arcourts.gov/child-support-calculator/ChildSupp.html"
+    },
+    {
+      "text": "account_balance SearchARCourts",
+      "url": "https://caseinfo.arcourts.gov/cconnect/PROD/public/ck_public_qry_main.cp_main_idx"
+    },
+    {
+      "text": "Courts",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms#"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://arcourts.gov/courts/supreme-court"
+    },
+    {
+      "text": "Court of Appeals",
+      "url": "https://arcourts.gov/courts/court-of-appeals"
+    },
+    {
+      "text": "Circuit Courts",
+      "url": "https://arcourts.gov/courts/circuit-courts"
+    },
+    {
+      "text": "District Courts",
+      "url": "https://arcourts.gov/courts/district-courts"
+    },
+    {
+      "text": "Specialty Courts",
+      "url": "https://arcourts.gov/courts/circuit-courts/specialty-court-programs"
+    },
+    {
+      "text": "Court Structure",
+      "url": "https://arcourts.gov/sites/default/files/Arkansas-Court-Structure.pdf"
+    },
+    {
+      "text": "Justice Building Virtual Tour",
+      "url": "https://arcourts.gov/administration/public-education#virtualtour"
+    },
+    {
+      "text": "Services",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms#"
+    },
+    {
+      "text": "Alternative Dispute Resolution",
+      "url": "https://arcourts.gov/administration/adr"
+    },
+    {
+      "text": "Court Automation Programs",
+      "url": "https://arcourts.gov/administration/acap"
+    },
+    {
+      "text": "Court Interpreters",
+      "url": "https://arcourts.gov/administration/interpreters"
+    },
+    {
+      "text": "Dependency-Neglect Attorney Ad Litem Program",
+      "url": "https://arcourts.gov/administration/arjdc/atty-ad-litem"
+    },
+    {
+      "text": "Domestic Relations/Probate Attorney Ad Litem Program",
+      "url": "https://arcourts.gov/administration/aal"
+    },
+    {
+      "text": "Domestic Violence Program",
+      "url": "https://arcourts.gov/administration/domestic-violence-forms"
+    },
+    {
+      "text": "Judicial Branch Education",
+      "url": "https://arcourts.gov/administration/education"
+    },
+    {
+      "text": "Security & Emergency Preparedness",
+      "url": "https://arcourts.gov/administration/court-security"
+    },
+    {
+      "text": "Supreme Court Library",
+      "url": "https://arcourts.gov/courts/supreme-court/library"
+    },
+    {
+      "text": "Online Services",
+      "url": "https://arcourts.gov/online-services"
+    },
+    {
+      "text": "Attorney Payments",
+      "url": "https://attorneyinfo.aoc.arkansas.gov/"
+    },
+    {
+      "text": "Search ARCourts",
+      "url": "http://caseinfo.arcourts.gov/"
+    },
+    {
+      "text": "eFiling",
+      "url": "https://efile.arcourts.gov/"
+    },
+    {
+      "text": "Pay Traffic Tickets",
+      "url": "https://pay.arcourts.gov/pay/"
+    },
+    {
+      "text": "Administration",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms#"
+    },
+    {
+      "text": "Administrative Office of the Courts",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms#"
+    },
+    {
+      "text": "Security & Emergency Preparedness",
+      "url": "https://arcourts.gov/administration/court-security"
+    },
+    {
+      "text": "Human Resources",
+      "url": "https://arcourts.gov/administration/HR"
+    },
+    {
+      "text": "Alternative Dispute Resolution",
+      "url": "https://arcourts.gov/administration/adr"
+    },
+    {
+      "text": "Domestic Relations & Probate AAL Program",
+      "url": "https://arcourts.gov/administration/aal"
+    },
+    {
+      "text": "Court Interpreter Services",
+      "url": "https://arcourts.gov/administration/interpreters"
+    },
+    {
+      "text": "Domestic Violence Program",
+      "url": "https://arcourts.gov/administration/domestic-violence-forms"
+    },
+    {
+      "text": "Judicial Branch Education",
+      "url": "https://arcourts.gov/administration/education"
+    },
+    {
+      "text": "Research & Justice Statistics",
+      "url": "https://arcourts.gov/administration/orjs"
+    },
+    {
+      "text": "Juvenile Division",
+      "url": "https://arcourts.gov/administration/arjdc"
+    },
+    {
+      "text": "Court Automation Programs",
+      "url": "https://arcourts.gov/administration/acap"
+    },
+    {
+      "text": "Court Information Systems",
+      "url": "https://arcourts.gov/administration/cisdivision"
+    },
+    {
+      "text": "Office of Professional Programs",
+      "url": "https://arcourts.gov/administration/professional-programs"
+    },
+    {
+      "text": "Attorney Discipline",
+      "url": "https://arcourts.gov/administration/professional-conduct"
+    },
+    {
+      "text": "Clerk of the Court",
+      "url": "https://arcourts.gov/courts/clerk-of-the-courts"
+    },
+    {
+      "text": "Info & Resources",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms#"
+    },
+    {
+      "text": "Opinions",
+      "url": "https://opinions.arcourts.gov/ark/en/nav.do"
+    },
+    {
+      "text": "Court Rules",
+      "url": "https://opinions.arcourts.gov/ark/cr/en/nav_date.do"
+    },
+    {
+      "text": "Administrative Orders",
+      "url": "https://opinions.arcourts.gov/ark/ao/en/nav_date.do"
+    },
+    {
+      "text": "Proposed Rule Changes",
+      "url": "https://arcourts.gov/proposed-rule-changes"
+    },
+    {
+      "text": "Information for Attorneys",
+      "url": "https://arcourts.gov/attorneys"
+    },
+    {
+      "text": "Information for Courts",
+      "url": "https://arcourts.gov/court-staff"
+    },
+    {
+      "text": "Information for Public",
+      "url": "https://arcourts.gov/public"
+    },
+    {
+      "text": "Education & Training",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms#"
+    },
+    {
+      "text": "Court Interpreters",
+      "url": "https://arcourts.gov/administration/interpreters/events"
+    },
+    {
+      "text": "Judicial Branch Education",
+      "url": "https://arcourts.gov/administration/education"
+    },
+    {
+      "text": "Alternative Dispute Resolution",
+      "url": "https://arcourts.gov/administration/adr/training"
+    },
+    {
+      "text": "Public Education",
+      "url": "https://arcourts.gov/administration/public-education"
+    },
+    {
+      "text": "News",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms#"
+    },
+    {
+      "text": "Meetings & Events",
+      "url": "https://arcourts.gov/calendar"
+    },
+    {
+      "text": "Press Releases",
+      "url": "https://arcourts.gov/press-releases"
+    },
+    {
+      "text": "Proposed Rule Changes",
+      "url": "https://arcourts.gov/proposed-rule-changes"
+    },
+    {
+      "text": "State of the Judiciary",
+      "url": "https://arcourts.gov/courts/supreme-court/state-judiciary"
+    },
+    {
+      "text": "Publications",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms#"
+    },
+    {
+      "text": "Annual Reports",
+      "url": "https://arcourts.gov/forms-and-publications/annual-reports"
+    },
+    {
+      "text": "Appellate Updates",
+      "url": "https://arcourts.gov/forms-and-publications/appellate-update/2024"
+    },
+    {
+      "text": "Benchbooks",
+      "url": "https://arcourts.gov/administration/education/benchbooks"
+    },
+    {
+      "text": "Court Forms & Judiciary Publications",
+      "url": "https://arcourts.gov/forms-and-publications"
+    },
+    {
+      "text": "Court Forms",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms"
+    },
+    {
+      "text": "Meetings & Events",
+      "url": "https://arcourts.gov/calendar"
+    },
+    {
+      "text": "Court Forms & Judiciary Publications",
+      "url": "https://arcourts.gov/forms-and-publications"
+    },
+    {
+      "text": "Court Forms",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms"
+    },
+    {
+      "text": "Intro: Authority; Captions and Affidavits",
+      "url": "http://arcourts.gov/sites/default/files/files-list/probate_authorityA.html"
+    },
+    {
+      "text": "Form 1: Demand for Notice of Proceedings for Probate of Will or Appointment of Personal Representative",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%201.pdf"
+    },
+    {
+      "text": "Form 2: Petition for Appointment of [Administrator] [Adminstratrix]",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%202.pdf"
+    },
+    {
+      "text": "Form 3: Petition for Probate of Will and Appointment of Personal Representative",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%203.pdf"
+    },
+    {
+      "text": "Form 4: Proof of Will",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%204.pdf"
+    },
+    {
+      "text": "Form 5: Notice of Hearing on Petition",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%205.pdf"
+    },
+    {
+      "text": "Form 6: Bond of Personal Representative",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%206.pdf"
+    },
+    {
+      "text": "Form 7: Qualifying Affidavit of Personal Sureties",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%207.pdf"
+    },
+    {
+      "text": "Form 8: Acceptance of Appointment as Personal Representative",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%208.pdf"
+    },
+    {
+      "text": "Form 9: Designation of Process Agent",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%209.pdf"
+    },
+    {
+      "text": "Form 10: Letters of Administration",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2010.pdf"
+    },
+    {
+      "text": "Form 11: Letters Testamentary",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2011.pdf"
+    },
+    {
+      "text": "Form 12: Notice of Appointment as [Administrator] [Administratrix]",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2012.pdf"
+    },
+    {
+      "text": "Form 13: Notice of Appointment as [Executor] [Executrix] (Or [Administrator] [Administratrix] with Will Annexed)",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2013.pdf"
+    },
+    {
+      "text": "Form 14: Notice to Surviving Spouse",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2014.pdf"
+    },
+    {
+      "text": "Form 15: Request for Special Notice of Hearing",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2015.pdf"
+    },
+    {
+      "text": "Form 16: Petition for Award of Statutory Allowances",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2016.pdf"
+    },
+    {
+      "text": "Form 17: Inventory of Decedent's Estate",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2017.pdf"
+    },
+    {
+      "text": "Form 18: Affidavit to Claim Against Estate",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2018.pdf"
+    },
+    {
+      "text": "Form 19: Appraisal",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2019.pdf"
+    },
+    {
+      "text": "Form 20: Accounting by Personal Representative",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2020.pdf"
+    },
+    {
+      "text": "Form 21: Notice of Filing of Accounts",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2021.pdf"
+    },
+    {
+      "text": "Form 22: Citation for Failure to Present Account",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2022.pdf"
+    },
+    {
+      "text": "Form 23: Affidavit for Collection of Small Estate by Distributee",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2023.pdf"
+    },
+    {
+      "text": "Form 24: Petition for Appointment of Guardian of the Person and Estate",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2024.pdf"
+    },
+    {
+      "text": "Form 25: Notice of Hearing for Appointment",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2025.pdf"
+    },
+    {
+      "text": "Form 26: Application for Written Notice",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2026.pdf"
+    },
+    {
+      "text": "Form 27: Guardian's Bond",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2027.pdf"
+    },
+    {
+      "text": "Form 28: Acceptance of Appointment as Guardian",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2028.pdf"
+    },
+    {
+      "text": "Form 29: Letters of Guardianship of the Person and Estate",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2029.pdf"
+    },
+    {
+      "text": "Form 30: Inventory of Ward's Estate",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2030.pdf"
+    },
+    {
+      "text": "Form 31: Accounting by Guardian",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2031.pdf"
+    },
+    {
+      "text": "Form 32: Annual Report of Guardian",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2032.pdf"
+    },
+    {
+      "text": "Form 33: Agreement of Depository",
+      "url": "http://arcourts.gov/sites/default/files/files-list/Form%2033.pdf"
+    },
+    {
+      "text": "folder_copy Court Records",
+      "url": "http://caseinfo.arcourts.gov/"
+    },
+    {
+      "text": "account_balance For Courts",
+      "url": "https://arcourts.gov/court-staff"
+    },
+    {
+      "text": "balance For Attorneys",
+      "url": "https://arcourts.gov/attorneys"
+    },
+    {
+      "text": "groups For Public",
+      "url": "https://arcourts.gov/public"
+    },
+    {
+      "text": "Careers",
+      "url": "https://arcourts.gov/job-openings"
+    },
+    {
+      "text": "Contact",
+      "url": "https://arcourts.gov/contact"
+    },
+    {
+      "text": "Directions",
+      "url": "https://arcourts.gov/Directions"
+    },
+    {
+      "text": "Policies",
+      "url": "https://arcourts.gov/policies"
+    },
+    {
+      "text": "Login",
+      "url": "https://arcourts.gov/user/login"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://arcourts.gov/courts/supreme-court"
+    },
+    {
+      "text": "Boards & Committees",
+      "url": "https://arcourts.gov/courts/supreme-court/boards-committees"
+    },
+    {
+      "text": "Court of Appeals",
+      "url": "https://arcourts.gov/courts/court-of-appeals"
+    },
+    {
+      "text": "Clerk of the Courts",
+      "url": "https://arcourts.gov/courts/clerk-of-the-courts"
+    },
+    {
+      "text": "Circuit Courts",
+      "url": "https://arcourts.gov/courts/circuit-courts"
+    },
+    {
+      "text": "District Courts",
+      "url": "https://arcourts.gov/courts/district-courts"
+    },
+    {
+      "text": "Specialty Courts",
+      "url": "https://arcourts.gov/courts/circuit-courts/specialty-court-programs"
+    },
+    {
+      "text": "Court Structure",
+      "url": "https://arcourts.gov/sites/default/files/Arkansas-Court-Structure.pdf"
+    },
+    {
+      "text": "Division of Finance",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms"
+    },
+    {
+      "text": "Research & Justice Statistics",
+      "url": "https://arcourts.gov/administration/orjs"
+    },
+    {
+      "text": "Administrative Orders",
+      "url": "https://opinions.arcourts.gov/ark/ao/en/nav_date.do"
+    },
+    {
+      "text": "Legal Division",
+      "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms"
+    },
+    {
+      "text": "Juvenile Division",
+      "url": "https://arcourts.gov/administration/arjdc"
+    },
+    {
+      "text": "ACAP History",
+      "url": "https://arcourts.gov/administration/acap"
+    },
+    {
+      "text": "Office of Professional Programs",
+      "url": "https://arcourts.gov/administration/professional-programs"
+    },
+    {
+      "text": "Office of Professional Conduct",
+      "url": "https://arcourts.gov/professional-conduct"
+    },
+    {
+      "text": "Meetings & Events",
+      "url": "https://arcourts.gov/calendar"
+    },
+    {
+      "text": "Court Rules",
+      "url": "https://opinions.arcourts.gov/ark/cr/en/nav_date.do"
+    },
+    {
+      "text": "Jury Service",
+      "url": "https://arcourts.gov/jury"
+    },
+    {
+      "text": "Complaints Against Mediators",
+      "url": "https://arcourts.gov/adr/complaints-against-mediators"
+    },
+    {
+      "text": "Multiagency Charge Code List",
+      "url": "https://arcourts.gov/administration/acap/charge-code-list"
+    },
+    {
+      "text": "Qualified DR/PR AAL’s",
+      "url": "https://arcourts.gov/directories/qualified-drpr-aals"
+    }
+  ]
+}

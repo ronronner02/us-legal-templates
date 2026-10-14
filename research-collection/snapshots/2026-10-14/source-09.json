@@ -1,0 +1,197 @@
+{
+  "state": "North Carolina",
+  "publisher": "North Carolina Secretary of State",
+  "url": "https://www.sosnc.gov/forms/by_title/_advance_healthcare_directives",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "health_care_power_of_attorney\\.pdf",
+      "title": "Health Care Power of Attorney",
+      "family_id": "health-care-power-of-attorney",
+      "identity": "HEALTH CARE POWER OF ATTORNEY",
+      "max": 1
+    },
+    {
+      "pattern": "advance_directive_for_a_natural_death\\.pdf",
+      "title": "Advance Directive for a Natural Death (Living Will)",
+      "family_id": "health-care-directive",
+      "identity": "ADVANCE DIRECTIVE.*NATURAL DEATH",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.sosnc.gov/forms/by_title/_advance_healthcare_directives",
+    "final_url": "https://www.sosnc.gov/forms/by_title/_advance_healthcare_directives",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:00:57.976Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "a7608817b70b2566549b6bde6d379b30a72416044ffaf193aa96f1af0b277d8c",
+    "title": "Advance Healthcare Directives",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14/09-north-carolina-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.sosnc.gov/forms/by_title/_advance_healthcare_directives",
+      "final_url": "https://www.sosnc.gov/forms/by_title/_advance_healthcare_directives",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:00:57.976Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "a7608817b70b2566549b6bde6d379b30a72416044ffaf193aa96f1af0b277d8c",
+      "title": "Advance Healthcare Directives",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "health_care_power_of_attorney\\.pdf",
+      "title": "Health Care Power of Attorney",
+      "family_id": "health-care-power-of-attorney",
+      "identity": "HEALTH CARE POWER OF ATTORNEY",
+      "max": 1,
+      "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/health_care_power_of_attorney.pdf",
+      "link_text": "Health Care Power of Attorney (PDF)",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/health_care_power_of_attorney.pdf",
+        "final_url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/health_care_power_of_attorney.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:00:58.765Z",
+        "etag": "\"80e1e12a6f2cdb1:0\"",
+        "last_modified": "Fri, 01 Nov 2024 15:03:11 GMT",
+        "content_length": "250307",
+        "sha256": "0b0cad2e8e474529358ef7020b9d13ded0336d018d75719bb9b8ef52ef37e79e",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/health_care_power_of_attorney.pdf",
+          "final_url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/health_care_power_of_attorney.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:00:58.765Z",
+          "etag": "\"80e1e12a6f2cdb1:0\"",
+          "last_modified": "Fri, 01 Nov 2024 15:03:11 GMT",
+          "content_length": "250307",
+          "sha256": "0b0cad2e8e474529358ef7020b9d13ded0336d018d75719bb9b8ef52ef37e79e",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "0b0cad2e8e474529358ef7020b9d13ded0336d018d75719bb9b8ef52ef37e79e",
+      "local_archive_path": "archive/2026-10-14/09-health-care-power-of-attorney-0b0cad2e8e47.pdf",
+      "bytes": 250307,
+      "text_length": 19092,
+      "pages": 7,
+      "identity_excerpt": "(Rev. 07-08-2022) STATE OF NORTH CAROLINA HEALTH CARE POWER OF ATTORNEY COUNTY OF ________________ NOTE: YOU SHOULD USE THIS DOCUMENT TO NAME A PERSON AS YOUR HEALTH CARE AGENT IF YOU ARE COMFORTABLE GIVING THAT PERSON BROAD AND SWEEPING POWERS TO MAKE HEALTH CARE DECISIONS FOR YOU. THERE IS NO LEGAL REQUIREMENT THAT ANYONE EXECUTE A HEALTH CARE POWER OF ATTORNEY. 1. Designation of Health Care Agent. I, __________________, being of sound mind, hereby appoint the following person(s) to serve as my health care agent(s) to act for me and in my name (in any way I could act in person) to make health care decisions for me as authorized in this document. My designated health care agent(s) shall serve alone, in the order named. EXPLANATION: You have the right to name someone to make health care decisions for you when you cannot make or communicate those decisions. This form may be used to create a health care power of attorney, and meets the requirements of North Carolina law. However, you are not required to use this form, and North Carolina law allows the use of other forms that meet certain requirements. If you prepare your own health care power of attorney, you should be very careful to make sure it is consistent with North Carolina law. This document gives the person you designate as your health care agent broad powers to make health care decisions for you when you cannot make the decision yourself or cannot communicate your decision to other people. You should discuss your wishes concerning life-prolonging measures, mental health treatment, and other health care decisions with your health care agent. Except to the extent that you express specific limitations or restrictions in this form, your health care agent may make any health care decision you could make yourself. Thi",
+      "revision_evidence": [
+        "(Rev. 07-08-2022) STATE OF NORTH CAROLINA HEALTH CARE POWER OF ATTORNEY COUNT",
+        "//www.sosnc.gov/health. (Rev. 07-08-2022) A. Name: _______________________ Home Telephone: __________",
+        "o as \"shock treatment.\" (Rev. 07-08-2022) F. Giving consent for, withdrawing consent for, or withhold",
+        "nutrition or hydration. (Rev. 07-08-2022) ________ (Initial) B. Limitations Concerning Health Care De",
+        "ou insert a limitation. (Rev. 07-08-2022) 6. Organ Donation. To the extent I have not already made va",
+        "s, friends, and others. (Rev. 07-08-2022) 9. Miscellaneous Provisions. A. Revocation of Prior Powers ",
+        " _________________STATE (Rev. 07-08-2022) Sworn to (or affirmed) and subscribed before me this day by"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "advance_directive_for_a_natural_death\\.pdf",
+      "title": "Advance Directive for a Natural Death (Living Will)",
+      "family_id": "health-care-directive",
+      "identity": "ADVANCE DIRECTIVE.*NATURAL DEATH",
+      "max": 1,
+      "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_directive_for_a_natural_death.pdf",
+      "link_text": "Advance Directive for a Natural Death (\"Living Will\")(PDF)",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_directive_for_a_natural_death.pdf",
+        "final_url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_directive_for_a_natural_death.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:00:59.357Z",
+        "etag": "\"80e1e12a6f2cdb1:0\"",
+        "last_modified": "Fri, 01 Nov 2024 15:03:11 GMT",
+        "content_length": "180216",
+        "sha256": "c905e32db504b5fc8fc63a2ffe759b60196527e8cc9c51e336435b82f9379893",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_directive_for_a_natural_death.pdf",
+          "final_url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_directive_for_a_natural_death.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:00:59.357Z",
+          "etag": "\"80e1e12a6f2cdb1:0\"",
+          "last_modified": "Fri, 01 Nov 2024 15:03:11 GMT",
+          "content_length": "180216",
+          "sha256": "c905e32db504b5fc8fc63a2ffe759b60196527e8cc9c51e336435b82f9379893",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "c905e32db504b5fc8fc63a2ffe759b60196527e8cc9c51e336435b82f9379893",
+      "local_archive_path": "archive/2026-10-14/09-advance-directive-for-a-natural-death-living-will-c905e32db504.pdf",
+      "bytes": 180216,
+      "text_length": 8835,
+      "pages": 4,
+      "identity_excerpt": "(Rev. 07-08-2022) STATE OF NORTH CAROLINA ADVANCE DIRECTIVE FOR A NATURAL DEATH (“LIVING WILL’) COUNTY OF ________________ NOTE: YOU SHOULD USE THIS DOCUMENT TO GIVE YOUR HEALTH CARE PROVIDERS INSTRUCTIONS TO WITHHOLD OR WITHDRAW LIFE-PROLONGING MEASURES IN CERTAIN SITUATIONS. THERE IS NO LEGAL REQUIREMENT THAT ANYONE EXECUTE A LIVING WILL. My Desire for a Natural Death I, __________________________, being of sound mind, desire that, as specified below, my life not be prolonged by life-prolonging measures: 1. When My Directives Apply My directions about prolonging my life shall apply IF my attending physician determines that I lack capacity to make or communicate health care decisions and: NOTE: YOU MAY INITIAL ANY OR ALL OF THESE CHOICES. ________ (Initial) I have an incurable or irreversible condition that will result in my death within a relatively short period of time. ________ (Initial) I become unconscious and my health care providers determine that, to a high degree of medical certainty, I will never regain my consciousness. ________ (Initial) I suffer from advanced dementia or any other condition which results in the substantial loss of my cognitive ability and my health care providers determine that, to a high degree of medical certainty, this loss is not reversible. GENERAL INSTRUCTIONS: You can use this Advance Directive (\"Living Will\") form to give instructions for the future if you want your health care providers to withhold or withdraw life-prolonging measures in certain situations. You should talk to your doctor about what these terms mean. The Living Will states what choices you would have made for yourself if you were able to communicate. Talk to your family members, friends, and others you trust about your choices. Also, it is a good idea to talk with ",
+      "revision_evidence": [
+        "(Rev. 07-08-2022) STATE OF NORTH CAROLINA ADVANCE DIRECTIVE FOR A NATURAL DEA",
+        "//www.sosnc.gov/health. (Rev. 07-08-2022) 2. These are My Directives about Prolonging My Life: In tho",
+        "y advance instructions. (Rev. 07-08-2022) 6. If I have an Available Health Care Agent If I have appoi",
+        ", nor a licensed health (Rev. 07-08-2022) care provider who is (1) an employee of the declarant's att"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Advance Health Care Brochure (PDF)",
+      "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/Brochure.pdf"
+    },
+    {
+      "text": "Registration Form (PDF)",
+      "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/registration_form.pdf"
+    },
+    {
+      "text": "Removal Form (PDF)",
+      "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/remove_directive_form.pdf"
+    },
+    {
+      "text": "Health Care Power of Attorney (PDF)",
+      "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/health_care_power_of_attorney.pdf"
+    },
+    {
+      "text": "Advance Directive for a Natural Death (\"Living Will\")(PDF)",
+      "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_directive_for_a_natural_death.pdf"
+    },
+    {
+      "text": "Advance Directive for Mental Health Treatment (PDF)",
+      "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_instruction_for_mental_health.pdf"
+    },
+    {
+      "text": "Organ/Tissue Donor Card (PDF)",
+      "url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/organ_tissue_donor_card.pdf"
+    }
+  ]
+}

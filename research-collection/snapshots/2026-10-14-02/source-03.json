@@ -1,0 +1,521 @@
+{
+  "state": "Vermont",
+  "publisher": "Vermont Judiciary",
+  "url": "https://www.vtcourts.gov/probate/estates-and-wills",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "Petition to Open Small Estate",
+      "title": "Petition to Open Small Estate",
+      "form_id": "700-00001SM",
+      "family_id": "small-estate-petition",
+      "identity": "PETITION TO OPEN SMALL ESTATE",
+      "max": 1
+    },
+    {
+      "pattern": "Funeral Expenses",
+      "title": "Affidavit of Paid and Outstanding Funeral Expenses and Debts for Small Estate",
+      "form_id": "700-00402",
+      "family_id": "small-estate-debt-affidavit",
+      "identity": "FUNERAL EXPENSES",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.vtcourts.gov/probate/estates-and-wills",
+    "final_url": "https://www.vtcourts.gov/probate/estates-and-wills",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:03:46.308Z",
+    "etag": "\"1791954066-gzip\"",
+    "last_modified": "Wed, 14 Oct 2026 05:01:06 GMT",
+    "content_length": "25771",
+    "sha256": "b13844e190a9e4a737a309711b81c94098e5d2d818211b09613d19d6975b18a6",
+    "title": "Estates and Wills | Vermont Judiciary",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-02/03-vermont-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.vtcourts.gov/probate/estates-and-wills",
+      "final_url": "https://www.vtcourts.gov/probate/estates-and-wills",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:03:46.308Z",
+      "etag": "\"1791954066-gzip\"",
+      "last_modified": "Wed, 14 Oct 2026 05:01:06 GMT",
+      "content_length": "25771",
+      "sha256": "b13844e190a9e4a737a309711b81c94098e5d2d818211b09613d19d6975b18a6",
+      "title": "Estates and Wills | Vermont Judiciary",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "Petition to Open Small Estate",
+      "title": "Petition to Open Small Estate",
+      "form_id": "700-00001SM",
+      "family_id": "small-estate-petition",
+      "identity": "PETITION TO OPEN SMALL ESTATE",
+      "max": 1,
+      "url": "https://www.vtcourts.gov/media/377",
+      "link_text": "Petition to Open Small Estate",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.vtcourts.gov/media/377",
+        "final_url": "https://www.vtcourts.gov/sites/default/files/documents/700-00001SM.Petition%20to%20Open%20Small%20Estate.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:03:51.510Z",
+        "etag": "\"22e224-64c4a9ab6f3a0\"",
+        "last_modified": "Thu, 05 Mar 2026 17:52:47 GMT",
+        "content_length": "2286116",
+        "sha256": "1b87f9ec8882faa7de7e00960ea960689357b556b2338b676e7b9e321bc099ab",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.vtcourts.gov/media/377",
+          "final_url": "https://www.vtcourts.gov/sites/default/files/documents/700-00001SM.Petition%20to%20Open%20Small%20Estate.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:51.510Z",
+          "etag": "\"22e224-64c4a9ab6f3a0\"",
+          "last_modified": "Thu, 05 Mar 2026 17:52:47 GMT",
+          "content_length": "2286116",
+          "sha256": "1b87f9ec8882faa7de7e00960ea960689357b556b2338b676e7b9e321bc099ab",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "1b87f9ec8882faa7de7e00960ea960689357b556b2338b676e7b9e321bc099ab",
+      "local_archive_path": "archive/2026-10-14-02/03-petition-to-open-small-estate-1b87f9ec8882.pdf",
+      "bytes": 2286116,
+      "text_length": 3326,
+      "pages": 2,
+      "identity_excerpt": "700-00001SM – Petition to Open Small Estate (09/2023) Page 1 of 2 STATE OF VERMONT SUPERIOR COURT PROBATE DIVISION Unit Case No. In re ESTATE of: PETITION TO OPEN SMALL ESTATE 14 V.S.A. Ch. 81 __________________________________ was a resident of ______________________________________ Decedent Town/State and died on ________________________ leaving personal property valued at $45,000 or less and no real estate. Decedent left: ☐ No known Last Will and Testament OR ☐ Last Will and Testament dated _______________________ ☐ Codicil(s) to the Will, if any, dated ____________________ Attached are: 1. Filing fee; checks or money orders payable to Vermont Superior Court, 2. Original or Certified copy of the death certificate, 3. List of Interested Persons (form 700-00002), 4. ORIGINAL Will and Codicils, if any, 5. Inventory of the estate, including information or estimates available at the time of filing (form 700-00030), 6. Affidavit of paid and outstanding funeral expenses and any other known or reasonably ascertainable debts of the decedent (form 700-00402), 7. Bond without surety in the amount of the fair market value of the estate. Petitioner requests a small estate be opened and the following named person be appointed to administer the estate: _______________________________________________________________________ Proposed Executor/Administrator _______________________________________________________________________ Mailing Address ___________________________________ /___________________________________ Telephone Email ☐ This is the person named as executor in the Will. ACCEPTANCE OF APPOINTMENT I accept the appointment as Executor/Administrator and ask that the appointment documents be issued to me at the address above. _______________________________ ____________________",
+      "revision_evidence": [
+        "on to Open Small Estate (09/2023) Page 1 of 2 STATE OF VERMONT SUPERIOR COURT PROBATE DIVISION Unit Ca",
+        "on to Open Small Estate (09/2023) Page 2 of 2 CONSENT OF SURVIVING SPOUSE, IF ANY, AND CONSENT OF ALL "
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "Funeral Expenses",
+      "title": "Affidavit of Paid and Outstanding Funeral Expenses and Debts for Small Estate",
+      "form_id": "700-00402",
+      "family_id": "small-estate-debt-affidavit",
+      "identity": "FUNERAL EXPENSES",
+      "max": 1,
+      "url": "https://www.vtcourts.gov/media/12554",
+      "link_text": "Affidavit of Paid & Outstanding Funeral Expenses and Debts for Small Estate",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.vtcourts.gov/media/12554",
+        "final_url": "https://www.vtcourts.gov/sites/default/files/documents/700-00402.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:03:54.826Z",
+        "etag": "\"15078c-64c4a9b22cd00\"",
+        "last_modified": "Thu, 05 Mar 2026 17:52:54 GMT",
+        "content_length": "1378188",
+        "sha256": "d38fcd0fb6dce2e051c4722f03c606ce75ebf98f3abf650c0bd82f4305bc75ed",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.vtcourts.gov/media/12554",
+          "final_url": "https://www.vtcourts.gov/sites/default/files/documents/700-00402.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:54.826Z",
+          "etag": "\"15078c-64c4a9b22cd00\"",
+          "last_modified": "Thu, 05 Mar 2026 17:52:54 GMT",
+          "content_length": "1378188",
+          "sha256": "d38fcd0fb6dce2e051c4722f03c606ce75ebf98f3abf650c0bd82f4305bc75ed",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "d38fcd0fb6dce2e051c4722f03c606ce75ebf98f3abf650c0bd82f4305bc75ed",
+      "local_archive_path": "archive/2026-10-14-02/03-affidavit-of-paid-and-outstanding-funeral-expenses-and-debts-for-small-estate-d38fcd0fb6dc.pdf",
+      "bytes": 1378188,
+      "text_length": 1380,
+      "pages": 1,
+      "identity_excerpt": "700-00402 –Affidavit of Paid & Outstanding Funeral Expenses & Debts – Small Estates (07/2023) Page 1 of 1 STATE OF VERMONT SUPERIOR COURT PROBATE DIVISION Unit Case No. ______________________ In re: AFFIDAVIT OF PAID AND OUTSTANDING FUNERAL EXPENSES AND DEBTS FOR A SMALL ESTATE The undersigned Fiduciary, being duly sworn, states as follows: 1. The following is a list of paid funeral expenses and debts: ________________________________________ ________________________________________ ________________________________________ ________________________________________ ________________________________________ ________________________________________ 2. The following is a list of known and reasonably ascertainable debts of the Decedent: __________________________________________ ________________________________________ __________________________________________ ________________________________________ __________________________________________ ________________________________________ I declare that the above statements are true and accurate to the best of my knowledge and belief. I understand that if the above statements are false, I will be subject to the penalty of perjury or to other sanctions in the discretion of the Court. Date: ___________________________ __________________________________ Signature of Fiduciary __________________________________ Printed Name",
+      "revision_evidence": [
+        "& Debts – Small Estates (07/2023) Page 1 of 1 STATE OF VERMONT SUPERIOR COURT PROBATE DIVISION Unit Ca"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Petition to Open Small Estate",
+      "url": "https://www.vtcourts.gov/media/377"
+    },
+    {
+      "text": "Notice of Appearance - Probate Division",
+      "url": "https://www.vtcourts.gov/media/9354"
+    },
+    {
+      "text": "List of Interested Persons for Estates",
+      "url": "https://www.vtcourts.gov/media/378"
+    },
+    {
+      "text": "Inventory Schedule",
+      "url": "https://www.vtcourts.gov/media/7725"
+    },
+    {
+      "text": "Affidavit of Paid & Outstanding Funeral Expenses and Debts for Small Estate",
+      "url": "https://www.vtcourts.gov/media/12554"
+    },
+    {
+      "text": "Small Estate Administration Bond",
+      "url": "https://www.vtcourts.gov/media/14868"
+    },
+    {
+      "text": "Certificate of Service",
+      "url": "https://www.vtcourts.gov/media/11"
+    },
+    {
+      "text": "Appointment of Resident Agent",
+      "url": "https://www.vtcourts.gov/media/9087"
+    },
+    {
+      "text": "Probating a Vermont Estate Booklet",
+      "url": "https://www.vtcourts.gov/media/8694"
+    },
+    {
+      "text": "Probating a Vermont Estate Booklet",
+      "url": "https://www.vtcourts.gov/media/8694"
+    },
+    {
+      "text": "Public Portal User Guide",
+      "url": "https://www.vermontjudiciary.org/media/11040"
+    },
+    {
+      "text": "Probating a Vermont Estate Booklet",
+      "url": "https://www.vtcourts.gov/media/8694"
+    },
+    {
+      "text": "Probating a Vermont Estate Booklet",
+      "url": "https://www.vtcourts.gov/media/8694"
+    },
+    {
+      "text": "Petition to Open Small Estate",
+      "url": "https://www.vtcourts.gov/media/377"
+    },
+    {
+      "text": "Notice of Appearance - Probate Division",
+      "url": "https://www.vtcourts.gov/media/9354"
+    },
+    {
+      "text": "List of Interested Persons for Estates",
+      "url": "https://www.vtcourts.gov/media/378"
+    },
+    {
+      "text": "Inventory Schedule",
+      "url": "https://www.vtcourts.gov/media/7725"
+    },
+    {
+      "text": "Affidavit of Paid & Outstanding Funeral Expenses and Debts for Small Estate",
+      "url": "https://www.vtcourts.gov/media/12554"
+    },
+    {
+      "text": "Small Estate Administration Bond",
+      "url": "https://www.vtcourts.gov/media/14868"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "Instructions: Notifying Interested Persons of a Hearing on Allowance of Will",
+      "url": "https://www.vtcourts.gov/media/15567"
+    },
+    {
+      "text": "Appointment of Resident Agent",
+      "url": "https://www.vtcourts.gov/media/9087"
+    },
+    {
+      "text": "Report of Fiduciary of Small Estate",
+      "url": "https://www.vtcourts.gov/media/394"
+    },
+    {
+      "text": "Receipt",
+      "url": "https://www.vtcourts.gov/media/319"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "Probating a Vermont Estate Booklet",
+      "url": "https://www.vtcourts.gov/media/8694"
+    },
+    {
+      "text": "Petition to Open Decedent's Estate",
+      "url": "https://www.vtcourts.gov/media/375"
+    },
+    {
+      "text": "Notice of Appearance - Probate Division",
+      "url": "https://www.vtcourts.gov/media/9354"
+    },
+    {
+      "text": "List of Interested Persons for Estates",
+      "url": "https://www.vtcourts.gov/media/378"
+    },
+    {
+      "text": "Estate Administration Bond",
+      "url": "https://www.vtcourts.gov/media/379"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "Notice of Rights of Surviving Spouse",
+      "url": "https://www.vtcourts.gov/media/12506"
+    },
+    {
+      "text": "Notice of Elections and/or Waivers of Minor Children",
+      "url": "https://www.vtcourts.gov/media/20568"
+    },
+    {
+      "text": "Notice of Elections and/or Waivers by Surviving Spouse",
+      "url": "https://www.vtcourts.gov/media/393"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "Instructions: Notifying Interested Persons of a Hearing on Allowance of Will",
+      "url": "https://www.vtcourts.gov/media/15567"
+    },
+    {
+      "text": "Inventory Schedule",
+      "url": "https://www.vtcourts.gov/media/7725"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "Notice to Creditors",
+      "url": "https://www.vtcourts.gov/media/383"
+    },
+    {
+      "text": "Motion to Waive Notice to Creditors",
+      "url": "https://www.vtcourts.gov/media/384"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "Appointment of Resident Agent",
+      "url": "https://www.vtcourts.gov/media/9087"
+    },
+    {
+      "text": "Written Statement of Claim",
+      "url": "https://www.vtcourts.gov/media/385"
+    },
+    {
+      "text": "Notice of Disallowance",
+      "url": "https://www.vtcourts.gov/media/7724"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "Motion for License to Sell or Convey Real Estate",
+      "url": "https://www.vtcourts.gov/media/386"
+    },
+    {
+      "text": "Motion for License to Sell or Convey Personal Property",
+      "url": "https://www.vtcourts.gov/media/388"
+    },
+    {
+      "text": "Motion for License to Mortgage or Lease Personal Property",
+      "url": "https://www.vtcourts.gov/media/390"
+    },
+    {
+      "text": "Motion for License to Mortgage or Lease Real Estate",
+      "url": "https://www.vtcourts.gov/media/387"
+    },
+    {
+      "text": "Addendum to Motion for License to Sell or Convey Personal Property",
+      "url": "https://www.vtcourts.gov/media/389"
+    },
+    {
+      "text": "Report on License to Sell, Convey, Mortgage or Lease Real Estate or Personal Property",
+      "url": "https://www.vtcourts.gov/media/391"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "License to Sell or Convey",
+      "url": "https://www.vtcourts.gov/media/10454"
+    },
+    {
+      "text": "License to Mortgage or Lease",
+      "url": "https://www.vtcourts.gov/media/8009"
+    },
+    {
+      "text": "Summary of Account with Schedules & Motion to Allow Account",
+      "url": "https://www.vtcourts.gov/media/395"
+    },
+    {
+      "text": "Motion to Waive Accounting",
+      "url": "https://www.vtcourts.gov/media/13900"
+    },
+    {
+      "text": "Waiver of Final Accounting and Consent",
+      "url": "https://www.vtcourts.gov/media/12555"
+    },
+    {
+      "text": "Motion for Decree of Partial Distribution",
+      "url": "https://www.vtcourts.gov/media/397"
+    },
+    {
+      "text": "Motion to Waive Administration",
+      "url": "https://www.vtcourts.gov/media/17258"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "Decree of Partial Distribution",
+      "url": "https://www.vtcourts.gov/media/8010"
+    },
+    {
+      "text": "Final Decree of Distribution",
+      "url": "https://www.vtcourts.gov/media/8008"
+    },
+    {
+      "text": "Affidavit of Administration",
+      "url": "https://www.vtcourts.gov/media/12553"
+    },
+    {
+      "text": "Fiduciary's Closing Report & Discharge",
+      "url": "https://www.vtcourts.gov/media/318"
+    },
+    {
+      "text": "Receipt",
+      "url": "https://www.vtcourts.gov/media/319"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "Motion to Continue - Probate Division",
+      "url": "https://www.vtcourts.gov/media/368"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "General Motion - Probate",
+      "url": "https://www.vtcourts.gov/media/16440"
+    },
+    {
+      "text": "General Affidavit - Probate",
+      "url": "https://www.vtcourts.gov/media/16441"
+    },
+    {
+      "text": "Response to Motion - Probate",
+      "url": "https://www.vtcourts.gov/media/18336"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "Motion for Order of Dividend",
+      "url": "https://www.vtcourts.gov/media/16438"
+    },
+    {
+      "text": "Affidavit After Order of Dividend",
+      "url": "https://www.vtcourts.gov/media/16439"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "Notice of Name Change or Change of Address",
+      "url": "https://www.vtcourts.gov/media/10747"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "Cover Letter - Filing a Will for Safe Keeping",
+      "url": "https://www.vtcourts.gov/media/17855"
+    },
+    {
+      "text": "Request for Removal of Wills from Safekeeping",
+      "url": "https://www.vtcourts.gov/media/15569"
+    },
+    {
+      "text": "Affidavit of No Assets",
+      "url": "https://www.vtcourts.gov/media/10948"
+    },
+    {
+      "text": "Certificate of Service - Probate",
+      "url": "https://www.vtcourts.gov/media/20002"
+    },
+    {
+      "text": "Consent",
+      "url": "https://www.vtcourts.gov/media/309"
+    },
+    {
+      "text": "Executor’s Refusal of Appointment",
+      "url": "https://www.vtcourts.gov/media/381"
+    },
+    {
+      "text": "Motion to Appoint Special Administrator",
+      "url": "https://www.vtcourts.gov/media/376"
+    },
+    {
+      "text": "Motion for Extension of Time",
+      "url": "https://www.vtcourts.gov/media/392"
+    },
+    {
+      "text": "Petition for Issuance of Certificate of Presumed Death",
+      "url": "https://www.vtcourts.gov/media/396"
+    },
+    {
+      "text": "Waiver of Surety on Estate Administration Bond",
+      "url": "https://www.vtcourts.gov/media/8935"
+    },
+    {
+      "text": "Request for Access to Court Record",
+      "url": "https://www.vtcourts.gov/media/770"
+    },
+    {
+      "text": "Notice of Appeal of Decision on Access to Court Records",
+      "url": "https://www.vtcourts.gov/media/941"
+    }
+  ]
+}

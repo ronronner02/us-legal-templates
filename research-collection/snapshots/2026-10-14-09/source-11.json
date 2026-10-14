@@ -1,0 +1,202 @@
+{
+  "state": "Oregon",
+  "publisher": "State Library of Oregon",
+  "url": "https://digitalcollections.library.oregon.gov/nodes/download/167640",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "/247732",
+      "title": "Your Guide to the Oregon Advance Directive for Health Care - library archive",
+      "family_id": "advance-directive-guide",
+      "identity": "Guide.*Oregon Advance Directive"
+    }
+  ],
+  "flags": [
+    "state-library-archived-publication",
+    "current-version-review-required"
+  ],
+  "source": {
+    "url": "https://digitalcollections.library.oregon.gov/nodes/download/167640",
+    "final_url": "https://digitalcollections.library.oregon.gov/nodes/download/167640",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:59:02.920Z",
+    "etag": null,
+    "last_modified": "Wed, 14 Oct 2026 09:59:02 GMT",
+    "content_length": null,
+    "sha256": "50b30e8701ee8df23eb9a9602dfa6e211cefaebd12d982d91f431c48aef3592e",
+    "title": "Download | State Library of Oregon Digital Collections",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-09/11-oregon-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://digitalcollections.library.oregon.gov/nodes/download/167640",
+      "final_url": "https://digitalcollections.library.oregon.gov/nodes/download/167640",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:59:02.920Z",
+      "etag": null,
+      "last_modified": "Wed, 14 Oct 2026 09:59:02 GMT",
+      "content_length": null,
+      "sha256": "50b30e8701ee8df23eb9a9602dfa6e211cefaebd12d982d91f431c48aef3592e",
+      "title": "Download | State Library of Oregon Digital Collections",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "/247732",
+      "title": "Your Guide to the Oregon Advance Directive for Health Care - library archive",
+      "family_id": "advance-directive-guide",
+      "identity": "Guide.*Oregon Advance Directive",
+      "url": "https://digitalcollections.library.oregon.gov/assets/downloadwiz/247732",
+      "link_text": "1016864_OBJ.pdf219.0 KB",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://digitalcollections.library.oregon.gov/assets/downloadwiz/247732",
+        "final_url": "https://digitalcollections.library.oregon.gov/assets/downloadwiz/247732",
+        "http_status": 200,
+        "content_type": "application/octet-stream",
+        "retrieved_at": "2026-10-14T09:59:04.094Z",
+        "etag": null,
+        "last_modified": "Wed, 14 Oct 2026 09:59:03 GMT",
+        "content_length": "224294",
+        "sha256": "bf8881e8b00c3e332e77fcdc39cda550115f86eb970809be15822ec359e8515d",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://digitalcollections.library.oregon.gov/assets/downloadwiz/247732",
+          "final_url": "https://digitalcollections.library.oregon.gov/assets/downloadwiz/247732",
+          "http_status": 200,
+          "content_type": "application/octet-stream",
+          "retrieved_at": "2026-10-14T09:59:04.094Z",
+          "etag": null,
+          "last_modified": "Wed, 14 Oct 2026 09:59:03 GMT",
+          "content_length": "224294",
+          "sha256": "bf8881e8b00c3e332e77fcdc39cda550115f86eb970809be15822ec359e8515d",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "bf8881e8b00c3e332e77fcdc39cda550115f86eb970809be15822ec359e8515d",
+      "local_archive_path": "archive/2026-10-14-09/11-your-guide-to-the-oregon-advance-directive-for-health-care-library-archive-bf8881e8b00c.pdf",
+      "bytes": 224294,
+      "text_length": 13463,
+      "pages": 7,
+      "identity_excerpt": "1 OHA3942 12/07/2021 Your Guide to the Oregon Advance Directive for Health Care I. INTRODUCTION This Guide is here to help you complete the Oregon Advance Directive for Health Care. It answers questions many people have about it. What is the purpose of the Oregon Advance Directive? It is a legal form. It lets you: Name a person to make your health care decisions if you cannot make them for yourself. Write down your goals and wishes for health care to make them known. This is in the event you are not able to express them in the future. Who is the Oregon Advance Directive for? It is for adults 18 years and older who live in Oregon. What is a health care representative and what is their role? That is the person you choose to make your health care decisions if you cannot make them for yourself. They do this only if health care providers conclude you are not able to make health care decisions for yourself. It is your health care representative’s job to follow your wishes, values, and goals. Talk with them about your wishes. You can use your Advance Directive to start these talks. One of the most important things you can do is choose a Health Care Representative. This is to make sure your wishes are honored. Have talks with them to make sure they know what your wishes are. II. FILLING OUT THE ADVANCE DIRECTIVE What sections does the Oregon Advance Directive have? It has 7 sections. Here are more details about each one: Section 1. About Me. Fill out this section with your current contact information. 2 OHA3942 12/07/2021 Section 2. My Health Care Representative(s) This is where you appoint at least one health care representative. You can appoint up to three. They are: • A primary health care representative • A first alternate • A second alternate The health care representative",
+      "revision_evidence": [
+        "1 OHA3942 12/07/2021 Your Guide to the Oregon Advance Directive for Health Care I. INTRODU",
+        "t information. 2 OHA3942 12/07/2021 Section 2. My Health Care Representative(s) This is where you ap",
+        "ch. These are: 3 OHA3942 12/07/2021 1) If you have a terminal condition 2) If you have an advanced p",
+        "sentative can. 4 OHA3942 12/07/2021 Sections 5, 6, and 7. Section 5 is where you sign the form. In S",
+        " Legal experts 5 OHA3942 12/07/2021 • If you live in a care facility, you can ask for help from an o",
+        "s into action. 6 OHA3942 12/07/2021 You can talk with your health care provider about the treatments",
+        "our wishes are 7 OHA3942 12/07/2021 Give a copy to your health care provider. Make sure they know wh"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip to content",
+      "url": "https://digitalcollections.library.oregon.gov/nodes/download/167640#main_content_area_ref"
+    },
+    {
+      "text": "Home",
+      "url": "https://digitalcollections.library.oregon.gov/"
+    },
+    {
+      "text": "Browse All",
+      "url": "https://digitalcollections.library.oregon.gov/nodes/browse"
+    },
+    {
+      "text": "Search",
+      "url": "https://digitalcollections.library.oregon.gov/nodes/definesearch"
+    },
+    {
+      "text": "My History",
+      "url": "https://digitalcollections.library.oregon.gov/pages/history"
+    },
+    {
+      "text": "Login",
+      "url": "https://digitalcollections.library.oregon.gov/users/login"
+    },
+    {
+      "text": "About",
+      "url": "https://digitalcollections.library.oregon.gov/pages/about"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://digitalcollections.library.oregon.gov/pages/contact"
+    },
+    {
+      "text": "Login",
+      "url": "https://digitalcollections.library.oregon.gov/users/login"
+    },
+    {
+      "text": "Register",
+      "url": "https://digitalcollections.library.oregon.gov/users/register"
+    },
+    {
+      "text": "",
+      "url": "https://digitalcollections.library.oregon.gov/"
+    },
+    {
+      "text": "Guest",
+      "url": "https://digitalcollections.library.oregon.gov/users/login"
+    },
+    {
+      "text": "Login",
+      "url": "https://digitalcollections.library.oregon.gov/users/login"
+    },
+    {
+      "text": "",
+      "url": "https://digitalcollections.library.oregon.gov/"
+    },
+    {
+      "text": "1016864_OBJ.pdf219.0 KB",
+      "url": "https://digitalcollections.library.oregon.gov/assets/downloadwiz/247732"
+    },
+    {
+      "text": "1016864_OBJ.pdf",
+      "url": "https://digitalcollections.library.oregon.gov/assets/downloadwiz/305525"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://digitalcollections.library.oregon.gov/pages/privacy"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://digitalcollections.library.oregon.gov/pages/terms"
+    },
+    {
+      "text": "contact State Library of Oregon Digital Collections",
+      "url": "https://digitalcollections.library.oregon.gov/messages/create"
+    },
+    {
+      "text": "RECOLLECT",
+      "url": "https://www.recollectcms.com/"
+    },
+    {
+      "text": "Recollect Limited",
+      "url": "https://www.recollectcms.com/"
+    },
+    {
+      "text": "",
+      "url": "https://library.oregon.gov/"
+    },
+    {
+      "text": "www.oregon.gov/Library",
+      "url": "https://www.oregon.gov/Library"
+    }
+  ]
+}

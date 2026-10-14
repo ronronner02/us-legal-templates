@@ -1,0 +1,107 @@
+{
+  "state": "South Carolina",
+  "publisher": "South Carolina Department on Aging",
+  "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+  "direct": true,
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": ".*",
+      "title": "South Carolina Health Care Power of Attorney",
+      "family_id": "health-care-power-of-attorney",
+      "identity": "SOUTH CAROLINA HEALTH CARE POWER OF ATTORNEY",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+    "final_url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "retrieved_at": "2026-10-14T09:12:20.361Z",
+    "etag": "\"752e-55ae57970cec0\"",
+    "last_modified": "Fri, 06 Oct 2017 19:01:55 GMT",
+    "content_length": "29998",
+    "sha256": "00f43beec458a48a8a9709ede626e0ff7cc239e5b872b8f0a90b386f8139503c",
+    "title": "",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-05/05-south-carolina-source.pdf"
+  },
+  "source_attempts": [
+    {
+      "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+      "final_url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "retrieved_at": "2026-10-14T09:12:20.361Z",
+      "etag": "\"752e-55ae57970cec0\"",
+      "last_modified": "Fri, 06 Oct 2017 19:01:55 GMT",
+      "content_length": "29998",
+      "sha256": "00f43beec458a48a8a9709ede626e0ff7cc239e5b872b8f0a90b386f8139503c",
+      "title": "",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": ".*",
+      "title": "South Carolina Health Care Power of Attorney",
+      "family_id": "health-care-power-of-attorney",
+      "identity": "SOUTH CAROLINA HEALTH CARE POWER OF ATTORNEY",
+      "max": 1,
+      "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+      "link_text": "South Carolina Health Care Power of Attorney",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+        "final_url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:12:20.361Z",
+        "etag": "\"752e-55ae57970cec0\"",
+        "last_modified": "Fri, 06 Oct 2017 19:01:55 GMT",
+        "content_length": "29998",
+        "sha256": "00f43beec458a48a8a9709ede626e0ff7cc239e5b872b8f0a90b386f8139503c",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+          "final_url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:12:20.361Z",
+          "etag": "\"752e-55ae57970cec0\"",
+          "last_modified": "Fri, 06 Oct 2017 19:01:55 GMT",
+          "content_length": "29998",
+          "sha256": "00f43beec458a48a8a9709ede626e0ff7cc239e5b872b8f0a90b386f8139503c",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "00f43beec458a48a8a9709ede626e0ff7cc239e5b872b8f0a90b386f8139503c",
+      "local_archive_path": "archive/2026-10-14-05/05-south-carolina-health-care-power-of-attorney-00f43beec458.pdf",
+      "bytes": 29998,
+      "text_length": 15457,
+      "pages": 7,
+      "identity_excerpt": "SOUTH CAROLINA HEALTH CARE POWER OF ATTORNEY INFORMATION ABOUT THIS DOCUMENT THIS IS AN IMPORTANT LEGAL DOCUMENT. BEFORE SIGNING THIS DOCUMENT, YOU SHOULD KNOW THESE IMPORTANT FACTS: 1. THIS DOCUMENT GIVES THE PERSON YOU NAME AS YOUR AGENT THE POWER TO MAKE HEALTH CARE DECISIONS FOR YOU IF YOU CANNOT MAKE THE DECISION FOR YOURSELF. THIS POWER INCLUDES THE POWER TO MAKE DECISIONS ABOUT LIFE- SUSTAINING TREATMENT. UNLESS YOU STATE OTHERWISE, YOUR AGENT WILL HAVE THE SAME AUTHORITY TO MAKE DECISIONS ABOUT YOUR HEALTH CARE AS YOU WOULD HAVE. 2. THIS POWER IS SUBJECT TO ANY LIMITATIONS OR STATEMENTS OF YOUR DESIRES THAT YOU INCLUDE IN THIS DOCUMENT. YOU MAY STATE IN THIS DOCUMENT ANY TREATMENT YOU DO NOT DESIRE OR TREATMENT YOU WANT TO BE SURE YOU RECEIVE. YOUR AGENT WILL BE OBLIGATED TO FOLLOW YOUR INSTRUCTIONS WHEN MAKING DECISIONS ON YOUR BEHALF. YOU MAY ATTACH ADDITIONAL PAGES IF YOU NEED MORE SPACE TO COMPLETE THE STATEMENT. 3. AFTER YOU HAVE SIGNED THIS DOCUMENT, YOU HAVE THE RIGHT TO MAKE HEALTH CARE DECISIONS FOR YOURSELF IF YOU ARE MENTALLY COMPETENT TO DO SO. AFTER YOU HAVE SIGNED THIS DOCUMENT, NO TREATMENT MAY BE GIVEN TO YOU OR STOPPED OVER YOUR OBJECTION IF YOU ARE MENTALLY COMPETENT TO MAKE THAT DECISION. 4. YOU HAVE THE RIGHT TO REVOKE THIS DOCUMENT, AND TERMINATE YOUR AGENT'S AUTHORITY, BY INFORMING EITHER YOUR AGENT OR YOUR HEALTH CARE PROVIDER ORALLY OR IN WRITING. 5. IF THERE IS ANYTHING IN THIS DOCUMENT THAT YOU DO NOT UNDERSTAND, YOU SHOULD ASK A SOCIAL WORKER, LAWYER, OR OTHER PERSON TO EXPLAIN IT TO YOU. 6. THIS POWER OF ATTORNEY WILL NOT BE VALID UNLESS TWO PERSONS SIGN AS WITNESSES. EACH OF THESE PERSONS MUST EITHER WITNESS YOUR SIGNING OF THE POWER OF ATTORNEY OR WITNESS YOUR ACKNOWLEDGMENT THAT THE SIGNATURE ON THE POWER OF ATTORNEY IS YOURS. THE ",
+      "revision_evidence": [
+        "ted in this document. 2. EFFECTIVE DATE AND DURABILITY By this document I intend to create a durable power of"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "South Carolina Health Care Power of Attorney",
+      "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf"
+    }
+  ]
+}

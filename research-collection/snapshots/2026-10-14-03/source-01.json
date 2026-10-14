@@ -1,0 +1,750 @@
+{
+  "state": "North Dakota",
+  "publisher": "North Dakota Court System",
+  "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "Form-1-Affidavit-Collection.pdf",
+      "title": "Affidavit for Collection of Personal Property of the Decedent",
+      "form_id": "NDPC Form 1",
+      "family_id": "small-estate-affidavit",
+      "identity": "Affidavit for Collection of Personal Property",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit",
+    "final_url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:05:32.487Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "d7374407ed63fa6714f70e08b6956127a1b242b7e43172d5219b316807dd4049",
+    "title": "North Dakota Court System - Affidavit for Collection of Personal Property of the Decedent",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-03/01-north-dakota-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit",
+      "final_url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:05:32.487Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "d7374407ed63fa6714f70e08b6956127a1b242b7e43172d5219b316807dd4049",
+      "title": "North Dakota Court System - Affidavit for Collection of Personal Property of the Decedent",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "Form-1-Affidavit-Collection.pdf",
+      "title": "Affidavit for Collection of Personal Property of the Decedent",
+      "form_id": "NDPC Form 1",
+      "family_id": "small-estate-affidavit",
+      "identity": "Affidavit for Collection of Personal Property",
+      "max": 1,
+      "url": "https://www.ndcourts.gov/Media/Default/legal-resources/legal-self-help/personal-property-affidavit/Form-1-Affidavit-Collection.pdf",
+      "link_text": "Affidavit for Collection of Personal Property of the Decedent",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.ndcourts.gov/Media/Default/legal-resources/legal-self-help/personal-property-affidavit/Form-1-Affidavit-Collection.pdf",
+        "final_url": "https://www.ndcourts.gov/Media/Default/legal-resources/legal-self-help/personal-property-affidavit/Form-1-Affidavit-Collection.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:05:37.869Z",
+        "etag": "\"50e7a8ec1c3bdd1:0\"",
+        "last_modified": "Wed, 02 Sep 2026 20:52:10 GMT",
+        "content_length": "1260306",
+        "sha256": "663d7b2144f41c0ffba5299ed656531a27d45abf5cea5f0136fdb65583c255ab",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.ndcourts.gov/Media/Default/legal-resources/legal-self-help/personal-property-affidavit/Form-1-Affidavit-Collection.pdf",
+          "final_url": "https://www.ndcourts.gov/Media/Default/legal-resources/legal-self-help/personal-property-affidavit/Form-1-Affidavit-Collection.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:05:37.869Z",
+          "etag": "\"50e7a8ec1c3bdd1:0\"",
+          "last_modified": "Wed, 02 Sep 2026 20:52:10 GMT",
+          "content_length": "1260306",
+          "sha256": "663d7b2144f41c0ffba5299ed656531a27d45abf5cea5f0136fdb65583c255ab",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "663d7b2144f41c0ffba5299ed656531a27d45abf5cea5f0136fdb65583c255ab",
+      "local_archive_path": "archive/2026-10-14-03/01-affidavit-for-collection-of-personal-property-of-the-decedent-663d7b2144f4.pdf",
+      "bytes": 1260306,
+      "text_length": 5263,
+      "pages": 3,
+      "identity_excerpt": "(Rev Sep 2026) Page 1 of NDPC Form 1 Instructions Instructions for Form 1: Affidavit for Collection of Personal Property of the Decedent (30.1-23-01) Form 1 allows personal property to transfer without court involvement. You don’t file the Affidavit for Collection of Personal Property of the Decedent with a North Dakota state district court. You may use the Affidavit if the estate meets the following requirements: • At least 30 days have passed since the person died; • The total net value of the probated property (minus any debts or other encumbrances on the property) is less than $100,000.00; • There’s no real property (real estate) that is part of the probated estate (see the personal property and real property definitions on Page 18 of this guidebook); • No probate case is started or completed in a North Dakota state district court, a court of any other state, or a tribal court; and • The heir claiming the personal property by affidavit is entitled to it by will or intestate succession. The completed Affidavit is presented to whoever holds the personal property for transfer to the person entitled to receive it. If you need a court order to transfer the property, you can’t use this form. Note: You may wish to contact the holder of the personal property to find out if they accept the Affidavit as a way to transfer the personal property to you. If the Affidavit won’t be accepted, see options B.1. and B.2. on Page 5 of this guidebook. If the deceased person didn’t leave a will, you need to determine who the heirs of the estate are according to North Dakota’s intestate succession laws. Intestate succession laws dictate who takes the deceased person’s property if they died without a will. See Pages 10-11 of this guidebook for distribution of the estate if there’s no will. ",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Search Records & Pay Fines",
+      "url": "https://www.ndcourts.gov/public-access"
+    },
+    {
+      "text": "Self-Help",
+      "url": "https://www.ndcourts.gov/legal-self-help"
+    },
+    {
+      "text": "Court Locations",
+      "url": "https://www.ndcourts.gov/court-locations"
+    },
+    {
+      "text": "Supreme Court Opinions",
+      "url": "https://www.ndcourts.gov/supreme-court/opinions"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.ndcourts.gov/district-court/Jurors-Handbook"
+    },
+    {
+      "text": "Lawyer Search",
+      "url": "https://www.ndcourts.gov/lawyers"
+    },
+    {
+      "text": "",
+      "url": "https://www.ndcourts.gov/"
+    },
+    {
+      "text": "Search Tips",
+      "url": "https://www.ndcourts.gov/search-help"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.ndcourts.gov/"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.ndcourts.gov/supreme-court"
+    },
+    {
+      "text": "Docket Search",
+      "url": "https://www.ndcourts.gov/supreme-court/docket-search"
+    },
+    {
+      "text": "Opinions",
+      "url": "https://www.ndcourts.gov/supreme-court/opinions"
+    },
+    {
+      "text": "Watch/Listen to Court",
+      "url": "https://www.ndcourts.gov/supreme-court/listen-to-court"
+    },
+    {
+      "text": "View Calendar",
+      "url": "https://www.ndcourts.gov/supreme-court/calendar"
+    },
+    {
+      "text": "Filing With the Supreme Court",
+      "url": "https://www.ndcourts.gov/supreme-court/filing"
+    },
+    {
+      "text": "Notices",
+      "url": "https://www.ndcourts.gov/news/north-dakota/north-dakota-supreme-court/notices"
+    },
+    {
+      "text": "C-Track Data Incident",
+      "url": "https://www.ndcourts.gov/supreme-court/c-track-data-incident"
+    },
+    {
+      "text": "Committees and Boards",
+      "url": "https://www.ndcourts.gov/supreme-court/committees"
+    },
+    {
+      "text": "Administrative Council",
+      "url": "https://www.ndcourts.gov/supreme-court/committees/administrative-council"
+    },
+    {
+      "text": "Board of Law Examiners",
+      "url": "https://www.ndcourts.gov/supreme-court/committees/board-of-law-examiners"
+    },
+    {
+      "text": "Disciplinary Board",
+      "url": "https://www.ndcourts.gov/supreme-court/committees/disciplinary-board"
+    },
+    {
+      "text": "Joint Procedure",
+      "url": "https://www.ndcourts.gov/supreme-court/committees/joint-procedure-committee"
+    },
+    {
+      "text": "Judicial Conduct Commission",
+      "url": "https://www.ndcourts.gov/supreme-court/committees/judicial-conduct-commission"
+    },
+    {
+      "text": "more...",
+      "url": "https://www.ndcourts.gov/supreme-court/committees"
+    },
+    {
+      "text": "Get Connected",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.ndcourts.gov/supreme-court/subscribe"
+    },
+    {
+      "text": "Taking the Courts to Schools",
+      "url": "https://www.ndcourts.gov/supreme-court/taking-the-court-to-schools"
+    },
+    {
+      "text": "Publications",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Current Justices",
+      "url": "https://www.ndcourts.gov/supreme-court/justices"
+    },
+    {
+      "text": "Surrogate Judges",
+      "url": "https://www.ndcourts.gov/supreme-court/surrogate-judges"
+    },
+    {
+      "text": "History of the Supreme Court",
+      "url": "https://www.ndcourts.gov/supreme-court/history-of-the-supreme-court"
+    },
+    {
+      "text": "Appealing a Case",
+      "url": "https://www.ndcourts.gov/legal-self-help/district-court-appeal-to-supreme-court"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.ndcourts.gov/about-us"
+    },
+    {
+      "text": "District Courts",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "District Court",
+      "url": "https://www.ndcourts.gov/district-court"
+    },
+    {
+      "text": "Case Search & Pay Fines",
+      "url": "https://www.ndcourts.gov/public-access"
+    },
+    {
+      "text": "Jury Service",
+      "url": "https://www.ndcourts.gov/district-court/Jurors-Handbook"
+    },
+    {
+      "text": "Court Locations",
+      "url": "https://www.ndcourts.gov/court-locations"
+    },
+    {
+      "text": "District Court Information",
+      "url": "https://www.ndcourts.gov/district-court"
+    },
+    {
+      "text": "District Court Judges",
+      "url": "https://www.ndcourts.gov/district-court/district-court-judges"
+    },
+    {
+      "text": "District Administration",
+      "url": "https://www.ndcourts.gov/about-us/court-administrators"
+    },
+    {
+      "text": "Court Resources",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "E-Filing - resources",
+      "url": "https://www.ndcourts.gov/district-courts/e-filing-resources"
+    },
+    {
+      "text": "E-File Portal",
+      "url": "https://northdakota.tylertech.cloud/OfsWeb/Home"
+    },
+    {
+      "text": "Find an Attorney",
+      "url": "https://www.ndcourts.gov/lawyers"
+    },
+    {
+      "text": "Court Fees",
+      "url": "https://www.ndcourts.gov/district-court/court-fees"
+    },
+    {
+      "text": "Court Interpreters",
+      "url": "https://www.ndcourts.gov/district-court/court-interpreters"
+    },
+    {
+      "text": "Access to Court Records",
+      "url": "https://www.ndcourts.gov/state-court-administration/information-technology/data-access"
+    },
+    {
+      "text": "Court Resources (cont.)",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Alternative Dispute Resolution Roster",
+      "url": "https://www.ndcourts.gov/legal-self-help/alternative-dispute-resolution/roster"
+    },
+    {
+      "text": "Parenting Coordinator Roster",
+      "url": "https://www.ndcourts.gov/district-court/parenting-coordinator-roster"
+    },
+    {
+      "text": "Parenting Inv/GAL Roster",
+      "url": "https://www.ndcourts.gov/district-court/parenting-investigator-legal-guardian-ad-litem-roster"
+    },
+    {
+      "text": "Interest Rate on Judgments",
+      "url": "https://www.ndcourts.gov/state-court-administration/interest-rate-on-judgments"
+    },
+    {
+      "text": "Summons by Publication",
+      "url": "https://www.ndcourts.gov/publications"
+    },
+    {
+      "text": "Other Courts",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Municipal Courts",
+      "url": "https://www.ndcourts.gov/other-courts/municipal-courts"
+    },
+    {
+      "text": "Bismarck",
+      "url": "https://www.ndcourts.gov/court-locations/bismarck"
+    },
+    {
+      "text": "Fargo",
+      "url": "https://www.ndcourts.gov/court-locations/fargo"
+    },
+    {
+      "text": "Grand Forks",
+      "url": "https://www.ndcourts.gov/court-locations/grand-forks"
+    },
+    {
+      "text": "Minot",
+      "url": "https://www.ndcourts.gov/court-locations/minot"
+    },
+    {
+      "text": "Williston",
+      "url": "https://www.ndcourts.gov/court-locations/williston"
+    },
+    {
+      "text": "more...",
+      "url": "https://www.ndcourts.gov/court-locations#municipal-courts"
+    },
+    {
+      "text": "Juvenile",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Juvenile Court",
+      "url": "https://www.ndcourts.gov/other-courts/juvenile-court"
+    },
+    {
+      "text": "Contact Juvenile Court",
+      "url": "https://www.ndcourts.gov/other-courts/juvenile-court/contact-us"
+    },
+    {
+      "text": "Juvenile Programs and Services",
+      "url": "https://www.ndcourts.gov/other-courts/juvenile-court#services"
+    },
+    {
+      "text": "Juvenile Treatment Court",
+      "url": "https://www.ndcourts.gov/other-courts/juvenile-treatment-court"
+    },
+    {
+      "text": "Contact Juvenile Treatment Court",
+      "url": "https://www.ndcourts.gov/other-courts/juvenile-drug-court/juvenile-treatment-court-contact-information"
+    },
+    {
+      "text": "Other Courts",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Domestic Violence Court",
+      "url": "https://www.ndcourts.gov/other-courts/domestic-violence-court"
+    },
+    {
+      "text": "Treatment Courts",
+      "url": "https://www.ndcourts.gov/other-courts/adult-hybrid-dwi-drug-court"
+    },
+    {
+      "text": "Office of Administrative Hearings",
+      "url": "https://www.ndcourts.gov/other-courts/office-of-administrative-hearings"
+    },
+    {
+      "text": "Federal Courts",
+      "url": "https://www.ndcourts.gov/other-courts/federal"
+    },
+    {
+      "text": "Tribal Courts",
+      "url": "https://www.ndcourts.gov/other-courts/tribal"
+    },
+    {
+      "text": "Veterans Treatment Court",
+      "url": "https://www.ndcourts.gov/other-courts/veterans-treatment-court"
+    },
+    {
+      "text": "Mental Health Court",
+      "url": "https://www.ndcourts.gov/other-courts/mental-health-court"
+    },
+    {
+      "text": "Legal Resources",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Court Rules",
+      "url": "https://www.ndcourts.gov/legal-resources/rules"
+    },
+    {
+      "text": "Administrative Rules",
+      "url": "https://www.ndcourts.gov/legal-resources/rules/ndsupctadminr"
+    },
+    {
+      "text": "Appellate Procedure",
+      "url": "https://www.ndcourts.gov/legal-resources/rules/ndrappp"
+    },
+    {
+      "text": "Civil Procedure",
+      "url": "https://www.ndcourts.gov/legal-resources/rules/ndrcivp"
+    },
+    {
+      "text": "Criminal Procedure",
+      "url": "https://www.ndcourts.gov/legal-resources/rules/ndrcrimp"
+    },
+    {
+      "text": "Rules of Court",
+      "url": "https://www.ndcourts.gov/legal-resources/rules/ndrct"
+    },
+    {
+      "text": "more...",
+      "url": "https://www.ndcourts.gov/legal-resources/rules"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Notices",
+      "url": "https://www.ndcourts.gov/news/north-dakota/north-dakota-supreme-court/notices"
+    },
+    {
+      "text": "Legal Research",
+      "url": "https://www.ndcourts.gov/legal-resources/legal-research"
+    },
+    {
+      "text": "Law Library",
+      "url": "https://www.ndcourts.gov/legal-resources/law-library"
+    },
+    {
+      "text": "North Dakota Administrative Code",
+      "url": "https://www.ndlegis.gov/agency-rules/north-dakota-administrative-code/index.html"
+    },
+    {
+      "text": "North Dakota Century Code",
+      "url": "https://www.ndlegis.gov/general-information/north-dakota-century-code/index.html"
+    },
+    {
+      "text": "North Dakota Constitution",
+      "url": "https://www.ndlegis.gov/constitution"
+    },
+    {
+      "text": "Federal Laws and Regulations",
+      "url": "https://www.usa.gov/laws-and-regs"
+    },
+    {
+      "text": "U.S. Supreme Court Opinions",
+      "url": "https://www.supremecourt.gov/opinions/opinions.aspx"
+    },
+    {
+      "text": "Legal Self Help Center",
+      "url": "https://www.ndcourts.gov/legal-self-help"
+    },
+    {
+      "text": "Answering a Summons and Complaint",
+      "url": "https://www.ndcourts.gov/legal-self-help/answering-a-civil-action"
+    },
+    {
+      "text": "Divorce",
+      "url": "https://www.ndcourts.gov/legal-self-help/divorce"
+    },
+    {
+      "text": "Establishing Custody & Visitation",
+      "url": "https://www.ndcourts.gov/legal-self-help/establishing-custody-and-visitation"
+    },
+    {
+      "text": "Probate an Estate",
+      "url": "https://www.ndcourts.gov/legal-self-help/informal-probate"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://www.ndcourts.gov/legal-self-help/small-claims"
+    },
+    {
+      "text": "more...",
+      "url": "https://www.ndcourts.gov/legal-self-help"
+    },
+    {
+      "text": "Court Administration",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Departments",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "State Court Administration",
+      "url": "https://www.ndcourts.gov/state-court-administration"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.ndcourts.gov/state-court-administration/education"
+    },
+    {
+      "text": "Family Law Mediation Program",
+      "url": "https://www.ndcourts.gov/state-court-administration/family-law-mediation-program"
+    },
+    {
+      "text": "Finance",
+      "url": "https://www.ndcourts.gov/state-court-administration/finance"
+    },
+    {
+      "text": "Human Resources",
+      "url": "https://www.ndcourts.gov/state-court-administration/human-resources"
+    },
+    {
+      "text": "Information Technology",
+      "url": "https://www.ndcourts.gov/state-court-administration/information-technology"
+    },
+    {
+      "text": "Juvenile Court",
+      "url": "https://www.ndcourts.gov/other-courts/juvenile-court"
+    },
+    {
+      "text": "Research and Planning",
+      "url": "https://www.ndcourts.gov/state-court-administration/research-and-planning"
+    },
+    {
+      "text": "Publications",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Departures from Mandatory Minimums",
+      "url": "https://www.ndcourts.gov/news/north-dakota/departures-from-mandatory-minimums"
+    },
+    {
+      "text": "Annual Report",
+      "url": "https://www.ndcourts.gov/state-court-administration/annual-report"
+    },
+    {
+      "text": "Annual Report - Juvenile",
+      "url": "https://www.ndcourts.gov/other-courts/juvenile-court/annual-reports"
+    },
+    {
+      "text": "State of the Judiciary",
+      "url": "https://www.ndcourts.gov/news/north-dakota/supreme-court/state-of-the-judiciary"
+    },
+    {
+      "text": "Online Resources",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Governor",
+      "url": "https://www.governor.nd.gov/"
+    },
+    {
+      "text": "Legislature",
+      "url": "http://www.legis.nd.gov/"
+    },
+    {
+      "text": "State Bar Assoc. of N.D.",
+      "url": "http://www.sband.org/"
+    },
+    {
+      "text": "Schedule of Meetings and Events",
+      "url": "https://www.ndcourts.gov/meetings-and-events"
+    },
+    {
+      "text": "Administrative Policies",
+      "url": "https://www.ndcourts.gov/state-court-administration/administrative-policies"
+    },
+    {
+      "text": "Personnel Policy Manual",
+      "url": "https://www.ndcourts.gov/Media/Default/court-administration/Administrative-Policies/Personnel-Policy-Manual.pdf"
+    },
+    {
+      "text": "Chart - Salary Grade and Class Specification",
+      "url": "https://www.ndcourts.gov/Media/Default/court-administration/Administrative-Policies/Salary-Grade-and-Class-Specification.pdf"
+    },
+    {
+      "text": "Pay Ranges (07-26)",
+      "url": "https://www.ndcourts.gov/Media/Default/court-administration/Administrative-Policies/Pay-Ranges.pdf"
+    },
+    {
+      "text": "Supplement I",
+      "url": "https://www.ndcourts.gov/Media/Default/court-administration/Administrative-Policies/Supplement-I-Hiring-Guidelines-for-Technology-Positions.pdf"
+    },
+    {
+      "text": "more...",
+      "url": "https://www.ndcourts.gov/state-court-administration/administrative-policies"
+    },
+    {
+      "text": "Lawyers",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Lawyers",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Attorney Search",
+      "url": "https://www.ndcourts.gov/lawyers"
+    },
+    {
+      "text": "Board of Law Examiners",
+      "url": "https://www.ndcourts.gov/supreme-court/committees/board-of-law-examiners"
+    },
+    {
+      "text": "E-Filing Portal",
+      "url": "https://northdakota.tylertech.cloud/OfsWeb/Home"
+    },
+    {
+      "text": "Attorney Subscription Management",
+      "url": "https://subscribe.ndcourts.gov/"
+    },
+    {
+      "text": "Rural Attorney Recruitment Program",
+      "url": "https://www.ndcourts.gov/rural-attorney-recruitment-program"
+    },
+    {
+      "text": "Judicial Conduct Commission",
+      "url": "https://www.ndcourts.gov/supreme-court/committees/judicial-conduct-commission"
+    },
+    {
+      "text": "Disciplinary Board",
+      "url": "https://www.ndcourts.gov/supreme-court/committees/disciplinary-board"
+    },
+    {
+      "text": "Use of A.I.",
+      "url": "https://www.ndcourts.gov/Media/Default/public-notice/Public-Notice-Regarding-Use-of-AI.pdf"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.ndcourts.gov/"
+    },
+    {
+      "text": "Legal Resources",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit#"
+    },
+    {
+      "text": "Legal Self Help Center",
+      "url": "https://www.ndcourts.gov/legal-self-help"
+    },
+    {
+      "text": "Collection of Personal Property Affidavit",
+      "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit"
+    },
+    {
+      "text": "intestate succession",
+      "url": "https://ndlegis.gov/cencode/t30-1c04.html"
+    },
+    {
+      "text": "Affidavit for Collection of Personal Property of the Decedent",
+      "url": "https://www.ndcourts.gov/Media/Default/legal-resources/legal-self-help/personal-property-affidavit/Form-1-Affidavit-Collection.pdf"
+    },
+    {
+      "text": "Guidebook and Forms for Informal Administration of an Estate",
+      "url": "https://www.ndcourts.gov/Media/Default/Legal%20Resources/Legal%20Self%20Help/Probate/Guidebook-for-Informal-Admin-of-Estate.pdf"
+    },
+    {
+      "text": "North Dakota Century Code Title 30.1: Uniform Probate Code",
+      "url": "https://www.legis.nd.gov/cencode/t30-1.html"
+    },
+    {
+      "text": "North Dakota Century Code Chapter 30.1-04: Intestate Succession",
+      "url": "https://www.legis.nd.gov/cencode/t30-1c04.html"
+    },
+    {
+      "text": "North Dakota Century Code Chapter 30.1-23: Collection by Affidavit - Administration for Small Estates",
+      "url": "https://www.legis.nd.gov/cencode/t30-1c23.html"
+    },
+    {
+      "text": "Informal Probate",
+      "url": "https://www.ndcourts.gov/legal-self-help/informal-probate"
+    },
+    {
+      "text": "Formal Probate",
+      "url": "https://www.ndcourts.gov/legal-self-help/formal-probate"
+    },
+    {
+      "text": "Flickertale",
+      "url": "https://www.ndcourts.gov/Media/Default/legal-resources/legal-self-help/personal-property-affidavit/Flickertale.pdf"
+    },
+    {
+      "text": "Filing Fee Waiver Request",
+      "url": "https://www.ndcourts.gov/legal-self-help/fee-waiver"
+    },
+    {
+      "text": "consult a lawyer",
+      "url": "https://www.ndcourts.gov/legal-self-help/finding-a-lawyer"
+    },
+    {
+      "text": "clerk of court",
+      "url": "https://www.ndcourts.gov/court-locations"
+    },
+    {
+      "text": "North Dakota Supreme Court",
+      "url": "https://www.ndcourts.gov/supreme-court"
+    },
+    {
+      "text": "District Courts",
+      "url": "https://www.ndcourts.gov/district-court"
+    },
+    {
+      "text": "Municipal Courts",
+      "url": "https://www.ndcourts.gov/other-courts/municipal-courts"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.ndcourts.gov/about-us"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.ndcourts.gov/contact-us"
+    },
+    {
+      "text": "Jobs With Us",
+      "url": "https://www.ndcourts.gov/state-court-administration/human-resources/career-opportunities"
+    },
+    {
+      "text": "Privacy Statement",
+      "url": "https://www.ndcourts.gov/privacy-statement"
+    },
+    {
+      "text": "Security Policy",
+      "url": "https://www.ndcourts.gov/security-policy"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "https://www.ndcourts.gov/disclaimer"
+    }
+  ]
+}

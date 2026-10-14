@@ -1,0 +1,1186 @@
+[
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/mutual-nda/",
+      "final_url": "https://commonpaper.com/standards/mutual-nda/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:14.202Z",
+      "sha256": "548e99ca14c1cb3b082449e5d3a7cf01dbbd6137311b4ba6cda721eaa7ea4d8c",
+      "title": "Free Mutual NDA Template used by 2,000+ companies",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/1-common-paper-standards-mutual-nda.html"
+    },
+    "version_evidence": [
+      " online. Does that mean it will change? Version 1 of this agreement will remain unchanged and hosted at commonpaper.com/standards/mutual-nda/1.0. Over time, we will create new ver",
+      "ements are free to use and modify under CC BY 4.0. Configuration Guide Start over × (function($){ $('.start-over').click(function () { var oldSrc = $(this).attr('data-source')",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions.",
+      " Common Paper Mutual NDA Standard Terms Version 1.0 posted at commonpaper.com/standards/mutual-nda/1.0 (“Standard Terms”). A copy of the Standard Terms is attached for convenience",
+      " Paper Mutual Non-Disclosure Agreement (Version 1.0) free to use under CC BY 4.0. The Mutual NDA, annotated This Cover Page (“Cover Page”) The Cover Page contains the details of e",
+      " Common Paper Mutual NDA Standard Terms Version 1.0 posted at commonpaper.com/standards/mutual-nda/1.0 (“Standard Terms”) The NDA incorporates the Standard Terms by reference, wit",
+      " of the other party.” Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/mutual-nda/1.0/mutual-nda-cover-page-and-standard-terms-pdf",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2021/12/Mutual-NDA-public-2page.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:16.730Z",
+        "sha256": "8d31fe0e0eb96649b180ec4f6eec84617ff2d499576f8dccde981e58c5a829d6",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "PDF",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/1-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/cloud-service-agreement/",
+      "final_url": "https://commonpaper.com/standards/cloud-service-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:17.046Z",
+      "sha256": "e3b1717e3f99fdb899279cec52ab424d6c65d9eb9fdb0331a371c18789b6889c",
+      "title": "Free Cloud Service Agreement Template for B2B SaaS",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/2-common-paper-standards-cloud-service-agreement.html"
+    },
+    "version_evidence": [
+      "l list of all CSA versions here. How is Version 2 different from previous versions? CSA v2 adds expanded support for product trials/pilots, more flexibility for defining payment t",
+      "ements are free to use and modify under CC BY 4.0. Configuration Guide Start over × (function($){ $('.start-over').click(function () { var oldSrc = $(this).attr('data-source')",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions.",
+      "mmon Paper Cloud Service Standard Terms Version 2.1 posted at commonpaper.com/standards/cloud-service-agreement/2.1, which are incorporated by reference. If there is any inconsist",
+      " Cloud Service Agreement Standard Terms Version 2.1, which are posted at https://commonpaper.com/standards/cloud-service-agreement/2.1/. “Usage Data” means data and information ab",
+      ". Common Paper Cloud Service Agreement (Version 2.1) free to use under CC BY 4.0. The Cloud Service Agreement, annotated Order Form The Order Form contains the business details th",
+      "the Language Library. Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement",
+      "mmon Paper Cloud Service Standard Terms Version 2.1 posted at commonpaper.com/standards/cloud-service-agreement/2.1 CSA v2 incorporates the Standard Terms by reference, with a lin",
+      "pply to the contract. Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/cloud-service-agreement/2.1/sla-cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2024/11/Common-Paper-Cloud-Service-Agreement-SLA-v2.1-cover-page-and-standard-terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:32:19.134Z",
+        "sha256": "5fe4aba409b1d00eeef645169cbe10464f89b4e3b720b8906b4632e1f5ab267c",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/2-word-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/design-partner-agreement/",
+      "final_url": "https://commonpaper.com/standards/design-partner-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:19.364Z",
+      "sha256": "4879a43188b6bc5c8dc5e4f1f00475a9402db9a234cb88e7ca95d9b53411dca4",
+      "title": "Free Design Partner Agreement",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/3-common-paper-standards-design-partner-agreement.html"
+    },
+    "version_evidence": [
+      " online. Does that mean it will change? Version 1.3 of this agreement will remain unchanged and hosted at commonpaper.com/standards/design-partner-agreement/1.3. Over time, we wil",
+      "ements are free to use and modify under CC BY 4.0. Configuration Guide Start over × (function($){ $('.start-over').click(function () { var oldSrc = $(this).attr('data-source')",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions.",
+      "mon Paper Design Partner Standard Terms Version 1.3 posted at commonpaper.com/standards/design-partner-agreement/1.3 (“Standard Terms ”), which is incorporated by reference. If th",
+      " Common Paper Design Partner Agreement (Version 1.3) free to use under CC BY 4.0. The Design Partner Agreement, annotated Cover Page The Cover Page contains the details of each sp",
+      "mon Paper Design Partner Standard Terms Version 1.3 posted at commonpaper.com/standards/design-partner-agreement/1.3 (“Standard Terms”) The Design Partner Agreement incorporates t",
+      "assignment is void.'” Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/design-partner-agreement/1.3/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2025/05/Common-Paper-Design-Partner-Agreement-v1.3-cover-page-and-standard-terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:32:21.198Z",
+        "sha256": "c711cef731218c16876898d1cd281351fdbdd256b274172ba6d01d6a355707dd",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/3-word-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/data-processing-agreement/",
+      "final_url": "https://commonpaper.com/standards/data-processing-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:21.844Z",
+      "sha256": "f31679c252428bf08ea61097140dcdb9100b5d97e68982328f09ee0d8f28c0e8",
+      "title": "Free Standard Data Processing Agreement",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/4-common-paper-standards-data-processing-agreement.html"
+    },
+    "version_evidence": [
+      " online. Does that mean it will change? Version 1.1 of this agreement will remain unchanged and hosted at commonpaper.com/standards/data-processing-agreement/1.1. Over time, we wi",
+      "ements are free to use and modify under CC BY 4.0. What is GDPR? GDPR or General Data Protection Regulation is a regulation that protects an individual’s personal data in Euro",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions.",
+      "(2) the Common Paper DPA Standard Terms Version 1.1 posted at commonpaper.com/standards/data-processing-agreement/1.1/ (“DPA Standard Terms”), which is incorporated by reference. ",
+      "Common Paper Data Processing Agreement (Version 1.1) free to use under CC BY 4.0. The DPA, annotated USING THIS DPA The Common Paper DPA supports two kinds of data processing rela",
+      "es. The Common Paper DPA Standard Terms Version 1 The DPA incorporates the DPA Standard Terms by reference, with a link to commonpaper.com/standards/data-processing-agreement/1.1.",
+      "er or its Affiliates. Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/data-processing-agreement/1.1/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2026/08/Common-Paper-DPA-v1.1-cover-page-and-standard-terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:32:23.612Z",
+        "sha256": "cb35f3cc70cb6d24955f08b7ae09b899d6cf054ef3b56f1f9e2cf0cae1e3dbf1",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/4-word-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/business-associate-agreement/",
+      "final_url": "https://commonpaper.com/standards/business-associate-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:23.846Z",
+      "sha256": "6f4da04f8ce7ae5edd312a868aaa3fd34be9be95b39926eec3f3d14643248a2f",
+      "title": "Business Associate Agreement - Common Paper",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/5-common-paper-standards-business-associate-agreement.html"
+    },
+    "version_evidence": [
+      " online. Does that mean it will change? Version 1 of this agreement will remain unchanged and hosted at commonpaper.com/standards/business-associate-agreement/1.0. Over time, we w",
+      "ements are free to use and modify under CC BY 4.0. Configuration Guide Start over × (function($){ $('.start-over').click(function () { var oldSrc = $(this).attr('data-source')",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions."
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/business-associate-agreement/1.0/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2023/08/Common-Paper-Business-Associate-Agreement-v1-cover-page-and-standard-terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:32:25.746Z",
+        "sha256": "f582f7eac4539471db8ee439231cfb95e71776b8a7fb370a51f52022679b14a5",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/5-word-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/professional-services-agreement/",
+      "final_url": "https://commonpaper.com/standards/professional-services-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:26.021Z",
+      "sha256": "6a167b1fde92cf877c540d9315df4e3d29161a78660ff05a53ce894a0b49f50e",
+      "title": "Professional Services Agreement - Common Paper",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/6-common-paper-standards-professional-services-agreement.html"
+    },
+    "version_evidence": [
+      " online. Does that mean it will change? Version 1 of this agreement will remain unchanged and hosted at commonpaper.com/standards/professional-services-agreement/1.0. Over time, w",
+      "ements are free to use and modify under CC BY 4.0. Configuration Guide Start over × (function($){ $('.start-over').click(function () { var oldSrc = $(this).attr('data-source')",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions.",
+      "er Professional Services Standard Terms Version 1.1 posted at commonpaper.com/standards/professional-services-agreement/1.1 (“ Standard Terms”), which is incorporated by reference",
+      " Paper Professional Services Agreement (Version 1.1) free to use under CC BY 4.0. The PSA, annotated SOW The SOW, or Statement of Work, contains the business details that you can ",
+      "er Professional Services Standard Terms Version 1.1 The Professional Services Agreement incorporates the Standard Terms by reference, with a link to commonpaper.com/standards/prof",
+      "on on the Cover Page. Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/professional-services-agreement/1.1/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2023/12/Common-Paper-Professional-Services-Agreement-v1.1-cover-page-and-standard-terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:32:27.096Z",
+        "sha256": "d8cc13f589096d1b2afc1917756adea450cd7d966779633613fbecc4dc45d3ba",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/6-word-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/ai-addendum/",
+      "final_url": "https://commonpaper.com/standards/ai-addendum/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:27.305Z",
+      "sha256": "7d4510425feec8cef69df056debb106c624f062878e375b2cb93e08d8a8f823a",
+      "title": "AI Addendum - Common Paper",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/7-common-paper-standards-ai-addendum.html"
+    },
+    "version_evidence": [
+      "ements are free to use and modify under CC BY 4.0. Downloads This agreement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Stan"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/ai-addendum/1.0/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2025/08/Common-Paper-AI-Addendum-v1.0-cover-page-and-standard-terms-amendment.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:32:28.259Z",
+        "sha256": "1745ce987355a3e21a9ffeb0887e579f39dfd9b058880c6e637aff4fb3195e0e",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/7-word-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/partnership-agreement/",
+      "final_url": "https://commonpaper.com/standards/partnership-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:28.577Z",
+      "sha256": "9fe045f4bdca609e5d9790cf33e58d3a4c15e32c5e37f4879f6114cb1574399e",
+      "title": "Partnership Agreement - Common Paper",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/8-common-paper-standards-partnership-agreement.html"
+    },
+    "version_evidence": [
+      " online. Does that mean it will change? Version 1 of this agreement will remain unchanged and hosted at commonpaper.com/standards/partnership-agreement/1.0. Over time, we will cre",
+      "ements are free to use and modify under CC BY 4.0. Configuration Guide Start over × (function($){ $('.start-over').click(function () { var oldSrc = $(this).attr('data-source')",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions.",
+      "Common Paper Partnership Standard Terms Version 1.1 posted at commonpaper.com/standards/partnership-agreement/1.1, which is incorporated by reference. If there is any inconsistenc",
+      "Common Paper Partnership Standard Terms Version 1.1, which are posted at commonpaper.com/standards/partnership-agreement/1.1. “Variable” means a word or phrase in the Standard Ter",
+      ". Common Paper Cloud Service Agreement (Version 1.1) free to use under CC BY 4.0. The Partnership Agreement, annotated This Cover Page, which includes Business Terms and legal Key",
+      "Common Paper Partnership Standard Terms Version 1.1 posted at… The Partnership Agreement incorporates the Standard Terms by reference, with a link to commonpaper.com/standards/par",
+      "pply to the contract. Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/partnership-agreement/1.1/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2023/12/Common-Paper-Partnership-Agreement-v1.1-cover-page-and-standard-terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:32:30.256Z",
+        "sha256": "ae3023105755ecd9b2312bf53c216319fd0bc79830c4627611a7ac5b0a206895",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/8-word-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/software-license-agreement/",
+      "final_url": "https://commonpaper.com/standards/software-license-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:30.564Z",
+      "sha256": "3ad8fb5f5e0a5b56e0aa5c1ad9d4db1b6672a6bd4c1b3aaf472f146f0b705266",
+      "title": "Software License Agreement - Common Paper",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/9-common-paper-standards-software-license-agreement.html"
+    },
+    "version_evidence": [
+      "ements are free to use and modify under CC BY 4.0. Configuration Guide Start over × (function($){ $('.start-over').click(function () { var oldSrc = $(this).attr('data-source')",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions.",
+      "ommon Paper Software License Agreement (Version 1.1) free to use under CC BY 4.0. Key Terms Software License Agreement USING THE FRAMEWORK TERMS The Framework Terms have 2 parts: ",
+      "n Paper Software License Standard Terms Version 1.1 posted at https://commonpaper.com/standards/software-license-agreement/1.1 which are incorporated by reference. If there is any",
+      "n Paper Software License Standard Terms Version 1.1, which are posted at https://commonpaper.com/standards/software-license-agreement/1.1. “Updates” means updates and maintenance ",
+      "ommon Paper Software License Agreement (Version 1.1) free to use under CC BY 4.0. Order Form The Order Form contains the business details that you can customize from deal to deal.",
+      "e to suit your needs. Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement",
+      "n Paper Software License Standard Terms Version 1.1 This incorporates the Standard Terms by reference, with a link to commonpaper.com/standards/software-license-agreement/1.1. Eac",
+      "pply to the contract. Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/software-license-agreement/1.1/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2025/02/Common-Paper-Software-License-Agreement-v1.1-Standard-Terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:32:32.587Z",
+        "sha256": "0a073e0e2087811749bb06215bc9490b9a6a067c5449ed3516bb9d94c0497834",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/9-word-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/pilot-agreement/",
+      "final_url": "https://commonpaper.com/standards/pilot-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:32.907Z",
+      "sha256": "ea5343169d67060832bb04883c81fe16682cc44f9806185b321efb91ecdcf59b",
+      "title": "Pilot Agreement - Common Paper",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/10-common-paper-standards-pilot-agreement.html"
+    },
+    "version_evidence": [
+      "ements are free to use and modify under CC BY 4.0. Available formats This agreement is free to use or modify under CC BY 4.0. The agreement is available in the following forma"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/pilot-agreement/1.1/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2025/07/Common-Paper-Pilot-Agreement-v1.1-Order-Form-and-Standard-Terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:32:33.664Z",
+        "sha256": "2b85bb4cd1a105dad019b1f710fd495042733464b31a22917009c9d4b8ca42f4",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/10-word-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Texas Real Estate Commission",
+    "practice_area": "Real estate",
+    "jurisdiction": "Texas",
+    "source": {
+      "url": "https://www.trec.texas.gov/forms/one-four-family-residential-contract-resale",
+      "final_url": "https://www.trec.texas.gov/forms/one-four-family-residential-contract-resale",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:32:34.830Z",
+      "sha256": "195ac571aaa531bd9da594cdfa3952792814d71741a290a32c78c2409dba471a",
+      "title": "One to Four Family Residential Contract (Resale) | TREC",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/11-texas-real-estate-commission-forms-one-four-family-residential-contract-resale.html"
+    },
+    "version_evidence": [
+      "r Family Residential Contract (Resale) (Form ID: 20-19) Effective Date: 07/01/2026 Description: This is the most frequently used contract form. It is used for the resale of resid"
+    ],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.trec.texas.gov/sites/default/files/pdf-forms/20-19_4.pdf",
+        "final_url": "https://www.trec.texas.gov/sites/default/files/pdf-forms/20-19_4.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:37.104Z",
+        "sha256": "3f458518e9e01fc9c84cab420dcd0ce9793113c4b356ed5caf7a2fb1bdef2ca5",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download Form",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/11-download-form.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "California Courts",
+    "practice_area": "Court / family / probate",
+    "jurisdiction": "California",
+    "source": {
+      "url": "https://selfhelp.courts.ca.gov/jcc-form/SC-100",
+      "final_url": "https://selfhelp.courts.ca.gov/jcc-form/SC-100",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:38.226Z",
+      "sha256": "ce25cceb6e60af065bf47664fdea6f69c92f5818b6828bb6e86eb197b5e536e1",
+      "title": "Plaintiff's Claim and ORDER to Go to Small Claims Court | California Courts | Self Help Guide",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/12-california-courts-jcc-form-sc-100.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.courts.ca.gov/documents/sc100.pdf",
+        "final_url": "https://courts.ca.gov/sites/default/files/courts/default/2024-11/sc100.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:40.638Z",
+        "sha256": "ef3421b14ebf64dbf884566ff659b39776035ec5b6e6500be0af91e3cc15533c",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Get form SC-100",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/12-get-form-sc-100.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "California Courts",
+    "practice_area": "Court / family / probate",
+    "jurisdiction": "California",
+    "source": {
+      "url": "https://selfhelp.courts.ca.gov/jcc-form/FL-100",
+      "final_url": "https://selfhelp.courts.ca.gov/jcc-form/FL-100",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:40.981Z",
+      "sha256": "f5b9e3a5b33e73e4ea9a948f238f7ec92d4491ed18e029925af750f02695e187",
+      "title": "Petition—Marriage/Domestic Partnership (Family Law) | California Courts | Self Help Guide",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/13-california-courts-jcc-form-fl-100.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.courts.ca.gov/documents/fl100.pdf",
+        "final_url": "https://courts.ca.gov/sites/default/files/courts/default/2024-11/fl100.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:42.958Z",
+        "sha256": "fa30a2916677af5aecbd555aeceb06ef410eb1221da1b5f928348a5e7b17b6b6",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Get form FL-100",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/13-get-form-fl-100.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "California Courts",
+    "practice_area": "Court / family / probate",
+    "jurisdiction": "California",
+    "source": {
+      "url": "https://selfhelp.courts.ca.gov/jcc-form/DE-111",
+      "final_url": "https://selfhelp.courts.ca.gov/jcc-form/DE-111",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:43.328Z",
+      "sha256": "fc2a723d6277510ed01cd9097a69437d1a1538032988c1af58766534cdeeb435",
+      "title": "Petition for Probate | California Courts | Self Help Guide",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/14-california-courts-jcc-form-de-111.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.courts.ca.gov/documents/de111.pdf",
+        "final_url": "https://courts.ca.gov/sites/default/files/courts/default/2024-11/de111.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:45.307Z",
+        "sha256": "2a5759e5c7c0818003eaefc94dfade97625e7e3197675629fc00ae245fd59e14",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Get form DE-111",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/14-get-form-de-111.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "California Courts",
+    "practice_area": "Court / family / probate",
+    "jurisdiction": "California",
+    "source": {
+      "url": "https://selfhelp.courts.ca.gov/jcc-form/DE-160",
+      "final_url": "https://selfhelp.courts.ca.gov/jcc-form/DE-160",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:46.030Z",
+      "sha256": "b0d868ee917cabe98ef829039b4b30c5409f6f83b6618b666d54e4b1b6129353",
+      "title": "Inventory And Appraisal | California Courts | Self Help Guide",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/15-california-courts-jcc-form-de-160.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.courts.ca.gov/documents/de160.pdf",
+        "final_url": "https://courts.ca.gov/sites/default/files/courts/default/2024-11/de160.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:47.731Z",
+        "sha256": "da0b0bb690bbfe15a9bc241c52d6baa878ac37f4797367f978d858df51105d53",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Get form DE-160",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/15-get-form-de-160.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "California Courts",
+    "practice_area": "Court / family / probate",
+    "jurisdiction": "California",
+    "source": {
+      "url": "https://selfhelp.courts.ca.gov/jcc-form/GC-310",
+      "final_url": "https://selfhelp.courts.ca.gov/jcc-form/GC-310",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:48.411Z",
+      "sha256": "720d44aec4ec469533984f9fe3f2259c88a76b8046c22b674623b4b8ba014251",
+      "title": "Petition for Appointment of Probate Conservator | California Courts | Self Help Guide",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/16-california-courts-jcc-form-gc-310.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.courts.ca.gov/documents/gc310.pdf",
+        "final_url": "https://courts.ca.gov/sites/default/files/courts/default/2024-11/gc310.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:49.937Z",
+        "sha256": "61398437b806182087dccf7cfe2d6fa4c1ee309f3499ff78d9a9edd3b772d665",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Get form GC-310",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/16-get-form-gc-310.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "California Courts",
+    "practice_area": "Estate planning",
+    "jurisdiction": "California",
+    "source": {
+      "url": "https://selfhelp.courts.ca.gov/wills-estates-probate/legal-documents",
+      "final_url": "https://selfhelp.courts.ca.gov/wills-estates-probate/legal-documents",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:50.208Z",
+      "sha256": "ae2173911776be50075e8d45db807ad2018515ed98891b9f4b1cc32fce59154e",
+      "title": "Wills, estates, and advance care planning | California Courts | Self Help Guide",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/17-california-courts-wills-estates-probate-legal-documents.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://selfhelp.courts.ca.gov/sites/default/files/2026-02/6240-Statutory-will-form.pdf",
+        "final_url": "https://selfhelp.courts.ca.gov/sites/default/files/2026-02/6240-Statutory-will-form.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:52.101Z",
+        "sha256": "91c235c421e1de9604b35fb6eeaf7a51c4e49615be34436612cfd589076345b2",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "California Statutory Will form",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/17-california-statutory-will-form.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "EPA",
+    "practice_area": "Real estate disclosure",
+    "jurisdiction": "Federal; applicability and exceptions require review",
+    "source": {
+      "url": "https://www.epa.gov/lead/real-estate-disclosures-about-potential-lead-hazards",
+      "final_url": "https://www.epa.gov/lead/real-estate-disclosures-about-potential-lead-hazards",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:52.748Z",
+      "sha256": "7e8eed945ef88484610f69ffc0f20e34f706df255e2d70f06824afe067541e3f",
+      "title": "Real Estate Disclosures about Potential Lead Hazards | US EPA",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/18-epa-lead-real-estate-disclosures-about-potential-lead-hazards.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.epa.gov/sites/default/files/documents/selr_eng.pdf",
+        "final_url": "https://www.epa.gov/sites/default/files/documents/selr_eng.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:53.490Z",
+        "sha256": "f5ca67558ec486f923181001d44d9194dacb4b338e147208fd0a0184cdfe31b7",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "English (PDF)",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/18-english-pdf.pdf"
+      },
+      {
+        "url": "https://www.epa.gov/sites/default/files/documents/lesr_eng.pdf",
+        "final_url": "https://www.epa.gov/sites/default/files/documents/lesr_eng.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:54.432Z",
+        "sha256": "abf50bc2bd2dac206f3354e1d5980eb9b769d06cf466e64fb1f17a053d8a3022",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "English (PDF)",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/18-english-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "HHS",
+    "practice_area": "Health data / business associates",
+    "jurisdiction": "Federal HIPAA; state law review required",
+    "source": {
+      "url": "https://www.hhs.gov/hipaa/for-professionals/covered-entities/sample-business-associate-agreement-provisions/index.html",
+      "final_url": "https://www.hhs.gov/hipaa/for-professionals/covered-entities/sample-business-associate-agreement-provisions/index.html",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:55.329Z",
+      "sha256": "84255c8ae662b7ad6c428c2853117283c51933ceeb6df92ddbf43e5126d1c9ea",
+      "title": "Business Associate Contracts | HHS.gov",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/19-hhs-hipaa-for-professionals-covered-entities-sample-business-associate-agreement-provisions-index-html.html"
+    },
+    "version_evidence": [
+      "imsSign Up for the OCR Privacy Listserv Content last reviewed June 16, 2017 "
+    ],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": []
+  },
+  {
+    "publisher": "FEMA",
+    "practice_area": "Flood insurance",
+    "jurisdiction": "Federal NFIP program only",
+    "source": {
+      "url": "https://www.fema.gov/flood-insurance/find-form/underwriting",
+      "final_url": "https://www.fema.gov/flood-insurance/find-form/underwriting",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:32:56.121Z",
+      "sha256": "996290d9566651c3a15ac041f8819c836069205df281c6d682f05ee771a57735",
+      "title": "National Flood Insurance Program Underwriting Forms | FEMA.gov",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/20-fema-flood-insurance-find-form-underwriting.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.fema.gov/sites/default/files/documents/fema_ff-206-fy-21-118_cancellation-nullification_may-2021_exp-28-feb-2027.pdf",
+        "final_url": "https://www.fema.gov/sites/default/files/documents/fema_ff-206-fy-21-118_cancellation-nullification_may-2021_exp-28-feb-2027.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:56.693Z",
+        "sha256": "e83af0063e0df76e40ef367d12eed1cfa7d7b6c3d4f2dd92155f67930a5b49ae",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download File",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/20-download-file.pdf"
+      },
+      {
+        "url": "https://www.fema.gov/sites/default/files/documents/fema_ff-206-fy-21-119_general-change-endorsement_may-2021_exp-28-feb-2027.pdf",
+        "final_url": "https://www.fema.gov/sites/default/files/documents/fema_ff-206-fy-21-119_general-change-endorsement_may-2021_exp-28-feb-2027.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:57.097Z",
+        "sha256": "2cba82a82269f8d1581324b79d47ae1da76044baae680446c4f7bbfbcffc2081",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download File",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/20-download-file.pdf"
+      },
+      {
+        "url": "https://www.fema.gov/sites/default/files/documents/fema_ff-206-fy-21-117_flood-insurance-application_may-2021_exp-28-feb-2027.pdf",
+        "final_url": "https://www.fema.gov/sites/default/files/documents/fema_ff-206-fy-21-117_flood-insurance-application_may-2021_exp-28-feb-2027.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:57.467Z",
+        "sha256": "08f2949ba591ba87e5e2ed65143780dbae5b339b7fcb1277bfd9ec16bde1910c",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download File",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/20-download-file.pdf"
+      },
+      {
+        "url": "https://www.fema.gov/sites/default/files/documents/fema_F-123-general-property-SFIP_2021.pdf",
+        "final_url": "https://www.fema.gov/sites/default/files/documents/fema_F-123-general-property-SFIP_2021.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:57.914Z",
+        "sha256": "48139cb9b22b34efcb00b9df3b9a909929a0494e5f58f10ad105308e43d0feab",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download File",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/20-download-file.pdf"
+      },
+      {
+        "url": "https://www.fema.gov/sites/default/files/documents/fema_F-144-RCBAP-SFIP_2021.pdf",
+        "final_url": "https://www.fema.gov/sites/default/files/documents/fema_F-144-RCBAP-SFIP_2021.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:58.402Z",
+        "sha256": "bb99d143a9b137c585ea7f21fc3092fceefc98c94c21d3d8ac0901ea92a28e90",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download File",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/20-download-file.pdf"
+      },
+      {
+        "url": "https://www.fema.gov/sites/default/files/documents/fema_F-122-Dwelling-SFIP_2021.pdf",
+        "final_url": "https://www.fema.gov/sites/default/files/documents/fema_F-122-Dwelling-SFIP_2021.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:32:59.186Z",
+        "sha256": "4e91d6417cba13c18d4402083a0c02811da8264be6fcb8557c6afa4f8b6e2e74",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download File",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/20-download-file.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Department of Labor",
+    "practice_area": "Employment / leave",
+    "jurisdiction": "Federal FMLA; state leave review required",
+    "source": {
+      "url": "https://www.dol.gov/agencies/whd/fmla/forms",
+      "final_url": "https://www.dol.gov/agencies/whd/fmla/forms",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:32:59.961Z",
+      "sha256": "5ac34ea653a1a5416378d526f63ec0e54f2e7e76c5fa0f53d68f69364d122ea8",
+      "title": "FMLA: Forms | U.S. Department of Labor",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/21-department-of-labor-agencies-whd-fmla-forms.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-E.pdf",
+        "final_url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-E.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:33:00.867Z",
+        "sha256": "9f09aac895386bd95767545012575300820d8e99140397139266c786052c5353",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Employee’s serious health condition, form WH-380-E",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/21-employee-s-serious-health-condition-form-wh-380-e.pdf"
+      },
+      {
+        "url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-E-es.pdf",
+        "final_url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-E-es.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:33:01.197Z",
+        "sha256": "7e721aa7561312c1ed53b88d40ef2f00f136d6552937eef2de4e42b574080547",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Condición de salud grave del empleado, formulario WH-380-E",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/21-condici-n-de-salud-grave-del-empleado-formulario-wh-380-e.pdf"
+      },
+      {
+        "url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-F.pdf",
+        "final_url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-F.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:33:01.738Z",
+        "sha256": "a585a9b69c9baac97e37a82243f3efb25bd87b082bc457c28497620a60584fe6",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Family member’s serious health condition, form WH-380-F",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/21-family-member-s-serious-health-condition-form-wh-380-f.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "U.S. Courts",
+    "practice_area": "Federal court procedure",
+    "jurisdiction": "Federal courts; local rules require review",
+    "source": {
+      "url": "https://www.uscourts.gov/forms-rules/forms/civil-cover-sheet",
+      "final_url": "https://www.uscourts.gov/forms-rules/forms/civil-cover-sheet",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:33:02.659Z",
+      "sha256": "c45a2d44d4eb76b6e24c782d895fbf7998992b81c2aa7f9749de87375311f46f",
+      "title": "Civil Cover Sheet",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/22-u-s-courts-forms-rules-forms-civil-cover-sheet.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.uscourts.gov/sites/default/files/guide-vol01-ch04-sec440_procedures_for_rules_cmtes_1.pdf",
+        "final_url": "https://www.uscourts.gov/sites/default/files/guide-vol01-ch04-sec440_procedures_for_rules_cmtes_1.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:33:03.167Z",
+        "sha256": "805ede259583ea446101a486adcfa1aa4992f9724acba628920ac0ebe181baed",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Rules Committee Procedures",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/22-rules-committee-procedures.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "U.S. Courts",
+    "practice_area": "Federal court procedure",
+    "jurisdiction": "Federal courts; local rules require review",
+    "source": {
+      "url": "https://www.uscourts.gov/forms-rules/forms/complaint-a-civil-case-alleging-breach-contract",
+      "final_url": "https://www.uscourts.gov/forms-rules/forms/complaint-a-civil-case-alleging-breach-contract",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:33:03.534Z",
+      "sha256": "e2d547ff828fd090c6ed059549bd3dac3111b38d44d05854ada71009bb68c1c3",
+      "title": "Complaint for a Civil Case Alleging Breach of Contract",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/23-u-s-courts-forms-rules-forms-complaint-a-civil-case-alleging-breach-contract.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.uscourts.gov/sites/default/files/guide-vol01-ch04-sec440_procedures_for_rules_cmtes_1.pdf",
+        "final_url": "https://www.uscourts.gov/sites/default/files/guide-vol01-ch04-sec440_procedures_for_rules_cmtes_1.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:33:03.853Z",
+        "sha256": "805ede259583ea446101a486adcfa1aa4992f9724acba628920ac0ebe181baed",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Rules Committee Procedures",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/23-rules-committee-procedures.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "U.S. Courts",
+    "practice_area": "Federal court procedure",
+    "jurisdiction": "Federal courts; local rules require review",
+    "source": {
+      "url": "https://www.uscourts.gov/forms-rules/forms/complaint-employment-discrimination",
+      "final_url": "https://www.uscourts.gov/forms-rules/forms/complaint-employment-discrimination",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:33:04.150Z",
+      "sha256": "f6ad24e03ebdefa4878cbb4ca5edeb1d2d5c513237e0795ba193c4358bf7adaa",
+      "title": "Complaint for Employment Discrimination",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09/24-u-s-courts-forms-rules-forms-complaint-employment-discrimination.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.uscourts.gov/sites/default/files/guide-vol01-ch04-sec440_procedures_for_rules_cmtes_1.pdf",
+        "final_url": "https://www.uscourts.gov/sites/default/files/guide-vol01-ch04-sec440_procedures_for_rules_cmtes_1.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:33:04.461Z",
+        "sha256": "805ede259583ea446101a486adcfa1aa4992f9724acba628920ac0ebe181baed",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Rules Committee Procedures",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09/24-rules-committee-procedures.pdf"
+      }
+    ]
+  }
+]

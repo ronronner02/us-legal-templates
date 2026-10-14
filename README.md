@@ -1,6 +1,6 @@
 # U.S. Legal Contracts and Forms Library
 
-**Private internal research collection — 410 distinct documents, organized by review status, jurisdiction, and legal category.**
+**Private internal research collection — 493 distinct documents: 410 in the original organized snapshot and 83 added originals in the supplementary collection.**
 
 This repository contains a byte-identical snapshot of the organized collection through Pass 14. It preserves the original PDFs and DOCX files, source URLs, per-document metadata, extracted text, review flags, and SHA-256 checksums.
 
@@ -48,7 +48,7 @@ organized-library/
 | `E_Employment` | Employment and labor |
 | `Z_Category_Unconfirmed` | Classification pending review |
 
-### Document counts
+### Original organized snapshot counts
 
 | Section | Unique files |
 | --- | ---: |
@@ -116,3 +116,9 @@ The parent-project commands in the detailed library guide apply to that research
 For later updates, finish collection, deduplication, classification, and rights review in the research workspace first. Refresh only the organized snapshot, verify every hash, inspect the exact changed paths, and then commit and push the intended update. Preserve prior versions and stricter review states; do not replace originals merely because filenames match.
 
 **Collection snapshot timestamp (UTC): 2026-10-14T07:26:58.249990+00:00.**
+
+## Additional collection - October 14, 2026
+
+[Browse the additional research collection](research-collection/README.md) or [open its searchable catalog](research-collection/organized/2026-10-14-03/index.html). This 240-document catalog references 157 existing originals and adds 83 distinct originals, bringing the repository to **493 unique documents**. Its latest round adds 22 collected files. The existing organized snapshot, review states and integrity manifest remain preserved.
+
+The combined count is deduplicated by SHA-256. The two inventories retain their own scope, provenance and review queues; shared records do not override existing permission, historical or quality holds.

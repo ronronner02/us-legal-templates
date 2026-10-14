@@ -1,0 +1,30 @@
+{
+  "state": "Pennsylvania",
+  "publisher": "Unified Judicial System of Pennsylvania",
+  "url": "https://www.pacourts.us/forms/for-the-public",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": "civilcomplaint-000771",
+      "title": "Civil Complaint (Magisterial District Court)",
+      "family_id": "civil-complaint",
+      "identity": "CIVIL COMPLAINT",
+      "max": 1
+    },
+    {
+      "pattern": "file-71\\.pdf",
+      "title": "Landlord/Tenant Complaint",
+      "family_id": "landlord-tenant-complaint",
+      "identity": "LANDLORD.*TENANT.*COMPLAINT",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.pacourts.us/forms/for-the-public",
+    "retrieved_at": "2026-10-14T09:09:39.828Z",
+    "retrieval_status": "fetch-failed",
+    "error": "fetch failed"
+  },
+  "artifacts": [],
+  "discovered_pdf_links": []
+}

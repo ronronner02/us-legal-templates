@@ -1,0 +1,355 @@
+{
+  "state": "Missouri",
+  "publisher": "The Missouri Bar",
+  "url": "https://missourilawyershelp.org/legal-topics/durable-power-of-attorney-for-health/",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "DPOA-Fillable-2024",
+      "title": "Durable Power of Attorney for Health Care and Health Care Directive",
+      "family_id": "combined-advance-directives",
+      "identity": "DURABLE POWER OF ATTORNEY.*HEALTH CARE"
+    },
+    {
+      "pattern": "HIPPA-Privacy-Authorization-Fillable",
+      "title": "HIPAA Privacy Authorization",
+      "family_id": "hipaa-authorization",
+      "identity": "PRIVACY AUTHORIZATION"
+    }
+  ],
+  "flags": [
+    "bar-publisher-not-government",
+    "reuse-review-required"
+  ],
+  "source": {
+    "url": "https://missourilawyershelp.org/legal-topics/durable-power-of-attorney-for-health/",
+    "final_url": "https://missourilawyershelp.org/legal-topics/durable-power-of-attorney-for-health/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:58:57.699Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "f7e159b0d3e0599850c26c8f02c9838ba1c462bb0cef77124e96890f0064865b",
+    "title": "Durable Power of Attorney for Health Care - Your Missouri Lawyers",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-09/07-missouri-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://missourilawyershelp.org/legal-topics/durable-power-of-attorney-for-health/",
+      "final_url": "https://missourilawyershelp.org/legal-topics/durable-power-of-attorney-for-health/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:58:57.699Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "f7e159b0d3e0599850c26c8f02c9838ba1c462bb0cef77124e96890f0064865b",
+      "title": "Durable Power of Attorney for Health Care - Your Missouri Lawyers",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "DPOA-Fillable-2024",
+      "title": "Durable Power of Attorney for Health Care and Health Care Directive",
+      "family_id": "combined-advance-directives",
+      "identity": "DURABLE POWER OF ATTORNEY.*HEALTH CARE",
+      "url": "https://missourilawyershelp.org/wp-content/uploads/2024/08/DPOA-Fillable-2024.pdf",
+      "link_text": "The Missouri Bar Durable Power of Attorney for Health Care and Health Care Directive",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://missourilawyershelp.org/wp-content/uploads/2024/08/DPOA-Fillable-2024.pdf",
+        "final_url": "https://missourilawyershelp.org/wp-content/uploads/2024/08/DPOA-Fillable-2024.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:58:58.577Z",
+        "etag": "\"66bcc257-90da9\"",
+        "last_modified": "Wed, 14 Aug 2024 14:42:31 GMT",
+        "content_length": "593321",
+        "sha256": "4289448ac9cc309d1701e2fd534f4e71d971bf70d8fca9c8286642e8c179c753",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://missourilawyershelp.org/wp-content/uploads/2024/08/DPOA-Fillable-2024.pdf",
+          "final_url": "https://missourilawyershelp.org/wp-content/uploads/2024/08/DPOA-Fillable-2024.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:58:58.577Z",
+          "etag": "\"66bcc257-90da9\"",
+          "last_modified": "Wed, 14 Aug 2024 14:42:31 GMT",
+          "content_length": "593321",
+          "sha256": "4289448ac9cc309d1701e2fd534f4e71d971bf70d8fca9c8286642e8c179c753",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "4289448ac9cc309d1701e2fd534f4e71d971bf70d8fca9c8286642e8c179c753",
+      "local_archive_path": "archive/2026-10-14-09/07-durable-power-of-attorney-for-health-care-and-health-care-directive-4289448ac9cc.pdf",
+      "bytes": 593321,
+      "text_length": 13543,
+      "pages": 4,
+      "identity_excerpt": "DURABLE POWER OF ATTORNEY FOR HEALTH CARE AND/OR HEALTH CARE DIRECTIVE OF (Print your full legal name here) ____________________________________________________________ (Address, City, State, Zip)_______________________________________________________________ (Pronouns and chosen name)________________________________________________________________________________________________ PART 1 - DURABLE POWER OF ATTORNEY FOR HEALTH CARE (If you DO NOT WISH to name someone to serve as your decision-making Agent, mark an “X” through Part 1 on pages 1 and 2 and continue on to Part 2.) 1. Selection of Agent. I, (your name printed) ________________________________________, currently a resident of __________________ County, Missouri, appoint the following person as my true and lawful attorney-in-fact (“Agent”): Name: Address: Phone(s): ____________________________________________________ ____________________________________________________ ____________________________________________________ 1st_______________________ 2nd______________________ 2. Alternate Agent. If my Agent resigns or is not able or available to make health care decisions for me, or if an Agent named by me is divorced from me or is my spouse and legally separated from me, I appoint the following persons in the order named below to serve as my alternate Agent and to have the same powers as my Agent: First Alternate Agent: Name: _____________________________________ Address: _____________________________________ _____________________________________ Phone(s): 1st __________________________________ 2nd __________________________________ 3. Durability. This is a Durable Power of Attorney, and the authority of my Agent, when effective, shall not terminate or be void or voidable if I am or become disabled or incapacitate",
+      "revision_evidence": [
+        "r I am dead or alive. 4. Effective Date as to Health Care Decision Making. This Durable Power of Attorney is ",
+        "or Health Care Directive Revised 2023 Second Alternate Agent: Name: ____________________________________",
+        "ct of 1996 (“HIPAA”); 6. Effective Date as to Other Authority. In addition to the powers set forth above, I a",
+        "or Health Care Directive Revised 2023 2. If I am persistently unconscious or there is no reasonable expe",
+        "or Health Care Directive Revised 2023 3. However, if my physician believes that any life-prolonging proc",
+        "or Health Care Directive Revised 2023"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "HIPPA-Privacy-Authorization-Fillable",
+      "title": "HIPAA Privacy Authorization",
+      "family_id": "hipaa-authorization",
+      "identity": "PRIVACY AUTHORIZATION",
+      "url": "https://missourilawyershelp.org/wp-content/uploads/2023/08/HIPPA-Privacy-Authorization-Fillable.pdf",
+      "link_text": "HIPAA Privacy Authorization Form",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://missourilawyershelp.org/wp-content/uploads/2023/08/HIPPA-Privacy-Authorization-Fillable.pdf",
+        "final_url": "https://missourilawyershelp.org/wp-content/uploads/2023/08/HIPPA-Privacy-Authorization-Fillable.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:58:58.950Z",
+        "etag": "\"64cd3865-7967\"",
+        "last_modified": "Fri, 04 Aug 2023 17:41:57 GMT",
+        "content_length": "31079",
+        "sha256": "75f113782f0b68547d279231b96589a9f97a0d7ba07b5a2a972813f8f863f739",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://missourilawyershelp.org/wp-content/uploads/2023/08/HIPPA-Privacy-Authorization-Fillable.pdf",
+          "final_url": "https://missourilawyershelp.org/wp-content/uploads/2023/08/HIPPA-Privacy-Authorization-Fillable.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:58:58.950Z",
+          "etag": "\"64cd3865-7967\"",
+          "last_modified": "Fri, 04 Aug 2023 17:41:57 GMT",
+          "content_length": "31079",
+          "sha256": "75f113782f0b68547d279231b96589a9f97a0d7ba07b5a2a972813f8f863f739",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "75f113782f0b68547d279231b96589a9f97a0d7ba07b5a2a972813f8f863f739",
+      "local_archive_path": "archive/2026-10-14-09/07-hipaa-privacy-authorization-75f113782f0b.pdf",
+      "bytes": 31079,
+      "text_length": 2979,
+      "pages": 1,
+      "identity_excerpt": "HIPAA Privacy Authorization Form Authorization for Use or Disclosure of Protected Health Information (Required by the Health Insurance Portability and Accountability Act ----- 45 CFR Parts 160 and 164) 1. I hereby authorize all medical service sources and health care providers to use and/or disclose the protected health information (‘‘PHI’’) described below to my agent identified in my durable power of attorney for health care named __________________________________________________________________. 2. Authorization for release of PHI covering the period of health care (check one) a.  from (date) _________________ - to (date)_______________________ OR b  all past, present and future periods. 3. I hereby authorize the release of PHI as follows (check one): a.  my complete health record (including records relating to mental health care, communicable diseases, HIV or AIDS, and treatment of alcohol/drug abuse). OR b.  my complete health record with the exception of the following information (check as appropriate):  Mental health records  Communicable diseases (including HIV and AIDS)  Alcohol/drug abuse treatment  Other (please specify): ________________________________________________ . 4. In addition to the authorization for release of my PHI described in paragraphs 3 a and 3 b of this Authorization, I authorize disclosure of information regarding my billing, condition, treatment and prognosis to the following individual(s): Name ____________________________________________ Relationship _____________________ Name ____________________________________________ Relationship _____________________ Name ____________________________________________ Relationship _____________________ 5. This medical information may be used by the persons I authorize to receive this informa",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Link to LinkedIn",
+      "url": "https://www.linkedin.com/company/the-missouri-bar"
+    },
+    {
+      "text": "Link to Facebook",
+      "url": "https://www.facebook.com/missouribar"
+    },
+    {
+      "text": "Link to Rss  this site",
+      "url": "http://missourilawyershelp.org/feed"
+    },
+    {
+      "text": "Link to Youtube",
+      "url": "https://www.youtube.com/user/MissouriBar"
+    },
+    {
+      "text": "",
+      "url": "https://missourilawyershelp.org/"
+    },
+    {
+      "text": "Find a Lawyer",
+      "url": "https://missourilawyershelp.org/fal-2/"
+    },
+    {
+      "text": "LawyerSearch",
+      "url": "https://mobar.org/public/LawyerSearch.aspx"
+    },
+    {
+      "text": "Discounted & Pro Bono Services",
+      "url": "https://missourilawyershelp.org/discounted-pro-bono-services/"
+    },
+    {
+      "text": "Missouri.FreeLegalAnswers.org",
+      "url": "https://missouri.freelegalanswers.org/"
+    },
+    {
+      "text": "Legal info",
+      "url": "https://missourilawyershelp.org/legal-info/"
+    },
+    {
+      "text": "Public resource guides",
+      "url": "https://missourilawyershelp.org/public-resource-guides/"
+    },
+    {
+      "text": "Court resources",
+      "url": "https://www.courts.mo.gov/"
+    },
+    {
+      "text": "Education Resources",
+      "url": "https://missourilawyershelp.org/civiced/"
+    },
+    {
+      "text": "Lesson Plans",
+      "url": "https://missourilawyershelp.org/civiced/#lesson"
+    },
+    {
+      "text": "Summer Institute",
+      "url": "https://missourilawyershelp.org/summer-institute/"
+    },
+    {
+      "text": "Show Me the Constitution",
+      "url": "https://missourilawyershelp.org/smtc/"
+    },
+    {
+      "text": "More",
+      "url": "https://missourilawyershelp.org/more/"
+    },
+    {
+      "text": "Client Security Fund",
+      "url": "https://missourilawyershelp.org/dispute-resolution-programs/client-security-fund/"
+    },
+    {
+      "text": "Fee Dispute Resolution Program",
+      "url": "https://missourilawyershelp.org/dispute-resolution-programs/fee-dispute-resolution-program/"
+    },
+    {
+      "text": "Complaints Against Lawyers",
+      "url": "https://missourilawyershelp.org/dispute-resolution-programs/complaints-against-lawyers-2/"
+    },
+    {
+      "text": "Click to open the search input field\nClick to open the search input field\n\nSearch",
+      "url": "https://missourilawyershelp.org/legal-topics/durable-power-of-attorney-for-health/?s="
+    },
+    {
+      "text": "Menu\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tMenu",
+      "url": "https://missourilawyershelp.org/legal-topics/durable-power-of-attorney-for-health/#"
+    },
+    {
+      "text": "Durable Power of Attorney for Health Care",
+      "url": "https://missourilawyershelp.org/legal-topics/durable-power-of-attorney-for-health/"
+    },
+    {
+      "text": "Home",
+      "url": "https://missourilawyershelp.org/"
+    },
+    {
+      "text": "Legal Topics",
+      "url": "https://missourilawyershelp.org/legal-topics/"
+    },
+    {
+      "text": "The Missouri Bar Durable Power of Attorney for Health Care and Health Care Directive",
+      "url": "https://missourilawyershelp.org/wp-content/uploads/2024/08/DPOA-Fillable-2024.pdf"
+    },
+    {
+      "text": "HIPAA Privacy Authorization Form",
+      "url": "https://missourilawyershelp.org/wp-content/uploads/2023/08/HIPPA-Privacy-Authorization-Fillable.pdf"
+    },
+    {
+      "text": "Complete DPA/HIPAA Packet",
+      "url": "https://missourilawyershelp.org/wp-content/uploads/2023/07/DPOA-2023.pdf"
+    },
+    {
+      "text": "16-page DPA/HIPAA booklet",
+      "url": "https://missourilawyershelp.org/wp-content/uploads/2024/10/DPOA-2023.pdf"
+    },
+    {
+      "text": "click here",
+      "url": "https://mobar.wufoo.com/forms/online-order-form/"
+    },
+    {
+      "text": "Order Here",
+      "url": "https://mobar.wufoo.com/forms/online-order-form/"
+    },
+    {
+      "text": "Read More",
+      "url": "https://missourilawyershelp.org/about-missouri-lawyers/"
+    },
+    {
+      "text": "Link to LinkedIn",
+      "url": "https://www.linkedin.com/company/the-missouri-bar"
+    },
+    {
+      "text": "Link to Facebook",
+      "url": "https://www.facebook.com/missouribar"
+    },
+    {
+      "text": "Link to Rss  this site",
+      "url": "http://missourilawyershelp.org/feed"
+    },
+    {
+      "text": "Link to Youtube",
+      "url": "https://www.youtube.com/user/MissouriBar"
+    },
+    {
+      "text": "Home",
+      "url": "https://missourilawyershelp.org/"
+    },
+    {
+      "text": "Find a Lawyer",
+      "url": "https://missourilawyershelp.org/fal-2/"
+    },
+    {
+      "text": "Legal info",
+      "url": "https://missourilawyershelp.org/legal-info/"
+    },
+    {
+      "text": "Education Resources",
+      "url": "https://missourilawyershelp.org/civiced/"
+    },
+    {
+      "text": "Client Security Fund",
+      "url": "https://missourilawyershelp.org/dispute-resolution-programs/client-security-fund/"
+    },
+    {
+      "text": "Fee Dispute Resolution Program",
+      "url": "https://missourilawyershelp.org/dispute-resolution-programs/fee-dispute-resolution-program/"
+    },
+    {
+      "text": "Complaints Against Lawyers",
+      "url": "https://missourilawyershelp.org/dispute-resolution-programs/complaints-against-lawyers-2/"
+    },
+    {
+      "text": "Find a Lawyer",
+      "url": "https://missourilawyershelp.org/fal-2/"
+    },
+    {
+      "text": "Legal info",
+      "url": "https://missourilawyershelp.org/legal-info/"
+    },
+    {
+      "text": "Education Resources",
+      "url": "https://missourilawyershelp.org/civiced/"
+    },
+    {
+      "text": "More",
+      "url": "https://missourilawyershelp.org/more/"
+    },
+    {
+      "text": "Scroll to top\nScroll to top\n\n\tScroll to top",
+      "url": "https://missourilawyershelp.org/legal-topics/durable-power-of-attorney-for-health/#top"
+    }
+  ]
+}

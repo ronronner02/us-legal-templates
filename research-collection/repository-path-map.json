@@ -1,0 +1,2697 @@
+[
+  {
+    "sha256": "613f5e3362955ae59784da4c297c2907bba83cd377c7dabde45046d8ae1094c1",
+    "original_local_archive_path": "archive/2026-10-14-08/01-defendant-s-answer-613f5e336295.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/01-defendant-s-answer-613f5e336295.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "e0928869e1561a302fdfc235885dfe4a397b73839209a6b5516eba532997255c",
+    "original_local_archive_path": "archive/2026-10-14-08/01-statement-of-claim-complaint-general-e0928869e156.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/01-statement-of-claim-complaint-general-e0928869e156.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "d9d4f1185bae694d9563406e4bc959ba3053594c794ca7cf22868cb886ac5cc3",
+    "original_local_archive_path": "archive/2026-10-14-08/01-statement-of-claim-complaint-for-specific-property-d9d4f1185bae.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/01-statement-of-claim-complaint-for-specific-property-d9d4f1185bae.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "b9175cf81358df1267bf2f9f449a026c62fc4206e68fcf10bea0a4357db800eb",
+    "original_local_archive_path": "archive/2026-10-14-02/01-affidavit-for-collection-of-personal-property-of-decedent-b9175cf81358.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-02/01-affidavit-for-collection-of-personal-property-of-decedent-b9175cf81358.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "fedbed2ec997a7ba963f0c0d84238d52509ad765e5c892127972d96dbac43d19",
+    "original_local_archive_path": "archive/2026-10-09-04/26-3-sites-default-files-2026-04-lcp-20-20living-20will-20-202026-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/AZ_Arizona/D_Court_and_General_Legal/AZ-Living-Will--End-of-Life-Care--fedbed2ec997.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "610ebdc100527cf81d2bdc05a058e8011f931d73e2185c4c6fdb333835e06b37",
+    "original_local_archive_path": "archive/2026-10-09-04/26-1-sites-default-files-2026-08-lcp-20-20healthcare-20poa-8-4-26-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/AZ_Arizona/D_Court_and_General_Legal/AZ-Health-Care-Power-of-Attorney--610ebdc10052.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "321e65e5eb3fbfd9b73c04d74becad0af9a7ee3618bc62dd9b4302e5031a1499",
+    "original_local_archive_path": "archive/2026-10-09-04/26-2-sites-default-files-2026-04-lcp-20-20mental-20healthcare-20poa-20-202026-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/AZ_Arizona/D_Court_and_General_Legal/AZ-Mental-Health-Care-Power-of-Attorney--321e65e5eb3f.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "5499dd5b1ef9014803a157ae04d566214fd49edf7d9b3797054d63c54bdd9e9a",
+    "original_local_archive_path": "archive/2026-10-14-08/02-affidavit-for-collection-of-small-estate-by-distributee-5499dd5b1ef9.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/02-affidavit-for-collection-of-small-estate-by-distributee-5499dd5b1ef9.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "aa3e5ab81ef7917f0c2d3daa4b2f1ed0f6ff7df6eaa95f0e4fcfce026b720ab2",
+    "original_local_archive_path": "archive/2026-10-14-08/02-petition-for-appointment-of-administrator-aa3e5ab81ef7.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/02-petition-for-appointment-of-administrator-aa3e5ab81ef7.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "d41a587abdceea2c80d64f9735ee90bf09e23eb1351c9a8c9e8dd50b22cf1510",
+    "original_local_archive_path": "archive/2026-10-14-08/02-petition-for-probate-of-will-and-appointment-of-personal-representative-d41a587abdce.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/02-petition-for-probate-of-will-and-appointment-of-personal-representative-d41a587abdce.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "ef3421b14ebf64dbf884566ff659b39776035ec5b6e6500be0af91e3cc15533c",
+    "original_local_archive_path": "archive/2026-10-09-02/12-1-documents-sc100-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CA_California/D_Court_and_General_Legal/CA-Plaintiff-s-Claim-and-Order-to-Go-to-Small-Claims-Court--SC-100--ef3421b14ebf.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": [
+        "text-extraction-warnings-review-required"
+      ]
+    }
+  },
+  {
+    "sha256": "588639f85ffdff892babecb2dec1e089aa54117e6047161af95b4ca09315d539",
+    "original_local_archive_path": "archive/2026-10-09-04/35-2-dlse-2810-5-supplemental-notice-to-h-2a-employees-english-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CA_California/E_Employment/CA-Supplemental-Notice-to-H-2A-Employees--English--588639f85ffd.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "df7ad0f28ccb282324682315caf8fc34dae5d03f3ac1b19a6dd6c20f56030772",
+    "original_local_archive_path": "archive/2026-10-09-04/35-1-dlse-lc-2810-5-notice-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CA_California/E_Employment/CA-Notice-to-Employee--Labor-Code-section-2810.5--df7ad0f28ccb.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "27b318dd63fb1ec3eca2f4dc762adac63908735c7debcd8707c50d637be4a94f",
+    "original_local_archive_path": "archive/2026-10-09-02/17-1-sites-all-files-agweb-pdfs-consumers-probatecodeadvancedhealthcaredirectiveform-fillable-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CA_California/D_Court_and_General_Legal/CA-Advance-Health-Care-Directive--27b318dd63fb.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": [
+        "text-extraction-warnings-review-required"
+      ]
+    }
+  },
+  {
+    "sha256": "91c235c421e1de9604b35fb6eeaf7a51c4e49615be34436612cfd589076345b2",
+    "original_local_archive_path": "archive/2026-10-09-02/17-2-sites-default-files-2026-02-6240-statutory-will-form-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CA_California/D_Court_and_General_Legal/CA-California-Statutory-Will--Probate-Code-section-6240--91c235c421e1.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "61398437b806182087dccf7cfe2d6fa4c1ee309f3499ff78d9a9edd3b772d665",
+    "original_local_archive_path": "archive/2026-10-09-02/16-1-documents-gc310-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CA_California/D_Court_and_General_Legal/CA-Petition-for-Appointment-of-Probate-Conservator--GC-310--61398437b806.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": [
+        "text-extraction-warnings-review-required"
+      ]
+    }
+  },
+  {
+    "sha256": "fa30a2916677af5aecbd555aeceb06ef410eb1221da1b5f928348a5e7b17b6b6",
+    "original_local_archive_path": "archive/2026-10-09-02/13-1-documents-fl100-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CA_California/D_Court_and_General_Legal/CA-Petition-for-Dissolution---Legal-Separation--FL-100--fa30a2916677.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": [
+        "text-extraction-warnings-review-required"
+      ]
+    }
+  },
+  {
+    "sha256": "9a5551a68aa482eaf6961b8a3e932566009ac403e3dd5239c0c2670dd2a98408",
+    "original_local_archive_path": "archive/2026-10-09-04/39-2-01-consumers-101-help-upload-rfahealth-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CA_California/C_Insurance/CA-Request-for-Assistance--Health-Insurance--9a5551a68aa4.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "34b681d2900770cad57a42d9373721f99fe9528d717c987a90527e079ea6889d",
+    "original_local_archive_path": "archive/2026-10-09-04/39-1-01-consumers-101-help-upload-rfanonhealth-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CA_California/C_Insurance/CA-Request-for-Assistance--Non-Health-Insurance--34b681d29007.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "da0b0bb690bbfe15a9bc241c52d6baa878ac37f4797367f978d858df51105d53",
+    "original_local_archive_path": "archive/2026-10-09-02/15-1-documents-de160-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CA_California/D_Court_and_General_Legal/CA-Inventory-and-Appraisal--DE-160--da0b0bb690bb.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": [
+        "text-extraction-warnings-review-required"
+      ]
+    }
+  },
+  {
+    "sha256": "2a5759e5c7c0818003eaefc94dfade97625e7e3197675629fc00ae245fd59e14",
+    "original_local_archive_path": "archive/2026-10-09-02/14-1-documents-de111-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CA_California/D_Court_and_General_Legal/CA-Petition-for-Probate--DE-111--2a5759e5c7c0.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": [
+        "text-extraction-warnings-review-required"
+      ]
+    }
+  },
+  {
+    "sha256": "7a7f6bc5e266e41bc8d8a23c3276c68c6b2f3dfb5a1a56c6a163ccb70aa96ede",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/addenda-to-contracts/2024-brokerage-duties-addendum-to-property-management-fillable-0-6dcaa04e8f.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Brokerage-Duties-Addendum-to-Property-Management-Agreement--2024--7a7f6bc5e266.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "d487d8f51017b94d209f313725804abb1a96a6c5265fe382c64e276b687163a9",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/addenda-to-contracts/brokerage-duties-disclosure-to-seller-non-crec-listing-fillable-f962c044a7.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Brokerage-Duties-to-Seller--REO---Non-CREC-Listings---2023--d487d8f51017.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "4186a49775b8981130e7805594d0b7f673b51567597f8d618267d5f40c1bff77",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/addenda-to-contracts/covid-19-addendum-fillable-f936ad1ec9.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-COVID-19-Addendum--4186a49775b8.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": [
+        "not-commission-approved",
+        "pandemic-specific-review"
+      ]
+    }
+  },
+  {
+    "sha256": "52f85704456e583b3812ef40aa94e72454041a56032d0ee0be8538691fc5c3ad",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/addenda-to-contracts/exchange-addendum-to-contract-to-buy-sell-real-estate-fillable-799aa58cb3.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Exchange-Addendum-to-Contract-to-Buy---Sell-Real-Estate--52f85704456e.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "1d9a17570661cc756f333a2892aa628629cdd18fc9ac5cb38fee9bb0a5ad6797",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/addenda-to-contracts/exclusive-brokerage-listing-addendum-to-listing-contract-2014-01-01-fill-6f57cf644b.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Exclusive-Brokerage-Listing-Addendum-to-Exclusive-Right-to-Sell-L--1d9a17570661.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "54b8b67144910fb7c85a97e9bbc4a593a351c17f512b1d5abe0d975066345916",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/addenda-to-contracts/licensee-buyout-addendum-fillable-baf86c45de.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Licensee-Buy-Out-Addendum-to-Contract-to-Buy---Sell-Real-Estate----54b8b6714491.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "94326ec87cd7340f3b5efc322b039ba9f1f9ce1b6c368a545feec9eada29cdee",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/addenda-to-contracts/manufactured-home-addendum-fillable-for-use-on-or-after-january-1-2026-b518427715.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Manufactured-Home-Addendum-to-Contract-to-Buy-and-Sell-Real-Estat--94326ec87cd7.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "abb3dc1baa14e6e26db2ae752ff48fb59f9bb106e14d9c3edf43e6413a153fad",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/addenda-to-contracts/open-listing-addendum-to-exclusive-right-to-sell-listing-contract-2014-f-30f55b0cc1.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Open-Listing-Addendum-to-Exclusive-Right-to-Sell-Listing-Contact--abb3dc1baa14.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "61c8036f369b5a55b57fc7df68881ef01d88f7e22cb54849e9a94f177ba89592",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/addenda-to-contracts/residential-addendum-to-contract-to-buy-and-sell-fillable-64c56ccbdd.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Residential-Addendum-to-Contract-to-Buy---Sell-Real-Estate--for-u--61c8036f369b.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "c3073df5de50ccc07805b33da11d836e478963c24ff9cdfe1b7301598f1bae1d",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/addenda-to-contracts/short-sale-addendum-contract-to-buy-sell-real-estate-fillable-9e708e8cdc.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Short-Sale-Addendum--Contract-to-Buy---Sell-Real-Estate--c3073df5de50.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "1ada883fcb1d66dfe70fb329e5839768fcfa5ec79abca85d9052fe001a6da150",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/addenda-to-contracts/short-sale-addendum-seller-listing-contract-fillable-9006b0bba2.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Short-Sale-Addendum--Seller-Listing-Contract--1ada883fcb1d.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "e768832ff125bdee5c59b6642558d76312a5c85f24f60623399b44b23edab695",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/addenda-to-contracts/source-of-water-addendum-swa35-8-10-fillable-8e5622a47e.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Source-of-Water-Addendum-to-Contract-to-Buy---Sell-Real-Estate--e768832ff125.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "71613f71466f9325d7d2f3dc5c58d1ce5a4016cbf4bddfe664ae22b37a666b15",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/agreements-to-amend-extend-contract/agreement-to-amend-extend-contract-fillable-eea0c9d0c5.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Agreement-to-Amend-Extend-Contract--for-use-after-August-14--2024--71613f71466f.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "e6f59ef7739513d6eb77b8d11c4ea10b831093f75b75240376ab35468257f69e",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/agreements-to-amend-extend-contract/agreement-to-revive-contract-clean-fillable-for-use-on-or-after-january--cac6c8059d.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Agreement-to-Revive-Contract--for-use-on-and-after-January-1--202--e6f59ef77395.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "9638a7f17db2c17e2ab76948dcfb53a0ab41ab07fd66e4225232a1c0e4446a86",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/agreements-to-amend-extend-contract/agreement-to-revive-contract-manufactured-home-new-fillable-for-use-on-o-afcd84afe5.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Agreement-to-Revive-Contract-Manufactured-Home-Contract-to-Buy-an--9638a7f17db2.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "592d063ec435d0c66a3c1df05f7e0c130bc7a05f8458dbabe7a0ad7c5c9ea68b",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/agreements-to-amend-extend-contract/extension-or-termination-of-contract-fillable-for-use-on-or-after-januar-5ae705a16c.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Extension-or-Termination-of-Contract--for-use-on-and-after-Januar--592d063ec435.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "08ffa4ef0fcfb63beabba40ca07a392b8ee77efe782ca011cf147ca50089e9f2",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/agreements-to-amend-extend-contract/listing-contract-amend-extend-fillable-6f6c3b146d.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Listing-Contract-Amend-Extend-Broker--08ffa4ef0fcf.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "8be00829f61240173f9c9bbb50e8257c85791bdb277109d61e8b7b66186b3dab",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/agreements-to-amend-extend-contract/manufactured-home-extension-or-termination-new-fillable-for-use-on-or-af-2921d8d919.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Manufactured-Home-Contract--Lot-Lease-Only--Extension-or-Terminat--8be00829f612.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "fc58e8d4a799b8e66feb60f9f59d584a65a9f2dbde331b6fd447d1a5ff6ae0d3",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/agreements-to-amend-extend-contract/2024-manufactured-home-amend-extend-fillable-031466f2e0.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Manufactured-Home-Contract-Amend-Extend--2024--fc58e8d4a799.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "2bb7442c6a250d48052b88cc32ff77fe28986ee7232c738ac562937d4c36fe61",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/bills-of-sale/bill-of-sale-contract-to-buy-and-sell-real-estate-fillable-a5c88ceb08.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Bill-of-Sale--Contract-to-Buy-and-Sell-Real-Estate--2bb7442c6a25.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "c5b134909d05819448a78c1fb0454d96ca4ded9b06371105e124d89fbc4d521b",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/bills-of-sale/bill-of-sale-personal-property-agreement-fillable-609b69a98c.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Bill-of-Sale--Personal-Property-Agreement--c5b134909d05.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "33bd968f2b8d8c35a89f407d44003c6bd4b6b1a4f0a9acef665e7f935826ec34",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/closing-forms/closing-instructions-fillable-for-use-on-or-after-january-1-2026-b3c23983c0.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Closing-Instructions--for-use-on-and-after-January-1--2026--33bd968f2b8d.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "8b65a0438591560a0d081c88dfd55d4edd29b20970b0b1e85c3e328b0249a160",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/closing-forms/closing-statement-fillable-6950350b56.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Closing-Statement--8b65a0438591.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "73997e697ef852f68559f1f32c59ff7df6c3bc74def47bc39997673d97477927",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/closing-forms/2024-earnest-money-receipt-fillable-e44f95bd5c.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Earnest-Money-Receipt--2024--73997e697ef8.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "23192b9bf82c0ffae7b7213102fa6869d1976ce330d9a6f0293e4d939fcc4d56",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/closing-forms/earnest-money-release-emr83-fillable-9c8310e35d.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Earnest-Money-Release--with-Mutual-Release--23192b9bf82c.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "118ce1343b4b1e4acf009c372baf869d13cdcfe93cda0e60f94952135edbe5da",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/counterproposal/counterproposal-fillable-0-c7432c9c4b.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Counterproposal--for-use-after-August-14--2024--118ce1343b4b.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "48ee1f479ee634952c425776a478e874451526cd460c99f601f61941dfc6bd14",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/counterproposal/2024-manufactured-home-counterproposal-fillable-1-0229d3b0df.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Manufactured-Home-Counterproposal--2024--48ee1f479ee6.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "2849bbc922bbced38d9e0277a8a9ac7a9168a3e80ce248db8be2fa5fdcc0a27d",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/deeds-of-trust/deed-of-trust-assumable-not-due-on-transfer-fillable-317d542014.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Deed-of-Trust--Assumable---Not-Due-on-Transfer--2849bbc922bb.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "92f90fe628d6241b47035e5391d596b906ca0c93317bed2b1ea4f64813d64771",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/deeds-of-trust/deed-of-trust-due-on-transfer-strict-fillable-b8700ddd6a.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Deed-of-Trust--Due-on-Transfer---Strict--92f90fe628d6.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "79bb4c99f531f4d13f01490ddc832e2533345fd875bbc8a23363ddc210e19d92",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/deeds-of-trust/deed-of-trust-due-on-transfer-creditworthy-fillable-37d43e9160.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Deed-of-Trust--Due-on-Transfer-Creditworthy--79bb4c99f531.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "7a29f432c6224d15d6b765c52e028920daddfd0f06d548480b1a6607b164b825",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/deeds/bargain-and-sale-deed-fillable-4838b38a99.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Bargain-and-Sale-Deed--7a29f432c622.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "668cde00a50a3b04d6f38963cce19a0865cae12595fd1a12a08ad867de13f53d",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/deeds/quit-claim-deed-fillable-e027e4f15c.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Quit-Claim-Deed--668cde00a50a.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "2b422c55ba95617718dd21a5e2bd381e705068c6fb42b0649423c1aceefd4782",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/deeds/special-warranty-deed-fillable-932b13aeaf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Special-Warranty-Deed--2b422c55ba95.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "8f208133cfc91e698756d46aae03b6cc0c73e4c34b5724685ffa2fa59d03918a",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/deeds/warranty-deed-fillable-5f704f089d.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Warranty-Deed--8f208133cfc9.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "9f182dc46bf5de7dc19605acdae315e3187898fdcbaaaca3f56b0526e6f847ba",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/brokerage-disclosure-to-buyer-fillable-b5c200af9d.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Brokerage-Disclosure-to-Buyer--for-use-after-August-14--2024--9f182dc46bf5.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "809b83d369f738c1bcbce3fb4d026dc8f8b56aacee55f47a8ffd3b45f73bf7ac",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/brokerage-disclosure-to-landlord-ld17-fillable-88a65a37c2.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Brokerage-Disclosure-to-Landlord--809b83d369f7.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "860715ccd141dd1f2171550eaa50a3674cb9bb3f54ad37b27540d6ea8c7a36f8",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/brokerage-disclosure-to-seller-fillable-f8b710aa43.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Brokerage-Disclosure-to-Seller--Sale-by-Owner--860715ccd141.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "82bc6927482bdbd81fa555a598047266d4a7a0d2d4fb8cb963e42db990cfa10a",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/brokerage-disclosure-to-tenant-fillable-febc6efd71.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Brokerage-Disclosure-to-Tenant--82bc6927482b.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "f625ba02de0137e6a9c06eb3bfea763287a87f3fe58faddaee736b39bd7a61a8",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/change-of-status-rev-09-23-26-transaction-brokerage-disclosure-fillable-bfda8e3836.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Change-of-Status--f625ba02de01.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "624c595da91e1faf99b002f69987b99ae007f3f4b86fce2eaf85d5a91287b480",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/definitions-of-working-relationships-fillable-c142647a88.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Definitions-of-Working-Relationships--624c595da91e.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "5743147509c50a9f4765803d30a60c305bae0a6dcce02e083722dc09c9a9147a",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/dual-status-disclosure-real-estate-broker-and-mortgage-broker-fillable-32c02f2921.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Dual-Status-Disclosure--Real-Estate-Broker---Mortgage-Broker--5743147509c5.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "9e141d6d7e625fe3d066876d3440999253d71f9af1a321cd28baff67f3ffa7cc",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/2024-energy-benchmarking-disclosure-fillable-1297d1e14e.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Energy-Benchmarking-Disclosure--2024--9e141d6d7e62.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "f92228272fd8b9fcdbfe196ebcdff167e478087cbbc90ad2b1b1f434f16be1ab",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/estoppel-statement-2019-01-01-fillable-2d52d57a9c.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Estoppel-Statement--f92228272fd8.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "9980ffd4e53b3543bacfb9471cf831611f3cfca16335720086c719d9e3f08b6b",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/green-disclosure-energy-2012-09-31-fillable-619615f6d6.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Green-Disclosure--9980ffd4e53b.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "b4dc64c07abb4ca26f343a3d690a227820d45b57d41997de392ceb077951c824",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/lead-based-paint-disclosure-rentals-fillable-c883ff5fbc.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Lead-Based-Paint-Disclosures--Rentals--b4dc64c07abb.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "ec696ef89fb09359440e56e9eb2c6e727e009e242450774d754c1b753067cbfb",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/lead-based-paint-disclosure-sales-fillable-d72cf07af9.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Lead-Based-Paint-Disclosures--Sales--ec696ef89fb0.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "a9650b2910c5684ead12927a6f2ee53e0cfad0ad67a6a2dbc48a28479d25fb98",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/lead-based-paint-obligations-landlord-fillable-860d08aea5.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Lead-Based-Paint-Obligations-of-Landlord--a9650b2910c5.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "476a508cd640728839a921a763dbff03682152e3d288944a4d6f0e257855d3cd",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/lead-based-paint-obligations-seller-fillable-e3155c2508.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Lead-Based-Paint-Obligations-of-Seller--476a508cd640.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "7f8202795d23160f93b400f276d12b02fe1bbef285218eb3f8e848cff0e12b1e",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/seller-s-property-disclosure-commercial-fillable-for-use-on-or-after-jan-93290b05fb.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Seller-s-Property-Disclosure--Commercial---for-use-on-and-after-J--7f8202795d23.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "3f57eaca1c47e32cd1c01f09000ed511f641f8f98b00e90f951a576c2818b7af",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/sellers-property-disclosures-land-fillable-for-use-on-or-after-january-1-fdd606e8cc.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Seller-s-Property-Disclosure--Land---for-use-on-and-after-January--3f57eaca1c47.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "a40f721e0cdf9094023325930227da098772c1bbe6b6c21edabaa502a6998959",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/seller-s-property-disclosure-residential-fillable-for-use-on-or-after-ja-446614561d.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Seller-s-Property-Disclosure--Residential---for-use-on-and-after---a40f721e0cdf.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "67506ec0a02bd3504affc50ee2fd5c87ffecc83d871ec9537ddce2b3a653c4c1",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/seller-s-property-disclosure-supplement-additional-structure-fillable-fo-57318a0ff6.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Seller-s-Property-Disclosure-Supplement--Additional-Structure---f--67506ec0a02b.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "8d4cb2d317f35e811e679746da0dcb3566a4f209a238d0060d72b28e6505fc14",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/disclosure-documents/square-footage-disclosure-2019-01-01-fillable-2cec674fda.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Square-Footage-Disclosure--8d4cb2d317f3.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "fdc4f59639f1f0fb655d0e79cba874b37ecbfdd211f62af14ecdaede4d36610d",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/listing-contracts/exclusive-right-to-buy-listing-contract-fillable-for-use-on-or-after-jan-138688d31a.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Exclusive-Right-to-Buy-Listing-Contract--for-use-on-and-after-Jan--fdc4f59639f1.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "fcc835c9c68fdbe54b79db0920ecb5d9aff5a156434e1b60dd876f43cf9e617c",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/listing-contracts/exclusive-right-to-lease-listing-contract-v2-fillable-for-use-on-or-afte-7f5b4fd099.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Exclusive-Right-to-Lease-Listing-Contract--for-use-on-and-after-J--fcc835c9c68f.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "9d3b333ce75c2edf9ac8f0db96b70f4616a9c98370b1e34458289b5d477cfbb3",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/listing-contracts/exclusive-right-to-sell-listing-contract-v2-fillable-for-use-on-or-after-9ada372bf4.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Exclusive-Right-To-Sell-Listing-Contract--for-use-on-and-after-Ja--9d3b333ce75c.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "f4734fd35e7c50ed0376f2fb5bd90b3c7d201691bf164636bdbfa3af5d4b8d2b",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/listing-contracts/exclusive-tenant-listing-contract-fillable-for-use-on-or-after-january-1-a6915b7826.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Exclusive-Tenant-Listing-Contract--for-use-on-and-after-January-1--f4734fd35e7c.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "78c8fa54dd8d8ddc008b955a45a0612f47881f256ab9ac59148b600c169efd16",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/notice-of-documents/appraisal-value-objection-notice-avn44-2017-01-01-withdrawal-5c5c852a74.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Appraised-Value-Objection-Notice--78c8fa54dd8d.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "614f1a27dd1b352e84d8cd24f526735758365025c6a6cf24547bb68e52cff984",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/notice-of-documents/homeowner-warning-notice-right-to-cancel-colorado-foreclosure-protection-63c3bdfc8f.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Homeowner-Warning-Notice--CO-Foreclosure-Protection-Act--614f1a27dd1b.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "8b39964faf3062a58a92ec8bd5109426ac505dccd6d677829568af4fb82aae66",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/notice-of-documents/inspection-objection-notice-fillable-for-use-on-or-after-january-1-2026-d1b1743b1a.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Inspection-Objection-Notice--for-use-on-and-after-January-1--2026--8b39964faf30.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "e483e07cc3cca7afdf5a774cbe8de0bf9ed81cbe8c4a8a4d39d155ba1fc93b06",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/notice-of-documents/inspection-resolution-ntc43r-2017-01-01-fillable-22572f2f42.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Inspection-Resolution--e483e07cc3cc.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "ddfda6afed09cade4355642dfa135b4abc6344fce29c9c6e9b8e4f21ac372ae5",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/notice-of-documents/notice-of-cancellation-co-foreclosure-protection-act-fillable-c70c1383ab.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Notice-of-Cancellation--CO-Foreclosure-Protection-Act--ddfda6afed09.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "95385c013af8ecc7e1c3102328ef1607211fcb30e44cebf697643ae4911289c8",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/notice-of-documents/2024-notice-to-terminate-fillable-61f74a9729.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Notice-to-Terminate--2024--95385c013af8.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "3921e262ebb46bd33f7692ef63ee4c06e19e1eaf27679418494f73a14ed656f2",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/notice-of-documents/seller-association-authorization-fillable-for-use-on-or-after-january-1--97b1e55c4d.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Seller-Association-Authorization--for-use-on-and-after-January-1---3921e262ebb4.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "1cd9ed95aae70bd38d4b5a4b66d208a94b19c9c2071261bdfef1dce84c4abe47",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/notice-of-documents/seller-authorization-fillable-0e305a0438.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Seller-Authorization--1cd9ed95aae7.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "334e951dc810416473c585aacfdd681548a4b4be0dfda0fc229fa2abd4e4b10b",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/notice-of-documents/seller-warning-co-foreclosure-protection-act-fillable-b20c6116de.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Seller-Warning--CO-Foreclosure-Protection-Act--334e951dc810.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "cfcc1660ac8d856f7769d6953cca71e5f455136ee904eaded08ef1eaa7e9f967",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/notice-of-documents/title-related-objection-notice-ton45-2017-01-01-fillable-bbfc34b1a1.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Title-Related-Objection-Notice--cfcc1660ac8d.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "6ec4b5bb807f69173095002c7348ef1e3ac080c9654fbf765eacc750bcb5a4ea",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/optional-forms/assignment-of-lease-fillable-e2973cccd2.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Assignment-of-Lease--new-form-in-2023--6ec4b5bb807f.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "9c1fba361ef2474261257c9c77a1949cce55bcfc78c44f06f798714f60cacd11",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/optional-forms/personal-property-agreement-residential-only-fillable-1-542a9bcfea.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Personal-Property-Agreement--9c1fba361ef2.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "2429bf0cf2fcbf3d2892e5a389c4b6dbc9f59a54083fac15bd9bf68f2e074655",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/optional-forms/post-closing-occupancy-agreement-fillable-for-use-on-or-after-january-1--95ab76b181.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Post-Closing-Occupancy-Agreement--for-use-on-and-after-January-1---2429bf0cf2fc.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "5b0da508e3eed66a13bfb435341533993777de2190d5f3921d918b596212a98b",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/optional-forms/real-property-transfer-declaration-td-1000-fillable-86eb08e1d1.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Real-Property-Transfer-Declaration--TD-1000--5b0da508e3ee.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "eb8142db2bf946ad6315bf5129856072e24b77c0f2a321a0fb0884d908042839",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/optional-forms/td-1000-instructions-real-property-transfer-declaration-instructions-201-b020a21a20.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-TD-1000-INSTRUCTIONS--Real-Property-Transfer-Declaration-Instruct--eb8142db2bf9.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "5f4fd435bcac33f925b403104907dda0e6247705adf85d4022b02c3c5931e1f1",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/optional-forms/worksheet-for-real-estate-settlement-fillable-785902f0b0.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Worksheet-for-Real-Estate-Settlement--5f4fd435bcac.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "c1ae1e805f629dbca051d23b91963e5aea2cbd26364cbad563212b652282ef81",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/promissory-notes/earnest-money-promissory-note-fillable-31c28d3c31.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Earnest-Money-Promissory-Note--c1ae1e805f62.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "6a4813226f983e8a5a36640d04d7aec882d3e71344c901c23c4f9474026eba50",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/promissory-notes/promissory-note-fillable-535e7cada9.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Promissory-Note-for-Deed-of-Trust--6a4813226f98.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "bf1cc78c5dbfc36ac59c7b7db8152d60a07e5cd194d3cb5b4cac2015366536d4",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/promissory-notes/promissory-note-uccc-no-default-rate-fillable-d82f0bd9e5.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Promissory-Note-for-Deed-of-Trust--UCCC-No-Default-Rate--bf1cc78c5dbf.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "0b2e8b5b3f40c1d72d2ea30e03f20054eee56fb3429d80ea6b959b284a13a09f",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/sales-contracts/contract-to-buy-and-sell-real-estate-commercial-v2-fillable-for-use-on-o-a833c66cab.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Contract-to-Buy-and-Sell-Real-Estate--Commercial---for-use-on-and--0b2e8b5b3f40.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "49a81889c465e62a1281aa768b2d3d329a60612d6df495c0ea8617500ffe9b20",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/sales-contracts/contract-to-buy-and-sell-real-estate-income-residential-fillable-for-use-4d5b5be44f.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Contract-to-Buy-and-Sell-Real-Estate--Income-Residential---for-us--49a81889c465.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "6022d5e42bfa38ad5769734f660683402dfd79eac6ea5296e709b38f8fb6daba",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/sales-contracts/contract-to-buy-and-sell-real-estate-land-v2-fillable-for-use-on-or-afte-c2c0f793cf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Contract-to-Buy-and-Sell-Real-Estate--Land---for-use-on-and-after--6022d5e42bfa.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "4ad3a3694c8a6ab91712cb6bd35980e33fd11aebb9991ac047b3a6f78c4fd2c9",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/sales-contracts/contract-to-buy-and-sell-real-estate-residential-v2-fillable-for-use-on--7158f63b7f.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Contract-to-Buy-and-Sell-Real-Estate--Residential---for-use-on-an--4ad3a3694c8a.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "10edfdf3c89bfa057708278cf1edd6f655e8ba80a390ee373f3e793b83ec15f4",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/sales-contracts/contract-to-buy-and-sell-residential-foreclosure-fillable-for-use-on-or--d1bdb39b52.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Contract-to-Buy-and-Sell-Real-Estate--Residential---Colorado-Fore--10edfdf3c89b.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "e78edcbd2b16d7301affb143b1ac6edec47d3486685efa64c0b6bfb2d7b4b380",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/sales-contracts/manufactured-home-contract-to-buy-and-sell-lot-lease-only-fillable-for-u-ce1f01adc3.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CO_Colorado/A_Real_Estate/CO-Manufactured-Home-Contract-to-Buy-and-Sell--Lot-Lease-Only---for---e78edcbd2b16.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "manual_review_required",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "d0076da2e25ac9161dbf3f856599d489b67104e13535b14b88dc6d5e1d756dff",
+    "original_local_archive_path": "archive/2026-10-09-04/28-2-media-ag-health-issues-advdirectivescombinedform2006alt-pdf-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CT_Connecticut/D_Court_and_General_Legal/CT-Combined-Advance-Directives--d0076da2e25a.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "ef37a5990daed19f33027c0fadfd1a31a35c8fb6c0adccac9f85e11846ee18e3",
+    "original_local_archive_path": "archive/2026-10-09-04/28-1-media-ag-health-issues-advancedirectiveslivingwillorhealthcareinstructions-pdf-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CT_Connecticut/D_Court_and_General_Legal/CT-Living-Will---Health-Care-Instructions--ef37a5990dae.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "85a5770f03616bdff462cc41ace066f5e440edb0cc1792572f97170be63f3d01",
+    "original_local_archive_path": "archive/2026-10-09-04/28-3-media-ag-health-issues-advancedirectiveappointmentofhealthcare-rep-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/CT_Connecticut/D_Court_and_General_Legal/CT-Appointment-of-Health-Care-Representative--85a5770f0361.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "ae33654db79e39ed7d13fc6ccf9be8fc569289fcfe8e462acf0ec8b8310424a0",
+    "original_local_archive_path": "archive/2026-10-14-08/03-advance-health-care-directive-publisher-september-2026-file-ae33654db79e.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/03-advance-health-care-directive-publisher-september-2026-file-ae33654db79e.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "ac65c7cb90dee38c1ce1ffe8842c879f4f0f2c95e8e3a801bd73fff8bf12ea43",
+    "original_local_archive_path": "archive/2026-10-14-08/03-supported-decision-making-agreement-ac65c7cb90de.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/03-supported-decision-making-agreement-ac65c7cb90de.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "1662e329d23d4529e2b3dbb2e9cac47f963595ce37f4dcd20135c90fee7606c3",
+    "original_local_archive_path": "archive/2026-10-09-02/23-1-sites-default-files-complaint-for-a-civil-case-alleging-breach-of-contract-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/D_Court_and_General_Legal/US-Federal-Breach-of-Contract-Complaint--Pro-Se-4--1662e329d23d.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "8128d7deb3f60194a0af3f8e0baa2ca7c226fd0f888464f318904399581c51b6",
+    "original_local_archive_path": "archive/2026-10-09-02/22-1-sites-default-files-js-044-civil-cover-sheet-1-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/D_Court_and_General_Legal/US-Federal-Civil-Cover-Sheet--JS-44--8128d7deb3f6.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "32592d367b4b3ef3e466887a6ac4ab17981b89b45af368fa6650e85aeb3e2fb9",
+    "original_local_archive_path": "archive/2026-10-09-02/24-1-sites-default-files-complaint-for-employment-discrimination-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/D_Court_and_General_Legal/US-Federal-Employment-Discrimination-Complaint--Pro-Se-7--32592d367b4b.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "03c65f5233e743634655e6d481f5e2f6cc2acfe54fe2b23ecae5c923f8bcd4c0",
+    "original_local_archive_path": "archive/2026-10-09-02/21-2-sites-dolgov-files-whd-legacy-files-wh-382-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/E_Employment/US-FMLA-Designation-Notice--WH-382--03c65f5233e7.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "ade7eca465c7823dfeaf4617d7e1169846473b14182a07f0bbffd5ac981dc666",
+    "original_local_archive_path": "archive/2026-10-09-02/21-1-sites-dolgov-files-whd-legacy-files-wh-381-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/E_Employment/US-FMLA-Eligibility-and-Rights-Notice--WH-381--ade7eca465c7.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "08f2949ba591ba87e5e2ed65143780dbae5b339b7fcb1277bfd9ec16bde1910c",
+    "original_local_archive_path": "archive/2026-10-09-02/20-3-sites-default-files-documents-fema-ff-206-fy-21-117-flood-insurance-application-may-2021-exp-28-feb-2027-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/C_Insurance/US-NFIP-Flood-Insurance-Application--08f2949ba591.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "2cba82a82269f8d1581324b79d47ae1da76044baae680446c4f7bbfbcffc2081",
+    "original_local_archive_path": "archive/2026-10-09-02/20-2-sites-default-files-documents-fema-ff-206-fy-21-119-general-change-endorsement-may-2021-exp-28-feb-2027-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/C_Insurance/US-NFIP-General-Change-Endorsement--2cba82a82269.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "bb99d143a9b137c585ea7f21fc3092fceefc98c94c21d3d8ac0901ea92a28e90",
+    "original_local_archive_path": "archive/2026-10-09-02/20-5-sites-default-files-documents-fema-f-144-rcbap-sfip-2021-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/C_Insurance/US-NFIP-Residential-Condominium-Building-Association-Policy--F-144--bb99d143a9b1.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "4e91d6417cba13c18d4402083a0c02811da8264be6fcb8557c6afa4f8b6e2e74",
+    "original_local_archive_path": "archive/2026-10-09-02/20-6-sites-default-files-documents-fema-f-122-dwelling-sfip-2021-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/C_Insurance/US-NFIP-Dwelling-Standard-Flood-Insurance-Policy--F-122--4e91d6417cba.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "48139cb9b22b34efcb00b9df3b9a909929a0494e5f58f10ad105308e43d0feab",
+    "original_local_archive_path": "archive/2026-10-09-02/20-4-sites-default-files-documents-fema-f-123-general-property-sfip-2021-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/C_Insurance/US-NFIP-General-Property-Standard-Flood-Insurance-Policy--F-123--48139cb9b22b.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "e83af0063e0df76e40ef367d12eed1cfa7d7b6c3d4f2dd92155f67930a5b49ae",
+    "original_local_archive_path": "archive/2026-10-09-02/20-1-sites-default-files-documents-fema-ff-206-fy-21-118-cancellation-nullification-may-2021-exp-28-feb-2027-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/C_Insurance/US-NFIP-Cancellation-Nullification-Request--e83af0063e0d.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "d9e0e9b2bfb9895eeb575d138a7ec48da2b01d1e806fc9e07203489c6ff32294",
+    "original_local_archive_path": "archive/colorado-2026-10-12/Colorado/real-estate/currently-listed/optional-forms/appendix-d-to-part-1024-affiliated-business-arrangement-disclosure-state-25a8d9b36e.pdf",
+    "repository_path": "organized-library/01_Review_Required/04_Research_References/US_Federal_or_Shared/A_Real_Estate/US-Appendix-D-to-Part-1024---Affiliated-Business-Arrangement-Disclos--d9e0e9b2bfb9.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Research references",
+      "flags": [
+        "federal-reference-dated-2023",
+        "federal-regulatory-reference-not-state-issued-form"
+      ]
+    }
+  },
+  {
+    "sha256": "abf50bc2bd2dac206f3354e1d5980eb9b769d06cf466e64fb1f17a053d8a3022",
+    "original_local_archive_path": "archive/2026-10-09-02/18-2-sites-default-files-documents-lesr-eng-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/A_Real_Estate/US-Lead-Based-Paint-Disclosure-for-Lease--EPA-9600-041--abf50bc2bd2d.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "f5ca67558ec486f923181001d44d9194dacb4b338e147208fd0a0184cdfe31b7",
+    "original_local_archive_path": "archive/2026-10-09-02/18-1-sites-default-files-documents-selr-eng-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/A_Real_Estate/US-Lead-Based-Paint-Disclosure-for-Sale--EPA-9600-040--f5ca67558ec4.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "b821dc1172c91b348a65675529cc792782f11fc1ae8579df92d627113203f918",
+    "original_local_archive_path": "archive/2026-10-12/44-1-pub-irs-pdf-fw8ben-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/D_Court_and_General_Legal/US-Form-W-8BEN--Individuals--b821dc1172c9.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": [
+        "text-extraction-warnings-review-required"
+      ]
+    }
+  },
+  {
+    "sha256": "2d420cbb4123dcf1fb82595b2359cfbb5d81f00b9df9d359fcc7af361d093f53",
+    "original_local_archive_path": "archive/2026-10-12/43-1-pub-irs-pdf-fw9-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/02_Federal_Documents/D_Court_and_General_Legal/US-Form-W-9--2d420cbb4123.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Federal documents",
+      "flags": [
+        "text-extraction-warnings-review-required"
+      ]
+    }
+  },
+  {
+    "sha256": "13595b1a05b9bf10752e0af7abee6e1be7888b20b0c73537110bf434557b6f65",
+    "original_local_archive_path": "archive/2026-10-14-08/04-small-claims-statement-of-claim-miami-dade-county-13595b1a05b9.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/04-small-claims-statement-of-claim-miami-dade-county-13595b1a05b9.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "6f1fe90de8057ecc0c0c9c52c08039c332de1e84923e35bbc9dfdeec96f74940",
+    "original_local_archive_path": "archive/2026-10-14-08/04-small-claims-summons-notice-to-appear-miami-dade-county-6f1fe90de805.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/04-small-claims-summons-notice-to-appear-miami-dade-county-6f1fe90de805.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "2e8b59e55e2a0d389ad113d3170335a34364985616feaeaf3e8f1cfbb8280590",
+    "original_local_archive_path": "archive/2026-10-14-08/05-petition-for-letters-of-administration-2e8b59e55e2a.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/05-petition-for-letters-of-administration-2e8b59e55e2a.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "2c0339e3bcfcab4baec1b45385d2cb3cb5077332214391aab9cfc43bbb0dfffd",
+    "original_local_archive_path": "archive/2026-10-14-08/05-petition-for-order-declaring-no-administration-necessary-2c0339e3bcfc.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/05-petition-for-order-declaring-no-administration-necessary-2c0339e3bcfc.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "ecb0776ae1804410fd87a393e33d191f20523c1cd2db7425c3752f1f40cd66a3",
+    "original_local_archive_path": "archive/2026-10-14-08/05-petition-to-probate-will-in-solemn-form-ecb0776ae180.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/05-petition-to-probate-will-in-solemn-form-ecb0776ae180.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "57a48d3c5467fe8c923902f64c10825dab1f0b0e22a48a7ad800a4856b7ec558",
+    "original_local_archive_path": "archive/2026-10-12/42-4-docs-form-oahu-1dc14-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/HI_Hawaii/D_Court_and_General_Legal/HI-Counterclaim--1DC14--57a48d3c5467.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "70fc39e4f566f76c095a4716979ab67dc6eb3eaa165fcb1333ad126f56b27795",
+    "original_local_archive_path": "archive/2026-10-12/42-3-docs-form-oahu-1dc07-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/HI_Hawaii/D_Court_and_General_Legal/HI-Complaint--Assumpsit--Money-Owed--1DC07--70fc39e4f566.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "6804937b869102271ccc974f1ea0161cc62d335b9ac3bcd458269497a8c7ccdd",
+    "original_local_archive_path": "archive/2026-10-12/42-1-docs-form-oahu-1dc05-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/HI_Hawaii/D_Court_and_General_Legal/HI-Security-Deposit-Statement-of-Claim--1DC05--6804937b8691.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "8a51c4d0f895a318033142854eb2ed1f890a35ac6655466e0a7b472c72318869",
+    "original_local_archive_path": "archive/2026-10-12/42-2-docs-form-oahu-1dc06-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/HI_Hawaii/D_Court_and_General_Legal/HI-General-Statement-of-Claim--1DC06--8a51c4d0f895.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "d1d9abd8fa0d7e064dd9d4d28627b0068e2ccb3d46a3ad82f650adef1b1efa59",
+    "original_local_archive_path": "archive/2026-10-14-08/06-small-claims-summons-d1d9abd8fa0d.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/06-small-claims-summons-d1d9abd8fa0d.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "316a59bf36d6c819c53a6bc3684abeebf1f83e8677201067b3f9795303badf7a",
+    "original_local_archive_path": "archive/2026-10-14-08/06-small-claims-complaint-316a59bf36d6.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/06-small-claims-complaint-316a59bf36d6.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "c0c3eca0794f939493e048e2f4d7997bec5bdb4035bb9ae97504314e77508678",
+    "original_local_archive_path": "archive/2026-10-09-04/29-2-content-dam-soi-en-web-idph-files-forms-living-will-040416-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/IL_Illinois/D_Court_and_General_Legal/IL-Living-Will-Declaration--c0c3eca0794f.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "3c01b3f20d783949e13b32b915ac1728243ff12f7ba194cba3c3374712d1a9f1",
+    "original_local_archive_path": "archive/2026-10-09-04/29-3-content-dam-soi-en-web-idph-files-forms-powerofattorneyhealthcareform-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/IL_Illinois/D_Court_and_General_Legal/IL-Statutory-Short-Form-Power-of-Attorney-for-Health-Care--3c01b3f20d78.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "3d03480aa524f1601d866fe4065eb15719529bdc1142f2877e5cd12bbc5af771",
+    "original_local_archive_path": "archive/2026-10-09-04/29-1-content-dam-soi-en-web-idph-files-forms-declaration-mental-health-treatment-040416-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/IL_Illinois/D_Court_and_General_Legal/IL-Declaration-for-Mental-Health-Treatment--3d03480aa524.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "e3827f8c72ec4d928c5cbe0a2fa9ea00952d3341faa75430f2f99922f5e76c55",
+    "original_local_archive_path": "archive/2026-10-14/11-advance-directive-planning-sheet-e3827f8c72ec.pdf",
+    "repository_path": "research-collection/archive/2026-10-14/11-advance-directive-planning-sheet-e3827f8c72ec.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "3ecbdf1954959e771dadb9e37db2e449ff7b60dfff3d564f03472ccf6a63c0e8",
+    "original_local_archive_path": "archive/2026-10-14/11-advance-directive-indiana-health-care-representative-3ecbdf195495.pdf",
+    "repository_path": "research-collection/archive/2026-10-14/11-advance-directive-indiana-health-care-representative-3ecbdf195495.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "0e784ef7f302eeff25c2c981d4f04065a5aa1cdc0a62e1ae3ae0606689a0de26",
+    "original_local_archive_path": "archive/2026-10-14-09/09-appearance-and-answer-of-defendant-s-0e784ef7f302.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/09-appearance-and-answer-of-defendant-s-0e784ef7f302.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "130a65baf11ee6e04dd5e7dbf4c928973a171e7f9394b82e747b0947ca0d5361",
+    "original_local_archive_path": "archive/2026-10-14-09/09-counterclaim-against-plaintiff-s-130a65baf11e.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/09-counterclaim-against-plaintiff-s-130a65baf11e.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "d1314c83c44c7c3553cce1e6bc3a655107cc6865c9c22319b1ed732c0819b06c",
+    "original_local_archive_path": "archive/2026-10-14-08/07-instructions-for-defendant-responding-to-a-small-claims-action-d1314c83c44c.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/07-instructions-for-defendant-responding-to-a-small-claims-action-d1314c83c44c.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "6c026753496324568630dbfd88f28122de6057168f5b8841ccdee3835ae150a0",
+    "original_local_archive_path": "archive/2026-10-14-08/07-instructions-for-filing-a-small-claims-action-for-money-judgment-6c0267534963.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/07-instructions-for-filing-a-small-claims-action-for-money-judgment-6c0267534963.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "877737f3bb3e5d5297b26ab3604fac0ffb78deb7d09295f37c27b5ef4575894c",
+    "original_local_archive_path": "archive/2026-10-14-09/09-original-notice-and-petition-for-a-money-judgment-877737f3bb3e.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/09-original-notice-and-petition-for-a-money-judgment-877737f3bb3e.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "a3ad8a53b20b81b63056f462ada0633297d448a9c6f7e5a615ee8566b1e755b9",
+    "original_local_archive_path": "archive/2026-10-14-09/09-original-notice-and-petition-for-forcible-entry-and-detainer-a3ad8a53b20b.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/09-original-notice-and-petition-for-forcible-entry-and-detainer-a3ad8a53b20b.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "c4002fc3ec49318dae785971058a8b702380ba759be73d4dea3e0d3759c6c42f",
+    "original_local_archive_path": "archive/2026-10-14-09/09-original-notice-and-petition-for-replevin-c4002fc3ec49.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/09-original-notice-and-petition-for-replevin-c4002fc3ec49.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "4c381bf0b9f2d41b624ece6c3292795c10b14d2000f105c6b6db4b8c0e6879be",
+    "original_local_archive_path": "archive/2026-10-14-09/01-small-claims-petition-4c381bf0b9f2.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/01-small-claims-petition-4c381bf0b9f2.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "7779973e26af7073d1b30f75dae9fa02f6172a8ff1811a9ca446850d9fabb075",
+    "original_local_archive_path": "archive/2026-10-14-09/02-durable-power-of-attorney-for-health-care-decisions-7779973e26af.docx",
+    "repository_path": "research-collection/archive/2026-10-14-09/02-durable-power-of-attorney-for-health-care-decisions-7779973e26af.docx",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "e0223af0d82d6efe9006ff27069adabe7e23460aab8799ab1772ca874561741f",
+    "original_local_archive_path": "archive/2026-10-14-09/02-general-durable-power-of-attorney-e0223af0d82d.docx",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/KS_Kansas/D_Court_and_General_Legal/KS-Kansas-General-Durable-Power-of-Attorney--12-2025--e0223af0d82d.docx",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": [
+        "document-currency-requires-human-review",
+        "commercial-rehosting-not-approved"
+      ]
+    }
+  },
+  {
+    "sha256": "8bcf0690f24c932cc66b57a546a30983e0b5f8be33640881a7c8dbffca25950b",
+    "original_local_archive_path": "archive/2026-10-14-09/03-small-estates-affidavit-8bcf0690f24c.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/03-small-estates-affidavit-8bcf0690f24c.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "05e522c52c31e762d4968e19c1764493fc363c4ac919d67f226a3347b9a5fced",
+    "original_local_archive_path": "archive/2026-10-14-09/04-instructions-for-filing-for-divorce-without-minor-children-05e522c52c31.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/04-instructions-for-filing-for-divorce-without-minor-children-05e522c52c31.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "121cef5e40add356476fb5e69300fc830cbdab0991b0ac39f902a89044e65639",
+    "original_local_archive_path": "archive/2026-10-14-09/04-petition-for-divorce-without-minor-children-121cef5e40ad.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/04-petition-for-divorce-without-minor-children-121cef5e40ad.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "add090c39ac09a5fcbe7d2a22b407383f88aec7d9ac6b4eab28948e012621826",
+    "original_local_archive_path": "archive/2026-10-14-09/12-kentucky-living-will-packet-add090c39ac0.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/12-kentucky-living-will-packet-add090c39ac0.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "501672e077bde1a5165a672d892f0fd37b1b66fffc980ea062d57081c3c908a9",
+    "original_local_archive_path": "archive/2026-10-14/12-petition-to-dispense-with-administration-501672e077bd.pdf",
+    "repository_path": "research-collection/archive/2026-10-14/12-petition-to-dispense-with-administration-501672e077bd.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "0aa0368ee0ec2711bc840a9b0fccf73e5dbc51e19664d7bc66e1b5ba79a2556b",
+    "original_local_archive_path": "archive/2026-10-14-08/09-living-will-declaration-0aa0368ee0ec.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/09-living-will-declaration-0aa0368ee0ec.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "ef9d5e36c980dc5f2317f5d181cdd8c5409101fc99a5762497c91f2afaf93f6e",
+    "original_local_archive_path": "archive/2026-10-14-03/03-a-guide-to-small-claims-cases-2026-ef9d5e36c980.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-03/03-a-guide-to-small-claims-cases-2026-ef9d5e36c980.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "b1356448207e6da9847ad9e6424874ba9c49a6529cc78122bb78978252cc0cce",
+    "original_local_archive_path": "archive/2026-10-09-04/40-2-consumer-documents-lh-agcomplaintform08-17rev-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/MD_Maryland/C_Insurance/MD-Life-and-Health-Complaint-Form--b1356448207e.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "7de013f8eaa71ab004219a5a60d9231d08d5fb2633d067164bd5e4d2b9c96846",
+    "original_local_archive_path": "archive/2026-10-09-04/40-1-consumer-documents-pccomplaintform-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/MD_Maryland/C_Insurance/MD-Property-and-Casualty-Complaint-Form--7de013f8eaa7.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "40ee911520ed9fb23602468ee0324cbac4e990bb5d881b8059fb638c4fe30d79",
+    "original_local_archive_path": "archive/2026-10-09-04/36-2-doc-petition-for-approval-of-compromise-mpc-250-download.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/MA_Massachusetts/D_Court_and_General_Legal/MA-Petition-for-Approval-of-Compromise--MPC-250--40ee911520ed.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "a25f98862ed476c6665e81f550db03ef7e88c1f9547eb773b2f2399ae63b8f58",
+    "original_local_archive_path": "archive/2026-10-09-04/36-1-doc-petition-for-supervised-administration-mpc-280-download.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/MA_Massachusetts/D_Court_and_General_Legal/MA-Petition-for-Supervised-Administration--MPC-280--a25f98862ed4.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": [
+        "xfa_viewer_required"
+      ]
+    }
+  },
+  {
+    "sha256": "4e6d7a5d85c94ce5e4b369e9262132f382c361350d1d81db5020bcf9e5063ec0",
+    "original_local_archive_path": "archive/2026-10-14/07-michigan-statutory-form-power-of-attorney-4e6d7a5d85c9.pdf",
+    "repository_path": "research-collection/archive/2026-10-14/07-michigan-statutory-form-power-of-attorney-4e6d7a5d85c9.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "bd49b1a608ef6c13b4d068649ca0a64375e234e207a8e5682478755b9e4669b3",
+    "original_local_archive_path": "archive/2026-10-14-08/10-statutory-short-form-power-of-attorney-bd49b1a608ef.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/10-statutory-short-form-power-of-attorney-bd49b1a608ef.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "2072e765eed39071366e42463a219bbf73136b15461610c566f107ef3267179a",
+    "original_local_archive_path": "archive/2026-10-14-08/11-sample-justice-court-civil-forms-july-2-2024-bundle-2072e765eed3.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/11-sample-justice-court-civil-forms-july-2-2024-bundle-2072e765eed3.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "c03a45717628eb818b8f82e0867782a485047943b761150a1c50feeeb5debc71",
+    "original_local_archive_path": "archive/2026-10-14-09/05-application-for-trial-de-novo-small-claims-c03a45717628.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/05-application-for-trial-de-novo-small-claims-c03a45717628.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "79bf30cdc93dab6e4ae83a4020572d23df3b45915f5042d421dcdfa65ee471b5",
+    "original_local_archive_path": "archive/2026-10-14-09/05-missouri-small-claims-court-handbook-county-hosted-2021-copy-79bf30cdc93d.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/05-missouri-small-claims-court-handbook-county-hosted-2021-copy-79bf30cdc93d.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "f27c08d9bcbfba8dea814fe312efd3d308b0a5076dfc9fc19ec7fc00f6ab1dfd",
+    "original_local_archive_path": "archive/2026-10-14-09/06-motion-and-affidavit-to-proceed-as-a-poor-person-f27c08d9bcbf.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/06-motion-and-affidavit-to-proceed-as-a-poor-person-f27c08d9bcbf.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "5097ca60df06d6a6c0911d2b1faed67596938245626106d422b3550f15309e61",
+    "original_local_archive_path": "archive/2026-10-14-09/06-petition-of-landlord-for-recovery-of-possession-for-non-payment-of-rent-5097ca60df06.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/06-petition-of-landlord-for-recovery-of-possession-for-non-payment-of-rent-5097ca60df06.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "4289448ac9cc309d1701e2fd534f4e71d971bf70d8fca9c8286642e8c179c753",
+    "original_local_archive_path": "archive/2026-10-14-09/07-durable-power-of-attorney-for-health-care-and-health-care-directive-4289448ac9cc.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/07-durable-power-of-attorney-for-health-care-and-health-care-directive-4289448ac9cc.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "75f113782f0b68547d279231b96589a9f97a0d7ba07b5a2a972813f8f863f739",
+    "original_local_archive_path": "archive/2026-10-14-09/07-hipaa-privacy-authorization-75f113782f0b.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/07-hipaa-privacy-authorization-75f113782f0b.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "79ef6288b350b88e0a9f7054ddb276834d83d13f937466cabde34bd2c22d3628",
+    "original_local_archive_path": "archive/2026-10-14-02/05-affidavit-for-collection-of-personal-property-of-decedent-79ef6288b350.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-02/05-affidavit-for-collection-of-personal-property-of-decedent-79ef6288b350.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "f39ed6a740e7ad72c4783ac5f1a1a63b30514b0227fd4e4a7a6ef0efc9fe15d8",
+    "original_local_archive_path": "archive/2026-10-14-02/05-affidavit-of-death-f39ed6a740e7.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/MT_Montana/D_Court_and_General_Legal/MT-Affidavit-of-Death--f39ed6a740e7.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "c2255fed6d5ece984a6e08816ae4da3f1588c43136eb578559b6511cf0fcaba1",
+    "original_local_archive_path": "archive/2026-10-14/14-affidavit-for-transfer-of-personal-property-without-probate-c2255fed6d5e.pdf",
+    "repository_path": "research-collection/archive/2026-10-14/14-affidavit-for-transfer-of-personal-property-without-probate-c2255fed6d5e.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "a826de42660511df11725ac07523c098b0f42f8b0ef22f4cd1f4aa8adebca01d",
+    "original_local_archive_path": "archive/2026-10-14-08/13-affidavit-of-entitlement-a826de426605.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/13-affidavit-of-entitlement-a826de426605.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "6439dcd42f3757a8352f3f027d80ef26a849a7919994eca79a338e7488ccbe9f",
+    "original_local_archive_path": "archive/2026-10-14-08/13-generic-probate-petition-6439dcd42f37.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/13-generic-probate-petition-6439dcd42f37.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "b48d686a7c907e43153744174c0f1de0167162eb9778415071fa6f3751a08357",
+    "original_local_archive_path": "archive/2026-10-14-08/14-small-claim-complaint-paper-form-b48d686a7c90.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/14-small-claim-complaint-paper-form-b48d686a7c90.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "19834b9cea698f30277e82ab348d95b7fa320ff31de87c5ce07677e47bae6ed0",
+    "original_local_archive_path": "archive/2026-10-12/41-2-health-advancedirective-documents-instruction-directive-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/NJ_New Jersey/D_Court_and_General_Legal/NJ-Instruction-Directive--19834b9cea69.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "2f159482e3c09c9632471b1f75e146ed80a25598ac9c7fc472116803814a88ef",
+    "original_local_archive_path": "archive/2026-10-12/41-1-health-advancedirective-documents-proxy-directive-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/NJ_New Jersey/D_Court_and_General_Legal/NJ-Proxy-Directive--Durable-Power-of-Attorney-for-Health-Care--2f159482e3c0.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "fe438129ac692bec77020459693c089280ed3b4eee7418a1cecf2612c4da2fe7",
+    "original_local_archive_path": "archive/2026-10-14-08/15-application-for-informal-appointment-of-personal-representative-no-will-fe438129ac69.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/15-application-for-informal-appointment-of-personal-representative-no-will-fe438129ac69.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "0b5fa4506604e3d30dd1df6ed4a30c41586bc6c0a91367a5fae1332cbcafae89",
+    "original_local_archive_path": "archive/2026-10-14-08/15-inventory-0b5fa4506604.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/15-inventory-0b5fa4506604.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "5fc0f0f76ae5dbd76bf2a12a4e1c096b6f6b6a60b75c1e405fb901f8e9504ef1",
+    "original_local_archive_path": "archive/2026-10-14-08/15-verified-small-estate-closing-statement-of-the-personal-representative-5fc0f0f76ae5.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/15-verified-small-estate-closing-statement-of-the-personal-representative-5fc0f0f76ae5.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "96f33a56a4f034af8962f4e3714e8d11f0234906e3d54f02259110cf2d4881fd",
+    "original_local_archive_path": "archive/manual-intake-2026-10-12-03/new-york/employment/wage-notice/notice-and-acknowledgement-of-pay-rate-and-payday-hourly-rate-employees-96f33a56a4.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/NY_New York/E_Employment/NY-LS54-Notice-and-Acknowledgement-of-Pay-Rate-and-Payday--96f33a56a4f0.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": [
+        "original-filename-mislabeled",
+        "text-extraction-warnings-review-required",
+        "source-page-reconciled-with-live-publisher-evidence"
+      ]
+    }
+  },
+  {
+    "sha256": "c905e32db504b5fc8fc63a2ffe759b60196527e8cc9c51e336435b82f9379893",
+    "original_local_archive_path": "archive/2026-10-14/09-advance-directive-for-a-natural-death-living-will-c905e32db504.pdf",
+    "repository_path": "research-collection/archive/2026-10-14/09-advance-directive-for-a-natural-death-living-will-c905e32db504.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "0b0cad2e8e474529358ef7020b9d13ded0336d018d75719bb9b8ef52ef37e79e",
+    "original_local_archive_path": "archive/2026-10-14/09-health-care-power-of-attorney-0b0cad2e8e47.pdf",
+    "repository_path": "research-collection/archive/2026-10-14/09-health-care-power-of-attorney-0b0cad2e8e47.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "663d7b2144f41c0ffba5299ed656531a27d45abf5cea5f0136fdb65583c255ab",
+    "original_local_archive_path": "archive/2026-10-14-03/01-affidavit-for-collection-of-personal-property-of-the-decedent-663d7b2144f4.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-03/01-affidavit-for-collection-of-personal-property-of-the-decedent-663d7b2144f4.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "2d19a403a847a63010556d0371e4b8ecaf13f9391d90146f7e16ac15b906c3c0",
+    "original_local_archive_path": "archive/2026-10-14-08/16-application-for-authority-to-administer-estate-2d19a403a847.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/16-application-for-authority-to-administer-estate-2d19a403a847.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "8837ec6112476d07f5b481b7bfaa13ffb7f279c1edfa85a0112fe21232e12633",
+    "original_local_archive_path": "archive/2026-10-14-08/16-application-to-probate-will-8837ec611247.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/16-application-to-probate-will-8837ec611247.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "be29e318a7c0eb9fc2ada6547049d1528c13c30917aabe3970d5ef85dba87858",
+    "original_local_archive_path": "archive/2026-10-14-08/16-inventory-and-appraisal-be29e318a7c0.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/16-inventory-and-appraisal-be29e318a7c0.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "2eac0f82ea1767e62df321afe4ac3b16531cd8c84f7dfb81ddbfc6700eccb01e",
+    "original_local_archive_path": "archive/2026-10-14-08/17-advance-directive-for-health-care-2eac0f82ea17.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/17-advance-directive-for-health-care-2eac0f82ea17.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "b0695321ce59089dec3b320c13d3b7112f8ea1b0e1f00aadab43d4992a0104b5",
+    "original_local_archive_path": "archive/2026-10-14-08/18-health-care-power-of-attorney-b0695321ce59.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/18-health-care-power-of-attorney-b0695321ce59.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "b5d2a1ad6596ebb882095dfb36242a747acc4d2f66d0fbf8df5a8f27230e8a3e",
+    "original_local_archive_path": "archive/2026-10-14-09/10-form-for-appointing-health-care-representative-and-alternate-b5d2a1ad6596.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/10-form-for-appointing-health-care-representative-and-alternate-b5d2a1ad6596.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "7434efb3c91b2ca83859347662a695f53a6f8bf93c80d552eb17663fb6da3f68",
+    "original_local_archive_path": "archive/manual-intake-2026-10-12-03/oregon/estate-and-personal-planning/health-care-directive/oregon-advance-directive-for-health-care-docx-7434efb3c9.docx",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/OR_Oregon/D_Court_and_General_Legal/OR-Oregon-Advance-Directive-for-Health-Care--7434efb3c91b.docx",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "ba7a1b846602e4bf169a771df5cdd0346dba08c23d18ee7a7bb4737b038e27c3",
+    "original_local_archive_path": "archive/manual-intake-2026-10-12-03/oregon/estate-and-personal-planning/health-care-directive/oregon-advance-directive-for-health-care-pdf-ba7a1b8466.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/OR_Oregon/D_Court_and_General_Legal/OR-Oregon-Advance-Directive-for-Health-Care--ba7a1b846602.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "bf8881e8b00c3e332e77fcdc39cda550115f86eb970809be15822ec359e8515d",
+    "original_local_archive_path": "archive/2026-10-14-09/11-your-guide-to-the-oregon-advance-directive-for-health-care-library-archive-bf8881e8b00c.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/11-your-guide-to-the-oregon-advance-directive-for-health-care-library-archive-bf8881e8b00c.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "b098291428530b7fb0164ab5458d6bef317a9daa47b218b0e6ed4519d9bc9857",
+    "original_local_archive_path": "archive/2026-10-14-03/02-civil-complaint-magisterial-district-court-b09829142853.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-03/02-civil-complaint-magisterial-district-court-b09829142853.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "0f64a96715386f8d7a2d390c7404a10767816d4eaabf95debb14371817c71978",
+    "original_local_archive_path": "archive/2026-10-14-05/02-landlord-tenant-complaint-0f64a9671538.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-05/02-landlord-tenant-complaint-0f64a9671538.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "7c70aed6e10f74a090b611bd44c3c129ba8c6c88be3a2125ec5fba66d97dc171",
+    "original_local_archive_path": "archive/2026-10-14-08/19-durable-power-of-attorney-for-healthcare-7c70aed6e10f.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/19-durable-power-of-attorney-for-healthcare-7c70aed6e10f.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "fedafa60a2329b490fa5399f7ae108ad0e97323ee2f9139680d86e5dab73e62b",
+    "original_local_archive_path": "archive/2026-10-14-09/08-living-will-declaration-fedafa60a232.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-09/08-living-will-declaration-fedafa60a232.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "ae3023105755ecd9b2312bf53c216319fd0bc79830c4627611a7ac5b0a206895",
+    "original_local_archive_path": "archive/2026-10-09-02/8-1-standards-partnership-agreement-1-1-cover-page-and-standard-terms-docx.docx",
+    "repository_path": "organized-library/01_Review_Required/03_Multistate_Templates/B_Business_Contracts/US-Commercial-Partnership-Agreement--referrals-and-co-marketing--ae3023105755.docx",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "license_allows_use",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Multistate templates",
+      "flags": [
+        "attribution-and-change-notices-required",
+        "counsel-review-before-product-publication"
+      ]
+    }
+  },
+  {
+    "sha256": "8d31fe0e0eb96649b180ec4f6eec84617ff2d499576f8dccde981e58c5a829d6",
+    "original_local_archive_path": "archive/2026-10-09-02/1-1-standards-mutual-nda-1-0-mutual-nda-cover-page-and-standard-terms-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/03_Multistate_Templates/B_Business_Contracts/US-Mutual-NDA--8d31fe0e0eb9.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "license_allows_use",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Multistate templates",
+      "flags": [
+        "attribution-and-change-notices-required",
+        "counsel-review-before-product-publication"
+      ]
+    }
+  },
+  {
+    "sha256": "d8cc13f589096d1b2afc1917756adea450cd7d966779633613fbecc4dc45d3ba",
+    "original_local_archive_path": "archive/2026-10-09-02/6-1-standards-professional-services-agreement-1-1-cover-page-and-standard-terms-docx.docx",
+    "repository_path": "organized-library/01_Review_Required/03_Multistate_Templates/B_Business_Contracts/US-Professional-Services-Agreement-with-Statement-of-Work--d8cc13f58909.docx",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "license_allows_use",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Multistate templates",
+      "flags": [
+        "attribution-and-change-notices-required",
+        "counsel-review-before-product-publication",
+        "draft-v0.6-footer-conflicts-with-current-version-label"
+      ]
+    }
+  },
+  {
+    "sha256": "1745ce987355a3e21a9ffeb0887e579f39dfd9b058880c6e637aff4fb3195e0e",
+    "original_local_archive_path": "archive/2026-10-09-02/7-1-standards-ai-addendum-1-0-cover-page-and-standard-terms-docx.docx",
+    "repository_path": "organized-library/01_Review_Required/03_Multistate_Templates/B_Business_Contracts/US-AI-Addendum--1745ce987355.docx",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "license_allows_use",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Multistate templates",
+      "flags": [
+        "attribution-and-change-notices-required",
+        "counsel-review-before-product-publication"
+      ]
+    }
+  },
+  {
+    "sha256": "f582f7eac4539471db8ee439231cfb95e71776b8a7fb370a51f52022679b14a5",
+    "original_local_archive_path": "archive/2026-10-09-02/5-1-standards-business-associate-agreement-1-0-cover-page-and-standard-terms-docx.docx",
+    "repository_path": "organized-library/01_Review_Required/03_Multistate_Templates/B_Business_Contracts/US-Business-Associate-Agreement--f582f7eac453.docx",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "license_allows_use",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Multistate templates",
+      "flags": [
+        "attribution-and-change-notices-required",
+        "counsel-review-before-product-publication"
+      ]
+    }
+  },
+  {
+    "sha256": "cb72dad74b3af676307ffc7359f616ee696481a3928d55f7c5fdae490b943587",
+    "original_local_archive_path": "archive/2026-10-09-02/2-1-standards-cloud-service-agreement-2-1-cover-page-and-standard-terms-docx.docx",
+    "repository_path": "organized-library/01_Review_Required/03_Multistate_Templates/B_Business_Contracts/US-Cloud-Service-Agreement-with-Order-Form--cb72dad74b3a.docx",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "license_allows_use",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Multistate templates",
+      "flags": [
+        "attribution-and-change-notices-required",
+        "counsel-review-before-product-publication",
+        "draft-v0.6-footer-conflicts-with-current-version-label"
+      ]
+    }
+  },
+  {
+    "sha256": "cb35f3cc70cb6d24955f08b7ae09b899d6cf054ef3b56f1f9e2cf0cae1e3dbf1",
+    "original_local_archive_path": "archive/2026-10-09-02/4-1-standards-data-processing-agreement-1-1-cover-page-and-standard-terms-docx.docx",
+    "repository_path": "organized-library/01_Review_Required/03_Multistate_Templates/B_Business_Contracts/US-Data-Processing-Agreement--cb35f3cc70cb.docx",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "license_allows_use",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Multistate templates",
+      "flags": [
+        "attribution-and-change-notices-required",
+        "counsel-review-before-product-publication"
+      ]
+    }
+  },
+  {
+    "sha256": "c711cef731218c16876898d1cd281351fdbdd256b274172ba6d01d6a355707dd",
+    "original_local_archive_path": "archive/2026-10-09-02/3-1-standards-design-partner-agreement-1-3-cover-page-and-standard-terms-docx.docx",
+    "repository_path": "organized-library/01_Review_Required/03_Multistate_Templates/B_Business_Contracts/US-Design-Partner-Agreement--c711cef73121.docx",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "license_allows_use",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Multistate templates",
+      "flags": [
+        "attribution-and-change-notices-required",
+        "counsel-review-before-product-publication"
+      ]
+    }
+  },
+  {
+    "sha256": "2b85bb4cd1a105dad019b1f710fd495042733464b31a22917009c9d4b8ca42f4",
+    "original_local_archive_path": "archive/2026-10-09-02/10-1-standards-pilot-agreement-1-1-cover-page-and-standard-terms-docx.docx",
+    "repository_path": "organized-library/01_Review_Required/03_Multistate_Templates/B_Business_Contracts/US-Pilot-Agreement--2b85bb4cd1a1.docx",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "license_allows_use",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Multistate templates",
+      "flags": [
+        "attribution-and-change-notices-required",
+        "counsel-review-before-product-publication",
+        "draft-v0.6-footer-conflicts-with-current-version-label"
+      ]
+    }
+  },
+  {
+    "sha256": "0a073e0e2087811749bb06215bc9490b9a6a067c5449ed3516bb9d94c0497834",
+    "original_local_archive_path": "archive/2026-10-09-02/9-1-standards-software-license-agreement-1-1-cover-page-and-standard-terms-docx.docx",
+    "repository_path": "organized-library/01_Review_Required/03_Multistate_Templates/B_Business_Contracts/US-Software-License-Agreement--0a073e0e2087.docx",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "license_allows_use",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "Multistate templates",
+      "flags": [
+        "attribution-and-change-notices-required",
+        "counsel-review-before-product-publication"
+      ]
+    }
+  },
+  {
+    "sha256": "00f43beec458a48a8a9709ede626e0ff7cc239e5b872b8f0a90b386f8139503c",
+    "original_local_archive_path": "archive/2026-10-14-05/05-south-carolina-health-care-power-of-attorney-00f43beec458.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-05/05-south-carolina-health-care-power-of-attorney-00f43beec458.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "0ad60026ce431efcf2aeaa8c1875bf041b264d4bcf0e2203bc58490d1000bf93",
+    "original_local_archive_path": "archive/2026-10-14-08/20-guide-to-small-claims-court-0ad60026ce43.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/20-guide-to-small-claims-court-0ad60026ce43.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "8c8fcb31e54a5c498d80459d4288c4512c3344ad3d102bc06d934439238a2fa0",
+    "original_local_archive_path": "archive/2026-10-14-08/20-plaintiff-s-statement-of-claim-8c8fcb31e54a.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/SD_South Dakota/D_Court_and_General_Legal/SD-South-Dakota-Plaintiff-s-Statement-of-Small-Claims--UJS-008--8c8fcb31e54a.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": [
+        "document-currency-requires-human-review",
+        "commercial-rehosting-not-approved"
+      ]
+    }
+  },
+  {
+    "sha256": "81fc44d9358335e9ed56963ce426db80f5acb28bc16417af737e869e739b7183",
+    "original_local_archive_path": "archive/2026-10-14-02/06-advance-directive-for-health-care-81fc44d93583.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-02/06-advance-directive-for-health-care-81fc44d93583.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "38640c93e70528f45442e25e7c536707392cb2d3c8b1dece5682b964c1824d80",
+    "original_local_archive_path": "archive/2026-10-09-04/31-1-sites-default-files-documents-directive-to-physicians-and-family-or-surrogates-living-will-english-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/TX_Texas/D_Court_and_General_Legal/TX-Directive-to-Physicians-and-Family-or-Surrogates--Living-Will--38640c93e705.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "da5100b4ae9b9990dd1d31af000dc8ead27e9a403dfe2d32493a219de758bee0",
+    "original_local_archive_path": "archive/2026-10-09-04/retry-sites-default-files-documents-medical-power-of-attorney-designation-of-health-care-agent-mpoa-english-pdf-da5100b4ae9b.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/TX_Texas/D_Court_and_General_Legal/TX-Medical-Power-of-Attorney--Designation-of-Health-Care-Agent--da5100b4ae9b.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "4e6a0c99de27bb9a9af0e7fe538d59d2a47e155f5d646cfc3d2675581ada0a11",
+    "original_local_archive_path": "archive/2026-10-14-09/13-statutory-durable-power-of-attorney-4e6a0c99de27.docx",
+    "repository_path": "research-collection/archive/2026-10-14-09/13-statutory-durable-power-of-attorney-4e6a0c99de27.docx",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "1a170035d3e982c9b61c81aa7b0a6eabd53b09b8ca6061ccf0b136c875909ade",
+    "original_local_archive_path": "archive/manual-intake-2026-10-12-03/texas/real-estate/addenda-to-contracts/non-realty-items-addendum-trec-57-0-1a170035d3.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/TX_Texas/A_Real_Estate/TX-Texas-Non-Realty-Items-Addendum--1a170035d3e9.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": [
+        "source-page-reconciled-with-live-publisher-evidence"
+      ]
+    }
+  },
+  {
+    "sha256": "d12909bcbd014080948eb6f9771231ba1b1d98c64eaf07e87ab0faa1118b8d36",
+    "original_local_archive_path": "archive/manual-intake-2026-10-12-03/texas/real-estate/contract-amendments/amendment-to-contract-trec-39-11-d12909bcbd.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/TX_Texas/A_Real_Estate/TX-Texas-Amendment-to-Contract-39-11--d12909bcbd01.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "98976d5b0d5f79aa775c7be641965c630578edd9c3fd69dec10532137f4cebe5",
+    "original_local_archive_path": "archive/2026-10-09-04/34-1-sites-default-files-pdf-forms-40-11-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/TX_Texas/A_Real_Estate/TX-Third-Party-Financing-Addendum--TREC-40-11--98976d5b0d5f.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "3f458518e9e01fc9c84cab420dcd0ce9793113c4b356ed5caf7a2fb1bdef2ca5",
+    "original_local_archive_path": "archive/2026-10-09-02/11-1-sites-default-files-pdf-forms-20-19-4-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/TX_Texas/A_Real_Estate/TX-One-to-Four-Family-Residential-Contract--Resale--TREC-20-19--3f458518e9e0.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "cebab031402fef2d1a16b91e6820b778f3e8971764177700706ec3f6ad8f359b",
+    "original_local_archive_path": "archive/2026-10-09-04/33-1-sites-default-files-pdf-forms-55-1-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/TX_Texas/A_Real_Estate/TX-Seller-s-Disclosure-Notice--TREC-55-1--cebab031402f.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": [
+        "text-extraction-warnings-review-required"
+      ]
+    }
+  },
+  {
+    "sha256": "6692db491db42fde7b78652c49c3f152433cf5a9f3be41668e180ae772a7702f",
+    "original_local_archive_path": "archive/2026-10-09-04/32-1-sites-default-files-pdf-forms-16-7-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/TX_Texas/A_Real_Estate/TX-Buyer-s-Temporary-Residential-Lease--TREC-16-7--6692db491db4.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "7b493c3ee665808eda55d36ac291ae8a469d0cb8be18d40c2bc981cacec61646",
+    "original_local_archive_path": "archive/manual-intake-2026-10-12-03/texas/real-estate/temporary-occupancy-lease/seller-s-temporary-residential-lease-trec-15-7-7b493c3ee6.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/TX_Texas/A_Real_Estate/TX-Texas-Seller-s-Temporary-Residential-Lease--7b493c3ee665.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": [
+        "source-page-reconciled-with-live-publisher-evidence"
+      ]
+    }
+  },
+  {
+    "sha256": "ebfb038e167a3771a934a7b7f2d4c38607a2704ee4f6e276fabeac83cd39ae82",
+    "original_local_archive_path": "archive/2026-10-14-08/21-affidavit-for-collecting-personal-property-in-a-small-estate-proceeding-ebfb038e167a.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-08/21-affidavit-for-collecting-personal-property-in-a-small-estate-proceeding-ebfb038e167a.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "d38fcd0fb6dce2e051c4722f03c606ce75ebf98f3abf650c0bd82f4305bc75ed",
+    "original_local_archive_path": "archive/2026-10-14-02/03-affidavit-of-paid-and-outstanding-funeral-expenses-and-debts-for-small-estate-d38fcd0fb6dc.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-02/03-affidavit-of-paid-and-outstanding-funeral-expenses-and-debts-for-small-estate-d38fcd0fb6dc.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "1b87f9ec8882faa7de7e00960ea960689357b556b2338b676e7b9e321bc099ab",
+    "original_local_archive_path": "archive/2026-10-14-02/03-petition-to-open-small-estate-1b87f9ec8882.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-02/03-petition-to-open-small-estate-1b87f9ec8882.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "f6995fc38dd7d38274d626d94a5d7d697aca5b6b29b76755c416b94e974129f4",
+    "original_local_archive_path": "archive/2026-10-14-02/02-list-of-heirs-f6995fc38dd7.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-02/02-list-of-heirs-f6995fc38dd7.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "9116746619f27008fa56ed884506dbc9d12b2a8792005a9b66c1a9fe78789f30",
+    "original_local_archive_path": "archive/2026-10-14-02/02-small-estate-affidavit-9116746619f2.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-02/02-small-estate-affidavit-9116746619f2.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "ed0d0baf7eb073c2f8aa342852611dfee05dced4aacf82fd372f2199d9bc6418",
+    "original_local_archive_path": "archive/2026-10-14-02/04-notice-of-small-claim-ed0d0baf7eb0.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-02/04-notice-of-small-claim-ed0d0baf7eb0.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "1f4d38eff43a6cf7aa4408213aececcf59afd844a943591bba15a47f6f995f71",
+    "original_local_archive_path": "archive/2026-10-14-02/04-small-claims-proof-of-service-1f4d38eff43a.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-02/04-small-claims-proof-of-service-1f4d38eff43a.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "66ee59774b503a1b9be3733f58cf34b20fa1c3210a471dc4e055458a80f64966",
+    "original_local_archive_path": "archive/2026-10-14-05/03-combined-medical-power-of-attorney-and-living-will-66ee59774b50.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-05/03-combined-medical-power-of-attorney-and-living-will-66ee59774b50.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "2ddc42bd2419a12d1ea7b4b49530810567009210830b8bf446efc3762c4e9489",
+    "original_local_archive_path": "archive/2026-10-14-05/03-living-will-2ddc42bd2419.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-05/03-living-will-2ddc42bd2419.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "65a0334ee4fdf655c0a681a48e8ffb62b7e7b35bb4a39ed18df3beb4e0eea033",
+    "original_local_archive_path": "archive/2026-10-14-05/03-medical-power-of-attorney-65a0334ee4fd.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-05/03-medical-power-of-attorney-65a0334ee4fd.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "3acda5a9929973e24ad9d4b754c1b3579ee0dfd4fec1f10ac7f33f5e577ef5fc",
+    "original_local_archive_path": "archive/2026-10-14-07/01-statutory-power-of-attorney-3acda5a99299.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-07/01-statutory-power-of-attorney-3acda5a99299.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "158208aec4ac19fcbf82d971f0f3110e789f0470f9815cf689876551fecee268",
+    "original_local_archive_path": "archive/2026-10-09-04/25-1-forms-advdirectives-f00086-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/WI_Wisconsin/D_Court_and_General_Legal/WI-Authorization-for-Final-Disposition--F-00086--158208aec4ac.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "88055a5cdd143270f381749272ce2322afc6cc922f7365014945aaaca2c1f0ae",
+    "original_local_archive_path": "archive/2026-10-09-04/25-3-forms-advdirectives-f00036-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/WI_Wisconsin/D_Court_and_General_Legal/WI-Power-of-Attorney-for-Finances-and-Property--F-00036--88055a5cdd14.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "69ae70542ee2f11b42641327421a4366933235a166dc72a8c6626750d1c0450f",
+    "original_local_archive_path": "archive/2026-10-09-04/25-2-forms-advdirectives-f00060-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/WI_Wisconsin/D_Court_and_General_Legal/WI-Declaration-to-Health-Care-Professionals--Living-Will--F-00060--69ae70542ee2.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "db9ca69befbcd8a0d3b0f02133a6f3a057cd643ddab48f772bee291514c6ddb7",
+    "original_local_archive_path": "archive/2026-10-09-04/25-4-forms-advdirectives-f00085-pdf.pdf",
+    "repository_path": "organized-library/01_Review_Required/01_State_Documents/WI_Wisconsin/D_Court_and_General_Legal/WI-Power-of-Attorney-for-Health-Care--F-00085--db9ca69befbc.pdf",
+    "reused_existing_document": true,
+    "existing_review_state": {
+      "publication_status": "not_approved",
+      "copyright_status": "permission_unclear",
+      "legal_review_status": "manual_review_required",
+      "bundle_section": "State documents",
+      "flags": []
+    }
+  },
+  {
+    "sha256": "b311cb135c9b55a87afb10e4b3d2dc0e62d19fab145274bd20f90c4ca9e362e1",
+    "original_local_archive_path": "archive/2026-10-14-03/05-instructions-for-small-claims-affidavit-b311cb135c9b.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-03/05-instructions-for-small-claims-affidavit-b311cb135c9b.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "59005c5eb518523bf4ed8a365593241c4c9218b875accec31fe75cf7c2862d5f",
+    "original_local_archive_path": "archive/2026-10-14-03/05-small-claims-affidavit-59005c5eb518.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-03/05-small-claims-affidavit-59005c5eb518.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  },
+  {
+    "sha256": "1155c9c338d29bdba5751262f93f7234b7ac016bce1b9b232a0b9e8d5fe9c9a4",
+    "original_local_archive_path": "archive/2026-10-14-03/05-small-claims-summons-1155c9c338d2.pdf",
+    "repository_path": "research-collection/archive/2026-10-14-03/05-small-claims-summons-1155c9c338d2.pdf",
+    "reused_existing_document": false,
+    "existing_review_state": null
+  }
+]

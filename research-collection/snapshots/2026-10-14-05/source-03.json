@@ -1,0 +1,833 @@
+{
+  "state": "West Virginia",
+  "publisher": "West Virginia State Bar",
+  "url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+  "category": "Estate and personal planning",
+  "direct": false,
+  "rules": [
+    {
+      "pattern": "Combined.*(?:MPOA|Power)",
+      "title": "Combined Medical Power of Attorney and Living Will",
+      "family_id": "combined-advance-directives",
+      "identity": "MEDICAL POWER OF ATTORNEY.*LIVING WILL",
+      "max": 1
+    },
+    {
+      "pattern": "WV Living Will",
+      "title": "Living Will",
+      "family_id": "health-care-directive",
+      "identity": "LIVING WILL",
+      "max": 1
+    },
+    {
+      "pattern": "WV Medical Power of Attorney",
+      "title": "Medical Power of Attorney",
+      "family_id": "health-care-power-of-attorney",
+      "identity": "MEDICAL POWER OF ATTORNEY",
+      "max": 1
+    },
+    {
+      "pattern": "Power of Attorney Form",
+      "title": "Statutory Power of Attorney",
+      "family_id": "financial-power-of-attorney",
+      "identity": "POWER OF ATTORNEY",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+    "final_url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:12:13.918Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "07e02313e8e8a9a6ce143c0695e118b908d791229b03b298d73b94ef0cd43882",
+    "title": "Medical Power of Attorney & Living Will Forms – Statutorily Approved",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-05/03-west-virginia-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+      "final_url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:12:13.918Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "07e02313e8e8a9a6ce143c0695e118b908d791229b03b298d73b94ef0cd43882",
+      "title": "Medical Power of Attorney & Living Will Forms – Statutorily Approved",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "Combined.*(?:MPOA|Power)",
+      "title": "Combined Medical Power of Attorney and Living Will",
+      "family_id": "combined-advance-directives",
+      "identity": "MEDICAL POWER OF ATTORNEY.*LIVING WILL",
+      "max": 1,
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf",
+      "link_text": "WV Combined MPOA and Living Will form 2022",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf",
+        "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:12:17.405Z",
+        "etag": "\"698218f9-245de\"",
+        "last_modified": "Tue, 03 Feb 2026 15:49:13 GMT",
+        "content_length": "148958",
+        "sha256": "66ee59774b503a1b9be3733f58cf34b20fa1c3210a471dc4e055458a80f64966",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf",
+          "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:12:17.405Z",
+          "etag": "\"698218f9-245de\"",
+          "last_modified": "Tue, 03 Feb 2026 15:49:13 GMT",
+          "content_length": "148958",
+          "sha256": "66ee59774b503a1b9be3733f58cf34b20fa1c3210a471dc4e055458a80f64966",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "66ee59774b503a1b9be3733f58cf34b20fa1c3210a471dc4e055458a80f64966",
+      "local_archive_path": "archive/2026-10-14-05/03-combined-medical-power-of-attorney-and-living-will-66ee59774b50.pdf",
+      "bytes": 148958,
+      "text_length": 7355,
+      "pages": 3,
+      "identity_excerpt": "Page 1 of 3 STATE OF WEST VIRGINIA COMBINED MEDICAL POWER OF ATTORNEY AND LIVING WILL The Person I Want to Make Health Care Decisions for Me When I Can’t Make Them for Myself and the Kind of Medical Treatment I Want and Don’t Want If I Have a Terminal Condition Dated: ____________________, 20____. I,____________________________________________________, hereby appoint as my representative to act on my behalf to give, withhold, or withdraw informed consent to health care decisions in the event that I am unable to do so myself. The person I choose as my representative is: ______________________________________________________________________ ______________________________________________________________________ (Insert the name, address, area code, and telephone number of the person you wish to designate as your representative. Please insert only one name.) If my representative is unable, unwilling, or disqualified to serve, then I appoint as my successor representative: ______________________________________________________________________ ______________________________________________________________________ (Insert the name, address, area code, and telephone number of the person you wish to designate as your successor representative. Please insert only one name.) This appointment shall extend to, but not be limited to, health care decisions relating to medical treatment, surgical treatment, nursing care, medication, hospitalization, care and treatment in a nursing home or other facility, and home health care. The representative appointed by this document is specifically authorized to be granted access to my medical records and other health information and to act on my behalf to consent to, refuse, or withdraw any and all medical treatment or diagnostic procedures, or au",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "WV Living Will",
+      "title": "Living Will",
+      "family_id": "health-care-directive",
+      "identity": "LIVING WILL",
+      "max": 1,
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf",
+      "link_text": "WV Living Will 2022 form",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf",
+        "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:12:18.245Z",
+        "etag": "\"698218fa-16b30\"",
+        "last_modified": "Tue, 03 Feb 2026 15:49:14 GMT",
+        "content_length": "92976",
+        "sha256": "2ddc42bd2419a12d1ea7b4b49530810567009210830b8bf446efc3762c4e9489",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf",
+          "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:12:18.245Z",
+          "etag": "\"698218fa-16b30\"",
+          "last_modified": "Tue, 03 Feb 2026 15:49:14 GMT",
+          "content_length": "92976",
+          "sha256": "2ddc42bd2419a12d1ea7b4b49530810567009210830b8bf446efc3762c4e9489",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "2ddc42bd2419a12d1ea7b4b49530810567009210830b8bf446efc3762c4e9489",
+      "local_archive_path": "archive/2026-10-14-05/03-living-will-2ddc42bd2419.pdf",
+      "bytes": 92976,
+      "text_length": 3703,
+      "pages": 2,
+      "identity_excerpt": "Page 1 of 2 STATE OF WEST VIRGINIA LIVING WILL The Kind of Medical Treatment I Want and Don’t Want If I Have a Terminal Condition THIS LIVING WILL made this ____day of _______________, 20___. I,___________________________________________________, being of sound mind, willfully and voluntarily declare that I want my wishes to be respected if I am very sick and unable to communicate my wishes for myself. In the absence of my ability to give directions regarding the use of life-prolonging intervention, it is my desire that my dying may not be prolonged under the following circumstances: If I am very sick and unable to communicate my wishes for myself and I am certified by one physician, who has personally examined me, to have a terminal condition, I direct that life- prolonging intervention that would serve solely to prolong the dying process be withheld or withdrawn. I understand that by signing this document I am agreeing to the REMOVAL or REFUSAL of cardiopulmonary resuscitation (CPR), breathing machine (ventilator), dialysis, and medically administered food and fluids, such as might be provided intravenously or by feeding tube. I want to be allowed to die naturally and only be given medications or other medical procedures necessary to keep me comfortable. I want to receive as much medication as is necessary to alleviate my pain. Nevertheless, oral food and fluids, such as may be provided by spoon or by straw, shall be offered as desired and can be tolerated. I give the following SPECIAL DIRECTIVES OR LIMITATIONS (Comments about funeral arrangements, autopsy, mental health treatment, and organ donation may be placed here. My failure to provide special directives or limitations does not mean that I want or refuse certain treatments.): ____________________________________",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "WV Medical Power of Attorney",
+      "title": "Medical Power of Attorney",
+      "family_id": "health-care-power-of-attorney",
+      "identity": "MEDICAL POWER OF ATTORNEY",
+      "max": 1,
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+      "link_text": "WV Medical Power of Attorney form 2022",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+        "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:12:19.004Z",
+        "etag": "\"698218fc-1ef03\"",
+        "last_modified": "Tue, 03 Feb 2026 15:49:16 GMT",
+        "content_length": "126723",
+        "sha256": "65a0334ee4fdf655c0a681a48e8ffb62b7e7b35bb4a39ed18df3beb4e0eea033",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+          "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:12:19.004Z",
+          "etag": "\"698218fc-1ef03\"",
+          "last_modified": "Tue, 03 Feb 2026 15:49:16 GMT",
+          "content_length": "126723",
+          "sha256": "65a0334ee4fdf655c0a681a48e8ffb62b7e7b35bb4a39ed18df3beb4e0eea033",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "65a0334ee4fdf655c0a681a48e8ffb62b7e7b35bb4a39ed18df3beb4e0eea033",
+      "local_archive_path": "archive/2026-10-14-05/03-medical-power-of-attorney-65a0334ee4fd.pdf",
+      "bytes": 126723,
+      "text_length": 5218,
+      "pages": 3,
+      "identity_excerpt": "Page 1 of 3 STATE OF WEST VIRGINIA MEDICAL POWER OF ATTORNEY The Person I Want to Make Health Care Decisions For Me When I Can’t Make Them for Myself Dated: ____________________, 20____. I,____________________________________________________, hereby appoint as my representative to act on my behalf to give, withhold, or withdraw informed consent to health care decisions in the event that I am unable to do so myself. The person I choose as my representative is: ______________________________________________________________________ ______________________________________________________________________ (Insert the name, address, area code, and telephone number of the person you wish to designate as your representative. Please insert only one name.) If my representative is unable, unwilling, or disqualified to serve, then I appoint as my successor representative: ______________________________________________________________________ ______________________________________________________________________ (Insert the name, address, area code, and telephone number of the person you wish to designate as your successor representative. Please insert only one name.) This appointment shall extend to, but not be limited to, health care decisions relating to medical treatment, surgical treatment, nursing care, medication, hospitalization, care and treatment in a nursing home or other facility, and home health care. The representative appointed by this document is specifically authorized to be granted access to my medical records and other health information and to act on my behalf to consent to, refuse, or withdraw any and all medical treatment or diagnostic procedures, or autopsy if my representative determines that I, if able to do so, would consent to, refuse, or withdraw such treat",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "Power of Attorney Form",
+      "title": "Statutory Power of Attorney",
+      "family_id": "financial-power-of-attorney",
+      "identity": "POWER OF ATTORNEY",
+      "max": 1,
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+      "link_text": "WV Medical Power of Attorney form 2022",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+        "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:12:19.414Z",
+        "etag": "\"698218fc-1ef03\"",
+        "last_modified": "Tue, 03 Feb 2026 15:49:16 GMT",
+        "content_length": "126723",
+        "sha256": "65a0334ee4fdf655c0a681a48e8ffb62b7e7b35bb4a39ed18df3beb4e0eea033",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+          "final_url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:12:19.414Z",
+          "etag": "\"698218fc-1ef03\"",
+          "last_modified": "Tue, 03 Feb 2026 15:49:16 GMT",
+          "content_length": "126723",
+          "sha256": "65a0334ee4fdf655c0a681a48e8ffb62b7e7b35bb4a39ed18df3beb4e0eea033",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "65a0334ee4fdf655c0a681a48e8ffb62b7e7b35bb4a39ed18df3beb4e0eea033",
+      "local_archive_path": "archive/2026-10-14-05/03-statutory-power-of-attorney-65a0334ee4fd.pdf",
+      "bytes": 126723,
+      "text_length": 5218,
+      "pages": 3,
+      "identity_excerpt": "Page 1 of 3 STATE OF WEST VIRGINIA MEDICAL POWER OF ATTORNEY The Person I Want to Make Health Care Decisions For Me When I Can’t Make Them for Myself Dated: ____________________, 20____. I,____________________________________________________, hereby appoint as my representative to act on my behalf to give, withhold, or withdraw informed consent to health care decisions in the event that I am unable to do so myself. The person I choose as my representative is: ______________________________________________________________________ ______________________________________________________________________ (Insert the name, address, area code, and telephone number of the person you wish to designate as your representative. Please insert only one name.) If my representative is unable, unwilling, or disqualified to serve, then I appoint as my successor representative: ______________________________________________________________________ ______________________________________________________________________ (Insert the name, address, area code, and telephone number of the person you wish to designate as your successor representative. Please insert only one name.) This appointment shall extend to, but not be limited to, health care decisions relating to medical treatment, surgical treatment, nursing care, medication, hospitalization, care and treatment in a nursing home or other facility, and home health care. The representative appointed by this document is specifically authorized to be granted access to my medical records and other health information and to act on my behalf to consent to, refuse, or withdraw any and all medical treatment or diagnostic procedures, or autopsy if my representative determines that I, if able to do so, would consent to, refuse, or withdraw such treat",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "West Virginia State Bar",
+      "url": "https://wvbar.org/"
+    },
+    {
+      "text": "Login/Create Account",
+      "url": "https://mywvbar.org/"
+    },
+    {
+      "text": "Membership Directory Search",
+      "url": "https://mywvbar.org/membership-search-members"
+    },
+    {
+      "text": "Home",
+      "url": "https://wvbar.org/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://wvbar.org/about-us/"
+    },
+    {
+      "text": "State Bar Districts",
+      "url": "https://wvbar.org/about-us/state-bar-districts/"
+    },
+    {
+      "text": "County Bar Associations",
+      "url": "https://wvbar.org/about-us/county-bar-associations/"
+    },
+    {
+      "text": "Constitution, Bylaws and Rules and Regulations",
+      "url": "https://wvbar.org/constitution-bylaws-and-rules-and-regulations/"
+    },
+    {
+      "text": "Board of Governors",
+      "url": "https://wvbar.org/committees/boards/board-of-governors/"
+    },
+    {
+      "text": "Young Lawyer Section",
+      "url": "https://wvbar.org/committees/yls/"
+    },
+    {
+      "text": "State Bar Past Presidents",
+      "url": "https://wvbar.org/about-us/past-presidents/"
+    },
+    {
+      "text": "Staff",
+      "url": "https://wvbar.org/about-us/staff/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://wvbar.org/about-us/contact-us/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://wvbar.org/about-us/privacy-policy/"
+    },
+    {
+      "text": "Committees",
+      "url": "https://wvbar.org/committees/"
+    },
+    {
+      "text": "Boards",
+      "url": "https://wvbar.org/committees/boards/"
+    },
+    {
+      "text": "Board of Governors",
+      "url": "https://wvbar.org/committees/boards/board-of-governors/"
+    },
+    {
+      "text": "Young Lawyer Board",
+      "url": "https://wvyounglawyers.com/about-us/executive-committee/"
+    },
+    {
+      "text": "WVJLAP Board of Directors",
+      "url": "https://wvjlap.org/who-we-are/board-of-directors/"
+    },
+    {
+      "text": "Bar Committees",
+      "url": "https://wvbar.org/committees/bar-committees/"
+    },
+    {
+      "text": "Committee Resources",
+      "url": "https://wvbar.org/committee-resources/"
+    },
+    {
+      "text": "Upcoming Committee Meetings",
+      "url": "https://www.mywvbar.org/events"
+    },
+    {
+      "text": "Young Lawyer Section",
+      "url": "https://wvbar.org/committees/yls/"
+    },
+    {
+      "text": "Meeting & Travel Reimbursement",
+      "url": "https://wvbar.org/meeting-travel-reimbursement/"
+    },
+    {
+      "text": "For Attorneys",
+      "url": "https://wvbar.org/members/"
+    },
+    {
+      "text": "Membership Information >",
+      "url": "https://wvbar.org/members/membership/"
+    },
+    {
+      "text": "Bar ID Card",
+      "url": "https://apps.wv.gov/DMV/SelfService/StateBar"
+    },
+    {
+      "text": "Fee Schedule",
+      "url": "https://wvbar.org/fee-schedule/"
+    },
+    {
+      "text": "Keller Notice (Membership Fee Guidelines)",
+      "url": "https://www.mywvbar.org/feeguidelines"
+    },
+    {
+      "text": "Members Login",
+      "url": "https://wvbar.org/members/member-login/"
+    },
+    {
+      "text": "Membership Reporting & Fees 2026 -2027",
+      "url": "https://wvbar.org/2023-24/"
+    },
+    {
+      "text": "Status Change",
+      "url": "https://wvbar.org/members/status-change/"
+    },
+    {
+      "text": "Succession Plan",
+      "url": "https://wvbar.org/sucession-plan/"
+    },
+    {
+      "text": "CLE",
+      "url": "https://wvbar.org/members/mcle/"
+    },
+    {
+      "text": "LC’s, LLP’s & PLLC Organizations",
+      "url": "https://wvbar.org/members/pllcs/"
+    },
+    {
+      "text": "IOLTA",
+      "url": "https://wvbar.org/members/iolta/"
+    },
+    {
+      "text": "2025-2026 WVSB Budget Overview",
+      "url": "https://wvbar.org/wp-content/uploads/2025/12/2025-2026-WVSB-Budget-Overview.pdf"
+    },
+    {
+      "text": "Strategic Plan",
+      "url": "https://wvbar.org/strategic-plan/"
+    },
+    {
+      "text": "Member Benefits >",
+      "url": "https://wvbar.org/members/member-benefits/"
+    },
+    {
+      "text": "ABA Retirement Fund",
+      "url": "https://wvbar.org/members/member-benefits/"
+    },
+    {
+      "text": "ALPS Attorney Match",
+      "url": "https://wvbar.org/members/alps-attorney-match/"
+    },
+    {
+      "text": "ALPS Legal Malpractice Insurance",
+      "url": "https://wvbar.org/alps-legal-malpractice-insurance/"
+    },
+    {
+      "text": "Bar ID Card",
+      "url": "https://apps.wv.gov/DMV/SelfService/StateBar"
+    },
+    {
+      "text": "Clio",
+      "url": "https://wvbar.org/members/clio/"
+    },
+    {
+      "text": "vLex Fastcase",
+      "url": "https://wvbar.org/members/fastcase/"
+    },
+    {
+      "text": "LawPay – Credit Card Processing",
+      "url": "https://wvbar.org/members/member-benefits/"
+    },
+    {
+      "text": "National Purchasing Partners (NPP)",
+      "url": "https://wvbar.org/members/member-benefits/"
+    },
+    {
+      "text": "Career Services",
+      "url": "https://wvbar.org/members/career-services-2/"
+    },
+    {
+      "text": "Volunteer Opportunities >",
+      "url": "https://wvbar.org/members/volunteer-opportunities/"
+    },
+    {
+      "text": "Bar Committees",
+      "url": "https://wvbar.org/committees/bar-committees/"
+    },
+    {
+      "text": "Tuesday Legal Connect ☎",
+      "url": "https://wvbar.org/public-information/get-legal-help/tuesday-legal-connect-for-attorneys/"
+    },
+    {
+      "text": "West Virginia Free Legal Answers Lawyer Registration",
+      "url": "http://wv.freelegalanswers.org/Attorneys/Account/Agreement"
+    },
+    {
+      "text": "Become a Mediator",
+      "url": "https://wvbar.org/members/become-a-mediator/"
+    },
+    {
+      "text": "E-Filing Training Seminar",
+      "url": "https://wvbar.org/the-supreme-court-of-appeals-of-west-virginias-courtplus-electronic-filing-system-training/"
+    },
+    {
+      "text": "Judicial & Lawyer Assistance Program",
+      "url": "http://www.wvjlap.org/"
+    },
+    {
+      "text": "More Than A Lawyer",
+      "url": "https://wvbar.org/mtal/"
+    },
+    {
+      "text": "Cyber Threats",
+      "url": "https://wvbar.org/members/cyber-threats/"
+    },
+    {
+      "text": "Membership Directory",
+      "url": "https://www.mywvbar.org/membership-search-members"
+    },
+    {
+      "text": "In Memory Of…",
+      "url": "https://wvbar.org/members/in-memory-of/"
+    },
+    {
+      "text": "Voluntary Fee Dispute Resolution Program",
+      "url": "https://wvbar.org/public-information/voluntary-fee-dispute-resolution-program/"
+    },
+    {
+      "text": "Members Login",
+      "url": "https://www.mywvbar.org/"
+    },
+    {
+      "text": "Fastcase Login",
+      "url": "https://wvbar.org/members/fastcase/"
+    },
+    {
+      "text": "Free Trust Accounting & Billing Software by Smokeball",
+      "url": "https://wvbar.org/free-trust-accounting-billing-software-by-smokeball/"
+    },
+    {
+      "text": "For The Public",
+      "url": "https://wvbar.org/public-information/"
+    },
+    {
+      "text": "Get Legal Help >",
+      "url": "https://wvbar.org/public-information/get-legal-help/"
+    },
+    {
+      "text": "Lawyer Referral Service",
+      "url": "http://www.wvlawyerreferral.org/#new_tab"
+    },
+    {
+      "text": "Tuesday Legal Connect ☎",
+      "url": "https://wvbar.org/public-information/get-legal-help/tuesday-legal-connect-for-attorneys/"
+    },
+    {
+      "text": "Veterans Legal Assistance",
+      "url": "https://wvlawyerreferral.org/pages/veteran"
+    },
+    {
+      "text": "West Virginia Free Legal Answers",
+      "url": "https://wvbar.org/public-information/get-legal-help/west-virginia-free-legal-answers/"
+    },
+    {
+      "text": "COVID-19: Help for West Virginians",
+      "url": "https://wvbar.org/wp-content/uploads/2021/06/COVID-19-Information-on-Programs-that-Help-002.pdf"
+    },
+    {
+      "text": "Public Programs >",
+      "url": "https://wvbar.org/public-information/public-programs/"
+    },
+    {
+      "text": "Lawyers Fund for Client Protection",
+      "url": "https://wvbar.org/public-information/lawyers-fund-for-client-protection/"
+    },
+    {
+      "text": "Mediator Search",
+      "url": "https://wvbar.org/public-information/mediator-search/"
+    },
+    {
+      "text": "Voluntary Fee Dispute Program",
+      "url": "https://wvbar.org/public-information/voluntary-fee-dispute-resolution-program/"
+    },
+    {
+      "text": "Unlawful Practice of Law >",
+      "url": "https://wvbar.org/public-information/unlawful-practice/"
+    },
+    {
+      "text": "Advisory Opinions",
+      "url": "https://wvbar.org/public-information/advisory-opinions/"
+    },
+    {
+      "text": "By-Laws Regarding Unlawful Practice of Law",
+      "url": "https://wvbar.org/public-information/unlawful-practice/"
+    },
+    {
+      "text": "Complaint Form",
+      "url": "https://wvbar.org/wp-content/uploads/2026/08/UPL-Complaint-uplcomplaintform1.docx"
+    },
+    {
+      "text": "Definition of the Practice of Law",
+      "url": "https://wvbar.org/definition-of-the-practice-of-law/"
+    },
+    {
+      "text": "Reporting of Possible Unlawful Practice of Law",
+      "url": "https://wvbar.org/public-information/unlawful-practice/reporting-of-possible-unlawful-practice-of-law/"
+    },
+    {
+      "text": "Rules for Admission to Practice in WV",
+      "url": "http://www.courtswv.gov/legal-community/rules-for-admission.html"
+    },
+    {
+      "text": "Basic Guidelines on the Unauthorized Practice of Law in Probate Administration",
+      "url": "https://wvbar.org/wp-content/uploads/2022/07/Updated-Basic-Guidelines-on-the-UPL-in-Probate-Administration.pdf"
+    },
+    {
+      "text": "Membership Directory Search",
+      "url": "https://www.mywvbar.org/membership-search-members"
+    },
+    {
+      "text": "PDF Directory",
+      "url": "https://wvbar.org/directory/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mywvbar.org/membership-search-members"
+    },
+    {
+      "text": "Courthouse & County Information",
+      "url": "https://wvbar.org/public-information/courthouses/"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "https://wvbar.org/public-information/membership-list-agreement/"
+    },
+    {
+      "text": "FOIA Requests",
+      "url": "https://wvbar.org/public-information/foia-requests/"
+    },
+    {
+      "text": "Medical Power of Attorney & Living Will Forms – Statutorily Approved",
+      "url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/"
+    },
+    {
+      "text": "File a Complaint",
+      "url": "https://storage.googleapis.com/msgsndr/Rgd68xOkcVdteTsBkf6O/media/6686b82ea3b05e6cf69a6567.pdf"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.mywvbar.org/events"
+    },
+    {
+      "text": "News",
+      "url": "https://wvbar.org/news/"
+    },
+    {
+      "text": "Publications",
+      "url": "https://wvbar.org/news/publications/"
+    },
+    {
+      "text": "Pro Hac Vice",
+      "url": "https://wvbar.org/pro-hac-vice/"
+    },
+    {
+      "text": "CLE",
+      "url": "https://wvbar.org/members/mcle/"
+    },
+    {
+      "text": "Related Links",
+      "url": "https://wvbar.org/related-links/"
+    },
+    {
+      "text": "WV Combined MPOA and Living Will form 2022",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf"
+    },
+    {
+      "text": "WV Living Will 2022 form",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf"
+    },
+    {
+      "text": "WV Medical Power of Attorney form 2022",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf"
+    },
+    {
+      "text": "Power of Attorney Form",
+      "url": "https://wvbar.org/wp-content/uploads/2020/03/App-D-WV-POA-Form-2020.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://wvbar.org/wp-content/uploads/2020/03/App-D-WV-POA-Form-2020.pdf"
+    },
+    {
+      "text": "Affidavit on Disposition of Remains state form 2020",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/Affidavit-on-Disposition-of-Remains-state-form-2020.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/Affidavit-on-Disposition-of-Remains-state-form-2020.pdf"
+    },
+    {
+      "text": "2026 Interest Rate on Judgments and Decrees",
+      "url": "https://wvbar.org/2026-interest-rate-on-judgments-and-decrees/"
+    },
+    {
+      "text": "Click Here for More News",
+      "url": "https://wvbar.org/category/news/"
+    },
+    {
+      "text": "",
+      "url": "https://wvbar.org/wv-state-bar-office-access-during-covid-19/"
+    },
+    {
+      "text": "",
+      "url": "https://wvbar.org/news/publications/wv-lawyer-magazine/"
+    },
+    {
+      "text": "Bar Blast – October 13, 2026",
+      "url": "https://conta.cc/4hNSqFI"
+    },
+    {
+      "text": "Bar Blast – October 6, 2026",
+      "url": "https://conta.cc/47Hl1rn"
+    },
+    {
+      "text": "Bar Blast – September 29, 2026",
+      "url": "https://conta.cc/4iOKztC"
+    },
+    {
+      "text": "Bar Blast – September 22, 2026",
+      "url": "https://conta.cc/4yi1vNZ"
+    },
+    {
+      "text": "Bar Blast – September 15, 2026",
+      "url": "https://conta.cc/4rlbbof"
+    },
+    {
+      "text": "Bar Blast – September 8, 2026",
+      "url": "https://conta.cc/4qVW4kP"
+    },
+    {
+      "text": "Bar Blast – September 1, 2026",
+      "url": "https://conta.cc/4xuvkKP"
+    },
+    {
+      "text": "Bar Blast – August 25, 2026",
+      "url": "https://conta.cc/3SclhuG"
+    },
+    {
+      "text": "More",
+      "url": "https://wvbar.org/category/bar-blast/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/WVStateBar/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/wvstatebar"
+    },
+    {
+      "text": "American Bar Association",
+      "url": "http://www.americanbar.org/aba.html"
+    },
+    {
+      "text": "Legal Aid of West Virginia",
+      "url": "https://legalaidwv.org/"
+    },
+    {
+      "text": "Public Defender Services",
+      "url": "http://www.pds.wv.gov/"
+    },
+    {
+      "text": "State Bar Young Lawyer Section",
+      "url": "http://www.wvyounglawyers.com/"
+    },
+    {
+      "text": "Supreme Court of Appeals of WV",
+      "url": "http://www.courtswv.gov/"
+    },
+    {
+      "text": "US Bankruptcy – NDWV",
+      "url": "http://www.wvnb.uscourts.gov/"
+    },
+    {
+      "text": "US Bankruptcy – SDWV",
+      "url": "http://www.wvsb.uscourts.gov/"
+    },
+    {
+      "text": "US Court of Appeals-4th Circuit",
+      "url": "http://www.ca4.uscourts.gov/"
+    },
+    {
+      "text": "US District Court – NDWV",
+      "url": "http://www.wvnd.uscourts.gov/"
+    },
+    {
+      "text": "US District Court – SDWV",
+      "url": "http://www.wvsd.uscourts.gov/"
+    },
+    {
+      "text": "WV Attorney General",
+      "url": "http://www.wvago.gov/"
+    },
+    {
+      "text": "WV Bar Foundation",
+      "url": "http://www.wvbarfound.org/"
+    },
+    {
+      "text": "WV Board of Law Examiners",
+      "url": "http://www.courtswv.gov/legal-community/board-of-law-examiners.html"
+    },
+    {
+      "text": "WV Continuing Legal Education",
+      "url": "http://wvcle.org/"
+    },
+    {
+      "text": "WV Judicial & Lawyer Assistance Program",
+      "url": "http://wvjlap.org/"
+    },
+    {
+      "text": "WV Office of Disciplinary Counsel",
+      "url": "http://www.wvodc.org/"
+    },
+    {
+      "text": "WVU College of Law",
+      "url": "http://law.wvu.edu/"
+    },
+    {
+      "text": "The West Virginia State Bar",
+      "url": "https://wvbar.org/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://wvbar.org/about-us/privacy-policy"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://wvbar.org/about-us/terms-of-use"
+    }
+  ]
+}

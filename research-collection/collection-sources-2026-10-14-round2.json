@@ -1,0 +1,464 @@
+[
+  {
+    "state": "Alabama",
+    "publisher": "Alabama Administrative Office of Courts",
+    "url": "https://eforms.alacourt.gov/small-claims/",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "sm-1-statement-of-claim",
+        "title": "Statement of Claim (Complaint) - General",
+        "family_id": "small-claims-complaint",
+        "identity": "STATEMENT OF CLAIM.*COMPLAINT",
+        "form_id": "SM-1",
+        "max": 1
+      },
+      {
+        "pattern": "sm-2-statement-of-claim",
+        "title": "Statement of Claim (Complaint) for Specific Property",
+        "family_id": "small-claims-replevin",
+        "identity": "SPECIFIC PROPERTY",
+        "form_id": "SM-2",
+        "max": 1
+      },
+      {
+        "pattern": "sm-3-defendant-s-answer",
+        "title": "Defendant's Answer",
+        "family_id": "small-claims-answer",
+        "identity": "DEFENDANT.*ANSWER",
+        "form_id": "SM-3",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Arkansas",
+    "publisher": "Arkansas Judiciary",
+    "url": "https://arcourts.gov/forms-and-publications/court-forms/probate-division/forms",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "Form%202\\.pdf",
+        "title": "Petition for Appointment of Administrator",
+        "family_id": "probate-petition",
+        "identity": "PETITION FOR APPOINTMENT",
+        "max": 1
+      },
+      {
+        "pattern": "Form%203\\.pdf",
+        "title": "Petition for Probate of Will and Appointment of Personal Representative",
+        "family_id": "probate-petition",
+        "identity": "PETITION FOR PROBATE OF WILL",
+        "max": 1
+      },
+      {
+        "pattern": "Form%2023\\.pdf",
+        "title": "Affidavit for Collection of Small Estate by Distributee",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*SMALL ESTATE",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Delaware",
+    "publisher": "Delaware Department of Health and Social Services",
+    "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "DE-Advanced-Health-Care-Directive\\.9\\.14\\.26\\.pdf",
+        "title": "Advance Health-Care Directive (publisher September 2026 file)",
+        "family_id": "combined-advance-directives",
+        "identity": "ADVANCE HEALTH.CARE DIRECTIVE",
+        "max": 1
+      },
+      {
+        "pattern": "Supported-Decision-Making-Agreement\\.pdf",
+        "title": "Supported Decision-Making Agreement",
+        "family_id": "supported-decision-making-agreement",
+        "identity": "SUPPORTED DECISION.MAKING",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "publisher": "Miami-Dade County Clerk of the Court and Comptroller",
+    "url": "https://www.miamidadeclerk.gov/clerk/small-claims.page",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "333-Web\\.pdf",
+        "title": "Small Claims Statement of Claim - Miami-Dade County",
+        "family_id": "small-claims-complaint",
+        "identity": "STATEMENT OF CLAIM",
+        "max": 1
+      },
+      {
+        "pattern": "423-Web\\.pdf",
+        "title": "Small Claims Summons / Notice to Appear - Miami-Dade County",
+        "family_id": "small-claims-summons",
+        "identity": "SUMMONS.*NOTICE TO APPEAR",
+        "max": 1
+      }
+    ],
+    "jurisdiction": "Florida; Miami-Dade County",
+    "flags": [
+      "county-specific-form; local-filing-review-pending"
+    ]
+  },
+  {
+    "state": "Georgia",
+    "publisher": "Supreme Court of Georgia",
+    "url": "https://www.gasupreme.us/probate-court-standard-forms/",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "GPCSF3_0721\\.pdf",
+        "title": "Petition for Letters of Administration",
+        "family_id": "probate-petition",
+        "identity": "PETITION FOR LETTERS OF ADMINISTRATION",
+        "max": 1
+      },
+      {
+        "pattern": "GPCSF5_0721\\.pdf",
+        "title": "Petition to Probate Will in Solemn Form",
+        "family_id": "probate-petition",
+        "identity": "PETITION TO PROBATE WILL IN SOLEMN FORM",
+        "max": 1
+      },
+      {
+        "pattern": "GPCSF9_0721\\.pdf",
+        "title": "Petition for Order Declaring No Administration Necessary",
+        "family_id": "small-estate-petition",
+        "identity": "NO ADMINISTRATION NECESSARY",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Idaho",
+    "publisher": "Idaho Court Assistance Office",
+    "url": "https://courtselfhelp.idaho.gov/Forms/claims",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "/CAO_SC_1-1\\.pdf",
+        "title": "Small Claims Summons",
+        "family_id": "small-claims-summons",
+        "identity": "SUMMONS",
+        "form_id": "CAO SC 1-1",
+        "max": 1
+      },
+      {
+        "pattern": "/CAO_SC_1-2\\.pdf",
+        "title": "Small Claims Claim",
+        "family_id": "small-claims-complaint",
+        "identity": "CLAIM PAGE 1",
+        "form_id": "CAO SC 1-2",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Iowa",
+    "publisher": "Iowa Judicial Branch",
+    "url": "https://www.iowacourts.gov/for-the-public/court-forms/filters/4002ed8c902f43bdb947ea697c5f0931",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "cc85952321f54914bf6ba14535b8ac9d/download",
+        "title": "Instructions for Filing a Small Claims Action for Money Judgment",
+        "family_id": "small-claims-instructions",
+        "identity": "INSTRUCTIONS.*SMALL CLAIMS",
+        "max": 1
+      },
+      {
+        "pattern": "71addedc43dc4d248ef5bac4a9aa28ef/download",
+        "title": "Instructions for Defendant Responding to a Small Claims Action",
+        "family_id": "small-claims-defense-instructions",
+        "identity": "INSTRUCTIONS.*DEFENDANT",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Kansas",
+    "publisher": "Kansas Judicial Council",
+    "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-681-431",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "(?:\\.pdf|DownloadDocument|ShowDocument)",
+        "title": "Small Claims Petition",
+        "family_id": "small-claims-complaint",
+        "identity": "PETITION",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Louisiana",
+    "publisher": "Louisiana Secretary of State",
+    "url": "https://www.sos.la.gov/media/wmjm0vsi/living-will-declaration-form.pdf",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "Living Will Declaration",
+        "family_id": "health-care-directive",
+        "identity": "DECLARATION",
+        "max": 1
+      }
+    ],
+    "direct": true
+  },
+  {
+    "state": "Minnesota",
+    "publisher": "Minnesota Attorney General",
+    "url": "https://www.ag.state.mn.us/consumer/Publications/PowersOfAttorney.asp",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "/PowerOfAtty\\.pdf",
+        "title": "Statutory Short Form Power of Attorney",
+        "family_id": "financial-power-of-attorney",
+        "identity": "STATUTORY SHORT FORM POWER OF ATTORNEY",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Mississippi",
+    "publisher": "Mississippi Judiciary",
+    "url": "https://courts.ms.gov/archive/courtinterpreter/Translated%20Forms/Sample%20justice%20court%20civil%20forms%20(7-2-2024).pdf",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "Sample Justice Court Civil Forms (July 2, 2024 bundle)",
+        "family_id": "sample-civil-court-forms",
+        "identity": "JUSTICE COURT",
+        "max": 1
+      }
+    ],
+    "direct": true,
+    "flags": [
+      "sample-bundle; individual-form-and-local-court-review-pending"
+    ]
+  },
+  {
+    "state": "Missouri",
+    "publisher": "Missouri Courts ? 13th Judicial Circuit",
+    "url": "https://www.courts.mo.gov/hosted/circuit13/forms/Civil/CIVIL_SmallClaimsCourtHandbook.pdf",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "Small Claims Court Handbook - 13th Judicial Circuit",
+        "family_id": "small-claims-instructions",
+        "identity": "SMALL CLAIMS COURT",
+        "max": 1
+      }
+    ],
+    "direct": true,
+    "jurisdiction": "Missouri; 13th Judicial Circuit",
+    "flags": [
+      "circuit-specific-supporting-guide"
+    ]
+  },
+  {
+    "state": "Nevada",
+    "publisher": "Nevada State Self-Help Center",
+    "url": "https://selfhelp.nvcourts.gov/forms/probate-forms",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "affidavit-entitlement-pdf-fillable\\.pdf",
+        "title": "Affidavit of Entitlement",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT OF ENTITLEMENT",
+        "max": 1
+      },
+      {
+        "pattern": "Probate-Generic-Petition-fillable\\.pdf",
+        "title": "Generic Probate Petition",
+        "family_id": "probate-petition",
+        "identity": "PETITION",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "New Hampshire",
+    "publisher": "New Hampshire Judicial Branch",
+    "url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2370-de-smallclaimcomplaint.pdf",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "Small Claim Complaint (form marked for e-Filing)",
+        "family_id": "small-claims-complaint",
+        "identity": "SMALL CLAIM COMPLAINT",
+        "form_id": "NHJB-2370-De",
+        "max": 1
+      }
+    ],
+    "direct": true,
+    "flags": [
+      "publisher-form-marked-for-efiling; current-electronic-workflow-review-pending"
+    ]
+  },
+  {
+    "state": "New Mexico",
+    "publisher": "New Mexico Courts Self-Representation",
+    "url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "/4B-301-Application-for-informal-appointment.*\\.pdf",
+        "title": "Application for Informal Appointment of Personal Representative (No Will)",
+        "family_id": "probate-petition",
+        "identity": "APPLICATION FOR INFORMAL APPOINTMENT",
+        "form_id": "4B-301",
+        "max": 1
+      },
+      {
+        "pattern": "/4B-601-Inventory\\.pdf",
+        "title": "Inventory",
+        "family_id": "inventory-and-appraisal",
+        "identity": "INVENTORY",
+        "form_id": "4B-601",
+        "max": 1
+      },
+      {
+        "pattern": "/4B-702-Verified-small-estate.*\\.pdf",
+        "title": "Verified Small Estate Closing Statement of the Personal Representative",
+        "family_id": "small-estate-closing-statement",
+        "identity": "VERIFIED SMALL ESTATE CLOSING STATEMENT",
+        "form_id": "4B-702",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Ohio",
+    "publisher": "Supreme Court of Ohio",
+    "url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "/decedentEstate/2_0\\.pdf",
+        "title": "Application to Probate Will",
+        "family_id": "probate-petition",
+        "identity": "APPLICATION TO PROBATE WILL",
+        "max": 1
+      },
+      {
+        "pattern": "/decedentEstate/4_0\\.pdf",
+        "title": "Application for Authority to Administer Estate",
+        "family_id": "probate-petition",
+        "identity": "APPLICATION FOR AUTHORITY TO ADMINISTER ESTATE",
+        "max": 1
+      },
+      {
+        "pattern": "/decedentEstate/6_0\\.pdf",
+        "title": "Inventory and Appraisal",
+        "family_id": "inventory-and-appraisal",
+        "identity": "INVENTORY AND APPRAISAL",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Oklahoma",
+    "publisher": "Oklahoma Department of Human Services",
+    "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/87-07W_AdvanceDirectiveforHealthCare_as_12292020.pdf",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "Advance Directive for Health Care",
+        "family_id": "combined-advance-directives",
+        "identity": "ADVANCE DIRECTIVE FOR HEALTH CARE",
+        "max": 1
+      }
+    ],
+    "direct": true
+  },
+  {
+    "state": "Oklahoma",
+    "publisher": "Oklahoma Department of Human Services",
+    "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/99-63_HealthCarePowerofAttorney_cap_05172022.pdf",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "Health Care Power of Attorney",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "HEALTH CARE POWER OF ATTORNEY",
+        "max": 1
+      }
+    ],
+    "direct": true
+  },
+  {
+    "state": "Rhode Island",
+    "publisher": "Rhode Island Department of Health",
+    "url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/forms/legal/DurablePowerOfAttorneyForHealthcare.pdf",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "Durable Power of Attorney for Healthcare",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "DURABLE POWER OF ATTORNEY.*HEALTH",
+        "max": 1
+      }
+    ],
+    "direct": true
+  },
+  {
+    "state": "South Dakota",
+    "publisher": "South Dakota Unified Judicial System",
+    "url": "https://ujs.sd.gov/self-help/pro-se-forms/small-claims-forms/",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "/ujs-008-plaintiffs-statement-of-claim/",
+        "title": "Plaintiff's Statement of Small Claims",
+        "family_id": "small-claims-complaint",
+        "identity": "STATEMENT OF SMALL CLAIMS",
+        "max": 1,
+        "form_id": "UJS-008"
+      },
+      {
+        "pattern": "/guide-to-small-claims-court/",
+        "title": "Guide to Small Claims Court",
+        "family_id": "small-claims-instructions",
+        "identity": "SMALL CLAIMS",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Utah",
+    "publisher": "Utah State Courts",
+    "url": "https://legacy.utcourts.gov/resources/forms/probate/affidavit_personal_property.pdf",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT FOR COLLECTING PERSONAL PROPERTY",
+        "max": 1
+      }
+    ],
+    "direct": true,
+    "flags": [
+      "legacy-publisher-endpoint; current-form-currency-review-pending"
+    ]
+  }
+]

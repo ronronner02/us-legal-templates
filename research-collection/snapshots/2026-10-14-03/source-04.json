@@ -1,0 +1,96 @@
+{
+  "state": "West Virginia",
+  "publisher": "West Virginia Public Employees Insurance Agency (source host)",
+  "url": "https://peia.wv.gov/FAQ/Documents/COMBINED_MPOA_LIVING_WILL_WV.pdf",
+  "category": "Estate and personal planning",
+  "direct": true,
+  "rules": [
+    {
+      "pattern": ".*",
+      "title": "Combined Medical Power of Attorney and Living Will",
+      "family_id": "combined-advance-directives",
+      "identity": "MEDICAL POWER OF ATTORNEY.*LIVING WILL",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://peia.wv.gov/FAQ/Documents/COMBINED_MPOA_LIVING_WILL_WV.pdf",
+    "final_url": "https://peia.wv.gov/FAQ/Documents/COMBINED_MPOA_LIVING_WILL_WV.pdf",
+    "http_status": 404,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:05:38.765Z",
+    "etag": "W/\"1791954247\"",
+    "last_modified": "Wed, 14 Oct 2026 05:04:07 GMT",
+    "content_length": "8567",
+    "sha256": "8a50202451f16f5fb357340e3511fc5e24c8e845304991e4a61984c37512d658",
+    "title": "Page not found | Public Employees Insurance Agency",
+    "retrieval_status": "http-404",
+    "local_archive_path": "archive/2026-10-14-03/04-west-virginia-source.pdf"
+  },
+  "source_attempts": [
+    {
+      "url": "https://peia.wv.gov/FAQ/Documents/COMBINED_MPOA_LIVING_WILL_WV.pdf",
+      "final_url": "https://peia.wv.gov/FAQ/Documents/COMBINED_MPOA_LIVING_WILL_WV.pdf",
+      "http_status": 404,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:05:38.765Z",
+      "etag": "W/\"1791954247\"",
+      "last_modified": "Wed, 14 Oct 2026 05:04:07 GMT",
+      "content_length": "8567",
+      "sha256": "8a50202451f16f5fb357340e3511fc5e24c8e845304991e4a61984c37512d658",
+      "title": "Page not found | Public Employees Insurance Agency",
+      "retrieval_status": "http-404"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": ".*",
+      "title": "Combined Medical Power of Attorney and Living Will",
+      "family_id": "combined-advance-directives",
+      "identity": "MEDICAL POWER OF ATTORNEY.*LIVING WILL",
+      "max": 1,
+      "url": "https://peia.wv.gov/FAQ/Documents/COMBINED_MPOA_LIVING_WILL_WV.pdf",
+      "link_text": "Combined Medical Power of Attorney and Living Will",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://peia.wv.gov/FAQ/Documents/COMBINED_MPOA_LIVING_WILL_WV.pdf",
+        "final_url": "https://peia.wv.gov/FAQ/Documents/COMBINED_MPOA_LIVING_WILL_WV.pdf",
+        "http_status": 404,
+        "content_type": "text/html; charset=utf-8",
+        "retrieved_at": "2026-10-14T09:05:38.765Z",
+        "etag": "W/\"1791954247\"",
+        "last_modified": "Wed, 14 Oct 2026 05:04:07 GMT",
+        "content_length": "8567",
+        "sha256": "8a50202451f16f5fb357340e3511fc5e24c8e845304991e4a61984c37512d658",
+        "title": "Page not found | Public Employees Insurance Agency",
+        "retrieval_status": "http-404"
+      },
+      "attempts": [
+        {
+          "url": "https://peia.wv.gov/FAQ/Documents/COMBINED_MPOA_LIVING_WILL_WV.pdf",
+          "final_url": "https://peia.wv.gov/FAQ/Documents/COMBINED_MPOA_LIVING_WILL_WV.pdf",
+          "http_status": 404,
+          "content_type": "text/html; charset=utf-8",
+          "retrieved_at": "2026-10-14T09:05:38.765Z",
+          "etag": "W/\"1791954247\"",
+          "last_modified": "Wed, 14 Oct 2026 05:04:07 GMT",
+          "content_length": "8567",
+          "sha256": "8a50202451f16f5fb357340e3511fc5e24c8e845304991e4a61984c37512d658",
+          "title": "Page not found | Public Employees Insurance Agency",
+          "retrieval_status": "http-404"
+        }
+      ],
+      "downloaded": false,
+      "status": "http-404"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Combined Medical Power of Attorney and Living Will",
+      "url": "https://peia.wv.gov/FAQ/Documents/COMBINED_MPOA_LIVING_WILL_WV.pdf"
+    }
+  ]
+}

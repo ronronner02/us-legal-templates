@@ -1,0 +1,2428 @@
+[
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/mutual-nda/",
+      "final_url": "https://commonpaper.com/standards/mutual-nda/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:02.176Z",
+      "sha256": "ffb91bc0792aa297ea3c7bb0b5a3542805df9d3a952f40fdb573688ad99a25a3",
+      "title": "Free Mutual NDA Template used by 2,000+ companies",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/1-common-paper-standards-mutual-nda.html"
+    },
+    "version_evidence": [
+      " online. Does that mean it will change? Version 1 of this agreement will remain unchanged and hosted at commonpaper.com/standards/mutual-nda/1.0. Over time, we will create new ver",
+      "ements are free to use and modify under CC BY 4.0. Configuration Guide Start over × (function($){ $('.start-over').click(function () { var oldSrc = $(this).attr('data-source')",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions.",
+      " Common Paper Mutual NDA Standard Terms Version 1.0 posted at commonpaper.com/standards/mutual-nda/1.0 (“Standard Terms”). A copy of the Standard Terms is attached for convenience",
+      " Paper Mutual Non-Disclosure Agreement (Version 1.0) free to use under CC BY 4.0. The Mutual NDA, annotated This Cover Page (“Cover Page”) The Cover Page contains the details of e",
+      " Common Paper Mutual NDA Standard Terms Version 1.0 posted at commonpaper.com/standards/mutual-nda/1.0 (“Standard Terms”) The NDA incorporates the Standard Terms by reference, wit",
+      " of the other party.” Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/mutual-nda/1.0/mutual-nda-cover-page-and-standard-terms-pdf",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2021/12/Mutual-NDA-public-2page.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:03.723Z",
+        "sha256": "8d31fe0e0eb96649b180ec4f6eec84617ff2d499576f8dccde981e58c5a829d6",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "PDF",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/1-1-standards-mutual-nda-1-0-mutual-nda-cover-page-and-standard-terms-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/cloud-service-agreement/",
+      "final_url": "https://commonpaper.com/standards/cloud-service-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:03.994Z",
+      "sha256": "2c2ba19db97e9b987bb3213517bce3202581a00992414f9a7a3ab39ff24b9751",
+      "title": "Free Cloud Service Agreement Template for B2B SaaS",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/2-common-paper-standards-cloud-service-agreement.html"
+    },
+    "version_evidence": [
+      "l list of all CSA versions here. How is Version 2 different from previous versions? CSA v2 adds expanded support for product trials/pilots, more flexibility for defining payment t",
+      "ements are free to use and modify under CC BY 4.0. Configuration Guide Start over × (function($){ $('.start-over').click(function () { var oldSrc = $(this).attr('data-source')",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions.",
+      "mmon Paper Cloud Service Standard Terms Version 2.1 posted at commonpaper.com/standards/cloud-service-agreement/2.1, which are incorporated by reference. If there is any inconsist",
+      " Cloud Service Agreement Standard Terms Version 2.1, which are posted at https://commonpaper.com/standards/cloud-service-agreement/2.1/. “Usage Data” means data and information ab",
+      ". Common Paper Cloud Service Agreement (Version 2.1) free to use under CC BY 4.0. The Cloud Service Agreement, annotated Order Form The Order Form contains the business details th",
+      "the Language Library. Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement",
+      "mmon Paper Cloud Service Standard Terms Version 2.1 posted at commonpaper.com/standards/cloud-service-agreement/2.1 CSA v2 incorporates the Standard Terms by reference, with a lin",
+      "pply to the contract. Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/cloud-service-agreement/2.1/cover-page-and-standard-terms-docx/",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2024/11/Common-Paper-Cloud-Service-Agreement-v2.1-cover-page-and-standard-terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:40:05.212Z",
+        "sha256": "cb72dad74b3af676307ffc7359f616ee696481a3928d55f7c5fdae490b943587",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "download the full version of the agreement here",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/2-1-standards-cloud-service-agreement-2-1-cover-page-and-standard-terms-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/design-partner-agreement/",
+      "final_url": "https://commonpaper.com/standards/design-partner-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:05.522Z",
+      "sha256": "2a9ab67285d1c9963b3aa5ef9235ceca131e9705d65f338f65c9338ae5d8318c",
+      "title": "Free Design Partner Agreement",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/3-common-paper-standards-design-partner-agreement.html"
+    },
+    "version_evidence": [
+      " online. Does that mean it will change? Version 1.3 of this agreement will remain unchanged and hosted at commonpaper.com/standards/design-partner-agreement/1.3. Over time, we wil",
+      "ements are free to use and modify under CC BY 4.0. Configuration Guide Start over × (function($){ $('.start-over').click(function () { var oldSrc = $(this).attr('data-source')",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions.",
+      "mon Paper Design Partner Standard Terms Version 1.3 posted at commonpaper.com/standards/design-partner-agreement/1.3 (“Standard Terms ”), which is incorporated by reference. If th",
+      " Common Paper Design Partner Agreement (Version 1.3) free to use under CC BY 4.0. The Design Partner Agreement, annotated Cover Page The Cover Page contains the details of each sp",
+      "mon Paper Design Partner Standard Terms Version 1.3 posted at commonpaper.com/standards/design-partner-agreement/1.3 (“Standard Terms”) The Design Partner Agreement incorporates t",
+      "assignment is void.'” Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/design-partner-agreement/1.3/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2025/05/Common-Paper-Design-Partner-Agreement-v1.3-cover-page-and-standard-terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:40:06.025Z",
+        "sha256": "c711cef731218c16876898d1cd281351fdbdd256b274172ba6d01d6a355707dd",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/3-1-standards-design-partner-agreement-1-3-cover-page-and-standard-terms-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/data-processing-agreement/",
+      "final_url": "https://commonpaper.com/standards/data-processing-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:06.295Z",
+      "sha256": "d4ec827a036454fec24288da66635d380d03ab124eed37ecd75d4e4d80baa8e9",
+      "title": "Free Standard Data Processing Agreement",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/4-common-paper-standards-data-processing-agreement.html"
+    },
+    "version_evidence": [
+      " online. Does that mean it will change? Version 1.1 of this agreement will remain unchanged and hosted at commonpaper.com/standards/data-processing-agreement/1.1. Over time, we wi",
+      "ements are free to use and modify under CC BY 4.0. What is GDPR? GDPR or General Data Protection Regulation is a regulation that protects an individual’s personal data in Euro",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions.",
+      "(2) the Common Paper DPA Standard Terms Version 1.1 posted at commonpaper.com/standards/data-processing-agreement/1.1/ (“DPA Standard Terms”), which is incorporated by reference. ",
+      "Common Paper Data Processing Agreement (Version 1.1) free to use under CC BY 4.0. The DPA, annotated USING THIS DPA The Common Paper DPA supports two kinds of data processing rela",
+      "es. The Common Paper DPA Standard Terms Version 1 The DPA incorporates the DPA Standard Terms by reference, with a link to commonpaper.com/standards/data-processing-agreement/1.1.",
+      "er or its Affiliates. Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/data-processing-agreement/1.1/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2026/08/Common-Paper-DPA-v1.1-cover-page-and-standard-terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:40:07.322Z",
+        "sha256": "cb35f3cc70cb6d24955f08b7ae09b899d6cf054ef3b56f1f9e2cf0cae1e3dbf1",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/4-1-standards-data-processing-agreement-1-1-cover-page-and-standard-terms-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/business-associate-agreement/",
+      "final_url": "https://commonpaper.com/standards/business-associate-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:07.569Z",
+      "sha256": "6ee003ece03ee42ba7d54fedab3031d11ca08f9054cc3fc4d590c2d3fdd299b1",
+      "title": "Business Associate Agreement - Common Paper",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/5-common-paper-standards-business-associate-agreement.html"
+    },
+    "version_evidence": [
+      " online. Does that mean it will change? Version 1 of this agreement will remain unchanged and hosted at commonpaper.com/standards/business-associate-agreement/1.0. Over time, we w",
+      "ements are free to use and modify under CC BY 4.0. Configuration Guide Start over × (function($){ $('.start-over').click(function () { var oldSrc = $(this).attr('data-source')",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions."
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/business-associate-agreement/1.0/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2023/08/Common-Paper-Business-Associate-Agreement-v1-cover-page-and-standard-terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:40:08.772Z",
+        "sha256": "f582f7eac4539471db8ee439231cfb95e71776b8a7fb370a51f52022679b14a5",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/5-1-standards-business-associate-agreement-1-0-cover-page-and-standard-terms-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/professional-services-agreement/",
+      "final_url": "https://commonpaper.com/standards/professional-services-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:09.046Z",
+      "sha256": "3234ca3402aac78e3a3a9a542178b4f6f4a8864d7b9d0acb49ce942901c668ac",
+      "title": "Professional Services Agreement - Common Paper",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/6-common-paper-standards-professional-services-agreement.html"
+    },
+    "version_evidence": [
+      " online. Does that mean it will change? Version 1 of this agreement will remain unchanged and hosted at commonpaper.com/standards/professional-services-agreement/1.0. Over time, w",
+      "ements are free to use and modify under CC BY 4.0. Configuration Guide Start over × (function($){ $('.start-over').click(function () { var oldSrc = $(this).attr('data-source')",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions.",
+      "er Professional Services Standard Terms Version 1.1 posted at commonpaper.com/standards/professional-services-agreement/1.1 (“ Standard Terms”), which is incorporated by reference",
+      " Paper Professional Services Agreement (Version 1.1) free to use under CC BY 4.0. The PSA, annotated SOW The SOW, or Statement of Work, contains the business details that you can ",
+      "er Professional Services Standard Terms Version 1.1 The Professional Services Agreement incorporates the Standard Terms by reference, with a link to commonpaper.com/standards/prof",
+      "on on the Cover Page. Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/professional-services-agreement/1.1/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2023/12/Common-Paper-Professional-Services-Agreement-v1.1-cover-page-and-standard-terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:40:10.055Z",
+        "sha256": "d8cc13f589096d1b2afc1917756adea450cd7d966779633613fbecc4dc45d3ba",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/6-1-standards-professional-services-agreement-1-1-cover-page-and-standard-terms-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/ai-addendum/",
+      "final_url": "https://commonpaper.com/standards/ai-addendum/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:10.260Z",
+      "sha256": "956a0dfe85433b86ae86ad140038fc50e7d3d52e7aa4d2811c0b93f30c9c273f",
+      "title": "AI Addendum - Common Paper",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/7-common-paper-standards-ai-addendum.html"
+    },
+    "version_evidence": [
+      "ements are free to use and modify under CC BY 4.0. Downloads This agreement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Stan"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/ai-addendum/1.0/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2025/08/Common-Paper-AI-Addendum-v1.0-cover-page-and-standard-terms-amendment.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:40:10.706Z",
+        "sha256": "1745ce987355a3e21a9ffeb0887e579f39dfd9b058880c6e637aff4fb3195e0e",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/7-1-standards-ai-addendum-1-0-cover-page-and-standard-terms-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/partnership-agreement/",
+      "final_url": "https://commonpaper.com/standards/partnership-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:10.955Z",
+      "sha256": "149e2b2c0c74ca85cd9ee06513e4f3d312dc35c55496b518a77dd79502a5941a",
+      "title": "Partnership Agreement - Common Paper",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/8-common-paper-standards-partnership-agreement.html"
+    },
+    "version_evidence": [
+      " online. Does that mean it will change? Version 1 of this agreement will remain unchanged and hosted at commonpaper.com/standards/partnership-agreement/1.0. Over time, we will cre",
+      "ements are free to use and modify under CC BY 4.0. Configuration Guide Start over × (function($){ $('.start-over').click(function () { var oldSrc = $(this).attr('data-source')",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions.",
+      "Common Paper Partnership Standard Terms Version 1.1 posted at commonpaper.com/standards/partnership-agreement/1.1, which is incorporated by reference. If there is any inconsistenc",
+      "Common Paper Partnership Standard Terms Version 1.1, which are posted at commonpaper.com/standards/partnership-agreement/1.1. “Variable” means a word or phrase in the Standard Ter",
+      ". Common Paper Cloud Service Agreement (Version 1.1) free to use under CC BY 4.0. The Partnership Agreement, annotated This Cover Page, which includes Business Terms and legal Key",
+      "Common Paper Partnership Standard Terms Version 1.1 posted at… The Partnership Agreement incorporates the Standard Terms by reference, with a link to commonpaper.com/standards/par",
+      "pply to the contract. Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/partnership-agreement/1.1/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2023/12/Common-Paper-Partnership-Agreement-v1.1-cover-page-and-standard-terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:40:11.422Z",
+        "sha256": "ae3023105755ecd9b2312bf53c216319fd0bc79830c4627611a7ac5b0a206895",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/8-1-standards-partnership-agreement-1-1-cover-page-and-standard-terms-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/software-license-agreement/",
+      "final_url": "https://commonpaper.com/standards/software-license-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:11.703Z",
+      "sha256": "3e37ba4c9e989cca6de166238ea40d8bb029d4236b21e4b70cfccb426f1c1771",
+      "title": "Software License Agreement - Common Paper",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/9-common-paper-standards-software-license-agreement.html"
+    },
+    "version_evidence": [
+      "ements are free to use and modify under CC BY 4.0. Configuration Guide Start over × (function($){ $('.start-over').click(function () { var oldSrc = $(this).attr('data-source')",
+      "greement is free to use or modify under CC BY 4.0. The agreement is available in the following formats. Configuration guide Set up this agreement by answering a few questions.",
+      "ommon Paper Software License Agreement (Version 1.1) free to use under CC BY 4.0. Key Terms Software License Agreement USING THE FRAMEWORK TERMS The Framework Terms have 2 parts: ",
+      "n Paper Software License Standard Terms Version 1.1 posted at https://commonpaper.com/standards/software-license-agreement/1.1 which are incorporated by reference. If there is any",
+      "n Paper Software License Standard Terms Version 1.1, which are posted at https://commonpaper.com/standards/software-license-agreement/1.1. “Updates” means updates and maintenance ",
+      "ommon Paper Software License Agreement (Version 1.1) free to use under CC BY 4.0. Order Form The Order Form contains the business details that you can customize from deal to deal.",
+      "e to suit your needs. Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement",
+      "n Paper Software License Standard Terms Version 1.1 This incorporates the Standard Terms by reference, with a link to commonpaper.com/standards/software-license-agreement/1.1. Eac",
+      "pply to the contract. Free to use under CC BY 4.0 All Common Paper agreements are released under the Creative Commons CC BY 4.0 license, which enables you to use the agreement"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Creative Commons CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/software-license-agreement/1.1/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2025/02/Common-Paper-Software-License-Agreement-v1.1-Standard-Terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:40:12.821Z",
+        "sha256": "0a073e0e2087811749bb06215bc9490b9a6a067c5449ed3516bb9d94c0497834",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/9-1-standards-software-license-agreement-1-1-cover-page-and-standard-terms-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Common Paper",
+    "practice_area": "Business / technology",
+    "jurisdiction": "Governing law selection required",
+    "source": {
+      "url": "https://commonpaper.com/standards/pilot-agreement/",
+      "final_url": "https://commonpaper.com/standards/pilot-agreement/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:13.038Z",
+      "sha256": "854ae28519bba540ffd22604770d7d0cd3d304c38ee6978fd5489b3f4f7b52a9",
+      "title": "Pilot Agreement - Common Paper",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/10-common-paper-standards-pilot-agreement.html"
+    },
+    "version_evidence": [
+      "ements are free to use and modify under CC BY 4.0. Available formats This agreement is free to use or modify under CC BY 4.0. The agreement is available in the following forma"
+    ],
+    "license_links": [
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://commonpaper.com/standards/pilot-agreement/1.1/cover-page-and-standard-terms-docx",
+        "final_url": "https://commonpaper.com/wp-content/uploads/2025/07/Common-Paper-Pilot-Agreement-v1.1-Order-Form-and-Standard-Terms.docx",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "retrieved_at": "2026-10-09T09:40:14.362Z",
+        "sha256": "2b85bb4cd1a105dad019b1f710fd495042733464b31a22917009c9d4b8ca42f4",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Word (DOCX)",
+        "format": "docx",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/10-1-standards-pilot-agreement-1-1-cover-page-and-standard-terms-docx.docx"
+      }
+    ]
+  },
+  {
+    "publisher": "Texas Real Estate Commission",
+    "practice_area": "Real estate",
+    "jurisdiction": "Texas",
+    "source": {
+      "url": "https://www.trec.texas.gov/forms/one-four-family-residential-contract-resale",
+      "final_url": "https://www.trec.texas.gov/forms/one-four-family-residential-contract-resale",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:40:15.730Z",
+      "sha256": "53a459a8eb9ea337d5efa5374830c0bf2ff70d57d3bfc4643fa8e47ab5e566dd",
+      "title": "One to Four Family Residential Contract (Resale) | TREC",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/11-texas-real-estate-commission-forms-one-four-family-residential-contract-resale.html"
+    },
+    "version_evidence": [
+      "r Family Residential Contract (Resale) (Form ID: 20-19) Effective Date: 07/01/2026 Description: This is the most frequently used contract form. It is used for the resale of resid"
+    ],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.trec.texas.gov/sites/default/files/pdf-forms/20-19_4.pdf",
+        "final_url": "https://www.trec.texas.gov/sites/default/files/pdf-forms/20-19_4.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:17.982Z",
+        "sha256": "3f458518e9e01fc9c84cab420dcd0ce9793113c4b356ed5caf7a2fb1bdef2ca5",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download Form",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/11-1-sites-default-files-pdf-forms-20-19-4-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "California Courts",
+    "practice_area": "Court / family / probate",
+    "jurisdiction": "California",
+    "source": {
+      "url": "https://selfhelp.courts.ca.gov/jcc-form/SC-100",
+      "final_url": "https://selfhelp.courts.ca.gov/jcc-form/SC-100",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:18.937Z",
+      "sha256": "ce25cceb6e60af065bf47664fdea6f69c92f5818b6828bb6e86eb197b5e536e1",
+      "title": "Plaintiff's Claim and ORDER to Go to Small Claims Court | California Courts | Self Help Guide",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/12-california-courts-jcc-form-sc-100.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.courts.ca.gov/documents/sc100.pdf",
+        "final_url": "https://courts.ca.gov/sites/default/files/courts/default/2024-11/sc100.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:21.146Z",
+        "sha256": "ef3421b14ebf64dbf884566ff659b39776035ec5b6e6500be0af91e3cc15533c",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Get form SC-100",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/12-1-documents-sc100-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "California Courts",
+    "practice_area": "Court / family / probate",
+    "jurisdiction": "California",
+    "source": {
+      "url": "https://selfhelp.courts.ca.gov/jcc-form/FL-100",
+      "final_url": "https://selfhelp.courts.ca.gov/jcc-form/FL-100",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:21.466Z",
+      "sha256": "f5b9e3a5b33e73e4ea9a948f238f7ec92d4491ed18e029925af750f02695e187",
+      "title": "Petition—Marriage/Domestic Partnership (Family Law) | California Courts | Self Help Guide",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/13-california-courts-jcc-form-fl-100.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.courts.ca.gov/documents/fl100.pdf",
+        "final_url": "https://courts.ca.gov/sites/default/files/courts/default/2024-11/fl100.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:23.151Z",
+        "sha256": "fa30a2916677af5aecbd555aeceb06ef410eb1221da1b5f928348a5e7b17b6b6",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Get form FL-100",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/13-1-documents-fl100-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "California Courts",
+    "practice_area": "Court / family / probate",
+    "jurisdiction": "California",
+    "source": {
+      "url": "https://selfhelp.courts.ca.gov/jcc-form/DE-111",
+      "final_url": "https://selfhelp.courts.ca.gov/jcc-form/DE-111",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:23.413Z",
+      "sha256": "fc2a723d6277510ed01cd9097a69437d1a1538032988c1af58766534cdeeb435",
+      "title": "Petition for Probate | California Courts | Self Help Guide",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/14-california-courts-jcc-form-de-111.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.courts.ca.gov/documents/de111.pdf",
+        "final_url": "https://courts.ca.gov/sites/default/files/courts/default/2024-11/de111.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:25.224Z",
+        "sha256": "2a5759e5c7c0818003eaefc94dfade97625e7e3197675629fc00ae245fd59e14",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Get form DE-111",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/14-1-documents-de111-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "California Courts",
+    "practice_area": "Court / family / probate",
+    "jurisdiction": "California",
+    "source": {
+      "url": "https://selfhelp.courts.ca.gov/jcc-form/DE-160",
+      "final_url": "https://selfhelp.courts.ca.gov/jcc-form/DE-160",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:25.483Z",
+      "sha256": "b0d868ee917cabe98ef829039b4b30c5409f6f83b6618b666d54e4b1b6129353",
+      "title": "Inventory And Appraisal | California Courts | Self Help Guide",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/15-california-courts-jcc-form-de-160.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.courts.ca.gov/documents/de160.pdf",
+        "final_url": "https://courts.ca.gov/sites/default/files/courts/default/2024-11/de160.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:27.237Z",
+        "sha256": "da0b0bb690bbfe15a9bc241c52d6baa878ac37f4797367f978d858df51105d53",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Get form DE-160",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/15-1-documents-de160-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "California Courts",
+    "practice_area": "Court / family / probate",
+    "jurisdiction": "California",
+    "source": {
+      "url": "https://selfhelp.courts.ca.gov/jcc-form/GC-310",
+      "final_url": "https://selfhelp.courts.ca.gov/jcc-form/GC-310",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:27.499Z",
+      "sha256": "720d44aec4ec469533984f9fe3f2259c88a76b8046c22b674623b4b8ba014251",
+      "title": "Petition for Appointment of Probate Conservator | California Courts | Self Help Guide",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/16-california-courts-jcc-form-gc-310.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.courts.ca.gov/documents/gc310.pdf",
+        "final_url": "https://courts.ca.gov/sites/default/files/courts/default/2024-11/gc310.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:28.882Z",
+        "sha256": "61398437b806182087dccf7cfe2d6fa4c1ee309f3499ff78d9a9edd3b772d665",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Get form GC-310",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/16-1-documents-gc310-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "California Courts",
+    "practice_area": "Estate planning",
+    "jurisdiction": "California",
+    "source": {
+      "url": "https://selfhelp.courts.ca.gov/wills-estates-probate/legal-documents",
+      "final_url": "https://selfhelp.courts.ca.gov/wills-estates-probate/legal-documents",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:29.255Z",
+      "sha256": "ae2173911776be50075e8d45db807ad2018515ed98891b9f4b1cc32fce59154e",
+      "title": "Wills, estates, and advance care planning | California Courts | Self Help Guide",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/17-california-courts-wills-estates-probate-legal-documents.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://oag.ca.gov/sites/all/files/agweb/pdfs/consumers/ProbateCodeAdvancedHealthCareDirectiveForm-fillable.pdf",
+        "final_url": "https://oag.ca.gov/system/files/media/ProbateCodeAdvanceHealthCareDirectiveForm-fillable.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:32.196Z",
+        "sha256": "27b318dd63fb1ec3eca2f4dc762adac63908735c7debcd8707c50d637be4a94f",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Advance Health Care Directive",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/17-1-sites-all-files-agweb-pdfs-consumers-probatecodeadvancedhealthcaredirectiveform-fillable-pdf.pdf"
+      },
+      {
+        "url": "https://selfhelp.courts.ca.gov/sites/default/files/2026-02/6240-Statutory-will-form.pdf",
+        "final_url": "https://selfhelp.courts.ca.gov/sites/default/files/2026-02/6240-Statutory-will-form.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:34.198Z",
+        "sha256": "91c235c421e1de9604b35fb6eeaf7a51c4e49615be34436612cfd589076345b2",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "California Statutory Will form",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/17-2-sites-default-files-2026-02-6240-statutory-will-form-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "EPA",
+    "practice_area": "Real estate disclosure",
+    "jurisdiction": "Federal; applicability and exceptions require review",
+    "source": {
+      "url": "https://www.epa.gov/lead/real-estate-disclosures-about-potential-lead-hazards",
+      "final_url": "https://www.epa.gov/lead/real-estate-disclosures-about-potential-lead-hazards",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:34.820Z",
+      "sha256": "7e8eed945ef88484610f69ffc0f20e34f706df255e2d70f06824afe067541e3f",
+      "title": "Real Estate Disclosures about Potential Lead Hazards | US EPA",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/18-epa-lead-real-estate-disclosures-about-potential-lead-hazards.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.epa.gov/sites/default/files/documents/selr_eng.pdf",
+        "final_url": "https://www.epa.gov/sites/default/files/documents/selr_eng.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:35.363Z",
+        "sha256": "f5ca67558ec486f923181001d44d9194dacb4b338e147208fd0a0184cdfe31b7",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "English (PDF)",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/18-1-sites-default-files-documents-selr-eng-pdf.pdf"
+      },
+      {
+        "url": "https://www.epa.gov/sites/default/files/documents/lesr_eng.pdf",
+        "final_url": "https://www.epa.gov/sites/default/files/documents/lesr_eng.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:36.075Z",
+        "sha256": "abf50bc2bd2dac206f3354e1d5980eb9b769d06cf466e64fb1f17a053d8a3022",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "English (PDF)",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/18-2-sites-default-files-documents-lesr-eng-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "HHS",
+    "practice_area": "Health data / business associates",
+    "jurisdiction": "Federal HIPAA; state law review required",
+    "source": {
+      "url": "https://www.hhs.gov/hipaa/for-professionals/covered-entities/sample-business-associate-agreement-provisions/index.html",
+      "final_url": "https://www.hhs.gov/hipaa/for-professionals/covered-entities/sample-business-associate-agreement-provisions/index.html",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:36.900Z",
+      "sha256": "66c3828ee722f392d36628a1270fafcfaa8bc1a28e4a9f7a528b68792ec80017",
+      "title": "Business Associate Contracts | HHS.gov",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/19-hhs-hipaa-for-professionals-covered-entities-sample-business-associate-agreement-provisions-index-html.html"
+    },
+    "version_evidence": [
+      "imsSign Up for the OCR Privacy Listserv Content last reviewed June 16, 2017 "
+    ],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": []
+  },
+  {
+    "publisher": "FEMA",
+    "practice_area": "Flood insurance",
+    "jurisdiction": "Federal NFIP program only",
+    "source": {
+      "url": "https://www.fema.gov/flood-insurance/find-form/underwriting",
+      "final_url": "https://www.fema.gov/flood-insurance/find-form/underwriting",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T09:40:37.670Z",
+      "sha256": "df01f455aa5b6716db9ba21550d766a2b446a844eed4e86707f84e11fb0d636d",
+      "title": "National Flood Insurance Program Underwriting Forms | FEMA.gov",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/20-fema-flood-insurance-find-form-underwriting.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.fema.gov/sites/default/files/documents/fema_ff-206-fy-21-118_cancellation-nullification_may-2021_exp-28-feb-2027.pdf",
+        "final_url": "https://www.fema.gov/sites/default/files/documents/fema_ff-206-fy-21-118_cancellation-nullification_may-2021_exp-28-feb-2027.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:38.286Z",
+        "sha256": "e83af0063e0df76e40ef367d12eed1cfa7d7b6c3d4f2dd92155f67930a5b49ae",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download File",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/20-1-sites-default-files-documents-fema-ff-206-fy-21-118-cancellation-nullification-may-2021-exp-28-feb-2027-pdf.pdf"
+      },
+      {
+        "url": "https://www.fema.gov/sites/default/files/documents/fema_ff-206-fy-21-119_general-change-endorsement_may-2021_exp-28-feb-2027.pdf",
+        "final_url": "https://www.fema.gov/sites/default/files/documents/fema_ff-206-fy-21-119_general-change-endorsement_may-2021_exp-28-feb-2027.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:38.607Z",
+        "sha256": "2cba82a82269f8d1581324b79d47ae1da76044baae680446c4f7bbfbcffc2081",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download File",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/20-2-sites-default-files-documents-fema-ff-206-fy-21-119-general-change-endorsement-may-2021-exp-28-feb-2027-pdf.pdf"
+      },
+      {
+        "url": "https://www.fema.gov/sites/default/files/documents/fema_ff-206-fy-21-117_flood-insurance-application_may-2021_exp-28-feb-2027.pdf",
+        "final_url": "https://www.fema.gov/sites/default/files/documents/fema_ff-206-fy-21-117_flood-insurance-application_may-2021_exp-28-feb-2027.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:38.910Z",
+        "sha256": "08f2949ba591ba87e5e2ed65143780dbae5b339b7fcb1277bfd9ec16bde1910c",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download File",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/20-3-sites-default-files-documents-fema-ff-206-fy-21-117-flood-insurance-application-may-2021-exp-28-feb-2027-pdf.pdf"
+      },
+      {
+        "url": "https://www.fema.gov/sites/default/files/documents/fema_F-123-general-property-SFIP_2021.pdf",
+        "final_url": "https://www.fema.gov/sites/default/files/documents/fema_F-123-general-property-SFIP_2021.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:39.370Z",
+        "sha256": "48139cb9b22b34efcb00b9df3b9a909929a0494e5f58f10ad105308e43d0feab",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download File",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/20-4-sites-default-files-documents-fema-f-123-general-property-sfip-2021-pdf.pdf"
+      },
+      {
+        "url": "https://www.fema.gov/sites/default/files/documents/fema_F-144-RCBAP-SFIP_2021.pdf",
+        "final_url": "https://www.fema.gov/sites/default/files/documents/fema_F-144-RCBAP-SFIP_2021.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:40.457Z",
+        "sha256": "bb99d143a9b137c585ea7f21fc3092fceefc98c94c21d3d8ac0901ea92a28e90",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download File",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/20-5-sites-default-files-documents-fema-f-144-rcbap-sfip-2021-pdf.pdf"
+      },
+      {
+        "url": "https://www.fema.gov/sites/default/files/documents/fema_F-122-Dwelling-SFIP_2021.pdf",
+        "final_url": "https://www.fema.gov/sites/default/files/documents/fema_F-122-Dwelling-SFIP_2021.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:41.456Z",
+        "sha256": "4e91d6417cba13c18d4402083a0c02811da8264be6fcb8557c6afa4f8b6e2e74",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download File",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/20-6-sites-default-files-documents-fema-f-122-dwelling-sfip-2021-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Department of Labor",
+    "practice_area": "Employment / leave",
+    "jurisdiction": "Federal FMLA; state leave review required",
+    "source": {
+      "url": "https://www.dol.gov/agencies/whd/fmla/forms",
+      "final_url": "https://www.dol.gov/agencies/whd/fmla/forms",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:42.221Z",
+      "sha256": "3608c6eab17d544ab611ae17539764602cdf3b3bece2abdcf9d014f425620536",
+      "title": "FMLA: Forms | U.S. Department of Labor",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/21-department-of-labor-agencies-whd-fmla-forms.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-381.pdf",
+        "final_url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-381.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:43.060Z",
+        "sha256": "ade7eca465c7823dfeaf4617d7e1169846473b14182a07f0bbffd5ac981dc666",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Eligibility Notice, form WH-381",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/21-1-sites-dolgov-files-whd-legacy-files-wh-381-pdf.pdf"
+      },
+      {
+        "url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-382.pdf",
+        "final_url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-382.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:44.353Z",
+        "sha256": "03c65f5233e743634655e6d481f5e2f6cc2acfe54fe2b23ecae5c923f8bcd4c0",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Designation Notice, form WH-382",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/21-2-sites-dolgov-files-whd-legacy-files-wh-382-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "U.S. Courts",
+    "practice_area": "Federal court procedure",
+    "jurisdiction": "Federal courts; local rules require review",
+    "source": {
+      "url": "https://www.uscourts.gov/forms-rules/forms/civil-cover-sheet",
+      "final_url": "https://www.uscourts.gov/forms-rules/forms/civil-cover-sheet",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:45.128Z",
+      "sha256": "c45a2d44d4eb76b6e24c782d895fbf7998992b81c2aa7f9749de87375311f46f",
+      "title": "Civil Cover Sheet",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/22-u-s-courts-forms-rules-forms-civil-cover-sheet.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.uscourts.gov/sites/default/files/js_044_-_civil_cover_sheet_1.pdf",
+        "final_url": "https://www.uscourts.gov/sites/default/files/js_044_-_civil_cover_sheet_1.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:48.307Z",
+        "sha256": "8128d7deb3f60194a0af3f8e0baa2ca7c226fd0f888464f318904399581c51b6",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download\n            \n              pdf,   870.42 KB",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/22-1-sites-default-files-js-044-civil-cover-sheet-1-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "U.S. Courts",
+    "practice_area": "Federal court procedure",
+    "jurisdiction": "Federal courts; local rules require review",
+    "source": {
+      "url": "https://www.uscourts.gov/forms-rules/forms/complaint-a-civil-case-alleging-breach-contract",
+      "final_url": "https://www.uscourts.gov/forms-rules/forms/complaint-a-civil-case-alleging-breach-contract",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:48.648Z",
+      "sha256": "e2d547ff828fd090c6ed059549bd3dac3111b38d44d05854ada71009bb68c1c3",
+      "title": "Complaint for a Civil Case Alleging Breach of Contract",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/23-u-s-courts-forms-rules-forms-complaint-a-civil-case-alleging-breach-contract.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.uscourts.gov/sites/default/files/complaint_for_a_civil_case_alleging_breach_of_contract.pdf",
+        "final_url": "https://www.uscourts.gov/sites/default/files/complaint_for_a_civil_case_alleging_breach_of_contract.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:52.027Z",
+        "sha256": "1662e329d23d4529e2b3dbb2e9cac47f963595ce37f4dcd20135c90fee7606c3",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download\n            \n              pdf,   1.01 MB",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/23-1-sites-default-files-complaint-for-a-civil-case-alleging-breach-of-contract-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "U.S. Courts",
+    "practice_area": "Federal court procedure",
+    "jurisdiction": "Federal courts; local rules require review",
+    "source": {
+      "url": "https://www.uscourts.gov/forms-rules/forms/complaint-employment-discrimination",
+      "final_url": "https://www.uscourts.gov/forms-rules/forms/complaint-employment-discrimination",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T09:40:52.370Z",
+      "sha256": "f6ad24e03ebdefa4878cbb4ca5edeb1d2d5c513237e0795ba193c4358bf7adaa",
+      "title": "Complaint for Employment Discrimination",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-02/24-u-s-courts-forms-rules-forms-complaint-employment-discrimination.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.uscourts.gov/sites/default/files/complaint_for_employment_discrimination.pdf",
+        "final_url": "https://www.uscourts.gov/sites/default/files/complaint_for_employment_discrimination.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T09:40:53.821Z",
+        "sha256": "32592d367b4b3ef3e466887a6ac4ab17981b89b45af368fa6650e85aeb3e2fb9",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download\n            \n              pdf,   1.05 MB",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-02/24-1-sites-default-files-complaint-for-employment-discrimination-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Wisconsin Department of Health Services",
+    "practice_area": "Estate and personal planning",
+    "jurisdiction": "Wisconsin",
+    "source": {
+      "url": "https://www.dhs.wisconsin.gov/forms/advdirectives/adformspoa.htm",
+      "final_url": "https://www.dhs.wisconsin.gov/forms/advdirectives/adformspoa.htm",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T10:05:55.051Z",
+      "sha256": "3ef362fb00ba7325c0b1f4f4c4b027c349e2307dc47aab958fc1692d90d34e15",
+      "title": "Advance Directives: Forms | Wisconsin Department of Health Services",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-04/25-wisconsin-department-of-health-services-forms-advdirectives-adformspoa-htm.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Confirm witness and signature rules for the selected form.",
+      "Preserve publisher instructions on altering forms."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.dhs.wisconsin.gov/forms/advdirectives/f00086.pdf",
+        "final_url": "https://www.dhs.wisconsin.gov/forms/advdirectives/f00086.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:05:55.795Z",
+        "sha256": "158208aec4ac19fcbf82d971f0f3110e789f0470f9815cf689876551fecee268",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Authorization for Final Disposition (PDF)",
+        "expected_identity_pattern": "POWER OF ATTORNEY|LIVING WILL|Declaration to Health Care|FINAL DISPOSITION",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/25-1-forms-advdirectives-f00086-pdf.pdf"
+      },
+      {
+        "url": "https://www.dhs.wisconsin.gov/forms/advdirectives/f00060.pdf",
+        "final_url": "https://www.dhs.wisconsin.gov/forms/advdirectives/f00060.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:06:05.533Z",
+        "sha256": "69ae70542ee2f11b42641327421a4366933235a166dc72a8c6626750d1c0450f",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Declaration to Health Care Professionals (Living Will) (PDF)",
+        "expected_identity_pattern": "POWER OF ATTORNEY|LIVING WILL|Declaration to Health Care|FINAL DISPOSITION",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/25-2-forms-advdirectives-f00060-pdf.pdf"
+      },
+      {
+        "url": "https://www.dhs.wisconsin.gov/forms/advdirectives/f00036.pdf",
+        "final_url": "https://www.dhs.wisconsin.gov/forms/advdirectives/f00036.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:06:21.569Z",
+        "sha256": "88055a5cdd143270f381749272ce2322afc6cc922f7365014945aaaca2c1f0ae",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Power of Attorney for Finance and Property (PDF)",
+        "expected_identity_pattern": "POWER OF ATTORNEY|LIVING WILL|Declaration to Health Care|FINAL DISPOSITION",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/25-3-forms-advdirectives-f00036-pdf.pdf"
+      },
+      {
+        "url": "https://www.dhs.wisconsin.gov/forms/advdirectives/f00085.pdf",
+        "final_url": "https://www.dhs.wisconsin.gov/forms/advdirectives/f00085.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:06:36.298Z",
+        "sha256": "db9ca69befbcd8a0d3b0f02133a6f3a057cd643ddab48f772bee291514c6ddb7",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Power of Attorney for Health Care - Letter and Form (PDF)",
+        "expected_identity_pattern": "POWER OF ATTORNEY|LIVING WILL|Declaration to Health Care|FINAL DISPOSITION",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/25-4-forms-advdirectives-f00085-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Arizona Attorney General",
+    "practice_area": "Estate and personal planning",
+    "jurisdiction": "Arizona",
+    "source": {
+      "url": "https://www.azag.gov/issues/elder-affairs/life-care-planning",
+      "final_url": "https://www.azag.gov/issues/elder-affairs/life-care-planning",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T10:06:38.661Z",
+      "sha256": "6ce4ea23275c3dd52e585a440630b49c0fa6189bb662b73f18d9e3fe88fdb4eb",
+      "title": "Life Care Planning | Attorney General's Office",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-04/26-arizona-attorney-general-issues-elder-affairs-life-care-planning.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Do not equate an upload path date with a legal effective date.",
+      "Medical orders and DNR/POLST forms are excluded from this selection."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.azag.gov/sites/default/files/2026-08/LCP%20-%20Healthcare%20POA_8.4.26.pdf",
+        "final_url": "https://www.azag.gov/sites/default/files/2026-08/LCP%20-%20Healthcare%20POA_8.4.26.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:06:42.621Z",
+        "sha256": "610ebdc100527cf81d2bdc05a058e8011f931d73e2185c4c6fdb333835e06b37",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Health Care Power of Attorney",
+        "expected_identity_pattern": "POWER OF ATTORNEY|LIVING WILL",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/26-1-sites-default-files-2026-08-lcp-20-20healthcare-20poa-8-4-26-pdf.pdf"
+      },
+      {
+        "url": "https://www.azag.gov/sites/default/files/2026-04/LCP%20-%20Mental%20Healthcare%20POA%20-%202026.pdf",
+        "final_url": "https://www.azag.gov/sites/default/files/2026-04/LCP%20-%20Mental%20Healthcare%20POA%20-%202026.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:06:44.409Z",
+        "sha256": "321e65e5eb3fbfd9b73c04d74becad0af9a7ee3618bc62dd9b4302e5031a1499",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Mental Health Care Power of Attorney",
+        "expected_identity_pattern": "POWER OF ATTORNEY|LIVING WILL",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/26-2-sites-default-files-2026-04-lcp-20-20mental-20healthcare-20poa-20-202026-pdf.pdf"
+      },
+      {
+        "url": "https://www.azag.gov/sites/default/files/2026-04/LCP%20-%20Living%20Will%20-%202026.pdf",
+        "final_url": "https://www.azag.gov/sites/default/files/2026-04/LCP%20-%20Living%20Will%20-%202026.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:06:50.999Z",
+        "sha256": "fedbed2ec997a7ba963f0c0d84238d52509ad765e5c892127972d96dbac43d19",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Living Will (End of Life Care)",
+        "expected_identity_pattern": "POWER OF ATTORNEY|LIVING WILL",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/26-3-sites-default-files-2026-04-lcp-20-20living-20will-20-202026-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Oregon Health Authority",
+    "practice_area": "Estate and personal planning",
+    "jurisdiction": "Oregon",
+    "source": {
+      "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+      "final_url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T10:06:52.590Z",
+      "sha256": "c6d0463313f1f6be8e8e84801f0a0166843b7cb4df09aa21f1b026f02a7a7cd4",
+      "title": "Oregon Health Authority : Advance Directive Forms : About the Public Health Division : State of Oregon",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-04/27-oregon-health-authority-oha-ph-about-pages-adac-forms-aspx.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "PDF and DOCX are format variants of one directive, not two distinct legal instruments.",
+      "User guide is counted as supporting material."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3905.docx",
+        "retrieved_at": "2026-10-09T10:06:57.587Z",
+        "retrieval_status": "fetch-failed",
+        "error": "fetch failed",
+        "link_text": ".docx",
+        "expected_identity_pattern": "ADVANCE DIRECTIVE|Advance Directive",
+        "format": "docx",
+        "signature_check": "failed",
+        "local_archive_path": null,
+        "retrieval_attempts": [
+          {
+            "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3905.docx",
+            "retrieval_status": "fetch-failed",
+            "error": "fetch failed",
+            "retrieved_at": "2026-10-09T10:06:57.587Z"
+          },
+          {
+            "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3905.docx",
+            "retrieved_at": "2026-10-09T10:10:00.245Z",
+            "retrieval_status": "fetch-failed",
+            "error": "fetch failed"
+          },
+          {
+            "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3905.docx",
+            "retrieved_at": "2026-10-12T01:49:52.793Z",
+            "retrieval_status": "fetch-failed",
+            "error": "fetch failed"
+          }
+        ]
+      },
+      {
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3905.pdf",
+        "retrieved_at": "2026-10-09T10:06:58.814Z",
+        "retrieval_status": "fetch-failed",
+        "error": "fetch failed",
+        "link_text": ".pdf",
+        "expected_identity_pattern": "ADVANCE DIRECTIVE|Advance Directive",
+        "format": "docx",
+        "signature_check": "failed",
+        "local_archive_path": null,
+        "retrieval_attempts": [
+          {
+            "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3905.pdf",
+            "retrieval_status": "fetch-failed",
+            "error": "fetch failed",
+            "retrieved_at": "2026-10-09T10:06:58.814Z"
+          },
+          {
+            "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3905.pdf",
+            "retrieved_at": "2026-10-09T10:10:00.926Z",
+            "retrieval_status": "fetch-failed",
+            "error": "fetch failed"
+          },
+          {
+            "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3905.pdf",
+            "retrieved_at": "2026-10-12T01:49:53.673Z",
+            "retrieval_status": "fetch-failed",
+            "error": "fetch failed"
+          }
+        ]
+      },
+      {
+        "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+        "retrieved_at": "2026-10-09T10:06:59.552Z",
+        "retrieval_status": "fetch-failed",
+        "error": "fetch failed",
+        "link_text": "User guide",
+        "expected_identity_pattern": "ADVANCE DIRECTIVE|Advance Directive",
+        "format": "docx",
+        "signature_check": "failed",
+        "local_archive_path": null,
+        "retrieval_attempts": [
+          {
+            "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+            "retrieval_status": "fetch-failed",
+            "error": "fetch failed",
+            "retrieved_at": "2026-10-09T10:06:59.552Z"
+          },
+          {
+            "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+            "retrieved_at": "2026-10-09T10:10:02.045Z",
+            "retrieval_status": "fetch-failed",
+            "error": "fetch failed"
+          },
+          {
+            "url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+            "retrieved_at": "2026-10-12T01:50:03.956Z",
+            "retrieval_status": "fetch-failed",
+            "error": "fetch failed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "publisher": "Connecticut Attorney General",
+    "practice_area": "Estate and personal planning",
+    "jurisdiction": "Connecticut",
+    "source": {
+      "url": "https://portal.ct.gov/en/ag/health-issues/connecticuts-living-will-laws",
+      "final_url": "https://portal.ct.gov/en/ag/health-issues/connecticuts-living-will-laws",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T10:07:03.798Z",
+      "sha256": "ae32b760c948d2561abd9fec8683a115b01d52dfaf9923d18a8197e68ae08fad",
+      "title": "Connecticuts Living Will Laws",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-04/28-connecticut-attorney-general-en-ag-health-issues-connecticuts-living-will-laws.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Reconcile the older combined-form source with current statutory execution rules."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://portal.ct.gov/-/media/ag/health-issues/advancedirectiveslivingwillorhealthcareinstructions-pdf.pdf?rev=ee27466ee426459a8dffcb571c1171d7",
+        "final_url": "https://portal.ct.gov/-/media/ag/health-issues/advancedirectiveslivingwillorhealthcareinstructions-pdf.pdf?rev=ee27466ee426459a8dffcb571c1171d7",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:07:04.323Z",
+        "sha256": "ef37a5990daed19f33027c0fadfd1a31a35c8fb6c0adccac9f85e11846ee18e3",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Living Will (PDF-35KB)",
+        "expected_identity_pattern": "HEALTH CARE|LIVING WILL|Health Care",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/28-1-media-ag-health-issues-advancedirectiveslivingwillorhealthcareinstructions-pdf-pdf.pdf"
+      },
+      {
+        "url": "https://portal.ct.gov/-/media/ag/health-issues/advdirectivescombinedform2006alt-pdf.pdf?rev=1475e3fcefa446ca8d07e3160f6102ad",
+        "final_url": "https://portal.ct.gov/-/media/ag/health-issues/advdirectivescombinedform2006alt-pdf.pdf?rev=1475e3fcefa446ca8d07e3160f6102ad",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:07:05.379Z",
+        "sha256": "d0076da2e25ac9161dbf3f856599d489b67104e13535b14b88dc6d5e1d756dff",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Living Will - Advance Directives Combined Form (PDF-122KB)",
+        "expected_identity_pattern": "HEALTH CARE|LIVING WILL|Health Care",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/28-2-media-ag-health-issues-advdirectivescombinedform2006alt-pdf-pdf.pdf"
+      },
+      {
+        "url": "https://portal.ct.gov/-/media/ag/health-issues/advancedirectiveappointmentofhealthcare_rep.pdf?rev=bc8d9236b84b40d5887ee519675df841",
+        "final_url": "https://portal.ct.gov/-/media/ag/health-issues/advancedirectiveappointmentofhealthcare_rep.pdf?rev=bc8d9236b84b40d5887ee519675df841",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:07:06.065Z",
+        "sha256": "85a5770f03616bdff462cc41ace066f5e440edb0cc1792572f97170be63f3d01",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Appointment of Health Care Representative (PDF-12KB)",
+        "expected_identity_pattern": "HEALTH CARE|LIVING WILL|Health Care",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/28-3-media-ag-health-issues-advancedirectiveappointmentofhealthcare-rep-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Illinois Department of Public Health",
+    "practice_area": "Estate and personal planning",
+    "jurisdiction": "Illinois",
+    "source": {
+      "url": "https://dph.illinois.gov/topics-services/health-care-regulation/nursing-homes/advance-directives.html",
+      "final_url": "https://dph.illinois.gov/topics-services/health-care-regulation/nursing-homes/advance-directives.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "retrieved_at": "2026-10-09T10:07:11.153Z",
+      "sha256": "4cb2008f741741cf761782a1237304b00bbe306281c1e2dc7e5ad4fa7be4b9ce",
+      "title": "Advance Directives",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-04/29-illinois-department-of-public-health-topics-services-health-care-regulation-nursing-homes-advance-directives-html.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Clinical POLST orders are excluded from this selection.",
+      "Older source filenames are not proof of current-law sufficiency."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://dph.illinois.gov/content/dam/soi/en/web/idph/files/forms/declaration-mental-health-treatment-040416.pdf",
+        "final_url": "https://dph.illinois.gov/content/dam/soi/en/web/idph/files/forms/declaration-mental-health-treatment-040416.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:07:12.029Z",
+        "sha256": "3d03480aa524f1601d866fe4065eb15719529bdc1142f2877e5cd12bbc5af771",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Declaration for Mental Health Treatment Form",
+        "expected_identity_pattern": "MENTAL HEALTH|LIVING WILL|POWER OF ATTORNEY|Health Care",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/29-1-content-dam-soi-en-web-idph-files-forms-declaration-mental-health-treatment-040416-pdf.pdf"
+      },
+      {
+        "url": "https://dph.illinois.gov/content/dam/soi/en/web/idph/files/forms/living-will-040416.pdf",
+        "final_url": "https://dph.illinois.gov/content/dam/soi/en/web/idph/files/forms/living-will-040416.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:07:13.114Z",
+        "sha256": "c0c3eca0794f939493e048e2f4d7997bec5bdb4035bb9ae97504314e77508678",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Living Will Declaration Form",
+        "expected_identity_pattern": "MENTAL HEALTH|LIVING WILL|POWER OF ATTORNEY|Health Care",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/29-2-content-dam-soi-en-web-idph-files-forms-living-will-040416-pdf.pdf"
+      },
+      {
+        "url": "https://dph.illinois.gov/content/dam/soi/en/web/idph/files/forms/powerofattorneyhealthcareform.pdf",
+        "final_url": "https://dph.illinois.gov/content/dam/soi/en/web/idph/files/forms/powerofattorneyhealthcareform.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:07:14.331Z",
+        "sha256": "3c01b3f20d783949e13b32b915ac1728243ff12f7ba194cba3c3374712d1a9f1",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Power of Attorney for Health Care",
+        "expected_identity_pattern": "MENTAL HEALTH|LIVING WILL|POWER OF ATTORNEY|Health Care",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/29-3-content-dam-soi-en-web-idph-files-forms-powerofattorneyhealthcareform-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Texas Health and Human Services",
+    "practice_area": "Estate and personal planning",
+    "jurisdiction": "Texas",
+    "source": {
+      "url": "https://fhb.hhs.texas.gov/forms/advance-directives/medical-power-attorney-designation-health-care-agent-mpoa",
+      "final_url": "https://fhb.hhs.texas.gov/forms/advance-directives/medical-power-attorney-designation-health-care-agent-mpoa",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T10:07:16.228Z",
+      "sha256": "77b69960ead7d46e811eb26553bc8e3ba24181898d493fa622c4b66a3ec9c6ec",
+      "title": "Medical Power of Attorney Designation of Health Care Agent (MPOA) | Forms and Handbooks",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-04/30-texas-health-and-human-services-forms-advance-directives-medical-power-attorney-designation-health-care-agent-mpoa.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Witness/notarization alternatives and statutory warnings require review."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://fhb.hhs.texas.gov/sites/default/files/documents/medical-power-of-attorney-designation-of-health-care-agent-mpoa-english.pdf",
+        "retrieved_at": "2026-10-09T10:10:03.184Z",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "MPOA (English PDF)",
+        "expected_identity_pattern": "MEDICAL POWER OF ATTORNEY",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/retry-sites-default-files-documents-medical-power-of-attorney-designation-of-health-care-agent-mpoa-english-pdf-da5100b4ae9b.pdf",
+        "retrieval_attempts": [
+          {
+            "url": "https://fhb.hhs.texas.gov/sites/default/files/documents/medical-power-of-attorney-designation-of-health-care-agent-mpoa-english.pdf",
+            "retrieval_status": "fetch-failed",
+            "error": "The operation was aborted due to timeout",
+            "retrieved_at": "2026-10-09T10:07:34.234Z"
+          },
+          {
+            "url": "https://fhb.hhs.texas.gov/sites/default/files/documents/medical-power-of-attorney-designation-of-health-care-agent-mpoa-english.pdf",
+            "final_url": "https://fhb.hhs.texas.gov/sites/default/files/documents/medical-power-of-attorney-designation-of-health-care-agent-mpoa-english.pdf",
+            "http_status": 200,
+            "content_type": "application/pdf",
+            "retrieved_at": "2026-10-09T10:10:03.184Z",
+            "sha256": "da5100b4ae9b9990dd1d31af000dc8ead27e9a403dfe2d32493a219de758bee0",
+            "title": "",
+            "retrieval_status": "retrieved-pending-review"
+          }
+        ],
+        "final_url": "https://fhb.hhs.texas.gov/sites/default/files/documents/medical-power-of-attorney-designation-of-health-care-agent-mpoa-english.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "sha256": "da5100b4ae9b9990dd1d31af000dc8ead27e9a403dfe2d32493a219de758bee0",
+        "title": ""
+      }
+    ]
+  },
+  {
+    "publisher": "Texas Health and Human Services",
+    "practice_area": "Estate and personal planning",
+    "jurisdiction": "Texas",
+    "source": {
+      "url": "https://fhb.hhs.texas.gov/forms/advance-directives/directive-physicians-family-or-surrogates-living-will",
+      "final_url": "https://fhb.hhs.texas.gov/forms/advance-directives/directive-physicians-family-or-surrogates-living-will",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T10:07:34.873Z",
+      "sha256": "145d8d63f05f38a67b86b1a2d0b2ba0c3e60d9761d794ff99d6e738051dcfbd8",
+      "title": "Directive to Physicians and Family or Surrogates - Living Will | Forms and Handbooks",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-04/31-texas-health-and-human-services-forms-advance-directives-directive-physicians-family-or-surrogates-living-will.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Directive is distinct from an out-of-hospital medical order."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://fhb.hhs.texas.gov/sites/default/files/documents/directive-to-physicians-and-family-or-surrogates-living-will-english.pdf",
+        "final_url": "https://fhb.hhs.texas.gov/sites/default/files/documents/directive-to-physicians-and-family-or-surrogates-living-will-english.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:07:35.341Z",
+        "sha256": "38640c93e70528f45442e25e7c536707392cb2d3c8b1dece5682b964c1824d80",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Directive to Physicians and Family or Surrogates - Living Will (English PDF)",
+        "expected_identity_pattern": "DIRECTIVE TO PHYSICIANS",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/31-1-sites-default-files-documents-directive-to-physicians-and-family-or-surrogates-living-will-english-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Texas Real Estate Commission",
+    "practice_area": "Real estate",
+    "jurisdiction": "Texas",
+    "source": {
+      "url": "https://www.trec.texas.gov/forms/buyers-temporary-residential-lease",
+      "final_url": "https://www.trec.texas.gov/forms/buyers-temporary-residential-lease",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T10:07:37.068Z",
+      "sha256": "60ebbb64605bc23bf15a185c1a1cbe6bea31fcceb2ff921751107bc37758bf82",
+      "title": "Buyer's Temporary Residential Lease | TREC",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-04/32-texas-real-estate-commission-forms-buyers-temporary-residential-lease.html"
+    },
+    "version_evidence": [
+      "e: Buyer's Temporary Residential Lease (Form ID: 16-7) Effective Date: 01/05/2026 Description: This form is used only when the Buyer will occupy the property for no more than 90 "
+    ],
+    "license_links": [],
+    "review_notes": [
+      "Temporary purchase-transaction occupancy form; not a general long-term residential lease."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.trec.texas.gov/sites/default/files/pdf-forms/16-7.pdf",
+        "final_url": "https://www.trec.texas.gov/sites/default/files/pdf-forms/16-7.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:07:40.940Z",
+        "sha256": "6692db491db42fde7b78652c49c3f152433cf5a9f3be41668e180ae772a7702f",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download Form",
+        "expected_identity_pattern": "TREC NO\\. 16-7|BUYER.S TEMPORARY RESIDENTIAL LEASE",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/32-1-sites-default-files-pdf-forms-16-7-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Texas Real Estate Commission",
+    "practice_area": "Real estate",
+    "jurisdiction": "Texas",
+    "source": {
+      "url": "https://www.trec.texas.gov/forms/sellers-disclosure-notice",
+      "final_url": "https://www.trec.texas.gov/forms/sellers-disclosure-notice",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T10:07:41.297Z",
+      "sha256": "8a5e233e71a5f5958b30ba70c814507ffef82057feadd405bd2dac2418231b71",
+      "title": "Seller's Disclosure Notice | TREC",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-04/33-texas-real-estate-commission-forms-sellers-disclosure-notice.html"
+    },
+    "version_evidence": [
+      " Form Name: Seller's Disclosure Notice (Form ID: 55-1) Effective Date: 05/28/2026 Description: This disclosure form is required by sellers of previously occupied single family re"
+    ],
+    "license_links": [],
+    "review_notes": [
+      "Verify exemptions and required attachments for the intended transaction."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.trec.texas.gov/sites/default/files/pdf-forms/55-1.pdf",
+        "final_url": "https://www.trec.texas.gov/sites/default/files/pdf-forms/55-1.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:07:43.875Z",
+        "sha256": "cebab031402fef2d1a16b91e6820b778f3e8971764177700706ec3f6ad8f359b",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download Form",
+        "expected_identity_pattern": "55-1|SELLER.S DISCLOSURE NOTICE",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/33-1-sites-default-files-pdf-forms-55-1-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Texas Real Estate Commission",
+    "practice_area": "Real estate",
+    "jurisdiction": "Texas",
+    "source": {
+      "url": "https://www.trec.texas.gov/forms/third-party-financing-addendum-0",
+      "final_url": "https://www.trec.texas.gov/forms/third-party-financing-addendum-0",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T10:07:44.368Z",
+      "sha256": "e646de63585636c57d5f98beba8157f2047654d33e505f62c1716bd972fc9a1a",
+      "title": "Third Party Financing Addendum | TREC",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-04/34-texas-real-estate-commission-forms-third-party-financing-addendum-0.html"
+    },
+    "version_evidence": [
+      "m Name: Third Party Financing Addendum (Form ID: 40-11) Effective Date: 01/03/2025 Description: This Addendum is used when any type of financing for all or part of the purchase p"
+    ],
+    "license_links": [],
+    "review_notes": [
+      "Addendum requires the underlying contract and financing-specific review."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.trec.texas.gov/sites/default/files/pdf-forms/40-11.pdf",
+        "final_url": "https://www.trec.texas.gov/sites/default/files/pdf-forms/40-11.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:07:47.319Z",
+        "sha256": "98976d5b0d5f79aa775c7be641965c630578edd9c3fd69dec10532137f4cebe5",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Download Form",
+        "expected_identity_pattern": "40-11|THIRD PARTY FINANCING ADDENDUM",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/34-1-sites-default-files-pdf-forms-40-11-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "California Department of Industrial Relations",
+    "practice_area": "Employment",
+    "jurisdiction": "California",
+    "source": {
+      "url": "https://www.dir.ca.gov/dlse/DLSE-Publications.htm",
+      "final_url": "https://www.dir.ca.gov/dlse/DLSE-Publications.htm",
+      "http_status": 200,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-09T10:07:49.786Z",
+      "sha256": "fb09d95e8eb161ec494121c771078f187512f5afe4e8bee65b39e34f8e83b8ba",
+      "title": "DLSE publications",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-04/35-california-department-of-industrial-relations-dlse-dlse-publications-htm.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "General wage notice and H-2A supplemental notice have different applicability."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.dir.ca.gov/dlse/lc_2810.5_notice.pdf",
+        "final_url": "https://www.dir.ca.gov/dlse/lc_2810.5_notice.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:07:50.594Z",
+        "sha256": "df7ad0f28ccb282324682315caf8fc34dae5d03f3ac1b19a6dd6c20f56030772",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Notice to  Employee, Labor Code Section 2810.5 (Revised)",
+        "expected_identity_pattern": "NOTICE TO EMPLOYEE|H-2A|2810.5",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/35-1-dlse-lc-2810-5-notice-pdf.pdf"
+      },
+      {
+        "url": "https://www.dir.ca.gov/dlse/2810.5-Supplemental-Notice-to-H-2A-Employees_English.pdf",
+        "final_url": "https://www.dir.ca.gov/dlse/2810.5-Supplemental-Notice-to-H-2A-Employees_English.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:07:51.985Z",
+        "sha256": "588639f85ffdff892babecb2dec1e089aa54117e6047161af95b4ca09315d539",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "2810.5 Supplemental Notice to H-2A Employees – English",
+        "expected_identity_pattern": "NOTICE TO EMPLOYEE|H-2A|2810.5",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/35-2-dlse-2810-5-supplemental-notice-to-h-2a-employees-english-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Massachusetts Trial Court",
+    "practice_area": "Court procedure / probate",
+    "jurisdiction": "Massachusetts",
+    "source": {
+      "url": "https://www.mass.gov/lists/probate-and-family-court-forms-for-wills-estates-and-trusts",
+      "final_url": "https://www.mass.gov/lists/probate-and-family-court-forms-for-wills-estates-and-trusts",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T10:07:53.086Z",
+      "sha256": "148dc0249ba24e972b896646a43755e1ea34eecea049f4bf03f9ae5849459212",
+      "title": "Probate and Family Court forms for wills, estates, and trusts | Mass.gov",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-04/36-massachusetts-trial-court-lists-probate-and-family-court-forms-for-wills-estates-and-trusts.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Forms may use XFA; a PDF shell is not proof of extracted form content."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.mass.gov/doc/petition-for-supervised-administration-mpc-280/download",
+        "final_url": "https://www.mass.gov/doc/petition-for-supervised-administration-mpc-280/download",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:07:57.760Z",
+        "sha256": "a25f98862ed476c6665e81f550db03ef7e88c1f9547eb773b2f2399ae63b8f58",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Petition for Supervised Administration (MPC 280), Open PDF file, 965.5 KB",
+        "expected_identity_pattern": "MPC 280|MPC 250|SUPERVISED ADMINISTRATION|APPROVAL OF COMPROMISE",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/36-1-doc-petition-for-supervised-administration-mpc-280-download.pdf"
+      },
+      {
+        "url": "https://www.mass.gov/doc/petition-for-approval-of-compromise-mpc-250/download",
+        "final_url": "https://www.mass.gov/doc/petition-for-approval-of-compromise-mpc-250/download",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:08:03.527Z",
+        "sha256": "40ee911520ed9fb23602468ee0324cbac4e990bb5d881b8059fb638c4fe30d79",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Petition for Approval of Compromise (MPC 250), Open PDF file, 1.01 MB",
+        "expected_identity_pattern": "MPC 280|MPC 250|SUPERVISED ADMINISTRATION|APPROVAL OF COMPROMISE",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/36-2-doc-petition-for-approval-of-compromise-mpc-250-download.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Colorado Division of Real Estate",
+    "practice_area": "Real estate",
+    "jurisdiction": "Colorado",
+    "source": {
+      "url": "https://dre.colorado.gov/real-estate-broker-contracts-and-forms",
+      "final_url": "https://dre.colorado.gov/real-estate-broker-contracts-and-forms",
+      "http_status": 403,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-09T10:08:04.387Z",
+      "sha256": "3d402cb9ade46766d9d1e218a064b7a4abd7b3e35fc4060d8175a328b70753c8",
+      "title": "ERROR: The request could not be satisfied",
+      "retrieval_status": "http-403",
+      "local_archive_path": "archive/2026-10-09-04/37-colorado-division-of-real-estate-real-estate-broker-contracts-and-forms.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Source access may be blocked; do not substitute a commercial mirror."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": []
+  },
+  {
+    "publisher": "New York Department of Labor",
+    "practice_area": "Employment",
+    "jurisdiction": "New York",
+    "source": {
+      "url": "https://dol.ny.gov/LS54-doc",
+      "final_url": "https://dol.ny.gov/LS54-doc",
+      "http_status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-09T10:08:07.010Z",
+      "sha256": "b1146c911b0d71425120493de9ebde4aa6ae692238ee1a2a725a1a77412824c9",
+      "title": "Attention Required! | Cloudflare",
+      "retrieval_status": "http-403",
+      "local_archive_path": "archive/2026-10-09-04/38-new-york-department-of-labor-ls54-doc.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Source access may be blocked; no download claim without an artifact."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": []
+  },
+  {
+    "publisher": "California Department of Insurance",
+    "practice_area": "Insurance / consumer complaint",
+    "jurisdiction": "California",
+    "source": {
+      "url": "https://www.insurance.ca.gov/01-consumers/101-help/",
+      "final_url": "https://www.insurance.ca.gov/01-consumers/101-help/",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "retrieved_at": "2026-10-09T10:13:03.611Z",
+      "sha256": "1ed73f29a80980de635c5c89c76779da7e4b0666871e61f5e50710f29ea4e3f5",
+      "title": "Getting Help",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-04/39-california-department-of-insurance-01-consumers-101-help.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Consumer assistance request forms are not policy forms or coverage certificates."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.insurance.ca.gov/01-consumers/101-help/upload/RFAnonhealth.pdf",
+        "final_url": "https://www.insurance.ca.gov/01-consumers/101-help/upload/RFAnonhealth.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:13:04.418Z",
+        "sha256": "34b681d2900770cad57a42d9373721f99fe9528d717c987a90527e079ea6889d",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Non-Health (i.e. Auto, Home, Life)",
+        "expected_identity_pattern": "REQUEST FOR ASSISTANCE|insurance",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/39-1-01-consumers-101-help-upload-rfanonhealth-pdf.pdf"
+      },
+      {
+        "url": "https://www.insurance.ca.gov/01-consumers/101-help/upload/RFAhealth.pdf",
+        "final_url": "https://www.insurance.ca.gov/01-consumers/101-help/upload/RFAhealth.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:13:04.962Z",
+        "sha256": "9a5551a68aa482eaf6961b8a3e932566009ac403e3dd5239c0c2670dd2a98408",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Health",
+        "expected_identity_pattern": "REQUEST FOR ASSISTANCE|insurance",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/39-2-01-consumers-101-help-upload-rfahealth-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Maryland Insurance Administration",
+    "practice_area": "Insurance / consumer complaint",
+    "jurisdiction": "Maryland",
+    "source": {
+      "url": "https://insurance.maryland.gov/Consumer/Pages/FileAComplaint.aspx",
+      "final_url": "https://insurance.maryland.gov/Consumer/Pages/FileAComplaint.aspx",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-09T10:13:06.159Z",
+      "sha256": "7396f18c5d7867c7ef0dca565f018b4a125e1b36512d3d03b57e7d5e636d2fe7",
+      "title": "File A Complaint",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-09-04/40-maryland-insurance-administration-consumer-pages-fileacomplaint-aspx.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Complaint forms are procedural consumer documents; do not present them as insurance agreements."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://insurance.maryland.gov/Consumer/Documents/pccomplaintform.pdf",
+        "final_url": "https://insurance.maryland.gov/Consumer/Documents/pccomplaintform.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:13:07.212Z",
+        "sha256": "7de013f8eaa71ab004219a5a60d9231d08d5fb2633d067164bd5e4d2b9c96846",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Property and Casualty",
+        "expected_identity_pattern": "COMPLAINT|Maryland|Property and Casualty|Life and Health",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/40-1-consumer-documents-pccomplaintform-pdf.pdf"
+      },
+      {
+        "url": "https://insurance.maryland.gov/Consumer/Documents/lh-agcomplaintform08-17rev.pdf",
+        "final_url": "https://insurance.maryland.gov/Consumer/Documents/lh-agcomplaintform08-17rev.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-09T10:13:08.319Z",
+        "sha256": "b1356448207e6da9847ad9e6424874ba9c49a6529cc78122bb78978252cc0cce",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Life and Health",
+        "expected_identity_pattern": "COMPLAINT|Maryland|Property and Casualty|Life and Health",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-09-04/40-2-consumer-documents-lh-agcomplaintform08-17rev-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "New Jersey Department of Health",
+    "practice_area": "Estate and personal planning",
+    "jurisdiction": "New Jersey",
+    "source": {
+      "url": "https://www.nj.gov/health/advancedirective/ad/forums-faqs/",
+      "final_url": "https://www.nj.gov/health/advancedirective/ad/forums-faqs/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-12T01:48:49.877Z",
+      "sha256": "6ed72bb8249bd77d294b00df39cdd2f509d8969bd295c78e378863041807e903",
+      "title": "Department of Health | Advance Directive | Forms & FAQs",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-12/41-new-jersey-department-of-health-health-advancedirective-ad-forums-faqs.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Proxy appointment and treatment instructions are distinct instruments.",
+      "Confirm current New Jersey execution, witness, capacity and revocation requirements.",
+      "The correct publisher path is forums-faqs, not forms-faqs."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.nj.gov/health/advancedirective/documents/proxy_directive.pdf",
+        "final_url": "https://www.nj.gov/health/advancedirective/documents/proxy_directive.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-12T01:48:50.202Z",
+        "sha256": "2f159482e3c09c9632471b1f75e146ed80a25598ac9c7fc472116803814a88ef",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Proxy Directive",
+        "expected_identity_pattern": "PROXY DIRECTIVE|INSTRUCTION DIRECTIVE",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-12/41-1-health-advancedirective-documents-proxy-directive-pdf.pdf"
+      },
+      {
+        "url": "https://www.nj.gov/health/advancedirective/documents/instruction_directive.pdf",
+        "final_url": "https://www.nj.gov/health/advancedirective/documents/instruction_directive.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-12T01:48:50.531Z",
+        "sha256": "19834b9cea698f30277e82ab348d95b7fa320ff31de87c5ce07677e47bae6ed0",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Instructive Directive",
+        "expected_identity_pattern": "PROXY DIRECTIVE|INSTRUCTION DIRECTIVE",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-12/41-2-health-advancedirective-documents-instruction-directive-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Hawaii Judiciary",
+    "practice_area": "Court procedure / housing",
+    "jurisdiction": "Hawaii; First Circuit (Oahu) only",
+    "source": {
+      "url": "https://www.courts.state.hi.us/self-help/courts/forms/oahu/district_court_forms",
+      "final_url": "https://www.courts.state.hi.us/self-help/courts/forms/oahu/district_court_forms",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-12T01:48:52.663Z",
+      "sha256": "c305e83cda83efaca9242869c7416ca375f4ceafae7cf2ed5f0e6b900b83b625",
+      "title": "Judiciary | District Court Forms for Oʻahu (First Circuit) Civil Claims Forms",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-12/42-hawaii-judiciary-self-help-courts-forms-oahu-district-court-forms.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Circuit-specific claim and counterclaim forms, not statewide contracts.",
+      "Security-deposit claim, general small claim, assumpsit complaint and counterclaim have distinct procedural use.",
+      "Review current jurisdictional limits, filing, service, fees and local rules."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.courts.state.hi.us/docs/form/oahu/1DC05.pdf",
+        "final_url": "https://www.courts.state.hi.us/docs/form/oahu/1DC05.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-12T01:48:55.492Z",
+        "sha256": "6804937b869102271ccc974f1ea0161cc62d335b9ac3bcd458269497a8c7ccdd",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Small Claims: Statement of Claim (Security Deposit)",
+        "expected_identity_pattern": "STATEMENT OF CLAIM|COMPLAINT|COUNTERCLAIM",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-12/42-1-docs-form-oahu-1dc05-pdf.pdf"
+      },
+      {
+        "url": "https://www.courts.state.hi.us/docs/form/oahu/1DC06.pdf",
+        "final_url": "https://www.courts.state.hi.us/docs/form/oahu/1DC06.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-12T01:48:59.420Z",
+        "sha256": "8a51c4d0f895a318033142854eb2ed1f890a35ac6655466e0a7b472c72318869",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Small Claims: Statement of Claim (General Form)",
+        "expected_identity_pattern": "STATEMENT OF CLAIM|COMPLAINT|COUNTERCLAIM",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-12/42-2-docs-form-oahu-1dc06-pdf.pdf"
+      },
+      {
+        "url": "https://www.courts.state.hi.us/docs/form/oahu/1DC07.pdf",
+        "final_url": "https://www.courts.state.hi.us/docs/form/oahu/1DC07.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-12T01:49:01.694Z",
+        "sha256": "70fc39e4f566f76c095a4716979ab67dc6eb3eaa165fcb1333ad126f56b27795",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Complaint (Assumpsit)",
+        "expected_identity_pattern": "STATEMENT OF CLAIM|COMPLAINT|COUNTERCLAIM",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-12/42-3-docs-form-oahu-1dc07-pdf.pdf"
+      },
+      {
+        "url": "https://www.courts.state.hi.us/docs/form/oahu/1DC14.pdf",
+        "final_url": "https://www.courts.state.hi.us/docs/form/oahu/1DC14.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-12T01:49:04.844Z",
+        "sha256": "57a48d3c5467fe8c923902f64c10825dab1f0b0e22a48a7ad800a4856b7ec558",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Counterclaim",
+        "expected_identity_pattern": "STATEMENT OF CLAIM|COMPLAINT|COUNTERCLAIM",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-12/42-4-docs-form-oahu-1dc14-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Internal Revenue Service",
+    "practice_area": "Business / tax supporting forms",
+    "jurisdiction": "Federal; U.S. persons",
+    "source": {
+      "url": "https://www.irs.gov/forms-pubs/about-form-w-9",
+      "final_url": "https://www.irs.gov/forms-pubs/about-form-w-9",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-12T01:49:05.723Z",
+      "sha256": "90c6b6b23f5766a5eae32db6da9c4fcd2c4a9818580c172c64327586a5663c8f",
+      "title": "About Form W-9, Request for Taxpayer Identification Number and Certification | Internal Revenue Service",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-12/43-internal-revenue-service-forms-pubs-about-form-w-9.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Tax certification supporting vendor onboarding, not a services agreement.",
+      "Blank form only; do not collect taxpayer numbers in the research archive."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.irs.gov/pub/irs-pdf/fw9.pdf",
+        "final_url": "https://www.irs.gov/pub/irs-pdf/fw9.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-12T01:49:06.372Z",
+        "sha256": "2d420cbb4123dcf1fb82595b2359cfbb5d81f00b9df9d359fcc7af361d093f53",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Form W-9 PDF",
+        "expected_identity_pattern": "W-9.*Request for Taxpayer|Request for Taxpayer Identification",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-12/43-1-pub-irs-pdf-fw9-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Internal Revenue Service",
+    "practice_area": "Business / tax supporting forms",
+    "jurisdiction": "Federal; foreign individuals with applicable U.S. withholding obligations",
+    "source": {
+      "url": "https://www.irs.gov/forms-pubs/about-form-w-8-ben",
+      "final_url": "https://www.irs.gov/forms-pubs/about-form-w-8-ben",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-12T01:49:06.703Z",
+      "sha256": "b851d1ea7aa37d282063363fd39762217d37936482d000b29c01b0940091e4ec",
+      "title": "About Form W-8 BEN, Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting (Individuals) | Internal Revenue Service",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-12/44-internal-revenue-service-forms-pubs-about-form-w-8-ben.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Individual beneficial-owner tax certificate, not the entity W-8BEN-E form.",
+      "Eligibility, treaty claims, expiration and withholding require tax review."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": [
+      {
+        "url": "https://www.irs.gov/pub/irs-pdf/fw8ben.pdf",
+        "final_url": "https://www.irs.gov/pub/irs-pdf/fw8ben.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-12T01:49:06.997Z",
+        "sha256": "b821dc1172c91b348a65675529cc792782f11fc1ae8579df92d627113203f918",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review",
+        "link_text": "Form W-8 BEN PDF",
+        "expected_identity_pattern": "W-8BEN|Certificate of Foreign Status",
+        "format": "pdf",
+        "signature_check": "passed",
+        "local_archive_path": "archive/2026-10-12/44-1-pub-irs-pdf-fw8ben-pdf.pdf"
+      }
+    ]
+  },
+  {
+    "publisher": "Texas Real Estate Commission",
+    "practice_area": "Real estate",
+    "jurisdiction": "Texas",
+    "source": {
+      "url": "https://www.trec.texas.gov/forms/sellers-temporary-residential-lease",
+      "retrieved_at": "2026-10-12T01:49:17.665Z",
+      "retrieval_status": "fetch-failed",
+      "error": "fetch failed"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Temporary seller occupancy related to a sale; not a general long-term residential lease.",
+      "Use the published download, not the marked-up draft linked nearby."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": []
+  },
+  {
+    "publisher": "Texas Real Estate Commission",
+    "practice_area": "Real estate",
+    "jurisdiction": "Texas",
+    "source": {
+      "url": "https://www.trec.texas.gov/forms/amendment-contract",
+      "retrieved_at": "2026-10-12T01:49:28.368Z",
+      "retrieval_status": "fetch-failed",
+      "error": "fetch failed"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Requires identification and review of the underlying contract."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": []
+  },
+  {
+    "publisher": "Texas Real Estate Commission",
+    "practice_area": "Real estate",
+    "jurisdiction": "Texas",
+    "source": {
+      "url": "https://www.trec.texas.gov/forms/non-realty-items-addendum",
+      "retrieved_at": "2026-10-12T01:49:39.049Z",
+      "retrieval_status": "fetch-failed",
+      "error": "fetch failed"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Sale-related personal-property addendum, not a standalone bill of sale."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": []
+  },
+  {
+    "publisher": "Pennsylvania Insurance Department",
+    "practice_area": "Insurance / consumer complaint",
+    "jurisdiction": "Pennsylvania",
+    "source": {
+      "url": "https://www.pa.gov/agencies/insurance/consumer-help-center/complaints-questions-help",
+      "final_url": "https://www.pa.gov/agencies/insurance/consumer-help-center/complaints-questions-help",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "retrieved_at": "2026-10-12T01:49:42.582Z",
+      "sha256": "02f6c81bd8a08ee4adffb42b90a158e3d9207dcd64385915693d2cb6e397a745",
+      "title": "File a Complaint, Ask a Question or Get Help | Insurance Department | Commonwealth of Pennsylvania",
+      "retrieval_status": "retrieved-pending-review",
+      "local_archive_path": "archive/2026-10-12/48-pennsylvania-insurance-department-agencies-insurance-consumer-help-center-complaints-questions-help.html"
+    },
+    "version_evidence": [],
+    "license_links": [],
+    "review_notes": [
+      "Official complaint routing and online portal; no downloadable contract selected.",
+      "Old insurance.pa.gov complaint URL redirects to the department homepage; use this specific landing page."
+    ],
+    "legal_review": "pending",
+    "reuse_review": "pending",
+    "publication_status": "not-approved",
+    "artifacts": []
+  }
+]

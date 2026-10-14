@@ -1,0 +1,53 @@
+{
+  "state": "Alaska",
+  "publisher": "Alaska Court System",
+  "url": "https://www.courts.alaska.gov/shc/probate/forms.htm",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "p-110\\.pdf",
+      "title": "Affidavit for Collection of Personal Property of Decedent",
+      "form_id": "P-110",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.courts.alaska.gov/shc/probate/forms.htm",
+    "retrieved_at": "2026-10-14T09:00:55.971Z",
+    "retrieval_status": "fetch-failed",
+    "error": "fetch failed"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.courts.alaska.gov/shc/probate/forms.htm",
+      "retrieved_at": "2026-10-14T09:00:55.166Z",
+      "retrieval_status": "fetch-failed",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.courts.alaska.gov/shc/probate/forms.htm",
+      "retrieved_at": "2026-10-14T09:00:55.971Z",
+      "retrieval_status": "fetch-failed",
+      "error": "fetch failed"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "p-110\\.pdf",
+      "title": "Affidavit for Collection of Personal Property of Decedent",
+      "form_id": "P-110",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": []
+}

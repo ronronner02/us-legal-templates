@@ -1,0 +1,65 @@
+{
+  "state": "Tennessee",
+  "publisher": "Tennessee Health Facilities Commission",
+  "url": "https://www.tn.gov/hfc/health-care-decision-making/advanced-directives-for-health-care-decision-making--english-.html",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "(?:advance|advanced).*directive.*\\.pdf",
+      "title": "Advance Directive for Health Care",
+      "family_id": "health-care-directive",
+      "identity": "ADVANCE DIRECTIVE",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.tn.gov/hfc/health-care-decision-making/advanced-directives-for-health-care-decision-making--english-.html",
+    "final_url": "https://www.tn.gov/hfc/health-care-decision-making/advanced-directives-for-health-care-decision-making--english-.html",
+    "http_status": 200,
+    "content_type": "text/html;charset=utf-8",
+    "retrieved_at": "2026-10-14T09:01:03.298Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": "12132",
+    "sha256": "d628de2039dac67edfb7e4ec05b1b8f6a5d79895d4fb852165c5f3e1ec2e24b5",
+    "title": "Advanced Directives for Health Care Decision Making FAQ (English)",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14/13-tennessee-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.tn.gov/hfc/health-care-decision-making/advanced-directives-for-health-care-decision-making--english-.html",
+      "final_url": "https://www.tn.gov/hfc/health-care-decision-making/advanced-directives-for-health-care-decision-making--english-.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "retrieved_at": "2026-10-14T09:01:03.298Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": "12132",
+      "sha256": "d628de2039dac67edfb7e4ec05b1b8f6a5d79895d4fb852165c5f3e1ec2e24b5",
+      "title": "Advanced Directives for Health Care Decision Making FAQ (English)",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "(?:advance|advanced).*directive.*\\.pdf",
+      "title": "Advance Directive for Health Care",
+      "family_id": "health-care-directive",
+      "identity": "ADVANCE DIRECTIVE",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Alert:  New Home health and hospice Certificate of Need applicants please review the attached link of the (CMS) enacted 6-month nationwide moratorium temporarily halting the processing of initial Medicare enrollment applications for new Home Health Agencies (HHAs) and hospices effective May 20, 2026. (Click on This Banner)",
+      "url": "https://www.cms.gov/files/document/qso-26-11-hha-hospice-original-release-2026-05-20.pdf"
+    }
+  ]
+}

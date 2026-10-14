@@ -1,0 +1,682 @@
+{
+  "state": "Florida",
+  "publisher": "Miami-Dade County Clerk of the Court and Comptroller",
+  "url": "https://www.miamidadeclerk.gov/clerk/small-claims.page",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": "333-Web\\.pdf",
+      "title": "Small Claims Statement of Claim ? Miami-Dade County",
+      "family_id": "small-claims-complaint",
+      "identity": "STATEMENT OF CLAIM",
+      "max": 1
+    },
+    {
+      "pattern": "423-Web\\.pdf",
+      "title": "Small Claims Summons / Notice to Appear ? Miami-Dade County",
+      "family_id": "small-claims-summons",
+      "identity": "SUMMONS.*NOTICE TO APPEAR",
+      "max": 1
+    }
+  ],
+  "jurisdiction": "Florida; Miami-Dade County",
+  "flags": [
+    "county-specific-form; local-filing-review-pending"
+  ],
+  "source": {
+    "url": "https://www.miamidadeclerk.gov/clerk/small-claims.page",
+    "final_url": "https://www.miamidadeclerk.gov/clerk/small-claims.page",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:39:58.180Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": "70389       ",
+    "sha256": "150160abf67eb6ad9c57aef5bdd8899442450aea934a82f1816287153ebc6141",
+    "title": "Small Claims",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/04-florida-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.miamidadeclerk.gov/clerk/small-claims.page",
+      "final_url": "https://www.miamidadeclerk.gov/clerk/small-claims.page",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:39:58.180Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": "70389       ",
+      "sha256": "150160abf67eb6ad9c57aef5bdd8899442450aea934a82f1816287153ebc6141",
+      "title": "Small Claims",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "333-Web\\.pdf",
+      "title": "Small Claims Statement of Claim ? Miami-Dade County",
+      "family_id": "small-claims-complaint",
+      "identity": "STATEMENT OF CLAIM",
+      "max": 1,
+      "url": "http://www.miamidadeclerk.gov/resources-clerk/library/Civil/333-Web.pdf",
+      "link_text": "Small Claims Statement of Claim",
+      "format": "pdf",
+      "receipt": {
+        "url": "http://www.miamidadeclerk.gov/resources-clerk/library/Civil/333-Web.pdf",
+        "final_url": "https://www.miamidadeclerk.gov/resources-clerk/library/Civil/333-Web.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:00.711Z",
+        "etag": "\"80e43662cf8dd1:0\"",
+        "last_modified": "Tue, 30 Jun 2026 20:31:09 GMT",
+        "content_length": "363305",
+        "sha256": "13595b1a05b9bf10752e0af7abee6e1be7888b20b0c73537110bf434557b6f65",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "http://www.miamidadeclerk.gov/resources-clerk/library/Civil/333-Web.pdf",
+          "final_url": "https://www.miamidadeclerk.gov/resources-clerk/library/Civil/333-Web.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:00.711Z",
+          "etag": "\"80e43662cf8dd1:0\"",
+          "last_modified": "Tue, 30 Jun 2026 20:31:09 GMT",
+          "content_length": "363305",
+          "sha256": "13595b1a05b9bf10752e0af7abee6e1be7888b20b0c73537110bf434557b6f65",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "13595b1a05b9bf10752e0af7abee6e1be7888b20b0c73537110bf434557b6f65",
+      "local_archive_path": "archive/2026-10-14-08/04-small-claims-statement-of-claim-miami-dade-county-13595b1a05b9.pdf",
+      "bytes": 363305,
+      "text_length": 5391,
+      "pages": 2,
+      "identity_excerpt": "IN THE COUNTY COURT IN AND FOR MIAMI-DADE COUNTY, FLORIDA. DIVISION  CIVIL  DISTRICTS  OTHER STATEMENT OF CLAIM (File in Duplicate Plus One For Each Defendant) CASE NUMBER SECTION NO. PLAINTIFF VS. DEFENDANT(S) CLOCK IN The Plaintiff sues the Defendant for money owed Plaintiff by Defendant; and which is past due and unpaid; for (As marked (x) below): Address: Phone Number:  Good, wares and merchandise sold by plaintiff, to defendant;  Work done and materials furnished by plaintiff, to defendant;  Money lent by plaintiff to the defendant which is due and payable;  Money due to plaintiff upon accounts stated and agreed to between them;  On a written instrument, copy of which is attached hereto;  Rent for certain premises in Miami-Dade County, Florida, VIZ;  Other (Explain)  Any additional facts in connection with any of the above: (USE ADDITIONAL SHEET IF NECESSARY) Where Plaintiff demands judgment in the sum of $ ________________ together with court costs and any further costs which the Court may assess. The Plaintiff, ________________________________________ says the foregoing is a just and true statement of the amount owed by defendant to plaintiff, exclusive of all lawful setoffs, and that defendant has no lawful defenses which would preclude the collection of said amount. Affiant states that the defendant(s) is/are not in the military service of the United States. Attorney/Plaintiff Signature Attorney’s Bar No. Address of Attorney/Plaintiff Telephone No. Email Address: The foregoing instrument was acknowledged before me this ___________ day of ___________________________, 20____ by ____________________________ who is personally known to me or who has produced _____________________ as identification and did  / did not  take an oath. SWORN TO AND SUBSCRIBE",
+      "revision_evidence": [
+        " SEE REVERSE CLK/CT. 333 Rev. 06/26 Clerk’s web address: www.miamidadeclerk.gov SERVICE OF PROCESS  ",
+        ", call 711.” CLK/CT. 333 Rev. 06/26 Clerk’s web address: www.miamidadeclerk.gov"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "423-Web\\.pdf",
+      "title": "Small Claims Summons / Notice to Appear ? Miami-Dade County",
+      "family_id": "small-claims-summons",
+      "identity": "SUMMONS.*NOTICE TO APPEAR",
+      "max": 1,
+      "url": "http://www.miamidadeclerk.gov/resources-clerk/library/small_claims/423-Web.pdf",
+      "link_text": "Summons / Notice to Appear for Pretrial Conference District Court",
+      "format": "pdf",
+      "receipt": {
+        "url": "http://www.miamidadeclerk.gov/resources-clerk/library/small_claims/423-Web.pdf",
+        "final_url": "https://www.miamidadeclerk.gov/resources-clerk/library/small_claims/423-Web.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:03.483Z",
+        "etag": "\"0c06755d28dd1:0\"",
+        "last_modified": "Tue, 30 Jun 2026 20:52:16 GMT",
+        "content_length": "544542",
+        "sha256": "6f1fe90de8057ecc0c0c9c52c08039c332de1e84923e35bbc9dfdeec96f74940",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "http://www.miamidadeclerk.gov/resources-clerk/library/small_claims/423-Web.pdf",
+          "final_url": "https://www.miamidadeclerk.gov/resources-clerk/library/small_claims/423-Web.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:03.483Z",
+          "etag": "\"0c06755d28dd1:0\"",
+          "last_modified": "Tue, 30 Jun 2026 20:52:16 GMT",
+          "content_length": "544542",
+          "sha256": "6f1fe90de8057ecc0c0c9c52c08039c332de1e84923e35bbc9dfdeec96f74940",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "6f1fe90de8057ecc0c0c9c52c08039c332de1e84923e35bbc9dfdeec96f74940",
+      "local_archive_path": "archive/2026-10-14-08/04-small-claims-summons-notice-to-appear-miami-dade-county-6f1fe90de805.pdf",
+      "bytes": 544542,
+      "text_length": 7458,
+      "pages": 2,
+      "identity_excerpt": "IN THE COUNTY COURT IN AND FOR MIAMI-DADE COUNTY, FLORIDA. DEPARTMENT  CIVIL  DISTRICT COURTS  OTHER SUMMONS/NOTICE TO APPEAR FOR PRETRIAL CONFERENCE DISTRICT COURT (File in Quadruplicate) ___________________________________________________________________ ___________________________________________________________________ ___________________________________________________________________ CASE NUMBER SECTION NO. PLAINTIFF(S) VS. DEFENDANT(S) CLOCK IN DEFENDANT(S) TO BE SERVED AT: STATE OF FLORIDA NOTICE TO PLAINTIFF(S) AND DEFENDANT(S) YOU ARE HEREBY NOTIFIED to appear in person or by attorney at the location indicated below: “For those unable to pay for an attorney, information on how to seek free legal assistance can be found at www.dadecountyprobono.org.”  ONS JUSTICE CENTER CENTRAL COURT  NORTH DADE JUSTICE CENTER  RHIALEAH DIST ICT COURT  CORAL GABLES DISTRICT COURT  SOUTH DADE JUSTICE CENTER  JOSEPH CALEB CENTER COURT (Addresses for court locations are printed on the back of this form) on _________________________________,20 ______, ___________________. M., in courtroom _____________________ before a Judge of this Court. Section # __________________________________. IMPORTANT – READ CAREFULLY THE CASE WILL NOT BE TRIED AT THE PRETRIAL CONFERENCE, BUT MAY BE MEDIATED AT THAT TIME. DO NOT BRING WITNESS(ES). YOU MUST APPEAR IN PERSON OR BY ATTORNEY. YOU MUST CONFIRM VIA A JUDGE’S ORDER AN APPROVAL TO APPEAR REMOTELY VIA ZOOM. WHOEVER APPEARS FOR A PARTY MUST HAVE FULL AUTHORITY TO SETTLE FOR ALL AMOUNTS FROM ZERO TO THE AMOUNT OF CLAIM WITHOUT FURTHER CONSULTATION. FAILURE TO COMPLY MAY RESULT IN THE IMPOSITION OF SANCTIONS, INCLUDING COSTS, ATTORNEY FEES, ENTRY OF JUDGMENT, DISMISSAL. The defendant(s) must appear in court on the date specified in order to ",
+      "revision_evidence": [
+        "y agreement. CLK/CT. 423 Rev. 06/26 Clerk’s web address: www.miamidadeclerk.govIMPORTANT-SEE REVERSE ",
+        ", call 711.” CLK/CT. 423 Rev. 06/26 IMPORTANT-SEE REVERSE"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.miamidadeclerk.gov/clerk/small-claims.page#content"
+    },
+    {
+      "text": "click here",
+      "url": "https://www.miamidadeclerk.gov/clerk/jurors.page"
+    },
+    {
+      "text": "",
+      "url": "https://www.miamidadeclerk.gov/clerk/home.page"
+    },
+    {
+      "text": "ABOUT US",
+      "url": "https://www.miamidadeclerk.gov/clerk/about-us.page"
+    },
+    {
+      "text": "CONTACT US",
+      "url": "https://www.miamidadeclerk.gov/clerk/contact.page"
+    },
+    {
+      "text": "My Account",
+      "url": "https://www2.miamidadeclerk.gov/usermanagementservices"
+    },
+    {
+      "text": "",
+      "url": "https://www.miamidadeclerk.gov/clerk/home.page"
+    },
+    {
+      "text": "Traffic & Parking",
+      "url": "https://www.miamidadeclerk.gov/clerk/traffic-parking.page"
+    },
+    {
+      "text": "Civil Traffic Infractions",
+      "url": "https://www.miamidadeclerk.gov/clerk/civil-traffic-infractions.page"
+    },
+    {
+      "text": "Criminal Traffic Violations",
+      "url": "https://www.miamidadeclerk.gov/clerk/criminal-traffic-violations.page"
+    },
+    {
+      "text": "Parking Citations",
+      "url": "https://www.miamidadeclerk.gov/clerk/parking-citations.page"
+    },
+    {
+      "text": "Late Payments",
+      "url": "https://www.miamidadeclerk.gov/clerk/late-payments.page"
+    },
+    {
+      "text": "Registration Stops or Tow Orders",
+      "url": "https://www.miamidadeclerk.gov/clerk/registration-stop-tow-order.page"
+    },
+    {
+      "text": "Driver License Suspension Information",
+      "url": "https://www.miamidadeclerk.gov/clerk/suspended-license.page"
+    },
+    {
+      "text": "Traffic School",
+      "url": "https://www.miamidadeclerk.gov/clerk/traffic-school.page"
+    },
+    {
+      "text": "Civil Infractions (including Boating, Wildlife, Parks and Others)",
+      "url": "https://www.miamidadeclerk.gov/clerk/civil-infractions.page"
+    },
+    {
+      "text": "Request Certified Copies - Traffic Cases Online",
+      "url": "https://www.miamidadeclerk.gov/clerk/certified-copies.page"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://www.miamidadeclerk.gov/clerk/traffic-parking.page"
+    },
+    {
+      "text": "Civil Court",
+      "url": "https://www.miamidadeclerk.gov/clerk/civil-court.page"
+    },
+    {
+      "text": "Family Court",
+      "url": "https://www.miamidadeclerk.gov/clerk/family-court.page"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://www.miamidadeclerk.gov/clerk/small-claims.page"
+    },
+    {
+      "text": "Central Depository Child Support & Alimony",
+      "url": "https://www.miamidadeclerk.gov/clerk/child-support-alimony.page"
+    },
+    {
+      "text": "Restraining Orders",
+      "url": "https://www.miamidadeclerk.gov/clerk/restraining-orders.page"
+    },
+    {
+      "text": "Domestic Violence",
+      "url": "https://www.miamidadeclerk.gov/clerk/domestic-violence.page"
+    },
+    {
+      "text": "Juvenile Court",
+      "url": "https://www.miamidadeclerk.gov/clerk/juvenile-court.page"
+    },
+    {
+      "text": "Landlord & Tenant Disputes",
+      "url": "https://www.miamidadeclerk.gov/clerk/landlord-tenant-disputes.page"
+    },
+    {
+      "text": "Marriage Licenses",
+      "url": "https://www.miamidadeclerk.gov/clerk/marriage-licenses.page"
+    },
+    {
+      "text": "Probate Court",
+      "url": "https://www.miamidadeclerk.gov/clerk/probate-court.page"
+    },
+    {
+      "text": "Mental Health Court",
+      "url": "https://www.miamidadeclerk.gov/clerk/mental-health-court.page"
+    },
+    {
+      "text": "Simplified Divorces",
+      "url": "https://www.miamidadeclerk.gov/clerk/simplified-divorces.page"
+    },
+    {
+      "text": "Judgments",
+      "url": "https://www.miamidadeclerk.gov/clerk/judgments.page"
+    },
+    {
+      "text": "eFiling",
+      "url": "https://www.miamidadeclerk.gov/clerk/e-filing.page"
+    },
+    {
+      "text": "Appellate Division",
+      "url": "https://www.miamidadeclerk.gov/clerk/appellate-division.page"
+    },
+    {
+      "text": "Request Certified Copies – Civil, Family or Probate Cases Online",
+      "url": "https://www.miamidadeclerk.gov/clerk/certified-copies.page"
+    },
+    {
+      "text": "Search for Cases / Order Certified Copies",
+      "url": "https://www2.miamidadeclerk.gov/ocs/"
+    },
+    {
+      "text": "Criminal Court",
+      "url": "https://www.miamidadeclerk.gov/clerk/criminal-court.page"
+    },
+    {
+      "text": "Bond Refunds",
+      "url": "https://www.miamidadeclerk.gov/clerk/bond-refunds.page"
+    },
+    {
+      "text": "Collections",
+      "url": "https://www.miamidadeclerk.gov/clerk/collections.page"
+    },
+    {
+      "text": "Suspended Driver Licenses",
+      "url": "https://www.miamidadeclerk.gov/clerk/criminal-suspended-driver-license.page"
+    },
+    {
+      "text": "Payments on Criminal Cases",
+      "url": "https://www.miamidadeclerk.gov/clerk/criminal-payments.page"
+    },
+    {
+      "text": "Identity Issues",
+      "url": "https://www.miamidadeclerk.gov/clerk/identity-issues.page"
+    },
+    {
+      "text": "Criminal Records",
+      "url": "https://www.miamidadeclerk.gov/clerk/criminal-records.page"
+    },
+    {
+      "text": "Request Certified Copies - Criminal Cases Online",
+      "url": "https://www.miamidadeclerk.gov/clerk/criminal-certified-copies.page"
+    },
+    {
+      "text": "Search Criminal Cases / Order Certified Copies",
+      "url": "https://www2.miamidadeclerk.gov/cjis/"
+    },
+    {
+      "text": "Jurors",
+      "url": "https://www.miamidadeclerk.gov/clerk/jurors.page"
+    },
+    {
+      "text": "Jury Duty Guidelines",
+      "url": "https://www.miamidadeclerk.gov/clerk/jury-guidelines.page"
+    },
+    {
+      "text": "Where to Park",
+      "url": "https://www.miamidadeclerk.gov/clerk/jurors-parking.page"
+    },
+    {
+      "text": "Postponement or Excusal Request",
+      "url": "https://www.miamidadeclerk.gov/clerk/postponement-excusal.page"
+    },
+    {
+      "text": "Payment & Compensation",
+      "url": "https://www.miamidadeclerk.gov/clerk/juror-payment.page"
+    },
+    {
+      "text": "Received a Jury Summons?",
+      "url": "https://cjp.miamidadeclerk.gov/jury/"
+    },
+    {
+      "text": "Clearview Juror Portal",
+      "url": "https://cjp.miamidadeclerk.gov/jury/"
+    },
+    {
+      "text": "Home & Property",
+      "url": "https://www.miamidadeclerk.gov/clerk/home-property.page"
+    },
+    {
+      "text": "Declaration of Domicile",
+      "url": "https://www.miamidadeclerk.gov/clerk/declaration-domicile.page"
+    },
+    {
+      "text": "Deed Fraud",
+      "url": "https://www.miamidadeclerk.gov/clerk/deed-fraud.page"
+    },
+    {
+      "text": "Landlord & Tenant Disputes",
+      "url": "https://www.miamidadeclerk.gov/clerk/landlord-tenant-disputes.page"
+    },
+    {
+      "text": "Property Fraud Alert",
+      "url": "https://www.miamidadeclerk.gov/clerk/property-fraud.page"
+    },
+    {
+      "text": "Eviction Filing Court Location Finder",
+      "url": "https://www2.miamidadeclerk.gov/Courtfinder"
+    },
+    {
+      "text": "Code Enforcement",
+      "url": "https://www.miamidadeclerk.gov/clerk/code-enforcement.page"
+    },
+    {
+      "text": "Records Library",
+      "url": "https://www.miamidadeclerk.gov/clerk/records-library.page"
+    },
+    {
+      "text": "Property Tax Deeds",
+      "url": "https://www.miamidadeclerk.gov/clerk/property-tax-deeds.page"
+    },
+    {
+      "text": "Mortgage Foreclosures",
+      "url": "https://www.miamidadeclerk.gov/clerk/mortgage-foreclosures.page"
+    },
+    {
+      "text": "Value Adjustment Board",
+      "url": "https://www.miamidadeclerk.gov/clerk/value-adjustment-board.page"
+    },
+    {
+      "text": "Value Adjustment Board AXIA Upload Instructions",
+      "url": "https://www.miamidadeclerk.gov/clerk/vab-axia.page"
+    },
+    {
+      "text": "Value Adjustment Board Procedures",
+      "url": "https://www.miamidadeclerk.gov/clerk/value-adjustment-board-procedures.page"
+    },
+    {
+      "text": "View all Home & Property Topics",
+      "url": "https://www.miamidadeclerk.gov/clerk/home-property.page"
+    },
+    {
+      "text": "Records",
+      "url": "https://www.miamidadeclerk.gov/clerk/records.page"
+    },
+    {
+      "text": "Official Records",
+      "url": "https://www.miamidadeclerk.gov/clerk/official-records.page"
+    },
+    {
+      "text": "Certified Copies",
+      "url": "https://www.miamidadeclerk.gov/clerk/certified-copies.page"
+    },
+    {
+      "text": "Records Management",
+      "url": "https://www.miamidadeclerk.gov/clerk/records-management.page"
+    },
+    {
+      "text": "Public Records Requests",
+      "url": "https://www.miamidadeclerk.gov/clerk/public-records-requests.page"
+    },
+    {
+      "text": "Commercial Data Services",
+      "url": "https://www.miamidadeclerk.gov/clerk/commercial-data-services.page"
+    },
+    {
+      "text": "Property Fraud Alert Information",
+      "url": "https://www.miamidadeclerk.gov/clerk/property-fraud.page"
+    },
+    {
+      "text": "Search Records",
+      "url": "https://www.miamidadeclerk.gov/clerk/records.page"
+    },
+    {
+      "text": "Clerk of the Board",
+      "url": "https://www.miamidadeclerk.gov/clerk/cob-home.page"
+    },
+    {
+      "text": "Meeting Agendas & Minutes",
+      "url": "https://www.miamidadeclerk.gov/clerk/cob-agendas-minutes.page"
+    },
+    {
+      "text": "Calendars and Schedules",
+      "url": "https://www.miamidade.gov/global/calendar/clerk-of-the-board.page"
+    },
+    {
+      "text": "Ordinances & Resolutions",
+      "url": "https://www.miamidadeclerk.gov/clerk/cob-ordinances-resolutions.page"
+    },
+    {
+      "text": "Advisory Boards & Vacancies",
+      "url": "https://www.miamidadeclerk.gov/clerk/cob-vacancies.page"
+    },
+    {
+      "text": "Hearing Examiner Panel",
+      "url": "https://www.miamidadeclerk.gov/clerk/cob-hearing-examiner.page"
+    },
+    {
+      "text": "Lobbyist Registration and Information",
+      "url": "https://www.miamidadeclerk.gov/clerk/cob-lobbyist-registration.page"
+    },
+    {
+      "text": "Fortunetellers, Clairvoyants, and Similar Occupations",
+      "url": "https://www.miamidadeclerk.gov/clerk/cob-occult-sciences.page"
+    },
+    {
+      "text": "Home Solicitation Sales",
+      "url": "https://www.miamidadeclerk.gov/clerk/cob-home-solicitation-sales.page"
+    },
+    {
+      "text": "About Clerk of the Board",
+      "url": "https://www.miamidadeclerk.gov/clerk/cob-about.page"
+    },
+    {
+      "text": "Contact Clerk of the Board",
+      "url": "https://www.miamidadeclerk.gov/clerk/cob-contact.page"
+    },
+    {
+      "text": "Comptroller Operations",
+      "url": "https://www.miamidadeclerk.gov/clerk/comptroller-operations.page"
+    },
+    {
+      "text": "Comptroller Finance Operations",
+      "url": "https://www.miamidadeclerk.gov/clerk/finance-home.page"
+    },
+    {
+      "text": "Comptroller Audit Operations",
+      "url": "https://www.miamidadeclerk.gov/clerk/comptroller-audit-operations-main.page"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.miamidadeclerk.gov/clerk/home.page"
+    },
+    {
+      "text": "Civil Court",
+      "url": "https://www.miamidadeclerk.gov/clerk/civil-court.page"
+    },
+    {
+      "text": "Civil Court",
+      "url": "https://www.miamidadeclerk.gov/clerk/civil-court.page"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://www.miamidadeclerk.gov/clerk/small-claims.page"
+    },
+    {
+      "text": "Landlord & Tenant Disputes",
+      "url": "https://www.miamidadeclerk.gov/clerk/landlord-tenant-disputes.page"
+    },
+    {
+      "text": "Judgments",
+      "url": "https://www.miamidadeclerk.gov/clerk/judgments.page"
+    },
+    {
+      "text": "eFiling",
+      "url": "https://www.miamidadeclerk.gov/clerk/e-filing.page"
+    },
+    {
+      "text": "Appellate Division",
+      "url": "https://www.miamidadeclerk.gov/clerk/appellate-division.page"
+    },
+    {
+      "text": "Request Certified Copies - Civil Cases Online",
+      "url": "https://www.miamidadeclerk.gov/clerk/civil-certified-copies.page"
+    },
+    {
+      "text": "Osvaldo N. Soto Miami-Dade Justice Center",
+      "url": "https://www.miamidadeclerk.gov/clerk/location-Osvaldo-Soto.page"
+    },
+    {
+      "text": "district court locations",
+      "url": "https://www.miamidadeclerk.gov/clerk/location-district-courts.page"
+    },
+    {
+      "text": "LEARN MORE ABOUT SMALL CLAIMS CASE PRESENTATIONS",
+      "url": "https://www.miamidade.gov/global/service.page?Mduid_service=ser1528985637892834"
+    },
+    {
+      "text": "sunbiz.org",
+      "url": "https://dos.myflorida.com/sunbiz/"
+    },
+    {
+      "text": "Florida Department of State, Division of Corporations",
+      "url": "https://dos.myflorida.com/sunbiz/"
+    },
+    {
+      "text": "Civil Cover Sheet",
+      "url": "https://www.miamidadeclerk.gov/resources-clerk/library/096-Web.pdf"
+    },
+    {
+      "text": "Execution (Small Claims)",
+      "url": "http://www.miamidadeclerk.gov/resources-clerk/library/small_claims/641-Web.pdf"
+    },
+    {
+      "text": "How to File a Small Claims Action",
+      "url": "http://www.miamidadeclerk.gov/resources-clerk/library/small_claims/881-Web.pdf"
+    },
+    {
+      "text": "Small claims: The who, what, where and why of collection lawsuits",
+      "url": "https://www.floridabar.org/public/consumer/tip015/"
+    },
+    {
+      "text": "Small Claims Statement of Claim",
+      "url": "http://www.miamidadeclerk.gov/resources-clerk/library/Civil/333-Web.pdf"
+    },
+    {
+      "text": "Summons / Notice to Appear for Pretrial Conference District Court",
+      "url": "http://www.miamidadeclerk.gov/resources-clerk/library/small_claims/423-Web.pdf"
+    },
+    {
+      "text": "Traffic & Parking",
+      "url": "https://www.miamidadeclerk.gov/clerk/traffic-parking.page"
+    },
+    {
+      "text": "Civil, Family Court & Marriage",
+      "url": "https://www.miamidadeclerk.gov/clerk/civil-family-court.page"
+    },
+    {
+      "text": "Criminal Court",
+      "url": "https://www.miamidadeclerk.gov/clerk/criminal-court.page"
+    },
+    {
+      "text": "Jurors",
+      "url": "https://www.miamidadeclerk.gov/clerk/jurors.page"
+    },
+    {
+      "text": "Home & Property",
+      "url": "https://www.miamidadeclerk.gov/clerk/home-property.page"
+    },
+    {
+      "text": "Records",
+      "url": "https://www.miamidadeclerk.gov/clerk/records.page"
+    },
+    {
+      "text": "About",
+      "url": "https://www.miamidadeclerk.gov/clerk/about-us.page"
+    },
+    {
+      "text": "Clerk of the Board",
+      "url": "https://www.miamidadeclerk.gov/clerk/cob-home.page"
+    },
+    {
+      "text": "Career Opportunities",
+      "url": "https://www.miamidadeclerk.gov/clerk/careers.page"
+    },
+    {
+      "text": "Pay Parking",
+      "url": "https://www2.miamidadeclerk.gov/payparking/parkingSearch.aspx"
+    },
+    {
+      "text": "Search Records",
+      "url": "https://www.miamidadeclerk.gov/clerk/records.page"
+    },
+    {
+      "text": "Request Certified Copies",
+      "url": "https://www.miamidadeclerk.gov/clerk/certified-copies.page"
+    },
+    {
+      "text": "Marriage Licenses",
+      "url": "https://www2.miamidadeclerk.gov/mlsweb/LicenseSearch"
+    },
+    {
+      "text": "Pay Traffic Citations",
+      "url": "https://www2.miamidadeclerk.gov/trafficapp/AllSearches.aspx"
+    },
+    {
+      "text": "Central Depository Child Support / Alimony",
+      "url": "https://www2.miamidadeclerk.gov/cd"
+    },
+    {
+      "text": "Eleventh Judicial Circuit of Florida",
+      "url": "https://www.jud11.flcourts.org/"
+    },
+    {
+      "text": "",
+      "url": "https://www.miamidadeclerk.gov/clerk/home.page"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/MiamiDadeClerkandComptroller/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/miamidadecoc"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/miamidadeclerkofcourts/"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/miami-dade-clerk-of-the-court-and-comptroller/posts/"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/@JuanFernandezBarquinMDCClerk/shorts"
+    }
+  ]
+}

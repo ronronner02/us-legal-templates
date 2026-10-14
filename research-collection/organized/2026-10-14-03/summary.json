@@ -1,0 +1,26 @@
+{
+  "organized_at": "2026-10-14T10:05:38.155Z",
+  "previous_inventory": "organized/2026-10-14-02/inventory.json",
+  "previous_files": 218,
+  "new_downloaded_files": 22,
+  "downloaded_files": 240,
+  "unique_hashes": 240,
+  "state_specific_files": 214,
+  "federal_files": 16,
+  "shared_commercial_files": 10,
+  "states_with_downloads": 50,
+  "states_without_downloads": [],
+  "added_states": [
+    "Kansas",
+    "Missouri"
+  ],
+  "hashes_matched": 240,
+  "parser_passed": 239,
+  "viewer_required": 1,
+  "new_parser_passed": 22,
+  "unresolved_selected_documents": 3,
+  "remote_recheck": "not-run; acquisition receipts only",
+  "directory_refresh": "not-run; inherited October 12 state labels",
+  "legal_approvals": 0,
+  "publication_approvals": 0
+}

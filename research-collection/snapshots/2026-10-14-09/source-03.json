@@ -1,0 +1,1339 @@
+{
+  "state": "Kansas",
+  "publisher": "Kansas Judicial Council",
+  "url": "https://www.kjc.ks.gov/legal-forms/small-estates-affidavit-k-s-a-59-1507b",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "/2398/",
+      "title": "Small Estates Affidavit",
+      "family_id": "small-estate-affidavit",
+      "identity": "SMALL ESTATES AFFIDAVIT"
+    }
+  ],
+  "source": {
+    "url": "https://www.kjc.ks.gov/legal-forms/small-estates-affidavit-k-s-a-59-1507b",
+    "final_url": "https://www.kjc.ks.gov/legal-forms/small-estates-affidavit-k-s-a-59-1507b",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:58:49.607Z",
+    "etag": null,
+    "last_modified": "Tue, 13 Oct 2026 23:07:24 GMT",
+    "content_length": "26654",
+    "sha256": "1704fa9650a0dde24a93b851a13fee14c90eb039482389a90d330c8b5f52b444",
+    "title": "Small Estates Affidavit - K.S.A. 59-1507b | KS Judicial Council",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-09/03-kansas-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.kjc.ks.gov/legal-forms/small-estates-affidavit-k-s-a-59-1507b",
+      "final_url": "https://www.kjc.ks.gov/legal-forms/small-estates-affidavit-k-s-a-59-1507b",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:58:49.607Z",
+      "etag": null,
+      "last_modified": "Tue, 13 Oct 2026 23:07:24 GMT",
+      "content_length": "26654",
+      "sha256": "1704fa9650a0dde24a93b851a13fee14c90eb039482389a90d330c8b5f52b444",
+      "title": "Small Estates Affidavit - K.S.A. 59-1507b | KS Judicial Council",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "/2398/",
+      "title": "Small Estates Affidavit",
+      "family_id": "small-estate-affidavit",
+      "identity": "SMALL ESTATES AFFIDAVIT",
+      "url": "https://www.kjc.ks.gov/home/showpublisheddocument/2398/638624814823930000",
+      "link_text": "Small Estates Affidavit (02-2024)",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.kjc.ks.gov/home/showpublisheddocument/2398/638624814823930000",
+        "final_url": "https://www.kjc.ks.gov/home/showpublisheddocument/2398/638624814823930000",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:58:50.723Z",
+        "etag": null,
+        "last_modified": "Sat, 21 Sep 2024 01:11:22 GMT",
+        "content_length": "482588",
+        "sha256": "8bcf0690f24c932cc66b57a546a30983e0b5f8be33640881a7c8dbffca25950b",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.kjc.ks.gov/home/showpublisheddocument/2398/638624814823930000",
+          "final_url": "https://www.kjc.ks.gov/home/showpublisheddocument/2398/638624814823930000",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:58:50.723Z",
+          "etag": null,
+          "last_modified": "Sat, 21 Sep 2024 01:11:22 GMT",
+          "content_length": "482588",
+          "sha256": "8bcf0690f24c932cc66b57a546a30983e0b5f8be33640881a7c8dbffca25950b",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "8bcf0690f24c932cc66b57a546a30983e0b5f8be33640881a7c8dbffca25950b",
+      "local_archive_path": "archive/2026-10-14-09/03-small-estates-affidavit-8bcf0690f24c.pdf",
+      "bytes": 482588,
+      "text_length": 4323,
+      "pages": 4,
+      "identity_excerpt": "SMALL ESTATES AFFIDAVIT — TRANSFERRING CERTAIN PERSONAL PROPERTY IN ESTATES UNDER $75,000 PURSUANT TO K.S.A. 59-1507b __________________________ (name of affiant), being duly sworn states: (1) On _____________ (date), ________ (year), ________________________ (decedent) died ☐ testate (with a will) or ☐ intestate (without a will) at _______________________________(location), leaving a probate estate not exceeding $75,000 in value, and I have attached a certified copy of the death certificate to this affidavit. (2) No petition for the appointment of an executor or administrator of the decedent’s estate is pending or has been granted. (3) All unpaid debts, claims or demands against the decedent or the decedent’s estate and all estate and inheritance taxes due, if any, on the property transfers involved have been or will be paid. (4) That the following are the names, ages, relationships and addresses of the beneficiaries under the decedent’s will or heirs of the decedent: Name Age Relationship Address (5) The decedent’s probate estate consists of the following personal property: (include the proceeds from insurance policies payable to the estate and identify the policy by number): Property Value Rev. 02/2024 KSJC 1 K.S.A. 59-1507b Can be used in place of KDOR Form TR-83b-Claim of Heir Small Estates Affidavit/Estates under $75,000 Vehicles Vehicle Value Vehicle(s) Information $ VIN Year Make Style I certify to the best of my knowledge that the odometer reading for the above vehicle is: (no 10th’s) • Ø and the reading is: ☐ Actual ☐ Exceeds Mechanical Limits ☐ Not Actual > WARNING-ODOMETER DISCREPANCY $ VIN Year Make Style I certify to the best of my knowledge that the odometer reading for the above vehicle is: (no 10th’s) • Ø and the reading is: ☐ Actual ☐ Exceeds Mechanica",
+      "revision_evidence": [
+        " number): Property Value Rev. 02/2024 KSJC 1 K.S.A. 59-1507b Can be used in place of KDOR Form TR-83b",
+        "____________ (Signature) Rev. 02/2024 KSJC Can be used in place of KDOR Form TR-83b-Claim of Heir 2 K",
+        "r My Commission Expires: Rev. 02/2024 KSJC 3 K.S.A. 59-1507b Can be used in place of KDOR Form TR-83b",
+        "sfer of a vehicle title. Rev. 02/2024 KSJC 4 K.S.A. 59-1507b Can be used in place of KDOR Form TR-83b"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.kjc.ks.gov/legal-forms/small-estates-affidavit-k-s-a-59-1507b#sitebody"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.kjc.ks.gov/home"
+    },
+    {
+      "text": "Log In",
+      "url": "https://www.kjc.ks.gov/publications/online-access/online-publication-access"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.kjc.ks.gov/about/contact-us"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.kjc.ks.gov/home"
+    },
+    {
+      "text": "About",
+      "url": "https://www.kjc.ks.gov/about"
+    },
+    {
+      "text": "Judicial Council Members",
+      "url": "https://www.kjc.ks.gov/about/judicial-council-members"
+    },
+    {
+      "text": "Former Judicial Coucil Members",
+      "url": "https://www.kjc.ks.gov/about/judicial-council-members/former-judicial-coucil-members"
+    },
+    {
+      "text": "Advisory Committees",
+      "url": "https://www.kjc.ks.gov/about/advisory-committees"
+    },
+    {
+      "text": "Ad Hoc Advisory Committee on Legal Notice by Publication",
+      "url": "https://www.kjc.ks.gov/about/advisory-committees/ad-hoc"
+    },
+    {
+      "text": "Appellate Practice",
+      "url": "https://www.kjc.ks.gov/about/advisory-committees/appellate-practice"
+    },
+    {
+      "text": "Civil Code",
+      "url": "https://www.kjc.ks.gov/about/advisory-committees/civil-code"
+    },
+    {
+      "text": "Criminal Law",
+      "url": "https://www.kjc.ks.gov/about/advisory-committees/criminal-law"
+    },
+    {
+      "text": "Family Law",
+      "url": "https://www.kjc.ks.gov/about/advisory-committees/family-law"
+    },
+    {
+      "text": "Guardianship and Conservatorship",
+      "url": "https://www.kjc.ks.gov/about/advisory-committees/guardianship-and-conservatorship"
+    },
+    {
+      "text": "Juvenile Offender/Child In Need of Care",
+      "url": "https://www.kjc.ks.gov/about/advisory-committees/juvenile-offender-child-in-need-of-care"
+    },
+    {
+      "text": "Municipal Court Manual",
+      "url": "https://www.kjc.ks.gov/about/advisory-committees/municipal-court-manual"
+    },
+    {
+      "text": "PIK - Civil",
+      "url": "https://www.kjc.ks.gov/about/advisory-committees/pik-civil"
+    },
+    {
+      "text": "PIK - Criminal",
+      "url": "https://www.kjc.ks.gov/about/advisory-committees/pik-criminal"
+    },
+    {
+      "text": "Probate Law",
+      "url": "https://www.kjc.ks.gov/about/advisory-committees/probate-law"
+    },
+    {
+      "text": "Tribal-State Judicial Forum",
+      "url": "https://www.kjc.ks.gov/about/advisory-committees/tribal-state-judicial-forum"
+    },
+    {
+      "text": "Website Forms",
+      "url": "https://www.kjc.ks.gov/about/advisory-committees/website-forms"
+    },
+    {
+      "text": "Judicial Council Staff",
+      "url": "https://www.kjc.ks.gov/about/judicial-council-staff"
+    },
+    {
+      "text": "News",
+      "url": "https://www.kjc.ks.gov/about/news"
+    },
+    {
+      "text": "Email Notification",
+      "url": "https://www.kjc.ks.gov/about/email-notification"
+    },
+    {
+      "text": "Legal Forms",
+      "url": "https://www.kjc.ks.gov/legal-forms"
+    },
+    {
+      "text": "Legal Forms – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish"
+    },
+    {
+      "text": "Legal Forms – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese"
+    },
+    {
+      "text": "Adoption",
+      "url": "https://www.kjc.ks.gov/legal-forms/adoption"
+    },
+    {
+      "text": "Agency or Independent Adoption",
+      "url": "https://www.kjc.ks.gov/legal-forms/adoption/agency-or-independent-adoption"
+    },
+    {
+      "text": "Stepparent Adoption",
+      "url": "https://www.kjc.ks.gov/legal-forms/adoption/stepparent-adoption"
+    },
+    {
+      "text": "Termination Orders under K.S.A. 59-2136(d)(2)(B)",
+      "url": "https://www.kjc.ks.gov/legal-forms/adoption/termination-orders-under-k-s-a-59-2136-d-2-b"
+    },
+    {
+      "text": "Adult Name Change",
+      "url": "https://www.kjc.ks.gov/legal-forms/adult-name-change"
+    },
+    {
+      "text": "Asking to Attend Court by Phone or Video",
+      "url": "https://www.kjc.ks.gov/legal-forms/asking-to-attend-court-by-phone-or-video"
+    },
+    {
+      "text": "Case Filing Cover Sheets",
+      "url": "https://www.kjc.ks.gov/legal-forms/case-filing-cover-sheets"
+    },
+    {
+      "text": "Chapter 60 Civil Actions",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions"
+    },
+    {
+      "text": "Common Civil Forms",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/common-civil-forms"
+    },
+    {
+      "text": "Summons and Service of Process",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/summons-and-service-of-process"
+    },
+    {
+      "text": "Subpoenas",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/subpoenas"
+    },
+    {
+      "text": "Garnishment and Attachment",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/garnishment-and-attachment"
+    },
+    {
+      "text": "Other",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/other"
+    },
+    {
+      "text": "Affidavit of Defendant's Military Status",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/affidavit-of-defendant-s-military-status"
+    },
+    {
+      "text": "Chapter 61 Civil Actions",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions"
+    },
+    {
+      "text": "Summons and Returns",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/summons-and-returns"
+    },
+    {
+      "text": "Pleadings",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/pleadings"
+    },
+    {
+      "text": "Garnishment and Attachment",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/garnishment-and-attachment"
+    },
+    {
+      "text": "Execution and Hearings in Aid",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/execution-and-hearings-in-aid"
+    },
+    {
+      "text": "Miscellaneous",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/miscellaneous"
+    },
+    {
+      "text": "Replevin and Foreclosure",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/replevin-and-foreclosure"
+    },
+    {
+      "text": "Appeals",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/appeals"
+    },
+    {
+      "text": "Child In Need of Care",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care"
+    },
+    {
+      "text": "Preliminary Matters (Forms 101-107)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/preliminary-matters-forms-101-107"
+    },
+    {
+      "text": "Commencement of CINC Action (Forms 110-136)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/commencement-of-cinc-action-forms-110-136"
+    },
+    {
+      "text": "Adjudicatory Procedure (Forms 140.1-142)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/adjudicatory-procedure-forms-140-1-142"
+    },
+    {
+      "text": "Dispositional Procedure (Forms 150-151.1)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/dispositional-procedure-forms-150-151-1"
+    },
+    {
+      "text": "Post-Dispositional Procedures (Forms 160-176)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/post-dispositional-procedures-forms-160-176"
+    },
+    {
+      "text": "Termination of Parental Rights (Forms 180-192)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/termination-of-parental-rights-forms-180-192"
+    },
+    {
+      "text": "Appeals (Forms 200-201)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/appeals-forms-200-201"
+    },
+    {
+      "text": "Indian Child Welfare Act (Forms 207-223)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/indian-child-welfare-act-forms-207-223"
+    },
+    {
+      "text": "Qualified Residential Treatment Program (QRTP) Placement (Forms 240-243)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/qualified-residential-treatment-program-qrtp-placement-forms-240-243"
+    },
+    {
+      "text": "Miscellaneous (Forms 250-264)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/miscellaneous-forms-250-264"
+    },
+    {
+      "text": "Child Support & Parenting Time",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time"
+    },
+    {
+      "text": "Modification of Child Support",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/modification-of-child-support"
+    },
+    {
+      "text": "Establishing Parenting Time",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/establishing-parenting-time"
+    },
+    {
+      "text": "Enforcing Parenting Time",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/enforcing-parenting-time"
+    },
+    {
+      "text": "Modifying Parenting Time",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/modifying-parenting-time"
+    },
+    {
+      "text": "Child Support Income Withholding Order (IWO)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/child-support-income-withholding-order-iwo"
+    },
+    {
+      "text": "Civil Asset Forfeiture",
+      "url": "https://www.kjc.ks.gov/legal-forms/civil-asset-forfeiture"
+    },
+    {
+      "text": "Common Interest Communities (UCIOBORA) Checklist",
+      "url": "https://www.kjc.ks.gov/legal-forms/common-interest-communities-uciobora-checklist"
+    },
+    {
+      "text": "Continuance (Changing Hearing Date)",
+      "url": "https://www.kjc.ks.gov/legal-forms/continuance-changing-hearing-date"
+    },
+    {
+      "text": "County Codes and Resolutions - K.S.A. 19-4738",
+      "url": "https://www.kjc.ks.gov/legal-forms/county-codes-and-resolutions-k-s-a-19-4738"
+    },
+    {
+      "text": "Divorce",
+      "url": "https://www.kjc.ks.gov/legal-forms/divorce"
+    },
+    {
+      "text": "Divorce Without Minor Children",
+      "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-without-minor-children"
+    },
+    {
+      "text": "Filing a Petition for Divorce",
+      "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-without-minor-children/filing-a-petition-for-divorce"
+    },
+    {
+      "text": "Responding to a Petition for Divorce",
+      "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-without-minor-children/responding-to-a-petition-for-divorce"
+    },
+    {
+      "text": "Divorce With Minor Children",
+      "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-with-minor-children"
+    },
+    {
+      "text": "Filing a Petition for Divorce",
+      "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-with-minor-children/filing-a-petition-for-divorce"
+    },
+    {
+      "text": "Responding to a Petition for Divorce",
+      "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-with-minor-children/responding-to-a-petition-for-divorce"
+    },
+    {
+      "text": "Drug Offender Registration Relief",
+      "url": "https://www.kjc.ks.gov/legal-forms/drug-offender-registration-relief"
+    },
+    {
+      "text": "Eminent Domain, Notice of Appraisers' Hearing - K.S.A. 26-506",
+      "url": "https://www.kjc.ks.gov/legal-forms/eminent-domain-notice-of-appraisers-hearing-k-s-a-26-506"
+    },
+    {
+      "text": "Evictions & Landlord-Tenant",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant"
+    },
+    {
+      "text": "Evictions",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions"
+    },
+    {
+      "text": "Filing an Eviction",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions/filing-an-eviction"
+    },
+    {
+      "text": "Responding to an Eviction",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions/responding-to-an-eviction"
+    },
+    {
+      "text": "Landlord Forms",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/landlord-forms"
+    },
+    {
+      "text": "Tenant Forms",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/tenant-forms"
+    },
+    {
+      "text": "Expungement (Adult)",
+      "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult"
+    },
+    {
+      "text": "Arrest Record Only",
+      "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult/arrest-record-only"
+    },
+    {
+      "text": "Conviction or Diversion",
+      "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult/conviction-or-diversion"
+    },
+    {
+      "text": "Eviction Record",
+      "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult/eviction-record"
+    },
+    {
+      "text": "Guardianships, Conservatorships, Other Protective Arrangements",
+      "url": "https://www.kjc.ks.gov/legal-forms/guardianships-conservatorships-other-protective-arrangements"
+    },
+    {
+      "text": "Host Families Act Power of Attorney - K.S.A. 38-2403",
+      "url": "https://www.kjc.ks.gov/legal-forms/host-families-act-power-of-attorney-k-s-a-38-2403"
+    },
+    {
+      "text": "Juvenile Offender",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender"
+    },
+    {
+      "text": "Commencement of Action (Forms 300-309)",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/commencement-of-action-forms-300-309"
+    },
+    {
+      "text": "Pre-Trial Pleadings (Forms 310-336)",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/pre-trial-pleadings-forms-310-336"
+    },
+    {
+      "text": "Adjudication (Forms 340-342)",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/adjudication-forms-340-342"
+    },
+    {
+      "text": "Sentencing (Forms 350-356)",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/sentencing-forms-350-356"
+    },
+    {
+      "text": "Post-Sentencing Proceedings (Forms 360-378)",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/post-sentencing-proceedings-forms-360-378"
+    },
+    {
+      "text": "Appeals (Forms 380-382)",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/appeals-forms-380-382"
+    },
+    {
+      "text": "Miscellaneous (Forms 390-410)",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/miscellaneous-forms-390-410"
+    },
+    {
+      "text": "Lien Against Property - K.S.A. 58-4301",
+      "url": "https://www.kjc.ks.gov/legal-forms/lien-against-property-k-s-a-58-4301"
+    },
+    {
+      "text": "Municipal",
+      "url": "https://www.kjc.ks.gov/legal-forms/municipal"
+    },
+    {
+      "text": "Notice of Hearing (General)",
+      "url": "https://www.kjc.ks.gov/legal-forms/notice-of-hearing-general"
+    },
+    {
+      "text": "Parentage",
+      "url": "https://www.kjc.ks.gov/legal-forms/parentage"
+    },
+    {
+      "text": "Filing to Establish Parentage",
+      "url": "https://www.kjc.ks.gov/legal-forms/parentage/filing-to-establish-parentage"
+    },
+    {
+      "text": "Responding to Petition to Establish Parentage",
+      "url": "https://www.kjc.ks.gov/legal-forms/parentage/responding-to-petition-to-establish-parentage"
+    },
+    {
+      "text": "Poverty Affidavit / Waiver of Filing Fee",
+      "url": "https://www.kjc.ks.gov/legal-forms/poverty-affidavit"
+    },
+    {
+      "text": "Power of Attorney",
+      "url": "https://www.kjc.ks.gov/legal-forms/power-of-attorney"
+    },
+    {
+      "text": "Probate",
+      "url": "https://www.kjc.ks.gov/legal-forms/probate"
+    },
+    {
+      "text": "Protection From Abuse",
+      "url": "https://www.kjc.ks.gov/legal-forms/protection-from-abuse"
+    },
+    {
+      "text": "Protection From Stalking, Sexual Assault, or Human Trafficking",
+      "url": "https://www.kjc.ks.gov/legal-forms/protection-from-stalking-sexual-assault-or-human-trafficking"
+    },
+    {
+      "text": "Requests for Disclosure of Warrant Information",
+      "url": "https://www.kjc.ks.gov/legal-forms/requests-for-disclosure-of-warrant-information"
+    },
+    {
+      "text": "Responding to DCF Parentage and Child Support Petitions",
+      "url": "https://www.kjc.ks.gov/legal-forms/responding-to-dcf-parentage-and-child-support-petitions"
+    },
+    {
+      "text": "Responding to DCF Petition to Determine Parentage and Child Support",
+      "url": "https://www.kjc.ks.gov/legal-forms/responding-to-dcf-parentage-and-child-support-petitions/responding-to-dcf-petition-to-determine-parentage-and-child-support"
+    },
+    {
+      "text": "Responding to DCF Petition for Child Support",
+      "url": "https://www.kjc.ks.gov/legal-forms/responding-to-dcf-parentage-and-child-support-petitions/responding-to-dcf-petition-for-child-support"
+    },
+    {
+      "text": "Self-Represented Litigant (SRL) Certification Form",
+      "url": "https://www.kjc.ks.gov/legal-forms/self-represented-litigant-srl-certification-form"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://www.kjc.ks.gov/legal-forms/small-claims"
+    },
+    {
+      "text": "Filing a Small Claims Case",
+      "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case"
+    },
+    {
+      "text": "Responding to a Small Claims Case",
+      "url": "https://www.kjc.ks.gov/legal-forms/small-claims/responding-to-a-small-claims-case"
+    },
+    {
+      "text": "Small Estates Affidavit - K.S.A. 59-1507b",
+      "url": "https://www.kjc.ks.gov/legal-forms/small-estates-affidavit-k-s-a-59-1507b"
+    },
+    {
+      "text": "Supreme Court Rules Forms",
+      "url": "https://www.kjc.ks.gov/legal-forms/supreme-court-rules-forms"
+    },
+    {
+      "text": "Rules Relating to District Courts",
+      "url": "https://www.kjc.ks.gov/legal-forms/supreme-court-rules-forms/rules-relating-to-district-courts"
+    },
+    {
+      "text": "Rules Relating to Appellate Courts",
+      "url": "https://www.kjc.ks.gov/legal-forms/supreme-court-rules-forms/rules-relating-to-appellate-courts"
+    },
+    {
+      "text": "Traffic",
+      "url": "https://www.kjc.ks.gov/legal-forms/traffic"
+    },
+    {
+      "text": "Publications",
+      "url": "https://www.kjc.ks.gov/publications"
+    },
+    {
+      "text": "Online Access",
+      "url": "https://www.kjc.ks.gov/publications/online-access"
+    },
+    {
+      "text": "PIK - Criminal 4th",
+      "url": "https://www.kjc.ks.gov/publications/pik-criminal-4th"
+    },
+    {
+      "text": "PIK - Civil 4th",
+      "url": "https://www.kjc.ks.gov/publications/pik-civil-4th"
+    },
+    {
+      "text": "Probate Forms 3d",
+      "url": "https://www.kjc.ks.gov/publications/probate-forms-3d"
+    },
+    {
+      "text": "Municipal Court Manual",
+      "url": "https://www.kjc.ks.gov/publications/municipal-court-manual"
+    },
+    {
+      "text": "Appellate Practice Handbook",
+      "url": "https://www.kjc.ks.gov/publications/appellate-practice-handbook"
+    },
+    {
+      "text": "Chapter 12 - Forms",
+      "url": "https://www.kjc.ks.gov/publications/appellate-practice-handbook/chapter-12-forms"
+    },
+    {
+      "text": "Studies and Reports",
+      "url": "https://www.kjc.ks.gov/studies-and-reports"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.kjc.ks.gov/resources"
+    },
+    {
+      "text": "Legal Forms – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish"
+    },
+    {
+      "text": "Case Filing Cover Sheets – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/case-filing-cover-sheets-spanish"
+    },
+    {
+      "text": "Chapter 61 Civil Actions – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish"
+    },
+    {
+      "text": "Summons and Returns – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish/summons-and-returns-spanish"
+    },
+    {
+      "text": "Pleadings – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish/pleadings-spanish"
+    },
+    {
+      "text": "Garnishment and Attachment – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish/garnishment-and-attachment-spanish"
+    },
+    {
+      "text": "Execution and Hearings in Aid – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish/execution-and-hearings-in-aid-spanish"
+    },
+    {
+      "text": "Miscellaneous – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish/miscellaneous-spanish"
+    },
+    {
+      "text": "Replevin and Foreclosure – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish/replevin-and-foreclosure-spanish"
+    },
+    {
+      "text": "Appeals – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/chapter-61-civil-actions-spanish/appeals-spanish"
+    },
+    {
+      "text": "Divorce – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/divorce-spanish"
+    },
+    {
+      "text": "Divorce Without Minor Children – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/divorce-spanish/divorce-without-minor-children-spanish"
+    },
+    {
+      "text": "Filing a Petition for Divorce – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/divorce-spanish/divorce-without-minor-children-spanish/filing-a-petition-for-divorce-spanish"
+    },
+    {
+      "text": "Responding to a Petition for Divorce – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/divorce-spanish/divorce-without-minor-children-spanish/responding-to-a-petition-for-divorce-spanish"
+    },
+    {
+      "text": "Divorce With Minor Children – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/divorce-spanish/divorce-with-minor-children-spanish"
+    },
+    {
+      "text": "Filing a Petition for Divorce – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/divorce-spanish/divorce-with-minor-children-spanish/filing-a-petition-for-divorce-spanish"
+    },
+    {
+      "text": "Responding to a Petition for Divorce – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/divorce-spanish/divorce-with-minor-children-spanish/responding-to-a-petition-for-divorce-spanish"
+    },
+    {
+      "text": "Evictions & Landlord-Tenant – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish"
+    },
+    {
+      "text": "Evictions – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/evictions-spanish"
+    },
+    {
+      "text": "Filing an Eviction – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/evictions-spanish/filing-an-eviction-spanish"
+    },
+    {
+      "text": "Nonpayment of Rent – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/evictions-spanish/filing-an-eviction-spanish/nonpayment-of-rent-spanish"
+    },
+    {
+      "text": "Failure to Comply (Other Than Nonpayment) – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/evictions-spanish/filing-an-eviction-spanish/failure-to-comply-other-than-nonpayment-spanish"
+    },
+    {
+      "text": "Termination of Month-To-Month Rental Agreement – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/evictions-spanish/filing-an-eviction-spanish/termination-of-month-to-month-rental-agreement-spanish"
+    },
+    {
+      "text": "Responding to an Eviction – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/evictions-spanish/responding-to-an-eviction-spanish"
+    },
+    {
+      "text": "Landlord Forms – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/landlord-forms-spanish"
+    },
+    {
+      "text": "Tenant Forms – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/evictions-landlord-tenant-spanish/tenant-forms-spanish"
+    },
+    {
+      "text": "Expungement (Adult) – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/expungement-adult-spanish"
+    },
+    {
+      "text": "Arrest Record Only – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/expungement-adult-spanish/arrest-record-only-spanish"
+    },
+    {
+      "text": "Conviction or Diversion – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/expungement-adult-spanish/conviction-or-diversion-spanish"
+    },
+    {
+      "text": "Poverty Affidavit – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/poverty-affidavit-spanish"
+    },
+    {
+      "text": "Self-Represented Litigant (SRL) Certification Form – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/self-represented-litigant-srl-certification-form-spanish"
+    },
+    {
+      "text": "Small Claims – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/small-claims-spanish"
+    },
+    {
+      "text": "Filing a Small Claims Case – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/small-claims-spanish/filing-a-small-claims-case-spanish"
+    },
+    {
+      "text": "Responding to a Small Claims Case – Spanish",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-spanish/small-claims-spanish/responding-to-a-small-claims-case-spanish"
+    },
+    {
+      "text": "Legal Forms – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese"
+    },
+    {
+      "text": "Case Filing Cover Sheets – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/case-filing-cover-sheets-vietnamese"
+    },
+    {
+      "text": "Chapter 61 Civil Actions – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese"
+    },
+    {
+      "text": "Summons and Returns – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese/summons-and-returns-vietnamese"
+    },
+    {
+      "text": "Pleadings – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese/pleadings-vietnamese"
+    },
+    {
+      "text": "Garnishment and Attachment – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese/garnishment-and-attachment-vietnamese"
+    },
+    {
+      "text": "Execution and Hearings in Aid – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese/execution-and-hearings-in-aid-vietnamese"
+    },
+    {
+      "text": "Miscellaneous – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese/miscellaneous-vietnamese"
+    },
+    {
+      "text": "Replevin and Foreclosure – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese/replevin-and-foreclosure-vietnamese"
+    },
+    {
+      "text": "Appeals – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/chapter-61-civil-actions-vietnamese/appeals-vietnamese"
+    },
+    {
+      "text": "Evictions & Landlord-Tenant – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese"
+    },
+    {
+      "text": "Evictions – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/evictions-vietnamese"
+    },
+    {
+      "text": "Filing an Eviction – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/evictions-vietnamese/filing-an-eviction-vietnamese"
+    },
+    {
+      "text": "Nonpayment of Rent – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/evictions-vietnamese/filing-an-eviction-vietnamese/nonpayment-of-rent-vietnamese"
+    },
+    {
+      "text": "Failure to Comply (Other Than Nonpayment) – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/evictions-vietnamese/filing-an-eviction-vietnamese/failure-to-comply-other-than-nonpayment-vietnamese"
+    },
+    {
+      "text": "Termination of Month-To-Month Rental Agreement – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/evictions-vietnamese/filing-an-eviction-vietnamese/termination-of-month-to-month-rental-agreement-vietnamese"
+    },
+    {
+      "text": "Responding to an Eviction – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/evictions-vietnamese/responding-to-an-eviction-vietnamese"
+    },
+    {
+      "text": "Landlord Forms – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/landlord-forms-vietnamese"
+    },
+    {
+      "text": "Tenant Forms – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/evictions-landlord-tenant-vietnamese/tenant-forms-vietnamese"
+    },
+    {
+      "text": "Expungement (Adult) – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/expungement-adult-vietnamese"
+    },
+    {
+      "text": "Arrest Record Only – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/expungement-adult-vietnamese/arrest-record-only-vietnamese"
+    },
+    {
+      "text": "Conviction or Diversion – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/expungement-adult-vietnamese/conviction-or-diversion-vietnamese"
+    },
+    {
+      "text": "Poverty Affidavit – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/poverty-affidavit-vietnamese"
+    },
+    {
+      "text": "Self-Represented Litigant (SRL) Certification Form – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/self-represented-litigant-srl-certification-form-vietnamese"
+    },
+    {
+      "text": "Small Claims – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/small-claims-vietnamese"
+    },
+    {
+      "text": "Filing a Small Claims Case – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/small-claims-vietnamese/filing-a-small-claims-case-vietnamese"
+    },
+    {
+      "text": "Responding to a Small Claims Case – Vietnamese",
+      "url": "https://www.kjc.ks.gov/legal-forms/legal-forms-vietnamese/small-claims-vietnamese/responding-to-a-small-claims-case-vietnamese"
+    },
+    {
+      "text": "Adoption",
+      "url": "https://www.kjc.ks.gov/legal-forms/adoption"
+    },
+    {
+      "text": "Agency or Independent Adoption",
+      "url": "https://www.kjc.ks.gov/legal-forms/adoption/agency-or-independent-adoption"
+    },
+    {
+      "text": "Stepparent Adoption",
+      "url": "https://www.kjc.ks.gov/legal-forms/adoption/stepparent-adoption"
+    },
+    {
+      "text": "Termination Orders under K.S.A. 59-2136(d)(2)(B)",
+      "url": "https://www.kjc.ks.gov/legal-forms/adoption/termination-orders-under-k-s-a-59-2136-d-2-b"
+    },
+    {
+      "text": "Adult Name Change",
+      "url": "https://www.kjc.ks.gov/legal-forms/adult-name-change"
+    },
+    {
+      "text": "Asking to Attend Court by Phone or Video",
+      "url": "https://www.kjc.ks.gov/legal-forms/asking-to-attend-court-by-phone-or-video"
+    },
+    {
+      "text": "Case Filing Cover Sheets",
+      "url": "https://www.kjc.ks.gov/legal-forms/case-filing-cover-sheets"
+    },
+    {
+      "text": "Chapter 60 Civil Actions",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions"
+    },
+    {
+      "text": "Common Civil Forms",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/common-civil-forms"
+    },
+    {
+      "text": "Summons and Service of Process",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/summons-and-service-of-process"
+    },
+    {
+      "text": "Subpoenas",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/subpoenas"
+    },
+    {
+      "text": "Garnishment and Attachment",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/garnishment-and-attachment"
+    },
+    {
+      "text": "Other",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/other"
+    },
+    {
+      "text": "Affidavit of Defendant's Military Status",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-60-civil-actions/affidavit-of-defendant-s-military-status"
+    },
+    {
+      "text": "Chapter 61 Civil Actions",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions"
+    },
+    {
+      "text": "Summons and Returns",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/summons-and-returns"
+    },
+    {
+      "text": "Pleadings",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/pleadings"
+    },
+    {
+      "text": "Garnishment and Attachment",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/garnishment-and-attachment"
+    },
+    {
+      "text": "Execution and Hearings in Aid",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/execution-and-hearings-in-aid"
+    },
+    {
+      "text": "Miscellaneous",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/miscellaneous"
+    },
+    {
+      "text": "Replevin and Foreclosure",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/replevin-and-foreclosure"
+    },
+    {
+      "text": "Appeals",
+      "url": "https://www.kjc.ks.gov/legal-forms/chapter-61-civil-actions/appeals"
+    },
+    {
+      "text": "Child In Need of Care",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care"
+    },
+    {
+      "text": "Preliminary Matters (Forms 101-107)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/preliminary-matters-forms-101-107"
+    },
+    {
+      "text": "Commencement of CINC Action (Forms 110-136)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/commencement-of-cinc-action-forms-110-136"
+    },
+    {
+      "text": "Adjudicatory Procedure (Forms 140.1-142)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/adjudicatory-procedure-forms-140-1-142"
+    },
+    {
+      "text": "Dispositional Procedure (Forms 150-151.1)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/dispositional-procedure-forms-150-151-1"
+    },
+    {
+      "text": "Post-Dispositional Procedures (Forms 160-176)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/post-dispositional-procedures-forms-160-176"
+    },
+    {
+      "text": "Termination of Parental Rights (Forms 180-192)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/termination-of-parental-rights-forms-180-192"
+    },
+    {
+      "text": "Appeals (Forms 200-201)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/appeals-forms-200-201"
+    },
+    {
+      "text": "Indian Child Welfare Act (Forms 207-223)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/indian-child-welfare-act-forms-207-223"
+    },
+    {
+      "text": "Qualified Residential Treatment Program (QRTP) Placement (Forms 240-243)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/qualified-residential-treatment-program-qrtp-placement-forms-240-243"
+    },
+    {
+      "text": "Miscellaneous (Forms 250-264)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-in-need-of-care/miscellaneous-forms-250-264"
+    },
+    {
+      "text": "Child Support & Parenting Time",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time"
+    },
+    {
+      "text": "Modification of Child Support",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/modification-of-child-support"
+    },
+    {
+      "text": "Establishing Parenting Time",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/establishing-parenting-time"
+    },
+    {
+      "text": "Enforcing Parenting Time",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/enforcing-parenting-time"
+    },
+    {
+      "text": "Modifying Parenting Time",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/modifying-parenting-time"
+    },
+    {
+      "text": "Child Support Income Withholding Order (IWO)",
+      "url": "https://www.kjc.ks.gov/legal-forms/child-support-parenting-time/child-support-income-withholding-order-iwo"
+    },
+    {
+      "text": "Civil Asset Forfeiture",
+      "url": "https://www.kjc.ks.gov/legal-forms/civil-asset-forfeiture"
+    },
+    {
+      "text": "Common Interest Communities (UCIOBORA) Checklist",
+      "url": "https://www.kjc.ks.gov/legal-forms/common-interest-communities-uciobora-checklist"
+    },
+    {
+      "text": "Continuance (Changing Hearing Date)",
+      "url": "https://www.kjc.ks.gov/legal-forms/continuance-changing-hearing-date"
+    },
+    {
+      "text": "County Codes and Resolutions - K.S.A. 19-4738",
+      "url": "https://www.kjc.ks.gov/legal-forms/county-codes-and-resolutions-k-s-a-19-4738"
+    },
+    {
+      "text": "Divorce",
+      "url": "https://www.kjc.ks.gov/legal-forms/divorce"
+    },
+    {
+      "text": "Divorce Without Minor Children",
+      "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-without-minor-children"
+    },
+    {
+      "text": "Filing a Petition for Divorce",
+      "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-without-minor-children/filing-a-petition-for-divorce"
+    },
+    {
+      "text": "Responding to a Petition for Divorce",
+      "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-without-minor-children/responding-to-a-petition-for-divorce"
+    },
+    {
+      "text": "Divorce With Minor Children",
+      "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-with-minor-children"
+    },
+    {
+      "text": "Filing a Petition for Divorce",
+      "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-with-minor-children/filing-a-petition-for-divorce"
+    },
+    {
+      "text": "Responding to a Petition for Divorce",
+      "url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-with-minor-children/responding-to-a-petition-for-divorce"
+    },
+    {
+      "text": "Drug Offender Registration Relief",
+      "url": "https://www.kjc.ks.gov/legal-forms/drug-offender-registration-relief"
+    },
+    {
+      "text": "Eminent Domain, Notice of Appraisers' Hearing - K.S.A. 26-506",
+      "url": "https://www.kjc.ks.gov/legal-forms/eminent-domain-notice-of-appraisers-hearing-k-s-a-26-506"
+    },
+    {
+      "text": "Evictions & Landlord-Tenant",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant"
+    },
+    {
+      "text": "Evictions",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions"
+    },
+    {
+      "text": "Filing an Eviction",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions/filing-an-eviction"
+    },
+    {
+      "text": "Nonpayment of Rent",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions/filing-an-eviction/nonpayment-of-rent"
+    },
+    {
+      "text": "Failure to Comply (Other Than Nonpayment)",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions/filing-an-eviction/failure-to-comply-other-than-nonpayment"
+    },
+    {
+      "text": "Termination of Month-To-Month Rental Agreement",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions/filing-an-eviction/termination-of-month-to-month-rental-agreement"
+    },
+    {
+      "text": "Responding to an Eviction",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/evictions/responding-to-an-eviction"
+    },
+    {
+      "text": "Landlord Forms",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/landlord-forms"
+    },
+    {
+      "text": "Tenant Forms",
+      "url": "https://www.kjc.ks.gov/legal-forms/evictions-landlord-tenant/tenant-forms"
+    },
+    {
+      "text": "Expungement (Adult)",
+      "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult"
+    },
+    {
+      "text": "Arrest Record Only",
+      "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult/arrest-record-only"
+    },
+    {
+      "text": "Conviction or Diversion",
+      "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult/conviction-or-diversion"
+    },
+    {
+      "text": "Eviction Record",
+      "url": "https://www.kjc.ks.gov/legal-forms/expungement-adult/eviction-record"
+    },
+    {
+      "text": "Guardianships, Conservatorships, Other Protective Arrangements",
+      "url": "https://www.kjc.ks.gov/legal-forms/guardianships-conservatorships-other-protective-arrangements"
+    },
+    {
+      "text": "Host Families Act Power of Attorney - K.S.A. 38-2403",
+      "url": "https://www.kjc.ks.gov/legal-forms/host-families-act-power-of-attorney-k-s-a-38-2403"
+    },
+    {
+      "text": "Juvenile Offender",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender"
+    },
+    {
+      "text": "Commencement of Action (Forms 300-309)",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/commencement-of-action-forms-300-309"
+    },
+    {
+      "text": "Pre-Trial Pleadings (Forms 310-336)",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/pre-trial-pleadings-forms-310-336"
+    },
+    {
+      "text": "Adjudication (Forms 340-342)",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/adjudication-forms-340-342"
+    },
+    {
+      "text": "Sentencing (Forms 350-356)",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/sentencing-forms-350-356"
+    },
+    {
+      "text": "Post-Sentencing Proceedings (Forms 360-378)",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/post-sentencing-proceedings-forms-360-378"
+    },
+    {
+      "text": "Appeals (Forms 380-382)",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/appeals-forms-380-382"
+    },
+    {
+      "text": "Miscellaneous (Forms 390-410)",
+      "url": "https://www.kjc.ks.gov/legal-forms/juvenile-offender/miscellaneous-forms-390-410"
+    },
+    {
+      "text": "Lien Against Property - K.S.A. 58-4301",
+      "url": "https://www.kjc.ks.gov/legal-forms/lien-against-property-k-s-a-58-4301"
+    },
+    {
+      "text": "Municipal",
+      "url": "https://www.kjc.ks.gov/legal-forms/municipal"
+    },
+    {
+      "text": "Notice of Hearing (General)",
+      "url": "https://www.kjc.ks.gov/legal-forms/notice-of-hearing-general"
+    },
+    {
+      "text": "Parentage",
+      "url": "https://www.kjc.ks.gov/legal-forms/parentage"
+    },
+    {
+      "text": "Filing to Establish Parentage",
+      "url": "https://www.kjc.ks.gov/legal-forms/parentage/filing-to-establish-parentage"
+    },
+    {
+      "text": "Responding to Petition to Establish Parentage",
+      "url": "https://www.kjc.ks.gov/legal-forms/parentage/responding-to-petition-to-establish-parentage"
+    },
+    {
+      "text": "Poverty Affidavit / Waiver of Filing Fee",
+      "url": "https://www.kjc.ks.gov/legal-forms/poverty-affidavit"
+    },
+    {
+      "text": "Power of Attorney",
+      "url": "https://www.kjc.ks.gov/legal-forms/power-of-attorney"
+    },
+    {
+      "text": "Probate",
+      "url": "https://www.kjc.ks.gov/legal-forms/probate"
+    },
+    {
+      "text": "Protection From Abuse",
+      "url": "https://www.kjc.ks.gov/legal-forms/protection-from-abuse"
+    },
+    {
+      "text": "Protection From Stalking, Sexual Assault, or Human Trafficking",
+      "url": "https://www.kjc.ks.gov/legal-forms/protection-from-stalking-sexual-assault-or-human-trafficking"
+    },
+    {
+      "text": "Requests for Disclosure of Warrant Information",
+      "url": "https://www.kjc.ks.gov/legal-forms/requests-for-disclosure-of-warrant-information"
+    },
+    {
+      "text": "Responding to DCF Parentage and Child Support Petitions",
+      "url": "https://www.kjc.ks.gov/legal-forms/responding-to-dcf-parentage-and-child-support-petitions"
+    },
+    {
+      "text": "Responding to DCF Petition to Determine Parentage and Child Support",
+      "url": "https://www.kjc.ks.gov/legal-forms/responding-to-dcf-parentage-and-child-support-petitions/responding-to-dcf-petition-to-determine-parentage-and-child-support"
+    },
+    {
+      "text": "Responding to DCF Petition for Child Support",
+      "url": "https://www.kjc.ks.gov/legal-forms/responding-to-dcf-parentage-and-child-support-petitions/responding-to-dcf-petition-for-child-support"
+    },
+    {
+      "text": "Self-Represented Litigant (SRL) Certification Form",
+      "url": "https://www.kjc.ks.gov/legal-forms/self-represented-litigant-srl-certification-form"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://www.kjc.ks.gov/legal-forms/small-claims"
+    },
+    {
+      "text": "Filing a Small Claims Case",
+      "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case"
+    },
+    {
+      "text": "Responding to a Small Claims Case",
+      "url": "https://www.kjc.ks.gov/legal-forms/small-claims/responding-to-a-small-claims-case"
+    },
+    {
+      "text": "Small Estates Affidavit - K.S.A. 59-1507b",
+      "url": "https://www.kjc.ks.gov/legal-forms/small-estates-affidavit-k-s-a-59-1507b"
+    },
+    {
+      "text": "Supreme Court Rules Forms",
+      "url": "https://www.kjc.ks.gov/legal-forms/supreme-court-rules-forms"
+    },
+    {
+      "text": "Rules Relating to District Courts",
+      "url": "https://www.kjc.ks.gov/legal-forms/supreme-court-rules-forms/rules-relating-to-district-courts"
+    },
+    {
+      "text": "Rules Relating to Appellate Courts",
+      "url": "https://www.kjc.ks.gov/legal-forms/supreme-court-rules-forms/rules-relating-to-appellate-courts"
+    },
+    {
+      "text": "Traffic",
+      "url": "https://www.kjc.ks.gov/legal-forms/traffic"
+    },
+    {
+      "text": "Legal Forms",
+      "url": "https://www.kjc.ks.gov/legal-forms"
+    },
+    {
+      "text": "Small Estates Affidavit (02-2024)",
+      "url": "https://www.kjc.ks.gov/home/showpublisheddocument/2400/638624814827330000"
+    },
+    {
+      "text": "Small Estates Affidavit (02-2024)",
+      "url": "https://www.kjc.ks.gov/home/showpublisheddocument/2398/638624814823930000"
+    },
+    {
+      "text": "Adobe Reader",
+      "url": "https://www.kjc.ks.gov/?splash=https%3a%2f%2fget.adobe.com%2freader%2f&____isexternal=true"
+    },
+    {
+      "text": "Kansas Judicial Branch Self-Help Website",
+      "url": "https://www.kjc.ks.gov/?splash=https%3a%2f%2fself-help.kscourts.gov%2f&____isexternal=true"
+    },
+    {
+      "text": "Kansas Legal Services",
+      "url": "https://www.kjc.ks.gov/?splash=https%3a%2f%2fwww.kansaslegalservices.org&____isexternal=true"
+    },
+    {
+      "text": "Kansas Bar Association's Lawyer Referral Service",
+      "url": "https://www.kjc.ks.gov/?splash=https%3a%2f%2fksbar.org%2f%3fpg%3dclientreferrals&____isexternal=true"
+    },
+    {
+      "text": "About",
+      "url": "https://www.kjc.ks.gov/about"
+    },
+    {
+      "text": "Legal Forms",
+      "url": "https://www.kjc.ks.gov/legal-forms"
+    },
+    {
+      "text": "Publications",
+      "url": "https://www.kjc.ks.gov/publications"
+    },
+    {
+      "text": "Studies & Reports",
+      "url": "https://www.kjc.ks.gov/studies-and-reports"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.kjc.ks.gov/resources"
+    },
+    {
+      "text": "Site Map",
+      "url": "https://www.kjc.ks.gov/about/site-map"
+    },
+    {
+      "text": "301 SW 10th Ave, B2, Topeka, KS 66612",
+      "url": "https://www.kjc.ks.gov/?splash=https%3a%2f%2fmaps.app.goo.gl%2fUB9wCFxJntPXWHfY6&____isexternal=true"
+    },
+    {
+      "text": "Granicus",
+      "url": "https://www.granicus.com/"
+    }
+  ]
+}

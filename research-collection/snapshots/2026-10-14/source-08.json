@@ -1,0 +1,68 @@
+{
+  "state": "Montana",
+  "publisher": "Montana Judicial Branch",
+  "url": "https://www.courts.mt.gov/Forms/endoflife",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "(?:affidavit|aff).*?(?:personal|collection).*\\.pdf|(?:personal|collection).*?(?:affidavit|aff).*\\.pdf",
+      "title": "Affidavit for Collection of Personal Property of Decedent",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+      "max": 1
+    },
+    {
+      "pattern": "aff_of_death\\.pdf",
+      "title": "Affidavit of Death",
+      "family_id": "transfer-on-death-affidavit",
+      "identity": "AFFIDAVIT OF DEATH",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.courts.mt.gov/Forms/endoflife",
+    "retrieved_at": "2026-10-14T09:00:58.617Z",
+    "retrieval_status": "fetch-failed",
+    "error": "fetch failed"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.courts.mt.gov/Forms/endoflife",
+      "retrieved_at": "2026-10-14T09:00:57.887Z",
+      "retrieval_status": "fetch-failed",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.courts.mt.gov/Forms/endoflife",
+      "retrieved_at": "2026-10-14T09:00:58.617Z",
+      "retrieval_status": "fetch-failed",
+      "error": "fetch failed"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "(?:affidavit|aff).*?(?:personal|collection).*\\.pdf|(?:personal|collection).*?(?:affidavit|aff).*\\.pdf",
+      "title": "Affidavit for Collection of Personal Property of Decedent",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    },
+    {
+      "pattern": "aff_of_death\\.pdf",
+      "title": "Affidavit of Death",
+      "family_id": "transfer-on-death-affidavit",
+      "identity": "AFFIDAVIT OF DEATH",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": []
+}

@@ -1,0 +1,306 @@
+{
+  "state": "Kentucky",
+  "publisher": "Kentucky Attorney General",
+  "url": "https://www.ag.ky.gov/Resources/Consumer-Resources/seniors/Pages/Living-Wills-in-Kentucky.aspx",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "/livingwillpacket\\.pdf",
+      "title": "Kentucky Living Will Packet",
+      "family_id": "combined-advance-directives",
+      "identity": "KENTUCKY LIVING WILL"
+    }
+  ],
+  "source": {
+    "url": "https://www.ag.ky.gov/Resources/Consumer-Resources/seniors/Pages/Living-Wills-in-Kentucky.aspx",
+    "final_url": "https://www.ag.ky.gov/Resources/Consumer-Resources/seniors/Pages/Living-Wills-in-Kentucky.aspx",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:59:03.359Z",
+    "etag": null,
+    "last_modified": "Wed, 14 Oct 2026 09:59:03 GMT",
+    "content_length": "23652",
+    "sha256": "ee3af2ce35fe3069ead9c8a2143cd546b9f24b7b39e5fa17cae616231a2970e9",
+    "title": "Living Wills in Kentucky - Kentucky Attorney General",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-09/12-kentucky-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.ag.ky.gov/Resources/Consumer-Resources/seniors/Pages/Living-Wills-in-Kentucky.aspx",
+      "final_url": "https://www.ag.ky.gov/Resources/Consumer-Resources/seniors/Pages/Living-Wills-in-Kentucky.aspx",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:59:03.359Z",
+      "etag": null,
+      "last_modified": "Wed, 14 Oct 2026 09:59:03 GMT",
+      "content_length": "23652",
+      "sha256": "ee3af2ce35fe3069ead9c8a2143cd546b9f24b7b39e5fa17cae616231a2970e9",
+      "title": "Living Wills in Kentucky - Kentucky Attorney General",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "/livingwillpacket\\.pdf",
+      "title": "Kentucky Living Will Packet",
+      "family_id": "combined-advance-directives",
+      "identity": "KENTUCKY LIVING WILL",
+      "url": "https://www.ag.ky.gov/AG%20Publications/livingwillpacket.pdf",
+      "link_text": "Download the Attorney General's Living Will Packet",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.ag.ky.gov/AG%20Publications/livingwillpacket.pdf",
+        "final_url": "https://www.ag.ky.gov/AG%20Publications/livingwillpacket.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:59:04.299Z",
+        "etag": "\"{5245479A-2A0D-4538-AC75-D76D87E495B7},8\"",
+        "last_modified": "Sun, 15 Dec 2019 22:10:50 GMT",
+        "content_length": "492058",
+        "sha256": "add090c39ac09a5fcbe7d2a22b407383f88aec7d9ac6b4eab28948e012621826",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.ag.ky.gov/AG%20Publications/livingwillpacket.pdf",
+          "final_url": "https://www.ag.ky.gov/AG%20Publications/livingwillpacket.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:59:04.299Z",
+          "etag": "\"{5245479A-2A0D-4538-AC75-D76D87E495B7},8\"",
+          "last_modified": "Sun, 15 Dec 2019 22:10:50 GMT",
+          "content_length": "492058",
+          "sha256": "add090c39ac09a5fcbe7d2a22b407383f88aec7d9ac6b4eab28948e012621826",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "add090c39ac09a5fcbe7d2a22b407383f88aec7d9ac6b4eab28948e012621826",
+      "local_archive_path": "archive/2026-10-14-09/12-kentucky-living-will-packet-add090c39ac0.pdf",
+      "bytes": 492058,
+      "text_length": 15904,
+      "pages": 8,
+      "identity_excerpt": "LIVING WILL PACKET KENTUCKY L iving W iLLs in KentucKy A Living Will gives you a voice in decisions about your medical care when you are unconscious or too ill to communicate. As long as you are able to express your own decisions, your Living Will will not be used and you can accept or refuse any medical treatment. But if you become seriously ill, you may lose the ability to participate in decisions about your own treatment. You have the right to make decisions about your health care. No health care may be given to you over your objection, and necessary health care may not be stopped or withheld if you object. The Kentucky Living Will Directive Act of 1994 was passed to ensure that citizens have the right to make decisions regarding their own medical care, including the right to accept or refuse treatment. This right to decide — to say yes or no to proposed treatment — applies to treatments that extend life, like a breathing machine or a feeding tube. In Kentucky a Living Will allows you to leave instructions in four critical areas. You can: Designate a Health Care Surrogate Refuse or request life prolonging treatment Refuse or request artificial feeding or hydration (tube feeding) Express your wishes regarding organ donation Everyone age 18 or older can have a Living Will. The effectiveness of a Living Will is suspended during pregnancy. It is not necessary that you have an attorney draw up your Living Will. Kentucky law (KRS 311.625) actually specifies the form you should fill out. You probably should see an attorney if you make changes to the Living Will form. The law also prohibits relatives, heirs, health care providers or guardians from witnessing the Will. You may wish to use a Notary Public in lieu of witnesses. The Living Will form includes two sections. The fi",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip to main navigation",
+      "url": "https://www.ag.ky.gov/Resources/Consumer-Resources/seniors/Pages/Living-Wills-in-Kentucky.aspx#mainNav"
+    },
+    {
+      "text": "Skip to main content",
+      "url": "https://www.ag.ky.gov/Resources/Consumer-Resources/seniors/Pages/Living-Wills-in-Kentucky.aspx#bodyContent"
+    },
+    {
+      "text": "Ky.gov",
+      "url": "http://kentucky.gov/"
+    },
+    {
+      "text": "Attorney GeneralRussell Coleman",
+      "url": "https://www.ag.ky.gov/"
+    },
+    {
+      "text": "About",
+      "url": "https://www.ag.ky.gov/about/Pages/default.aspx"
+    },
+    {
+      "text": "Attorney General Russell Coleman",
+      "url": "https://www.ag.ky.gov/about/Pages/Attorney-General.aspx"
+    },
+    {
+      "text": "Executive Staff",
+      "url": "https://www.ag.ky.gov/about/Pages/Staff.aspx"
+    },
+    {
+      "text": "Office Divisions",
+      "url": "https://www.ag.ky.gov/about/Office-Divisions/Pages/default.aspx"
+    },
+    {
+      "text": "Office Locations",
+      "url": "https://www.ag.ky.gov/about/Pages/Locations.aspx"
+    },
+    {
+      "text": "Resources & Programs",
+      "url": "https://www.ag.ky.gov/Resources/Pages/default.aspx"
+    },
+    {
+      "text": "Kentucky Opioid Abatement Advisory Commission",
+      "url": "https://kyoaac.ky.gov/"
+    },
+    {
+      "text": "Consumer Resources",
+      "url": "https://www.ag.ky.gov/Resources/Consumer-Resources/Pages/default.aspx"
+    },
+    {
+      "text": "Victim Resources",
+      "url": "https://www.ag.ky.gov/Resources/Victim-Resources/Pages/default.aspx"
+    },
+    {
+      "text": "Business Forms",
+      "url": "https://www.ag.ky.gov/Resources/Pages/forms.aspx"
+    },
+    {
+      "text": "Publications",
+      "url": "https://www.ag.ky.gov/Resources/Pages/Publications.aspx"
+    },
+    {
+      "text": "Electronic Service of Process",
+      "url": "https://www.ag.ky.gov/about/Office-Divisions/OCEL/Pages/Electronic-Service-of-Process.aspx"
+    },
+    {
+      "text": "Commonwealth's and County Attorneys",
+      "url": "https://www.ag.ky.gov/Pages/attorneys.aspx"
+    },
+    {
+      "text": "Contracts with the Office of the Attorney General",
+      "url": "https://www.ag.ky.gov/Pages/contracts.aspx"
+    },
+    {
+      "text": "Child Abuse",
+      "url": "https://www.ag.ky.gov/Resources/Child-Abuse/Pages/Protecting-Children.aspx"
+    },
+    {
+      "text": "Human Trafficking",
+      "url": "https://www.ag.ky.gov/Resources/Human-Trafficking/Pages/default.aspx"
+    },
+    {
+      "text": "Kentucky Office of Regulatory Relief",
+      "url": "https://www.ag.ky.gov/Resources/Pages/Office-of-Regulatory-Relief.aspx"
+    },
+    {
+      "text": "Body Armor Grant Program",
+      "url": "https://www.ag.ky.gov/Resources/Body-Armor-Grants/Pages/default.aspx"
+    },
+    {
+      "text": "Child Support",
+      "url": "https://www.ag.ky.gov/Resources/Child-Support/Pages/default.aspx"
+    },
+    {
+      "text": "News",
+      "url": "https://www.ag.ky.gov/news/Pages/default.aspx"
+    },
+    {
+      "text": "Open Records",
+      "url": "https://www.ag.ky.gov/"
+    },
+    {
+      "text": "Open Records Requests",
+      "url": "https://www.ag.ky.gov/Contact-Us/Pages/Open-Records-Requests.aspx"
+    },
+    {
+      "text": "Open Records/Open Meetings Decisions",
+      "url": "https://www.ag.ky.gov/Resources/orom/Pages/default.aspx"
+    },
+    {
+      "text": "Opinions",
+      "url": "https://www.ag.ky.gov/Opinions/Pages/default.aspx"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.ag.ky.gov/Contact-Us/Pages/default.aspx"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.ag.ky.gov/Contact-Us/Pages/default.aspx"
+    },
+    {
+      "text": "Scheduling Requests",
+      "url": "https://www.ag.ky.gov/Contact-Us/Pages/Scheduling-Requests.aspx"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.ag.ky.gov/Contact-Us/Pages/Careers.aspx"
+    },
+    {
+      "text": "Homepage",
+      "url": "https://www.ag.ky.gov/Pages/default.aspx"
+    },
+    {
+      "text": "Resources & Programs",
+      "url": "https://www.ag.ky.gov/Resources/Pages/default.aspx"
+    },
+    {
+      "text": "Consumer Resources",
+      "url": "https://www.ag.ky.gov/Resources/Consumer-Resources/Pages/default.aspx"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.ag.ky.gov/Resources/Consumer-Resources/seniors/Pages/default.aspx"
+    },
+    {
+      "text": "Download the Attorney General's Living Will Packet",
+      "url": "https://www.ag.ky.gov/AG%20Publications/livingwillpacket.pdf"
+    },
+    {
+      "text": "Download the Attorney General's Living Will Packet in Large Font​​",
+      "url": "https://www.ag.ky.gov/AG%20Publications/Living%20will%20packet%20LARGE%20FONT.pdf"
+    },
+    {
+      "text": "Folleto Informativo Sobre el Testamento Vital en Español",
+      "url": "https://www.ag.ky.gov/AG%20Publications/livingwillpacketespanol.pdf"
+    },
+    {
+      "text": "KRS 311.625",
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=42591"
+    },
+    {
+      "text": "KRS 311.623",
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=44036"
+    },
+    {
+      "text": "KRS 311.629",
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30567"
+    },
+    {
+      "text": "KRS 311.631",
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30569"
+    },
+    {
+      "text": "Baptist Health Kentucky",
+      "url": "https://www.baptisthealthkentucky.com/corporate/patients-visitors/advance-directives.html"
+    },
+    {
+      "text": "American Cancer Society",
+      "url": "http://www.cancer.org/docroot/MIT/mit_3_1_1.asp"
+    },
+    {
+      "text": "American Academy of Family Physicians",
+      "url": "http://www.aafp.org/afp/2000/1001/p1683.html"
+    },
+    {
+      "text": "The Living Will packet is available online​",
+      "url": "https://www.ag.ky.gov/AG%20Publications/livingwillpacket.pdf"
+    },
+    {
+      "text": "Send an Email",
+      "url": "https://www.ag.ky.gov/Contact-Us/Pages/default.aspx"
+    },
+    {
+      "text": "Policies",
+      "url": "https://kentucky.gov/policies/Pages/default.aspx"
+    },
+    {
+      "text": "Security",
+      "url": "https://kentucky.gov/policies/Pages/security.aspx"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "https://kentucky.gov/policies/Pages/disclaimer.aspx"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://kentucky.gov/policies/Pages/accessibility.aspx"
+    }
+  ]
+}

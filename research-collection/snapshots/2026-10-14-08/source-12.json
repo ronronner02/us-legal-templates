@@ -1,0 +1,100 @@
+{
+  "state": "Missouri",
+  "publisher": "Missouri Courts ? 13th Judicial Circuit",
+  "url": "https://www.courts.mo.gov/hosted/circuit13/forms/Civil/CIVIL_SmallClaimsCourtHandbook.pdf",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": ".*",
+      "title": "Small Claims Court Handbook ? 13th Judicial Circuit",
+      "family_id": "small-claims-instructions",
+      "identity": "SMALL CLAIMS COURT",
+      "max": 1
+    }
+  ],
+  "direct": true,
+  "jurisdiction": "Missouri; 13th Judicial Circuit",
+  "flags": [
+    "circuit-specific-supporting-guide"
+  ],
+  "source": {
+    "url": "https://www.courts.mo.gov/hosted/circuit13/forms/Civil/CIVIL_SmallClaimsCourtHandbook.pdf",
+    "final_url": "https://www.courts.mo.gov/hosted/circuit13/forms/Civil/CIVIL_SmallClaimsCourtHandbook.pdf",
+    "http_status": 403,
+    "content_type": "text/html",
+    "retrieved_at": "2026-10-14T09:40:06.907Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "8a824cea4af8d527e7f1e0a259ff4efaa9d409524661682ce785508ca37950f3",
+    "title": "Error 403",
+    "retrieval_status": "http-403",
+    "local_archive_path": "archive/2026-10-14-08/12-missouri-source.pdf"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.courts.mo.gov/hosted/circuit13/forms/Civil/CIVIL_SmallClaimsCourtHandbook.pdf",
+      "final_url": "https://www.courts.mo.gov/hosted/circuit13/forms/Civil/CIVIL_SmallClaimsCourtHandbook.pdf",
+      "http_status": 403,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-14T09:40:06.907Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "8a824cea4af8d527e7f1e0a259ff4efaa9d409524661682ce785508ca37950f3",
+      "title": "Error 403",
+      "retrieval_status": "http-403"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": ".*",
+      "title": "Small Claims Court Handbook ? 13th Judicial Circuit",
+      "family_id": "small-claims-instructions",
+      "identity": "SMALL CLAIMS COURT",
+      "max": 1,
+      "url": "https://www.courts.mo.gov/hosted/circuit13/forms/Civil/CIVIL_SmallClaimsCourtHandbook.pdf",
+      "link_text": "Small Claims Court Handbook ? 13th Judicial Circuit",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.courts.mo.gov/hosted/circuit13/forms/Civil/CIVIL_SmallClaimsCourtHandbook.pdf",
+        "final_url": "https://www.courts.mo.gov/hosted/circuit13/forms/Civil/CIVIL_SmallClaimsCourtHandbook.pdf",
+        "http_status": 403,
+        "content_type": "text/html",
+        "retrieved_at": "2026-10-14T09:40:06.907Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": null,
+        "sha256": "8a824cea4af8d527e7f1e0a259ff4efaa9d409524661682ce785508ca37950f3",
+        "title": "Error 403",
+        "retrieval_status": "http-403"
+      },
+      "attempts": [
+        {
+          "url": "https://www.courts.mo.gov/hosted/circuit13/forms/Civil/CIVIL_SmallClaimsCourtHandbook.pdf",
+          "final_url": "https://www.courts.mo.gov/hosted/circuit13/forms/Civil/CIVIL_SmallClaimsCourtHandbook.pdf",
+          "http_status": 403,
+          "content_type": "text/html",
+          "retrieved_at": "2026-10-14T09:40:06.907Z",
+          "etag": null,
+          "last_modified": null,
+          "content_length": null,
+          "sha256": "8a824cea4af8d527e7f1e0a259ff4efaa9d409524661682ce785508ca37950f3",
+          "title": "Error 403",
+          "retrieval_status": "http-403"
+        }
+      ],
+      "downloaded": false,
+      "status": "http-403"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Small Claims Court Handbook ? 13th Judicial Circuit",
+      "url": "https://www.courts.mo.gov/hosted/circuit13/forms/Civil/CIVIL_SmallClaimsCourtHandbook.pdf"
+    }
+  ]
+}

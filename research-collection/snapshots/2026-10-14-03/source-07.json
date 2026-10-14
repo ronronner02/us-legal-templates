@@ -1,0 +1,60 @@
+{
+  "state": "Kansas",
+  "publisher": "Kansas Judicial Council",
+  "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-small-claims-case",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": "Petition.*pdf|pdf.*Petition",
+      "title": "Small Claims Petition",
+      "family_id": "small-claims-complaint",
+      "identity": "(?:SMALL CLAIMS|PETITION)",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-small-claims-case",
+    "final_url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-small-claims-case",
+    "http_status": 404,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:05:52.309Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": "71190",
+    "sha256": "2df35ce63e893cdd7755d188fbeb94f0421f3320352061f47e69d35007f5a184",
+    "title": "| KS Judicial Council",
+    "retrieval_status": "http-404",
+    "local_archive_path": "archive/2026-10-14-03/07-kansas-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-small-claims-case",
+      "final_url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-small-claims-case",
+      "http_status": 404,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:05:52.309Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": "71190",
+      "sha256": "2df35ce63e893cdd7755d188fbeb94f0421f3320352061f47e69d35007f5a184",
+      "title": "| KS Judicial Council",
+      "retrieval_status": "http-404"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "Petition.*pdf|pdf.*Petition",
+      "title": "Small Claims Petition",
+      "family_id": "small-claims-complaint",
+      "identity": "(?:SMALL CLAIMS|PETITION)",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": []
+}

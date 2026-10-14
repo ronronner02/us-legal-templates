@@ -1,0 +1,110 @@
+{
+  "state": "Mississippi",
+  "publisher": "Mississippi Judiciary",
+  "url": "https://courts.ms.gov/archive/courtinterpreter/Translated%20Forms/Sample%20justice%20court%20civil%20forms%20(7-2-2024).pdf",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": ".*",
+      "title": "Sample Justice Court Civil Forms (July 2, 2024 bundle)",
+      "family_id": "sample-civil-court-forms",
+      "identity": "JUSTICE COURT",
+      "max": 1
+    }
+  ],
+  "direct": true,
+  "flags": [
+    "sample-bundle; individual-form-and-local-court-review-pending"
+  ],
+  "source": {
+    "url": "https://courts.ms.gov/archive/courtinterpreter/Translated%20Forms/Sample%20justice%20court%20civil%20forms%20(7-2-2024).pdf",
+    "final_url": "https://courts.ms.gov/archive/courtinterpreter/Translated%20Forms/Sample%20justice%20court%20civil%20forms%20(7-2-2024).pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "retrieved_at": "2026-10-14T09:40:07.775Z",
+    "etag": "\"efcfbe8decddc1:0\"",
+    "last_modified": "Thu, 16 Apr 2026 20:23:37 GMT",
+    "content_length": "253069",
+    "sha256": "2072e765eed39071366e42463a219bbf73136b15461610c566f107ef3267179a",
+    "title": "",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/11-mississippi-source.pdf"
+  },
+  "source_attempts": [
+    {
+      "url": "https://courts.ms.gov/archive/courtinterpreter/Translated%20Forms/Sample%20justice%20court%20civil%20forms%20(7-2-2024).pdf",
+      "final_url": "https://courts.ms.gov/archive/courtinterpreter/Translated%20Forms/Sample%20justice%20court%20civil%20forms%20(7-2-2024).pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "retrieved_at": "2026-10-14T09:40:07.775Z",
+      "etag": "\"efcfbe8decddc1:0\"",
+      "last_modified": "Thu, 16 Apr 2026 20:23:37 GMT",
+      "content_length": "253069",
+      "sha256": "2072e765eed39071366e42463a219bbf73136b15461610c566f107ef3267179a",
+      "title": "",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": ".*",
+      "title": "Sample Justice Court Civil Forms (July 2, 2024 bundle)",
+      "family_id": "sample-civil-court-forms",
+      "identity": "JUSTICE COURT",
+      "max": 1,
+      "url": "https://courts.ms.gov/archive/courtinterpreter/Translated%20Forms/Sample%20justice%20court%20civil%20forms%20(7-2-2024).pdf",
+      "link_text": "Sample Justice Court Civil Forms (July 2, 2024 bundle)",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://courts.ms.gov/archive/courtinterpreter/Translated%20Forms/Sample%20justice%20court%20civil%20forms%20(7-2-2024).pdf",
+        "final_url": "https://courts.ms.gov/archive/courtinterpreter/Translated%20Forms/Sample%20justice%20court%20civil%20forms%20(7-2-2024).pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:07.775Z",
+        "etag": "\"efcfbe8decddc1:0\"",
+        "last_modified": "Thu, 16 Apr 2026 20:23:37 GMT",
+        "content_length": "253069",
+        "sha256": "2072e765eed39071366e42463a219bbf73136b15461610c566f107ef3267179a",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://courts.ms.gov/archive/courtinterpreter/Translated%20Forms/Sample%20justice%20court%20civil%20forms%20(7-2-2024).pdf",
+          "final_url": "https://courts.ms.gov/archive/courtinterpreter/Translated%20Forms/Sample%20justice%20court%20civil%20forms%20(7-2-2024).pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:07.775Z",
+          "etag": "\"efcfbe8decddc1:0\"",
+          "last_modified": "Thu, 16 Apr 2026 20:23:37 GMT",
+          "content_length": "253069",
+          "sha256": "2072e765eed39071366e42463a219bbf73136b15461610c566f107ef3267179a",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "2072e765eed39071366e42463a219bbf73136b15461610c566f107ef3267179a",
+      "local_archive_path": "archive/2026-10-14-08/11-sample-justice-court-civil-forms-july-2-2024-bundle-2072e765eed3.pdf",
+      "bytes": 253069,
+      "text_length": 97581,
+      "pages": 70,
+      "identity_excerpt": "JUSTICE COURT CIVIL FORMS Updated (7/2/2024) Abstract of Judgment Civil Complaint Civil Judgment Civil Judgment, Agreed Consolidate Actions for Trial Civil and criminal contempt of court: RJC 26 (Contempt of Court) provides: “Procedures in civil actions for contempt of court shall conform to Rule 32 of the Mississippi Rules of Criminal Procedure.” See sample justice court forms for criminal proceedings at: https://mjc.olemiss.edu/forms/ Continuance and Order, Motion for Correction of Clerical Errors and Order, Motion for Correction of Clerical Errors, Notice of Motion for Default Judgment Default Judgment and Order, Motion to Set Aside Default Judgment and Order, Notice of Motion to Set Aside Default Judgment Against the Garnishee Default Judgment Against the Garnishee, Show Cause Citation on Dismissal of Action Dismissal Action, Notice of Motion for Dismissal of Counterclaim Domestic abuse forms: Domestic Violence Legal Forms may be accessed on the Mississippi Attorney General's Office website by opening “Interpersonal/Domestic Violence” under Bureau of Victim Assistance at: www.ago.state.ms.us/divisions/bureau-of-victim-assistance Execution, Suggestion for Execution, Writ of Garnishment, Release of Garnishment, Suggestion for Garnishment, Writ of Guardian ad litem, Appointment of Guardian Ad Litem, Notice of Motion for Appointment of Interpreter for a Limited English Proficiency Individual forms: Sample forms for appointing a foreign language interpreter for a Limited English Proficiency Individual may be accessed on the State of Mississippi Judiciary website at: https://courts.ms.gov/aoc/courtinterpreter/resources.php Interpreter for the Deaf or Hearing Impaired and Order, Motion for Interpreter for the Deaf or Hearing Impaired, Notice of Motion for an Judgment Debto",
+      "revision_evidence": [
+        "T CIVIL FORMS Updated (7/2/2024) Abstract of Judgment Civil Complaint Civil Judgment Civil Judgment, "
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Sample Justice Court Civil Forms (July 2, 2024 bundle)",
+      "url": "https://courts.ms.gov/archive/courtinterpreter/Translated%20Forms/Sample%20justice%20court%20civil%20forms%20(7-2-2024).pdf"
+    }
+  ]
+}

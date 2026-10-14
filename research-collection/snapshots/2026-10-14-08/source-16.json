@@ -1,0 +1,1181 @@
+{
+  "state": "Ohio",
+  "publisher": "Supreme Court of Ohio",
+  "url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "/decedentEstate/2_0\\.pdf",
+      "title": "Application to Probate Will",
+      "family_id": "probate-petition",
+      "identity": "APPLICATION TO PROBATE WILL",
+      "max": 1
+    },
+    {
+      "pattern": "/decedentEstate/4_0\\.pdf",
+      "title": "Application for Authority to Administer Estate",
+      "family_id": "probate-petition",
+      "identity": "APPLICATION FOR AUTHORITY TO ADMINISTER ESTATE",
+      "max": 1
+    },
+    {
+      "pattern": "/decedentEstate/6_0\\.pdf",
+      "title": "Inventory and Appraisal",
+      "family_id": "inventory-and-appraisal",
+      "identity": "INVENTORY AND APPRAISAL",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8",
+    "final_url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:40:11.142Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": "17849",
+    "sha256": "902a8e5725704b98b4a0549c580e3cd944b46ef5676365c76422771a5af69f56",
+    "title": "Decedent's Estate Forms » Supreme Court of Ohio",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/16-ohio-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8",
+      "final_url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:40:11.142Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": "17849",
+      "sha256": "902a8e5725704b98b4a0549c580e3cd944b46ef5676365c76422771a5af69f56",
+      "title": "Decedent's Estate Forms » Supreme Court of Ohio",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "/decedentEstate/2_0\\.pdf",
+      "title": "Application to Probate Will",
+      "family_id": "probate-petition",
+      "identity": "APPLICATION TO PROBATE WILL",
+      "max": 1,
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/2_0.pdf",
+      "link_text": "2.0: Application to Probate Will",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/2_0.pdf",
+        "final_url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/2_0.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:11.738Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": "153167",
+        "sha256": "8837ec6112476d07f5b481b7bfaa13ffb7f279c1edfa85a0112fe21232e12633",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/2_0.pdf",
+          "final_url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/2_0.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:11.738Z",
+          "etag": null,
+          "last_modified": null,
+          "content_length": "153167",
+          "sha256": "8837ec6112476d07f5b481b7bfaa13ffb7f279c1edfa85a0112fe21232e12633",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "8837ec6112476d07f5b481b7bfaa13ffb7f279c1edfa85a0112fe21232e12633",
+      "local_archive_path": "archive/2026-10-14-08/16-application-to-probate-will-8837ec611247.pdf",
+      "bytes": 153167,
+      "text_length": 3833,
+      "pages": 2,
+      "identity_excerpt": "FORM 2.0 - APPLICATION TO PROBATE WILL 12/01/2002 PROBATE COURT OF _______________ COUNTY, OHIO ESTATE OF _____________________________________________________, DECEASED CASE NO. ______________________ APPLICATION TO PROBATE WILL [R.C. 2107.11, 2107.18, and 2107.19] Applicant states that decedent died on _________________________________________________________________ Decedent's domicile was ______________________________________________________________________________ Street Address ___________________________________________________________________________________________________ City or Village, or Township if unincorporated area County ___________________________________________________________________________________________________ Post Office State Zip Code A document purporting to be decedent's last will is attached and offered for probate, and applicant waives notice of probate of this will. Decedent's surviving spouse, children, next of kin, and legatees and devisees, known to applicant, are listed on the attached Form 1.0. ____________________________________________ _______________________________________________ Attorney for Applicant Applicant ____________________________________________ _______________________________________________ Typed or Printed Name Typed or Printed Name ____________________________________________ _______________________________________________ Address Address ____________________________________________ _______________________________________________ ____________________________________________ _______________________________________________ Phone Number (include area code) Phone Number (include area code) Attorney Registration No. _______________________ WAIVER OF NOTICE OF PROBATE OF WILL The undersigned, being persons entitled",
+      "revision_evidence": [
+        "LICATION TO PROBATE WILL 12/01/2002 PROBATE COURT OF _______________ COUNTY, OHIO ESTATE OF ________",
+        "LICATION TO PROBATE WILL 12/01/2002 CASE NO. _________________ ENTRY ADMITTING WILL TO PROBATE The C"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "/decedentEstate/4_0\\.pdf",
+      "title": "Application for Authority to Administer Estate",
+      "family_id": "probate-petition",
+      "identity": "APPLICATION FOR AUTHORITY TO ADMINISTER ESTATE",
+      "max": 1,
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/4_0.pdf",
+      "link_text": "4.0: Application for Authority to Administer Estate",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/4_0.pdf",
+        "final_url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/4_0.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:12.140Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": "143666",
+        "sha256": "2d19a403a847a63010556d0371e4b8ecaf13f9391d90146f7e16ac15b906c3c0",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/4_0.pdf",
+          "final_url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/4_0.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:12.140Z",
+          "etag": null,
+          "last_modified": null,
+          "content_length": "143666",
+          "sha256": "2d19a403a847a63010556d0371e4b8ecaf13f9391d90146f7e16ac15b906c3c0",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "2d19a403a847a63010556d0371e4b8ecaf13f9391d90146f7e16ac15b906c3c0",
+      "local_archive_path": "archive/2026-10-14-08/16-application-for-authority-to-administer-estate-2d19a403a847.pdf",
+      "bytes": 143666,
+      "text_length": 4568,
+      "pages": 2,
+      "identity_excerpt": "FORM 4.0 - APPLICATION FOR AUTHORITY TO ADMINISTER ESTATE 12/01/2002 PROBATE COURT OF ____________ COUNTY, OHIO ESTATE OF _____________________________________________________, DECEASED CASE NO. ______________________ APPLICATION FOR AUTHORITY TO ADMINISTER ESTATE [R.C. 2109.02 and 2109.07] [For Executors and all Administrators; attach supplemental application for ancillary administration, if applicable] Applicant states that decedent died on ___________________________________________________________ Decedent's domicile was ______________________________________________________________________ Street Address __________________________________________________________________________________________ City or Village, or Township if unincorporated area County __________________________________________________________________________________________ Post Office State Zip Code Applicant asks to be appointed _________________________________________________________________ of decedent's estate. [Check whichever of the following are applicable] - To applicant's knowledge, decedent did not leave a Will - Decedent's Will has been admitted to probate in this Court - A supplemental application for ancillary administration is attached. Attached is a list of the surviving spouse, children, next of kin, and legatees and devisees, known to applicant, which list includes those persons entitled to administer the estate. The estimated value of the estate is: Personal property………………………………………………………………………… $ ________________________ Annual real property rentals…………………………………………………………… $ ________________________ Subtotal, personalty and rentals……………………………………………………… $ ________________________ Real Property…………………..………………………………………………………… $ ________________________ Total estimated estate……………………",
+      "revision_evidence": [
+        "ITY TO ADMINISTER ESTATE 12/01/2002 PROBATE COURT OF ____________ COUNTY, OHIO ESTATE OF ___________"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "/decedentEstate/6_0\\.pdf",
+      "title": "Inventory and Appraisal",
+      "family_id": "inventory-and-appraisal",
+      "identity": "INVENTORY AND APPRAISAL",
+      "max": 1,
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/6_0.pdf",
+      "link_text": "6.0: Inventory and Appraisal",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/6_0.pdf",
+        "final_url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/6_0.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:12.801Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": "509106",
+        "sha256": "be29e318a7c0eb9fc2ada6547049d1528c13c30917aabe3970d5ef85dba87858",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/6_0.pdf",
+          "final_url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/6_0.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:12.801Z",
+          "etag": null,
+          "last_modified": null,
+          "content_length": "509106",
+          "sha256": "be29e318a7c0eb9fc2ada6547049d1528c13c30917aabe3970d5ef85dba87858",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "be29e318a7c0eb9fc2ada6547049d1528c13c30917aabe3970d5ef85dba87858",
+      "local_archive_path": "archive/2026-10-14-08/16-inventory-and-appraisal-be29e318a7c0.pdf",
+      "bytes": 509106,
+      "text_length": 3415,
+      "pages": 2,
+      "identity_excerpt": "FORM 6.0 – INVENTORY AND APPRAISAL Amended: October 1, 2020 Discard all previous versions of this form PROBATE COURT OF _______________ COUNTY, OHIO ESTATE OF ____________________________________________________, DECEASED CASE NO. ______________________ INVENTORY AND APPRAISAL [R.C. 2115.02 and 2115.09] – Date of Death After April 5, 2017 To the knowledge of the fiduciary the attached schedule of assets in decedent's estate is complete. The fiduciary determined the value of those assets whose values were readily ascertainable and which were not appraised by the appraiser, and that such values are correct. The estate is recapitulated as follows: Tangible personal property……………………………………………………………………$___________________ Intangible personal property…………………………………………………………………..$___________________ Real property……………………………………………………………………………………$___________________ Total……………………………………………………………………………………………...$___________________ Automobiles transferred to surviving spouse under R.C. 2106.18 Value(s): $ ________________, $________________, $________________, $ ________________, $ ________________, $________________, $________________, $ ________________ Total value [not to exceed $65,000.00]……………………………………….. $_______________ The fiduciary is also the surviving spouse of the decedent and waives notice of the taking of the inventory. ______________________________________ ______________________________________ Attorney Fiduciary Attorney Registration No. ______________________ APPRAISER'S CERTIFICATE The undersigned appraiser agreed to act as appraiser of decedent's estate and to appraise the property exhibited truly, honestly, impartially, and to the best of the appraiser's knowledge and ability. The appraiser further says that those assets whose values were not readily ascertainabl",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8#main-content"
+    },
+    {
+      "text": "Statement",
+      "url": "https://www.supremecourt.ohio.gov/DataInformation"
+    },
+    {
+      "text": "The Supreme Court of Ohio  & The Ohio Judicial System",
+      "url": "https://www.supremecourt.ohio.gov/"
+    },
+    {
+      "text": "Justices",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8#"
+    },
+    {
+      "text": "Sharon L. Kennedy",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/justices-overview/sharon-kennedy/"
+    },
+    {
+      "text": "Patrick F. Fischer",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/justices-overview/patrick-fischer/"
+    },
+    {
+      "text": "R.\t Patrick DeWine",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/justices-overview/patrick-dewine/"
+    },
+    {
+      "text": "Jennifer  Brunner",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/justices-overview/jennifer-brunner/"
+    },
+    {
+      "text": "Joseph T. Deters",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/justices-overview/joseph-deters/"
+    },
+    {
+      "text": "Daniel R. Hawkins",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/justices-overview/daniel-hawkins/"
+    },
+    {
+      "text": "Megan E. Shanahan",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/justices-overview/megan-shanahan/"
+    },
+    {
+      "text": "Cases & Opinions",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8#"
+    },
+    {
+      "text": "Case Activity Notification",
+      "url": "https://www.supremecourt.ohio.gov/CaseActivity/"
+    },
+    {
+      "text": "Case Docket",
+      "url": "https://www.supremecourt.ohio.gov/Clerk/ecms/#/search"
+    },
+    {
+      "text": "Cases Accepted for Review",
+      "url": "https://www.supremecourt.ohio.gov/Clerk/ecms/#/issues"
+    },
+    {
+      "text": "Case Filing Guide",
+      "url": "https://www.supremecourt.ohio.gov/docs/Publications/filingGuide.pdf"
+    },
+    {
+      "text": "Daily Case Announcements & Opinions",
+      "url": "https://www.supremecourt.ohio.gov/#daily-cases"
+    },
+    {
+      "text": "E-Filing",
+      "url": "https://www.supremecourt.ohio.gov/opinions-cases/clerk-of-court/office/e-filing/"
+    },
+    {
+      "text": "Office of Clerk of the Court",
+      "url": "https://www.supremecourt.ohio.gov/opinions-cases/office/"
+    },
+    {
+      "text": "Supreme Court Rules of Practice",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/practice/rulesofpractice.pdf"
+    },
+    {
+      "text": "Calendar",
+      "url": "https://www.supremecourt.ohio.gov/opinions-cases/oral-arguments/oral-argument-calendar/"
+    },
+    {
+      "text": "Guide for Presenting Oral Arguments",
+      "url": "https://www.supremecourt.ohio.gov/docs/Clerk/guideCounsel.pdf"
+    },
+    {
+      "text": "Master Commissioner Arguments",
+      "url": "https://www.supremecourt.ohio.gov/opinions-cases/oral-arguments/master-commissioner-arguments/"
+    },
+    {
+      "text": "Read About the Cases",
+      "url": "http://www.courtnewsohio.gov/cases/previews/default.asp#.Xo6qaMhKiBZ"
+    },
+    {
+      "text": "Video Archive",
+      "url": "https://ohiochannel.org/collections/supreme-court-of-ohio"
+    },
+    {
+      "text": "Opinions & Announcements",
+      "url": "https://www.supremecourt.ohio.gov/Rod/docs/Default.aspx"
+    },
+    {
+      "text": "Opinion Summaries",
+      "url": "http://www.courtnewsohio.gov/cases/"
+    },
+    {
+      "text": "Reporter of Decisions",
+      "url": "https://www.supremecourt.ohio.gov/opinions-cases/opinions/office-of-the-reporter/"
+    },
+    {
+      "text": "Writing Manual",
+      "url": "https://www.supremecourt.ohio.gov/opinions-cases/opinions/writing-manual/"
+    },
+    {
+      "text": "Courts & Rules",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8#"
+    },
+    {
+      "text": "Office of Court Services",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/court-services/"
+    },
+    {
+      "text": "Artificial Intelligence Resource Library",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/artificial-intelligence-resource-library/"
+    },
+    {
+      "text": "Guide for Court Managers",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/managing-courts-in-ohio-a-guide-for-court-managers/"
+    },
+    {
+      "text": "Bench Cards, Guides & Toolkits",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/court-services/bench-cards/"
+    },
+    {
+      "text": "BCI & NICS Reporting",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/court-services/bci-nics/"
+    },
+    {
+      "text": "Case Management",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/case-management-section/"
+    },
+    {
+      "text": "Children & Families",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/children-families/"
+    },
+    {
+      "text": "Data and Analytics",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/office-of-data-and-analytics/"
+    },
+    {
+      "text": "Dispute Resolution",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/dispute-resolution/"
+    },
+    {
+      "text": "Domestic Relations Resource Guide",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/domestic-relations-resource-guide/"
+    },
+    {
+      "text": "Domestic Violence Program",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/domestic-violence-program/"
+    },
+    {
+      "text": "Judicial Assignment Program",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-assignment/"
+    },
+    {
+      "text": "Language Services",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/language-services/"
+    },
+    {
+      "text": "Mayor's Courts",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/mayors-courts-registration-reporting/"
+    },
+    {
+      "text": "Security Services",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/court-security/"
+    },
+    {
+      "text": "Specialized Dockets",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/specialized-docket-section/"
+    },
+    {
+      "text": "Statistical Reporting",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/case-management-section/statistical-reporting-information-and-forms/"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/"
+    },
+    {
+      "text": "Appeals Courts",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/ohio-court-of-appeals/"
+    },
+    {
+      "text": "Courts by County",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/ohio-trial-courts/"
+    },
+    {
+      "text": "Complaints About Attorneys and Judges",
+      "url": "https://www.supremecourt.ohio.gov/disciplinary-system/ds/complaints/"
+    },
+    {
+      "text": "Related Websites",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/related-websites/"
+    },
+    {
+      "text": "Court of Claims",
+      "url": "https://ohiocourtofclaims.gov/"
+    },
+    {
+      "text": "Advisory Committees",
+      "url": "https://www.supremecourt.ohio.gov/courts/advisory/advisory-committees/"
+    },
+    {
+      "text": "Boards",
+      "url": "https://www.supremecourt.ohio.gov/courts/advisory/boards/"
+    },
+    {
+      "text": "Capital Case Attorney Fee Council",
+      "url": "https://www.supremecourt.ohio.gov/courts/advisory/capital-case-attorney-fee-council/"
+    },
+    {
+      "text": "Commissions",
+      "url": "https://www.supremecourt.ohio.gov/courts/advisory/commissions/"
+    },
+    {
+      "text": "Criminal Sentencing Commission",
+      "url": "https://www.supremecourt.ohio.gov/criminal-br-sentencing/sentencing/"
+    },
+    {
+      "text": "Task Forces",
+      "url": "https://www.supremecourt.ohio.gov/courts/advisory/task-forces/"
+    },
+    {
+      "text": "Rules of Practice & Procedure in Ohio Courts",
+      "url": "https://www.supremecourt.ohio.gov/laws-rules/ohio-rules-of-court/#practice"
+    },
+    {
+      "text": "Rules of Superintendence for the Courts of Ohio",
+      "url": "https://www.supremecourt.ohio.gov/laws-rules/ohio-rules-of-court/#superintendence"
+    },
+    {
+      "text": "Rules of Superintendence Restructuring",
+      "url": "https://www.supremecourt.ohio.gov/courts/courts-rules/rules-of-superintendence-restructuring/"
+    },
+    {
+      "text": "Rules for Ohio Judges & Attorneys",
+      "url": "https://www.supremecourt.ohio.gov/laws-rules/ohio-rules-of-court/#judgeatty"
+    },
+    {
+      "text": "Supreme Court Rules",
+      "url": "https://www.supremecourt.ohio.gov/laws-rules/ohio-rules-of-court/#sco"
+    },
+    {
+      "text": "Miscellaneous Rules",
+      "url": "https://www.supremecourt.ohio.gov/laws-rules/ohio-rules-of-court/#miscellaneous"
+    },
+    {
+      "text": "Rules of the Court of Claims of Ohio",
+      "url": "https://www.supremecourt.ohio.gov/laws-rules/ohio-rules-of-court/#coc"
+    },
+    {
+      "text": "Local Rules of Court",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/ohio-trial-courts/"
+    },
+    {
+      "text": "Attorneys",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8#"
+    },
+    {
+      "text": "Admission to the Practice of Law in Ohio",
+      "url": "https://www.supremecourt.ohio.gov/attorneys/admission-to-the-practice-of-law-in-ohio/"
+    },
+    {
+      "text": "Attorney Registration",
+      "url": "https://www.supremecourt.ohio.gov/attorneys/attorney-registration/"
+    },
+    {
+      "text": "Certificates of Good Standing",
+      "url": "https://www.supremecourt.ohio.gov/attorneys/good-standing/"
+    },
+    {
+      "text": "CLE & Online Transcripts",
+      "url": "https://www.supremecourt.ohio.gov/attorneys/cle/"
+    },
+    {
+      "text": "Find CLE Approved Activity",
+      "url": "https://www.supremecourt.ohio.gov/attysvcs/CLE/ActivitySearch/"
+    },
+    {
+      "text": "Professionalism",
+      "url": "https://www.supremecourt.ohio.gov/courts/advisory/commissions/commission-on-professionalism/"
+    },
+    {
+      "text": "Artificial Intelligence Resource Library",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/artificial-intelligence-resource-library/"
+    },
+    {
+      "text": "Attorney Portal",
+      "url": "https://www.supremecourt.ohio.gov/attorneyportal"
+    },
+    {
+      "text": "Case Docket",
+      "url": "https://www.supremecourt.ohio.gov/Clerk/ecms/#/search"
+    },
+    {
+      "text": "E-Filing",
+      "url": "https://www.supremecourt.ohio.gov/opinions-cases/clerk-of-court/office/e-filing/"
+    },
+    {
+      "text": "Office of Attorney Services",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/admin-offices/office-atty-services/"
+    },
+    {
+      "text": "Representation of Indigent Capital Defendants",
+      "url": "https://www.supremecourt.ohio.gov/courts/advisory/commissions/counsel-in-capital-cases/"
+    },
+    {
+      "text": "Attorney Directory Search",
+      "url": "https://www.supremecourt.ohio.gov/AttorneySearch/#/search"
+    },
+    {
+      "text": "Complaints About Attorneys and Judges",
+      "url": "https://www.supremecourt.ohio.gov/disciplinary-system/ds/complaints/"
+    },
+    {
+      "text": "Lawyer Mentoring Program",
+      "url": "https://www.supremecourt.ohio.gov/attorneys/mentoring-program/"
+    },
+    {
+      "text": "Lawyers' Fund for Client Protection",
+      "url": "https://www.supremecourt.ohio.gov/courts/advisory/boards/client-protection/"
+    },
+    {
+      "text": "Lawyer Referral & Information Services/Prepaid Legal Plans",
+      "url": "https://www.supremecourt.ohio.gov/attorneys/referral-services/"
+    },
+    {
+      "text": "Judicial Officers",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8#"
+    },
+    {
+      "text": "Administrative Judge Self Service",
+      "url": "https://www.supremecourt.ohio.gov/AJMM/#/logon"
+    },
+    {
+      "text": "Affidavits of Disqualification",
+      "url": "https://www.supremecourt.ohio.gov/opinions-cases/clerk-of-court/office/"
+    },
+    {
+      "text": "Bench Cards, Guides & Toolkits",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/court-services/bench-cards/"
+    },
+    {
+      "text": "CLE & Online Transcripts",
+      "url": "https://www.supremecourt.ohio.gov/attorneys/cle/"
+    },
+    {
+      "text": "Financial Disclosure",
+      "url": "https://www.bpc.ohio.gov/financial-disclosure-statements"
+    },
+    {
+      "text": "For Families of Judges",
+      "url": "https://www.supremecourt.ohio.gov/courts/advisory/advisory-committees/advisory-committee-on-the-judicial-family-network/"
+    },
+    {
+      "text": "IGOR",
+      "url": "https://www.supremecourt.ohio.gov/OARS/Account/LogOn"
+    },
+    {
+      "text": "Judicial College",
+      "url": "https://www.supremecourt.ohio.gov/education/judicial-college/"
+    },
+    {
+      "text": "Judicial Legal Advice Hotline & Liability Insurance",
+      "url": "https://www.supremecourt.ohio.gov/judicial-officers/judges/judicial-liability-insurance/"
+    },
+    {
+      "text": "Annual Registration",
+      "url": "https://www.supremecourt.ohio.gov/attorneys/magistrate-registration/"
+    },
+    {
+      "text": "Bench Cards, Guides & Toolkits",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/court-services/bench-cards/"
+    },
+    {
+      "text": "CLE & Online Transcripts",
+      "url": "https://www.supremecourt.ohio.gov/attorneys/cle/"
+    },
+    {
+      "text": "Financial Disclosure",
+      "url": "https://www.bpc.ohio.gov/financial-disclosure-statements"
+    },
+    {
+      "text": "Judicial College",
+      "url": "https://www.supremecourt.ohio.gov/education/judicial-college/"
+    },
+    {
+      "text": "Magistrate FAQ",
+      "url": "https://www.supremecourt.ohio.gov/attorneys/magistrate-registration/magistrate-faq/"
+    },
+    {
+      "text": "Notification of Appointments",
+      "url": "https://www.supremecourt.ohio.gov/attorneys/magistrate-registration/magistrate-appointments-and-terminations/"
+    },
+    {
+      "text": "Judicial College",
+      "url": "https://www.supremecourt.ohio.gov/education/judicial-college/"
+    },
+    {
+      "text": "JASPAY Portal",
+      "url": "https://www.supremecourt.ohio.gov/account/Login.aspx?ret=/JASPAYPortal/login.aspx&hnu=1"
+    },
+    {
+      "text": "Judicial Assignment Program",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-assignment/"
+    },
+    {
+      "text": "Forms",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8#"
+    },
+    {
+      "text": "All Forms",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/"
+    },
+    {
+      "text": "Affidavits of Indigency",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/affidavits-of-indigency/166"
+    },
+    {
+      "text": "Appellate Court",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/appellate-court/98"
+    },
+    {
+      "text": "Attorney Registration",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/attorney-registration/28"
+    },
+    {
+      "text": "Attorney Services",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/attorney-services/36"
+    },
+    {
+      "text": "Bar Admissions",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/bar-admissions/21"
+    },
+    {
+      "text": "Case Filing",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/case-filing/42"
+    },
+    {
+      "text": "Case Management and Statistical Reporting",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/case-management-and-statistical-reporting/47"
+    },
+    {
+      "text": "CLE",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/cle/19"
+    },
+    {
+      "text": "Crime Victims \"Marsy's Law\" Rights",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/crime-victims-marsys-law-rights/112"
+    },
+    {
+      "text": "Criminal Sentencing Commission",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/criminal-sentencing-commission/154"
+    },
+    {
+      "text": "Disciplinary",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/disciplinary/43"
+    },
+    {
+      "text": "Dispute Resolution and Mediation",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/dispute-resolution-and-mediation/61"
+    },
+    {
+      "text": "Domestic Relations and Juvenile Standardized",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/domestic-relations-and-juvenile-standardized/1"
+    },
+    {
+      "text": "Forms filed with the Local Tribunal",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/forms-filed-with-the-local-tribunal/165"
+    },
+    {
+      "text": "Forms submitted in PHV Portal",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/forms-submitted-in-phv-portal/164"
+    },
+    {
+      "text": "Language Services",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/language-services/55"
+    },
+    {
+      "text": "Miscellaneous",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/miscellaneous/73"
+    },
+    {
+      "text": "Probate",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/probate/5"
+    },
+    {
+      "text": "Protection Order",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/protection-order/2"
+    },
+    {
+      "text": "Public",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8#"
+    },
+    {
+      "text": "America 250",
+      "url": "https://www.supremecourt.ohio.gov/public/america-250/"
+    },
+    {
+      "text": "Artificial Intelligence Resource Library",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/artificial-intelligence-resource-library/"
+    },
+    {
+      "text": "Contact the Supreme Court of Ohio",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/admin-offices/office-directory/"
+    },
+    {
+      "text": "Case Docket",
+      "url": "https://www.supremecourt.ohio.gov/Clerk/ecms/#/search"
+    },
+    {
+      "text": "E-Filing",
+      "url": "https://www.supremecourt.ohio.gov/opinions-cases/clerk-of-court/office/e-filing/"
+    },
+    {
+      "text": "Observing Supreme Court Oral Arguments",
+      "url": "https://www.supremecourt.ohio.gov/education/civic-ed/observing-supreme-court-oral-arguments/"
+    },
+    {
+      "text": "Media Information",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/admin-offices/office-directory/comprehensive-list-of-offices/office-of-public-information/media-information/"
+    },
+    {
+      "text": "Represent Yourself in a Legal Process",
+      "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/court-services/access-to-justice-resources/"
+    },
+    {
+      "text": "Civic Education Programs",
+      "url": "https://www.supremecourt.ohio.gov/education/civic-ed/"
+    },
+    {
+      "text": "Find an Attorney",
+      "url": "https://www.supremecourt.ohio.gov/AttorneySearch/#/search"
+    },
+    {
+      "text": "Find My Courthouse",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/ohio-trial-courts/"
+    },
+    {
+      "text": "Find a Judge",
+      "url": "https://www.supremecourt.ohio.gov/JudgeSearch"
+    },
+    {
+      "text": "Job Opportunities",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/career-opportunities/"
+    },
+    {
+      "text": "Grant Opportunities",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/admin-offices/office-of-chief-financial-officer/grants/"
+    },
+    {
+      "text": "Procurement Opportunities",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/admin-offices/office-of-chief-financial-officer/procurement-opportunities/"
+    },
+    {
+      "text": "Lawyer Referral & Information Services/Prepaid Legal Plans",
+      "url": "https://www.supremecourt.ohio.gov/attorneys/referral-services/"
+    },
+    {
+      "text": "Veterans Summit",
+      "url": "https://www.supremecourt.ohio.gov/public/veterans-summit/"
+    },
+    {
+      "text": "Comment on Proposed Rules Changes",
+      "url": "https://www.supremecourt.ohio.gov/RuleAmendments"
+    },
+    {
+      "text": "Complaints About Attorneys & Judges",
+      "url": "https://www.supremecourt.ohio.gov/disciplinary-system/ds/complaints/"
+    },
+    {
+      "text": "Lawyers' Fund for Client Protection",
+      "url": "https://www.supremecourt.ohio.gov/courts/advisory/boards/client-protection/"
+    },
+    {
+      "text": "Reports & Publications",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/reports-publications/"
+    },
+    {
+      "text": "Virtual Public Access to Ohio Court Proceedings",
+      "url": "https://www.supremecourt.ohio.gov/courts/virtual-court/"
+    },
+    {
+      "text": "Visiting the Moyer Judicial Center",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/mjc/directions/"
+    },
+    {
+      "text": "About",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8#"
+    },
+    {
+      "text": "Office Directory",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/admin-offices/office-directory/"
+    },
+    {
+      "text": "Administrative Offices",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/admin-offices/"
+    },
+    {
+      "text": "Jurisdiction & Authority",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/jurisdiction-authority/"
+    },
+    {
+      "text": "Thomas J. Moyer Ohio Judicial Center",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/mjc/"
+    },
+    {
+      "text": "Appeals Courts",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/ohio-court-of-appeals/"
+    },
+    {
+      "text": "Courts by County",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/ohio-trial-courts/"
+    },
+    {
+      "text": "Court of Claims",
+      "url": "https://ohiocourtofclaims.gov/"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.supremecourt.ohio.gov/"
+    },
+    {
+      "text": "« Back to all forms",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/"
+    },
+    {
+      "text": "1.0: Surviving Spouse, Children, Next of Kin, Legatees, and Devisees",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/1_0.pdf"
+    },
+    {
+      "text": "2.0: Application to Probate Will",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/2_0.pdf"
+    },
+    {
+      "text": "2.1: Waiver of Notice of Probate of Will",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/2_1.pdf"
+    },
+    {
+      "text": "2.2: Notice of Probate of Will",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/2_2.pdf"
+    },
+    {
+      "text": "2.3: Entry Admitting Will to Probate",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/2_3.pdf"
+    },
+    {
+      "text": "2.4: Certificate of Service of Notice of Probate of Will",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/2_4.pdf"
+    },
+    {
+      "text": "3.0: Appointment of Appraiser",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/3_0.pdf"
+    },
+    {
+      "text": "4.0: Application for Authority to Administer Estate",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/4_0.pdf"
+    },
+    {
+      "text": "4.1: Supplemental Application for Ancillary Administration",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/4_1.pdf"
+    },
+    {
+      "text": "4.2: Fiduciary's Bond",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/4_2.pdf"
+    },
+    {
+      "text": "4.3: Waiver of Right to Administer",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/4_3.pdf"
+    },
+    {
+      "text": "4.4: Notice and Citation of Hearing on Appointment of Fiduciary",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/4_4.pdf"
+    },
+    {
+      "text": "4.5: Entry Appointing Fiduciary; Letter of Authority",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/4_5.pdf"
+    },
+    {
+      "text": "5.0: Application to Relieve Estate From Administration",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/5_0.pdf"
+    },
+    {
+      "text": "5.1: Assets and Liabilities of Estate to be Relieved from Administration",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/5_1.pdf"
+    },
+    {
+      "text": "5.2: Waiver of Notice of Application to Relieve Estate from Administration",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/5_2.pdf"
+    },
+    {
+      "text": "5.3: Notice of Application to Relieve Estate from Administration",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/5_3.pdf"
+    },
+    {
+      "text": "5.4: Publication of Notice",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/5_4.pdf"
+    },
+    {
+      "text": "5.5: Publication of Notice Proof of Publication",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/5_5.pdf"
+    },
+    {
+      "text": "5.6: Entry Relieving Estate from Administration",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/5_6.pdf"
+    },
+    {
+      "text": "5.10: Summary Release From Administration",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/5_10.pdf"
+    },
+    {
+      "text": "5.11: Entry Granting Summary Release From Administration",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/5_11.pdf"
+    },
+    {
+      "text": "6.0: Inventory and Appraisal",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/6_0.pdf"
+    },
+    {
+      "text": "6.1: Schedule of Assets",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/6_1.pdf"
+    },
+    {
+      "text": "6.2: Waiver of Notice of Hearing on Inventory",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/6_2.pdf"
+    },
+    {
+      "text": "6.3: Notice of Hearing on Inventory",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/6_3.pdf"
+    },
+    {
+      "text": "7.0: Certification of Notice to Administrator of Medicaid Estate Recovery Program",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/7_0.pdf"
+    },
+    {
+      "text": "7.0(A): Notice to Administrator of Medicaid Estate Recovery",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/7_0A.pdf"
+    },
+    {
+      "text": "7.1: Application for Family Allowance",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/7_1.pdf"
+    },
+    {
+      "text": "7.2: Application for Apportionment of Family Allowance",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/7_2.pdf"
+    },
+    {
+      "text": "8.0: Citation to Surviving Spouse to Exercise Elective Rights",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/8_0.pdf"
+    },
+    {
+      "text": "8.1: Election of Surviving Spouse to Take Under Will",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/8_1.pdf"
+    },
+    {
+      "text": "8.2: Election of Surviving Spouse to Take Against Will",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/8_2.pdf"
+    },
+    {
+      "text": "8.3: Summary of General Rights of Surviving Spouse",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/8_3.pdf"
+    },
+    {
+      "text": "8.4: Certificate of Service and Notice of Citation to Surviving Spouse to Exercise Elective Rights",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/8_4.pdf"
+    },
+    {
+      "text": "8.5: Return for Certificate of Service of Citation to Surviving Spouse to Exercise Elective Rights",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/8_5.pdf"
+    },
+    {
+      "text": "8.6: Waiver of Service to Surviving Spouse of the Citation to Elect",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/8_6.pdf"
+    },
+    {
+      "text": "9.0: Application to Sell Personal Property",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/9_0.pdf"
+    },
+    {
+      "text": "9.1: Entry Authorizing Sale of Personal Property",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/9_1.pdf"
+    },
+    {
+      "text": "9.2: Notice of Sale of Personal Property",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/9_2.pdf"
+    },
+    {
+      "text": "10.0: Application to Distribute in Kind",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/10_0.pdf"
+    },
+    {
+      "text": "10.1: Entry Approving Distribution in Kind",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/10_1.pdf"
+    },
+    {
+      "text": "10.2: Notice of Hearing on Application to Distribute in Kind",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/10_2.pdf"
+    },
+    {
+      "text": "11.0: Consent to Power to Sell Real Estate",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/11_0.pdf"
+    },
+    {
+      "text": "12.0: Application for Certificate of Transfer",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/12_0.pdf"
+    },
+    {
+      "text": "12.1: Certificate of Transfer",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/12_1.pdf"
+    },
+    {
+      "text": "13.0: Fiduciary's Account",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/13_0.pdf"
+    },
+    {
+      "text": "13.1: Receipts and Disbursements",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/13_1.pdf"
+    },
+    {
+      "text": "13.2: Assets Remaining in Fiduciary's Hands",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/13_2.pdf"
+    },
+    {
+      "text": "13.3: Entry Approving and Settling Account",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/13_3.pdf"
+    },
+    {
+      "text": "13.4: Waiver of Partial Account",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/13_4.pdf"
+    },
+    {
+      "text": "13.5: Notice of Hearing on Account",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/13_5.pdf"
+    },
+    {
+      "text": "13.6: Certificate of Termination",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/13_6.pdf"
+    },
+    {
+      "text": "13.7: Waiver of Notice of Hearing on Account",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/13_7.pdf"
+    },
+    {
+      "text": "13.8: Application to Extend Administration",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/13_8.pdf"
+    },
+    {
+      "text": "13.9: Certificate of Service of Account to Heirs or Beneficiaries",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/13_9.pdf"
+    },
+    {
+      "text": "13.10: Notice to Extend Administration",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/13_10.pdf"
+    },
+    {
+      "text": "13.11: Application to Disburse Attorney Decedent's Trust Account(s)",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/13_11.pdf"
+    },
+    {
+      "text": "13.12: Notice of Will Location",
+      "url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/13_12.pdf"
+    },
+    {
+      "text": "Reset",
+      "url": "https://www.supremecourt.ohio.gov/forms/all-forms/"
+    },
+    {
+      "text": "Office Online",
+      "url": "https://products.office.com/en-us/free-office-online-for-the-web"
+    },
+    {
+      "text": "Acrobat® Reader",
+      "url": "https://get.adobe.com/reader/otherversions/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/admin-offices/office-directory/"
+    },
+    {
+      "text": "Administrative Offices",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/admin-offices/"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/supreme-court-of-ohio"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/OHSupremeCourt"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/courtnewsohiotv"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/OhioSupremeCourt"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/ohiosupremecourt/"
+    },
+    {
+      "text": "All Court Holidays",
+      "url": "https://www.supremecourt.ohio.gov/opinions-cases/clerk-of-court/office/holiday-filing-rule/"
+    },
+    {
+      "text": "Court Job Postings",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/career-opportunities/"
+    },
+    {
+      "text": "Submit a Position",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/career-opportunities/job-postings-submission-form/"
+    },
+    {
+      "text": "State of Ohio Job Search",
+      "url": "https://dasstateoh.taleo.net/careersection/oh_ext/jobsearch.ftl?lang=en#"
+    },
+    {
+      "text": "ADA Guidelines",
+      "url": "https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/admin-offices/office-directory/comprehensive-list-of-offices/ada/"
+    },
+    {
+      "text": "www.ADA.gov",
+      "url": "https://www.ada.gov/"
+    },
+    {
+      "text": "Browser Translation Instructions",
+      "url": "https://ohio.gov/help-center/browser-translation/browser-translation"
+    },
+    {
+      "text": "Site Index",
+      "url": "https://www.supremecourt.ohio.gov/site-index/"
+    },
+    {
+      "text": "Employee Internal Email Access",
+      "url": "https://outlook.office.com/"
+    },
+    {
+      "text": "View 360 Tour",
+      "url": "https://tours.vntpoint.com/supreme-court-of-ohio/"
+    },
+    {
+      "text": "Site by m2",
+      "url": "https://m2marketing.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.supremecourt.ohio.gov/"
+    }
+  ]
+}

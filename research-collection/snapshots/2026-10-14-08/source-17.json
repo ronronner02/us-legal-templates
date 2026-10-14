@@ -1,0 +1,107 @@
+{
+  "state": "Oklahoma",
+  "publisher": "Oklahoma Department of Human Services",
+  "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/87-07W_AdvanceDirectiveforHealthCare_as_12292020.pdf",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": ".*",
+      "title": "Advance Directive for Health Care",
+      "family_id": "combined-advance-directives",
+      "identity": "ADVANCE DIRECTIVE FOR HEALTH CARE",
+      "max": 1
+    }
+  ],
+  "direct": true,
+  "source": {
+    "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/87-07W_AdvanceDirectiveforHealthCare_as_12292020.pdf",
+    "final_url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/87-07W_AdvanceDirectiveforHealthCare_as_12292020.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "retrieved_at": "2026-10-14T09:40:11.468Z",
+    "etag": "W/\"69047-5beebb2170b80\"",
+    "last_modified": "Thu, 01 Apr 2021 16:26:38 GMT",
+    "content_length": null,
+    "sha256": "2eac0f82ea1767e62df321afe4ac3b16531cd8c84f7dfb81ddbfc6700eccb01e",
+    "title": "",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/17-oklahoma-source.pdf"
+  },
+  "source_attempts": [
+    {
+      "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/87-07W_AdvanceDirectiveforHealthCare_as_12292020.pdf",
+      "final_url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/87-07W_AdvanceDirectiveforHealthCare_as_12292020.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "retrieved_at": "2026-10-14T09:40:11.468Z",
+      "etag": "W/\"69047-5beebb2170b80\"",
+      "last_modified": "Thu, 01 Apr 2021 16:26:38 GMT",
+      "content_length": null,
+      "sha256": "2eac0f82ea1767e62df321afe4ac3b16531cd8c84f7dfb81ddbfc6700eccb01e",
+      "title": "",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": ".*",
+      "title": "Advance Directive for Health Care",
+      "family_id": "combined-advance-directives",
+      "identity": "ADVANCE DIRECTIVE FOR HEALTH CARE",
+      "max": 1,
+      "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/87-07W_AdvanceDirectiveforHealthCare_as_12292020.pdf",
+      "link_text": "Advance Directive for Health Care",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/87-07W_AdvanceDirectiveforHealthCare_as_12292020.pdf",
+        "final_url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/87-07W_AdvanceDirectiveforHealthCare_as_12292020.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:11.468Z",
+        "etag": "W/\"69047-5beebb2170b80\"",
+        "last_modified": "Thu, 01 Apr 2021 16:26:38 GMT",
+        "content_length": null,
+        "sha256": "2eac0f82ea1767e62df321afe4ac3b16531cd8c84f7dfb81ddbfc6700eccb01e",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/87-07W_AdvanceDirectiveforHealthCare_as_12292020.pdf",
+          "final_url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/87-07W_AdvanceDirectiveforHealthCare_as_12292020.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:11.468Z",
+          "etag": "W/\"69047-5beebb2170b80\"",
+          "last_modified": "Thu, 01 Apr 2021 16:26:38 GMT",
+          "content_length": null,
+          "sha256": "2eac0f82ea1767e62df321afe4ac3b16531cd8c84f7dfb81ddbfc6700eccb01e",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "2eac0f82ea1767e62df321afe4ac3b16531cd8c84f7dfb81ddbfc6700eccb01e",
+      "local_archive_path": "archive/2026-10-14-08/17-advance-directive-for-health-care-2eac0f82ea17.pdf",
+      "bytes": 430151,
+      "text_length": 9354,
+      "pages": 4,
+      "identity_excerpt": "State of Oklahoma Advance Directive for Health Care This form is available in English, Spanish and Vietnamese at okdhs.org/programsandservices/aging/legal. If I am incapable of making an informed decision regarding my health care, I direct my health care providers to follow my instructions below. I. Living Will If my attending physician and another physician determine that I am no longer able to make decisions regarding my medical treatment, I direct my attending physician and other health care providers, pursuant to the Oklahoma Advance Directive Act, to follow my instructions as set forth below: 1. If I have a terminal condition, that is, an incurable and irreversible condition that even with the administration of life-sustaining treatment will, in the opinion of the attending physician and another physician, result in death within six (6) months: (Initial one option only) _____ I direct that my life not be extended by life-sustaining treatment, except that if I am unable to take food and water by mouth, I wish to receive artificially administered nutrition and hydration. _____ I direct that my life not be extended by life-sustaining treatment, including artificially administered nutrition and hydration. _____ I direct that I be given life-sustaining treatment and, if I am unable to take food and water by mouth, I wish to receive artificially administered nutrition and hydration. (Initial if applicable) _____ See my more specific instructions in paragraph four (4). 2. If I am persistently unconscious, that is, I have an irreversible condition, as determined by the attending physician and another physician, in which thought and awareness of self and environment are absent: (Initial one option only) _____ I direct that my life not be extended by life-sustaining treatmen",
+      "revision_evidence": [
+        "048. DHS Pub. No. 87-07W Revised 12/2020 This publication is authorized by Oklahoma Department of Human "
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Advance Directive for Health Care",
+      "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/87-07W_AdvanceDirectiveforHealthCare_as_12292020.pdf"
+    }
+  ]
+}

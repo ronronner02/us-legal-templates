@@ -1,0 +1,204 @@
+{
+  "state": "Indiana",
+  "publisher": "Indiana Disability Rights",
+  "url": "https://www.in.gov/idr/advanced-directive-resources/",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "Health-Care-Representative.*(?:Eng|English).*\\.pdf",
+      "title": "Advance Directive: Indiana Health Care Representative",
+      "family_id": "health-care-power-of-attorney",
+      "identity": "Health Care Representative",
+      "max": 1
+    },
+    {
+      "pattern": "Planning-Sheet.*(?:Eng|English).*\\.pdf",
+      "title": "Advance Directive Planning Sheet",
+      "family_id": "advance-care-planning-worksheet",
+      "identity": "Planning Sheet",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.in.gov/idr/advanced-directive-resources/",
+    "final_url": "https://www.in.gov/idr/advanced-directive-resources/",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:01:00.750Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "7290679d7e83d8f8398fba3ffa01664118424a7c0010206a0b95ba703e192307",
+    "title": "Indiana Disability Rights: Advanced Directive Resources",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14/11-indiana-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.in.gov/idr/advanced-directive-resources/",
+      "final_url": "https://www.in.gov/idr/advanced-directive-resources/",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:01:00.750Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "7290679d7e83d8f8398fba3ffa01664118424a7c0010206a0b95ba703e192307",
+      "title": "Indiana Disability Rights: Advanced Directive Resources",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "Health-Care-Representative.*(?:Eng|English).*\\.pdf",
+      "title": "Advance Directive: Indiana Health Care Representative",
+      "family_id": "health-care-power-of-attorney",
+      "identity": "Health Care Representative",
+      "max": 1,
+      "url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-Eng.pdf",
+      "link_text": "English",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-Eng.pdf",
+        "final_url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-Eng.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:01:01.207Z",
+        "etag": "W/dot:e27cf188-05a7-46ae-9a3a-1db5030e04cb:1784812815000:33165",
+        "last_modified": "Thu, 23 Jul 2026 13:20:15 GMT",
+        "content_length": "33165",
+        "sha256": "3ecbdf1954959e771dadb9e37db2e449ff7b60dfff3d564f03472ccf6a63c0e8",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-Eng.pdf",
+          "final_url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-Eng.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:01:01.207Z",
+          "etag": "W/dot:e27cf188-05a7-46ae-9a3a-1db5030e04cb:1784812815000:33165",
+          "last_modified": "Thu, 23 Jul 2026 13:20:15 GMT",
+          "content_length": "33165",
+          "sha256": "3ecbdf1954959e771dadb9e37db2e449ff7b60dfff3d564f03472ccf6a63c0e8",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "3ecbdf1954959e771dadb9e37db2e449ff7b60dfff3d564f03472ccf6a63c0e8",
+      "local_archive_path": "archive/2026-10-14/11-advance-directive-indiana-health-care-representative-3ecbdf195495.pdf",
+      "bytes": 33165,
+      "text_length": 3105,
+      "pages": 2,
+      "identity_excerpt": "Equity Through Advocacy The Protection and Advocacy System for the State of Indiana 4755 Kingsway Drive, Suite 100 Phone: 317.722.5555 Indianapolis, IN 46205 Toll Free: 800.622.4845 IndianaDisabilityRights.org Fax: 317.722.5564 This Advanced Directive project was funded by the Indianapolis Bar Foundation. Advance Directive Indiana Health Care Representative A Health Care Representative is a person chosen by you to make healthcare decisions, including end of life decisions, if you are unable to make your own decisions. A doctor determines if a person is unable to make their own decisions. My legal name is (also known as \"Declarant\") ________________________________________________________________ My Health Care Representative can make decisions for me if I cannot make and share my own health care decisions. My Health Care Representative must follow my wishes and values. My values include my ideas about dignity and quality of life. If my Health Care Representative does not know my wishes, my Health Care Representative must act in good faith and make decisions in my best interests. These decisions include: • Agreeing to medical treatment; • Refusing medical treatment; • Stopping medical treatment; and • Arranging comfort care. I want the following person to be my Health Care Representative (HCR): (HCR Name): ____________________________________________________ (HCR Phone Number): _____________________________________________ If my primary HCR named above is not able or available to act for me, I want the following person to be my backup HCR. (Backup HCR Name): ______________________________________________ (Backup HCR Phone Number): _______________________________________ This Advanced Directive project was funded by the Indianapolis Bar Foundation. 2 Version 3: Last updat",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "Planning-Sheet.*(?:Eng|English).*\\.pdf",
+      "title": "Advance Directive Planning Sheet",
+      "family_id": "advance-care-planning-worksheet",
+      "identity": "Planning Sheet",
+      "max": 1,
+      "url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-Eng-23.6.10-1.pdf",
+      "link_text": "English",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-Eng-23.6.10-1.pdf",
+        "final_url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-Eng-23.6.10-1.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:01:01.816Z",
+        "etag": "W/dot:fe2d8c60-1b67-45c4-9764-9cdf06a8471b:1784812809000:125737",
+        "last_modified": "Thu, 23 Jul 2026 13:20:09 GMT",
+        "content_length": "125737",
+        "sha256": "e3827f8c72ec4d928c5cbe0a2fa9ea00952d3341faa75430f2f99922f5e76c55",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-Eng-23.6.10-1.pdf",
+          "final_url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-Eng-23.6.10-1.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:01:01.816Z",
+          "etag": "W/dot:fe2d8c60-1b67-45c4-9764-9cdf06a8471b:1784812809000:125737",
+          "last_modified": "Thu, 23 Jul 2026 13:20:09 GMT",
+          "content_length": "125737",
+          "sha256": "e3827f8c72ec4d928c5cbe0a2fa9ea00952d3341faa75430f2f99922f5e76c55",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "e3827f8c72ec4d928c5cbe0a2fa9ea00952d3341faa75430f2f99922f5e76c55",
+      "local_archive_path": "archive/2026-10-14/11-advance-directive-planning-sheet-e3827f8c72ec.pdf",
+      "bytes": 125737,
+      "text_length": 14181,
+      "pages": 11,
+      "identity_excerpt": "_____________________________________________________________________________________________________ Equity Through Advocacy The Protection and Advocacy System for the State of Indiana 4755 Kingsway Drive, Suite 100 Phone: 317.722.5555 Indianapolis, IN 46205 Toll Free: 800.622.4845 IndianaDisabilityRights.org Fax: 317.722.5564 This Advanced Directive Planning Sheet was funded by the Indianapolis Bar Foundation. Advanced Directive Planning Sheet Your name: Your address: Your phone number: Your email address: Health Care Representative If you are unable to make or communicate your health care decisions, a health care representative (HCR) can help make those decisions for you. The questions below are designed to help you decide whether to appoint one or more HCR, who to choose, and the decisions they can make. An HCR can: • Say yes or no to any life support or medical treatment if you cannot do so yourself; and Decide what happens to your body after you die, such as organ donation, autopsy, and funeral plans. Advance Directive Effective Event When do you want your HCR to be appointed? (Please choose one.) This question asks when you want your HCR to take effect and have your HCR appointed: right away, or only once a doctor or court decides that you can no longer make or communicate health care decisions for yourself. In either case, you still get to make health care decisions as long as you are able. ☐ Immediately after you sign the form. ☐ When a doctor or court decides you can’t make decisions yourself. This Advanced Directive Planning Sheet was funded by the Indianapolis Bar Foundation. 2 Version 3: Last updated 23.6.10 ☐ Effective on the following date: _______________________________ NOTES: Decision-Making Standards for a Health Care Representative(s) Do you want you",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "English",
+      "url": "https://www.in.gov/idr/files/Advanced-Directive-Client-FAQ-Final-Eng-23.6.10.pdf"
+    },
+    {
+      "text": "English LP",
+      "url": "https://www.in.gov/idr/files/Advanced-Directive-Client-FAQ-Final-LP-Eng-23.6.10.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.in.gov/idr/files/Advanced-Directive-Client-FAQ-Final-SPA-23.6.10.pdf"
+    },
+    {
+      "text": "Spanish LP",
+      "url": "https://www.in.gov/idr/files/Advanced-Directive-Client-FAQ-Final-LP-SPA-23.6.10.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-Eng-23.6.10-1.pdf"
+    },
+    {
+      "text": "English LP",
+      "url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-LP-Eng-23.6.10.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-SPA-23.6.10.pdf"
+    },
+    {
+      "text": "Spanish LP",
+      "url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-LP-SPA-23.6.10.pdf"
+    },
+    {
+      "text": "English",
+      "url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-Eng.pdf"
+    },
+    {
+      "text": "English LP",
+      "url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-LP-Eng.pdf"
+    },
+    {
+      "text": "Spanish",
+      "url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-SPA.pdf"
+    },
+    {
+      "text": "Spanish LP",
+      "url": "https://www.in.gov/idr/files/Advanced-Directive-IN-Health-Care-Representative-Final-LP-SPA.pdf"
+    }
+  ]
+}

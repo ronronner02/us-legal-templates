@@ -1,0 +1,192 @@
+{
+  "state": "Montana",
+  "publisher": "Montana Judicial Branch",
+  "url": "https://courts.mt.gov/Forms/endoflife",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "(?:affidavit|aff).*?(?:personal|collection).*\\.pdf|(?:personal|collection).*?(?:affidavit|aff).*\\.pdf",
+      "title": "Affidavit for Collection of Personal Property of Decedent",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+      "max": 1
+    },
+    {
+      "pattern": "aff_of_death\\.pdf",
+      "title": "Affidavit of Death",
+      "family_id": "transfer-on-death-affidavit",
+      "identity": "AFFIDAVIT OF DEATH",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://courts.mt.gov/Forms/endoflife",
+    "final_url": "https://courts.mt.gov/Forms/endoflife",
+    "http_status": 200,
+    "content_type": "text/html",
+    "retrieved_at": "2026-10-14T09:03:55.910Z",
+    "etag": "\"26e73c75c2d1dc1:0\"",
+    "last_modified": "Tue, 21 Apr 2026 19:10:03 GMT",
+    "content_length": "9495",
+    "sha256": "2a1a0e7face28ebcf0b3256862110ef464d369604b5f495a03fda72881577cf1",
+    "title": "Wills - Trusts - Powers of Attorney - Estate Planning - Probate",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-02/05-montana-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://courts.mt.gov/Forms/endoflife",
+      "final_url": "https://courts.mt.gov/Forms/endoflife",
+      "http_status": 200,
+      "content_type": "text/html",
+      "retrieved_at": "2026-10-14T09:03:55.910Z",
+      "etag": "\"26e73c75c2d1dc1:0\"",
+      "last_modified": "Tue, 21 Apr 2026 19:10:03 GMT",
+      "content_length": "9495",
+      "sha256": "2a1a0e7face28ebcf0b3256862110ef464d369604b5f495a03fda72881577cf1",
+      "title": "Wills - Trusts - Powers of Attorney - Estate Planning - Probate",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "(?:affidavit|aff).*?(?:personal|collection).*\\.pdf|(?:personal|collection).*?(?:affidavit|aff).*\\.pdf",
+      "title": "Affidavit for Collection of Personal Property of Decedent",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+      "max": 1,
+      "url": "https://www.montana.edu/estateplanning/affidavitforcollectionofpersonalpropertyforpdffillableform.pdf",
+      "link_text": "Affidavit for Collection of Personal Property of Decedent",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.montana.edu/estateplanning/affidavitforcollectionofpersonalpropertyforpdffillableform.pdf",
+        "final_url": "https://www.montana.edu/estateplanning/affidavitforcollectionofpersonalpropertyforpdffillableform.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:03:56.933Z",
+        "etag": null,
+        "last_modified": "Thu, 19 Sep 2024 21:14:26 GMT",
+        "content_length": "130551",
+        "sha256": "79ef6288b350b88e0a9f7054ddb276834d83d13f937466cabde34bd2c22d3628",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.montana.edu/estateplanning/affidavitforcollectionofpersonalpropertyforpdffillableform.pdf",
+          "final_url": "https://www.montana.edu/estateplanning/affidavitforcollectionofpersonalpropertyforpdffillableform.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:56.933Z",
+          "etag": null,
+          "last_modified": "Thu, 19 Sep 2024 21:14:26 GMT",
+          "content_length": "130551",
+          "sha256": "79ef6288b350b88e0a9f7054ddb276834d83d13f937466cabde34bd2c22d3628",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "79ef6288b350b88e0a9f7054ddb276834d83d13f937466cabde34bd2c22d3628",
+      "local_archive_path": "archive/2026-10-14-02/05-affidavit-for-collection-of-personal-property-of-decedent-79ef6288b350.pdf",
+      "bytes": 130551,
+      "text_length": 1444,
+      "pages": 1,
+      "identity_excerpt": "Affidavit for Collection of Personal Property of the Decedent STATE OF MONTANA County of Name of County Pursuant to Section §72-3-1101 Montana Code Annotated , after being first duly sworn, states that: Successor’s Name 1. died on Decedent’s Name Date of Death (M/D/YYYY) 2. The value of the decedent’s entire estate, wherever located, less liens and encumbrances, does not exceed $100,000. 3. Thirty (30) days have elapsed since the death of the decedent. (A certified death certificate accompanies this Affidavit.) 4. No application of petition for the appointment of a personal representative is pending or has been granted in any jurisdiction. 5. The claiming successor (affiant), , is entitled to the Successor’s Name decedent’s interest in the personal property, described as Describe asset: bank account number, insurance policy company number, or stock I have read the foregoing statements and affirm that all of the above are true. Successor’s (Affiant) Name State of Montana County of This instrument was signed before me on Date (M/D/YYYY) by Print name of successor (affiant) ____________________________________________________________________________________________ Signature of successor (affiant) Notary Signature [Montana notaries must complete the following, if not part of stamp.] Printed Name Notary Public for the State of Montana Residing at My Commission expires: , 20 Affix seal/stamp as close to signature as possible.",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "aff_of_death\\.pdf",
+      "title": "Affidavit of Death",
+      "family_id": "transfer-on-death-affidavit",
+      "identity": "AFFIDAVIT OF DEATH",
+      "max": 1,
+      "url": "https://courts.mt.gov/external/library/forms/probate/aff_of_death.pdf",
+      "link_text": "Affidavit of Death",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://courts.mt.gov/external/library/forms/probate/aff_of_death.pdf",
+        "final_url": "https://courts.mt.gov/external/library/forms/probate/aff_of_death.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:03:57.584Z",
+        "etag": "\"0f83f429f63db1:0\"",
+        "last_modified": "Fri, 10 Jan 2025 20:36:00 GMT",
+        "content_length": "137809",
+        "sha256": "f39ed6a740e7ad72c4783ac5f1a1a63b30514b0227fd4e4a7a6ef0efc9fe15d8",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://courts.mt.gov/external/library/forms/probate/aff_of_death.pdf",
+          "final_url": "https://courts.mt.gov/external/library/forms/probate/aff_of_death.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:57.584Z",
+          "etag": "\"0f83f429f63db1:0\"",
+          "last_modified": "Fri, 10 Jan 2025 20:36:00 GMT",
+          "content_length": "137809",
+          "sha256": "f39ed6a740e7ad72c4783ac5f1a1a63b30514b0227fd4e4a7a6ef0efc9fe15d8",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "f39ed6a740e7ad72c4783ac5f1a1a63b30514b0227fd4e4a7a6ef0efc9fe15d8",
+      "local_archive_path": "archive/2026-10-14-02/05-affidavit-of-death-f39ed6a740e7.pdf",
+      "bytes": 137809,
+      "text_length": 4116,
+      "pages": 4,
+      "identity_excerpt": "Return To: ______________________ Address: ________________________ ________________________________ ________________________________ ________________________________ AFFIDAVIT OF DEATH I ______________________, [Name of Grantee Beneficiary], being first duly sworn, upon oath, depose and say the following: 1. _____________________________, [Name of Grantor/Decedent] signed and recorded a beneficiary deed with the intent to convey the following property located in _______________________ County, Montana described as follows: ________________________________________________________________ ________________________________________________________________ ________________________________________________________________ ________________________________________________________________ 2. The beneficiary deed was recorded in _________________________ County, Montana, on ______ day of ___________ 20____. Book _____ [number], Page ______ [number], or Instrument Number ________________________. 3. The grantor died on the _____ day of _______________ 20____. At the time of death, the grantor had not revoked the above described beneficiary deed. 4. The following person is the person named as the grantee beneficiary under the beneficiary deed described above, and is entitled to succeed to the grantor’s interest in the real property described above as a result of the grantor’s death: ________________________________, [Grantee Beneficiary’s Name] _________________________________ _________________________________ _________________________________ [Grantee Beneficiary’s Address] Dated this ______ day of __________________, 20____. ___________________________________ Affiant STATE OF MONTANA County of ____________________________ Signed and sworn to before me by ________________________",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Homestead Declaration",
+      "url": "https://courts.mt.gov/Forms/Homestead1.pdf"
+    },
+    {
+      "text": "Affidavit of Death",
+      "url": "https://courts.mt.gov/external/library/forms/probate/aff_of_death.pdf"
+    },
+    {
+      "text": "Affidavit for Collection of Personal Property of Decedent",
+      "url": "https://www.montana.edu/estateplanning/affidavitforcollectionofpersonalpropertyforpdffillableform.pdf"
+    },
+    {
+      "text": "Fiduciary Statement",
+      "url": "https://courts.mt.gov/external/library/forms/probate/fiduciary-statement.pdf"
+    },
+    {
+      "text": "Accessing A Deceased Person's Financial Accounts",
+      "url": "https://www.montana.edu/extension/montguides/montguidepdfsforstore/MT200301HR%20Accessing%20Deceased%20Persons%20Financials%20rev12.23.pdf"
+    },
+    {
+      "text": "Beneficiary Deeds in Montana",
+      "url": "https://www.montana.edu/extension/park/documents/Beneficiary%20Deeds.pdf"
+    },
+    {
+      "text": "Life Insurance - An Estate Planning Tool",
+      "url": "https://extension-store.montana.edu/assets/publications/montguidepdfs/mt199211hr_life_insurance_rev03.25.pdf"
+    },
+    {
+      "text": "Americans with Disabilities Act Public",
+      "url": "https://courts.mt.gov/external/docs/ada-judicial.pdf"
+    },
+    {
+      "text": "Privacy & Security",
+      "url": "http://mt.gov/1240-X06.pdf"
+    }
+  ]
+}

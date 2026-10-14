@@ -1,0 +1,113 @@
+{
+  "state": "New Hampshire",
+  "publisher": "New Hampshire Judicial Branch",
+  "url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2370-de-smallclaimcomplaint.pdf",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": ".*",
+      "title": "Small Claim Complaint (paper form)",
+      "family_id": "small-claims-complaint",
+      "identity": "SMALL CLAIM COMPLAINT",
+      "form_id": "NHJB-2370-De",
+      "max": 1
+    }
+  ],
+  "direct": true,
+  "flags": [
+    "paper-form; reconcile-current-electronic-filing-flow"
+  ],
+  "source": {
+    "url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2370-de-smallclaimcomplaint.pdf",
+    "final_url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2370-de-smallclaimcomplaint.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "retrieved_at": "2026-10-14T09:40:08.805Z",
+    "etag": null,
+    "last_modified": "Tue, 25 May 2021 21:03:29 GMT",
+    "content_length": "54385",
+    "sha256": "b48d686a7c907e43153744174c0f1de0167162eb9778415071fa6f3751a08357",
+    "title": "",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/14-new-hampshire-source.pdf"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2370-de-smallclaimcomplaint.pdf",
+      "final_url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2370-de-smallclaimcomplaint.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "retrieved_at": "2026-10-14T09:40:08.805Z",
+      "etag": null,
+      "last_modified": "Tue, 25 May 2021 21:03:29 GMT",
+      "content_length": "54385",
+      "sha256": "b48d686a7c907e43153744174c0f1de0167162eb9778415071fa6f3751a08357",
+      "title": "",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": ".*",
+      "title": "Small Claim Complaint (paper form)",
+      "family_id": "small-claims-complaint",
+      "identity": "SMALL CLAIM COMPLAINT",
+      "form_id": "NHJB-2370-De",
+      "max": 1,
+      "url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2370-de-smallclaimcomplaint.pdf",
+      "link_text": "Small Claim Complaint (paper form)",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2370-de-smallclaimcomplaint.pdf",
+        "final_url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2370-de-smallclaimcomplaint.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:08.805Z",
+        "etag": null,
+        "last_modified": "Tue, 25 May 2021 21:03:29 GMT",
+        "content_length": "54385",
+        "sha256": "b48d686a7c907e43153744174c0f1de0167162eb9778415071fa6f3751a08357",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2370-de-smallclaimcomplaint.pdf",
+          "final_url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2370-de-smallclaimcomplaint.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:08.805Z",
+          "etag": null,
+          "last_modified": "Tue, 25 May 2021 21:03:29 GMT",
+          "content_length": "54385",
+          "sha256": "b48d686a7c907e43153744174c0f1de0167162eb9778415071fa6f3751a08357",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "b48d686a7c907e43153744174c0f1de0167162eb9778415071fa6f3751a08357",
+      "local_archive_path": "archive/2026-10-14-08/14-small-claim-complaint-paper-form-b48d686a7c90.pdf",
+      "bytes": 54385,
+      "text_length": 2747,
+      "pages": 2,
+      "identity_excerpt": "For e-Filing only NHJB-2370-De (06/12/2018) Page 1 of 2 THE STATE OF NEW HAMPSHIRE JUDICIAL BRANCH http://www.courts.state.nh.us Court Name: Case Name: Case Number: (if known) SMALL CLAIM COMPLAINT Plaintiff name: Residence address: Mailing address: (if different): Street: Street: City: City: State: Zip code: State: Zip code: Telephone: (cell) E-mail: (home) Date of birth: Provide on Confidential Information Sheet Check here if there are multiple Plaintiffs If filing on behalf of another individual or a business please see below, otherwise continue to Defendant Information. District Division Rule 1.3D Statement Attached (This is required when filing on behalf of an individual or business in addition to the applicable authorization below.) Type of Business/ 3rd Party: (If applicable) Corporation Trust Limited Liability Company Partnership Sole Proprietorship Other Type of Authorization if filing on behalf of individual or business: Power of Attorney Authorization signed by General Partner Corporate Resolution (corporation) Authorization signed by Trustee Authorization signed by Member with Management Authority Other Defendant name Residence address: Mailing address: (if different): Street: Street: City: City: State: Zip code: State: Zip code: Telephone: Check here if there are multiple Defendants Military Statement Attached (The court cannot issue a default judgment in the event of a default on the part of an individual defendant until the Military Statement has been filed.) Case Name: Case Number: SMALL CLAIM COMPLAINT NHJB-2370-De (06/12/2018) Page 2 of 2 Type of Business: (If applicable) Agent for Service: Name of agent Address City State Zip code Type of Business/ 3rd Party: (If applicable) Corporation Trust Limited Liability Company Partnership Sole Proprietorship O",
+      "revision_evidence": [
+        "iling only NHJB-2370-De (06/12/2018) Page 1 of 2 THE STATE OF NEW HAMPSHIRE JUDICIAL BRANCH http://w",
+        " COMPLAINT NHJB-2370-De (06/12/2018) Page 2 of 2 Type of Business: (If applicable) Agent for Service"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Small Claim Complaint (paper form)",
+      "url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2370-de-smallclaimcomplaint.pdf"
+    }
+  ]
+}

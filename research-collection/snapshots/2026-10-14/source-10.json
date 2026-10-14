@@ -1,0 +1,77 @@
+{
+  "state": "Rhode Island",
+  "publisher": "Rhode Island Department of Health",
+  "url": "https://health.ri.gov/death-and-dying/end-life-decisions-advanced-directives",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "(?:powerofattorney|PowerOfAttorney|power.of.attorney|DurablePower).*\\.pdf",
+      "title": "Durable Power of Attorney for Health Care",
+      "family_id": "health-care-power-of-attorney",
+      "identity": "POWER OF ATTORNEY.*HEALTH CARE",
+      "max": 1
+    },
+    {
+      "pattern": "living.?will.*\\.pdf",
+      "title": "Living Will",
+      "family_id": "health-care-directive",
+      "identity": "LIVING WILL",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://health.ri.gov/death-and-dying/end-life-decisions-advanced-directives",
+    "final_url": "https://health.ri.gov/death-and-dying/end-life-decisions-advanced-directives",
+    "http_status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:00:59.924Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "583a746797f8ee4b9c5106dcd467e1c2b7220c95d5c8dcd2232ff8d93b3873bd",
+    "title": "Just a moment...",
+    "retrieval_status": "http-403",
+    "local_archive_path": "archive/2026-10-14/10-rhode-island-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://health.ri.gov/death-and-dying/end-life-decisions-advanced-directives",
+      "final_url": "https://health.ri.gov/death-and-dying/end-life-decisions-advanced-directives",
+      "http_status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:00:59.924Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "583a746797f8ee4b9c5106dcd467e1c2b7220c95d5c8dcd2232ff8d93b3873bd",
+      "title": "Just a moment...",
+      "retrieval_status": "http-403"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "(?:powerofattorney|PowerOfAttorney|power.of.attorney|DurablePower).*\\.pdf",
+      "title": "Durable Power of Attorney for Health Care",
+      "family_id": "health-care-power-of-attorney",
+      "identity": "POWER OF ATTORNEY.*HEALTH CARE",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    },
+    {
+      "pattern": "living.?will.*\\.pdf",
+      "title": "Living Will",
+      "family_id": "health-care-directive",
+      "identity": "LIVING WILL",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": []
+}

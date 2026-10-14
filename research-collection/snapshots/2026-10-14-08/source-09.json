@@ -1,0 +1,107 @@
+{
+  "state": "Louisiana",
+  "publisher": "Louisiana Secretary of State",
+  "url": "https://www.sos.la.gov/media/wmjm0vsi/living-will-declaration-form.pdf",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": ".*",
+      "title": "Living Will Declaration",
+      "family_id": "health-care-directive",
+      "identity": "DECLARATION",
+      "max": 1
+    }
+  ],
+  "direct": true,
+  "source": {
+    "url": "https://www.sos.la.gov/media/wmjm0vsi/living-will-declaration-form.pdf",
+    "final_url": "https://www.sos.la.gov/media/wmjm0vsi/living-will-declaration-form.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "retrieved_at": "2026-10-14T09:40:04.747Z",
+    "etag": "\"040dfeff68518157c7f2fec5cc0082cf\"",
+    "last_modified": "Sun, 05 Jul 2026 20:04:13 GMT",
+    "content_length": "134472",
+    "sha256": "0aa0368ee0ec2711bc840a9b0fccf73e5dbc51e19664d7bc66e1b5ba79a2556b",
+    "title": "",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/09-louisiana-source.pdf"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.sos.la.gov/media/wmjm0vsi/living-will-declaration-form.pdf",
+      "final_url": "https://www.sos.la.gov/media/wmjm0vsi/living-will-declaration-form.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "retrieved_at": "2026-10-14T09:40:04.747Z",
+      "etag": "\"040dfeff68518157c7f2fec5cc0082cf\"",
+      "last_modified": "Sun, 05 Jul 2026 20:04:13 GMT",
+      "content_length": "134472",
+      "sha256": "0aa0368ee0ec2711bc840a9b0fccf73e5dbc51e19664d7bc66e1b5ba79a2556b",
+      "title": "",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": ".*",
+      "title": "Living Will Declaration",
+      "family_id": "health-care-directive",
+      "identity": "DECLARATION",
+      "max": 1,
+      "url": "https://www.sos.la.gov/media/wmjm0vsi/living-will-declaration-form.pdf",
+      "link_text": "Living Will Declaration",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.sos.la.gov/media/wmjm0vsi/living-will-declaration-form.pdf",
+        "final_url": "https://www.sos.la.gov/media/wmjm0vsi/living-will-declaration-form.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:04.747Z",
+        "etag": "\"040dfeff68518157c7f2fec5cc0082cf\"",
+        "last_modified": "Sun, 05 Jul 2026 20:04:13 GMT",
+        "content_length": "134472",
+        "sha256": "0aa0368ee0ec2711bc840a9b0fccf73e5dbc51e19664d7bc66e1b5ba79a2556b",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.sos.la.gov/media/wmjm0vsi/living-will-declaration-form.pdf",
+          "final_url": "https://www.sos.la.gov/media/wmjm0vsi/living-will-declaration-form.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:04.747Z",
+          "etag": "\"040dfeff68518157c7f2fec5cc0082cf\"",
+          "last_modified": "Sun, 05 Jul 2026 20:04:13 GMT",
+          "content_length": "134472",
+          "sha256": "0aa0368ee0ec2711bc840a9b0fccf73e5dbc51e19664d7bc66e1b5ba79a2556b",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "0aa0368ee0ec2711bc840a9b0fccf73e5dbc51e19664d7bc66e1b5ba79a2556b",
+      "local_archive_path": "archive/2026-10-14-08/09-living-will-declaration-0aa0368ee0ec.pdf",
+      "bytes": 134472,
+      "text_length": 2634,
+      "pages": 1,
+      "identity_excerpt": "STATE OF LOUISIANA DECLARATION Declaration made this day of , (month, year). I, , being of sound mind, willfully and voluntarily make known my desire that my dying shall not be artificially prolonged under the circumstances set forth below and do hereby declare: If at any time I should have an incurable injury, disease or illness, or be in a continual profound comatose state with no reasonable chance of recovery, certified to be a terminal and irreversible condition by two physicians who have personally examined me, one of whom shall be my attending physician, and the physicians have determined that my death will occur whether or not life-sustaining procedures are utilized and where the application of life-sustaining procedure would serve only to prolong artificially the dying process, I direct (initial one only): That all life-sustaining procedures, including nutrition and hydration, be withheld or withdrawn so that food and water will not be administered invasively. That life-sustaining procedures, except nutrition and hydration, be withheld or withdrawn so that food and water can be administered invasively. I further direct that I be permitted to die naturally with only the administration of medication or the performance of any medical procedure deemed necessary to provide me with comfort care. In the absence of my ability to give directions regarding the use of such life-sustaining procedures, it is my intention that this declaration shall be honored by my family and physician(s) as the final expression of my legal right to refuse medical or surgical treatment and accept the consequences from such refusal. I understand the full import of this declaration and I am emotionally and mentally competent to make this declaration. Signed City, Parish, and State of Residence",
+      "revision_evidence": [
+        "of sound Witness Witness Rev. 01/2018 “LIVING WILL” DECLARATION (R.S. 40:1151 et. sec.) INSTRUCTIONS:"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Living Will Declaration",
+      "url": "https://www.sos.la.gov/media/wmjm0vsi/living-will-declaration-form.pdf"
+    }
+  ]
+}

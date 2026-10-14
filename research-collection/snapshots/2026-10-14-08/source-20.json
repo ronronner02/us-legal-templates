@@ -1,0 +1,772 @@
+{
+  "state": "South Dakota",
+  "publisher": "South Dakota Unified Judicial System",
+  "url": "https://ujs.sd.gov/self-help/pro-se-forms/small-claims-forms/",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": "/ujs-008-plaintiffs-statement-of-claim/",
+      "title": "Plaintiff's Statement of Claim",
+      "family_id": "small-claims-complaint",
+      "identity": "STATEMENT OF CLAIM",
+      "max": 1
+    },
+    {
+      "pattern": "/guide-to-small-claims-court/",
+      "title": "Guide to Small Claims Court",
+      "family_id": "small-claims-instructions",
+      "identity": "SMALL CLAIMS",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://ujs.sd.gov/self-help/pro-se-forms/small-claims-forms/",
+    "final_url": "https://ujs.sd.gov/self-help/pro-se-forms/small-claims-forms/",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:40:13.913Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "85e49ce260a965b770553cb3d8108abe2bfa15a55735755fac79288bf1a7ebf2",
+    "title": "Small Claims Forms | SD UJS",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/20-south-dakota-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://ujs.sd.gov/self-help/pro-se-forms/small-claims-forms/",
+      "final_url": "https://ujs.sd.gov/self-help/pro-se-forms/small-claims-forms/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "retrieved_at": "2026-10-14T09:40:13.913Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "85e49ce260a965b770553cb3d8108abe2bfa15a55735755fac79288bf1a7ebf2",
+      "title": "Small Claims Forms | SD UJS",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "/ujs-008-plaintiffs-statement-of-claim/",
+      "title": "Plaintiff's Statement of Claim",
+      "family_id": "small-claims-complaint",
+      "identity": "STATEMENT OF CLAIM",
+      "max": 1,
+      "url": "https://ujs.sd.gov/files/ujs-008-plaintiffs-statement-of-claim/",
+      "link_text": "UJS-008 Plaintiff's Statement of Claim",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://ujs.sd.gov/files/ujs-008-plaintiffs-statement-of-claim/",
+        "final_url": "https://ujs.sd.gov/media/wknlda4o/ujs-008-plaintiffs-statement-of-small-claims_07_2026.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:15.700Z",
+        "etag": "\"1dd2fe28d4346c8\"",
+        "last_modified": "Wed, 19 Aug 2026 13:56:37 GMT",
+        "content_length": "171592",
+        "sha256": "8c8fcb31e54a5c498d80459d4288c4512c3344ad3d102bc06d934439238a2fa0",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://ujs.sd.gov/files/ujs-008-plaintiffs-statement-of-claim/",
+          "final_url": "https://ujs.sd.gov/media/wknlda4o/ujs-008-plaintiffs-statement-of-small-claims_07_2026.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:15.700Z",
+          "etag": "\"1dd2fe28d4346c8\"",
+          "last_modified": "Wed, 19 Aug 2026 13:56:37 GMT",
+          "content_length": "171592",
+          "sha256": "8c8fcb31e54a5c498d80459d4288c4512c3344ad3d102bc06d934439238a2fa0",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "8c8fcb31e54a5c498d80459d4288c4512c3344ad3d102bc06d934439238a2fa0",
+      "local_archive_path": "archive/2026-10-14-08/20-plaintiff-s-statement-of-claim-8c8fcb31e54a.pdf",
+      "bytes": 171592,
+      "text_length": 820,
+      "pages": 1,
+      "identity_excerpt": "STATE OF SOUTH DAKOTA IN MAGISTRATE COURT COUNTY OF JUDICIAL CIRCUIT Plaintiff Names or Business Name v. Defendant Name or Business name PLAINTIFF’S STATEMENT OF SMALL CLAIMS SMC Case No.: Describe the basis for your claim: (use additional sheet if necessary) Small Claims Fee Calculator can be found on the South Dakota Unified Judicial website. Principal (exclude interest and filing fees) Interest Subtotal Filing Fees Plaintiff’s Total Sheriff Service only – no certified mail Sheriff/Personal Service requested if certified mail is returned undelivered. Additional fees charges for service options listed above. It’s the plaintiff’s responsibility to contact the Sheriff’s Office or process server for fee amounts and to file the Return of Service. /S/ Plaintiff Signature Date Page 1 of 1 Form UJS-008 Rev. 07/2026",
+      "revision_evidence": [
+        "Page 1 of 1 Form UJS-008 Rev. 07/2026"
+      ],
+      "identity_verification": "identity-review-required",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "/guide-to-small-claims-court/",
+      "title": "Guide to Small Claims Court",
+      "family_id": "small-claims-instructions",
+      "identity": "SMALL CLAIMS",
+      "max": 1,
+      "url": "https://ujs.sd.gov/files/guide-to-small-claims-court/",
+      "link_text": "Guide to Small Claims Court",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://ujs.sd.gov/files/guide-to-small-claims-court/",
+        "final_url": "https://ujs.sd.gov/media/0n5pu4xg/small-claims-court.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:16.612Z",
+        "etag": "\"1dd12ca80835c06\"",
+        "last_modified": "Mon, 13 Jul 2026 13:21:24 GMT",
+        "content_length": "376326",
+        "sha256": "0ad60026ce431efcf2aeaa8c1875bf041b264d4bcf0e2203bc58490d1000bf93",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://ujs.sd.gov/files/guide-to-small-claims-court/",
+          "final_url": "https://ujs.sd.gov/media/0n5pu4xg/small-claims-court.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:16.612Z",
+          "etag": "\"1dd12ca80835c06\"",
+          "last_modified": "Mon, 13 Jul 2026 13:21:24 GMT",
+          "content_length": "376326",
+          "sha256": "0ad60026ce431efcf2aeaa8c1875bf041b264d4bcf0e2203bc58490d1000bf93",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "0ad60026ce431efcf2aeaa8c1875bf041b264d4bcf0e2203bc58490d1000bf93",
+      "local_archive_path": "archive/2026-10-14-08/20-guide-to-small-claims-court-0ad60026ce43.pdf",
+      "bytes": 376326,
+      "text_length": 13740,
+      "pages": 7,
+      "identity_excerpt": "SOUTH DAKOTA UNIFIED JUDICIAL SYSTEM Guide to Small Claims Court South Dakota Unified Judicial System Guide to Small Claims Court Page 2 Contents Take Note ............................................................................................................................................................................ 3 Small Claims Court....................................................................................................................................................... 3 Starting a Small Claims Action ............................................................................................................................4 What the Defendant Should Do ........................................................................................................................ 5 Preparing for Trial ......................................................................................................................................................... 5 Collection ............................................................................................................................................................................ 6 Following Payment ..................................................................................................................................................... 7 Questions ............................................................................................................................................................................ 7 South Dakota Unified Judicial System Guide to Small Claims Court Page 3 Take Note If someone has caused you financial loss or property damage, your initial reaction might be to take them to court. However, it's important to reconsider this option before doing so. Court p",
+      "revision_evidence": [
+        "al System website. (UJS: 7/13/2026"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://ujs.sd.gov/self-help/pro-se-forms/small-claims-forms/#main"
+    },
+    {
+      "text": "",
+      "url": "https://ujs.sd.gov/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://ujs.sd.gov/about-us/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://ujs.sd.gov/careers/"
+    },
+    {
+      "text": "Programs and Services",
+      "url": "https://ujs.sd.gov/programs-services/"
+    },
+    {
+      "text": "Make Payments",
+      "url": "https://ujsepay.sd.gov/"
+    },
+    {
+      "text": "Directory",
+      "url": "https://ujs.sd.gov/sd-unified-judicial-system-directory/"
+    },
+    {
+      "text": "",
+      "url": "https://ujs.sd.gov/"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://ujs.sd.gov/supreme-court/"
+    },
+    {
+      "text": "About the Supreme Court",
+      "url": "https://ujs.sd.gov/supreme-court/"
+    },
+    {
+      "text": "Chief Justice Steven R. Jensen",
+      "url": "https://ujs.sd.gov/sd-unified-judicial-system-directory/steven-r-jensen/"
+    },
+    {
+      "text": "Justice Mark E. Salter",
+      "url": "https://ujs.sd.gov/sd-unified-judicial-system-directory/justice-mark-e-salter/"
+    },
+    {
+      "text": "Justice Patricia J. DeVaney",
+      "url": "https://ujs.sd.gov/sd-unified-judicial-system-directory/justice-patricia-j-devaney/"
+    },
+    {
+      "text": "Justice Scott P. Myren",
+      "url": "https://ujs.sd.gov/sd-unified-judicial-system-directory/justice-scott-p-myren/"
+    },
+    {
+      "text": "Justice Robert Gusinsky",
+      "url": "https://ujs.sd.gov/sd-unified-judicial-system-directory/justice-robert-gusinsky/"
+    },
+    {
+      "text": "Term of Court",
+      "url": "https://ujs.sd.gov/supreme-court/term-of-court/"
+    },
+    {
+      "text": "Opinions",
+      "url": "https://ujs.sd.gov/supreme-court/opinions/"
+    },
+    {
+      "text": "Summary Dispositions",
+      "url": "https://ujs.sd.gov/supreme-court/summary-dispositions/"
+    },
+    {
+      "text": "Rules Hearings",
+      "url": "https://ujs.sd.gov/supreme-court/rules-hearings/"
+    },
+    {
+      "text": "Published Rules",
+      "url": "https://ujs.sd.gov/supreme-court/published-rules/"
+    },
+    {
+      "text": "Judiciary Messages",
+      "url": "https://ujs.sd.gov/supreme-court/judiciary-messages/"
+    },
+    {
+      "text": "Term of Court Cases",
+      "url": "https://ujs.sd.gov/supreme-court/term-of-court/"
+    },
+    {
+      "text": "Traveling Sessions",
+      "url": "https://ujs.sd.gov/supreme-court/traveling-sessions/"
+    },
+    {
+      "text": "Listen Live to Supreme Court",
+      "url": "https://www.sdpb.org/sdnetwork/ujs/sdsc"
+    },
+    {
+      "text": "Circuit Courts",
+      "url": "https://ujs.sd.gov/court-finder/"
+    },
+    {
+      "text": "Court Finder",
+      "url": "https://ujs.sd.gov/court-finder/"
+    },
+    {
+      "text": "First Judicial Circuit",
+      "url": "https://ujs.sd.gov/court-finder/first-judicial-circuit/"
+    },
+    {
+      "text": "Second Judicial Circuit",
+      "url": "https://ujs.sd.gov/court-finder/second-judicial-circuit/"
+    },
+    {
+      "text": "Third Judicial Circuit",
+      "url": "https://ujs.sd.gov/court-finder/third-judicial-circuit/"
+    },
+    {
+      "text": "Fourth Judicial Circuit",
+      "url": "https://ujs.sd.gov/court-finder/fourth-judicial-circuit/"
+    },
+    {
+      "text": "Fifth Judicial Circuit",
+      "url": "https://ujs.sd.gov/court-finder/fifth-judicial-circuit/"
+    },
+    {
+      "text": "Sixth Judicial Circuit",
+      "url": "https://ujs.sd.gov/court-finder/sixth-judicial-circuit/"
+    },
+    {
+      "text": "Seventh Judicial Circuit",
+      "url": "https://ujs.sd.gov/court-finder/seventh-judicial-circuit/"
+    },
+    {
+      "text": "Explore Treatment Courts",
+      "url": "https://ujs.sd.gov/programs-services/treatment-courts/"
+    },
+    {
+      "text": "Self Help",
+      "url": "https://ujs.sd.gov/self-help/"
+    },
+    {
+      "text": "Browse All Topics",
+      "url": "https://ujs.sd.gov/self-help/"
+    },
+    {
+      "text": "Pro Se Forms",
+      "url": "https://ujs.sd.gov/self-help/pro-se-forms/"
+    },
+    {
+      "text": "Family Law Help",
+      "url": "https://ujs.sd.gov/self-help/family-law-help/"
+    },
+    {
+      "text": "Civil Law Help",
+      "url": "https://ujs.sd.gov/self-help/civil-law-help/"
+    },
+    {
+      "text": "Criminal Law Help",
+      "url": "https://ujs.sd.gov/self-help/criminal-law-help/"
+    },
+    {
+      "text": "Get Legal Help",
+      "url": "https://ujs.sd.gov/self-help/get-legal-help/"
+    },
+    {
+      "text": "Representing Yourself",
+      "url": "https://ujs.sd.gov/self-help/representing-yourself/"
+    },
+    {
+      "text": "Understanding Courts",
+      "url": "https://ujs.sd.gov/self-help/understanding-the-courts/"
+    },
+    {
+      "text": "Españolas Formas (Spanish Forms)",
+      "url": "https://ujs.sd.gov/espanolas-formas-spanish-forms/"
+    },
+    {
+      "text": "Electronic Filing",
+      "url": "https://ujs.sd.gov/electronic-filing/"
+    },
+    {
+      "text": "Filing for Divorce",
+      "url": "https://ujs.sd.gov/self-help/family-law-help/divorce/"
+    },
+    {
+      "text": "Eviction",
+      "url": "https://ujs.sd.gov/self-help/civil-law-help/evictions/"
+    },
+    {
+      "text": "Housing Assistance Resources",
+      "url": "https://ujs.sd.gov/self-help/civil-law-help/housing-and-assistance/"
+    },
+    {
+      "text": "Military & Veterans Resources",
+      "url": "https://ujs.sd.gov/self-help/get-legal-help/military-veterans/"
+    },
+    {
+      "text": "Guardianship",
+      "url": "https://ujs.sd.gov/self-help/civil-law-help/guardianship/"
+    },
+    {
+      "text": "Shared Parenting Guidelines & Plans",
+      "url": "https://ujs.sd.gov/self-help/family-law-help/shared-parenting-guidelines-plans/"
+    },
+    {
+      "text": "Obtaining a Protection Order",
+      "url": "https://ujs.sd.gov/self-help/civil-law-help/protection-orders/"
+    },
+    {
+      "text": "Court Structure",
+      "url": "https://ujs.sd.gov/self-help/understanding-the-courts/court-structure/"
+    },
+    {
+      "text": "Fees and Costs",
+      "url": "https://ujs.sd.gov/self-help/understanding-the-courts/fees-and-costs/"
+    },
+    {
+      "text": "How the Court Assists",
+      "url": "https://ujs.sd.gov/self-help/understanding-the-courts/how-the-court-assists/"
+    },
+    {
+      "text": "Starting a Court Action",
+      "url": "https://ujs.sd.gov/self-help/representing-yourself/starting-a-court-action/"
+    },
+    {
+      "text": "Small Claims Court",
+      "url": "https://ujs.sd.gov/self-help/civil-law-help/small-claims/"
+    },
+    {
+      "text": "Legal Glossary",
+      "url": "https://ujs.sd.gov/legal-glossary/"
+    },
+    {
+      "text": "Online Services",
+      "url": "https://ujs.sd.gov/self-help/pro-se-forms/small-claims-forms/#"
+    },
+    {
+      "text": "Court Record Search",
+      "url": "https://ujs.sd.gov/cases-and-records/"
+    },
+    {
+      "text": "Find Court Date",
+      "url": "https://ujsfindcourtdate.sd.gov/(S(40ztyw2rp4adsq5tbz2zjocw))/default.aspx"
+    },
+    {
+      "text": "eCourts",
+      "url": "https://ecourts.sd.gov/Default.aspx"
+    },
+    {
+      "text": "Public Access Record Search (PARS)",
+      "url": "https://ujspars.sd.gov/"
+    },
+    {
+      "text": "Civil Money Judgment",
+      "url": "https://ujsjudgmentquery.sd.gov/login.aspx"
+    },
+    {
+      "text": "Virtual Courtrooms",
+      "url": "https://ujs.sd.gov/court-finder/second-judicial-circuit/virtual-courtroom-second-judicial-circuit/"
+    },
+    {
+      "text": "Make Payments",
+      "url": "https://ujsepay.sd.gov/"
+    },
+    {
+      "text": "SD Jurors Information",
+      "url": "https://ujsjurors.sd.gov/"
+    },
+    {
+      "text": "SD Court Notifications",
+      "url": "https://ujsnotifications.sd.gov/Login.aspx"
+    },
+    {
+      "text": "Electronic Filing",
+      "url": "https://ujs.sd.gov/electronic-filing/"
+    },
+    {
+      "text": "Electronic Filing",
+      "url": "https://ujs.sd.gov/electronic-filing/"
+    },
+    {
+      "text": "Electronic Filing for Self-Represented Litigants",
+      "url": "https://ujs.sd.gov/self-help/electronic-filing-for-self-represented-litigants/"
+    },
+    {
+      "text": "eFile SD",
+      "url": "https://efilesd.tylertech.cloud/OfsEfsp/ui/landing"
+    },
+    {
+      "text": "Court Forms",
+      "url": "https://ujs.sd.gov/form-file-search/"
+    },
+    {
+      "text": "Form & File Search",
+      "url": "https://ujs.sd.gov/form-file-search/"
+    },
+    {
+      "text": "Criminal Law",
+      "url": "https://ujs.sd.gov/form-file-search/?category=criminal-law"
+    },
+    {
+      "text": "Family Law",
+      "url": "https://ujs.sd.gov/form-file-search/?category=family-law"
+    },
+    {
+      "text": "Civil Law",
+      "url": "https://ujs.sd.gov/form-file-search/?category=civil-law"
+    },
+    {
+      "text": "Self Representation",
+      "url": "https://ujs.sd.gov/form-file-search/?category=representing-yourself"
+    },
+    {
+      "text": "Attorney Forms",
+      "url": "https://ujs.sd.gov/form-file-search/?category=attorney-forms"
+    },
+    {
+      "text": "Divorce",
+      "url": "https://ujs.sd.gov/self-help/family-law-help/divorce/?category=divorce"
+    },
+    {
+      "text": "Protection Orders",
+      "url": "https://ujs.sd.gov/self-help/civil-law-help/protection-orders/?category=protection-order"
+    },
+    {
+      "text": "Evictions",
+      "url": "https://ujs.sd.gov/self-help/civil-law-help/evictions/"
+    },
+    {
+      "text": "Guardianship",
+      "url": "https://ujs.sd.gov/self-help/civil-law-help/guardianship/"
+    },
+    {
+      "text": "Spanish Forms",
+      "url": "https://ujs.sd.gov/form-file-search/?category=spanish-forms"
+    },
+    {
+      "text": "Shared Parenting",
+      "url": "https://ujs.sd.gov/self-help/family-law-help/shared-parenting-guidelines-plans/"
+    },
+    {
+      "text": "Child Custody",
+      "url": "https://ujs.sd.gov/self-help/family-law-help/child-custody/"
+    },
+    {
+      "text": "Child Support",
+      "url": "https://ujs.sd.gov/self-help/family-law-help/child-support/"
+    },
+    {
+      "text": "Public Information",
+      "url": "https://ujs.sd.gov/about-us/public-information/"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://ujs.sd.gov/about-us/public-information/"
+    },
+    {
+      "text": "Cases & Records",
+      "url": "https://ujs.sd.gov/cases-and-records/"
+    },
+    {
+      "text": "Court Records Search",
+      "url": "https://ujs.sd.gov/cases-and-records/court-records-search/"
+    },
+    {
+      "text": "eCourts",
+      "url": "https://ecourts.sd.gov/Account/Login.aspx?ReturnUrl=%2f"
+    },
+    {
+      "text": "Public Access Records Search (PARS)",
+      "url": "https://ujspars.sd.gov/"
+    },
+    {
+      "text": "Civil Money Judgment Query",
+      "url": "https://ujsjudgmentquery.sd.gov/login.aspx"
+    },
+    {
+      "text": "Find Court Date",
+      "url": "https://ujsfindcourtdate.sd.gov/(S(40ztyw2rp4adsq5tbz2zjocw))/default.aspx"
+    },
+    {
+      "text": "For Jurors",
+      "url": "https://ujs.sd.gov/for-jurors/"
+    },
+    {
+      "text": "Juror Login",
+      "url": "https://ujsjurors.sd.gov/"
+    },
+    {
+      "text": "Media Coverage in South Dakota Courts",
+      "url": "https://ujs.sd.gov/for-the-media/"
+    },
+    {
+      "text": "SD Court Notifications",
+      "url": "https://ujsnotifications.sd.gov/Login.aspx"
+    },
+    {
+      "text": "Boards and Commissions",
+      "url": "https://ujs.sd.gov/about-us/boards-and-commissions/#AW"
+    },
+    {
+      "text": "Court Scams",
+      "url": "https://ujs.sd.gov/court-scams/"
+    },
+    {
+      "text": "Attorney Resources",
+      "url": "https://ujs.sd.gov/for-attorneys/"
+    },
+    {
+      "text": "Access All Attorney Information",
+      "url": "https://ujs.sd.gov/for-attorneys/"
+    },
+    {
+      "text": "Attorney Forms",
+      "url": "https://ujs.sd.gov/for-attorneys/attorney-forms/"
+    },
+    {
+      "text": "Attorney Resources",
+      "url": "https://ujs.sd.gov/for-attorneys/attorney-resources/"
+    },
+    {
+      "text": "Circuit Judge Preferences",
+      "url": "https://ujs.sd.gov/for-attorneys/circuit-judge-preferences/"
+    },
+    {
+      "text": "File & Serve",
+      "url": "https://efilesd.tylertech.cloud/OfsEfsp/ui/landing"
+    },
+    {
+      "text": "eCourts",
+      "url": "https://ecourts.sd.gov/"
+    },
+    {
+      "text": "Attorney Notifications",
+      "url": "https://ujsattorney.sd.gov/"
+    },
+    {
+      "text": "Get Involved as an Attorney",
+      "url": "https://ujs.sd.gov/for-attorneys/get-involved-as-an-attorney/"
+    },
+    {
+      "text": "Rural Attorney Recruitment Program",
+      "url": "https://ujs.sd.gov/for-attorneys/rural-attorney-recruitment-program/"
+    },
+    {
+      "text": "Home",
+      "url": "https://ujs.sd.gov/"
+    },
+    {
+      "text": "Self Help",
+      "url": "https://ujs.sd.gov/self-help/"
+    },
+    {
+      "text": "Pro Se Forms",
+      "url": "https://ujs.sd.gov/self-help/pro-se-forms/"
+    },
+    {
+      "text": "clickOff-site link.",
+      "url": "https://get.adobe.com/reader/"
+    },
+    {
+      "text": "Plaintiff Small Claims Print All Packet",
+      "url": "https://ujs.sd.gov/files/plaintiffs-small-claims-packet-print-all/"
+    },
+    {
+      "text": "Guide to Small Claims Court",
+      "url": "https://ujs.sd.gov/files/guide-to-small-claims-court/"
+    },
+    {
+      "text": "Small Claims Filing Fees",
+      "url": "https://ujs.sd.gov/files/small-claims-filing-fees/"
+    },
+    {
+      "text": "UJS-008 Plaintiff's Statement of Claim",
+      "url": "https://ujs.sd.gov/files/ujs-008-plaintiffs-statement-of-claim/"
+    },
+    {
+      "text": "UJS-232 Case Filing Statement",
+      "url": "https://ujs.sd.gov/files/ujs-232-case-filing-statement/"
+    },
+    {
+      "text": "UJS-306 Statement of Defendant's Military Status",
+      "url": "https://ujs.sd.gov/files/ujs-306-statement-of-military-status/"
+    },
+    {
+      "text": "UJS-255 Small Claims Notice of Dismissal",
+      "url": "https://ujs.sd.gov/files/ujs-255-small-claims-notice-of-dismissal/"
+    },
+    {
+      "text": "UJS-019 Satisfaction of Judgment",
+      "url": "https://ujs.sd.gov/files/ujs-019-satisfaction-of-judgment-small-claims/"
+    },
+    {
+      "text": "UJS-278 Denial/Counter Claim Instructions",
+      "url": "https://ujs.sd.gov/files/ujs-278-denialcounter-claim-instructions/"
+    },
+    {
+      "text": "UJS-232 Case Filing Statement",
+      "url": "https://ujs.sd.gov/files/ujs-232-case-filing-statement/"
+    },
+    {
+      "text": "",
+      "url": "https://ujs.sd.gov/"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/southdakotacourts/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/SouthDakotaUnifiedJudicialSystem/"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/south-dakota-unified-judicial-system"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/user/SDUJS"
+    },
+    {
+      "text": "About Us",
+      "url": "https://ujs.sd.gov/about-us/"
+    },
+    {
+      "text": "Court Media Coverage",
+      "url": "https://ujs.sd.gov/for-the-media/"
+    },
+    {
+      "text": "Come Work for Us",
+      "url": "https://ujs.sd.gov/careers/"
+    },
+    {
+      "text": "Frequently Asked Questions",
+      "url": "https://ujs.sd.gov/faq/"
+    },
+    {
+      "text": "A-Z Index",
+      "url": "https://ujs.sd.gov/a-z-index/"
+    },
+    {
+      "text": "Family Law Help",
+      "url": "https://ujs.sd.gov/self-help/family-law-help/"
+    },
+    {
+      "text": "Representing Yourself",
+      "url": "https://ujs.sd.gov/self-help/representing-yourself/"
+    },
+    {
+      "text": "Civil Law Help",
+      "url": "https://ujs.sd.gov/self-help/civil-law-help/"
+    },
+    {
+      "text": "Criminal Law Help",
+      "url": "https://ujs.sd.gov/self-help/criminal-law-help/"
+    },
+    {
+      "text": "Understanding the Courts",
+      "url": "https://ujs.sd.gov/self-help/understanding-the-courts/"
+    },
+    {
+      "text": "Get Legal Help",
+      "url": "https://ujs.sd.gov/self-help/get-legal-help/"
+    },
+    {
+      "text": "Tribal Courts",
+      "url": "https://ujs.sd.gov/tribal-courts/"
+    },
+    {
+      "text": "Board of Bar Examiners",
+      "url": "https://ujsbarexam.sd.gov/"
+    },
+    {
+      "text": "Judicial Qualifications Commission",
+      "url": "https://ujs.sd.gov/judicial-qualifications-commission/"
+    },
+    {
+      "text": "Judicial Elections Committee",
+      "url": "https://ujs.sd.gov/judicial-elections-committee/"
+    },
+    {
+      "text": "State Bar of South Dakota",
+      "url": "https://www.statebarofsouthdakota.com/"
+    },
+    {
+      "text": "Relay South Dakota Numbers",
+      "url": "https://relaysd.com/relay-services/relay-numbers"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://ujs.sd.gov/about-us/contact-us/"
+    },
+    {
+      "text": "SD Government Website",
+      "url": "https://www.sd.gov/cs"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.sd.gov/cs?id=kb_article_view&sysparm_article=KB0010220&sys_kb_id=36d91b371b49c51062c8a8eae54bcb9f&spa=1"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "https://www.sd.gov/cs?id=kb_article_view&sysparm_article=KB0010221&sys_kb_id=d9449aa41b8c811062c8a8eae54bcbf2&spa=1"
+    },
+    {
+      "text": "Website Accessibility Statement",
+      "url": "https://ujs.sd.gov/about-us/website-accessibility-statement/"
+    },
+    {
+      "text": "",
+      "url": "https://ujs.sd.gov/self-help/pro-se-forms/small-claims-forms/#"
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+[
+  {
+    "state": "Alaska",
+    "publisher": "Alaska Court System",
+    "url": "https://courts.alaska.gov/shc/probate/affidavit.htm",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "p-110\\.pdf",
+        "title": "Affidavit for Collection of Personal Property of Decedent",
+        "form_id": "P-110",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Minnesota",
+    "publisher": "Minnesota Judicial Branch",
+    "url": "https://www.mncourts.gov/mncourtsgov/media/CourtForms/PRO202.pdf?ext=.pdf",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "Affidavit for Collection of Personal Property (Small Estate - No Real Estate)",
+        "form_id": "PRO202",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+        "max": 1
+      }
+    ],
+    "direct": true
+  },
+  {
+    "state": "Virginia",
+    "publisher": "Virginia Court System",
+    "url": "https://www.vacourts.gov/forms/circuit/fiduciary",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "cc1685\\.pdf",
+        "title": "Small Estate Affidavit",
+        "form_id": "CC-1685",
+        "family_id": "small-estate-affidavit",
+        "identity": "SMALL ESTATE AFFIDAVIT",
+        "max": 1
+      },
+      {
+        "pattern": "cc1611\\.pdf",
+        "title": "List of Heirs",
+        "form_id": "CC-1611",
+        "family_id": "probate-heirs-list",
+        "identity": "LIST OF HEIRS",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Vermont",
+    "publisher": "Vermont Judiciary",
+    "url": "https://www.vtcourts.gov/probate/estates-and-wills",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "Petition to Open Small Estate",
+        "title": "Petition to Open Small Estate",
+        "form_id": "700-00001SM",
+        "family_id": "small-estate-petition",
+        "identity": "PETITION TO OPEN SMALL ESTATE",
+        "max": 1
+      },
+      {
+        "pattern": "Funeral Expenses",
+        "title": "Affidavit of Paid and Outstanding Funeral Expenses and Debts for Small Estate",
+        "form_id": "700-00402",
+        "family_id": "small-estate-debt-affidavit",
+        "identity": "FUNERAL EXPENSES",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Utah",
+    "publisher": "Utah State Courts",
+    "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "Affidavit for Collecting Personal Property",
+        "title": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+        "family_id": "small-estate-affidavit",
+        "identity": "Affidavit for Collecting Personal Property",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Washington",
+    "publisher": "Washington State Courts",
+    "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "MISC%2005%200100",
+        "title": "Notice of Small Claim",
+        "form_id": "MISC 05.0100",
+        "family_id": "small-claims-complaint",
+        "identity": "NOTICE OF SMALL CLAIM",
+        "max": 1
+      },
+      {
+        "pattern": "MISC%2005%200200",
+        "title": "Small Claims Proof of Service",
+        "form_id": "MISC 05.0200",
+        "family_id": "small-claims-service",
+        "identity": "(?:CERTIFICATE|PROOF) OF SERVICE",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "publisher": "Michigan Department of Attorney General",
+    "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+    "category": "Estate and personal planning",
+    "direct": true,
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "Michigan Statutory Form Power of Attorney",
+        "family_id": "financial-power-of-attorney",
+        "identity": "MICHIGAN STATUTORY FORM POWER OF ATTORNEY",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Montana",
+    "publisher": "Montana Judicial Branch",
+    "url": "https://courts.mt.gov/Forms/endoflife",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "(?:affidavit|aff).*?(?:personal|collection).*\\.pdf|(?:personal|collection).*?(?:affidavit|aff).*\\.pdf",
+        "title": "Affidavit for Collection of Personal Property of Decedent",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+        "max": 1
+      },
+      {
+        "pattern": "aff_of_death\\.pdf",
+        "title": "Affidavit of Death",
+        "family_id": "transfer-on-death-affidavit",
+        "identity": "AFFIDAVIT OF DEATH",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "North Carolina",
+    "publisher": "North Carolina Secretary of State",
+    "url": "https://www.sosnc.gov/forms/by_title/_advance_healthcare_directives",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "health_care_power_of_attorney\\.pdf",
+        "title": "Health Care Power of Attorney",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "HEALTH CARE POWER OF ATTORNEY",
+        "max": 1
+      },
+      {
+        "pattern": "advance_directive_for_a_natural_death\\.pdf",
+        "title": "Advance Directive for a Natural Death (Living Will)",
+        "family_id": "health-care-directive",
+        "identity": "ADVANCE DIRECTIVE.*NATURAL DEATH",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Rhode Island",
+    "publisher": "Rhode Island Department of Health",
+    "url": "https://health.ri.gov/death-and-dying/end-life-decisions-advanced-directives",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "(?:powerofattorney|PowerOfAttorney|power.of.attorney|DurablePower).*\\.pdf",
+        "title": "Durable Power of Attorney for Health Care",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "POWER OF ATTORNEY.*HEALTH CARE",
+        "max": 1
+      },
+      {
+        "pattern": "living.?will.*\\.pdf",
+        "title": "Living Will",
+        "family_id": "health-care-directive",
+        "identity": "LIVING WILL",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Indiana",
+    "publisher": "Indiana Disability Rights",
+    "url": "https://www.in.gov/idr/advanced-directive-resources/",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "Health-Care-Representative.*(?:Eng|English).*\\.pdf",
+        "title": "Advance Directive: Indiana Health Care Representative",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "Health Care Representative",
+        "max": 1
+      },
+      {
+        "pattern": "Planning-Sheet.*(?:Eng|English).*\\.pdf",
+        "title": "Advance Directive Planning Sheet",
+        "family_id": "advance-care-planning-worksheet",
+        "identity": "Planning Sheet",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Kentucky",
+    "publisher": "Kentucky Court of Justice",
+    "url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "830\\.pdf",
+        "title": "Petition to Dispense with Administration",
+        "form_id": "AOC-830",
+        "family_id": "small-estate-petition",
+        "identity": "DISPENSE WITH ADMINISTRATION",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "publisher": "Tennessee Health Facilities Commission",
+    "url": "https://www.tn.gov/hfc/health-care-decision-making.html",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "(?:advance|advanced).*directive.*\\.pdf",
+        "title": "Advance Directive for Health Care",
+        "family_id": "health-care-directive",
+        "identity": "ADVANCE DIRECTIVE",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Nebraska",
+    "publisher": "Nebraska Judicial Branch",
+    "url": "https://nebraskajudicial.gov/forms",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "(?:CC[-_ ]?15[-_ ]?40|cc1540).*\\.pdf",
+        "title": "Affidavit for Transfer of Personal Property without Probate",
+        "form_id": "CC 15:40",
+        "family_id": "small-estate-affidavit",
+        "identity": "AFFIDAVIT.*(?:PERSONAL PROPERTY|TRANSFER)",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Oregon",
+    "publisher": "Oregon Health Authority",
+    "url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "/le3942\\.pdf",
+        "title": "Your Guide to the Oregon Advance Directive for Health Care",
+        "form_id": "OHA 3942",
+        "family_id": "advance-directive-guide",
+        "identity": "GUIDE.*OREGON ADVANCE DIRECTIVE",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "North Dakota",
+    "publisher": "North Dakota Court System",
+    "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit",
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": "Form-1-Affidavit-Collection\\.pdf",
+        "title": "Affidavit for Collection of Personal Property of the Decedent",
+        "form_id": "NDPC Form 1",
+        "family_id": "small-estate-affidavit",
+        "identity": "Affidavit for Collection of Personal Property",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "publisher": "Unified Judicial System of Pennsylvania",
+    "url": "https://www.pacourts.us/forms/for-the-public",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "civilcomplaint-000771",
+        "title": "Civil Complaint (Magisterial District Court)",
+        "family_id": "civil-complaint",
+        "identity": "CIVIL COMPLAINT",
+        "max": 1
+      },
+      {
+        "pattern": "Landlord and Tenant Complaint",
+        "title": "Landlord/Tenant Complaint",
+        "family_id": "landlord-tenant-complaint",
+        "identity": "LANDLORD.*TENANT.*COMPLAINT",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Maine",
+    "publisher": "Maine Judicial Branch",
+    "url": "https://www.courts.maine.gov/help/small-claims/index.html",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "sc-guide-2026\\.pdf",
+        "title": "A Guide to Small Claims Cases (2026)",
+        "family_id": "small-claims-instructions",
+        "identity": "GUIDE TO SMALL CLAIMS",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "West Virginia",
+    "publisher": "West Virginia State Bar",
+    "url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+    "category": "Estate and personal planning",
+    "direct": false,
+    "rules": [
+      {
+        "pattern": "WV-Combined-MPOA-and-Living-Will-form-2022\\.pdf",
+        "title": "Combined Medical Power of Attorney and Living Will",
+        "family_id": "combined-advance-directives",
+        "identity": "MEDICAL POWER OF ATTORNEY.*LIVING WILL",
+        "max": 1
+      },
+      {
+        "pattern": "WV-Living-Will-2022-form\\.pdf",
+        "title": "Living Will",
+        "family_id": "health-care-directive",
+        "identity": "LIVING WILL",
+        "max": 1
+      },
+      {
+        "pattern": "WV-Medical-Power-of-Attorney-form-2022\\.pdf",
+        "title": "Medical Power of Attorney",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "MEDICAL POWER OF ATTORNEY",
+        "max": 1
+      },
+      {
+        "pattern": "App-D-WV-POA-Form-2020\\.pdf",
+        "title": "Statutory Power of Attorney",
+        "family_id": "financial-power-of-attorney",
+        "identity": "(?:STATUTORY.*POWER OF ATTORNEY|DURABLE POWER OF ATTORNEY)",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Wyoming",
+    "publisher": "Wyoming Judicial Branch",
+    "url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "SC-01-Small-Claims-Affidavit-11-24\\.pdf",
+        "title": "Small Claims Affidavit",
+        "form_id": "SC Form 01",
+        "family_id": "small-claims-complaint",
+        "identity": "SMALL CLAIMS AFFIDAVIT",
+        "max": 1
+      },
+      {
+        "pattern": "SC-01a-Instructions-for-Small-Claims-Affidavit-11-24\\.pdf",
+        "title": "Instructions for Small Claims Affidavit",
+        "form_id": "SC Form 01a",
+        "family_id": "small-claims-instructions",
+        "identity": "INSTRUCTIONS.*SMALL CLAIMS",
+        "max": 1
+      },
+      {
+        "pattern": "SC-02-Small-Claims-Summons-11-24\\.pdf",
+        "title": "Small Claims Summons",
+        "form_id": "SC Form 02",
+        "family_id": "small-claims-summons",
+        "identity": "SMALL CLAIMS.*SUMMONS",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Iowa",
+    "publisher": "Iowa Judicial Branch",
+    "url": "https://www.iowacourts.gov/for-the-public/court-forms/",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "Original Notice and Petition.*Money Judgment",
+        "title": "Original Notice and Petition for a Money Judgment",
+        "family_id": "small-claims-complaint",
+        "identity": "ORIGINAL NOTICE AND PETITION.*MONEY JUDGMENT",
+        "max": 1
+      },
+      {
+        "pattern": "Appearance and Answer.*Defendant",
+        "title": "Appearance and Answer of Defendant",
+        "family_id": "small-claims-answer",
+        "identity": "APPEARANCE AND ANSWER",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "Kansas",
+    "publisher": "Kansas Judicial Council",
+    "url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case",
+    "category": "Court procedure",
+    "rules": [
+      {
+        "pattern": "Petition",
+        "title": "Small Claims Petition",
+        "family_id": "small-claims-complaint",
+        "identity": "(?:SMALL CLAIMS|PETITION)",
+        "max": 1
+      }
+    ]
+  },
+  {
+    "state": "South Carolina",
+    "publisher": "South Carolina Department on Aging",
+    "url": "https://aging.sc.gov/sites/default/files/documents/Legal/SCHealthCarePowerOfAttorney.pdf",
+    "direct": true,
+    "category": "Estate and personal planning",
+    "rules": [
+      {
+        "pattern": ".*",
+        "title": "South Carolina Health Care Power of Attorney",
+        "family_id": "health-care-power-of-attorney",
+        "identity": "SOUTH CAROLINA HEALTH CARE POWER OF ATTORNEY",
+        "max": 1
+      }
+    ]
+  }
+]

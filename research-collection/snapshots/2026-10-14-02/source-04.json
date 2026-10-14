@@ -1,0 +1,183 @@
+{
+  "state": "Washington",
+  "publisher": "Washington State Courts",
+  "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": "MISC%2005%200100",
+      "title": "Notice of Small Claim",
+      "form_id": "MISC 05.0100",
+      "family_id": "small-claims-complaint",
+      "identity": "NOTICE OF SMALL CLAIM",
+      "max": 1
+    },
+    {
+      "pattern": "MISC%2005%200200",
+      "title": "Small Claims Proof of Service",
+      "form_id": "MISC 05.0200",
+      "family_id": "small-claims-service",
+      "identity": "(?:CERTIFICATE|PROOF) OF SERVICE",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+    "final_url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:03:55.928Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "63265567ee09c4913f08f1c169f4c12b8fa41bfe0834f757b93e1e05678cba7b",
+    "title": "Washington State Courts - Court Forms - Small Claims",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-02/04-washington-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+      "final_url": "https://www.courts.wa.gov/forms/?fa=forms.contribute&formID=33",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:03:55.928Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "63265567ee09c4913f08f1c169f4c12b8fa41bfe0834f757b93e1e05678cba7b",
+      "title": "Washington State Courts - Court Forms - Small Claims",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "MISC%2005%200100",
+      "title": "Notice of Small Claim",
+      "form_id": "MISC 05.0100",
+      "family_id": "small-claims-complaint",
+      "identity": "NOTICE OF SMALL CLAIM",
+      "max": 1,
+      "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200100%20Notice%20of%20Small%20Claim%202025%2001.pdf",
+      "link_text": "",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200100%20Notice%20of%20Small%20Claim%202025%2001.pdf",
+        "final_url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200100%20Notice%20of%20Small%20Claim%202025%2001.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:03:56.532Z",
+        "etag": "\"d0c0d4f4d15adb1:0\"",
+        "last_modified": "Mon, 30 Dec 2024 15:46:13 GMT",
+        "content_length": "147985",
+        "sha256": "ed0d0baf7eb073c2f8aa342852611dfee05dced4aacf82fd372f2199d9bc6418",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200100%20Notice%20of%20Small%20Claim%202025%2001.pdf",
+          "final_url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200100%20Notice%20of%20Small%20Claim%202025%2001.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:56.532Z",
+          "etag": "\"d0c0d4f4d15adb1:0\"",
+          "last_modified": "Mon, 30 Dec 2024 15:46:13 GMT",
+          "content_length": "147985",
+          "sha256": "ed0d0baf7eb073c2f8aa342852611dfee05dced4aacf82fd372f2199d9bc6418",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "ed0d0baf7eb073c2f8aa342852611dfee05dced4aacf82fd372f2199d9bc6418",
+      "local_archive_path": "archive/2026-10-14-02/04-notice-of-small-claim-ed0d0baf7eb0.pdf",
+      "bytes": 147985,
+      "text_length": 2375,
+      "pages": 3,
+      "identity_excerpt": "RCW 12.40.020, .050. .060, .070 (01/2025) MISC 05.0100 Notice of Small Claim p. 1 of 3 District Court of Washington, County of __________________________________ PLAINTIFF’S NAME SMALL CLAIM NO. ADDRESS NOTICE OF SMALL CLAIMCITY STATE ZIP HOME PHONE NO. WORK PHONE NO. VS. DEFENDANT’S NAME DEFENDANT 2’S NAME ADDRESS ADDRESS CITY STATE ZIP CITY STATE ZIP PHONE NO. PHONE NO. Notice to the Defendant: The Plaintiff has filed a claim for money against you. The reasons are explained below. The Plaintiff claims you owe: $ in principal; and RCW 12.40.020, .050. .060, .070 (01/2025) MISC 05.0100 Notice of Small Claim p. 2 of 3 $ in interest; totaling $ . You must go to court: on: at a.m. p.m. Date Time at: in Court’s Address Room or Department Docket/calendar or judge/commissioner’s name This court hearing is for PRE-TRIAL TRIAL. Bring with you any and all papers, contracts, and proof needed by you to establish or defend this claim. You must bring any witnesses who will testify on your behalf to the trial. If you fail to personally appear as directed, a judgment may be entered against you for the amount claimed, plus Plaintiff’s costs of filing and service of the claim upon you. Plaintiff must appear for a judgment to be entered. If Plaintiff fails to appear, the claim may be dismissed. If this claim is settled prior to the hearing date, the parties must notify the court immediately, in writing. Clerk Small Claim No. STATEMENT OF CLAIM I, (Name) , declare that the defendant named above owes me the sum of $ in principal and $ in interest, which was due and owing on (Date) . The amount owed is for: Faulty Workmanship Merchandise Auto Damage - Accident Date Wages Loan Return of Deposit Rent Property Damage Other Explain reason for claim: RCW 12.40.020, .050. .060, .070 (01/2025) MIS",
+      "revision_evidence": [
+        "0.020, .050. .060, .070 (01/2025) MISC 05.0100 Notice of Small Claim p. 1 of 3 District Court of Washi",
+        "0.020, .050. .060, .070 (01/2025) MISC 05.0100 Notice of Small Claim p. 2 of 3 $ in interest; totaling",
+        "0.020, .050. .060, .070 (01/2025) MISC 05.0100 Notice of Small Claim p. 3 of 3 Military Service The fo"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "MISC%2005%200200",
+      "title": "Small Claims Proof of Service",
+      "form_id": "MISC 05.0200",
+      "family_id": "small-claims-service",
+      "identity": "(?:CERTIFICATE|PROOF) OF SERVICE",
+      "max": 1,
+      "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200200%20SC%20-%20Proof%20of%20Service%202025%2001.pdf",
+      "link_text": "",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200200%20SC%20-%20Proof%20of%20Service%202025%2001.pdf",
+        "final_url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200200%20SC%20-%20Proof%20of%20Service%202025%2001.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:03:57.243Z",
+        "etag": "\"30dbcb1ed25adb1:0\"",
+        "last_modified": "Mon, 30 Dec 2024 15:47:24 GMT",
+        "content_length": "121396",
+        "sha256": "1f4d38eff43a6cf7aa4408213aececcf59afd844a943591bba15a47f6f995f71",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200200%20SC%20-%20Proof%20of%20Service%202025%2001.pdf",
+          "final_url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200200%20SC%20-%20Proof%20of%20Service%202025%2001.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:57.243Z",
+          "etag": "\"30dbcb1ed25adb1:0\"",
+          "last_modified": "Mon, 30 Dec 2024 15:47:24 GMT",
+          "content_length": "121396",
+          "sha256": "1f4d38eff43a6cf7aa4408213aececcf59afd844a943591bba15a47f6f995f71",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "1f4d38eff43a6cf7aa4408213aececcf59afd844a943591bba15a47f6f995f71",
+      "local_archive_path": "archive/2026-10-14-02/04-small-claims-proof-of-service-1f4d38eff43a.pdf",
+      "bytes": 121396,
+      "text_length": 1748,
+      "pages": 2,
+      "identity_excerpt": "RCW 12.40.040 (01/2025) MISC 05.0200 Certificate of Service p. 1 of 2 District Court of Washington, County of Plaintiff, vs. Defendant. No. ____________________ CERTIFICATE OF SERVICE I, (Name) declare that I am not the plaintiff, defendant, or a witness, and I served the Notice of Small Claim on: Name of Defendant Address Where Served Date of Service Defendant is a LLC, corporation, or other business entity. Title and Name of Person Served By: PERSONAL SERVICE I served the above by delivering a true copy to the defendant personally in ______________ County, State of Washington at the above address. SUBSTITUTE SERVICE I served the above by delivering a true copy to the defendant’s usual place of abode as listed above in County, State of Washington, and leaving it with a person over 12 years of age residing there, as follows: Name of Person Receiving a Copy Date of Service SERVICE BY MAIL (Attach to this form both the postal receipt and the return receipt signed by the defendant.) RCW 12.40.040 (01/2025) MISC 05.0200 Certificate of Service p. 2 of 2 I served the Notice by depositing in the United States Post Office in County, State of Washington, a true copy of the Notice enclosed in a sealed envelope having adequate postage and sent Certified or Registered Mail, Restricted Delivery, Return Receipt Requested, as follows: Address of Post Office Date Mailed Addressed to (Name of Defendant): Mailing Address of Defendant I declare under penalty of perjury that the foregoing is true and correct and that I was, at the time of service of the above notice(s), a resident of the State of Washington over the age of 18 years and not a party to the above-numbered claim. DATED: Signature of Server Server’s Phone No. Address of Server",
+      "revision_evidence": [
+        "RCW 12.40.040 (01/2025) MISC 05.0200 Certificate of Service p. 1 of 2 District Court of Wash",
+        "fendant.) RCW 12.40.040 (01/2025) MISC 05.0200 Certificate of Service p. 2 of 2 I served the Notice by"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "",
+      "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200100%20Notice%20of%20Small%20Claim%202025%2001.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%200200%20SC%20-%20Proof%20of%20Service%202025%2001.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.wa.gov/forms/documents/MISC%2005%20300SC%20Order%20Dismiss%20Continue%202025%2001.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.wa.gov/forms/documents/MISC05_0500_SmallClaims%20Judgment%202025_01%2001.pdf"
+    }
+  ]
+}

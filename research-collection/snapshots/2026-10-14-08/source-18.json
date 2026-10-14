@@ -1,0 +1,107 @@
+{
+  "state": "Oklahoma",
+  "publisher": "Oklahoma Department of Human Services",
+  "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/99-63_HealthCarePowerofAttorney_cap_05172022.pdf",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": ".*",
+      "title": "Health Care Power of Attorney",
+      "family_id": "health-care-power-of-attorney",
+      "identity": "HEALTH CARE POWER OF ATTORNEY",
+      "max": 1
+    }
+  ],
+  "direct": true,
+  "source": {
+    "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/99-63_HealthCarePowerofAttorney_cap_05172022.pdf",
+    "final_url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/99-63_HealthCarePowerofAttorney_cap_05172022.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "retrieved_at": "2026-10-14T09:40:11.030Z",
+    "etag": "W/\"1bfb7-5e2c212b5f240\"",
+    "last_modified": "Fri, 01 Jul 2022 17:54:09 GMT",
+    "content_length": null,
+    "sha256": "b0695321ce59089dec3b320c13d3b7112f8ea1b0e1f00aadab43d4992a0104b5",
+    "title": "",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/18-oklahoma-source.pdf"
+  },
+  "source_attempts": [
+    {
+      "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/99-63_HealthCarePowerofAttorney_cap_05172022.pdf",
+      "final_url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/99-63_HealthCarePowerofAttorney_cap_05172022.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "retrieved_at": "2026-10-14T09:40:11.030Z",
+      "etag": "W/\"1bfb7-5e2c212b5f240\"",
+      "last_modified": "Fri, 01 Jul 2022 17:54:09 GMT",
+      "content_length": null,
+      "sha256": "b0695321ce59089dec3b320c13d3b7112f8ea1b0e1f00aadab43d4992a0104b5",
+      "title": "",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": ".*",
+      "title": "Health Care Power of Attorney",
+      "family_id": "health-care-power-of-attorney",
+      "identity": "HEALTH CARE POWER OF ATTORNEY",
+      "max": 1,
+      "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/99-63_HealthCarePowerofAttorney_cap_05172022.pdf",
+      "link_text": "Health Care Power of Attorney",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/99-63_HealthCarePowerofAttorney_cap_05172022.pdf",
+        "final_url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/99-63_HealthCarePowerofAttorney_cap_05172022.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:11.030Z",
+        "etag": "W/\"1bfb7-5e2c212b5f240\"",
+        "last_modified": "Fri, 01 Jul 2022 17:54:09 GMT",
+        "content_length": null,
+        "sha256": "b0695321ce59089dec3b320c13d3b7112f8ea1b0e1f00aadab43d4992a0104b5",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/99-63_HealthCarePowerofAttorney_cap_05172022.pdf",
+          "final_url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/99-63_HealthCarePowerofAttorney_cap_05172022.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:11.030Z",
+          "etag": "W/\"1bfb7-5e2c212b5f240\"",
+          "last_modified": "Fri, 01 Jul 2022 17:54:09 GMT",
+          "content_length": null,
+          "sha256": "b0695321ce59089dec3b320c13d3b7112f8ea1b0e1f00aadab43d4992a0104b5",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "b0695321ce59089dec3b320c13d3b7112f8ea1b0e1f00aadab43d4992a0104b5",
+      "local_archive_path": "archive/2026-10-14-08/18-health-care-power-of-attorney-b0695321ce59.pdf",
+      "bytes": 114615,
+      "text_length": 5905,
+      "pages": 2,
+      "identity_excerpt": "HEALTH CARE POWER OF ATTORNEY You have the right to give instructions about your own health care. You also have the right to name someone else to make health care decisions for you. This form lets you do either or both of these things. If you use this form, you may complete or modify all or any part of it. You are free to use a different form. This form is a Power of Attorney (POA) for health care that lets you name another individual as agent to make health care decisions for you if you become incapable of making your own decisions or if you want someone else to make those decisions for you now even though you are still capable. You may also name an alternate agent to act for you if your first choice is not willing, able, or reasonably available to make decisions for you. Unless related to you, your agent may not be an owner, operator, or employee of a residential long-term health care institution at which you are receiving care. Unless the form you sign limits the authority of your agent, your agent may make all health care decisions for you. This form has a place for you to limit the authority of your agent. You need not limit the authority of your agent if you wish to rely on your agent for all health care decisions that may have to be made. If you choose not to limit the authority of your agent, your agent will have the right to: 1. Consent or refuse consent to any care, treatment, service, or procedure to maintain, diagnose, or otherwise affect a physical or mental condition; 2. Select or discharge health care providers and facilities; and 3. Sign a do-not-resuscitate consent. This form does not authorize the agent to make any decisions directing the withholding or withdrawal of life-sustaining treatment, nutrition, or hydration, which may only be authorized in co",
+      "revision_evidence": [
+        "me) OKDHS Pub. No. 99-63 Revised 5/2022 This publication is authorized by Oklahoma Department of Human S"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Health Care Power of Attorney",
+      "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/99-63_HealthCarePowerofAttorney_cap_05172022.pdf"
+    }
+  ]
+}

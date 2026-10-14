@@ -1,0 +1,159 @@
+{
+  "state": "West Virginia",
+  "publisher": "West Virginia State Bar",
+  "url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+  "category": "Estate and personal planning",
+  "direct": false,
+  "rules": [
+    {
+      "pattern": "App-D-WV-POA-Form-2020\\.pdf",
+      "title": "Statutory Power of Attorney",
+      "family_id": "financial-power-of-attorney",
+      "identity": "(?:STATUTORY.*POWER OF ATTORNEY|DURABLE POWER OF ATTORNEY)",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+    "final_url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:16:33.175Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "2e79c721a83f097a82de0bbfcf08c27673da12c5e8159ad307ca78c0435deea7",
+    "title": "Medical Power of Attorney & Living Will Forms – Statutorily Approved",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-07/01-west-virginia-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+      "final_url": "https://wvbar.org/medical-power-of-attorney-living-will-statutory-approved/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:16:33.175Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "2e79c721a83f097a82de0bbfcf08c27673da12c5e8159ad307ca78c0435deea7",
+      "title": "Medical Power of Attorney & Living Will Forms – Statutorily Approved",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "App-D-WV-POA-Form-2020\\.pdf",
+      "title": "Statutory Power of Attorney",
+      "family_id": "financial-power-of-attorney",
+      "identity": "(?:STATUTORY.*POWER OF ATTORNEY|DURABLE POWER OF ATTORNEY)",
+      "max": 1,
+      "url": "https://wvbar.org/wp-content/uploads/2020/03/App-D-WV-POA-Form-2020.pdf",
+      "link_text": "Power of Attorney Form",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://wvbar.org/wp-content/uploads/2020/03/App-D-WV-POA-Form-2020.pdf",
+        "final_url": "https://wvbar.org/wp-content/uploads/2020/03/App-D-WV-POA-Form-2020.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:16:33.510Z",
+        "etag": "\"5e7e63ac-e16c\"",
+        "last_modified": "Fri, 27 Mar 2020 20:35:56 GMT",
+        "content_length": "57708",
+        "sha256": "3acda5a9929973e24ad9d4b754c1b3579ee0dfd4fec1f10ac7f33f5e577ef5fc",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://wvbar.org/wp-content/uploads/2020/03/App-D-WV-POA-Form-2020.pdf",
+          "final_url": "https://wvbar.org/wp-content/uploads/2020/03/App-D-WV-POA-Form-2020.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:16:33.510Z",
+          "etag": "\"5e7e63ac-e16c\"",
+          "last_modified": "Fri, 27 Mar 2020 20:35:56 GMT",
+          "content_length": "57708",
+          "sha256": "3acda5a9929973e24ad9d4b754c1b3579ee0dfd4fec1f10ac7f33f5e577ef5fc",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "3acda5a9929973e24ad9d4b754c1b3579ee0dfd4fec1f10ac7f33f5e577ef5fc",
+      "local_archive_path": "archive/2026-10-14-07/01-statutory-power-of-attorney-3acda5a99299.pdf",
+      "bytes": 57708,
+      "text_length": 8815,
+      "pages": 5,
+      "identity_excerpt": "STATE OF WEST VIRGINIA STATUTORY FORM POWER OF ATTORNEY IMPORTANT INFORMATION This power of attorney authorizes another person (your agent) to make decisions concerning your property for you (the principal). Your agent will be able to make decisions and act with respect to your property (including your money) whether or not you are able to act for yourself. The meaning of authority over subjects listed on this form is explained in the Uniform Power of Attorney Act, West Virginia Code § 39B-1-1, et seq. This power of attorney does not authorize the agent to make health-care decisions for you. You should select someone you trust to serve as your agent. Unless you specify otherwise, generally the agent’s authority will continue until you die or revoke the power of attorney or the agent resigns or is unable to act for you. Your agent is entitled to reasonable compensation unless you state otherwise in the special instructions. This form provides for designation of one agent. If you wish to name more than one agent you may name a coagent in the Special Instructions. Coagents are not required to act together unless you include that requirement in the Special Instructions. If your agent is unable or unwilling to act for you, your power of attorney will end unless you have named a successor agent. You may also name a second successor agent. This power of attorney becomes effective immediately unless you state otherwise in the Special Instructions. If you have questions about the power of attorney or the authority you are granting to your agent, you should seek legal advice before signing this form. DESIGNATION OF AGENT I, , hereby name the following person as my agent: Name of Agent: Agent’s Address: Agent’s Telephone Number: If my agent is unable or unwilling to act for me, I ",
+      "revision_evidence": [
+        "________________________ EFFECTIVE DATE This power of attorney is effective immediately unless I have stated "
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "2025-2026 WVSB Budget Overview",
+      "url": "https://wvbar.org/wp-content/uploads/2025/12/2025-2026-WVSB-Budget-Overview.pdf"
+    },
+    {
+      "text": "COVID-19: Help for West Virginians",
+      "url": "https://wvbar.org/wp-content/uploads/2021/06/COVID-19-Information-on-Programs-that-Help-002.pdf"
+    },
+    {
+      "text": "Basic Guidelines on the Unauthorized Practice of Law in Probate Administration",
+      "url": "https://wvbar.org/wp-content/uploads/2022/07/Updated-Basic-Guidelines-on-the-UPL-in-Probate-Administration.pdf"
+    },
+    {
+      "text": "File a Complaint",
+      "url": "https://storage.googleapis.com/msgsndr/Rgd68xOkcVdteTsBkf6O/media/6686b82ea3b05e6cf69a6567.pdf"
+    },
+    {
+      "text": "WV Combined MPOA and Living Will form 2022",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Combined-MPOA-and-Living-Will-form-2022.pdf"
+    },
+    {
+      "text": "WV Living Will 2022 form",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Living-Will-2022-form.pdf"
+    },
+    {
+      "text": "WV Medical Power of Attorney form 2022",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/WV-Medical-Power-of-Attorney-form-2022.pdf"
+    },
+    {
+      "text": "Power of Attorney Form",
+      "url": "https://wvbar.org/wp-content/uploads/2020/03/App-D-WV-POA-Form-2020.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://wvbar.org/wp-content/uploads/2020/03/App-D-WV-POA-Form-2020.pdf"
+    },
+    {
+      "text": "Affidavit on Disposition of Remains state form 2020",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/Affidavit-on-Disposition-of-Remains-state-form-2020.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://wvbar.org/wp-content/uploads/2026/02/Affidavit-on-Disposition-of-Remains-state-form-2020.pdf"
+    }
+  ]
+}

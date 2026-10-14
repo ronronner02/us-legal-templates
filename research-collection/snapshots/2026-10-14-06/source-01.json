@@ -1,0 +1,98 @@
+{
+  "state": "Minnesota",
+  "publisher": "Minnesota Judicial Branch",
+  "url": "https://www.mncourts.gov/mncourtsgov/media/CourtForms/PRO202.pdf?ext=.pdf",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": ".*",
+      "title": "Affidavit for Collection of Personal Property (Small Estate - No Real Estate)",
+      "form_id": "PRO202",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+      "max": 1
+    }
+  ],
+  "direct": true,
+  "source": {
+    "url": "https://www.mncourts.gov/mncourtsgov/media/CourtForms/PRO202.pdf?ext=.pdf",
+    "final_url": "https://www.mncourts.gov/mncourtsgov/media/CourtForms/PRO202.pdf?ext=.pdf",
+    "http_status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:14:11.537Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "373838d8fcc040511b0cbd5dab97f45b4dfdcddc8f0077bf656a197d127388b4",
+    "title": "Just a moment...",
+    "retrieval_status": "http-403",
+    "local_archive_path": "archive/2026-10-14-06/01-minnesota-source.pdf"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.mncourts.gov/mncourtsgov/media/CourtForms/PRO202.pdf?ext=.pdf",
+      "final_url": "https://www.mncourts.gov/mncourtsgov/media/CourtForms/PRO202.pdf?ext=.pdf",
+      "http_status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:14:11.537Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "373838d8fcc040511b0cbd5dab97f45b4dfdcddc8f0077bf656a197d127388b4",
+      "title": "Just a moment...",
+      "retrieval_status": "http-403"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": ".*",
+      "title": "Affidavit for Collection of Personal Property (Small Estate - No Real Estate)",
+      "form_id": "PRO202",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*COLLECTION.*PERSONAL PROPERTY",
+      "max": 1,
+      "url": "https://www.mncourts.gov/mncourtsgov/media/CourtForms/PRO202.pdf?ext=.pdf",
+      "link_text": "Affidavit for Collection of Personal Property (Small Estate - No Real Estate)",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.mncourts.gov/mncourtsgov/media/CourtForms/PRO202.pdf?ext=.pdf",
+        "final_url": "https://www.mncourts.gov/mncourtsgov/media/CourtForms/PRO202.pdf?ext=.pdf",
+        "http_status": 403,
+        "content_type": "text/html; charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:14:11.537Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": null,
+        "sha256": "373838d8fcc040511b0cbd5dab97f45b4dfdcddc8f0077bf656a197d127388b4",
+        "title": "Just a moment...",
+        "retrieval_status": "http-403"
+      },
+      "attempts": [
+        {
+          "url": "https://www.mncourts.gov/mncourtsgov/media/CourtForms/PRO202.pdf?ext=.pdf",
+          "final_url": "https://www.mncourts.gov/mncourtsgov/media/CourtForms/PRO202.pdf?ext=.pdf",
+          "http_status": 403,
+          "content_type": "text/html; charset=UTF-8",
+          "retrieved_at": "2026-10-14T09:14:11.537Z",
+          "etag": null,
+          "last_modified": null,
+          "content_length": null,
+          "sha256": "373838d8fcc040511b0cbd5dab97f45b4dfdcddc8f0077bf656a197d127388b4",
+          "title": "Just a moment...",
+          "retrieval_status": "http-403"
+        }
+      ],
+      "downloaded": false,
+      "status": "http-403"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Affidavit for Collection of Personal Property (Small Estate - No Real Estate)",
+      "url": "https://www.mncourts.gov/mncourtsgov/media/CourtForms/PRO202.pdf?ext=.pdf"
+    }
+  ]
+}

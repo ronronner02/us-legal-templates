@@ -1,0 +1,748 @@
+{
+  "state": "Georgia",
+  "publisher": "Supreme Court of Georgia",
+  "url": "https://www.gasupreme.us/probate-court-standard-forms/",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "GPCSF3_0721\\.pdf",
+      "title": "Petition for Letters of Administration",
+      "family_id": "probate-petition",
+      "identity": "PETITION FOR LETTERS OF ADMINISTRATION",
+      "max": 1
+    },
+    {
+      "pattern": "GPCSF5_0721\\.pdf",
+      "title": "Petition to Probate Will in Solemn Form",
+      "family_id": "probate-petition",
+      "identity": "PETITION TO PROBATE WILL IN SOLEMN FORM",
+      "max": 1
+    },
+    {
+      "pattern": "GPCSF9_0721\\.pdf",
+      "title": "Petition for Order Declaring No Administration Necessary",
+      "family_id": "small-estate-petition",
+      "identity": "NO ADMINISTRATION NECESSARY",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.gasupreme.us/probate-court-standard-forms/",
+    "final_url": "https://www.gasupreme.us/probate-court-standard-forms/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:39:58.147Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "e30ea94c76d84e05425dad89eb7258475e364c73c235b05501063e1416e3f485",
+    "title": "Georgia Probate Court Standard Forms and General Instructions – Supreme Court of Georgia",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/05-georgia-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.gasupreme.us/probate-court-standard-forms/",
+      "final_url": "https://www.gasupreme.us/probate-court-standard-forms/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:39:58.147Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "e30ea94c76d84e05425dad89eb7258475e364c73c235b05501063e1416e3f485",
+      "title": "Georgia Probate Court Standard Forms and General Instructions – Supreme Court of Georgia",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "GPCSF3_0721\\.pdf",
+      "title": "Petition for Letters of Administration",
+      "family_id": "probate-petition",
+      "identity": "PETITION FOR LETTERS OF ADMINISTRATION",
+      "max": 1,
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF3_0721.pdf",
+      "link_text": "GPCSF 3",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF3_0721.pdf",
+        "final_url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF3_0721.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:39:58.903Z",
+        "etag": "\"7c2a3-65682a295e3f0\"",
+        "last_modified": "Mon, 13 Jul 2026 18:55:33 GMT",
+        "content_length": "508579",
+        "sha256": "2e8b59e55e2a0d389ad113d3170335a34364985616feaeaf3e8f1cfbb8280590",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF3_0721.pdf",
+          "final_url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF3_0721.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:39:58.903Z",
+          "etag": "\"7c2a3-65682a295e3f0\"",
+          "last_modified": "Mon, 13 Jul 2026 18:55:33 GMT",
+          "content_length": "508579",
+          "sha256": "2e8b59e55e2a0d389ad113d3170335a34364985616feaeaf3e8f1cfbb8280590",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "2e8b59e55e2a0d389ad113d3170335a34364985616feaeaf3e8f1cfbb8280590",
+      "local_archive_path": "archive/2026-10-14-08/05-petition-for-letters-of-administration-2e8b59e55e2a.pdf",
+      "bytes": 508579,
+      "text_length": 32440,
+      "pages": 17,
+      "identity_excerpt": "GPCSF 3 [i] Eff. July 2021 PETITION FOR LETTERS OF ADMINISTRATION INSTRUCTIONS I. Specific Instructions 1. This form is to be used for a petition for letters of administration pursuant to O.C.G.A. § 53-6-20 et seq. 2. Use of this form is permissible, but not mandatory, in connection with a petition for appointment of a successor administrator, pursuant to O.C.G.A. § 53-6-21 (b). Appropriate strikethroughs must be made, and additional information must be given concerning the identity of the previous administrator, the reason for the vacancy in the office, and the date the office became vacant. 3. With respect to the conditions under which the judge may, pursuant to O.C.G.A. § 53-7-1 (b), waive bond, waive reports, waive statements, and/or grant certain powers contained in O.C.G.A. § 53-12-261, note: (a) all of the heirs must consent, and (b) notice must be published. 4. Signatures of heirs who acknowledge service must be sworn to before a notary public or the clerk of any probate court of this State. An attorney at law may acknowledge service on behalf of an heir; however, the attorney must certify that he or she currently represents that heir with regard to the pending matter and, in order to comply with O.C.G.A. § 53-11-6, the attorney’s signature must be sworn to as provided above. With regard to a power of attorney, the attorney-in-fact may acknowledge service on behalf of the grantor of the power, provided that the power of attorney grants such authority, the signature of the attorney-in-fact is attested, a copy of the power of attorney is attached, and the attorney-in-fact certifies that the copy is a true copy and is still in effect. 5. O.C.G.A. § 53-11-2 provides that a party to a probate proceeding who is not sui juris must be represented by a guardian, provided",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "GPCSF5_0721\\.pdf",
+      "title": "Petition to Probate Will in Solemn Form",
+      "family_id": "probate-petition",
+      "identity": "PETITION TO PROBATE WILL IN SOLEMN FORM",
+      "max": 1,
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF5_0721.pdf",
+      "link_text": "GPCSF 5",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF5_0721.pdf",
+        "final_url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF5_0721.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:01.002Z",
+        "etag": "\"9c5fa-65682a29ae533\"",
+        "last_modified": "Mon, 13 Jul 2026 18:55:34 GMT",
+        "content_length": "640506",
+        "sha256": "ecb0776ae1804410fd87a393e33d191f20523c1cd2db7425c3752f1f40cd66a3",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF5_0721.pdf",
+          "final_url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF5_0721.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:01.002Z",
+          "etag": "\"9c5fa-65682a29ae533\"",
+          "last_modified": "Mon, 13 Jul 2026 18:55:34 GMT",
+          "content_length": "640506",
+          "sha256": "ecb0776ae1804410fd87a393e33d191f20523c1cd2db7425c3752f1f40cd66a3",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "ecb0776ae1804410fd87a393e33d191f20523c1cd2db7425c3752f1f40cd66a3",
+      "local_archive_path": "archive/2026-10-14-08/05-petition-to-probate-will-in-solemn-form-ecb0776ae180.pdf",
+      "bytes": 640506,
+      "text_length": 34400,
+      "pages": 19,
+      "identity_excerpt": "GPCSF 5 [i] Eff. July 2021 PETITION TO PROBATE WILL IN SOLEMN FORM INSTRUCTIONS I. Specific Instructions 1. This form is to be used when filing a petition to probate will in solemn form pursuant to O.C.G.A. § 53-5-20 et seq. 2. It is permissible, but not mandatory, to use this form in connection with a petition to probate a copy of a will in lieu of a lost original pursuant to O.C.G.A. § 53-4-46, provided that appropriate interlineations are made, and additional information is given to overcome the presumption of revocation. 3. Signatures of heirs who acknowledge service must be sworn to before a notary public or the clerk of any probate court of this State. It is not necessary that all acknowledgments appear on the same page. An attorney at law may acknowledge service on behalf of an heir; however, the attorney must certify that he or she currently represents that heir with regard to the pending matter and, in order to comply with O.C.G.A. § 53-11-6, the attorney’s signature must be sworn to as provided above. With regard to a power of attorney, the attorney-in-fact may acknowledge service on behalf of the grantor of the power, provided that the power of attorney grants such authority, the signature of the attorney-in-fact is attested, a copy of the power of attorney is attached, and the attorney-in-fact certifies that the copy is a true copy and is still in effect. 4. O.C.G.A. § 53-11-2 provides that a party to a probate proceeding who is not sui juris must be represented by a guardian provided that the Court may appoint a guardian ad litem or determine that the natural guardian, guardian, conservator, or testamentary guardian has no conflict and may serve. If a guardian ad litem is necessary because a party is not sui juris, use GPCSF Supplement 1. 5. O.C.G.A. § 53-5",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "GPCSF9_0721\\.pdf",
+      "title": "Petition for Order Declaring No Administration Necessary",
+      "family_id": "small-estate-petition",
+      "identity": "NO ADMINISTRATION NECESSARY",
+      "max": 1,
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF9_0721.pdf",
+      "link_text": "GPCSF 9",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF9_0721.pdf",
+        "final_url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF9_0721.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:02.553Z",
+        "etag": "\"73348-65682a2a9354b\"",
+        "last_modified": "Mon, 13 Jul 2026 18:55:34 GMT",
+        "content_length": "471880",
+        "sha256": "2c0339e3bcfcab4baec1b45385d2cb3cb5077332214391aab9cfc43bbb0dfffd",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF9_0721.pdf",
+          "final_url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF9_0721.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:02.553Z",
+          "etag": "\"73348-65682a2a9354b\"",
+          "last_modified": "Mon, 13 Jul 2026 18:55:34 GMT",
+          "content_length": "471880",
+          "sha256": "2c0339e3bcfcab4baec1b45385d2cb3cb5077332214391aab9cfc43bbb0dfffd",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "2c0339e3bcfcab4baec1b45385d2cb3cb5077332214391aab9cfc43bbb0dfffd",
+      "local_archive_path": "archive/2026-10-14-08/05-petition-for-order-declaring-no-administration-necessary-2c0339e3bcfc.pdf",
+      "bytes": 471880,
+      "text_length": 33309,
+      "pages": 21,
+      "identity_excerpt": "GPCSF 9 [i] Eff. July 2021 PETITION FOR ORDER DECLARING NO ADMINISTRATION NECESSARY INSTRUCTIONS I. Specific Instructions 1. This form is to be used when filing a petition for an order declaring no administration necessary, pursuant to O.C.G.A. § 53-2-40 et seq., and should only be used when the decedent died intestate (without a will). 2. Unanimous consent of the heirs at law to the agreed upon division is required according to O.C.G.A. § 53-2-40 (b). 3. Signatures of heirs who acknowledge service must be sworn to before a notary public or the clerk of any probate court of this State. It is not necessary that all acknowledgments appear on the same page. An attorney at law may acknowledge service on behalf of an heir; however, the attorney must certify that he or she currently represents that heir with regard to the pending matter and, in order to comply with O.C.G.A. § 53-11-6, the attorney's signature must be sworn to as provided above. With regard to a power of attorney, the attorney-in-fact may acknowledge service on behalf of the grantor of the power, provided that the power of attorney grants such authority, the signature of the attorney-in-fact is attested, a copy of the power of attorney is attached, and the attorney-in-fact certifies that the copy is a true copy and is still in effect. It is not necessary that all acknowledgments appear on the same page. 4. O.C.G.A. § 53-11-2 provides that a party to a probate proceeding who is not sui juris must be represented by a guardian provided that the Court may appoint a guardian ad litem or determine that the natural guardian, guardian, conservator, or testamentary guardian has no conflict and may serve. Should a guardian ad litem be necessary because a party is not sui juris, use GPCSF Supplement 1. 5. O.C.G.A. § 53-1",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip to content",
+      "url": "https://www.gasupreme.us/probate-court-standard-forms/#content"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.gasupreme.us/"
+    },
+    {
+      "text": "FAQ",
+      "url": "https://www.gasupreme.us/faq/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.gasupreme.us/court-information/clerks-office/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/SupremeCourtGA"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/supremecourtga/"
+    },
+    {
+      "text": "",
+      "url": "https://www.gasupreme.us/"
+    },
+    {
+      "text": "",
+      "url": "https://www.gasupreme.us/probate-court-standard-forms/#"
+    },
+    {
+      "text": "Court Information",
+      "url": "https://www.gasupreme.us/probate-court-standard-forms/#"
+    },
+    {
+      "text": "Justices of the Court",
+      "url": "https://www.gasupreme.us/court-information/biographies/"
+    },
+    {
+      "text": "Clerk’s Office",
+      "url": "https://www.gasupreme.us/court-information/clerks-office/"
+    },
+    {
+      "text": "Directions",
+      "url": "https://www.gasupreme.us/court-information/directions/"
+    },
+    {
+      "text": "Holidays",
+      "url": "https://www.gasupreme.us/court-information/holidays-2/"
+    },
+    {
+      "text": "Court Terms",
+      "url": "https://www.gasupreme.us/court-terms/"
+    },
+    {
+      "text": "Court Commissions & Programs",
+      "url": "https://www.gasupreme.us/commissions-programs/"
+    },
+    {
+      "text": "Employment Opportunities",
+      "url": "https://www.gasupreme.us/employment-opportunities/"
+    },
+    {
+      "text": "Term Clerk Program",
+      "url": "https://www.gasupreme.us/term-clerk/"
+    },
+    {
+      "text": "Internship/Externship",
+      "url": "https://www.gasupreme.us/internship-externship/"
+    },
+    {
+      "text": "History",
+      "url": "https://www.gasupreme.us/court-information/history/"
+    },
+    {
+      "text": "175th Anniversary",
+      "url": "https://www.gasupreme.us/175th/"
+    },
+    {
+      "text": "Event Recordings",
+      "url": "https://www.gasupreme.us/175th/videos-photos/"
+    },
+    {
+      "text": "FAQ",
+      "url": "https://www.gasupreme.us/faq/"
+    },
+    {
+      "text": "Case Information",
+      "url": "https://www.gasupreme.us/probate-court-standard-forms/#"
+    },
+    {
+      "text": "Docket Search",
+      "url": "https://www.gasupreme.us/docket-search/"
+    },
+    {
+      "text": "Affidavit of Indigence",
+      "url": "https://www.gasupreme.us/court-information/affidavit-of-indigence/"
+    },
+    {
+      "text": "Forthcoming Opinions",
+      "url": "https://www.gasupreme.us/forthcoming-opinions/"
+    },
+    {
+      "text": "Opinions",
+      "url": "https://www.gasupreme.us/2026-opinions/"
+    },
+    {
+      "text": "Certiorari Petitions (Granted & Denied)",
+      "url": "https://www.gasupreme.us/2026-granted/"
+    },
+    {
+      "text": "Discretionary Applications (Granted)",
+      "url": "https://www.gasupreme.us/2026-discretionary/"
+    },
+    {
+      "text": "Interlocutory Applications (Granted)",
+      "url": "https://www.gasupreme.us/2026-interlocutory/"
+    },
+    {
+      "text": "Judicial Discipline (JQC) Cases",
+      "url": "https://www.gasupreme.us/jqc-rules/"
+    },
+    {
+      "text": "Prosecuting Attorneys Qualifications Commission (PAQC)",
+      "url": "https://www.gasupreme.us/2025-paqc-cases/"
+    },
+    {
+      "text": "Inmate/Habeas Corpus Forms",
+      "url": "https://jcaoc.georgiacourts.gov/inmate-forms/"
+    },
+    {
+      "text": "Purchase Certificates, Opinions and DVD’s",
+      "url": "https://www.gasupreme.us/court-information/purchase/"
+    },
+    {
+      "text": "Oral Arguments",
+      "url": "https://www.gasupreme.us/probate-court-standard-forms/#"
+    },
+    {
+      "text": "Oral Argument Calendar",
+      "url": "https://www.gasupreme.us/calendar-list/"
+    },
+    {
+      "text": "Case Announcements",
+      "url": "https://www.gasupreme.us/2026-case-announcements/"
+    },
+    {
+      "text": "Oral Argument Webcasts",
+      "url": "https://www.gasupreme.us/watch/"
+    },
+    {
+      "text": "Rules & Procedures",
+      "url": "https://www.gasupreme.us/probate-court-standard-forms/#"
+    },
+    {
+      "text": "Supreme Court Rules",
+      "url": "https://www.gasupreme.us/rules/"
+    },
+    {
+      "text": "Court Orders Amending Supreme Court, Uniform Trial Court and Other Rules",
+      "url": "https://www.gasupreme.us/rules/amendments-to-rules/"
+    },
+    {
+      "text": "Other Court Rules",
+      "url": "https://www.gasupreme.us/other-court-rules/"
+    },
+    {
+      "text": "Other Codes and Rules",
+      "url": "https://www.gasupreme.us/other-codes-rules/"
+    },
+    {
+      "text": "E-Filing",
+      "url": "https://www.gasupreme.us/sced/"
+    },
+    {
+      "text": "Attorney Admissions",
+      "url": "https://www.gasupreme.us/probate-court-standard-forms/#"
+    },
+    {
+      "text": "Attorney Admissions",
+      "url": "https://www.gasupreme.us/court-information/attorney-admissions/"
+    },
+    {
+      "text": "Certificate of Good Standing",
+      "url": "https://www.gasupreme.us/purchase-cert-gs/"
+    },
+    {
+      "text": "Reciprocity/Court of Last Resort Certificates",
+      "url": "https://www.gasupreme.us/court-information/reciprocitycourt-of-last-resort-certificates/"
+    },
+    {
+      "text": "Reprint Wall License",
+      "url": "https://www.gasupreme.us/purchase-reprint/"
+    },
+    {
+      "text": "Pro Hac Vice Appearance",
+      "url": "https://www.gasupreme.us/pro-hac-vice/"
+    },
+    {
+      "text": "Student Practice Rule",
+      "url": "https://lawschool.ilgadmissions.com/studprac.action"
+    },
+    {
+      "text": "Provisional/Military Spouse Admission",
+      "url": "https://www.gabaradmissions.org/provisional-admission-for-recent-law-school-graduates"
+    },
+    {
+      "text": "Public Information",
+      "url": "https://www.gasupreme.us/probate-court-standard-forms/#"
+    },
+    {
+      "text": "Contact the Public Information Officer",
+      "url": "https://www.gasupreme.us/media-contact/"
+    },
+    {
+      "text": "News and Reports",
+      "url": "https://www.gasupreme.us/court-information/news-reports/"
+    },
+    {
+      "text": "Case Announcements",
+      "url": "https://www.gasupreme.us/2026-case-announcements/"
+    },
+    {
+      "text": "Request to Broadcast",
+      "url": "https://www.gasupreme.us/media-request/"
+    },
+    {
+      "text": "Media Rules",
+      "url": "https://www.gasupreme.us/media-rules/"
+    },
+    {
+      "text": "Schedule a Tour",
+      "url": "https://www.gasupreme.us/court-information/tours-reservation-portal/"
+    },
+    {
+      "text": "Administrative",
+      "url": "https://www.gasupreme.us/probate-court-standard-forms/#"
+    },
+    {
+      "text": "Administrative Orders",
+      "url": "https://www.gasupreme.us/2026-administrative-orders/"
+    },
+    {
+      "text": "Committee Reports",
+      "url": "https://www.gasupreme.us/committee-reports/"
+    },
+    {
+      "text": "Constitutional Research Materials",
+      "url": "https://www.gasupreme.us/research-materials/"
+    },
+    {
+      "text": "Rule 3.15 – Judicial Conduct Code Annual Disclosure Report",
+      "url": "https://www.gasupreme.us/rule315form/"
+    },
+    {
+      "text": "Rule 39.3.1 Felony Case List Submission",
+      "url": "https://www.gasupreme.us/felony-case-list/"
+    },
+    {
+      "text": "Pandemic Orders",
+      "url": "https://www.gasupreme.us/court-information/court_corona_info/"
+    },
+    {
+      "text": "web editor",
+      "url": "https://www.gasupreme.us/author/web-editor/"
+    },
+    {
+      "text": "GPCSF 1",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF1_0721.pdf"
+    },
+    {
+      "text": "GPCSF 2",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF2_0721.pdf"
+    },
+    {
+      "text": "GPCSF 3",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF3_0721.pdf"
+    },
+    {
+      "text": "GPCSF 4",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF4_0721.pdf"
+    },
+    {
+      "text": "GPCSF 5",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF5_0721.pdf"
+    },
+    {
+      "text": "GPCSF 7",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF7_0721.pdf"
+    },
+    {
+      "text": "GPCSF 8",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF8_0721.pdf"
+    },
+    {
+      "text": "GPCSF 9",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF9_0721.pdf"
+    },
+    {
+      "text": "GPCSF 10",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF10_0721.pdf"
+    },
+    {
+      "text": "GPCSF 11",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2017/06/GPCSF11_0717.pdf"
+    },
+    {
+      "text": "GPCSF 12",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2017/06/GPCSF12_0717.pdf"
+    },
+    {
+      "text": "GPCSF 13",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF13_0721.pdf"
+    },
+    {
+      "text": "GPCSF 14",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2015/07/GPCSF14.pdf"
+    },
+    {
+      "text": "GPCSF 15",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2015/07/GPCSF15.pdf"
+    },
+    {
+      "text": "GPCSF 17",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF17_0721.pdf"
+    },
+    {
+      "text": "GPCSF 18",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF18_0721.pdf"
+    },
+    {
+      "text": "GPCSF 19",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2015/07/GPCSF19_0715.pdf"
+    },
+    {
+      "text": "GPCSF 20",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF20_0721.pdf"
+    },
+    {
+      "text": "GPCSF 21",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2019/07/GPCSF21.pdf"
+    },
+    {
+      "text": "GPCSF 22",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2015/07/GPCSF22.pdf"
+    },
+    {
+      "text": "GPCSF 28",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2017/06/GPCSF28_0717.pdf"
+    },
+    {
+      "text": "GPCSF 29",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2015/07/GPCSF29.pdf"
+    },
+    {
+      "text": "GPCSF 30",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2015/07/GPCSF30_0715.pdf"
+    },
+    {
+      "text": "GPCSF 31",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2017/06/GPCSF31_0717.pdf"
+    },
+    {
+      "text": "GPCSF 32",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF32_0721.pdf"
+    },
+    {
+      "text": "GPCSF 33",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF33_0721.pdf"
+    },
+    {
+      "text": "GPCSF 34",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2015/07/GPCSF34.pdf"
+    },
+    {
+      "text": "GPCSF 36",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF36_0721.pdf"
+    },
+    {
+      "text": "GPCSF 53",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF53_0721.pdf"
+    },
+    {
+      "text": "GPCSF 54",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF54_0721.pdf"
+    },
+    {
+      "text": "GPCSF 58",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2019/07/GPCSF58.pdf"
+    },
+    {
+      "text": "GPCSF 59",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2015/07/GPCSF59.pdf"
+    },
+    {
+      "text": "GPCSF 65",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF65_0721.pdf"
+    },
+    {
+      "text": "GPCSF 70",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2015/07/GPCSF70.pdf"
+    },
+    {
+      "text": "GPCSF 71",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF71_0721.pdf"
+    },
+    {
+      "text": "GPCSF 72",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF72_0721.pdf"
+    },
+    {
+      "text": "GPCSF Supplement 1",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF-SUPP1_0721.pdf"
+    },
+    {
+      "text": "GPCSF Supplement 2",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2016/06/GPCSF-SUPP2_0716.pdf"
+    },
+    {
+      "text": "GPCSF Supplement 3",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2015/07/GPCSF-SUPP3_0715.pdf"
+    },
+    {
+      "text": "GPCSF Supplement 4",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF-SUPP4_0721.pdf"
+    },
+    {
+      "text": "GPCSF Supplement 5",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2017/06/GPCSF-SUPP5_0717.pdf"
+    },
+    {
+      "text": "GPCSF Supplement 6",
+      "url": "https://www.gasupreme.us/wp-content/uploads/2017/06/GPCSF-SUPP6_0717.pdf"
+    },
+    {
+      "text": "DIRECTIONS",
+      "url": "https://www.gasupreme.us/court-information/directions/"
+    },
+    {
+      "text": "Calendar",
+      "url": "https://www.gasupreme.us/calendar-list/"
+    },
+    {
+      "text": "Forthcoming Opinions",
+      "url": "https://www.gasupreme.us/opinions/forthcoming-opinions/"
+    },
+    {
+      "text": "Docket Search",
+      "url": "https://www.gasupreme.us/docket-search/"
+    },
+    {
+      "text": "Oral Argument Webcasts",
+      "url": "https://www.gasupreme.us/watch/"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.gasupreme.us/court-information/media/"
+    },
+    {
+      "text": "Purchase",
+      "url": "https://www.gasupreme.us/court-information/purchase/"
+    },
+    {
+      "text": "Rule 3.15 Form",
+      "url": "https://www.gasupreme.us/rule315form/"
+    },
+    {
+      "text": "Rule 3.15 Search",
+      "url": "http://rule315.gasupreme.gov/#/search"
+    },
+    {
+      "text": "GBI Human Trafficking Notice",
+      "url": "https://gbi.georgia.gov/human-trafficking-notice"
+    },
+    {
+      "text": "",
+      "url": "https://www.gasupreme.us/events/oral-argument-october-14-2026/"
+    },
+    {
+      "text": "Oral Argument - October 14, 2026",
+      "url": "https://www.gasupreme.us/events/oral-argument-october-14-2026/"
+    },
+    {
+      "text": "",
+      "url": "https://www.gasupreme.us/events/oral-argument-october-15-2026/"
+    },
+    {
+      "text": "Oral Argument - October 15, 2026",
+      "url": "https://www.gasupreme.us/events/oral-argument-october-15-2026/"
+    },
+    {
+      "text": "",
+      "url": "https://www.gasupreme.us/events/oral-argument-november-04-2026/"
+    },
+    {
+      "text": "Oral Argument - November 4, 2026",
+      "url": "https://www.gasupreme.us/events/oral-argument-november-04-2026/"
+    },
+    {
+      "text": "10/01/2026—Supreme Court of Georgia Welcomes 2026-27 Class of Term Clerks",
+      "url": "https://www.gasupreme.us/10-01-2026-supreme-court-of-georgia-welcomes-2026-27-class-of-term-clerks/"
+    },
+    {
+      "text": "09/22/2026—Supreme Court Honors Retiring AOC Director Cynthia Clanton",
+      "url": "https://www.gasupreme.us/09-22-2026-supreme-court-honors-retiring-aoc-director-cynthia-clanton/"
+    },
+    {
+      "text": "02/26/26—Presiding Justice Warren Announces Breast Cancer Diagnosis",
+      "url": "https://www.gasupreme.us/02-26-26-presiding-justice-warren-announces-breast-cancer-diagnosis/"
+    },
+    {
+      "text": "02/17/26—Supreme Court Email Addresses Updating on March 9",
+      "url": "https://www.gasupreme.us/02-17-26-domain_change/"
+    },
+    {
+      "text": "View All News and Reports",
+      "url": "https://www.gasupreme.us/court-information/news-reports/"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.gasupreme.us/privacy-statement/"
+    },
+    {
+      "text": "E-Verify ID",
+      "url": "https://www.gasupreme.us/e-verify/"
+    },
+    {
+      "text": "Page load link",
+      "url": "https://www.gasupreme.us/probate-court-standard-forms/#"
+    },
+    {
+      "text": "Go to Top",
+      "url": "https://www.gasupreme.us/probate-court-standard-forms/#"
+    }
+  ]
+}

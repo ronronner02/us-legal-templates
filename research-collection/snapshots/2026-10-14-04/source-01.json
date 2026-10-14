@@ -1,0 +1,24 @@
+{
+  "state": "North Dakota",
+  "publisher": "North Dakota Court System",
+  "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "Affidavit.*Collection.*Personal|Form.*1",
+      "title": "Affidavit for Collection of Personal Property of the Decedent",
+      "form_id": "NDPC Form 1",
+      "family_id": "small-estate-affidavit",
+      "identity": "Affidavit for Collection of Personal Property",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit",
+    "retrieved_at": "2026-10-14T09:09:29.563Z",
+    "retrieval_status": "fetch-failed",
+    "error": "fetch failed"
+  },
+  "artifacts": [],
+  "discovered_pdf_links": []
+}

@@ -1,0 +1,595 @@
+{
+  "state": "Maine",
+  "publisher": "Maine Judicial Branch",
+  "url": "https://www.courts.maine.gov/help/small-claims/index.html",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": "small-claims",
+      "title": "A Guide to Small Claims Cases (2026)",
+      "family_id": "small-claims-instructions",
+      "identity": "GUIDE TO SMALL CLAIMS",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.courts.maine.gov/help/small-claims/index.html",
+    "final_url": "https://www.courts.maine.gov/help/small-claims/index.html",
+    "http_status": 200,
+    "content_type": "text/html",
+    "retrieved_at": "2026-10-14T09:09:41.653Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "46eb468e28476de56a2c7eb67bbe96df20179f073e764a5f41d0354d7cb8e9df",
+    "title": "Small Claims: State of Maine Judicial Branch",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-04/03-maine-source.bin"
+  },
+  "artifacts": [
+    {
+      "pattern": "small-claims",
+      "title": "A Guide to Small Claims Cases (2026)",
+      "family_id": "small-claims-instructions",
+      "identity": "GUIDE TO SMALL CLAIMS",
+      "max": 1,
+      "url": "https://www.courts.maine.gov/help/small-claims/index.html#top-nav",
+      "receipt": {
+        "url": "https://www.courts.maine.gov/help/small-claims/index.html#top-nav",
+        "final_url": "https://www.courts.maine.gov/help/small-claims/index.html",
+        "http_status": 200,
+        "content_type": "text/html",
+        "retrieved_at": "2026-10-14T09:09:42.347Z",
+        "etag": null,
+        "last_modified": null,
+        "content_length": null,
+        "sha256": "46eb468e28476de56a2c7eb67bbe96df20179f073e764a5f41d0354d7cb8e9df",
+        "title": "Small Claims: State of Maine Judicial Branch",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "downloaded": false
+    }
+  ],
+  "discovered_pdf_links": [
+    {
+      "text": "Home",
+      "url": "https://www.courts.maine.gov/"
+    },
+    {
+      "text": "Skip to top navigation",
+      "url": "https://www.courts.maine.gov/help/small-claims/index.html#top-nav"
+    },
+    {
+      "text": "Skip to side navigation",
+      "url": "https://www.courts.maine.gov/help/small-claims/index.html#content"
+    },
+    {
+      "text": "Skip to content",
+      "url": "https://www.courts.maine.gov/help/small-claims/index.html#page-body"
+    },
+    {
+      "text": "Skip to footer",
+      "url": "https://www.courts.maine.gov/help/small-claims/index.html#footer"
+    },
+    {
+      "text": "Maine.gov",
+      "url": "https://www.maine.gov/"
+    },
+    {
+      "text": "Agencies",
+      "url": "https://www.maine.gov/portal/government/state-agencies.php"
+    },
+    {
+      "text": "Online Services",
+      "url": "https://www.maine.gov/portal/online_services/index.html"
+    },
+    {
+      "text": "Help",
+      "url": "https://www.maine.gov/portal/help/index.html"
+    },
+    {
+      "text": "Search Maine.gov",
+      "url": "https://www.maine.gov/search/"
+    },
+    {
+      "text": "State of Maine Judicial Branch",
+      "url": "https://www.courts.maine.gov/help/index.html"
+    },
+    {
+      "text": "Online Services",
+      "url": "https://www.courts.maine.gov/online-services.html"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.courts.maine.gov/about/jobs.html"
+    },
+    {
+      "text": "ADA",
+      "url": "https://www.courts.maine.gov/ada/index.html"
+    },
+    {
+      "text": "Interpreters",
+      "url": "https://www.courts.maine.gov/programs/lep/index.html"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.courts.maine.gov/contact-info.html"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.courts.maine.gov/index.html"
+    },
+    {
+      "text": "About",
+      "url": "https://www.courts.maine.gov/about/index.html"
+    },
+    {
+      "text": "Administrative Office of the Courts",
+      "url": "https://www.courts.maine.gov/about/aoc.html"
+    },
+    {
+      "text": "Court Committees",
+      "url": "https://www.courts.maine.gov/about/committees/index.html"
+    },
+    {
+      "text": "Courthouse Building & Capital Improvement Projects",
+      "url": "https://www.courts.maine.gov/about/projects/index.html"
+    },
+    {
+      "text": "Reports & Data",
+      "url": "https://www.courts.maine.gov/about/reports-data.html"
+    },
+    {
+      "text": "Jobs & Clerkships",
+      "url": "https://www.courts.maine.gov/about/jobs.html"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.courts.maine.gov/about/contact.html"
+    },
+    {
+      "text": "Courts",
+      "url": "https://www.courts.maine.gov/courts/index.html"
+    },
+    {
+      "text": "Find a Court",
+      "url": "https://www.courts.maine.gov/courts/find-a-court.html"
+    },
+    {
+      "text": "Schedules & Closings",
+      "url": "https://www.courts.maine.gov/courts/schedules/index.html"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.courts.maine.gov/courts/sjc/index.html"
+    },
+    {
+      "text": "Superior Court",
+      "url": "https://www.courts.maine.gov/courts/superior/index.html"
+    },
+    {
+      "text": "District Court",
+      "url": "https://www.courts.maine.gov/courts/district/index.html"
+    },
+    {
+      "text": "Family Division",
+      "url": "https://www.courts.maine.gov/courts/family/index.html"
+    },
+    {
+      "text": "Juvenile Court",
+      "url": "https://www.courts.maine.gov/courts/juvenile/index.html"
+    },
+    {
+      "text": "Business & Consumer",
+      "url": "https://www.courts.maine.gov/courts/bcd/index.html"
+    },
+    {
+      "text": "Traffic Violations",
+      "url": "https://www.courts.maine.gov/courts/traffic/index.html"
+    },
+    {
+      "text": "Treatment Courts",
+      "url": "https://www.courts.maine.gov/courts/treatment/index.html"
+    },
+    {
+      "text": "Programs & Services",
+      "url": "https://www.courts.maine.gov/programs/index.html"
+    },
+    {
+      "text": "Court-Appointed Special Advocates (CASA)",
+      "url": "https://www.courts.maine.gov/programs/casa.html"
+    },
+    {
+      "text": "Mediation & Alternative Dispute Resolution (ADR)",
+      "url": "https://www.courts.maine.gov/programs/adr/index.html"
+    },
+    {
+      "text": "ADA Accessibility",
+      "url": "https://www.courts.maine.gov/ada/index.html"
+    },
+    {
+      "text": "Interpreter & Translation Services",
+      "url": "https://www.courts.maine.gov/programs/lep/index.html"
+    },
+    {
+      "text": "Foreclosure Diversion Program",
+      "url": "https://www.courts.maine.gov/programs/fdp/index.html"
+    },
+    {
+      "text": "Court Transcripts",
+      "url": "https://www.courts.maine.gov/programs/oto/index.html"
+    },
+    {
+      "text": "ShareFile",
+      "url": "https://www.courts.maine.gov/courts/sharefile/index.html"
+    },
+    {
+      "text": "Maine eCourts",
+      "url": "https://www.courts.maine.gov/ecourts/index.html"
+    },
+    {
+      "text": "Help",
+      "url": "https://www.courts.maine.gov/help/index.html"
+    },
+    {
+      "text": "Abuse & Harassment",
+      "url": "https://www.courts.maine.gov/help/abuse/index.html"
+    },
+    {
+      "text": "Criminal Cases",
+      "url": "https://www.courts.maine.gov/help/criminal/index.html"
+    },
+    {
+      "text": "Eviction",
+      "url": "https://www.courts.maine.gov/help/eviction/index.html"
+    },
+    {
+      "text": "Divorce & Family Separation",
+      "url": "https://www.courts.maine.gov/courts/family/divorce-separation/index.html"
+    },
+    {
+      "text": "Families & Children",
+      "url": "https://www.courts.maine.gov/courts/family/index.html"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://www.courts.maine.gov/help/small-claims/index.html"
+    },
+    {
+      "text": "Court Records",
+      "url": "https://www.courts.maine.gov/help/records.html"
+    },
+    {
+      "text": "Legal Help & Guides",
+      "url": "https://www.courts.maine.gov/help/legal/index.html"
+    },
+    {
+      "text": "Court Help Videos",
+      "url": "https://www.courts.maine.gov/help/videos.html"
+    },
+    {
+      "text": "More Help Topics",
+      "url": "https://www.courts.maine.gov/help/index.html"
+    },
+    {
+      "text": "Rules & Orders",
+      "url": "https://www.courts.maine.gov/rules/index.html"
+    },
+    {
+      "text": "Court Rules",
+      "url": "https://www.courts.maine.gov/rules/index.html"
+    },
+    {
+      "text": "Proposed & Recommended Rule Amendments",
+      "url": "https://www.courts.maine.gov/rules/proposed.html"
+    },
+    {
+      "text": "Administrative Orders",
+      "url": "https://www.courts.maine.gov/adminorders/index.html"
+    },
+    {
+      "text": "COVID-19",
+      "url": "https://www.courts.maine.gov/covid19/index.html"
+    },
+    {
+      "text": "Forms & Fees",
+      "url": "https://www.courts.maine.gov/forms/index.html"
+    },
+    {
+      "text": "Court Forms",
+      "url": "https://www.courts.maine.gov/forms/index.html"
+    },
+    {
+      "text": "Translated Court Forms",
+      "url": "https://www.courts.maine.gov/forms/translated.html"
+    },
+    {
+      "text": "Court Fees",
+      "url": "https://www.courts.maine.gov/forms/fees.html"
+    },
+    {
+      "text": "Information for...",
+      "url": "https://www.courts.maine.gov/attorneys/index.html"
+    },
+    {
+      "text": "Attorneys",
+      "url": "https://www.courts.maine.gov/attorneys/index.html"
+    },
+    {
+      "text": "Jurors",
+      "url": "https://www.courts.maine.gov/juror/index.html"
+    },
+    {
+      "text": "Guardians ad Litem",
+      "url": "https://www.courts.maine.gov/info/gals.html"
+    },
+    {
+      "text": "Mediators",
+      "url": "https://www.courts.maine.gov/info/mediators.html"
+    },
+    {
+      "text": "Interpreters",
+      "url": "https://www.courts.maine.gov/info/interpreters.html"
+    },
+    {
+      "text": "Students & Teachers",
+      "url": "https://www.courts.maine.gov/info/students.html"
+    },
+    {
+      "text": "News & Opinions",
+      "url": "https://www.courts.maine.gov/news/index.html"
+    },
+    {
+      "text": "News & Announcements",
+      "url": "https://www.courts.maine.gov/news/index.html"
+    },
+    {
+      "text": "High Profile Cases",
+      "url": "https://www.courts.maine.gov/news/high-profile.html"
+    },
+    {
+      "text": "Opinions",
+      "url": "https://www.courts.maine.gov/news/opinions.html"
+    },
+    {
+      "text": "For the Media",
+      "url": "https://www.courts.maine.gov/news/media.html"
+    },
+    {
+      "text": "See Active Alerts",
+      "url": "https://www.courts.maine.gov/courts/alerts.shtml"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.courts.maine.gov/index.html"
+    },
+    {
+      "text": "Abuse & Harassment",
+      "url": "https://www.courts.maine.gov/help/abuse/index.html"
+    },
+    {
+      "text": "Criminal Cases",
+      "url": "https://www.courts.maine.gov/help/criminal/index.html"
+    },
+    {
+      "text": "Eviction",
+      "url": "https://www.courts.maine.gov/help/eviction/index.html"
+    },
+    {
+      "text": "Divorce & Family Separation",
+      "url": "https://www.courts.maine.gov/courts/family/divorce-separation/index.html"
+    },
+    {
+      "text": "Foreclosure",
+      "url": "https://www.courts.maine.gov/help/foreclosure/index.html"
+    },
+    {
+      "text": "Families & Children",
+      "url": "https://www.courts.maine.gov/courts/family/index.html"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://www.courts.maine.gov/help/small-claims/index.html"
+    },
+    {
+      "text": "Legal Help & Guides",
+      "url": "https://www.courts.maine.gov/help/legal/index.html"
+    },
+    {
+      "text": "Court Help Videos",
+      "url": "https://www.courts.maine.gov/help/videos.html"
+    },
+    {
+      "text": "More Help Topics",
+      "url": "https://www.courts.maine.gov/help/index.html"
+    },
+    {
+      "text": "Menu",
+      "url": "https://www.courts.maine.gov/help/small-claims/index.html"
+    },
+    {
+      "text": "Abuse & Harassment",
+      "url": "https://www.courts.maine.gov/help/abuse/index.html"
+    },
+    {
+      "text": "Criminal Cases",
+      "url": "https://www.courts.maine.gov/help/criminal/index.html"
+    },
+    {
+      "text": "Eviction",
+      "url": "https://www.courts.maine.gov/help/eviction/index.html"
+    },
+    {
+      "text": "Divorce & Family Separation",
+      "url": "https://www.courts.maine.gov/courts/family/divorce-separation/index.html"
+    },
+    {
+      "text": "Foreclosure",
+      "url": "https://www.courts.maine.gov/help/foreclosure/index.html"
+    },
+    {
+      "text": "Families & Children",
+      "url": "https://www.courts.maine.gov/courts/family/index.html"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://www.courts.maine.gov/help/small-claims/index.html"
+    },
+    {
+      "text": "Legal Help & Guides",
+      "url": "https://www.courts.maine.gov/help/legal/index.html"
+    },
+    {
+      "text": "Court Help Videos",
+      "url": "https://www.courts.maine.gov/help/videos.html"
+    },
+    {
+      "text": "More Help Topics",
+      "url": "https://www.courts.maine.gov/help/index.html"
+    },
+    {
+      "text": "Maine eCourts page",
+      "url": "https://www.courts.maine.gov/ecourts/index.html"
+    },
+    {
+      "text": "A Guide to Small Claims Cases (2026)",
+      "url": "https://www.courts.maine.gov/help/guides/sc-guide-2026.pdf"
+    },
+    {
+      "text": "Maine Courts Guide & File Start a New Filing Interview",
+      "url": "https://maine.tylertech.cloud/SRL/SRL"
+    },
+    {
+      "text": "",
+      "url": "https://maine.tylerhost.net/SRL/SRL"
+    },
+    {
+      "text": "Statement of Claim (SC-001)",
+      "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=SC-001"
+    },
+    {
+      "text": "See District Court locations.",
+      "url": "https://www.courts.maine.gov/courts/district/index.html"
+    },
+    {
+      "text": "Learn more about mediation",
+      "url": "https://www.courts.maine.gov/programs/adr/index.html"
+    },
+    {
+      "text": "Collecting Money from a Court Judgment",
+      "url": "https://www.courts.maine.gov/help/guides/collecting-money-judgment.pdf"
+    },
+    {
+      "text": "A Guide to Small Claims Cases (2026)",
+      "url": "https://www.courts.maine.gov/help/guides/sc-guide-2026.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://www.courts.maine.gov/forms/index.html"
+    },
+    {
+      "text": "A Guide to Small Claims Cases (2026)",
+      "url": "https://www.courts.maine.gov/help/guides/sc-guide-2026.pdf"
+    },
+    {
+      "text": "An Overview of Small Claims Court (2026)",
+      "url": "https://www.courts.maine.gov/help/guides/sc-brochure-2026.pdf"
+    },
+    {
+      "text": "Collecting Money from a Court Judgment",
+      "url": "https://www.courts.maine.gov/help/guides/collecting-money-judgment.pdf"
+    },
+    {
+      "text": "Sheriff's Offices",
+      "url": "https://www.courts.maine.gov/help/small-claims/sheriffs.html"
+    },
+    {
+      "text": "Court Forms",
+      "url": "https://www.courts.maine.gov/forms/index.html"
+    },
+    {
+      "text": "District Court",
+      "url": "https://www.courts.maine.gov/courts/district/index.html"
+    },
+    {
+      "text": "Legal Help",
+      "url": "https://www.courts.maine.gov/help/legal/index.html"
+    },
+    {
+      "text": "Legal Glossary",
+      "url": "https://www.courts.maine.gov/help/glossary.html"
+    },
+    {
+      "text": "Maine.gov",
+      "url": "https://www.maine.gov/portal/index.html"
+    },
+    {
+      "text": "Legislature Home",
+      "url": "http://legislature.maine.gov/"
+    },
+    {
+      "text": "Maine Statutes",
+      "url": "http://www.mainelegislature.org/legis/statutes/search.htm"
+    },
+    {
+      "text": "Website Accessibility",
+      "url": "https://www.maine.gov/portal/policies/accessibility.html"
+    },
+    {
+      "text": "Document Viewers",
+      "url": "https://www.maine.gov/portal/free-viewers.html"
+    },
+    {
+      "text": "Find a Court",
+      "url": "https://www.courts.maine.gov/courts/find-a-court.html"
+    },
+    {
+      "text": "Schedules & Closings",
+      "url": "https://www.courts.maine.gov/courts/schedules/index.html"
+    },
+    {
+      "text": "Court Rules",
+      "url": "https://www.courts.maine.gov/rules/index.html"
+    },
+    {
+      "text": "Administrative Orders",
+      "url": "https://www.courts.maine.gov/adminorders/index.html"
+    },
+    {
+      "text": "SJC Opinions",
+      "url": "https://www.courts.maine.gov/courts/sjc/opinions.html"
+    },
+    {
+      "text": "Legal Glossary",
+      "url": "https://www.courts.maine.gov/help/glossary.html"
+    },
+    {
+      "text": "Legal Help & Guides",
+      "url": "https://www.courts.maine.gov/help/legal/index.html"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.courts.maine.gov/contact-info.html"
+    },
+    {
+      "text": "Vimeo",
+      "url": "https://vimeo.com/mainejudicialbranch"
+    },
+    {
+      "text": "Website Feedback",
+      "url": "https://www.courts.maine.gov/about/webmaster-form.html"
+    },
+    {
+      "text": "Email Sign Up",
+      "url": "https://www.courts.maine.gov/news/signup.html"
+    },
+    {
+      "text": "Jobs & Clerkships",
+      "url": "https://www.courts.maine.gov/about/jobs.html"
+    },
+    {
+      "text": "AOC Directory",
+      "url": "https://www.courts.maine.gov/about/contact.html"
+    }
+  ]
+}

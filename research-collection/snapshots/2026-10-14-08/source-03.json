@@ -1,0 +1,1800 @@
+{
+  "state": "Delaware",
+  "publisher": "Delaware Department of Health and Social Services",
+  "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "DE-Advanced-Health-Care-Directive\\.9\\.14\\.26\\.pdf",
+      "title": "Advance Health-Care Directive (publisher September 2026 file)",
+      "family_id": "combined-advance-directives",
+      "identity": "ADVANCE HEALTH.CARE DIRECTIVE",
+      "max": 1
+    },
+    {
+      "pattern": "Supported-Decision-Making-Agreement\\.pdf",
+      "title": "Supported Decision-Making Agreement",
+      "family_id": "supported-decision-making-agreement",
+      "identity": "SUPPORTED DECISION.MAKING",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/",
+    "final_url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:39:55.190Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "200ac2d32a1ea8004302c743badaad45b6b1818fc422d3118d76d8026dfb7642",
+    "title": "Advance Directives/Living Wills – DHSS",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/03-delaware-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/",
+      "final_url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:39:55.190Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "200ac2d32a1ea8004302c743badaad45b6b1818fc422d3118d76d8026dfb7642",
+      "title": "Advance Directives/Living Wills – DHSS",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "DE-Advanced-Health-Care-Directive\\.9\\.14\\.26\\.pdf",
+      "title": "Advance Health-Care Directive (publisher September 2026 file)",
+      "family_id": "combined-advance-directives",
+      "identity": "ADVANCE HEALTH.CARE DIRECTIVE",
+      "max": 1,
+      "url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/09/DE-Advanced-Health-Care-Directive.9.14.26.pdf",
+      "link_text": "Advance Health Care Directive Form",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/09/DE-Advanced-Health-Care-Directive.9.14.26.pdf",
+        "final_url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/09/DE-Advanced-Health-Care-Directive.9.14.26.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:39:56.125Z",
+        "etag": "\"6aad4c51-33e33\"",
+        "last_modified": "Fri, 18 Sep 2026 14:36:01 GMT",
+        "content_length": "212531",
+        "sha256": "ae33654db79e39ed7d13fc6ccf9be8fc569289fcfe8e462acf0ec8b8310424a0",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/09/DE-Advanced-Health-Care-Directive.9.14.26.pdf",
+          "final_url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/09/DE-Advanced-Health-Care-Directive.9.14.26.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:39:56.125Z",
+          "etag": "\"6aad4c51-33e33\"",
+          "last_modified": "Fri, 18 Sep 2026 14:36:01 GMT",
+          "content_length": "212531",
+          "sha256": "ae33654db79e39ed7d13fc6ccf9be8fc569289fcfe8e462acf0ec8b8310424a0",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "ae33654db79e39ed7d13fc6ccf9be8fc569289fcfe8e462acf0ec8b8310424a0",
+      "local_archive_path": "archive/2026-10-14-08/03-advance-health-care-directive-publisher-september-2026-file-ae33654db79e.pdf",
+      "bytes": 212531,
+      "text_length": 13973,
+      "pages": 8,
+      "identity_excerpt": "ADVANCE HEALTH-CARE DIRECTIVE OF ADVANCE HEALTH-CARE DIRECTIVE ABOUT THIS FORM: This form is a legal document that lets you name another individual or individuals as your “agent(s)” to make health-care decisions for you if you become incapable of making your own decisions It also allows you to communicate your wishes – ahead of time – regarding your care near the end of life. If desired, you may also make choices about being an organ donor. You can complete all these parts, but each part can stand alone so you do not have to complete every part unless you choose. IMPORTANT: Your agent will not be asked to make any decisions as long as you are capable and can communicate for yourself. You always have the right to give instructions about your own health care if you are able. However, if you do not write down your wishes about your health care in advance, and if you later become unable to understand, make, or communicate those wishes, they may not be honored because they may remain unknown to others. HOW YOU CAN USE THIS FORM: You can use this form if you wish to name someone to make health-care decisions for you in case you cannot make decisions for yourself. This is called giving the person a power of attorney for health care. This person is called your Agent. You can also use this form to state your wishes, preferences, and goals for health care, and to say if you want to be an organ donor after you die. YOUR NAME AND DATE OF BIRTH Name: Date of birth: PART A: NAMING AN AGENT This part lets you name someone else to make health-care decisions for you. You may leave any item blank. 1. Naming an Agent I want the following person to make health-care decisions for me if I cannot make decisions for myself: Name: Optional contact information (it is helpful to include informati",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "Supported-Decision-Making-Agreement\\.pdf",
+      "title": "Supported Decision-Making Agreement",
+      "family_id": "supported-decision-making-agreement",
+      "identity": "SUPPORTED DECISION.MAKING",
+      "max": 1,
+      "url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/06/Resources_Advanced-Directives_Supported-Decision-Making-Agreement.pdf",
+      "link_text": "Delaware’s Supported Decision-Making Agreement Form",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/06/Resources_Advanced-Directives_Supported-Decision-Making-Agreement.pdf",
+        "final_url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/06/Resources_Advanced-Directives_Supported-Decision-Making-Agreement.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:39:56.427Z",
+        "etag": "\"6a2c88be-d04e\"",
+        "last_modified": "Fri, 12 Jun 2026 22:31:26 GMT",
+        "content_length": "53326",
+        "sha256": "ac65c7cb90dee38c1ce1ffe8842c879f4f0f2c95e8e3a801bd73fff8bf12ea43",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/06/Resources_Advanced-Directives_Supported-Decision-Making-Agreement.pdf",
+          "final_url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/06/Resources_Advanced-Directives_Supported-Decision-Making-Agreement.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:39:56.427Z",
+          "etag": "\"6a2c88be-d04e\"",
+          "last_modified": "Fri, 12 Jun 2026 22:31:26 GMT",
+          "content_length": "53326",
+          "sha256": "ac65c7cb90dee38c1ce1ffe8842c879f4f0f2c95e8e3a801bd73fff8bf12ea43",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "ac65c7cb90dee38c1ce1ffe8842c879f4f0f2c95e8e3a801bd73fff8bf12ea43",
+      "local_archive_path": "archive/2026-10-14-08/03-supported-decision-making-agreement-ac65c7cb90de.pdf",
+      "bytes": 53326,
+      "text_length": 8265,
+      "pages": 4,
+      "identity_excerpt": "Page 1 of 4 SUPPORTED DECISION-MAKING AGREEMENT Delaware Code Title 16, Chapter 94A, Section 9401A This form is to be read aloud or otherwise communicated, in the presence of the witnesses and parties to the agreement. The form of communication shall be appropriate to the needs of the individual with the disability, that individual’s language (an interpreter must be present for foreign languages and alternative forms of communication) and sensory processing wants or needs. This form is to be used for the appointment of a person(s) to help me make decisions. A Supported Decision-Making Agreement is a written agreement between me and my appointed person(s). The person(s) I appoint helps me make decisions. My appointed person(s) does not make decisions for me. A Supported Decision-Making Agreement is effective if I am at least 18 years of age and able to understand the nature and effect of this agreement. I can revoke this agreement at any time and with notice to the appointed Supported Decision-Maker(s). This agreement takes effect as soon as it is signed by all the required individuals. This agreement supersedes any other Supported Decision-Making Agreement made by me. This agreement is not durable and would not survive a determination of incapacity under Delaware Code. 1. This is the Supported Decision-Making Agreement of: Name_______________________________________ Date of Birth______________________ Address_______________________________________________________________________ Phone______________________________ Email_______________________________ 2. My Supported Decision-Maker I appoint the following person(s) to be my Supported Decision-Maker(s): Supported Decision-Maker: Name_________________________________________________________________ Address_________________",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#main-content"
+    },
+    {
+      "text": "Skip to navigation",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#main-nav"
+    },
+    {
+      "text": "Skip to footer",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#site-footer"
+    },
+    {
+      "text": "",
+      "url": "https://dhss.delaware.gov/"
+    },
+    {
+      "text": "I need help with...",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Food",
+      "url": "https://dhss.delaware.gov/home/food-security-and-nutrition-assistance/"
+    },
+    {
+      "text": "Shelter",
+      "url": "https://dhss.delaware.gov/home/affordable-housing-and-homeless-prevention/"
+    },
+    {
+      "text": "Emergency Assistance",
+      "url": "https://dhss.delaware.gov/home/emergency-assistance/"
+    },
+    {
+      "text": "Medicaid",
+      "url": "https://dhss.delaware.gov/home/medicaid-and-health-insurance/"
+    },
+    {
+      "text": "Disability Services",
+      "url": "https://dhss.delaware.gov/home/disability-service-and-inclusion/"
+    },
+    {
+      "text": "Elder Care and Aging",
+      "url": "https://dhss.delaware.gov/home/elder-care-and-aging-services/"
+    },
+    {
+      "text": "Child Wellbeing and Family Support",
+      "url": "https://dhss.delaware.gov/home/child-welfare-and-family-support/"
+    },
+    {
+      "text": "Mental Health and Addiction Services",
+      "url": "https://dhss.delaware.gov/home/mental-health-and-addiction-services/"
+    },
+    {
+      "text": "Delaware Health and Social Services",
+      "url": "https://dhss.delaware.gov/"
+    },
+    {
+      "text": "Public Services",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Food Security and Nutrition Assistance",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Congregate Meals",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/congregate-meals/"
+    },
+    {
+      "text": "Home Delivered Meals",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/home-delivered-meals/"
+    },
+    {
+      "text": "SNAP / EBT / Food Stamps",
+      "url": "https://dhss.delaware.gov/dss/divison-of-social-services/snap/"
+    },
+    {
+      "text": "Sun Bucks (Summer EBT)",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/summer-ebt/"
+    },
+    {
+      "text": "Women, Infants, and Children (WIC)",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/imimep/imhome/dhmic/wic/"
+    },
+    {
+      "text": "Food Pantries",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/food-pantries/"
+    },
+    {
+      "text": "Housing and Homelessness Prevention",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Find a shelter bed",
+      "url": "https://delaware211.org/"
+    },
+    {
+      "text": "Motel Vouchers",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/emergency-and-transitional-housing/"
+    },
+    {
+      "text": "Aging and Disability Accommodations",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/home-modification-support/"
+    },
+    {
+      "text": "Weatherization Support",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/"
+    },
+    {
+      "text": "Emergency Assistance",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Delaware 211",
+      "url": "https://delaware211.org/"
+    },
+    {
+      "text": "Food Pantries",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/food-pantries/"
+    },
+    {
+      "text": "Delaware 211",
+      "url": "https://delaware211.org/"
+    },
+    {
+      "text": "Emergency and Transitional Housing",
+      "url": "https://dhss.delaware.gov/dss/divison-of-social-services/emergency-and-transitional-housing/"
+    },
+    {
+      "text": "Motel Voucher Program",
+      "url": "https://dhss.delaware.gov/dss/divison-of-social-services/emergency-and-transitional-housing/#hotelmotel-voucher-program"
+    },
+    {
+      "text": "Delaware 211",
+      "url": "https://delaware211.org/"
+    },
+    {
+      "text": "Low Income Home Energy Assistance Program (LIHEAP)",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/"
+    },
+    {
+      "text": "Winter Heating Assistance",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/"
+    },
+    {
+      "text": "Crisis Assistance – Utilities",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/"
+    },
+    {
+      "text": "Summer Cooling Assistance",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/"
+    },
+    {
+      "text": "Weatherization Assistance Program",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/"
+    },
+    {
+      "text": "General Assistance",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/general-assistance/"
+    },
+    {
+      "text": "Kinship Care",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/child-care-assistance/kinship-care-program/"
+    },
+    {
+      "text": "Refugee Cash Assistance",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/cash-assistance/refugee-cash-assistance/"
+    },
+    {
+      "text": "Temporary Assistance for Needy Families (TANF)",
+      "url": "https://dhss.delaware.gov/dss/divison-of-social-services/temporary-assistance-for-needy-families-tanf/"
+    },
+    {
+      "text": "Medicaid and Health Insurance",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Diamond State Health Plan",
+      "url": "https://dhss.delaware.gov/dmma/home/dshpplus/"
+    },
+    {
+      "text": "Diamond State Health Plan Plus",
+      "url": "https://dhss.delaware.gov/dmma/home/medicaid/dshp-plus/"
+    },
+    {
+      "text": "Long-Term Care Medicaid Programs",
+      "url": "https://dhss.delaware.gov/dmma/home/services/long-term-care-medicaid-programs/"
+    },
+    {
+      "text": "Adult Dental Services",
+      "url": "https://dhss.delaware.gov/dmma/home/medicaid/adult-dental-services/"
+    },
+    {
+      "text": "Medicaid for Workers with Disabilities Program",
+      "url": "https://dhss.delaware.gov/dmma/home/medicaid/medicaid-for-workers-with-disabilities-program/"
+    },
+    {
+      "text": "Chronic Renal Disease Program",
+      "url": "https://dhss.delaware.gov/dmma/home/services/crdp/"
+    },
+    {
+      "text": "Children with Medical Complexity",
+      "url": "https://dhss.delaware.gov/dmma/home/medicaid/children-with-medical-complexity/"
+    },
+    {
+      "text": "Breast and Cervical Cancer Screening Program",
+      "url": "https://dhss.delaware.gov/dmma/home/medicaid/breast-and-cervical-screening-program/"
+    },
+    {
+      "text": "Delaware Healthy Children Program (CHIP)",
+      "url": "https://dhss.delaware.gov/dmma/home/services/dhcp/"
+    },
+    {
+      "text": "Medical Transportation Program",
+      "url": "https://dhss.delaware.gov/dmma/home/medical-transportation/"
+    },
+    {
+      "text": "Qualified Medicare Beneficiary Programs",
+      "url": "https://dhss.delaware.gov/dmma/home/qmb/"
+    },
+    {
+      "text": "Delaware Prescription Assistance Program",
+      "url": "https://dhss.delaware.gov/dmma/home/dpap/"
+    },
+    {
+      "text": "Delaware Medicaid Eligibility",
+      "url": "https://dhss.delaware.gov/dmma/home/medicaid/delaware-medicaid-eligibility/"
+    },
+    {
+      "text": "Medicaid ENGAGE",
+      "url": "https://dhss.delaware.gov/dmma/home/medicaid-engage/"
+    },
+    {
+      "text": "Disability Services and Inclusion",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Education Services",
+      "url": "https://dhss.delaware.gov/dvi/division-for-the-visually-impaired/education-services-for-children-with-visual-impairments/"
+    },
+    {
+      "text": "Employment Support",
+      "url": "https://dhss.delaware.gov/dvi/division-for-the-visually-impaired/employment-job-support-programs/"
+    },
+    {
+      "text": "Independent Living Services",
+      "url": "https://dhss.delaware.gov/dvi/division-for-the-visually-impaired/independent-living-services/"
+    },
+    {
+      "text": "Low Vision Program",
+      "url": "https://dhss.delaware.gov/dvi/division-for-the-visually-impaired/low-vision-program/"
+    },
+    {
+      "text": "Orientation/Mobility Program",
+      "url": "https://dhss.delaware.gov/dvi/division-for-the-visually-impaired/orientation-and-mobility-support/"
+    },
+    {
+      "text": "Technology Training Services",
+      "url": "https://dhss.delaware.gov/dvi/division-for-the-visually-impaired/technology-training-services/"
+    },
+    {
+      "text": "Supported Living",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/assisted-living-and-long-term-care-options/"
+    },
+    {
+      "text": "Home and Community Based Services",
+      "url": "https://dhss.delaware.gov/ddds/homepage/services/"
+    },
+    {
+      "text": "Pathways to Employment",
+      "url": "https://dhss.delaware.gov/ddds/homepage/services/pathways-to-employment/"
+    },
+    {
+      "text": "Caregiver Support",
+      "url": "https://dhss.delaware.gov/ddds/homepage/family-caregiver-resources/"
+    },
+    {
+      "text": "Respite",
+      "url": "https://dhss.delaware.gov/ddds/homepage/family-caregiver-resources/respite/"
+    },
+    {
+      "text": "Stockley Center",
+      "url": "https://dhss.delaware.gov/ddds/homepage/stockley/"
+    },
+    {
+      "text": "Aging and Disabilities Resource Center (ADRC)",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/adrc/"
+    },
+    {
+      "text": "Adult Day Services",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/community-based-day-programs/"
+    },
+    {
+      "text": "In-home Support",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/in-home-support-to-help-you-live-independently/"
+    },
+    {
+      "text": "Congregate Meals",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/congregate-meals/"
+    },
+    {
+      "text": "Home Delivered Meals",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/home-delivered-meals/"
+    },
+    {
+      "text": "Delaware Hospital for the Chronically Ill",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/dhci/"
+    },
+    {
+      "text": "Elder Care and Aging Services",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Medical Power of Attorney",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/forms-and-publications/"
+    },
+    {
+      "text": "Delaware Medical Scope of Treatment (DMOST)",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/forms-and-publications/"
+    },
+    {
+      "text": "Aging and Disabilities Resource Center (ADRC)",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/adrc/"
+    },
+    {
+      "text": "Choosing the Right Long-Term Care Facility",
+      "url": "https://dhss.delaware.gov/dhcq/how-to-pick-a-long-term-care-facility/"
+    },
+    {
+      "text": "Adult Protective Services",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/adult-protective-services/"
+    },
+    {
+      "text": "Adult Abuse Registry",
+      "url": "https://dhss.delaware.gov/dhcq/dhcq/adult-abuse-registry/"
+    },
+    {
+      "text": "State Long Term Care Ombudsman Program",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/long-term-care-ombudsman-program/"
+    },
+    {
+      "text": "",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Licensed Assisted Living Facilities",
+      "url": "https://dhss.delaware.gov/dhcq/dhcq/licensed-assisted-living-facilities/"
+    },
+    {
+      "text": "Licensed Skilled Nursing Homes",
+      "url": "https://dhss.delaware.gov/dhcq/dhcq/licensed-nursing-homes/"
+    },
+    {
+      "text": "File a Complaint or Report Abuse",
+      "url": "https://dhss.delaware.gov/dhcq/dhcq/report-abuse/"
+    },
+    {
+      "text": "Certified Nurse Assistance (CNA) Registry",
+      "url": "https://dhss.delaware.gov/dhcq/dhcq/cna-registry/"
+    },
+    {
+      "text": "Children and Families",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Kinship Care",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/child-care-assistance/kinship-care-program/"
+    },
+    {
+      "text": "Grandparent Resources",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/support-for-caregivers/"
+    },
+    {
+      "text": "Apply for Child Support",
+      "url": "https://dhss.delaware.gov/dcss/division-of-child-support-services/child-support/"
+    },
+    {
+      "text": "Modify Existing Child Support Orders",
+      "url": "https://dhss.delaware.gov/dcss/division-of-child-support-services/modification-of-existing-child-support-orders/"
+    },
+    {
+      "text": "Establish Paternity / Parentage",
+      "url": "https://dhss.delaware.gov/dcss/division-of-child-support-services/paternity-parentage-establishment/"
+    },
+    {
+      "text": "Medical Support",
+      "url": "https://dhss.delaware.gov/dcss/division-of-child-support-services/medical-support/"
+    },
+    {
+      "text": "Employer Resources",
+      "url": "https://dhss.delaware.gov/dcss/division-of-child-support-services/employers/"
+    },
+    {
+      "text": "Child Care / Purchase of Care",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/child-care-assistance/"
+    },
+    {
+      "text": "WIC Supplemental Nutrition Program",
+      "url": "https://delaware.wicresources.org/"
+    },
+    {
+      "text": "WIC Client Portal",
+      "url": "https://wicclientportal.dhss.delaware.gov/"
+    },
+    {
+      "text": "Birth to Three Program",
+      "url": "https://www.b23de.org/"
+    },
+    {
+      "text": "Mental Health & Addiction Services",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Crisis Hotlines, Mobile Crisis Intervention and Recovery Response Centers",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/crisis-intervention/crisis-response/"
+    },
+    {
+      "text": "Help is Here / 988 Suicide & Crisis Lifeline",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/crisis-intervention/help-is-here/"
+    },
+    {
+      "text": "Overdose Response Center",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/crisis-intervention/overdose-response-center/"
+    },
+    {
+      "text": "Addiction Treatment Programs",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/publicly-funded-addiction-treatment-programs/"
+    },
+    {
+      "text": "Bridge Clinics",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/bridge-clinics/"
+    },
+    {
+      "text": "Community Resources Directory",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/community-resources/"
+    },
+    {
+      "text": "DUI Rehab Programs",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/dui-rehabilitation-programs/"
+    },
+    {
+      "text": "Harm-Reduction Vending Machines",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/harm-reduction-vending-machines/"
+    },
+    {
+      "text": "Naloxone (Narcan)",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/narcan/"
+    },
+    {
+      "text": "Restaurant Accolade Program",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/restaurant-accolade-program/"
+    },
+    {
+      "text": "Treatment Access Center",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/court-programs/treatment-access-center/"
+    },
+    {
+      "text": "Treatment Connection",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/treatment-connection/"
+    },
+    {
+      "text": "Delaware Psychiatric Center",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/delaware-psychiatric-center/"
+    },
+    {
+      "text": "Addiction Treatment Resource Center",
+      "url": "https://atrc.dhss.delaware.gov/"
+    },
+    {
+      "text": "DTRN360",
+      "url": "https://www.helpisherede.com/health-care-providers/dtrn360"
+    },
+    {
+      "text": "Public Health Programs",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Community Health Clinics",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/community-health/"
+    },
+    {
+      "text": "Emergency Preparedness",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/emsps/"
+    },
+    {
+      "text": "Rural Health Transformation Program",
+      "url": "https://dhss.delaware.gov/dph/rural-health-transformation-program/"
+    },
+    {
+      "text": "Licenses and Permits",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/hsp/licenses-and-permits/"
+    },
+    {
+      "text": "Vaccines",
+      "url": "https://dhss.delaware.gov/dph/vaccines/"
+    },
+    {
+      "text": "Infant Mortality Program",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/imimep/"
+    },
+    {
+      "text": "Newborn Hearing Screening Program",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/newborn-screening-program/newborn-hearing-screening-program/"
+    },
+    {
+      "text": "School-Based Health Centers",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/school-based-health-centers/"
+    },
+    {
+      "text": "Women, Infants and Children Program (WIC)",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/imimep/imhome/dhmic/wic/"
+    },
+    {
+      "text": "Animal Abuse Registry",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/oaw/animal-abuse-registry-list/"
+    },
+    {
+      "text": "Report Animal Cruelty",
+      "url": "https://animalservices.delaware.gov/report_violation/25"
+    },
+    {
+      "text": "Dog Licenses",
+      "url": "https://animalservices.delaware.gov/detail/19"
+    },
+    {
+      "text": "Spay & Neuter Program",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/oaw/spay-neuter/"
+    },
+    {
+      "text": "Rabies Information",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/ehdishome/epi/rabies/"
+    },
+    {
+      "text": "Health Alerts",
+      "url": "https://publichealthalerts.delaware.gov/"
+    },
+    {
+      "text": "My Healthy Community Open Data Portal",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/health-data-stats/my-healthy-community/"
+    },
+    {
+      "text": "Standing Orders",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/standing-orders/"
+    },
+    {
+      "text": "State Health Improvement Plan",
+      "url": "https://delawareship.org/"
+    },
+    {
+      "text": "Birth, Adoption, Marriage & Death Certificates",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/ehdishome/vitalstats/"
+    },
+    {
+      "text": "DelVAX Public Vaccination Portal",
+      "url": "https://delvax.dhss.delaware.gov/delvax/login.aspx"
+    },
+    {
+      "text": "About DHSS",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "List of Divisions",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Division of Child Support Services (DCSS)",
+      "url": "https://dhss.delaware.gov/dcss/"
+    },
+    {
+      "text": "Division of Developmental Disabilities Services (DDDS)",
+      "url": "https://dhss.delaware.gov/ddds/"
+    },
+    {
+      "text": "Division of Health Care Quality (DHCQ)",
+      "url": "https://dhss.delaware.gov/dhcq/"
+    },
+    {
+      "text": "Division of Medicaid & Medical Assistance (DMMA)",
+      "url": "https://dhss.delaware.gov/dmma/"
+    },
+    {
+      "text": "Division of Public Health (DPH)",
+      "url": "https://dhss.delaware.gov/dph/"
+    },
+    {
+      "text": "Division of Services for Aging and Adults with Physical Disabilities (DSAAPD)",
+      "url": "https://dhss.delaware.gov/dsaapd/"
+    },
+    {
+      "text": "Division of Social Services (DSS)",
+      "url": "https://dhss.delaware.gov/dss/"
+    },
+    {
+      "text": "Division of Substance Abuse & Mental Health (DSAMH)",
+      "url": "https://dhss.delaware.gov/dsamh/"
+    },
+    {
+      "text": "Division for the Visually Impaired (DVI)",
+      "url": "https://dhss.delaware.gov/dvi/"
+    },
+    {
+      "text": "Division Leadership",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/division-leadership/"
+    },
+    {
+      "text": "Office of the Secretary",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Learn about DHSS",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/"
+    },
+    {
+      "text": "Office of the Secretary Administration",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/office-of-the-secretary-administration/"
+    },
+    {
+      "text": "Long-Term Care Ombudsman Program",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/long-term-care-ombudsman-program/"
+    },
+    {
+      "text": "Freedom of Information Act (FOIA)",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/foia/"
+    },
+    {
+      "text": "Publications, Reports and Presentations",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/publications/"
+    },
+    {
+      "text": "Meeting and Event Calendars",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "DHSS Office of the Secretary",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=186"
+    },
+    {
+      "text": "Office of the Secretary – Administration",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=123"
+    },
+    {
+      "text": "Division of Developmental Disabilities Services",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=20"
+    },
+    {
+      "text": "Delaware Health Care Commission",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=81"
+    },
+    {
+      "text": "Delaware Health Fund Advisory Committee",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=60"
+    },
+    {
+      "text": "Division of Long-Term Care Residents Protection",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=88"
+    },
+    {
+      "text": "Division of Medicaid & Medical Assistance",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=41"
+    },
+    {
+      "text": "Division of Public Health",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=11"
+    },
+    {
+      "text": "Division of Services for Aging & Adults with Physical Disabilities",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=133"
+    },
+    {
+      "text": "Division of Social Services",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=86"
+    },
+    {
+      "text": "Division of State Service Centers",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=99"
+    },
+    {
+      "text": "Division of Substance Abuse & Mental Health",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=167"
+    },
+    {
+      "text": "Division for the Visually Impaired",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=68"
+    },
+    {
+      "text": "Resources",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Boards & Commissions",
+      "url": "https://governor.delaware.gov/boards-and-commissions/board-department/?id=a068y0000010EPUAA2"
+    },
+    {
+      "text": "DHSS Regulations",
+      "url": "https://regulations.delaware.gov/AdminCode/title16"
+    },
+    {
+      "text": "Delaware Health Care Commission",
+      "url": "https://dhss.delaware.gov/home/dhcc/"
+    },
+    {
+      "text": "Find a State Service Center",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/state-service-centers/"
+    },
+    {
+      "text": "Contact DHSS",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/contact/"
+    },
+    {
+      "text": "Newsroom",
+      "url": "https://dhss.delaware.gov/rss-news/"
+    },
+    {
+      "text": "Apply/Manage Benefits (ASSIST)",
+      "url": "https://assist.dhss.delaware.gov/"
+    },
+    {
+      "text": "",
+      "url": "https://dhss.delaware.gov/"
+    },
+    {
+      "text": "Delaware Health and Social Services",
+      "url": "https://dhss.delaware.gov/"
+    },
+    {
+      "text": "Public Services",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Food Security and Nutrition Assistance",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Congregate Meals",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/congregate-meals/"
+    },
+    {
+      "text": "Home Delivered Meals",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/home-delivered-meals/"
+    },
+    {
+      "text": "SNAP / EBT / Food Stamps",
+      "url": "https://dhss.delaware.gov/dss/divison-of-social-services/snap/"
+    },
+    {
+      "text": "Sun Bucks (Summer EBT)",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/summer-ebt/"
+    },
+    {
+      "text": "Women, Infants, and Children (WIC)",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/imimep/imhome/dhmic/wic/"
+    },
+    {
+      "text": "Food Pantries",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/food-pantries/"
+    },
+    {
+      "text": "Housing and Homelessness Prevention",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Find a shelter bed",
+      "url": "https://delaware211.org/"
+    },
+    {
+      "text": "Motel Vouchers",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/emergency-and-transitional-housing/"
+    },
+    {
+      "text": "Aging and Disability Accommodations",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/home-modification-support/"
+    },
+    {
+      "text": "Weatherization Support",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/"
+    },
+    {
+      "text": "Emergency Assistance",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Delaware 211",
+      "url": "https://delaware211.org/"
+    },
+    {
+      "text": "Food Pantries",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/food-pantries/"
+    },
+    {
+      "text": "Delaware 211",
+      "url": "https://delaware211.org/"
+    },
+    {
+      "text": "Emergency and Transitional Housing",
+      "url": "https://dhss.delaware.gov/dss/divison-of-social-services/emergency-and-transitional-housing/"
+    },
+    {
+      "text": "Motel Voucher Program",
+      "url": "https://dhss.delaware.gov/dss/divison-of-social-services/emergency-and-transitional-housing/#hotelmotel-voucher-program"
+    },
+    {
+      "text": "Delaware 211",
+      "url": "https://delaware211.org/"
+    },
+    {
+      "text": "Low Income Home Energy Assistance Program (LIHEAP)",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/"
+    },
+    {
+      "text": "Winter Heating Assistance",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/"
+    },
+    {
+      "text": "Crisis Assistance – Utilities",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/"
+    },
+    {
+      "text": "Summer Cooling Assistance",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/"
+    },
+    {
+      "text": "Weatherization Assistance Program",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/utility-assistance/"
+    },
+    {
+      "text": "General Assistance",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/general-assistance/"
+    },
+    {
+      "text": "Kinship Care",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/child-care-assistance/kinship-care-program/"
+    },
+    {
+      "text": "Refugee Cash Assistance",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/cash-assistance/refugee-cash-assistance/"
+    },
+    {
+      "text": "Temporary Assistance for Needy Families (TANF)",
+      "url": "https://dhss.delaware.gov/dss/divison-of-social-services/temporary-assistance-for-needy-families-tanf/"
+    },
+    {
+      "text": "Medicaid and Health Insurance",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Diamond State Health Plan",
+      "url": "https://dhss.delaware.gov/dmma/home/dshpplus/"
+    },
+    {
+      "text": "Diamond State Health Plan Plus",
+      "url": "https://dhss.delaware.gov/dmma/home/medicaid/dshp-plus/"
+    },
+    {
+      "text": "Long-Term Care Medicaid Programs",
+      "url": "https://dhss.delaware.gov/dmma/home/services/long-term-care-medicaid-programs/"
+    },
+    {
+      "text": "Adult Dental Services",
+      "url": "https://dhss.delaware.gov/dmma/home/medicaid/adult-dental-services/"
+    },
+    {
+      "text": "Medicaid for Workers with Disabilities Program",
+      "url": "https://dhss.delaware.gov/dmma/home/medicaid/medicaid-for-workers-with-disabilities-program/"
+    },
+    {
+      "text": "Chronic Renal Disease Program",
+      "url": "https://dhss.delaware.gov/dmma/home/services/crdp/"
+    },
+    {
+      "text": "Children with Medical Complexity",
+      "url": "https://dhss.delaware.gov/dmma/home/medicaid/children-with-medical-complexity/"
+    },
+    {
+      "text": "Breast and Cervical Cancer Screening Program",
+      "url": "https://dhss.delaware.gov/dmma/home/medicaid/breast-and-cervical-screening-program/"
+    },
+    {
+      "text": "Delaware Healthy Children Program (CHIP)",
+      "url": "https://dhss.delaware.gov/dmma/home/services/dhcp/"
+    },
+    {
+      "text": "Medical Transportation Program",
+      "url": "https://dhss.delaware.gov/dmma/home/medical-transportation/"
+    },
+    {
+      "text": "Qualified Medicare Beneficiary Programs",
+      "url": "https://dhss.delaware.gov/dmma/home/qmb/"
+    },
+    {
+      "text": "Delaware Prescription Assistance Program",
+      "url": "https://dhss.delaware.gov/dmma/home/dpap/"
+    },
+    {
+      "text": "Delaware Medicaid Eligibility",
+      "url": "https://dhss.delaware.gov/dmma/home/medicaid/delaware-medicaid-eligibility/"
+    },
+    {
+      "text": "Medicaid ENGAGE",
+      "url": "https://dhss.delaware.gov/dmma/home/medicaid-engage/"
+    },
+    {
+      "text": "Disability Services and Inclusion",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Education Services",
+      "url": "https://dhss.delaware.gov/dvi/division-for-the-visually-impaired/education-services-for-children-with-visual-impairments/"
+    },
+    {
+      "text": "Employment Support",
+      "url": "https://dhss.delaware.gov/dvi/division-for-the-visually-impaired/employment-job-support-programs/"
+    },
+    {
+      "text": "Independent Living Services",
+      "url": "https://dhss.delaware.gov/dvi/division-for-the-visually-impaired/independent-living-services/"
+    },
+    {
+      "text": "Low Vision Program",
+      "url": "https://dhss.delaware.gov/dvi/division-for-the-visually-impaired/low-vision-program/"
+    },
+    {
+      "text": "Orientation/Mobility Program",
+      "url": "https://dhss.delaware.gov/dvi/division-for-the-visually-impaired/orientation-and-mobility-support/"
+    },
+    {
+      "text": "Technology Training Services",
+      "url": "https://dhss.delaware.gov/dvi/division-for-the-visually-impaired/technology-training-services/"
+    },
+    {
+      "text": "Supported Living",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/assisted-living-and-long-term-care-options/"
+    },
+    {
+      "text": "Home and Community Based Services",
+      "url": "https://dhss.delaware.gov/ddds/homepage/services/"
+    },
+    {
+      "text": "Pathways to Employment",
+      "url": "https://dhss.delaware.gov/ddds/homepage/services/pathways-to-employment/"
+    },
+    {
+      "text": "Caregiver Support",
+      "url": "https://dhss.delaware.gov/ddds/homepage/family-caregiver-resources/"
+    },
+    {
+      "text": "Respite",
+      "url": "https://dhss.delaware.gov/ddds/homepage/family-caregiver-resources/respite/"
+    },
+    {
+      "text": "Stockley Center",
+      "url": "https://dhss.delaware.gov/ddds/homepage/stockley/"
+    },
+    {
+      "text": "Aging and Disabilities Resource Center (ADRC)",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/adrc/"
+    },
+    {
+      "text": "Adult Day Services",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/community-based-day-programs/"
+    },
+    {
+      "text": "In-home Support",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/in-home-support-to-help-you-live-independently/"
+    },
+    {
+      "text": "Congregate Meals",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/congregate-meals/"
+    },
+    {
+      "text": "Home Delivered Meals",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/home-delivered-meals/"
+    },
+    {
+      "text": "Delaware Hospital for the Chronically Ill",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/dhci/"
+    },
+    {
+      "text": "Elder Care and Aging Services",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Medical Power of Attorney",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/forms-and-publications/"
+    },
+    {
+      "text": "Delaware Medical Scope of Treatment (DMOST)",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/forms-and-publications/"
+    },
+    {
+      "text": "Aging and Disabilities Resource Center (ADRC)",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/adrc/"
+    },
+    {
+      "text": "Choosing the Right Long-Term Care Facility",
+      "url": "https://dhss.delaware.gov/dhcq/how-to-pick-a-long-term-care-facility/"
+    },
+    {
+      "text": "Adult Protective Services",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/adult-protective-services/"
+    },
+    {
+      "text": "Adult Abuse Registry",
+      "url": "https://dhss.delaware.gov/dhcq/dhcq/adult-abuse-registry/"
+    },
+    {
+      "text": "State Long Term Care Ombudsman Program",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/long-term-care-ombudsman-program/"
+    },
+    {
+      "text": "",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Licensed Assisted Living Facilities",
+      "url": "https://dhss.delaware.gov/dhcq/dhcq/licensed-assisted-living-facilities/"
+    },
+    {
+      "text": "Licensed Skilled Nursing Homes",
+      "url": "https://dhss.delaware.gov/dhcq/dhcq/licensed-nursing-homes/"
+    },
+    {
+      "text": "File a Complaint or Report Abuse",
+      "url": "https://dhss.delaware.gov/dhcq/dhcq/report-abuse/"
+    },
+    {
+      "text": "Certified Nurse Assistance (CNA) Registry",
+      "url": "https://dhss.delaware.gov/dhcq/dhcq/cna-registry/"
+    },
+    {
+      "text": "Children and Families",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Kinship Care",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/child-care-assistance/kinship-care-program/"
+    },
+    {
+      "text": "Grandparent Resources",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/support-for-caregivers/"
+    },
+    {
+      "text": "Apply for Child Support",
+      "url": "https://dhss.delaware.gov/dcss/division-of-child-support-services/child-support/"
+    },
+    {
+      "text": "Modify Existing Child Support Orders",
+      "url": "https://dhss.delaware.gov/dcss/division-of-child-support-services/modification-of-existing-child-support-orders/"
+    },
+    {
+      "text": "Establish Paternity / Parentage",
+      "url": "https://dhss.delaware.gov/dcss/division-of-child-support-services/paternity-parentage-establishment/"
+    },
+    {
+      "text": "Medical Support",
+      "url": "https://dhss.delaware.gov/dcss/division-of-child-support-services/medical-support/"
+    },
+    {
+      "text": "Employer Resources",
+      "url": "https://dhss.delaware.gov/dcss/division-of-child-support-services/employers/"
+    },
+    {
+      "text": "Child Care / Purchase of Care",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/child-care-assistance/"
+    },
+    {
+      "text": "WIC Supplemental Nutrition Program",
+      "url": "https://delaware.wicresources.org/"
+    },
+    {
+      "text": "WIC Client Portal",
+      "url": "https://wicclientportal.dhss.delaware.gov/"
+    },
+    {
+      "text": "Birth to Three Program",
+      "url": "https://www.b23de.org/"
+    },
+    {
+      "text": "Mental Health & Addiction Services",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Crisis Hotlines, Mobile Crisis Intervention and Recovery Response Centers",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/crisis-intervention/crisis-response/"
+    },
+    {
+      "text": "Help is Here / 988 Suicide & Crisis Lifeline",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/crisis-intervention/help-is-here/"
+    },
+    {
+      "text": "Overdose Response Center",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/crisis-intervention/overdose-response-center/"
+    },
+    {
+      "text": "Addiction Treatment Programs",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/publicly-funded-addiction-treatment-programs/"
+    },
+    {
+      "text": "Bridge Clinics",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/bridge-clinics/"
+    },
+    {
+      "text": "Community Resources Directory",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/community-resources/"
+    },
+    {
+      "text": "DUI Rehab Programs",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/dui-rehabilitation-programs/"
+    },
+    {
+      "text": "Harm-Reduction Vending Machines",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/harm-reduction-vending-machines/"
+    },
+    {
+      "text": "Naloxone (Narcan)",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/narcan/"
+    },
+    {
+      "text": "Restaurant Accolade Program",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/restaurant-accolade-program/"
+    },
+    {
+      "text": "Treatment Access Center",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/court-programs/treatment-access-center/"
+    },
+    {
+      "text": "Treatment Connection",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/treatment-connection/"
+    },
+    {
+      "text": "Delaware Psychiatric Center",
+      "url": "https://dhss.delaware.gov/dsamh/division-of-substance-abuse-and-mental-health/delaware-psychiatric-center/"
+    },
+    {
+      "text": "Addiction Treatment Resource Center",
+      "url": "https://atrc.dhss.delaware.gov/"
+    },
+    {
+      "text": "DTRN360",
+      "url": "https://www.helpisherede.com/health-care-providers/dtrn360"
+    },
+    {
+      "text": "Public Health Programs",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Community Health Clinics",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/community-health/"
+    },
+    {
+      "text": "Emergency Preparedness",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/emsps/"
+    },
+    {
+      "text": "Rural Health Transformation Program",
+      "url": "https://dhss.delaware.gov/dph/rural-health-transformation-program/"
+    },
+    {
+      "text": "Licenses and Permits",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/hsp/licenses-and-permits/"
+    },
+    {
+      "text": "Vaccines",
+      "url": "https://dhss.delaware.gov/dph/vaccines/"
+    },
+    {
+      "text": "Infant Mortality Program",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/imimep/"
+    },
+    {
+      "text": "Newborn Hearing Screening Program",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/newborn-screening-program/newborn-hearing-screening-program/"
+    },
+    {
+      "text": "School-Based Health Centers",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/school-based-health-centers/"
+    },
+    {
+      "text": "Women, Infants and Children Program (WIC)",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/imimep/imhome/dhmic/wic/"
+    },
+    {
+      "text": "Animal Abuse Registry",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/oaw/animal-abuse-registry-list/"
+    },
+    {
+      "text": "Report Animal Cruelty",
+      "url": "https://animalservices.delaware.gov/report_violation/25"
+    },
+    {
+      "text": "Dog Licenses",
+      "url": "https://animalservices.delaware.gov/detail/19"
+    },
+    {
+      "text": "Spay & Neuter Program",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/oaw/spay-neuter/"
+    },
+    {
+      "text": "Rabies Information",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/ehdishome/epi/rabies/"
+    },
+    {
+      "text": "Health Alerts",
+      "url": "https://publichealthalerts.delaware.gov/"
+    },
+    {
+      "text": "My Healthy Community Open Data Portal",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/health-data-stats/my-healthy-community/"
+    },
+    {
+      "text": "Standing Orders",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/standing-orders/"
+    },
+    {
+      "text": "State Health Improvement Plan",
+      "url": "https://delawareship.org/"
+    },
+    {
+      "text": "Birth, Adoption, Marriage & Death Certificates",
+      "url": "https://dhss.delaware.gov/dph/homepage/about/sections/ehdishome/vitalstats/"
+    },
+    {
+      "text": "DelVAX Public Vaccination Portal",
+      "url": "https://delvax.dhss.delaware.gov/delvax/login.aspx"
+    },
+    {
+      "text": "About DHSS",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "List of Divisions",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Division of Child Support Services (DCSS)",
+      "url": "https://dhss.delaware.gov/dcss/"
+    },
+    {
+      "text": "Division of Developmental Disabilities Services (DDDS)",
+      "url": "https://dhss.delaware.gov/ddds/"
+    },
+    {
+      "text": "Division of Health Care Quality (DHCQ)",
+      "url": "https://dhss.delaware.gov/dhcq/"
+    },
+    {
+      "text": "Division of Medicaid & Medical Assistance (DMMA)",
+      "url": "https://dhss.delaware.gov/dmma/"
+    },
+    {
+      "text": "Division of Public Health (DPH)",
+      "url": "https://dhss.delaware.gov/dph/"
+    },
+    {
+      "text": "Division of Services for Aging and Adults with Physical Disabilities (DSAAPD)",
+      "url": "https://dhss.delaware.gov/dsaapd/"
+    },
+    {
+      "text": "Division of Social Services (DSS)",
+      "url": "https://dhss.delaware.gov/dss/"
+    },
+    {
+      "text": "Division of Substance Abuse & Mental Health (DSAMH)",
+      "url": "https://dhss.delaware.gov/dsamh/"
+    },
+    {
+      "text": "Division for the Visually Impaired (DVI)",
+      "url": "https://dhss.delaware.gov/dvi/"
+    },
+    {
+      "text": "Division Leadership",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/division-leadership/"
+    },
+    {
+      "text": "Office of the Secretary",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Learn about DHSS",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/"
+    },
+    {
+      "text": "Office of the Secretary Administration",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/office-of-the-secretary-administration/"
+    },
+    {
+      "text": "Long-Term Care Ombudsman Program",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/long-term-care-ombudsman-program/"
+    },
+    {
+      "text": "Freedom of Information Act (FOIA)",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/foia/"
+    },
+    {
+      "text": "Publications, Reports and Presentations",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/publications/"
+    },
+    {
+      "text": "Meeting and Event Calendars",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "DHSS Office of the Secretary",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=186"
+    },
+    {
+      "text": "Office of the Secretary – Administration",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=123"
+    },
+    {
+      "text": "Division of Developmental Disabilities Services",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=20"
+    },
+    {
+      "text": "Delaware Health Care Commission",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=81"
+    },
+    {
+      "text": "Delaware Health Fund Advisory Committee",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=60"
+    },
+    {
+      "text": "Division of Long-Term Care Residents Protection",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=88"
+    },
+    {
+      "text": "Division of Medicaid & Medical Assistance",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=41"
+    },
+    {
+      "text": "Division of Public Health",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=11"
+    },
+    {
+      "text": "Division of Services for Aging & Adults with Physical Disabilities",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=133"
+    },
+    {
+      "text": "Division of Social Services",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=86"
+    },
+    {
+      "text": "Division of State Service Centers",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=99"
+    },
+    {
+      "text": "Division of Substance Abuse & Mental Health",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=167"
+    },
+    {
+      "text": "Division for the Visually Impaired",
+      "url": "https://publicmeetings.delaware.gov/Search/?AgencyID=68"
+    },
+    {
+      "text": "Resources",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Boards & Commissions",
+      "url": "https://governor.delaware.gov/boards-and-commissions/board-department/?id=a068y0000010EPUAA2"
+    },
+    {
+      "text": "DHSS Regulations",
+      "url": "https://regulations.delaware.gov/AdminCode/title16"
+    },
+    {
+      "text": "Delaware Health Care Commission",
+      "url": "https://dhss.delaware.gov/home/dhcc/"
+    },
+    {
+      "text": "Find a State Service Center",
+      "url": "https://dhss.delaware.gov/dss/division-of-social-services/state-service-centers/"
+    },
+    {
+      "text": "Contact DHSS",
+      "url": "https://dhss.delaware.gov/office-of-the-secretary/contact/"
+    },
+    {
+      "text": "Newsroom",
+      "url": "https://dhss.delaware.gov/rss-news/"
+    },
+    {
+      "text": "Apply/Manage Benefits (ASSIST)",
+      "url": "https://assist.dhss.delaware.gov/"
+    },
+    {
+      "text": "I need help with...",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Food",
+      "url": "https://dhss.delaware.gov/home/food-security-and-nutrition-assistance/"
+    },
+    {
+      "text": "Shelter",
+      "url": "https://dhss.delaware.gov/home/affordable-housing-and-homeless-prevention/"
+    },
+    {
+      "text": "Emergency Assistance",
+      "url": "https://dhss.delaware.gov/home/emergency-assistance/"
+    },
+    {
+      "text": "Medicaid",
+      "url": "https://dhss.delaware.gov/home/medicaid-and-health-insurance/"
+    },
+    {
+      "text": "Disability Services",
+      "url": "https://dhss.delaware.gov/home/disability-service-and-inclusion/"
+    },
+    {
+      "text": "Elder Care and Aging",
+      "url": "https://dhss.delaware.gov/home/elder-care-and-aging-services/"
+    },
+    {
+      "text": "Child Wellbeing and Family Support",
+      "url": "https://dhss.delaware.gov/home/child-welfare-and-family-support/"
+    },
+    {
+      "text": "Mental Health and Addiction Services",
+      "url": "https://dhss.delaware.gov/home/mental-health-and-addiction-services/"
+    },
+    {
+      "text": "",
+      "url": "https://dhss.delaware.gov/"
+    },
+    {
+      "text": "Division of Services for Aging and Adults with Physical Disabilities",
+      "url": "https://dhss.delaware.gov/dsaapd"
+    },
+    {
+      "text": "Division of Services for Aging and Adults with Physical Disabilities",
+      "url": "https://dhss.delaware.gov/dsaapd"
+    },
+    {
+      "text": "Delaware Aging and Disability Resource Center",
+      "url": "https://delawareadrc.com/"
+    },
+    {
+      "text": "Report Suspected Abuse (Adult Protective Services)",
+      "url": "https://hssdeprod.wellsky.com/assessments/?WebIntake=9A2787C9-BDCF-449A-BFD7-59B32DD77BE7"
+    },
+    {
+      "text": "About the Division of Services for Aging and Adults with Physical Disabilities",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/about-the-division-of-services-for-aging-and-adults-with-physical-disabilities/"
+    },
+    {
+      "text": "Services",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Delaware Aging and Disabilities Resource Center (ADRC)",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/adrc/"
+    },
+    {
+      "text": "Adult Protective Services",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/adult-protective-services/"
+    },
+    {
+      "text": "Congregate Meals",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/congregate-meals/"
+    },
+    {
+      "text": "Community-Based Day Programs",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/community-based-day-programs/"
+    },
+    {
+      "text": "Eleanor Cain Center",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/eleanorcaincenter/"
+    },
+    {
+      "text": "Employment Programs for Older Adults",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/employment-programs/"
+    },
+    {
+      "text": "Home Delivered Meals",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/home-delivered-meals/"
+    },
+    {
+      "text": "Home Modification Support",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/home-modification-support/"
+    },
+    {
+      "text": "In-Home Support to Help You Live Independently",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/in-home-support-to-help-you-live-independently/"
+    },
+    {
+      "text": "Legal Services",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/legal-services/"
+    },
+    {
+      "text": "Helpful Aging Resources",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/more-helpful-information/"
+    },
+    {
+      "text": "Support for Caregivers",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/support-for-caregivers/"
+    },
+    {
+      "text": "Resources",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/#"
+    },
+    {
+      "text": "Advance Directives/Living Wills",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/"
+    },
+    {
+      "text": "Alzheimer’s Toolkit",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/alzheimers-toolkit/"
+    },
+    {
+      "text": "Assisted Living and Long-Term Care Options",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/assisted-living-and-long-term-care-options/"
+    },
+    {
+      "text": "For Service Providers",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/for-service-providers/"
+    },
+    {
+      "text": "Forms and Publications",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/forms-and-publications/"
+    },
+    {
+      "text": "Contact DSAAPD",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/contact-dsaapd/"
+    },
+    {
+      "text": "Advance Health Care Directive Form",
+      "url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/09/DE-Advanced-Health-Care-Directive.9.14.26.pdf"
+    },
+    {
+      "text": "Delaware’s Advance Health Care Directive Form",
+      "url": "https://dhss.delaware.gov/wp-content/uploads/2026/06/About-DHSS_LTCOP_Advance-Care-Planning_Advance-Directive_Advance-Directive-form.pdf"
+    },
+    {
+      "text": "Delaware Advance Directive Form",
+      "url": "https://dhss.delaware.gov/wp-content/uploads/2026/06/About-DHSS_LTCOP_Advance-Care-Planning_Advance-Directive_Advance-Directive-form.pdf"
+    },
+    {
+      "text": "Delaware Code Title 16 Subsection 2507",
+      "url": "http://delcode.delaware.gov/title16/c025/index.shtml#2507"
+    },
+    {
+      "text": "Delaware Code Title 16 Subsection 2503",
+      "url": "http://delcode.delaware.gov/title16/c025/index.shtml#2503"
+    },
+    {
+      "text": "Subsection 2511",
+      "url": "http://delcode.delaware.gov/title16/c025/index.shtml#2511"
+    },
+    {
+      "text": "Information about Supported Decision-Making in Delaware",
+      "url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/06/Advance-Directives_Info-about-Supported-Decision-Making.pdf"
+    },
+    {
+      "text": "Delaware’s Supported Decision-Making Agreement Form",
+      "url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/06/Resources_Advanced-Directives_Supported-Decision-Making-Agreement.pdf"
+    },
+    {
+      "text": "Delaware Code Title 16 Chapter 25",
+      "url": "http://delcode.delaware.gov/title16/c025/index.shtml"
+    },
+    {
+      "text": "contact the Delaware Aging and Disability Resource Center (ADRC)",
+      "url": "https://dhss.delaware.gov/dsaapd/moreinfo/contact.html"
+    },
+    {
+      "text": "Delaware Aging and Disability Resource Center (ADRC)",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/adrc/"
+    },
+    {
+      "text": "Advance Health Care Directive Form",
+      "url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/09/DE-Advanced-Health-Care-Directive.9.14.26.pdf"
+    },
+    {
+      "text": "Directrices Anticipadas de Asistencia Médica",
+      "url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/06/Advance-Directive-(Directrices-Anticipadas)_Spanish.pdf"
+    },
+    {
+      "text": "Delaware Medical Orders for Scope of Treatment (DMOST)",
+      "url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/06/Delaware-Medical-Orders-for-Scope-of-Treatment.pdf"
+    },
+    {
+      "text": "",
+      "url": "https://dhss.delaware.gov/"
+    },
+    {
+      "text": "Submit a Freedom of Information Act (FOIA)\n Request",
+      "url": "https://dhss.delaware.gov/home/office-of-the-secretary-administration/foia/"
+    },
+    {
+      "text": "APS Information",
+      "url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/adult-protective-services/"
+    },
+    {
+      "text": "File a Long-term Care Facility Complaint",
+      "url": "https://dhss.delaware.gov/dhcq/home-2/report-abuse/"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/deldhss"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/DelawareDHSS"
+    },
+    {
+      "text": "",
+      "url": "https://x.com/Delaware_DHSS"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/user/DelDHSS"
+    },
+    {
+      "text": "Delaware.gov",
+      "url": "https://delaware.gov/"
+    },
+    {
+      "text": "Delaware News",
+      "url": "https://news.delaware.gov/"
+    },
+    {
+      "text": "State Directory",
+      "url": "https://delaware.gov/state-directory"
+    },
+    {
+      "text": "Contact State Agency",
+      "url": "https://delaware.gov/contact/"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://delaware.gov/privacy-policy/"
+    },
+    {
+      "text": "Disclosure",
+      "url": "https://delaware.gov/responsible-disclosure/"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://dhss.delaware.gov/accessibility/"
+    },
+    {
+      "text": "Government Information Center",
+      "url": "https://gic.delaware.gov/"
+    }
+  ]
+}

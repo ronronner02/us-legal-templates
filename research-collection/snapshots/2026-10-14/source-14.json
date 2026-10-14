@@ -1,0 +1,632 @@
+{
+  "state": "Nebraska",
+  "publisher": "Nebraska Judicial Branch",
+  "url": "https://nebraskajudicial.gov/forms",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "(?:CC[-_ ]?15[-_ ]?40|cc1540).*\\.pdf",
+      "title": "Affidavit for Transfer of Personal Property without Probate",
+      "form_id": "CC 15:40",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*(?:PERSONAL PROPERTY|TRANSFER)",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://nebraskajudicial.gov/forms",
+    "final_url": "https://nebraskajudicial.gov/forms",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:01:05.813Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "08e7be4a8c2f66d62671cee64631f85c81e3a76878758106a8c272760e73c5c3",
+    "title": "Master Forms List | Nebraska Judicial Branch",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14/14-nebraska-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://nebraskajudicial.gov/forms",
+      "final_url": "https://nebraskajudicial.gov/forms",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:01:05.813Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "08e7be4a8c2f66d62671cee64631f85c81e3a76878758106a8c272760e73c5c3",
+      "title": "Master Forms List | Nebraska Judicial Branch",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "(?:CC[-_ ]?15[-_ ]?40|cc1540).*\\.pdf",
+      "title": "Affidavit for Transfer of Personal Property without Probate",
+      "form_id": "CC 15:40",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT.*(?:PERSONAL PROPERTY|TRANSFER)",
+      "max": 1,
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-40.pdf",
+      "link_text": "Affidavit for Transfer of Personal Property without Probate",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-40.pdf",
+        "final_url": "https://nebraskajudicial.gov/sites/default/files/CC-15-40.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:01:06.453Z",
+        "etag": "\"6a038a99-38194\"",
+        "last_modified": "Tue, 12 May 2026 20:16:25 GMT",
+        "content_length": "229780",
+        "sha256": "c2255fed6d5ece984a6e08816ae4da3f1588c43136eb578559b6511cf0fcaba1",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-40.pdf",
+          "final_url": "https://nebraskajudicial.gov/sites/default/files/CC-15-40.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:01:06.453Z",
+          "etag": "\"6a038a99-38194\"",
+          "last_modified": "Tue, 12 May 2026 20:16:25 GMT",
+          "content_length": "229780",
+          "sha256": "c2255fed6d5ece984a6e08816ae4da3f1588c43136eb578559b6511cf0fcaba1",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "c2255fed6d5ece984a6e08816ae4da3f1588c43136eb578559b6511cf0fcaba1",
+      "local_archive_path": "archive/2026-10-14/14-affidavit-for-transfer-of-personal-property-without-probate-c2255fed6d5e.pdf",
+      "bytes": 229780,
+      "text_length": 2287,
+      "pages": 1,
+      "identity_excerpt": "_______________________________________ __________________________________________ _______________________________________ STATE OF NEBRASKA ) ) ss COUNTY OF ________________ ) (county in which the document will be signed) Affidavit for Transfer of Personal Property without Probate I, ________________________, under penalty of perjury under Nebraska Revised Statute § 28-915, (your name) swear or affirm the following to be true and material: 1. thirty days have passed since _______________________’s death; (deceased’s name) 2. a certified or authenticated copy of the deceased’s death certificate is attached to this affidavit; 3. the value of the entire estate of the deceased, _______________________, less liens and (deceased’s name) encumbrances (claims against or on the property), is $100,000.00 or less; 4. there is no Personal Representative, application for Personal Representative, or petition for Personal Representative; and 5. I am entitled to payment and delivery of all property held by others in the sole name of the deceased, ________________________, pursuant to Nebraska Probate Code § 30-24,125 and because of my (deceased’s name) relationship as ____________________________________ to the deceased. As provided under Nebraska Probate Code § 30-24,126, the person releasing personal property or the evidence of property based upon this affidavit is discharged and released just as if that person dealt with a Personal Representative of the deceased. The person releasing the property is not required to see to the application of the personal property or evidence of that application or to inquire into the truth of any statement in this affidavit. A transfer agent of any security shall change the registered ownership on the books of a corporation from the decedent to the ",
+      "revision_evidence": [
+        "for Transfer of CC 15:40 Rev. 07/2022 Page 1 of 1 Personal Property without Probate"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "here",
+      "url": "https://supremecourt.nebraska.gov/sites/default/files/Navigating_the_website.pdf"
+    },
+    {
+      "text": "here",
+      "url": "https://supremecourt.nebraska.gov/sites/default/files/Downloading_Adobe_and_browser_settings.pdf"
+    },
+    {
+      "text": "here",
+      "url": "https://supremecourt.nebraska.gov/sites/default/files/PDFPRINTINGTIPS.pdf"
+    },
+    {
+      "text": "Acceptable Use of Information Technology Resources Policy - Acknowledgment of Receipt",
+      "url": "https://nebraskajudicial.gov/sites/default/files/Ch1Art12App2.pdf"
+    },
+    {
+      "text": "Acceptable Use of Information Technology Resources Policy - Revision History",
+      "url": "https://nebraskajudicial.gov/sites/default/files/Ch1Art12App1.pdf"
+    },
+    {
+      "text": "Acceptance of Appointment, Public Guardian, Conservator",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-214.pdf"
+    },
+    {
+      "text": "Acceptance of Appointment, Public Guardian, Conservator - All Funds Restricted",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-218.pdf"
+    },
+    {
+      "text": "Acceptance of Appointment, Public Guardian, Guardian",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-211.pdf"
+    },
+    {
+      "text": "Acceptance of Appointment, Public Guardian, Guardian and Conservator",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-216.pdf"
+    },
+    {
+      "text": "Acceptance of Appointment, Public Guardian, Temporary Conservator",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-229.pdf"
+    },
+    {
+      "text": "Acceptance of Appointment, Public Guardian, Temporary Guardian",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-228.pdf"
+    },
+    {
+      "text": "Acceptance of Appointment, Public Guardian, Temporary Guardian and Temporary Conservator",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-227.pdf"
+    },
+    {
+      "text": "Acceptances, Guardianships and/or Conservatorships, all variations included",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-ACCEPTANCE_Global.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-ACCEPTANCE_Global-instructions.pdf"
+    },
+    {
+      "text": "Accommodations Request Form (ADA Test Form)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/NSBC-1-10.pdf"
+    },
+    {
+      "text": "Additional Petitioners - Domestic Abuse and Harassment Protection Orders",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-19-46.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-19-46A.pdf"
+    },
+    {
+      "text": "Address, Address Information for Guardianships/Conservatorships",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-5.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-5-instructions.pdf"
+    },
+    {
+      "text": "Address, Change of Address for Guardianships and Conservatorships and Certificate of Mailing",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-46.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-46-instructions.pdf"
+    },
+    {
+      "text": "Adjudication Findings and Order",
+      "url": "https://nebraskajudicial.gov/sites/default/files/JC-14-11-4.pdf"
+    },
+    {
+      "text": "Affidavit (Generic)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-3-28.pdf"
+    },
+    {
+      "text": "Affidavit and Application for Order to Show Cause (Alimony/Property Settlement)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-42.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-42a.pdf"
+    },
+    {
+      "text": "Affidavit and Application for Order to Show Cause (Child Support)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-20.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-20a.pdf"
+    },
+    {
+      "text": "Affidavit and Application for Order to Show Cause (Visitation)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-27.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-27a.pdf"
+    },
+    {
+      "text": "Affidavit and Application for Preparation of Real Estate Assignment Certificate",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-7.pdf"
+    },
+    {
+      "text": "Affidavit and Application to Proceed Without Payment of Fees (In Forma Pauperis) (Civil, Appeals, Emancipation) (English)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-7-1.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-7-1a.pdf"
+    },
+    {
+      "text": "Affidavit and Motion for Bench Warrant and Commitment to Issue (Child Support)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-25.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-25a.pdf"
+    },
+    {
+      "text": "Affidavit and Motion for Bench Warrant and Commitment to Issue (Non-compliance of Divorce Terms)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-47.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-47a.pdf"
+    },
+    {
+      "text": "Affidavit and Motion for Bench Warrant and Commitment to Issue (Visitation)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-32.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-32a.pdf"
+    },
+    {
+      "text": "Affidavit for Transfer of Personal Property without Probate",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-40.pdf"
+    },
+    {
+      "text": "Affidavit for Transfer of Real Property without Probate",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-41.pdf"
+    },
+    {
+      "text": "Affidavit in Support of Motion for Service by Publication",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-2.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-2a.pdf"
+    },
+    {
+      "text": "Affidavit in Support of Personal Recognizance Bond (English/Spanish)/ Declaración Jurada En Apoyo De Fianza Bajo Palabra",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-13-23.pdf"
+    },
+    {
+      "text": "Affidavit in Support of Service by Publication",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-6-6-2.pdf"
+    },
+    {
+      "text": "Affidavit in Support of Substitute Service",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-6-6-6.pdf"
+    },
+    {
+      "text": "Affidavit of Lost Check",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-23-11.pdf"
+    },
+    {
+      "text": "Affidavit of Mailing Published Notice",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-8.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-8a.pdf"
+    },
+    {
+      "text": "Affidavit of Sex Offender Registry Search",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-30.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-30-instructions.pdf"
+    },
+    {
+      "text": "Alternate or Substitute Service Guide",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-4-20-G2.pdf"
+    },
+    {
+      "text": "Americans with Disabilities Act (ADA)- Accommodation Request Form",
+      "url": "https://nebraskajudicial.gov/sites/default/files/AD-2-19.pdf"
+    },
+    {
+      "text": "Americans with Disabilities Act (ADA)- Grievance Form",
+      "url": "https://nebraskajudicial.gov/sites/default/files/AD-2-18.pdf"
+    },
+    {
+      "text": "Annual Accounting (fillable)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-44fill.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-44-instructions.pdf"
+    },
+    {
+      "text": "Annual Report of Guardian for a Minor",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-14M.pdf"
+    },
+    {
+      "text": "Annual Report of Guardian on Condition of Ward",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-14.pdf"
+    },
+    {
+      "text": "Answer and Counterclaim for Dissolution of Marriage (Children)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-10-1.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-10-1a.pdf"
+    },
+    {
+      "text": "Answer and Counterclaim for Dissolution of Marriage (No Children)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-9-1.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-9-1a.pdf"
+    },
+    {
+      "text": "Answer and Counterclaim for Modification Case (Child Support)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-15-7.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-15-7a.pdf"
+    },
+    {
+      "text": "Answer and Counterclaim for Modification Case (Parenting Plan)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-15-6.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-15-6a.pdf"
+    },
+    {
+      "text": "Answer and Counterclaim to Complaint for Paternity, Custody, Parenting Time, and Child Support",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-8-8.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-8-8-A.pdf"
+    },
+    {
+      "text": "Answer and General Denial with Certificate of Service",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-3-18.pdf"
+    },
+    {
+      "text": "AOCP Research Request",
+      "url": "https://nebraskajudicial.gov/sites/default/files/AD-2-21.pdf"
+    },
+    {
+      "text": "Appeal Bond",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-9-3.pdf"
+    },
+    {
+      "text": "Appeal Packet with Notice of Appeal, Request for Transcript, Request for Bill of Exceptions and Instruction Page.",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-9-2_CC-9-6_CC-9-7.pdf"
+    },
+    {
+      "text": "Appeal Recognizance",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-9-1.pdf"
+    },
+    {
+      "text": "Appearance Bond",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-3-1.pdf"
+    },
+    {
+      "text": "Appearance Bond",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-13-1.pdf"
+    },
+    {
+      "text": "Appearance Bond with Preset Conditions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-13-1-1.pdf"
+    },
+    {
+      "text": "Application and Affidavit for Intervention on Behalf of the Welfare of the Ward/Minor Ward/Protected Person",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-21.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-21-instructions.pdf"
+    },
+    {
+      "text": "Application for Access to Confidential Information in JUSTICE Automation System (District Court)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/Ch6Art15App4_0.pdf"
+    },
+    {
+      "text": "Application for Access to JUSTICE Automation System",
+      "url": "https://nebraskajudicial.gov/sites/default/files/Ch6Art14App7.pdf"
+    },
+    {
+      "text": "Application for Approval of Annual Accounting and/or Fees",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-29.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-29-instructions.pdf"
+    },
+    {
+      "text": "Application for Approval of Monthly Budget",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-41.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-41-instructions.pdf"
+    },
+    {
+      "text": "Application for Continuing Lien",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-3-8D.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-3-8Da.pdf"
+    },
+    {
+      "text": "Application for Internship, Externship or Volunteer opportunity",
+      "url": "https://nebraskajudicial.gov/sites/default/files/HR-1-35.pdf"
+    },
+    {
+      "text": "Application for Postponement of Jury Service",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-8-4.pdf"
+    },
+    {
+      "text": "Application for Resignation of Membership in the Nebraska State Bar Association",
+      "url": "https://nebraskajudicial.gov/sites/default/files/ASD-3-09.pdf"
+    },
+    {
+      "text": "Application for Waiver",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-38.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-38-instructions.pdf"
+    },
+    {
+      "text": "Application for Withdrawal of Funds",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-19.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-19-instructions.pdf"
+    },
+    {
+      "text": "Application of Continuing Lien",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-4-1.pdf"
+    },
+    {
+      "text": "Application to Check Out Bill of Exceptions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-9-10.pdf"
+    },
+    {
+      "text": "Application to Deliver Nonexempt Funds",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-3-8C-1.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-3-8C-1a.pdf"
+    },
+    {
+      "text": "Application to Sit Out Fines/Costs (fillable)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-13-8.pdf"
+    },
+    {
+      "text": "Applying for Services Non IV-D Flyer",
+      "url": "https://nebraskajudicial.gov/sites/default/files/5-Non_IV-D_CP_Flyer_Final_applying_for_services.pdf"
+    },
+    {
+      "text": "Arraignment",
+      "url": "https://nebraskajudicial.gov/sites/default/files/JC-14-11-2.pdf"
+    },
+    {
+      "text": "Assignment of Bond",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-13-2.pdf"
+    },
+    {
+      "text": "Attorney Certificate of Providing Parenting Act Information",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-9.pdf"
+    },
+    {
+      "text": "Attorney Succession Planning Rules Sample Form",
+      "url": "https://nebraskajudicial.gov/sites/default/files/ASD-3-24.pdf"
+    },
+    {
+      "text": "Attorney Trust Account Overdraft Notification Agreement",
+      "url": "https://nebraskajudicial.gov/sites/default/files/ASD-3-22.pdf"
+    },
+    {
+      "text": "Attorney's Report of Identity Theft or Issue Compromising Professional Reputation",
+      "url": "https://nebraskajudicial.gov/sites/default/files/ASD-3-14.pdf"
+    },
+    {
+      "text": "Authorization to Conduct Criminal Background Check and Investigation (Interpreters)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/AD-2-07.pdf"
+    },
+    {
+      "text": "Authorization to Withdraw Will",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-6.pdf"
+    },
+    {
+      "text": "Background Check Letter of Understanding (Specific to Intern/Extern/Volunteer Opportunities)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/HR-1-04-1.pdf"
+    },
+    {
+      "text": "Bar Application Checklist",
+      "url": "https://nebraskajudicial.gov/sites/default/files/NSBC-1-16.pdf"
+    },
+    {
+      "text": "Bench Warrant (Child Support)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-26.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-26a.pdf"
+    },
+    {
+      "text": "Bench Warrant (Visitation or Alimony/Property Settlement)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-33.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-33a.pdf"
+    },
+    {
+      "text": "Bill of Exceptions Statement of Costs and Disbursement of Funds",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-9-15.pdf"
+    },
+    {
+      "text": "Bond Assignment",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-3-2.pdf"
+    },
+    {
+      "text": "Caregiver Information Form",
+      "url": "https://nebraskajudicial.gov/sites/default/files/JC-14-11-11.pdf"
+    },
+    {
+      "text": "Case Transfer Summary Form",
+      "url": "https://nebraskajudicial.gov/sites/default/files/JC-14-9.pdf"
+    },
+    {
+      "text": "Certificate of Completion of Limited Representation (submitted by attorney)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/ASD-3-12.pdf"
+    },
+    {
+      "text": "Certificate of Completion of Parenting Education Course (English)",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-5.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-5a.pdf"
+    },
+    {
+      "text": "Certificate of County Court Proceeding Involving Real Estate",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-31.pdf"
+    },
+    {
+      "text": "Certificate of Depositing Original, Authenticated or Certified Document",
+      "url": "https://nebraskajudicial.gov/sites/default/files/Ch2Art2App1.pdf"
+    },
+    {
+      "text": "Certificate of Mailing",
+      "url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-9.pdf"
+    },
+    {
+      "text": "Certificate of Mailing a Notice of Filing a Petition For The Determination of Inheritance Tax",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-15-5.pdf"
+    },
+    {
+      "text": "Certificate of Mailing, Annual Budget Reporting Forms",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-48.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-48-instructions.pdf"
+    },
+    {
+      "text": "Certificate of Mailing, Application for Approval of Accounting and/or Fees",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-28.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-28-instructions.pdf"
+    },
+    {
+      "text": "Certificate of Mailing, Application for Withdrawal of Funds",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-27.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-27-instructions.pdf"
+    },
+    {
+      "text": "Certificate of Mailing, General",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-49.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://nebraskajudicial.gov/sites/default/files/CC-16-2-49-instructions.pdf"
+    },
+    {
+      "text": "AOCP Research Request",
+      "url": "https://nebraskajudicial.gov/sites/default/files/AD-2-21.pdf"
+    }
+  ]
+}

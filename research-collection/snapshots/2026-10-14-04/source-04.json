@@ -1,0 +1,1289 @@
+{
+  "state": "Wyoming",
+  "publisher": "Wyoming Judicial Branch",
+  "url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": "SC-01-Small-Claims-Affidavit-11-24\\.pdf",
+      "title": "Small Claims Affidavit",
+      "form_id": "SC Form 01",
+      "family_id": "small-claims-complaint",
+      "identity": "SMALL CLAIMS AFFIDAVIT",
+      "max": 1
+    },
+    {
+      "pattern": "SC-01a-Instructions-for-Small-Claims-Affidavit-11-24\\.pdf",
+      "title": "Instructions for Small Claims Affidavit",
+      "form_id": "SC Form 01a",
+      "family_id": "small-claims-instructions",
+      "identity": "INSTRUCTIONS.*SMALL CLAIMS",
+      "max": 1
+    },
+    {
+      "pattern": "SC-02-Small-Claims-Summons-11-24\\.pdf",
+      "title": "Small Claims Summons",
+      "form_id": "SC Form 02",
+      "family_id": "small-claims-summons",
+      "identity": "SMALL CLAIMS.*SUMMONS",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/",
+    "final_url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at": "2026-10-14T09:09:44.215Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": "191248",
+    "sha256": "9123beb79488f513f8bcf95fb50d8bf8d0115da2ebacd82f538f59b44620d94d",
+    "title": "Small Claims - Wyoming Judicial Branch",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-04/04-wyoming-source.bin"
+  },
+  "artifacts": [
+    {
+      "pattern": "SC-01-Small-Claims-Affidavit-11-24\\.pdf",
+      "title": "Small Claims Affidavit",
+      "form_id": "SC Form 01",
+      "family_id": "small-claims-complaint",
+      "identity": "SMALL CLAIMS AFFIDAVIT",
+      "max": 1,
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-01-Small-Claims-Affidavit-11-24.pdf",
+      "receipt": {
+        "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-01-Small-Claims-Affidavit-11-24.pdf",
+        "final_url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-01-Small-Claims-Affidavit-11-24.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:09:53.695Z",
+        "etag": "\"6a009d81-d3159\"",
+        "last_modified": "Sun, 10 May 2026 15:00:17 GMT",
+        "content_length": "864601",
+        "sha256": "59005c5eb518523bf4ed8a365593241c4c9218b875accec31fe75cf7c2862d5f",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "downloaded": true,
+      "local_archive_path": "archive/2026-10-14-04/04-small-claims-affidavit-59005c5eb518.pdf",
+      "sha256": "59005c5eb518523bf4ed8a365593241c4c9218b875accec31fe75cf7c2862d5f",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "text_length": 1897,
+      "identity_excerpt": "SC Form 01 Small Claims Affidavit Page 1 of 2 Revision Date: November 2024 STATE OF WYOMING ) IN THE CIRCUIT COURT ) ss COUNTY OF ________________ ) _______________ JUDICIAL DISTRICT Plaintiff: , ) Case Number________________ (Person or Entity Asserting a Right to Money) ) ) vs. ) ) Defendant:__________________________. ) (Person or Entity Alleged to Owe Money) ) SMALL CLAIMS AFFIDAVIT 1. I state that the Defendant owes me money in the following amounts: Principal $ Prejudgment Interest $ Attorney Fees $ Filing Fees $10.00 Service Fees $ TOTAL $ 2. The Defendant owes me this money because: 3. ☐ I have invoices, receipts, or agreements that support my claim. I will take copies of those papers to the Clerk of Court when I file this Affidavit. Important Note: Some Clerks will file those copies with your Affidavit. Other Clerks will instruct you to bring those copies back with you when you have a hearing (meeting) with the judge. 4. ☐ I already demanded that the Defendant pay me this money. 5. ☐ The Defendant refused to pay me. 6. ☐ As far as I know, the Defendant is not a deployed active-duty member of the United States Armed Forces. SC Form 01 Small Claims Affidavit Page 2 of 2 Revis"
+    },
+    {
+      "pattern": "SC-01a-Instructions-for-Small-Claims-Affidavit-11-24\\.pdf",
+      "title": "Instructions for Small Claims Affidavit",
+      "form_id": "SC Form 01a",
+      "family_id": "small-claims-instructions",
+      "identity": "INSTRUCTIONS.*SMALL CLAIMS",
+      "max": 1,
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-01a-Instructions-for-Small-Claims-Affidavit-11-24.pdf",
+      "receipt": {
+        "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-01a-Instructions-for-Small-Claims-Affidavit-11-24.pdf",
+        "final_url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-01a-Instructions-for-Small-Claims-Affidavit-11-24.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:09:54.246Z",
+        "etag": "\"6a009d81-15afa\"",
+        "last_modified": "Sun, 10 May 2026 15:00:17 GMT",
+        "content_length": "88826",
+        "sha256": "b311cb135c9b55a87afb10e4b3d2dc0e62d19fab145274bd20f90c4ca9e362e1",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "downloaded": true,
+      "local_archive_path": "archive/2026-10-14-04/04-instructions-for-small-claims-affidavit-b311cb135c9b.pdf",
+      "sha256": "b311cb135c9b55a87afb10e4b3d2dc0e62d19fab145274bd20f90c4ca9e362e1",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "text_length": 11783,
+      "identity_excerpt": "SC Form 01a Instructions for Small Claims Affidavit Page 1 of 6 Revision Date: November 2024 INSTRUCTIONS FOR SMALL CLAIMS AFFIDAVIT IN WYOMING Read these instructions carefully. If someone owes you money and has refused to pay, you might ask a judge to order the other person to pay you. The money that is owed to you is a debt. A Court might give you a Judgment and Order that requires the other person to pay the debt. The information in the next section can help you decide whether starting a small claims court case is a good choice for your situation. Before You Get Started You might be able to start a Court case to ask for money that is owed to you by filing a Small Claims Affidavit. Wyoming law has these requirements for “small claims” cases: ฀ The amount that is owed to you must be $6,000 or less. ฀ You already demanded payment and the other person refused to pay. If the statements above are true in your situation, and you want to file a small claims case, these instructions can help you fill out the Small Claims Affidavit. The top of the page on a Small Claims Affidavit. The top of the page has blanks for the name of the county that the Court is in (for example, County of Big H"
+    },
+    {
+      "pattern": "SC-02-Small-Claims-Summons-11-24\\.pdf",
+      "title": "Small Claims Summons",
+      "form_id": "SC Form 02",
+      "family_id": "small-claims-summons",
+      "identity": "SMALL CLAIMS.*SUMMONS",
+      "max": 1,
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-02-Small-Claims-Summons-11-24.pdf",
+      "receipt": {
+        "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-02-Small-Claims-Summons-11-24.pdf",
+        "final_url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-02-Small-Claims-Summons-11-24.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:09:56.493Z",
+        "etag": "\"6a009d81-c63d0\"",
+        "last_modified": "Sun, 10 May 2026 15:00:17 GMT",
+        "content_length": "811984",
+        "sha256": "1155c9c338d29bdba5751262f93f7234b7ac016bce1b9b232a0b9e8d5fe9c9a4",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "downloaded": true,
+      "local_archive_path": "archive/2026-10-14-04/04-small-claims-summons-1155c9c338d2.pdf",
+      "sha256": "1155c9c338d29bdba5751262f93f7234b7ac016bce1b9b232a0b9e8d5fe9c9a4",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "text_length": 1455,
+      "identity_excerpt": "SC Form 02 Small Claims Summons Page 1 of 1 Revision Date: November 2024 STATE OF WYOMING ) IN THE CIRCUIT COURT ) ss COUNTY OF ________________ ) _______________ JUDICIAL DISTRICT Plaintiff: , ) Case Number________________ (Person or Entity Asserting a Right to Money) ) ) vs. ) ) Defendant:__________________________. ) (Person or Entity Alleged to Owe Money) ) SMALL CLAIMS SUMMONS YOU ARE HEREBY SUMMONED to appear before the Court on , 20 at a.m./p.m. at the County Circuit Court , Wyoming, for a hearing on the Plaintiff’s Small Claims action. The Plaintiff claims to be owed money by the Defendant. A Small Claims Affidavit with more information is attached to this Summons. The Plaintiff is required to appear at this hearing. The Plaintiff and the Defendant are both instructed to bring their witnesses and documents to the hearing. You are asked to tell the Court if you plan to take part in the hearing. You can do this by calling the Circuit Court Clerk’s Office at the business day before the hearing. If the Defendant does not take part in or appear at the hearing, judgment may be entered as requested in the Plaintiff’s Small Claims Affidavit. This Summons and the Small Claims Affida"
+    }
+  ],
+  "discovered_pdf_links": [
+    {
+      "text": "Skip To Content",
+      "url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/#skipContent"
+    },
+    {
+      "text": "Privacy Page",
+      "url": "https://www.wyocourts.gov/privacy-policy/"
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.wyocourts.gov/west-publishing-corp-data-breach/"
+    },
+    {
+      "text": "eFiling",
+      "url": "https://www.wyocourts.gov/efiling/"
+    },
+    {
+      "text": "Payments",
+      "url": "https://www.wyocourts.gov/payments/"
+    },
+    {
+      "text": "Email Updates",
+      "url": "https://public.govdelivery.com/accounts/WYJB/subscriber/new?qsp=CODE_RED"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.wyocourts.gov/careers/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.wyocourts.gov/news/"
+    },
+    {
+      "text": "",
+      "url": "https://www.wyocourts.gov/"
+    },
+    {
+      "text": "WY Judicial Branch",
+      "url": "https://www.wyocourts.gov/"
+    },
+    {
+      "text": "Legal Help",
+      "url": "https://www.wyocourts.gov/legal-help/"
+    },
+    {
+      "text": "Family Advocacy",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/"
+    },
+    {
+      "text": "Guide to Legal Help",
+      "url": "https://www.wyocourts.gov/interactive-guide-to-legal-help"
+    },
+    {
+      "text": "Find a Court",
+      "url": "https://www.wyocourts.gov/find-a-court"
+    },
+    {
+      "text": "",
+      "url": "https://www.wyocourts.gov/"
+    },
+    {
+      "text": "eFiling",
+      "url": "https://www.wyocourts.gov/efiling/"
+    },
+    {
+      "text": "Payments",
+      "url": "https://www.wyocourts.gov/payments/"
+    },
+    {
+      "text": "Email Updates",
+      "url": "https://public.govdelivery.com/accounts/WYJB/subscriber/new?qsp=CODE_RED"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.wyocourts.gov/careers/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.wyocourts.gov/news/"
+    },
+    {
+      "text": "",
+      "url": "https://www.wyocourts.gov/"
+    },
+    {
+      "text": "WY Judicial Branch",
+      "url": "https://www.wyocourts.gov/"
+    },
+    {
+      "text": "Legal Help",
+      "url": "https://www.wyocourts.gov/legal-help/"
+    },
+    {
+      "text": "Family Advocacy",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.wyocourts.gov/supreme-court/"
+    },
+    {
+      "text": "District Courts",
+      "url": "https://www.wyocourts.gov/district-courts/"
+    },
+    {
+      "text": "Chancery Court",
+      "url": "https://www.wyocourts.gov/court/chancery-court/"
+    },
+    {
+      "text": "Circuit Courts",
+      "url": "https://www.wyocourts.gov/circuit-courts/"
+    },
+    {
+      "text": "Treatment and Diversion Courts",
+      "url": "https://www.wyocourts.gov/treatment-and-diversion-courts/"
+    },
+    {
+      "text": "Find a Court",
+      "url": "https://www.wyocourts.gov/find-a-court/"
+    },
+    {
+      "text": "Report Judicial Misconduct",
+      "url": "https://www.wyocourts.gov/committees-and-boards/commission-on-judicial-conduct-and-ethics/"
+    },
+    {
+      "text": "Frequently Asked Questions",
+      "url": "https://www.wyocourts.gov/about-the-courts/frequently-asked-questions/"
+    },
+    {
+      "text": "Court Rules",
+      "url": "https://www.wyocourts.gov/court-rules/"
+    },
+    {
+      "text": "Rule Amendments",
+      "url": "https://www.wyocourts.gov/rule-amendments/"
+    },
+    {
+      "text": "General Orders",
+      "url": "https://www.wyocourts.gov/general-orders/"
+    },
+    {
+      "text": "Supreme Court Opinions",
+      "url": "https://www.wyocourts.gov/wy-supreme-court-opinions/"
+    },
+    {
+      "text": "Chancery Court Orders and Decisions",
+      "url": "https://www.wyocourts.gov/chancery-court-orders-and-decisions/"
+    },
+    {
+      "text": "Policies",
+      "url": "https://www.wyocourts.gov/policies/"
+    },
+    {
+      "text": "Publications",
+      "url": "https://www.wyocourts.gov/publications/"
+    },
+    {
+      "text": "Self-Help Forms",
+      "url": "https://www.wyocourts.gov/self-help-forms/"
+    },
+    {
+      "text": "Court Rules Forms and Documents",
+      "url": "https://www.wyocourts.gov/court-rules-forms-and-documents/"
+    },
+    {
+      "text": "About the Courts",
+      "url": "https://www.wyocourts.gov/about-the-courts/"
+    },
+    {
+      "text": "Administrative Office",
+      "url": "https://www.wyocourts.gov/administrative-office/"
+    },
+    {
+      "text": "Calendar",
+      "url": "https://www.wyocourts.gov/calendar/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.wyocourts.gov/careers/"
+    },
+    {
+      "text": "Committees and Boards",
+      "url": "https://www.wyocourts.gov/committees-and-boards/"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.wyocourts.gov/contact/"
+    },
+    {
+      "text": "Court Administration",
+      "url": "https://www.wyocourts.gov/court-administration/"
+    },
+    {
+      "text": "Employee Resources",
+      "url": "https://www.wyocourts.gov/employee-resources/"
+    },
+    {
+      "text": "Mission and Strategic Plan",
+      "url": "https://www.wyocourts.gov/mission-and-strategic-plan/"
+    },
+    {
+      "text": "Media Center",
+      "url": "https://www.wyocourts.gov/media-center/"
+    },
+    {
+      "text": "ADA Services",
+      "url": "https://www.wyocourts.gov/ada-services/"
+    },
+    {
+      "text": "Court Navigator Services",
+      "url": "https://www.wyocourts.gov/court-navigator-services/"
+    },
+    {
+      "text": "Volunteer as a Court Navigator",
+      "url": "https://www.wyocourts.gov/info-for-court-navigators/"
+    },
+    {
+      "text": "Court Interpreter Services",
+      "url": "https://www.wyocourts.gov/court-interpreter-services/"
+    },
+    {
+      "text": "Data Requests",
+      "url": "https://www.wyocourts.gov/data-requests/"
+    },
+    {
+      "text": "Legal Research and Resources",
+      "url": "https://www.wyocourts.gov/legal-research-resources/"
+    },
+    {
+      "text": "Law Library",
+      "url": "https://www.wyocourts.gov/law-library/"
+    },
+    {
+      "text": "Wyoming Research and Resources",
+      "url": "https://www.wyocourts.gov/legal-research-resources/wyoming-research-and-resources/"
+    },
+    {
+      "text": "Federal Research and Resources",
+      "url": "https://www.wyocourts.gov/legal-research-resources/federal-research-and-resources/"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.wyocourts.gov/jury-duty/"
+    },
+    {
+      "text": "Interactive Learning",
+      "url": "https://www.wyocourts.gov/interactive-learning/"
+    },
+    {
+      "text": "Guide to Legal Help",
+      "url": "https://www.wyocourts.gov/interactive-guide-to-legal-help"
+    },
+    {
+      "text": "Find a Court",
+      "url": "https://www.wyocourts.gov/find-a-court"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.wyocourts.gov/supreme-court/"
+    },
+    {
+      "text": "District Courts",
+      "url": "https://www.wyocourts.gov/district-courts/"
+    },
+    {
+      "text": "Chancery Court",
+      "url": "https://www.wyocourts.gov/court/chancery-court/"
+    },
+    {
+      "text": "Circuit Courts",
+      "url": "https://www.wyocourts.gov/circuit-courts/"
+    },
+    {
+      "text": "Treatment and Diversion Courts",
+      "url": "https://www.wyocourts.gov/treatment-and-diversion-courts/"
+    },
+    {
+      "text": "Find a Court",
+      "url": "https://www.wyocourts.gov/find-a-court/"
+    },
+    {
+      "text": "Report Judicial Misconduct",
+      "url": "https://www.wyocourts.gov/committees-and-boards/commission-on-judicial-conduct-and-ethics/"
+    },
+    {
+      "text": "Frequently Asked Questions",
+      "url": "https://www.wyocourts.gov/about-the-courts/frequently-asked-questions/"
+    },
+    {
+      "text": "Court Rules",
+      "url": "https://www.wyocourts.gov/court-rules/"
+    },
+    {
+      "text": "Rule Amendments",
+      "url": "https://www.wyocourts.gov/rule-amendments/"
+    },
+    {
+      "text": "General Orders",
+      "url": "https://www.wyocourts.gov/general-orders/"
+    },
+    {
+      "text": "Supreme Court Opinions",
+      "url": "https://www.wyocourts.gov/wy-supreme-court-opinions/"
+    },
+    {
+      "text": "Chancery Court Orders and Decisions",
+      "url": "https://www.wyocourts.gov/chancery-court-orders-and-decisions/"
+    },
+    {
+      "text": "Policies",
+      "url": "https://www.wyocourts.gov/policies/"
+    },
+    {
+      "text": "Publications",
+      "url": "https://www.wyocourts.gov/publications/"
+    },
+    {
+      "text": "Self-Help Forms",
+      "url": "https://www.wyocourts.gov/self-help-forms/"
+    },
+    {
+      "text": "Court Rules Forms and Documents",
+      "url": "https://www.wyocourts.gov/court-rules-forms-and-documents/"
+    },
+    {
+      "text": "About the Courts",
+      "url": "https://www.wyocourts.gov/about-the-courts/"
+    },
+    {
+      "text": "Administrative Office",
+      "url": "https://www.wyocourts.gov/administrative-office/"
+    },
+    {
+      "text": "Calendar",
+      "url": "https://www.wyocourts.gov/calendar/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.wyocourts.gov/careers/"
+    },
+    {
+      "text": "Committees and Boards",
+      "url": "https://www.wyocourts.gov/committees-and-boards/"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.wyocourts.gov/contact/"
+    },
+    {
+      "text": "Court Administration",
+      "url": "https://www.wyocourts.gov/court-administration/"
+    },
+    {
+      "text": "Employee Resources",
+      "url": "https://www.wyocourts.gov/employee-resources/"
+    },
+    {
+      "text": "Mission and Strategic Plan",
+      "url": "https://www.wyocourts.gov/mission-and-strategic-plan/"
+    },
+    {
+      "text": "Media Center",
+      "url": "https://www.wyocourts.gov/media-center/"
+    },
+    {
+      "text": "ADA Services",
+      "url": "https://www.wyocourts.gov/ada-services/"
+    },
+    {
+      "text": "Court Navigator Services",
+      "url": "https://www.wyocourts.gov/court-navigator-services/"
+    },
+    {
+      "text": "Volunteer as a Court Navigator",
+      "url": "https://www.wyocourts.gov/info-for-court-navigators/"
+    },
+    {
+      "text": "Court Interpreter Services",
+      "url": "https://www.wyocourts.gov/court-interpreter-services/"
+    },
+    {
+      "text": "Data Requests",
+      "url": "https://www.wyocourts.gov/data-requests/"
+    },
+    {
+      "text": "Legal Research and Resources",
+      "url": "https://www.wyocourts.gov/legal-research-resources/"
+    },
+    {
+      "text": "Law Library",
+      "url": "https://www.wyocourts.gov/law-library/"
+    },
+    {
+      "text": "Wyoming Research and Resources",
+      "url": "https://www.wyocourts.gov/legal-research-resources/wyoming-research-and-resources/"
+    },
+    {
+      "text": "Federal Research and Resources",
+      "url": "https://www.wyocourts.gov/legal-research-resources/federal-research-and-resources/"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.wyocourts.gov/jury-duty/"
+    },
+    {
+      "text": "Interactive Learning",
+      "url": "https://www.wyocourts.gov/interactive-learning/"
+    },
+    {
+      "text": "",
+      "url": "https://www.wyocourts.gov/"
+    },
+    {
+      "text": "eFiling",
+      "url": "https://www.wyocourts.gov/efiling/"
+    },
+    {
+      "text": "Payments",
+      "url": "https://www.wyocourts.gov/payments/"
+    },
+    {
+      "text": "Email Updates",
+      "url": "https://public.govdelivery.com/accounts/WYJB/subscriber/new?qsp=CODE_RED"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.wyocourts.gov/careers/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.wyocourts.gov/news/"
+    },
+    {
+      "text": "",
+      "url": "https://www.wyocourts.gov/"
+    },
+    {
+      "text": "WY Judicial Branch",
+      "url": "https://www.wyocourts.gov/"
+    },
+    {
+      "text": "Legal Help",
+      "url": "https://www.wyocourts.gov/legal-help/"
+    },
+    {
+      "text": "Family Advocacy",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/"
+    },
+    {
+      "text": "Equal Justice Wyoming Home",
+      "url": "https://www.wyocourts.gov/legal-help/"
+    },
+    {
+      "text": "About Equal Justice Wyoming",
+      "url": "https://www.wyocourts.gov/legal-help/about-equal-justice-wyoming/"
+    },
+    {
+      "text": "Grant Information",
+      "url": "https://www.wyocourts.gov/legal-help/grant-information/"
+    },
+    {
+      "text": "AmeriCorps VISTA Program",
+      "url": "https://www.wyocourts.gov/legal-help/americorps-vista-program/"
+    },
+    {
+      "text": "VISTA Alumni",
+      "url": "https://www.wyocourts.gov/legal-help/americorps-vista-program/vista-alumni/"
+    },
+    {
+      "text": "Find Legal Services Near You",
+      "url": "https://www.wyocourts.gov/find-legal-services/"
+    },
+    {
+      "text": "Legal Resources",
+      "url": "https://www.wyocourts.gov/legal-help/legal-resources/"
+    },
+    {
+      "text": "Find a Lawyer",
+      "url": "https://www.wyocourts.gov/legal-help/find-a-lawyer/"
+    },
+    {
+      "text": "Free Legal Events Calendar",
+      "url": "https://www.wyocourts.gov/legal-aid-events-calendar/"
+    },
+    {
+      "text": "Legal Help By Topic",
+      "url": "https://www.wyocourts.gov/legal-help/legal-help-by-topic/"
+    },
+    {
+      "text": "Attorney Resources",
+      "url": "https://www.wyocourts.gov/legal-help/attorney-resources/"
+    },
+    {
+      "text": "Contact EJW",
+      "url": "https://www.wyocourts.gov/legal-help/contact-ejw/"
+    },
+    {
+      "text": "Attorney Login",
+      "url": "https://www.wyocourts.gov/attorney-resources/#resourceslogin"
+    },
+    {
+      "text": "Guide to Legal Help",
+      "url": "https://www.wyocourts.gov/interactive-guide-to-legal-help"
+    },
+    {
+      "text": "Find a Court",
+      "url": "https://www.wyocourts.gov/find-a-court"
+    },
+    {
+      "text": "Equal Justice Wyoming Home",
+      "url": "https://www.wyocourts.gov/legal-help/"
+    },
+    {
+      "text": "About Equal Justice Wyoming",
+      "url": "https://www.wyocourts.gov/legal-help/about-equal-justice-wyoming/"
+    },
+    {
+      "text": "Grant Information",
+      "url": "https://www.wyocourts.gov/legal-help/grant-information/"
+    },
+    {
+      "text": "AmeriCorps VISTA Program",
+      "url": "https://www.wyocourts.gov/legal-help/americorps-vista-program/"
+    },
+    {
+      "text": "VISTA Alumni",
+      "url": "https://www.wyocourts.gov/legal-help/americorps-vista-program/vista-alumni/"
+    },
+    {
+      "text": "Find Legal Services Near You",
+      "url": "https://www.wyocourts.gov/find-legal-services/"
+    },
+    {
+      "text": "Legal Resources",
+      "url": "https://www.wyocourts.gov/legal-help/legal-resources/"
+    },
+    {
+      "text": "Find a Lawyer",
+      "url": "https://www.wyocourts.gov/legal-help/find-a-lawyer/"
+    },
+    {
+      "text": "Free Legal Events Calendar",
+      "url": "https://www.wyocourts.gov/legal-aid-events-calendar/"
+    },
+    {
+      "text": "Legal Help By Topic",
+      "url": "https://www.wyocourts.gov/legal-help/legal-help-by-topic/"
+    },
+    {
+      "text": "Attorney Resources",
+      "url": "https://www.wyocourts.gov/legal-help/attorney-resources/"
+    },
+    {
+      "text": "Contact EJW",
+      "url": "https://www.wyocourts.gov/legal-help/contact-ejw/"
+    },
+    {
+      "text": "Attorney Login",
+      "url": "https://www.wyocourts.gov/attorney-resources/#resourceslogin"
+    },
+    {
+      "text": "",
+      "url": "https://www.wyocourts.gov/"
+    },
+    {
+      "text": "eFiling",
+      "url": "https://www.wyocourts.gov/efiling/"
+    },
+    {
+      "text": "Payments",
+      "url": "https://www.wyocourts.gov/payments/"
+    },
+    {
+      "text": "Email Updates",
+      "url": "https://public.govdelivery.com/accounts/WYJB/subscriber/new?qsp=CODE_RED"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.wyocourts.gov/careers/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.wyocourts.gov/news/"
+    },
+    {
+      "text": "",
+      "url": "https://www.wyocourts.gov/"
+    },
+    {
+      "text": "WY Judicial Branch",
+      "url": "https://www.wyocourts.gov/"
+    },
+    {
+      "text": "Legal Help",
+      "url": "https://www.wyocourts.gov/legal-help/"
+    },
+    {
+      "text": "Family Advocacy",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/"
+    },
+    {
+      "text": "Children’s Justice Project",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/"
+    },
+    {
+      "text": "About",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/about/"
+    },
+    {
+      "text": "Data",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/data/"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/resources/"
+    },
+    {
+      "text": "Judges and Lawyers",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/judges-and-lawyers/"
+    },
+    {
+      "text": "Parents",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/parents/"
+    },
+    {
+      "text": "Guide to Legal Help",
+      "url": "https://www.wyocourts.gov/interactive-guide-to-legal-help"
+    },
+    {
+      "text": "Find a Court",
+      "url": "https://www.wyocourts.gov/find-a-court"
+    },
+    {
+      "text": "Children’s Justice Project",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/"
+    },
+    {
+      "text": "About",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/about/"
+    },
+    {
+      "text": "Data",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/data/"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/resources/"
+    },
+    {
+      "text": "Judges and Lawyers",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/judges-and-lawyers/"
+    },
+    {
+      "text": "Parents",
+      "url": "https://www.wyocourts.gov/childrens-justice-project/parents/"
+    },
+    {
+      "text": "Find a Court Near You",
+      "url": "https://www.wyocourts.gov/find-a-court/"
+    },
+    {
+      "text": "Find Legal Services Nearby",
+      "url": "https://www.wyocourts.gov/find-legal-services/"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.wyocourts.gov/supreme-court/"
+    },
+    {
+      "text": "Court Rules",
+      "url": "https://www.wyocourts.gov/court-rules/"
+    },
+    {
+      "text": "Supreme Court Opinions",
+      "url": "https://www.wyocourts.gov/wy-supreme-court-opinions/"
+    },
+    {
+      "text": "General Orders",
+      "url": "https://www.wyocourts.gov/general-orders/"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.wyocourts.gov/"
+    },
+    {
+      "text": "Legal Help Topics",
+      "url": "https://www.wyocourts.gov/legal-help-by-topic"
+    },
+    {
+      "text": "Common Questions",
+      "url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/#faqs"
+    },
+    {
+      "text": "Forms",
+      "url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/#forms"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/#resources"
+    },
+    {
+      "text": "Click here",
+      "url": "https://www.wyocourts.gov/legal-help-by-topic/court-information/"
+    },
+    {
+      "text": "Click here",
+      "url": "https://www.wyocourts.gov/legal-help/find-a-lawyer/"
+    },
+    {
+      "text": "Click here",
+      "url": "https://www.wyocourts.gov/find-a-court/"
+    },
+    {
+      "text": "Self-Help Forms",
+      "url": "https://www.wyocourts.gov/self-help-forms/"
+    },
+    {
+      "text": "Click here",
+      "url": "https://www.wyocourts.gov/find-a-court/"
+    },
+    {
+      "text": "Click here",
+      "url": "https://www.wyocourts.gov/find-a-court/"
+    },
+    {
+      "text": "Click here",
+      "url": "https://www.wyocourts.gov/find-a-court/"
+    },
+    {
+      "text": "Click here",
+      "url": "https://www.wyocourts.gov/find-a-court/"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/#tabV1"
+    },
+    {
+      "text": "help filing a Small Claims Affidavit in Wyoming",
+      "url": "https://youtu.be/8qWYxlQ3rvc"
+    },
+    {
+      "text": "Equal Justice Wyoming",
+      "url": "https://www.wyocourts.gov/legal-help/"
+    },
+    {
+      "text": "Small Claims Court Rules",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/01/Wyoming-Rules-and-Forms-Governing-Small-Claims-Cases.pdf"
+    },
+    {
+      "text": "Learn More about Court Navigators.",
+      "url": "https://www.wyocourts.gov/info-for-court-navigators"
+    },
+    {
+      "text": "Form-Filling Guide",
+      "url": "https://wyominginteractivecourtforms.gavel.io/run/playground2/SC%20-%20Small%20Claims%20Affidavit/#/1"
+    },
+    {
+      "text": "Adobe Acrobat Reader",
+      "url": "https://get.adobe.com/reader/"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-01-Small-Claims-Affidavit-11-24.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-01-Small-Claims-Affidavit-11-24.docx"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-01a-Instructions-for-Small-Claims-Affidavit-11-24.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-01a-Instructions-for-Small-Claims-Affidavit-11-24.doc"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-02-Small-Claims-Summons-11-24.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-02-Small-Claims-Summons-11-24.docx"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-03-Small-Claims-Return-of-Service-11-24.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-03-Small-Claims-Return-of-Service-11-24.docx"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-04-Small-Claims-Affidavit-of-Service-11-24.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-04-Small-Claims-Affidavit-of-Service-11-24.docx"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-05-Instructions-for-Summons-and-Service-11-24.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-05-Instructions-for-Summons-and-Service-11-24.doc"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-06-Judgment-and-Order-11-24.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-06-Judgment-and-Order-11-24.docx"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-07-Understanding-a-Judgment-and-Order-11-24.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-07-Understanding-a-Judgment-and-Order-11-24.doc"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/EFile-Cover-SC-01-Small-Claims-Affidavit.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/EFile-Cover-SC-01-Small-Claims-Affidavit.docx"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/EFile-Cover-SC-02-Small-Claims-Summons.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/EFile-Cover-SC-02-Small-Claims-Summons.docx"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/EFile-Cover-SC-03-Small-Claims-Return-of-Service.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/EFile-Cover-SC-03-Small-Claims-Return-of-Service.docx"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/EFile-Cover-SC-04-Small-Claims-Affidavit-of-Service.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/EFile-Cover-SC-04-Small-Claims-Affidavit-of-Service.docx"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/EFile-Cover-SC-06-Judgment-and-Order.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.wyocourts.gov/app/uploads/2025/12/EFile-Cover-SC-06-Judgment-and-Order.docx"
+    },
+    {
+      "text": "help filing a Small Claims Affidavit in Wyoming",
+      "url": "https://youtu.be/8qWYxlQ3rvc"
+    },
+    {
+      "text": "Self-Help Forms",
+      "url": "https://www.wyocourts.gov/self-help-forms/"
+    },
+    {
+      "text": "Click here",
+      "url": "https://www.wyocourts.gov/legal-help-by-topic/court-information/"
+    },
+    {
+      "text": "Click here",
+      "url": "https://www.wyocourts.gov/legal-help/find-a-lawyer/"
+    },
+    {
+      "text": "Click here",
+      "url": "https://www.wyocourts.gov/find-a-court/"
+    },
+    {
+      "text": "Self-Help Forms",
+      "url": "https://www.wyocourts.gov/self-help-forms/"
+    },
+    {
+      "text": "Click here",
+      "url": "https://www.wyocourts.gov/find-a-court/"
+    },
+    {
+      "text": "Click here",
+      "url": "https://www.wyocourts.gov/find-a-court/"
+    },
+    {
+      "text": "Click here",
+      "url": "https://www.wyocourts.gov/find-a-court/"
+    },
+    {
+      "text": "Click here",
+      "url": "https://www.wyocourts.gov/find-a-court/"
+    },
+    {
+      "text": "",
+      "url": "https://www.wyocourts.gov/"
+    },
+    {
+      "text": "Contact Information",
+      "url": "https://www.wyocourts.gov/contact/"
+    },
+    {
+      "text": "Equal Justice Wyoming Home",
+      "url": "https://www.wyocourts.gov/legal-help/"
+    },
+    {
+      "text": "About Equal Justice Wyoming",
+      "url": "https://www.wyocourts.gov/legal-help/about-equal-justice-wyoming/"
+    },
+    {
+      "text": "Attorney Resources",
+      "url": "https://www.wyocourts.gov/legal-help/attorney-resources/"
+    },
+    {
+      "text": "Contact EJW",
+      "url": "https://www.wyocourts.gov/legal-help/contact-ejw/"
+    },
+    {
+      "text": "Courts",
+      "url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/#"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.wyocourts.gov/supreme-court/"
+    },
+    {
+      "text": "District Courts",
+      "url": "https://www.wyocourts.gov/district-courts/"
+    },
+    {
+      "text": "Chancery Court",
+      "url": "https://www.wyocourts.gov/court/chancery-court/"
+    },
+    {
+      "text": "Circuit Courts",
+      "url": "https://www.wyocourts.gov/circuit-courts/"
+    },
+    {
+      "text": "Treatment and Diversion Courts",
+      "url": "https://www.wyocourts.gov/treatment-and-diversion-courts/"
+    },
+    {
+      "text": "Find a Court",
+      "url": "https://www.wyocourts.gov/find-a-court/"
+    },
+    {
+      "text": "Report Judicial Misconduct",
+      "url": "https://www.wyocourts.gov/committees-and-boards/commission-on-judicial-conduct-and-ethics/"
+    },
+    {
+      "text": "Frequently Asked Questions",
+      "url": "https://www.wyocourts.gov/about-the-courts/frequently-asked-questions/"
+    },
+    {
+      "text": "Rules & Opinions",
+      "url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/#"
+    },
+    {
+      "text": "Court Rules",
+      "url": "https://www.wyocourts.gov/court-rules/"
+    },
+    {
+      "text": "Rule Amendments",
+      "url": "https://www.wyocourts.gov/rule-amendments/"
+    },
+    {
+      "text": "General Orders",
+      "url": "https://www.wyocourts.gov/general-orders/"
+    },
+    {
+      "text": "Supreme Court Opinions",
+      "url": "https://www.wyocourts.gov/wy-supreme-court-opinions/"
+    },
+    {
+      "text": "Chancery Court Orders and Decisions",
+      "url": "https://www.wyocourts.gov/chancery-court-orders-and-decisions/"
+    },
+    {
+      "text": "Forms & Publications",
+      "url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/#"
+    },
+    {
+      "text": "Policies",
+      "url": "https://www.wyocourts.gov/policies/"
+    },
+    {
+      "text": "Publications",
+      "url": "https://www.wyocourts.gov/publications/"
+    },
+    {
+      "text": "Self-Help Forms",
+      "url": "https://www.wyocourts.gov/self-help-forms/"
+    },
+    {
+      "text": "Court Rules Forms and Documents",
+      "url": "https://www.wyocourts.gov/court-rules-forms-and-documents/"
+    },
+    {
+      "text": "Judicial Branch Info",
+      "url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/#"
+    },
+    {
+      "text": "About the Courts",
+      "url": "https://www.wyocourts.gov/about-the-courts/"
+    },
+    {
+      "text": "Administrative Office",
+      "url": "https://www.wyocourts.gov/administrative-office/"
+    },
+    {
+      "text": "Calendar",
+      "url": "https://www.wyocourts.gov/calendar/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.wyocourts.gov/careers/"
+    },
+    {
+      "text": "Committees and Boards",
+      "url": "https://www.wyocourts.gov/committees-and-boards/"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.wyocourts.gov/contact/"
+    },
+    {
+      "text": "Court Administration",
+      "url": "https://www.wyocourts.gov/court-administration/"
+    },
+    {
+      "text": "Employee Resources",
+      "url": "https://www.wyocourts.gov/employee-resources/"
+    },
+    {
+      "text": "Mission and Strategic Plan",
+      "url": "https://www.wyocourts.gov/mission-and-strategic-plan/"
+    },
+    {
+      "text": "Media Center",
+      "url": "https://www.wyocourts.gov/media-center/"
+    },
+    {
+      "text": "Services",
+      "url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/#"
+    },
+    {
+      "text": "ADA Services",
+      "url": "https://www.wyocourts.gov/ada-services/"
+    },
+    {
+      "text": "Court Navigator Services",
+      "url": "https://www.wyocourts.gov/court-navigator-services/"
+    },
+    {
+      "text": "Volunteer as a Court Navigator",
+      "url": "https://www.wyocourts.gov/info-for-court-navigators/"
+    },
+    {
+      "text": "Court Interpreter Services",
+      "url": "https://www.wyocourts.gov/court-interpreter-services/"
+    },
+    {
+      "text": "Data Requests",
+      "url": "https://www.wyocourts.gov/data-requests/"
+    },
+    {
+      "text": "Legal Resources",
+      "url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/#"
+    },
+    {
+      "text": "Legal Research and Resources",
+      "url": "https://www.wyocourts.gov/legal-research-resources/"
+    },
+    {
+      "text": "Law Library",
+      "url": "https://www.wyocourts.gov/law-library/"
+    },
+    {
+      "text": "Wyoming Research and Resources",
+      "url": "https://www.wyocourts.gov/legal-research-resources/wyoming-research-and-resources/"
+    },
+    {
+      "text": "Federal Research and Resources",
+      "url": "https://www.wyocourts.gov/legal-research-resources/federal-research-and-resources/"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://www.wyocourts.gov/jury-duty/"
+    },
+    {
+      "text": "Interactive Learning",
+      "url": "https://www.wyocourts.gov/interactive-learning/"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.wyocourts.gov/supreme-court/"
+    },
+    {
+      "text": "District Courts",
+      "url": "https://www.wyocourts.gov/district-court/"
+    },
+    {
+      "text": "Chancery Court",
+      "url": "https://www.wyocourts.gov/court/chancery-court/"
+    },
+    {
+      "text": "Circuit Courts",
+      "url": "https://www.wyocourts.gov/circuit-courts/"
+    },
+    {
+      "text": "Treatment and Diversion Courts",
+      "url": "https://www.wyocourts.gov/treatment-and-diversion-courts/"
+    },
+    {
+      "text": "O365 Portal",
+      "url": "https://portal.office.com/"
+    },
+    {
+      "text": "Social Media Policy",
+      "url": "https://www.wyocourts.gov/wyoming-judicial-branch-social-media-terms-and-conditions/"
+    },
+    {
+      "text": "Website Accessibility Statement",
+      "url": "https://www.wyocourts.gov/website-accessibility-statement"
+    },
+    {
+      "text": "Contact Information",
+      "url": "https://www.wyocourts.gov/contact/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/WyomingJudicialBranch"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/wyoming-judicial-branch/"
+    },
+    {
+      "text": "",
+      "url": "http://www.youtube.com/@WyomingJudicialBranch"
+    }
+  ]
+}

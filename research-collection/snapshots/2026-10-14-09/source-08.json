@@ -1,0 +1,103 @@
+{
+  "state": "Rhode Island",
+  "publisher": "Rhode Island Department of Health",
+  "url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/living-will-declaration.pdf",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": ".*",
+      "title": "Living Will Declaration",
+      "family_id": "health-care-directive",
+      "identity": "DECLARATION.*dying shall not be artificially prolonged"
+    }
+  ],
+  "direct": true,
+  "source": {
+    "url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/living-will-declaration.pdf",
+    "final_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/living-will-declaration.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "retrieved_at": "2026-10-14T09:58:57.484Z",
+    "etag": null,
+    "last_modified": "Sun, 12 Jan 2025 15:05:33 GMT",
+    "content_length": "53692",
+    "sha256": "fedafa60a2329b490fa5399f7ae108ad0e97323ee2f9139680d86e5dab73e62b",
+    "title": "",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-09/08-rhode-island-source.pdf"
+  },
+  "source_attempts": [
+    {
+      "url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/living-will-declaration.pdf",
+      "final_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/living-will-declaration.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "retrieved_at": "2026-10-14T09:58:57.484Z",
+      "etag": null,
+      "last_modified": "Sun, 12 Jan 2025 15:05:33 GMT",
+      "content_length": "53692",
+      "sha256": "fedafa60a2329b490fa5399f7ae108ad0e97323ee2f9139680d86e5dab73e62b",
+      "title": "",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": ".*",
+      "title": "Living Will Declaration",
+      "family_id": "health-care-directive",
+      "identity": "DECLARATION.*dying shall not be artificially prolonged",
+      "url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/living-will-declaration.pdf",
+      "link_text": "Living Will Declaration",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/living-will-declaration.pdf",
+        "final_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/living-will-declaration.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:58:57.484Z",
+        "etag": null,
+        "last_modified": "Sun, 12 Jan 2025 15:05:33 GMT",
+        "content_length": "53692",
+        "sha256": "fedafa60a2329b490fa5399f7ae108ad0e97323ee2f9139680d86e5dab73e62b",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/living-will-declaration.pdf",
+          "final_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/living-will-declaration.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:58:57.484Z",
+          "etag": null,
+          "last_modified": "Sun, 12 Jan 2025 15:05:33 GMT",
+          "content_length": "53692",
+          "sha256": "fedafa60a2329b490fa5399f7ae108ad0e97323ee2f9139680d86e5dab73e62b",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "fedafa60a2329b490fa5399f7ae108ad0e97323ee2f9139680d86e5dab73e62b",
+      "local_archive_path": "archive/2026-10-14-09/08-living-will-declaration-fedafa60a232.pdf",
+      "bytes": 53692,
+      "text_length": 1613,
+      "pages": 1,
+      "identity_excerpt": "DECLARATION I, .........................., being of sound mind, willfully and voluntarily make known my desire that my dying shall not be artificially prolonged under the circumstances set forth below, do hereby declare: if I should have an incurable or irreversible condition that will cause my death and if I am unable to make decisions regarding my medical treatment, I direct my attending physician to withhold or withdraw procedures that merely prolong the dying process and are not necessary to my comfort, or to alleviate pain. This authorization includes () does not include () the withholding or withdrawal of artificial feeding (check only one box in this sentence). Signed this .......... day of .............................., ............................................... ............................................... Declarant Signature .............................................. Declarant Name ............................................... ............................................... Declarant Address The Declarant is personally known to me and voluntarily signed this document in my presence. ............................................... Witness 1 Signature ............................................... Witness 2 Signature ............................................... Witness 1 Name ............................................... Witness 2 Name ............................................... ............................................... Witness 1 Address ............................................... ............................................... Witness 2 Address",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Living Will Declaration",
+      "url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/living-will-declaration.pdf"
+    }
+  ]
+}

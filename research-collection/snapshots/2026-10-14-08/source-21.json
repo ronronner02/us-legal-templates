@@ -1,0 +1,108 @@
+{
+  "state": "Utah",
+  "publisher": "Utah State Courts",
+  "url": "https://legacy.utcourts.gov/resources/forms/probate/affidavit_personal_property.pdf",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": ".*",
+      "title": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT FOR COLLECTING PERSONAL PROPERTY",
+      "max": 1
+    }
+  ],
+  "direct": true,
+  "flags": [
+    "legacy-publisher-endpoint; current-form-currency-review-pending"
+  ],
+  "source": {
+    "url": "https://legacy.utcourts.gov/resources/forms/probate/affidavit_personal_property.pdf",
+    "final_url": "https://legacy.utcourts.gov/resources/forms/probate/affidavit_personal_property.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "retrieved_at": "2026-10-14T09:40:13.698Z",
+    "etag": "\"576213d0f0c8d21:0\"",
+    "last_modified": "Tue, 09 May 2017 18:19:35 GMT",
+    "content_length": "68549",
+    "sha256": "ebfb038e167a3771a934a7b7f2d4c38607a2704ee4f6e276fabeac83cd39ae82",
+    "title": "",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/21-utah-source.pdf"
+  },
+  "source_attempts": [
+    {
+      "url": "https://legacy.utcourts.gov/resources/forms/probate/affidavit_personal_property.pdf",
+      "final_url": "https://legacy.utcourts.gov/resources/forms/probate/affidavit_personal_property.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "retrieved_at": "2026-10-14T09:40:13.698Z",
+      "etag": "\"576213d0f0c8d21:0\"",
+      "last_modified": "Tue, 09 May 2017 18:19:35 GMT",
+      "content_length": "68549",
+      "sha256": "ebfb038e167a3771a934a7b7f2d4c38607a2704ee4f6e276fabeac83cd39ae82",
+      "title": "",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": ".*",
+      "title": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+      "family_id": "small-estate-affidavit",
+      "identity": "AFFIDAVIT FOR COLLECTING PERSONAL PROPERTY",
+      "max": 1,
+      "url": "https://legacy.utcourts.gov/resources/forms/probate/affidavit_personal_property.pdf",
+      "link_text": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://legacy.utcourts.gov/resources/forms/probate/affidavit_personal_property.pdf",
+        "final_url": "https://legacy.utcourts.gov/resources/forms/probate/affidavit_personal_property.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:13.698Z",
+        "etag": "\"576213d0f0c8d21:0\"",
+        "last_modified": "Tue, 09 May 2017 18:19:35 GMT",
+        "content_length": "68549",
+        "sha256": "ebfb038e167a3771a934a7b7f2d4c38607a2704ee4f6e276fabeac83cd39ae82",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://legacy.utcourts.gov/resources/forms/probate/affidavit_personal_property.pdf",
+          "final_url": "https://legacy.utcourts.gov/resources/forms/probate/affidavit_personal_property.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:13.698Z",
+          "etag": "\"576213d0f0c8d21:0\"",
+          "last_modified": "Tue, 09 May 2017 18:19:35 GMT",
+          "content_length": "68549",
+          "sha256": "ebfb038e167a3771a934a7b7f2d4c38607a2704ee4f6e276fabeac83cd39ae82",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "ebfb038e167a3771a934a7b7f2d4c38607a2704ee4f6e276fabeac83cd39ae82",
+      "local_archive_path": "archive/2026-10-14-08/21-affidavit-for-collecting-personal-property-in-a-small-estate-proceeding-ebfb038e167a.pdf",
+      "bytes": 68549,
+      "text_length": 1872,
+      "pages": 1,
+      "identity_excerpt": "Small Estate Affidavit – Personal Property February 2009 Revised May 9, 2017 Page 1 of 1 Affidavit for Collecting Personal Property in a Small Estate Proceeding Being first duly sworn, I state that: (1) This affidavit is made for the purpose of collecting the personal property of ____________________________________________________ (name), who died on ___________________ (date), as authorized by Utah Code Section 75-3-1201; (2) (a) [ ] I am the decedent’s successor and entitled to payment or delivery of the property; (b) [ ] I am the duly authorized agent of ____________________________________________________ (name), who is the decedent’s successor; (3) The value of the entire estate subject to administration, wherever located, less liens and encumbrances, does not exceed $100,000; (4) 30 days have elapsed since the death of the decedent; (5) No application or petition for the appointment of a personal representative is pending or has been granted in any jurisdiction; (6) The decedent’s successor is entitled to payment or delivery of any indebtedness owed to the decedent, any tangible personal property belonging to the decedent, and any instruments evidencing a debt, obligation, stock, or chose in action belonging to the decedent; and (7) Such indebtedness, tangible personal property or instrument evidencing a debt, obligation, stock, or chose in action include: Sign here ► Date Typed or Printed Name On this date, I certify that _________________________________________________________ (name) who is known to me or who presented satisfactory identification, in the form of ______________________________________________________ (form of identification), has, while in my presence and while under oath or affirmation, voluntarily signed this document and declared that it is ",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+      "url": "https://legacy.utcourts.gov/resources/forms/probate/affidavit_personal_property.pdf"
+    }
+  ]
+}

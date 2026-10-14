@@ -1,0 +1,81 @@
+{
+  "state": "Vermont",
+  "publisher": "Vermont Judiciary",
+  "url": "https://www.vtcourts.gov/probate/estates-and-wills",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "700-00001SM.*\\.pdf",
+      "title": "Petition to Open Small Estate",
+      "form_id": "700-00001SM",
+      "family_id": "small-estate-petition",
+      "identity": "PETITION TO OPEN SMALL ESTATE",
+      "max": 1
+    },
+    {
+      "pattern": "700-00402.*\\.pdf",
+      "title": "Affidavit of Paid and Outstanding Funeral Expenses and Debts for Small Estate",
+      "form_id": "700-00402",
+      "family_id": "small-estate-debt-affidavit",
+      "identity": "FUNERAL EXPENSES",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.vtcourts.gov/probate/estates-and-wills",
+    "final_url": "https://www.vtcourts.gov/probate/estates-and-wills",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:00:56.893Z",
+    "etag": "\"1791954066-gzip\"",
+    "last_modified": "Wed, 14 Oct 2026 05:01:06 GMT",
+    "content_length": "25762",
+    "sha256": "cf4981d61fc1b00654e0ee30788baed61b06b8b8bd0005ed35d118ad1851a8a7",
+    "title": "Estates and Wills | Vermont Judiciary",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14/04-vermont-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.vtcourts.gov/probate/estates-and-wills",
+      "final_url": "https://www.vtcourts.gov/probate/estates-and-wills",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:00:56.893Z",
+      "etag": "\"1791954066-gzip\"",
+      "last_modified": "Wed, 14 Oct 2026 05:01:06 GMT",
+      "content_length": "25762",
+      "sha256": "cf4981d61fc1b00654e0ee30788baed61b06b8b8bd0005ed35d118ad1851a8a7",
+      "title": "Estates and Wills | Vermont Judiciary",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "700-00001SM.*\\.pdf",
+      "title": "Petition to Open Small Estate",
+      "form_id": "700-00001SM",
+      "family_id": "small-estate-petition",
+      "identity": "PETITION TO OPEN SMALL ESTATE",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    },
+    {
+      "pattern": "700-00402.*\\.pdf",
+      "title": "Affidavit of Paid and Outstanding Funeral Expenses and Debts for Small Estate",
+      "form_id": "700-00402",
+      "family_id": "small-estate-debt-affidavit",
+      "identity": "FUNERAL EXPENSES",
+      "max": 1,
+      "url": null,
+      "status": "no-matching-link",
+      "downloaded": false
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": []
+}

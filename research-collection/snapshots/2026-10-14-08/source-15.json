@@ -1,0 +1,738 @@
+{
+  "state": "New Mexico",
+  "publisher": "New Mexico Courts Self-Representation",
+  "url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "/4B-301-Application-for-informal-appointment.*\\.pdf",
+      "title": "Application for Informal Appointment of Personal Representative (No Will)",
+      "family_id": "probate-petition",
+      "identity": "APPLICATION FOR INFORMAL APPOINTMENT",
+      "form_id": "4B-301",
+      "max": 1
+    },
+    {
+      "pattern": "/4B-601-Inventory\\.pdf",
+      "title": "Inventory",
+      "family_id": "inventory-and-appraisal",
+      "identity": "INVENTORY",
+      "form_id": "4B-601",
+      "max": 1
+    },
+    {
+      "pattern": "/4B-702-Verified-small-estate.*\\.pdf",
+      "title": "Verified Small Estate Closing Statement of the Personal Representative",
+      "family_id": "small-estate-closing-statement",
+      "identity": "VERIFIED SMALL ESTATE CLOSING STATEMENT",
+      "form_id": "4B-702",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/",
+    "final_url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:40:09.399Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "b3377c383ef2581ceae91fc7d342cecfd4c5a5d9b79a2b681f46ea9ff04643b2",
+    "title": "Probate - Self-Representation",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-08/15-new-mexico-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/",
+      "final_url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:40:09.399Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "b3377c383ef2581ceae91fc7d342cecfd4c5a5d9b79a2b681f46ea9ff04643b2",
+      "title": "Probate - Self-Representation",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "/4B-301-Application-for-informal-appointment.*\\.pdf",
+      "title": "Application for Informal Appointment of Personal Representative (No Will)",
+      "family_id": "probate-petition",
+      "identity": "APPLICATION FOR INFORMAL APPOINTMENT",
+      "form_id": "4B-301",
+      "max": 1,
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-301-Application-for-informal-appointment-of-personal-representative-no-will.pdf",
+      "link_text": "4B-301. Application for informal appointment of personal representative (no will).\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-301-Application-for-informal-appointment-of-personal-representative-no-will.pdf",
+        "final_url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-301-Application-for-informal-appointment-of-personal-representative-no-will.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:09.751Z",
+        "etag": null,
+        "last_modified": "Sun, 17 Nov 2024 20:10:19 GMT",
+        "content_length": "67247",
+        "sha256": "fe438129ac692bec77020459693c089280ed3b4eee7418a1cecf2612c4da2fe7",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-301-Application-for-informal-appointment-of-personal-representative-no-will.pdf",
+          "final_url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-301-Application-for-informal-appointment-of-personal-representative-no-will.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:09.751Z",
+          "etag": null,
+          "last_modified": "Sun, 17 Nov 2024 20:10:19 GMT",
+          "content_length": "67247",
+          "sha256": "fe438129ac692bec77020459693c089280ed3b4eee7418a1cecf2612c4da2fe7",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "fe438129ac692bec77020459693c089280ed3b4eee7418a1cecf2612c4da2fe7",
+      "local_archive_path": "archive/2026-10-14-08/15-application-for-informal-appointment-of-personal-representative-no-will-fe438129ac69.pdf",
+      "bytes": 67247,
+      "text_length": 5663,
+      "pages": 4,
+      "identity_excerpt": "4B-301. Application for informal appointment of personal representative (no will). [For use with Rule 1B-304 NMRA] STATE OF NEW MEXICO IN THE PROBATE COURT __________________ COUNTY IN THE MATTER OF THE ESTATE OF No. _________________ __________________, DECEASED. APPLICATION FOR INFORMAL APPOINTMENT OF PERSONAL REPRESENTATIVE (NO WILL)1 I, ____________________, state that 1. I had the following relationship with ____________________, the person who died (the decedent), that qualifies me to act as personal representative of the estate of the decedent1: (Choose one) (Review the priorities for appointment set out in Section 45-3-203(A) NMSA 1978 and Rule 1B- 304 NMRA.) [ ] I am the surviving spouse of the decedent. [ ] I am one of the heirs of the estate of the decedent. [ ] I am an interested person, including a creditor of the decedent, and forty-five (45) days have elapsed since the date of death of the decedent. Because of this relationship, I have an interest in the estate of the decedent, and I am willing to serve as personal representative of the estate of the decedent. I am not disqualified to act as personal representative. I do not know of anyone else who is interested in serving as personal representative who has priority to serve. (Check if applicable) [ ] Anyone who has equal or higher priority to serve has consented below to my appointment by signing this form. 2. The decedent died on _________________ (date), at the age of _____. At death, the decedent (Choose one) [ ] lived in _________ County, New Mexico. [ ] did not live in New Mexico, but lived in _____________ County, State of _____________ and owned property in _____________ County, New Mexico. 3. I have carefully searched for all of the names and addresses of the decedent’s spouse, children, and othe",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "/4B-601-Inventory\\.pdf",
+      "title": "Inventory",
+      "family_id": "inventory-and-appraisal",
+      "identity": "INVENTORY",
+      "form_id": "4B-601",
+      "max": 1,
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-601-Inventory.pdf",
+      "link_text": "4B-601. Inventory.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-601-Inventory.pdf",
+        "final_url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-601-Inventory.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:09.988Z",
+        "etag": null,
+        "last_modified": "Sun, 17 Nov 2024 20:10:18 GMT",
+        "content_length": "44168",
+        "sha256": "0b5fa4506604e3d30dd1df6ed4a30c41586bc6c0a91367a5fae1332cbcafae89",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-601-Inventory.pdf",
+          "final_url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-601-Inventory.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:09.988Z",
+          "etag": null,
+          "last_modified": "Sun, 17 Nov 2024 20:10:18 GMT",
+          "content_length": "44168",
+          "sha256": "0b5fa4506604e3d30dd1df6ed4a30c41586bc6c0a91367a5fae1332cbcafae89",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "0b5fa4506604e3d30dd1df6ed4a30c41586bc6c0a91367a5fae1332cbcafae89",
+      "local_archive_path": "archive/2026-10-14-08/15-inventory-0b5fa4506604.pdf",
+      "bytes": 44168,
+      "text_length": 1613,
+      "pages": 2,
+      "identity_excerpt": "4B-601. Inventory. [For use with Rules 1B-304, 1B-306, and 1B-501 NMRA] STATE OF NEW MEXICO IN THE PROBATE COURT _______________ COUNTY IN THE MATTER OF THE ESTATE OF No. _________________ ______________________, DECEASED. INVENTORY I, ___________________________, the personal representative of the estate of the decedent, have prepared an inventory of the property of the estate of the decedent. I am sending a copy of this document to the interested people who have requested it. The inventory is as follows: Item Estimated Value Mortgage or Lien on Date of Death 1. ______________ $______________ $______________ 2. ______________ $______________ $______________ 3. ______________ $______________ $______________ 4. ______________ $______________ $______________ 5. ______________ $______________ $______________ 6. ______________ $______________ $______________ _____________________________ Signature of personal representative _____________________________ Date _____________________________ Printed name _____________________________ Street address _____________________________ City, state, and ZIP code _____________________________ Telephone number (optional) _____________________________ Email address (optional) USE NOTE See NMSA 1978, Sections 45-3-706 to 45-3-708 for preparation of inventory of property owned by the decedent. [Approved, effective September 15, 2000; as amended by Supreme Court Order No. 07-8300-005, effective March 1, 2007; 4B-401 recompiled and amended as 4B-601 by Supreme Court Order No. 18-8300-014, effective for all cases pending or filed on or after December 31, 2018.]",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "/4B-702-Verified-small-estate.*\\.pdf",
+      "title": "Verified Small Estate Closing Statement of the Personal Representative",
+      "family_id": "small-estate-closing-statement",
+      "identity": "VERIFIED SMALL ESTATE CLOSING STATEMENT",
+      "form_id": "4B-702",
+      "max": 1,
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-702-Verified-small-estate-closing-statement-of-the-personal-representative.pdf",
+      "link_text": "4B-702. Verified small estate closing statement of the personal representative.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-702-Verified-small-estate-closing-statement-of-the-personal-representative.pdf",
+        "final_url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-702-Verified-small-estate-closing-statement-of-the-personal-representative.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:40:10.207Z",
+        "etag": null,
+        "last_modified": "Sun, 17 Nov 2024 20:10:19 GMT",
+        "content_length": "41032",
+        "sha256": "5fc0f0f76ae5dbd76bf2a12a4e1c096b6f6b6a60b75c1e405fb901f8e9504ef1",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-702-Verified-small-estate-closing-statement-of-the-personal-representative.pdf",
+          "final_url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-702-Verified-small-estate-closing-statement-of-the-personal-representative.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:40:10.207Z",
+          "etag": null,
+          "last_modified": "Sun, 17 Nov 2024 20:10:19 GMT",
+          "content_length": "41032",
+          "sha256": "5fc0f0f76ae5dbd76bf2a12a4e1c096b6f6b6a60b75c1e405fb901f8e9504ef1",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "5fc0f0f76ae5dbd76bf2a12a4e1c096b6f6b6a60b75c1e405fb901f8e9504ef1",
+      "local_archive_path": "archive/2026-10-14-08/15-verified-small-estate-closing-statement-of-the-personal-representative-5fc0f0f76ae5.pdf",
+      "bytes": 41032,
+      "text_length": 2704,
+      "pages": 2,
+      "identity_excerpt": "4B-702. Verified small estate closing statement of the personal representative. [For use with Rules 1B-304, 1B-306, and 1B-601 NMRA] STATE OF NEW MEXICO IN THE PROBATE COURT _______________ COUNTY IN THE MATTER OF THE ESTATE OF No. ____________________ ______________________, DECEASED. VERIFIED SMALL ESTATE CLOSING STATEMENT OF THE PERSONAL REPRESENTATIVE I, ____________________, state that 1. I am the personal representative of the estate of the decedent; 2. I have completed my work on the estate of the decedent. In order to do this, I A. inventoried and estimated the value in writing of all of the decedent’s property and encumbrances on this property; B. determined to the best of my knowledge that the value of the entire estate, less liens and encumbrances, does not exceed the family allowance, personal property allowance, costs and expenses of administration, reasonable necessary medical and hospital expenses of the last illness of the decedent, and reasonable funeral expenses; and C. distributed all the remaining assets, including decedent’s real property, if any, to the people who were entitled to receive them, taking into account the family and personal property allowances allowed by law. The distributions were in the appropriate amounts; 3. I mailed a copy of this document to anyone entitled to a distribution from the estate and to all creditors or other claimants of whom I am aware whose claims are neither paid nor barred. I also mailed a copy of the accounting of this estate to anyone entitled to a distribution from this estate whose interests were affected by the accounting; 4. As far as I know, there are no other actions pending in any court; and 5. By this closing statement, I am indicating to the court that I am closing the estate of the decedent. I affirm ",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip to content",
+      "url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/#content"
+    },
+    {
+      "text": "",
+      "url": "https://nmcourts.gov/"
+    },
+    {
+      "text": "",
+      "url": "https://nmcourts.gov/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://nmcourts.gov/careers/"
+    },
+    {
+      "text": "News",
+      "url": "https://nmcourts.gov/news/"
+    },
+    {
+      "text": "Resources",
+      "url": "https://nmcourts.gov/resources/"
+    },
+    {
+      "text": "Court Administration",
+      "url": "https://nmcourts.gov/court-administration/"
+    },
+    {
+      "text": "ADA & Accommodations",
+      "url": "https://nmcourts.gov/ada-accommodations/"
+    },
+    {
+      "text": "ADA & Accommodations",
+      "url": "https://nmcourts.gov/ada-accommodations/"
+    },
+    {
+      "text": "Find Your Court",
+      "url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/#"
+    },
+    {
+      "text": "Find Your Court",
+      "url": "https://nmcourts.gov/find-your-court/"
+    },
+    {
+      "text": "About the Courts",
+      "url": "https://nmcourts.gov/about-the-courts/"
+    },
+    {
+      "text": "Courts in New Mexico",
+      "url": "https://nmcourts.gov/courts-in-new-mexico/"
+    },
+    {
+      "text": "Courts by District",
+      "url": "https://nmcourts.gov/courts-by-district/"
+    },
+    {
+      "text": "Courts by County",
+      "url": "https://nmcourts.gov/courts-by-county/"
+    },
+    {
+      "text": "Search for Your Court",
+      "url": "https://nmcourts.gov/search-for-your-court/"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/#"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://jury.nmcourts.gov/"
+    },
+    {
+      "text": "Jury Duty Portal",
+      "url": "https://jurorportal.nmcourts.gov/qualification/"
+    },
+    {
+      "text": "About Jury Duty",
+      "url": "https://jury.nmcourts.gov/about-jury-duty/"
+    },
+    {
+      "text": "Jury Duty by District",
+      "url": "https://jury.nmcourts.gov/jury-duty-by-districts/"
+    },
+    {
+      "text": "Frequently Asked Questions (FAQs)",
+      "url": "https://jury.nmcourts.gov/frequently-asked-questions-faqs/"
+    },
+    {
+      "text": "Tips for Coping After Jury Duty",
+      "url": "https://jury.nmcourts.gov/tips-for-coping-after-jury-duty/"
+    },
+    {
+      "text": "Jury Related Forms",
+      "url": "https://jury.nmcourts.gov/jury-related-forms/"
+    },
+    {
+      "text": "Self-Representation",
+      "url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/#"
+    },
+    {
+      "text": "Self-Representation",
+      "url": "https://selfrepresentation.nmcourts.gov/"
+    },
+    {
+      "text": "Self-Representation by Court District",
+      "url": "https://selfrepresentation.nmcourts.gov/sample-page/self-representation-by-court-district/"
+    },
+    {
+      "text": "Self-Representation Video Library",
+      "url": "https://selfrepresentation.nmcourts.gov/self-representation-video-library/"
+    },
+    {
+      "text": "Adult Guardianship & Conservatorship",
+      "url": "https://adultguardianship.nmcourts.gov/"
+    },
+    {
+      "text": "Appeals from District Court",
+      "url": "https://coa.nmcourts.gov/self-representation/"
+    },
+    {
+      "text": "Divorce",
+      "url": "https://selfrepresentation.nmcourts.gov/sample-page/divorce/"
+    },
+    {
+      "text": "Domestic Violence",
+      "url": "https://domesticviolence.nmcourts.gov/"
+    },
+    {
+      "text": "Expungement of Records Involving Cannabis",
+      "url": "https://nmcourts.gov/court-administration/office-of-general-counsel/expungement/"
+    },
+    {
+      "text": "Extreme Risk Firearm Protection Order (ERFPO)",
+      "url": "https://nmcourts.gov/extreme-risk-firearm-protection-order-erfpo/"
+    },
+    {
+      "text": "Kinship Guardianship",
+      "url": "https://selfrepresentation.nmcourts.gov/kinship-guardianship/"
+    },
+    {
+      "text": "Landlord-Tenant",
+      "url": "https://selfrepresentation.nmcourts.gov/landlord-tenant/"
+    },
+    {
+      "text": "Name Change",
+      "url": "https://selfrepresentation.nmcourts.gov/sample-page/name-change/"
+    },
+    {
+      "text": "Probate",
+      "url": "https://selfrepresentation.nmcourts.gov/sample-page/probate/"
+    },
+    {
+      "text": "Supreme Court Law Library",
+      "url": "https://lawlibrary.nmcourts.gov/"
+    },
+    {
+      "text": "Resources",
+      "url": "https://nmcourts.gov/resources/"
+    },
+    {
+      "text": "New Mexico Courts HelpLine",
+      "url": "https://selfrepresentation.nmcourts.gov/new-mexico-courts-helpline/"
+    },
+    {
+      "text": "Pay Fines/Fees",
+      "url": "https://payments.lexisnexis.com/nm/aoc"
+    },
+    {
+      "text": "Services & Programs",
+      "url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/#"
+    },
+    {
+      "text": "Services & Programs",
+      "url": "https://nmcourts.gov/services-programs/"
+    },
+    {
+      "text": "Adult Guardianship",
+      "url": "https://adultguardianship.nmcourts.gov/"
+    },
+    {
+      "text": "Alternative Dispute Resolution (ADR) Services",
+      "url": "https://adr.nmcourts.gov/"
+    },
+    {
+      "text": "Behavioral Health",
+      "url": "https://behavioralhealth.nmcourts.gov/"
+    },
+    {
+      "text": "Bernalillo County Criminal Justice Coordinating Council (BCCJCC)",
+      "url": "https://nmcourts.gov/services-programs/bccjcc/"
+    },
+    {
+      "text": "Court Appointed Special Advocates (CASA)",
+      "url": "https://newmexicocasa.org/"
+    },
+    {
+      "text": "Court Improvement Project",
+      "url": "https://cip.nmcourts.gov/"
+    },
+    {
+      "text": "Department for Therapeutic Justice",
+      "url": "https://treatmentcourts.nmcourts.gov/"
+    },
+    {
+      "text": "Domestic Violence",
+      "url": "https://domesticviolence.nmcourts.gov/"
+    },
+    {
+      "text": "Judicial Performance Evaluation",
+      "url": "https://nmjpec.org/en/"
+    },
+    {
+      "text": "NM AOC Pretrial Justice Program",
+      "url": "https://pretrial.nmcourts.gov/"
+    },
+    {
+      "text": "Rural Justice Initiative",
+      "url": "https://nmrji.nmcourts.gov/en/"
+    },
+    {
+      "text": "Safe Exchange & Supervised Visitation (SESV)",
+      "url": "https://sesv.nmcourts.gov/"
+    },
+    {
+      "text": "Tribal-State Judicial Consortium",
+      "url": "https://tribalstate.nmcourts.gov/"
+    },
+    {
+      "text": "Public Records",
+      "url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/#"
+    },
+    {
+      "text": "Public Records",
+      "url": "https://nmcourts.gov/public-records/"
+    },
+    {
+      "text": "Inspection of Public Records Request (IPRA)",
+      "url": "https://ipra.nmcourts.gov/"
+    },
+    {
+      "text": "Case Lookup",
+      "url": "https://caselookup.nmcourts.gov/caselookup/"
+    },
+    {
+      "text": "Public Access and re:Search®NM",
+      "url": "https://selfrepresentation.nmcourts.gov/self-representation/public-access-and-researchnm/"
+    },
+    {
+      "text": "Forms & Files",
+      "url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/#"
+    },
+    {
+      "text": "Forms & Files",
+      "url": "https://nmcourts.gov/forms-library/"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://nmcourts.gov/forms-files/accessibility"
+    },
+    {
+      "text": "Adult Guardianship",
+      "url": "https://nmcourts.gov/forms-files/adult-guardianship/"
+    },
+    {
+      "text": "Affidavits",
+      "url": "https://nmcourts.gov/forms-files/affidavits"
+    },
+    {
+      "text": "Appeals",
+      "url": "https://nmcourts.gov/forms-files/appeals"
+    },
+    {
+      "text": "Child Support",
+      "url": "https://nmcourts.gov/forms-files/child-support"
+    },
+    {
+      "text": "Children’s Court",
+      "url": "https://nmcourts.gov/forms-files/childrens-court/"
+    },
+    {
+      "text": "Civil",
+      "url": "https://nmcourts.gov/forms-files/civil"
+    },
+    {
+      "text": "Criminal",
+      "url": "https://nmcourts.gov/forms-files/criminal"
+    },
+    {
+      "text": "Divorce & Family",
+      "url": "https://nmcourts.gov/forms-library/"
+    },
+    {
+      "text": "Domestic Violence",
+      "url": "https://nmcourts.gov/forms-library/"
+    },
+    {
+      "text": "Jury Duty",
+      "url": "https://nmcourts.gov/forms-files/jury-duty"
+    },
+    {
+      "text": "Kinship Guardianship",
+      "url": "https://nmcourts.gov/forms-library/"
+    },
+    {
+      "text": "Landlord/Tenant",
+      "url": "https://nmcourts.gov/forms-library/"
+    },
+    {
+      "text": "Name Change",
+      "url": "https://nmcourts.gov/forms-files/name-change"
+    },
+    {
+      "text": "Other Files",
+      "url": "https://nmcourts.gov/forms-files/other-files/"
+    },
+    {
+      "text": "Probate",
+      "url": "https://nmcourts.gov/forms-files/probate"
+    },
+    {
+      "text": "Self-Representation",
+      "url": "https://nmcourts.gov/forms-files/self-representation"
+    },
+    {
+      "text": "Careers",
+      "url": "https://nmcourts.gov/careers/"
+    },
+    {
+      "text": "News",
+      "url": "https://nmcourts.gov/news/"
+    },
+    {
+      "text": "Resources",
+      "url": "https://nmcourts.gov/resources/"
+    },
+    {
+      "text": "Court Administration",
+      "url": "https://nmcourts.gov/court-administration/"
+    },
+    {
+      "text": "ADA & Accommodations",
+      "url": "https://nmcourts.gov/ada-accommodations/"
+    },
+    {
+      "text": "ADA & Accommodations",
+      "url": "https://nmcourts.gov/ada-accommodations/"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://supremecourt.nmcourts.gov/"
+    },
+    {
+      "text": "Court of Appeals",
+      "url": "https://coa.nmcourts.gov/"
+    },
+    {
+      "text": "District Courts",
+      "url": "https://nmcourts.gov/courts-by-district/"
+    },
+    {
+      "text": "Bernalillo County Metropolitan Court",
+      "url": "https://metro.nmcourts.gov/"
+    },
+    {
+      "text": "municipal courts",
+      "url": "https://municipalcourts.nmcourts.gov/"
+    },
+    {
+      "text": "Self-Representation",
+      "url": "https://selfrepresentation.nmcourts.gov/"
+    },
+    {
+      "text": "Forms & Files",
+      "url": "https://selfrepresentation.nmcourts.gov/forms-library/"
+    },
+    {
+      "text": "Self-Help Guide",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/2024/01/SRL_Probate.pdf"
+    },
+    {
+      "text": "Probate\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms Information guide on the who, what, when, where, how, and why in regards to probate. \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2024/01/SRL_Probate.pdf"
+    },
+    {
+      "text": "4B-801. Proof of authority.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-801.pdf"
+    },
+    {
+      "text": "4B-802. Certificate acknowledging receipt of documents related to proof of authority.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-802.pdf"
+    },
+    {
+      "text": "Probate. Diné\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2024/01/Probate-2019-Navajo-FINAL.pdf"
+    },
+    {
+      "text": "4B-304. Order for informal probate of will and appointment of personal representative (will).\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-304-Order-for-informal-probate-of-will-and-appointment-of-personal-representative-will.pdf"
+    },
+    {
+      "text": "4B-307. Letters testamentary (will).\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-307-Letters-testamentary-will.pdf"
+    },
+    {
+      "text": "4B-401. Notice of informal appointment of personal representative.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-401-Notice-of-informal-appointment-of-personal-representative.pdf"
+    },
+    {
+      "text": "4B-402. Proof of notice.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-402-Proof-of-notice.pdf"
+    },
+    {
+      "text": "4B-501. Notice to creditors by publication and notice to creditors by written notice (mailing or other delivery).\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-501-Notice-to-creditors-by-publication-and-notice-to-creditors-by-written-notice-mailing-or-other-delivery.pdf"
+    },
+    {
+      "text": "4B-601. Inventory.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-601-Inventory.pdf"
+    },
+    {
+      "text": "4B-602. Accounting.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-602-Accounting.pdf"
+    },
+    {
+      "text": "4B-701. Verified closing statement of the personal representative.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-701-Verified-closing-statement-of-the-personal-representative.pdf"
+    },
+    {
+      "text": "4B-702. Verified small estate closing statement of the personal representative.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-702-Verified-small-estate-closing-statement-of-the-personal-representative.pdf"
+    },
+    {
+      "text": "4B-904. Letters of special administration.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-904-Letters-of-special-administration.pdf"
+    },
+    {
+      "text": "4B-902. Order appointing special administrator.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-902-Order-appointing-special-administrator.pdf"
+    },
+    {
+      "text": "4B-903. Acceptance for appointment of special administrator.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-903-Acceptance-for-appointment-of-special-administrator.pdf"
+    },
+    {
+      "text": "4B-1001. Order transferring case from probate court to district court.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-1001-Order-transferring-case-from-probate-court-to-district-court.pdf"
+    },
+    {
+      "text": "4B-101. Opening and closing a probate court case (flow chart)\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-101-Opening-and-closing-a-probate-court-case-flow-chart.pdf"
+    },
+    {
+      "text": "4B-201. Affidavit of poverty and indigency.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/"
+    },
+    {
+      "text": "4B-202. Order allowing free process.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-202-Order-allowing-free-process.pdf"
+    },
+    {
+      "text": "4B-301. Application for informal appointment of personal representative (no will).\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-301-Application-for-informal-appointment-of-personal-representative-no-will.pdf"
+    },
+    {
+      "text": "4B-302. Application for informal probate of will and for informal appointment of personal representative (will).\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-302-Application-for-informal-probate-of-will-and-for-informal-appointment-of-personal-representative-will.pdf"
+    },
+    {
+      "text": "4B-303. Order for informal appointment of personal representative (no will).\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/"
+    },
+    {
+      "text": "4B-305. Acceptance of appointment as personal representative (no will) (will).\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-305-Acceptance-of-appointment-as-personal-representative-no-will-will.pdf"
+    },
+    {
+      "text": "4B-306. Letters of administration (no will).\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-306-Letters-of-administration-no-will.pdf"
+    },
+    {
+      "text": "4B-901. Application for informal appointment of special administrator.\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t New Mexico Court Forms  \n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tView More",
+      "url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-901-Application-for-informal-appointment-of-special-administrator.pdf"
+    },
+    {
+      "text": "ADA Accessibility",
+      "url": "https://nmcourts.gov/ada-accessibility/"
+    },
+    {
+      "text": "Language Access Services",
+      "url": "https://languageaccess.nmcourts.gov/"
+    },
+    {
+      "text": "ADA & Accommodations",
+      "url": "https://nmcourts.gov/ada-accommodations/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://nmcourts.gov/careers/"
+    },
+    {
+      "text": "Public Records Request (IPRA)",
+      "url": "https://ipra.nmcourts.gov/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://nmcourts.gov/contact-us/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/nmcourts?lang=en"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/NewMexicoCourts"
+    },
+    {
+      "text": ".cls-1 { fill: #fff; stroke-width: 0px; }",
+      "url": "https://www.linkedin.com/company/nmcourts/"
+    }
+  ]
+}

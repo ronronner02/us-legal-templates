@@ -1,0 +1,2164 @@
+{
+  "state": "Iowa",
+  "publisher": "Iowa Judicial Branch",
+  "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/6",
+  "category": "Court procedure",
+  "rules": [
+    {
+      "pattern": "/files/535/",
+      "title": "Original Notice and Petition for a Money Judgment",
+      "family_id": "small-claims-complaint",
+      "identity": "Original Notice and Petition for a Money Judgment",
+      "form_id": "3.1"
+    },
+    {
+      "pattern": "/files/562/",
+      "title": "Appearance and Answer of Defendant(s)",
+      "family_id": "small-claims-answer",
+      "identity": "Appearance and Answer of Defendant",
+      "form_id": "3.11"
+    },
+    {
+      "pattern": "/files/547/",
+      "title": "Original Notice and Petition for Replevin",
+      "family_id": "small-claims-replevin",
+      "identity": "Original Notice and Petition for Replevin",
+      "form_id": "3.5"
+    },
+    {
+      "pattern": "/files/550/",
+      "title": "Original Notice and Petition for Forcible Entry and Detainer",
+      "family_id": "eviction-petition",
+      "identity": "Original Notice and Petition for Forcible Entry",
+      "form_id": "3.6"
+    },
+    {
+      "pattern": "/files/571/",
+      "title": "Counterclaim against Plaintiff(s)",
+      "family_id": "small-claims-counterclaim",
+      "identity": "Counterclaim against Plaintiff",
+      "form_id": "3.13"
+    }
+  ],
+  "flags": [
+    "historical-2018-order-archive",
+    "current-rule-and-e-filing-review-required"
+  ],
+  "source": {
+    "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/6",
+    "final_url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/6",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:58:57.610Z",
+    "etag": null,
+    "last_modified": null,
+    "content_length": null,
+    "sha256": "fc3e70ec332d4141e65d8ed6e6dc0f6a588e2f374b77b14d780548310f7a6681",
+    "title": "Orders | Iowa Judicial Branch",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-09/09-iowa-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/6",
+      "final_url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/6",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:58:57.610Z",
+      "etag": null,
+      "last_modified": null,
+      "content_length": null,
+      "sha256": "fc3e70ec332d4141e65d8ed6e6dc0f6a588e2f374b77b14d780548310f7a6681",
+      "title": "Orders | Iowa Judicial Branch",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "/files/535/",
+      "title": "Original Notice and Petition for a Money Judgment",
+      "family_id": "small-claims-complaint",
+      "identity": "Original Notice and Petition for a Money Judgment",
+      "form_id": "3.1",
+      "url": "https://www.iowacourts.gov/collections/304/files/535/embedDocument/",
+      "link_text": "Form 3.1: Original Notice and Petition for a Money Judgment",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.iowacourts.gov/collections/304/files/535/embedDocument/",
+        "final_url": "https://www.iowacourts.gov/collections/304/files/535/embedDocument",
+        "http_status": 200,
+        "content_type": "application/pdf;charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:58:59.095Z",
+        "etag": null,
+        "last_modified": "Mon, 25 Jun 2018 18:35:47 GMT",
+        "content_length": "151337",
+        "sha256": "877737f3bb3e5d5297b26ab3604fac0ffb78deb7d09295f37c27b5ef4575894c",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.iowacourts.gov/collections/304/files/535/embedDocument/",
+          "final_url": "https://www.iowacourts.gov/collections/304/files/535/embedDocument",
+          "http_status": 200,
+          "content_type": "application/pdf;charset=UTF-8",
+          "retrieved_at": "2026-10-14T09:58:59.095Z",
+          "etag": null,
+          "last_modified": "Mon, 25 Jun 2018 18:35:47 GMT",
+          "content_length": "151337",
+          "sha256": "877737f3bb3e5d5297b26ab3604fac0ffb78deb7d09295f37c27b5ef4575894c",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "877737f3bb3e5d5297b26ab3604fac0ffb78deb7d09295f37c27b5ef4575894c",
+      "local_archive_path": "archive/2026-10-14-09/09-original-notice-and-petition-for-a-money-judgment-877737f3bb3e.pdf",
+      "bytes": 151337,
+      "text_length": 3245,
+      "pages": 2,
+      "identity_excerpt": "Small Claims Form 3.1: Original Notice and Petition for a Money Judgment In the Iowa District Court for ________________ County Plaintiff(s) ________________________________________ (Name) ________________________________________ (Address) ________________________________________ (Name) ________________________________________ (Address) vs. Defendant(s) ________________________________________ (Name) ________________________________________ (Address) ________________________________________ (Name) ________________________________________ (Address) Original Notice and Petition for a Money Judgment If you need assistance to participate in court due to a disability, call the disability coordinator (information at https://www.iowacourts.gov/for-the-public/ada/). Persons who are hearing or speech impaired may call Relay Iowa TTY (1-800-735-2942). Disability coordinators cannot provide legal advice. To Defendant(s): 1. You are notified that Plaintiff(s) demand(s) from you the amount of $ ______________ plus court costs based on (state briefly the basis for the demand, not to exceed $6500): 2. Judgment may be entered against you unless you file an Appearance and Answer within 20 days of the service of the Original Notice upon you. Judgment may include the amount requested plus interest and court costs. 3. You must electronically file the Appearance and Answer using the Iowa Judicial Branch Electronic Document Management System (EDMS) at https://www.iowacourts.state.ia.us/EFile, unless you obtain from the court an exemption from electronic filing requirements. 4. If your Appearance and Answer is filed within 20 days and you deny the claim, you will receive electronic notification through EDMS of the place and time of the hearing on this matter. 5. If you electronically file, ED",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "/files/562/",
+      "title": "Appearance and Answer of Defendant(s)",
+      "family_id": "small-claims-answer",
+      "identity": "Appearance and Answer of Defendant",
+      "form_id": "3.11",
+      "url": "https://www.iowacourts.gov/collections/304/files/562/embedDocument/",
+      "link_text": "Form 3.11: Appearance and Answer of Defendant(s)",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.iowacourts.gov/collections/304/files/562/embedDocument/",
+        "final_url": "https://www.iowacourts.gov/collections/304/files/562/embedDocument",
+        "http_status": 200,
+        "content_type": "application/pdf;charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:58:59.785Z",
+        "etag": null,
+        "last_modified": "Mon, 25 Jun 2018 18:49:06 GMT",
+        "content_length": "23013",
+        "sha256": "0e784ef7f302eeff25c2c981d4f04065a5aa1cdc0a62e1ae3ae0606689a0de26",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.iowacourts.gov/collections/304/files/562/embedDocument/",
+          "final_url": "https://www.iowacourts.gov/collections/304/files/562/embedDocument",
+          "http_status": 200,
+          "content_type": "application/pdf;charset=UTF-8",
+          "retrieved_at": "2026-10-14T09:58:59.785Z",
+          "etag": null,
+          "last_modified": "Mon, 25 Jun 2018 18:49:06 GMT",
+          "content_length": "23013",
+          "sha256": "0e784ef7f302eeff25c2c981d4f04065a5aa1cdc0a62e1ae3ae0606689a0de26",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "0e784ef7f302eeff25c2c981d4f04065a5aa1cdc0a62e1ae3ae0606689a0de26",
+      "local_archive_path": "archive/2026-10-14-09/09-appearance-and-answer-of-defendant-s-0e784ef7f302.pdf",
+      "bytes": 23013,
+      "text_length": 2897,
+      "pages": 1,
+      "identity_excerpt": "Small Claims Form 3.11: Appearance and Answer of Defendant(s) In the Iowa District Court for ________________ County Plaintiff(s) _______________________________________ (Name) _______________________________________ (Name) vs. Defendant(s) _______________________________________ (Name) _______________________________________ (Name) Appearance and Answer of Defendant(s) Small Claim No. ______________________ If you need assistance to participate in court due to a disability, call the disability coordinator (information at https://www.iowacourts.gov/for-the-public/ada/). Persons who are hearing or speech impaired may call Relay Iowa TTY (1- 800-735-2942). Disability coordinators cannot provide legal advice. Check only one of the following:  The claim is denied. Parties will receive electronic notification of the hearing time and place through the Iowa Judicial Branch Electronic Document Management System (EDMS).  The claim is admitted. Judgment may be entered.  The claim is admitted in part in the amount of $_____________. Parties will receive electronic notification of the hearing time and place through the Iowa Judicial Branch Electronic Document Management System (EDMS). 1. You must electronically file this Appearance and Answer using EDMS at https://www.iowacourts.state.ia.us/EFile unless you obtain from the court an exemption from electronic filing requirements. 2. If you electronically file, EDMS will serve a copy of this Appearance and Answer on Plaintiff(s) or on the attorney(s) for Plaintiff(s). The Notice of Electronic Filing will indicate if Plaintiff(s) is (are) exempt from electronic filing, and if you must mail a copy of your Appearance and Answer to Plaintiff(s). 3. You may download this form online at https://iowacourts.state.ia.us/Efile. Unless the co",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "/files/547/",
+      "title": "Original Notice and Petition for Replevin",
+      "family_id": "small-claims-replevin",
+      "identity": "Original Notice and Petition for Replevin",
+      "form_id": "3.5",
+      "url": "https://www.iowacourts.gov/collections/304/files/547/embedDocument/",
+      "link_text": "Form 3.5: Original Notice and Petition for Replevin",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.iowacourts.gov/collections/304/files/547/embedDocument/",
+        "final_url": "https://www.iowacourts.gov/collections/304/files/547/embedDocument",
+        "http_status": 200,
+        "content_type": "application/pdf;charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:59:00.751Z",
+        "etag": null,
+        "last_modified": "Mon, 25 Jun 2018 18:43:35 GMT",
+        "content_length": "167956",
+        "sha256": "c4002fc3ec49318dae785971058a8b702380ba759be73d4dea3e0d3759c6c42f",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.iowacourts.gov/collections/304/files/547/embedDocument/",
+          "final_url": "https://www.iowacourts.gov/collections/304/files/547/embedDocument",
+          "http_status": 200,
+          "content_type": "application/pdf;charset=UTF-8",
+          "retrieved_at": "2026-10-14T09:59:00.751Z",
+          "etag": null,
+          "last_modified": "Mon, 25 Jun 2018 18:43:35 GMT",
+          "content_length": "167956",
+          "sha256": "c4002fc3ec49318dae785971058a8b702380ba759be73d4dea3e0d3759c6c42f",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "c4002fc3ec49318dae785971058a8b702380ba759be73d4dea3e0d3759c6c42f",
+      "local_archive_path": "archive/2026-10-14-09/09-original-notice-and-petition-for-replevin-c4002fc3ec49.pdf",
+      "bytes": 167956,
+      "text_length": 4778,
+      "pages": 2,
+      "identity_excerpt": "Small Claims Form 3.5: Original Notice and Petition for Replevin In the Iowa District Court for ________________ County Plaintiff(s) ________________________________________ (Name) ________________________________________ (Address) ________________________________________ (Name) ________________________________________ (Address) vs. Defendant(s) ________________________________________ (Name) ________________________________________ (Address) ________________________________________ (Name) ________________________________________ (Address) Original Notice and Petition for Replevin (Iowa Code chapter 643) If you need assistance to participate in court due to a disability, call the disability coordinator (information at https://www.iowacourts.gov/for-the-public/ada/). Persons who are hearing or speech impaired may call Relay Iowa TTY (1-800-735-2942). Disability coordinators cannot provide legal advice. To Defendant(s): 1. You are notified that Plaintiff(s) demand(s) relief (not to exceed $6500 in total) from you in regard to the following described property: ____________________________________________________________________________________ 2. The value of the property described is (value may not exceed $6500): $________________________ 3. The relief requested includes (check all that apply):  Plaintiff(s) ask(s) for possession of the property.  Plaintiff(s) ask(s) for damages for unlawful retention.  Plaintiff(s) ask(s) for damages for any damage to the property.  Plaintiff(s) ask(s) for damages for: __________________________________________________________________________ (If asking for money damages, total amount including value of property cannot exceed $6500.) 4. Plaintiff(s) claim(s) immediate possession because (check only one):  Plaintiff(s) own(s) the pro",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "/files/550/",
+      "title": "Original Notice and Petition for Forcible Entry and Detainer",
+      "family_id": "eviction-petition",
+      "identity": "Original Notice and Petition for Forcible Entry",
+      "form_id": "3.6",
+      "url": "https://www.iowacourts.gov/collections/304/files/550/embedDocument/",
+      "link_text": "Form 3.6: Original Notice and Petition for Forcible Entry and Detainer",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.iowacourts.gov/collections/304/files/550/embedDocument/",
+        "final_url": "https://www.iowacourts.gov/collections/304/files/550/embedDocument",
+        "http_status": 200,
+        "content_type": "application/pdf;charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:59:01.389Z",
+        "etag": null,
+        "last_modified": "Mon, 25 Jun 2018 18:44:42 GMT",
+        "content_length": "68811",
+        "sha256": "a3ad8a53b20b81b63056f462ada0633297d448a9c6f7e5a615ee8566b1e755b9",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.iowacourts.gov/collections/304/files/550/embedDocument/",
+          "final_url": "https://www.iowacourts.gov/collections/304/files/550/embedDocument",
+          "http_status": 200,
+          "content_type": "application/pdf;charset=UTF-8",
+          "retrieved_at": "2026-10-14T09:59:01.389Z",
+          "etag": null,
+          "last_modified": "Mon, 25 Jun 2018 18:44:42 GMT",
+          "content_length": "68811",
+          "sha256": "a3ad8a53b20b81b63056f462ada0633297d448a9c6f7e5a615ee8566b1e755b9",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "a3ad8a53b20b81b63056f462ada0633297d448a9c6f7e5a615ee8566b1e755b9",
+      "local_archive_path": "archive/2026-10-14-09/09-original-notice-and-petition-for-forcible-entry-and-detainer-a3ad8a53b20b.pdf",
+      "bytes": 68811,
+      "text_length": 2765,
+      "pages": 1,
+      "identity_excerpt": "Small Claims Form 3.6: Original Notice and Petition for Forcible Entry and Detainer In the Iowa District Court for ________________ County Plaintiff(s) ________________________________________ (Name) ________________________________________ (Address) ________________________________________ (Name) ________________________________________ (Address) vs. Defendant(s) ________________________________________ (Name) ________________________________________ (Address) ________________________________________ (Name) ________________________________________ (Address) Original Notice and Petition for Forcible Entry and Detainer (Iowa Code chapter 648) If you need assistance to participate in court due to a disability, call the disability coordinator (information at https://www.iowacourts.gov/for-the-public/ada/). Persons who are hearing or speech impaired may call Relay Iowa TTY (1-800-735-2942). Disability coordinators cannot provide legal advice. To Defendant(s): 1. You are notified that Plaintiff(s) demand(s) from you possession of (state exact address of real property): because (state basis of demand): 2. Hearing is set for the date, time, and court location listed on the last page of this Original Notice and Petition. The court will electronically record the hearing. If either party desires that a certified court reporter report the hearing, that party must arrange and pay for the costs of reporting. Failure to appear at the hearing may result in judgment entered against you for possession of the property and court costs. Plaintiff(s): The court shall set the date of hearing to occur within 8 days from the filing date of the Original Notice unless you check the box below: Plaintiff(s) request(s) or consent(s) to the court setting the date of hearing to occur no later than 15",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "/files/571/",
+      "title": "Counterclaim against Plaintiff(s)",
+      "family_id": "small-claims-counterclaim",
+      "identity": "Counterclaim against Plaintiff",
+      "form_id": "3.13",
+      "url": "https://www.iowacourts.gov/collections/304/files/571/embedDocument/",
+      "link_text": "Form 3.13: Counterclaim against Plaintiff(s)",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.iowacourts.gov/collections/304/files/571/embedDocument/",
+        "final_url": "https://www.iowacourts.gov/collections/304/files/571/embedDocument",
+        "http_status": 200,
+        "content_type": "application/pdf;charset=UTF-8",
+        "retrieved_at": "2026-10-14T09:59:02.045Z",
+        "etag": null,
+        "last_modified": "Mon, 25 Jun 2018 18:52:21 GMT",
+        "content_length": "87871",
+        "sha256": "130a65baf11ee6e04dd5e7dbf4c928973a171e7f9394b82e747b0947ca0d5361",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.iowacourts.gov/collections/304/files/571/embedDocument/",
+          "final_url": "https://www.iowacourts.gov/collections/304/files/571/embedDocument",
+          "http_status": 200,
+          "content_type": "application/pdf;charset=UTF-8",
+          "retrieved_at": "2026-10-14T09:59:02.045Z",
+          "etag": null,
+          "last_modified": "Mon, 25 Jun 2018 18:52:21 GMT",
+          "content_length": "87871",
+          "sha256": "130a65baf11ee6e04dd5e7dbf4c928973a171e7f9394b82e747b0947ca0d5361",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "130a65baf11ee6e04dd5e7dbf4c928973a171e7f9394b82e747b0947ca0d5361",
+      "local_archive_path": "archive/2026-10-14-09/09-counterclaim-against-plaintiff-s-130a65baf11e.pdf",
+      "bytes": 87871,
+      "text_length": 2397,
+      "pages": 1,
+      "identity_excerpt": "Small Claims Form 3.13: Counterclaim against Plaintiff(s) FeIn the Iowa District Court for ________________ County Plaintiff(s) ________________________________________ (Name) ________________________________________ (Name) vs. Defendant(s) ________________________________________ (Name) ________________________________________ (Name) Counterclaim against Plaintiff(s) Small Claim No. _____________________ If you need assistance to participate in court due to a disability, call the disability coordinator (information at https://www.iowacourts.gov/for-the-public/ada/). Persons who are hearing or speech impaired may call Relay Iowa TTY (1-800-735-2942). Disability coordinators cannot provide legal advice. To Plaintiff(s):_________________________________________________________________________ (List name(s) of Plaintiff(s) against whom you are counterclaiming.) 1. You are notified that Defendant(s) identified below demand(s) from you the amount of $ ___________, because (state briefly the basis for the demand, not to exceed $6500): 2. Defendant(s) must electronically file this original Counterclaim with the clerk of court using the Iowa Judicial Branch Electronic Document Management System (EDMS) at https://www.iowacourts.state.ia.us/EFile, unless the court has granted Defendant(s) an exemption from electronic filing requirements. 3. EDMS will serve a copy of the Counterclaim on Plaintiff(s) or on the attorney(s) for Plaintiff(s). If Plaintiff(s) is (are) exempt from electronic filing, the clerk of court will provide a copy to Plaintiff(s) or Plaintiff(s) attorney(s). /s/ _________________________________ /s/ __________________________________ Filing Defendant or Attorney Second Defendant, if applicable ____________________________________ _________________________________",
+      "revision_evidence": [],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/6#main-content"
+    },
+    {
+      "text": "Close",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/6#"
+    },
+    {
+      "text": "",
+      "url": "https://www.iowacourts.gov/"
+    },
+    {
+      "text": "Open Search Bar",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/6#"
+    },
+    {
+      "text": "Pay a Fine",
+      "url": "https://www.iowacourts.gov/for-the-public/pay-a-fine/"
+    },
+    {
+      "text": "File a Case",
+      "url": "https://www.iowacourts.gov/efile/efile-instructions/"
+    },
+    {
+      "text": "Search Court Records",
+      "url": "https://www.iowacourts.state.ia.us/ESAWebApp//SelectFrame"
+    },
+    {
+      "text": "Represent Myself in Court",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/"
+    },
+    {
+      "text": "Find Jury Information",
+      "url": "https://www.iowacourts.gov/iowa-courts/jury-service/"
+    },
+    {
+      "text": "Find a Court Form",
+      "url": "https://www.iowacourts.gov/for-the-public/court-forms/"
+    },
+    {
+      "text": "File a Complaint",
+      "url": "https://www.iowacourts.gov/for-the-public/complaints/"
+    },
+    {
+      "text": "Request a Speaker",
+      "url": "https://www.iowacourts.gov/for-the-public/request-a-speaker/"
+    },
+    {
+      "text": "Find Court Job Openings",
+      "url": "https://www.iowacourts.gov/career-opportunities/"
+    },
+    {
+      "text": "efile",
+      "url": "https://www.iowacourts.gov/efile/"
+    },
+    {
+      "text": "eFile Login",
+      "url": "https://www.iowacourts.state.ia.us/Efile/"
+    },
+    {
+      "text": "Court Forms",
+      "url": "https://www.iowacourts.gov/for-the-public/court-forms/"
+    },
+    {
+      "text": "eFile Instructions",
+      "url": "https://www.iowacourts.gov/efile/efile-instructions/"
+    },
+    {
+      "text": "Guides & Resources",
+      "url": "https://www.iowacourts.gov/efile/efile-resources/"
+    },
+    {
+      "text": "eFile Help",
+      "url": "https://www.iowacourts.gov/efile/efile-help/"
+    },
+    {
+      "text": "eFile Changes",
+      "url": "https://www.iowacourts.gov/efile/efile-changes/"
+    },
+    {
+      "text": "Find a Case",
+      "url": "https://iowacourts.state.ia.us/ESAWebApp//SelectFrame"
+    },
+    {
+      "text": "iowa courts",
+      "url": "https://www.iowacourts.gov/iowa-courts/"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/"
+    },
+    {
+      "text": "Court of Appeals",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/"
+    },
+    {
+      "text": "District Court",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/"
+    },
+    {
+      "text": "Juvenile Court",
+      "url": "https://www.iowacourts.gov/iowa-courts/juvenile-court/"
+    },
+    {
+      "text": "Iowa Business Court",
+      "url": "https://www.iowacourts.gov/iowa-courts/iowa-business-specialty-court/"
+    },
+    {
+      "text": "Court Interpreters",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-interpreters/"
+    },
+    {
+      "text": "Court Directory",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-directory/"
+    },
+    {
+      "text": "Jury Service",
+      "url": "https://www.iowacourts.gov/iowa-courts/jury-service/"
+    },
+    {
+      "text": "Attorney and Litigant Resources",
+      "url": "https://www.iowacourts.gov/iowa-courts/attorney-resources/"
+    },
+    {
+      "text": "Judicial Branch Budget Information",
+      "url": "https://www.iowacourts.gov/iowa-courts/judicial-branch-budget-information/"
+    },
+    {
+      "text": "Access to Justice Commission",
+      "url": "https://www.iowacourts.gov/iowa-courts/access-to-justice-commission/"
+    },
+    {
+      "text": "Court Navigator",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-navigator/"
+    },
+    {
+      "text": "careers",
+      "url": "https://www.iowacourts.gov/career-opportunities/"
+    },
+    {
+      "text": "opr",
+      "url": "https://www.iowacourts.gov/opr/"
+    },
+    {
+      "text": "About OPR",
+      "url": "https://www.iowacourts.gov/opr/about-opr/"
+    },
+    {
+      "text": "Esquire Assistance Program",
+      "url": "https://www.iowacourts.gov/opr/esquire-assistance-program/"
+    },
+    {
+      "text": "Attorneys",
+      "url": "https://www.iowacourts.gov/opr/attorneys/"
+    },
+    {
+      "text": "File Your Annual Reports",
+      "url": "https://www.iacourtcommissions.org/"
+    },
+    {
+      "text": "Attorney Self-Assessment Form",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-practice/practice-information/pmbr-in-iowa/"
+    },
+    {
+      "text": "Volunteer for Boards & Commissions",
+      "url": "https://www.iowacourts.gov/opr/boards--commissions/"
+    },
+    {
+      "text": "Certified Shorthand Reporters",
+      "url": "https://www.iowacourts.gov/opr/certified-shorthand-reporters/"
+    },
+    {
+      "text": "IOLTA",
+      "url": "https://www.iowacourts.gov/opr/iolta-grants/"
+    },
+    {
+      "text": "Non-Lawyers Practicing Law",
+      "url": "https://www.iowacourts.gov/opr/upl/"
+    },
+    {
+      "text": "for the public",
+      "url": "https://www.iowacourts.gov/for-the-public/"
+    },
+    {
+      "text": "Iowa Court Rules",
+      "url": "https://www.legis.iowa.gov/law/courtRules/courtRulesListings"
+    },
+    {
+      "text": "Court Forms",
+      "url": "https://www.iowacourts.gov/for-the-public/court-forms/"
+    },
+    {
+      "text": "Pay a Fine or Court Debt",
+      "url": "https://www.iowacourts.gov/for-the-public/pay-a-fine/"
+    },
+    {
+      "text": "Representing Yourself",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/"
+    },
+    {
+      "text": "Disability Accommodation",
+      "url": "https://www.iowacourts.gov/for-the-public/ada/"
+    },
+    {
+      "text": "Educational Resources and Services",
+      "url": "https://www.iowacourts.gov/for-the-public/educational-resources-and-services/"
+    },
+    {
+      "text": "Judicial Branch Building and Courthouse Tours",
+      "url": "https://www.iowacourts.gov/for-the-public/judicial-branch-building-and-courthouse-tours/"
+    },
+    {
+      "text": "Request a Speaker",
+      "url": "https://www.iowacourts.gov/for-the-public/request-a-speaker/"
+    },
+    {
+      "text": "In the Balance Podcast",
+      "url": "https://www.iowacourts.gov/for-the-public/in-the-balance-podcast/"
+    },
+    {
+      "text": "Reports",
+      "url": "https://www.iowacourts.gov/for-the-public/reports/"
+    },
+    {
+      "text": "Complaints",
+      "url": "https://www.iowacourts.gov/for-the-public/complaints/"
+    },
+    {
+      "text": "Public Records Requests",
+      "url": "https://www.iowacourts.gov/for-the-public/public-records-requests/"
+    },
+    {
+      "text": "Search Iowa Attorneys",
+      "url": "https://www.iacourtcommissions.org/ords/f?p=106:10:112992182223313:::PR,10::"
+    },
+    {
+      "text": "RFP",
+      "url": "https://www.iowacourts.gov/for-the-public/rfp/"
+    },
+    {
+      "text": "Watch Oral Arguments Live",
+      "url": "https://www.iowacourts.gov/for-the-public/live-stream/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.iowacourts.gov/for-the-public/contact-us/"
+    },
+    {
+      "text": "faq",
+      "url": "https://www.iowacourts.gov/faq/"
+    },
+    {
+      "text": "newsroom",
+      "url": "https://www.iowacourts.gov/newsroom/"
+    },
+    {
+      "text": "Reporter Resources",
+      "url": "https://www.iowacourts.gov/newsroom/reporter-resources/"
+    },
+    {
+      "text": "Expanded News Media Coverage",
+      "url": "https://www.iowacourts.gov/newsroom/expanded-news-media-coverage/"
+    },
+    {
+      "text": "News Releases",
+      "url": "https://www.iowacourts.gov/newsroom/news-releases/"
+    },
+    {
+      "text": "Open Search Bar",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/6#"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.iowacourts.gov/"
+    },
+    {
+      "text": "Pay a Fine",
+      "url": "https://www.iowacourts.gov/for-the-public/pay-a-fine/"
+    },
+    {
+      "text": "Scam Alert",
+      "url": "https://www.iowacourts.gov/for-the-public/pay-a-fine/scam-alert/"
+    },
+    {
+      "text": "File a Case",
+      "url": "https://www.iowacourts.gov/efile/efile-instructions/"
+    },
+    {
+      "text": "Search Court Records",
+      "url": "https://www.iowacourts.state.ia.us/ESAWebApp//SelectFrame"
+    },
+    {
+      "text": "Represent Myself in Court",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/"
+    },
+    {
+      "text": "Child Custody",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/child-custody/"
+    },
+    {
+      "text": "Child Support",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/child-support/"
+    },
+    {
+      "text": "Civil Court Fees",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/civil-court-fees/"
+    },
+    {
+      "text": "Collecting a Judgment",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/collecting-a-judgment/"
+    },
+    {
+      "text": "Commitments",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/committments/"
+    },
+    {
+      "text": "Divorce",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/divorce/"
+    },
+    {
+      "text": "Interactive Court Forms",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/iowa-interactive-court-forms/"
+    },
+    {
+      "text": "Name Change",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/name-change/"
+    },
+    {
+      "text": "Paternity",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/paternity/"
+    },
+    {
+      "text": "Protecting Personal Information",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/protect-personal-information/"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/small-claims/"
+    },
+    {
+      "text": "Find Jury Information",
+      "url": "https://www.iowacourts.gov/iowa-courts/jury-service/"
+    },
+    {
+      "text": "Find a Court Form",
+      "url": "https://www.iowacourts.gov/for-the-public/court-forms/"
+    },
+    {
+      "text": "File a Complaint",
+      "url": "https://www.iowacourts.gov/for-the-public/complaints/"
+    },
+    {
+      "text": "Request a Speaker",
+      "url": "https://www.iowacourts.gov/for-the-public/request-a-speaker/"
+    },
+    {
+      "text": "Find Court Job Openings",
+      "url": "https://www.iowacourts.gov/career-opportunities/"
+    },
+    {
+      "text": "efile",
+      "url": "https://www.iowacourts.gov/efile/"
+    },
+    {
+      "text": "eFile Login",
+      "url": "https://www.iowacourts.state.ia.us/Efile/"
+    },
+    {
+      "text": "Court Forms",
+      "url": "https://www.iowacourts.gov/for-the-public/court-forms/"
+    },
+    {
+      "text": "eFile Instructions",
+      "url": "https://www.iowacourts.gov/efile/efile-instructions/"
+    },
+    {
+      "text": "Guides & Resources",
+      "url": "https://www.iowacourts.gov/efile/efile-resources/"
+    },
+    {
+      "text": "eFile User Guide",
+      "url": "https://www.iowacourts.gov/efile/efile-resources/efile-user-guide/"
+    },
+    {
+      "text": "eFile Help",
+      "url": "https://www.iowacourts.gov/efile/efile-help/"
+    },
+    {
+      "text": "Technical Help Desk",
+      "url": "https://www.iowacourts.gov/efile/efile-help/technical-help-desk/"
+    },
+    {
+      "text": "eFile Changes",
+      "url": "https://www.iowacourts.gov/efile/efile-changes/"
+    },
+    {
+      "text": "Find a Case",
+      "url": "https://iowacourts.state.ia.us/ESAWebApp//SelectFrame"
+    },
+    {
+      "text": "iowa courts",
+      "url": "https://www.iowacourts.gov/iowa-courts/"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/"
+    },
+    {
+      "text": "Justices",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/justices/"
+    },
+    {
+      "text": "Senior Judges",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/justices/senior-judges/"
+    },
+    {
+      "text": "In Memoriam Justice McCormick",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/justices/in-memoriam-justice-mccormick/"
+    },
+    {
+      "text": "Supreme Court Opinions",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/"
+    },
+    {
+      "text": "Archived Supreme Court Opinions Prior to 2017",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/"
+    },
+    {
+      "text": "Opinions Archive 2017–2018 Adjudicative",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/opinions-archive-2017-2018-adjudicative/"
+    },
+    {
+      "text": "Opinions Archive 2016–2017 Adjudicative",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/opinions-archive-2016-2017-adjudicative/"
+    },
+    {
+      "text": "Opinions Archive 2015–2016 Adjudicative",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/opinions-archive-2015-2016-adjudicative/"
+    },
+    {
+      "text": "Opinions Archive 2014–2015 Adjudicative",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/opinions-archive-2014-2015-adjudicative/"
+    },
+    {
+      "text": "Opinions Archive 2014",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/opinions-archive-2014/"
+    },
+    {
+      "text": "Opinions Archive 2013",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/opinions-archive-2013/"
+    },
+    {
+      "text": "Opinions Archive 2012",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/opinions-archive-2012/"
+    },
+    {
+      "text": "Opinions Archive 2011",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/opinions-archive-2011/"
+    },
+    {
+      "text": "Opinions Archive 2010",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/opinions-archive-2010/"
+    },
+    {
+      "text": "Opinions Archive 2009",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/opinions-archive-2009/"
+    },
+    {
+      "text": "Opinions Archive 2008",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/opinions-archive-2008/"
+    },
+    {
+      "text": "Opinions Archive 2007",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/opinions-archive-2007/"
+    },
+    {
+      "text": "Opinions Archive 2006",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/opinions-archive-2006/"
+    },
+    {
+      "text": "Opinions Archive 1998",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/opinions-archive/opinions-archive-1998/"
+    },
+    {
+      "text": "Supreme Court Expected List",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/expected-list/"
+    },
+    {
+      "text": "Oral Argument Schedule",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-oral-argument-schedule/"
+    },
+    {
+      "text": "Pending Cases",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/pending-cases/"
+    },
+    {
+      "text": "Supreme Court Calendar",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supremecourtcalendar/"
+    },
+    {
+      "text": "Further Review Orders",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/further-review-orders/"
+    },
+    {
+      "text": "Orders",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/"
+    },
+    {
+      "text": "2026 Condition of the Judiciary",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/2026-condition-of-the-judiciary/"
+    },
+    {
+      "text": "Current Judicial Openings",
+      "url": "https://www.iowajnc.gov/state-commission/state-members-and-vacancies/"
+    },
+    {
+      "text": "Iowa Appellate Procedure Overview",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/appellate-procedure-overview/"
+    },
+    {
+      "text": "Constitution Day 2025",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/constitution-day-2025/"
+    },
+    {
+      "text": "What is an Oral Argument",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/constitution-day-2025/what-is-an-oral-argument/"
+    },
+    {
+      "text": "Court on the Road",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/court-on-the-road/"
+    },
+    {
+      "text": "Court of Appeals",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/"
+    },
+    {
+      "text": "Judges",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/judges/"
+    },
+    {
+      "text": "Senior Judges",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/judges/senior-judges/"
+    },
+    {
+      "text": "Past Court of Appeals Judges",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/judges/past-court-of-appeals-judges/"
+    },
+    {
+      "text": "Frequently Asked Questions",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/frequently-asked-questions/"
+    },
+    {
+      "text": "Statistics",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/caseload-statistics/"
+    },
+    {
+      "text": "50th Anniversary",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/50th-anniversary/"
+    },
+    {
+      "text": "Court History",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/50th-anniversary/court-history/"
+    },
+    {
+      "text": "Judges Succession Chart",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/50th-anniversary/judges-succession-chart/"
+    },
+    {
+      "text": "Timeline",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/50th-anniversary/timeline/"
+    },
+    {
+      "text": "The Iowa Lawyer Articles",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/50th-anniversary/the-iowa-lawyer-articles/"
+    },
+    {
+      "text": "50th Anniversary Argument in Historic Courtroom",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/appeals-on-wheels/iowa-state-capitol-september-2026/"
+    },
+    {
+      "text": "Court of Appeals Opinions",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/"
+    },
+    {
+      "text": "Archived Opinions 2/7/2018 and Prior",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/"
+    },
+    {
+      "text": "Archived Court of Appeals Opinions from 1/10/2018 to 2/7/2018",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/archived-court-of-appeals-opinions-from-2018/"
+    },
+    {
+      "text": "Archived Court of Appeals Opinions from 2017 and Earlier",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/archived-court-of-appeals-opinions-from-2017-and-earlier/"
+    },
+    {
+      "text": "Opinions Archive 2017",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/archived-court-of-appeals-opinions-from-2017-and-earlier/opinions-archive-2017/"
+    },
+    {
+      "text": "Opinions Archive 2016",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/archived-court-of-appeals-opinions-from-2017-and-earlier/opinions-archive-2016/"
+    },
+    {
+      "text": "Opinions Archive 2015",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/archived-court-of-appeals-opinions-from-2017-and-earlier/opinions-archive-2015/"
+    },
+    {
+      "text": "Opinions Archive 2014",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/archived-court-of-appeals-opinions-from-2017-and-earlier/opinions-archive-2014/"
+    },
+    {
+      "text": "Opinions Archive 2013",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/archived-court-of-appeals-opinions-from-2017-and-earlier/opinions-archive-2013/"
+    },
+    {
+      "text": "Opinions Archive 2012",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/archived-court-of-appeals-opinions-from-2017-and-earlier/opinions-archive-2012/"
+    },
+    {
+      "text": "Opinions Archive 2011",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/archived-court-of-appeals-opinions-from-2017-and-earlier/opinions-archive-2011/"
+    },
+    {
+      "text": "Opinions Archive 2010",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/archived-court-of-appeals-opinions-from-2017-and-earlier/opinions-archive-2010/"
+    },
+    {
+      "text": "Opinions Archive 2009",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/archived-court-of-appeals-opinions-from-2017-and-earlier/opinions-archive-2009/"
+    },
+    {
+      "text": "Opinions Archive 2008",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/archived-court-of-appeals-opinions-from-2017-and-earlier/opinions-archive-2008/"
+    },
+    {
+      "text": "Opinions Archive 2007",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/archived-court-of-appeals-opinions-from-2017-and-earlier/opinions-archive-2007/"
+    },
+    {
+      "text": "Opinions Archive 2006",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/opinions/archived-court-of-appeals-opinions-from-2017-and-earlier/opinions-archive-2006/"
+    },
+    {
+      "text": "Most Recent Court of Appeals Summaries",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/most-recent-coa-summaries/"
+    },
+    {
+      "text": "Archived Summaries",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/archived-summaries/"
+    },
+    {
+      "text": "Court of Appeals Expected List",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/courtofappealsexpectedlist/"
+    },
+    {
+      "text": "Court of Appeals Oral Arguments",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-oral-argument-schedules/"
+    },
+    {
+      "text": "Motions to Continue Oral Arguments",
+      "url": "https://www.iowacourts.gov/static/media/cms/Motions_to_Continue_BECF97B29C21C.pdf"
+    },
+    {
+      "text": "Archived Oral Argument Videos",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-oral-argument-schedules/archived-oral-argument-videos/"
+    },
+    {
+      "text": "Frequently Asked Questions",
+      "url": "https://www.iowacourts.gov/static/media/cms/Frequently_asked_questions_D0EC10B71BB34.pdf"
+    },
+    {
+      "text": "Courtroom Protocol",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-oral-argument-schedules/courtroom-protocol/"
+    },
+    {
+      "text": "Court of Appeals Calendar",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-calendar/"
+    },
+    {
+      "text": "Appeals on Wheels",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/appeals-on-wheels/"
+    },
+    {
+      "text": "Chautauqua Conference - Okoboji May 2026",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/appeals-on-wheels/okoboji--chautauqua-conference/"
+    },
+    {
+      "text": "Iowa City - February 2026",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/appeals-on-wheels/iowa-city-february-2026/"
+    },
+    {
+      "text": "Prairie Meadows - June 2026",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/appeals-on-wheels/june-2026-prairie-meadows/"
+    },
+    {
+      "text": "Iowa State Capitol- September 2026",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/appeals-on-wheels/iowa-state-capitol-september-2026/"
+    },
+    {
+      "text": "Published Cases",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/published-cases/"
+    },
+    {
+      "text": "Current Judicial Openings",
+      "url": "https://www.iowajnc.gov/state-commission/state-members-and-vacancies/"
+    },
+    {
+      "text": "District Court",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/"
+    },
+    {
+      "text": "Remote Proceeding Rules and Toolkits",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/remote-proceeding-toolkits/"
+    },
+    {
+      "text": "Expedited Civil Actions",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/expedited-civil-actions/"
+    },
+    {
+      "text": "Criminal Statutes Summary Chart",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/criminal-statutes-summary-chart/"
+    },
+    {
+      "text": "Post Judgment Interest Table",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/post-judgment-interest-table/"
+    },
+    {
+      "text": "Uniform Bond Schedule",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/uniform-bond-schedule/"
+    },
+    {
+      "text": "Judicial District 1",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-1/"
+    },
+    {
+      "text": "Judges and Magistrates",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-1/judges-and-magistrates-district-1/"
+    },
+    {
+      "text": "Announcements",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-1/district-1-announcements/"
+    },
+    {
+      "text": "Family Law, Mediation, and Children in the Middle",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-1/district-1-family-law-mediation/"
+    },
+    {
+      "text": "Informal Family Law Trial Program",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-1/informal-family-law-trial-program/"
+    },
+    {
+      "text": "Current Judicial Openings",
+      "url": "https://www.iowajnc.gov/district-commissions/judicial-district-1/"
+    },
+    {
+      "text": "Miscellaneous Costs",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-1/miscellaneous-costs/"
+    },
+    {
+      "text": "Judicial District 2",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-2/"
+    },
+    {
+      "text": "Judges and Magistrates",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-2/judges-and-magistrates/"
+    },
+    {
+      "text": "Announcements",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-2/announcements/"
+    },
+    {
+      "text": "Family Law, Mediation, and Children in the Middle",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-2/district-2-family-law-mediation/"
+    },
+    {
+      "text": "Informal Family Law Trial Program",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-2/informal-family-law-trial-program/"
+    },
+    {
+      "text": "Current Judicial Openings",
+      "url": "https://www.iowajnc.gov/district-commissions/judicial-district-2/"
+    },
+    {
+      "text": "Miscellaneous Costs",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-2/district-2-miscellaneous-costs/"
+    },
+    {
+      "text": "Judicial District 3",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-3/"
+    },
+    {
+      "text": "Judges and Magistrates",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-3/judges-and-magistrates/"
+    },
+    {
+      "text": "Announcements",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-3/announcements/"
+    },
+    {
+      "text": "Family Law Mediation",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-3/family-law-mediation/"
+    },
+    {
+      "text": "Informal Family Law Trial Program",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-3/informal-family-law-trial-program/"
+    },
+    {
+      "text": "Current Judicial Openings",
+      "url": "https://www.iowajnc.gov/district-commissions/judicial-district-3/"
+    },
+    {
+      "text": "Miscellaneous Costs",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-3/district-3-miscellaneous-costs/"
+    },
+    {
+      "text": "Judicial District 4",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-4/"
+    },
+    {
+      "text": "Judges and Magistrates",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-4/judges-and-magistrates/"
+    },
+    {
+      "text": "Announcements",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-4/announcements/"
+    },
+    {
+      "text": "Family Law Mediation",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-4/family-law-mediation/"
+    },
+    {
+      "text": "Informal Family Law Trial Program",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-4/informal-family-law-trial-program/"
+    },
+    {
+      "text": "Current Judicial Openings",
+      "url": "https://www.iowajnc.gov/district-commissions/judicial-district-4/"
+    },
+    {
+      "text": "Miscellaneous Costs",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-4/miscellaneous-costs/"
+    },
+    {
+      "text": "Judicial District 5",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-5/"
+    },
+    {
+      "text": "Judges and Magistrates",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-5/judges-and-magistrates/"
+    },
+    {
+      "text": "Announcements",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-5/announcements/"
+    },
+    {
+      "text": "Family Law Mediation",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-5/family-law-mediation/"
+    },
+    {
+      "text": "Probate and Guardianship Mediation",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-5/probate-and-guardianship-mediation/"
+    },
+    {
+      "text": "Informal Family Law Trial Program",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-5/informal-family-law-trial-program/"
+    },
+    {
+      "text": "Current Judicial Openings",
+      "url": "https://www.iowajnc.gov/district-commissions/judicial-district-5/"
+    },
+    {
+      "text": "Miscellaneous Costs",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-5/miscellaneous-costs/"
+    },
+    {
+      "text": "Judicial District 6",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-6/"
+    },
+    {
+      "text": "Judges and Magistrates",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-6/judges-and-magistrates/"
+    },
+    {
+      "text": "Announcements",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-6/announcements/"
+    },
+    {
+      "text": "Family Law Mediation",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-6/family-law-mediation/"
+    },
+    {
+      "text": "Informal Family Law Trial Program",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-6/informal-family-law-trial-program/"
+    },
+    {
+      "text": "Current Judicial Openings",
+      "url": "https://www.iowajnc.gov/district-commissions/judicial-district-6/"
+    },
+    {
+      "text": "Miscellaneous Costs",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-6/miscellaneous-costs/"
+    },
+    {
+      "text": "Judicial District 7",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-7/"
+    },
+    {
+      "text": "Judges and Magistrates",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-7/judges-and-magistrates/"
+    },
+    {
+      "text": "Announcements",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-7/district-7-announcements/"
+    },
+    {
+      "text": "Family Law Mediation",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-7/family-law-mediation/"
+    },
+    {
+      "text": "Informal Family Law Trial Program",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-7/informal-family-law-trial-program/"
+    },
+    {
+      "text": "Current Judicial Openings",
+      "url": "https://www.iowajnc.gov/district-commissions/judicial-district-7/"
+    },
+    {
+      "text": "Miscellaneous Costs",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-7/miscellaneous-costs/"
+    },
+    {
+      "text": "Judicial District 8",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-8/"
+    },
+    {
+      "text": "Judges and Magistrates",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-8/district-8-judges-and-magistrates/"
+    },
+    {
+      "text": "Announcements",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-8/district-8-announcements/"
+    },
+    {
+      "text": "Family Law Mediation",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-8/8th-judicial-district-family-law-mediation/"
+    },
+    {
+      "text": "Informal Family Law Trial Program",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-8/informal-family-law-trial-program/"
+    },
+    {
+      "text": "Current Judicial Openings",
+      "url": "https://www.iowajnc.gov/district-commissions/judicial-district-8/"
+    },
+    {
+      "text": "Miscellaneous Costs",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-8/8th-district-miscellaneous-costs/"
+    },
+    {
+      "text": "How Judges are Assigned to New Cases",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/how-judges-are-assigned-to-new-cases/"
+    },
+    {
+      "text": "Juvenile Court",
+      "url": "https://www.iowacourts.gov/iowa-courts/juvenile-court/"
+    },
+    {
+      "text": "Juvenile Court Services Stakeholder Trainings",
+      "url": "https://www.iowacourts.gov/iowa-courts/juvenile-court/juvenile-court-services-stakeholder-trainings/"
+    },
+    {
+      "text": "Parent Representation",
+      "url": "https://www.iowacourts.gov/iowa-courts/juvenile-court/parent-representation/"
+    },
+    {
+      "text": "Approved Juvenile CLE",
+      "url": "https://www.iowacourts.gov/iowa-courts/juvenile-court/approved-juvenile-cle/"
+    },
+    {
+      "text": "Juvenile Filings Guidance",
+      "url": "https://www.iowacourts.gov/iowa-courts/juvenile-court/juvenile-filings-guidance/"
+    },
+    {
+      "text": "Juvenile Justice Task Force",
+      "url": "https://www.iowacourts.gov/iowa-courts/juvenile-court/juvenile-justice-task-force/"
+    },
+    {
+      "text": "Children's Justice Initiative",
+      "url": "https://www.iowacourts.gov/iowa-courts/juvenile-court/childrens-justice-initiative/"
+    },
+    {
+      "text": "Iowa Business Court",
+      "url": "https://www.iowacourts.gov/iowa-courts/iowa-business-specialty-court/"
+    },
+    {
+      "text": "Appellate Opinions from Business Court Cases",
+      "url": "https://www.iowacourts.gov/iowa-courts/iowa-business-specialty-court/appellate-opinions/"
+    },
+    {
+      "text": "Select District Court Rulings and Orders",
+      "url": "https://www.iowacourts.gov/iowa-courts/iowa-business-specialty-court/rulings-and-orders/"
+    },
+    {
+      "text": "Court Interpreters",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-interpreters/"
+    },
+    {
+      "text": "How to Become a Qualified Court Interpreter in Iowa",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-interpreters/how-to-become-an-interpreter/"
+    },
+    {
+      "text": "Find an Interpreter",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-interpreters/find-an-interpreter/"
+    },
+    {
+      "text": "Information for Current Court Interpreters",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-interpreters/info-for-current-interpreters/"
+    },
+    {
+      "text": "Complaints Against a Court Interpreter",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-interpreters/complaints-against-an-interpreter/"
+    },
+    {
+      "text": "Court Directory",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-directory/"
+    },
+    {
+      "text": "Appellate Courts",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-directory/appellate-courts/"
+    },
+    {
+      "text": "State Court Administration",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-directory/state-court-administration/"
+    },
+    {
+      "text": "State Court Administration Organizational Chart",
+      "url": "https://www.iowacourts.gov/static/media/cms/SCA_Org_Chart_for_website_2462B78AF7CF2.pdf"
+    },
+    {
+      "text": "Access to Judicial Branch Building",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-directory/state-court-administration/access-to-judicial-branch-building/"
+    },
+    {
+      "text": "Jury Service",
+      "url": "https://www.iowacourts.gov/iowa-courts/jury-service/"
+    },
+    {
+      "text": "Attorney and Litigant Resources",
+      "url": "https://www.iowacourts.gov/iowa-courts/attorney-resources/"
+    },
+    {
+      "text": "Judicial Branch Budget Information",
+      "url": "https://www.iowacourts.gov/iowa-courts/judicial-branch-budget-information/"
+    },
+    {
+      "text": "FY 2026 Budget",
+      "url": "https://www.iowacourts.gov/iowa-courts/judicial-branch-budget-information/fy-2026-budget/"
+    },
+    {
+      "text": "FY 2025 Budget",
+      "url": "https://www.iowacourts.gov/iowa-courts/judicial-branch-budget-information/fy-2025-budget/"
+    },
+    {
+      "text": "FY 2027 Budget",
+      "url": "https://www.iowacourts.gov/iowa-courts/judicial-branch-budget-information/fy-2027-budget/"
+    },
+    {
+      "text": "Magistrate Modernization FAQ",
+      "url": "https://www.iowacourts.gov/iowa-courts/judicial-branch-budget-information/magistrate-modernization-faq/"
+    },
+    {
+      "text": "Access to Justice Commission",
+      "url": "https://www.iowacourts.gov/iowa-courts/access-to-justice-commission/"
+    },
+    {
+      "text": "Court Navigator",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-navigator/"
+    },
+    {
+      "text": "careers",
+      "url": "https://www.iowacourts.gov/career-opportunities/"
+    },
+    {
+      "text": "opr",
+      "url": "https://www.iowacourts.gov/opr/"
+    },
+    {
+      "text": "About OPR",
+      "url": "https://www.iowacourts.gov/opr/about-opr/"
+    },
+    {
+      "text": "Attorney Disciplinary Board",
+      "url": "https://www.iowacourts.gov/opr/about-opr/attorney-disciplinary-board/"
+    },
+    {
+      "text": "Board of Law Examiners",
+      "url": "https://www.iowacourts.gov/opr/about-opr/board-of-law-examiners/"
+    },
+    {
+      "text": "Commission on Unauthorized Practice of Law",
+      "url": "https://www.iowacourts.gov/opr/about-opr/commission-on-unauthorized-practice-of-law/"
+    },
+    {
+      "text": "Client Security Commission",
+      "url": "https://www.iowacourts.gov/opr/about-opr/client-security-commission/"
+    },
+    {
+      "text": "The Grievance Commission",
+      "url": "https://www.iowacourts.gov/opr/about-opr/the-grievance-commission/"
+    },
+    {
+      "text": "Commission on Continuing Legal Education",
+      "url": "https://www.iowacourts.gov/opr/about-opr/commission-on-continuing-legal-education/"
+    },
+    {
+      "text": "Lawyers Trust Account Commission",
+      "url": "https://www.iowacourts.gov/opr/about-opr/lawyers-trust-account-commission/"
+    },
+    {
+      "text": "Esquire Assistance Program",
+      "url": "https://www.iowacourts.gov/opr/esquire-assistance-program/"
+    },
+    {
+      "text": "Attorneys",
+      "url": "https://www.iowacourts.gov/opr/attorneys/"
+    },
+    {
+      "text": "Admissions",
+      "url": "https://www.iowacourts.gov/opr/attorneys/admissions/"
+    },
+    {
+      "text": "Admission by Examination",
+      "url": "https://www.iowacourts.gov/opr/attorneys/admissions/admission-by-examination/"
+    },
+    {
+      "text": "Bar Examination Registration",
+      "url": "https://www.iowacourts.gov/opr/attorneys/admissions/admission-by-examination/bar-examination-registration/"
+    },
+    {
+      "text": "Admission By Transferred UBE Score",
+      "url": "https://www.iowacourts.gov/opr/attorneys/admissions/admission-by-examination/admission-by-transferred-ube-score/"
+    },
+    {
+      "text": "Other Admission",
+      "url": "https://www.iowacourts.gov/opr/attorneys/admissions/other-admission/"
+    },
+    {
+      "text": "Admission on Motion",
+      "url": "https://www.iowacourts.gov/opr/attorneys/admissions/other-admission/admissions-on-motion/"
+    },
+    {
+      "text": "In-House Counsel Registration",
+      "url": "https://www.iowacourts.gov/opr/attorneys/admissions/other-admission/in-house-counsel-registration/"
+    },
+    {
+      "text": "International Legal Consultants",
+      "url": "https://www.iowacourts.gov/opr/attorneys/admissions/other-admission/international-legal-consultants/"
+    },
+    {
+      "text": "Pro Hac Vice Applications",
+      "url": "https://www.iowacourts.gov/opr/attorneys/admissions/other-admission/pro-hac-vice-applications/"
+    },
+    {
+      "text": "Military Spouse and Servicemember Admission",
+      "url": "https://www.iowacourts.gov/opr/attorneys/admissions/other-admission/military-admission/"
+    },
+    {
+      "text": "Certificate of Good Standing",
+      "url": "https://www.iowacourts.gov/opr/attorneys/admissions/certificate-of-good-standing/"
+    },
+    {
+      "text": "Reinstatements",
+      "url": "https://www.iowacourts.gov/opr/attorneys/admissions/reinstatements/"
+    },
+    {
+      "text": "Attorney Practice",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-practice/"
+    },
+    {
+      "text": "Annual Reporting Requirements",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-practice/attorney-annual-reporting-requirements/"
+    },
+    {
+      "text": "Practice Information",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-practice/practice-information/"
+    },
+    {
+      "text": "The Attorney Disciplinary Process",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-practice/practice-information/the-attorney-disciplinary-process/"
+    },
+    {
+      "text": "Trust Accounts in Iowa",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-practice/practice-information/trust-accounts/"
+    },
+    {
+      "text": "Pro Bono Practice",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-practice/practice-information/pro-bono-practice/"
+    },
+    {
+      "text": "PMBR in Iowa",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-practice/practice-information/pmbr-in-iowa/"
+    },
+    {
+      "text": "Continuing Legal Education",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-practice/continuing-legal-education/"
+    },
+    {
+      "text": "Submission of CLE Programs by Lawyers",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-practice/continuing-legal-education/submission-of-cle-programs-by-lawyers/"
+    },
+    {
+      "text": "Submission of CLE Programs by CLE Sponsors",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-practice/continuing-legal-education/submission-of-cle-programs-by-cle-sponsors/"
+    },
+    {
+      "text": "Frequently Asked Questions",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-practice/frequently-asked-questions/"
+    },
+    {
+      "text": "Attorney Retirement",
+      "url": "https://www.iowacourts.gov/opr/attorneys/retirement/"
+    },
+    {
+      "text": "Considering Retiring From The Practice of Law?",
+      "url": "https://www.iowacourts.gov/opr/attorneys/retirement/considering-retirement/"
+    },
+    {
+      "text": "Attorney Discipline",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-discipline/"
+    },
+    {
+      "text": "Complaint Against a Lawyer",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-discipline/complaint-against-a-lawyer/"
+    },
+    {
+      "text": "Client Security Trust Fund Claims",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-discipline/client-security-trust-fund-claims/"
+    },
+    {
+      "text": "File Your Annual Reports",
+      "url": "https://www.iacourtcommissions.org/"
+    },
+    {
+      "text": "Attorney Self-Assessment Form",
+      "url": "https://www.iowacourts.gov/opr/attorneys/attorney-practice/practice-information/pmbr-in-iowa/"
+    },
+    {
+      "text": "Volunteer for Boards & Commissions",
+      "url": "https://www.iowacourts.gov/opr/boards--commissions/"
+    },
+    {
+      "text": "Certified Shorthand Reporters",
+      "url": "https://www.iowacourts.gov/opr/certified-shorthand-reporters/"
+    },
+    {
+      "text": "Board of Shorthand Reporters",
+      "url": "https://www.iowacourts.gov/opr/certified-shorthand-reporters/board-of-shorthand-reporters/"
+    },
+    {
+      "text": "How to Become a CSR",
+      "url": "https://www.iowacourts.gov/opr/certified-shorthand-reporters/how-to-become-a-csr/"
+    },
+    {
+      "text": "Information for Current Shorthand Reporters",
+      "url": "https://www.iowacourts.gov/opr/certified-shorthand-reporters/information-for-current-shorthand-reporters/"
+    },
+    {
+      "text": "Complaints Against a CSR",
+      "url": "https://www.iowacourts.gov/opr/certified-shorthand-reporters/complaints-against-a-csr/"
+    },
+    {
+      "text": "IOLTA",
+      "url": "https://www.iowacourts.gov/opr/iolta-grants/"
+    },
+    {
+      "text": "Info for Financial Institutions",
+      "url": "https://www.iowacourts.gov/opr/iolta-grants/info-for-financial-institutions/"
+    },
+    {
+      "text": "IOLTA Grants",
+      "url": "https://www.iowacourts.gov/opr/iolta-grants/iolta-grants/"
+    },
+    {
+      "text": "Non-Lawyers Practicing Law",
+      "url": "https://www.iowacourts.gov/opr/upl/"
+    },
+    {
+      "text": "for the public",
+      "url": "https://www.iowacourts.gov/for-the-public/"
+    },
+    {
+      "text": "Iowa Court Rules",
+      "url": "https://www.legis.iowa.gov/law/courtRules/courtRulesListings"
+    },
+    {
+      "text": "Court Forms",
+      "url": "https://www.iowacourts.gov/for-the-public/court-forms/"
+    },
+    {
+      "text": "Pay a Fine or Court Debt",
+      "url": "https://www.iowacourts.gov/for-the-public/pay-a-fine/"
+    },
+    {
+      "text": "Scam Alert",
+      "url": "https://www.iowacourts.gov/for-the-public/pay-a-fine/scam-alert/"
+    },
+    {
+      "text": "Representing Yourself",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/"
+    },
+    {
+      "text": "Child Custody",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/child-custody/"
+    },
+    {
+      "text": "Child Support",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/child-support/"
+    },
+    {
+      "text": "Civil Court Fees",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/civil-court-fees/"
+    },
+    {
+      "text": "Collecting a Judgment",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/collecting-a-judgment/"
+    },
+    {
+      "text": "Commitments",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/committments/"
+    },
+    {
+      "text": "Divorce",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/divorce/"
+    },
+    {
+      "text": "Interactive Court Forms",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/iowa-interactive-court-forms/"
+    },
+    {
+      "text": "Name Change",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/name-change/"
+    },
+    {
+      "text": "Paternity",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/paternity/"
+    },
+    {
+      "text": "Protecting Personal Information",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/protect-personal-information/"
+    },
+    {
+      "text": "Small Claims",
+      "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/small-claims/"
+    },
+    {
+      "text": "Disability Accommodation",
+      "url": "https://www.iowacourts.gov/for-the-public/ada/"
+    },
+    {
+      "text": "Educational Resources and Services",
+      "url": "https://www.iowacourts.gov/for-the-public/educational-resources-and-services/"
+    },
+    {
+      "text": "Common Legal Terms",
+      "url": "https://www.iowacourts.gov/for-the-public/educational-resources-and-services/common-legal-terms/"
+    },
+    {
+      "text": "Iowa Courts History",
+      "url": "https://www.iowacourts.gov/for-the-public/educational-resources-and-services/iowa-courts-history/"
+    },
+    {
+      "text": "Civil Rights",
+      "url": "https://www.iowacourts.gov/for-the-public/educational-resources-and-services/iowa-courts-history/civil-rights/"
+    },
+    {
+      "text": "Past Justices",
+      "url": "https://www.iowacourts.gov/for-the-public/educational-resources-and-services/iowa-courts-history/past-justices/"
+    },
+    {
+      "text": "Chronological Chart",
+      "url": "https://www.iowacourts.gov/for-the-public/educational-resources-and-services/iowa-courts-history/chronological-chart/"
+    },
+    {
+      "text": "Oral Interviews with Past Judges",
+      "url": "https://www.iowacourts.gov/for-the-public/educational-resources-and-services/iowa-courts-history/oral-interviews-with-past-judges/"
+    },
+    {
+      "text": "Iowa County Courthouse History",
+      "url": "https://www.iowacourts.gov/for-the-public/educational-resources-and-services/iowa-courts-history/iowa-county-courthouse-history/"
+    },
+    {
+      "text": "Videos and Brochures",
+      "url": "https://www.iowacourts.gov/for-the-public/educational-resources-and-services/videos-and-brochures/"
+    },
+    {
+      "text": "Judicial Selection and Retention",
+      "url": "https://www.iowacourts.gov/for-the-public/educational-resources-and-services/judicial-selection-and-retention/"
+    },
+    {
+      "text": "Judicial Branch Building and Courthouse Tours",
+      "url": "https://www.iowacourts.gov/for-the-public/judicial-branch-building-and-courthouse-tours/"
+    },
+    {
+      "text": "Request a Speaker",
+      "url": "https://www.iowacourts.gov/for-the-public/request-a-speaker/"
+    },
+    {
+      "text": "In the Balance Podcast",
+      "url": "https://www.iowacourts.gov/for-the-public/in-the-balance-podcast/"
+    },
+    {
+      "text": "Reports",
+      "url": "https://www.iowacourts.gov/for-the-public/reports/"
+    },
+    {
+      "text": "Complaints",
+      "url": "https://www.iowacourts.gov/for-the-public/complaints/"
+    },
+    {
+      "text": "Public Records Requests",
+      "url": "https://www.iowacourts.gov/for-the-public/public-records-requests/"
+    },
+    {
+      "text": "Search Iowa Attorneys",
+      "url": "https://www.iacourtcommissions.org/ords/f?p=106:10:112992182223313:::PR,10::"
+    },
+    {
+      "text": "RFP",
+      "url": "https://www.iowacourts.gov/for-the-public/rfp/"
+    },
+    {
+      "text": "Archive of RFPs and RFIs",
+      "url": "https://www.iowacourts.gov/for-the-public/rfp/archive-of-rfps-and-rfis/"
+    },
+    {
+      "text": "Watch Oral Arguments Live",
+      "url": "https://www.iowacourts.gov/for-the-public/live-stream/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.iowacourts.gov/for-the-public/contact-us/"
+    },
+    {
+      "text": "faq",
+      "url": "https://www.iowacourts.gov/faq/"
+    },
+    {
+      "text": "newsroom",
+      "url": "https://www.iowacourts.gov/newsroom/"
+    },
+    {
+      "text": "Reporter Resources",
+      "url": "https://www.iowacourts.gov/newsroom/reporter-resources/"
+    },
+    {
+      "text": "Iowa Judicial Branch Collection and Distribution of Court Debt",
+      "url": "https://www.iowacourts.gov/newsroom/reporter-resources/iowa-judicial-branch-collection-and-distribution-of-court-debt/"
+    },
+    {
+      "text": "Expanded News Media Coverage",
+      "url": "https://www.iowacourts.gov/newsroom/expanded-news-media-coverage/"
+    },
+    {
+      "text": "Judicial Branch Building Media Interviews",
+      "url": "https://www.iowacourts.gov/static/media/cms/Locations_for_media_interviews_and__5706DD385A723.pdf"
+    },
+    {
+      "text": "FAQ District Court",
+      "url": "https://www.iowacourts.gov/newsroom/expanded-news-media-coverage/faq-district-court/"
+    },
+    {
+      "text": "FAQ Appellate Court",
+      "url": "https://www.iowacourts.gov/newsroom/expanded-news-media-coverage/faq-appellate-court/"
+    },
+    {
+      "text": "Regional ENMC Media Coordinators",
+      "url": "https://www.iowacourts.gov/newsroom/expanded-news-media-coverage/regional-enmc-media-coordinators/"
+    },
+    {
+      "text": "News Releases",
+      "url": "https://www.iowacourts.gov/newsroom/news-releases/"
+    },
+    {
+      "text": "Iowa Courts",
+      "url": "https://www.iowacourts.gov/iowa-courts"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/"
+    },
+    {
+      "text": "Justices",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/justices/"
+    },
+    {
+      "text": "Supreme Court Opinions",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/"
+    },
+    {
+      "text": "Oral Argument Schedule",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-oral-argument-schedule/"
+    },
+    {
+      "text": "Pending Cases",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/pending-cases/"
+    },
+    {
+      "text": "Supreme Court Calendar",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supremecourtcalendar/"
+    },
+    {
+      "text": "Further Review Orders",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/further-review-orders/"
+    },
+    {
+      "text": "Orders",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/"
+    },
+    {
+      "text": "2026 Condition of the Judiciary",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/2026-condition-of-the-judiciary/"
+    },
+    {
+      "text": "Current Judicial Openings",
+      "url": "https://www.iowajnc.gov/state-commission/state-members-and-vacancies/"
+    },
+    {
+      "text": "Iowa Appellate Procedure Overview",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/appellate-procedure-overview/"
+    },
+    {
+      "text": "Constitution Day 2025",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/constitution-day-2025/"
+    },
+    {
+      "text": "Court on the Road",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/court-on-the-road/"
+    },
+    {
+      "text": "Court of Appeals",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/"
+    },
+    {
+      "text": "District Court",
+      "url": "https://www.iowacourts.gov/iowa-courts/district-court/"
+    },
+    {
+      "text": "Juvenile Court",
+      "url": "https://www.iowacourts.gov/iowa-courts/juvenile-court/"
+    },
+    {
+      "text": "Iowa Business Court",
+      "url": "https://www.iowacourts.gov/iowa-courts/iowa-business-specialty-court/"
+    },
+    {
+      "text": "Court Interpreters",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-interpreters/"
+    },
+    {
+      "text": "Court Directory",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-directory/"
+    },
+    {
+      "text": "Jury Service",
+      "url": "https://www.iowacourts.gov/iowa-courts/jury-service/"
+    },
+    {
+      "text": "Attorney and Litigant Resources",
+      "url": "https://www.iowacourts.gov/iowa-courts/attorney-resources/"
+    },
+    {
+      "text": "Judicial Branch Budget Information",
+      "url": "https://www.iowacourts.gov/iowa-courts/judicial-branch-budget-information/"
+    },
+    {
+      "text": "Access to Justice Commission",
+      "url": "https://www.iowacourts.gov/iowa-courts/access-to-justice-commission/"
+    },
+    {
+      "text": "Court Navigator",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-navigator/"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.iowacourts.gov/"
+    },
+    {
+      "text": "Iowa Courts",
+      "url": "https://www.iowacourts.gov/iowa-courts/"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/"
+    },
+    {
+      "text": "Orders",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/"
+    },
+    {
+      "text": "Order Approving Amended Small Claims Forms",
+      "url": "https://www.iowacourts.gov/collections/304/files/610/embedDocument/"
+    },
+    {
+      "text": "Form 3.1: Original Notice and Petition for a Money Judgment",
+      "url": "https://www.iowacourts.gov/collections/304/files/535/embedDocument/"
+    },
+    {
+      "text": "Form 3.2: Original Notice and Petition for a Money Judgment for Taxes Owing",
+      "url": "https://www.iowacourts.gov/collections/304/files/538/embedDocument/"
+    },
+    {
+      "text": "Form 3.3: Original Notice and Petition for a Money Judgment against a Nonresident Motor Vehicle Owner or Operator Defendant",
+      "url": "https://www.iowacourts.gov/collections/304/files/541/embedDocument/"
+    },
+    {
+      "text": "Form 3.4: Original Notice and Petition for a Money Judgment against a Nonresident Defendant or a Foreign Corporation Defendant",
+      "url": "https://www.iowacourts.gov/collections/304/files/544/embedDocument/"
+    },
+    {
+      "text": "Form 3.5: Original Notice and Petition for Replevin",
+      "url": "https://www.iowacourts.gov/collections/304/files/547/embedDocument/"
+    },
+    {
+      "text": "Form 3.6: Original Notice and Petition for Forcible Entry and Detainer",
+      "url": "https://www.iowacourts.gov/collections/304/files/550/embedDocument/"
+    },
+    {
+      "text": "Form 3.7: Original Notice and Petition against Third Party Defendant(s)",
+      "url": "https://www.iowacourts.gov/collections/304/files/553/embedDocument/"
+    },
+    {
+      "text": "Form 3.8: Original Notice and Petition for Disposition of Abandoned Property",
+      "url": "https://www.iowacourts.gov/collections/304/files/556/embedDocument/"
+    },
+    {
+      "text": "Form 3.9: Original Notice and Petition for Intervention",
+      "url": "https://www.iowacourts.gov/collections/304/files/559/embedDocument/"
+    },
+    {
+      "text": "Form 3.11: Appearance and Answer of Defendant(s)",
+      "url": "https://www.iowacourts.gov/collections/304/files/562/embedDocument/"
+    },
+    {
+      "text": "Form 3.12: Appearance and Answer of Third Party Defendant(s)",
+      "url": "https://www.iowacourts.gov/collections/304/files/565/embedDocument/"
+    },
+    {
+      "text": "Form 3.13: Counterclaim against Plaintiff(s)",
+      "url": "https://www.iowacourts.gov/collections/304/files/571/embedDocument/"
+    },
+    {
+      "text": "Form 3.14: Cross-Claim against a Co-Defendant",
+      "url": "https://www.iowacourts.gov/collections/304/files/574/embedDocument/"
+    },
+    {
+      "text": "Form 3.16: Affidavit of Default",
+      "url": "https://www.iowacourts.gov/collections/304/files/577/embedDocument/"
+    },
+    {
+      "text": "Form 3.17: Application to Condemn Funds",
+      "url": "https://www.iowacourts.gov/collections/304/files/580/embedDocument/"
+    },
+    {
+      "text": "Form 3.18: Dismissal",
+      "url": "https://www.iowacourts.gov/collections/304/files/583/embedDocument/"
+    },
+    {
+      "text": "Form 3.19: Notice of Garnishment",
+      "url": "https://www.iowacourts.gov/collections/304/files/586/embedDocument/"
+    },
+    {
+      "text": "Form 3.20: Motion",
+      "url": "https://www.iowacourts.gov/collections/304/files/589/embedDocument/"
+    },
+    {
+      "text": "Form 3.21: Affidavit of Property Exempt from Execution",
+      "url": "https://www.iowacourts.gov/collections/304/files/592/embedDocument/"
+    },
+    {
+      "text": "Form 3.22: Application for Release and Satisfaction of Judgment",
+      "url": "https://www.iowacourts.gov/collections/304/files/596/embedDocument/"
+    },
+    {
+      "text": "Form 3.23: Release and Satisfaction of Judgment",
+      "url": "https://www.iowacourts.gov/collections/304/files/598/embedDocument/"
+    },
+    {
+      "text": "Form 3.25: Request for General Execution (Praecipe)",
+      "url": "https://www.iowacourts.gov/collections/304/files/601/embedDocument/"
+    },
+    {
+      "text": "Form 3.26: Notice of Appeal",
+      "url": "https://www.iowacourts.gov/collections/304/files/604/embedDocument/"
+    },
+    {
+      "text": "Form 3.27: Verification of Account, Identification of Judgment Debtor, and Certificate Re Military Service",
+      "url": "https://www.iowacourts.gov/collections/304/files/607/embedDocument/"
+    },
+    {
+      "text": "16-0435 Order for Resubmission",
+      "url": "https://www.iowacourts.gov/collections/309/files/620/embedDocument/"
+    },
+    {
+      "text": "16-1031 Order for Resubmission",
+      "url": "https://www.iowacourts.gov/collections/309/files/624/embedDocument/"
+    },
+    {
+      "text": "17-1489 Order for Resubmission",
+      "url": "https://www.iowacourts.gov/collections/309/files/617/embedDocument/"
+    },
+    {
+      "text": "Chapter 9, Child Support Guidelines",
+      "url": "https://www.iowacourts.gov/collections/296/files/523/embedDocument/"
+    },
+    {
+      "text": "Request for Public Comment Re Proposed Amendments to the Iowa Child Support Guidelines",
+      "url": "https://www.iowacourts.gov/collections/296/files/526/embedDocument/"
+    },
+    {
+      "text": "Signup to receive email notification of news releases and supreme court administrative orders.",
+      "url": "https://www.iowacourts.gov/sign-up-for-notifications/"
+    },
+    {
+      "text": "2026",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2026"
+    },
+    {
+      "text": "2025",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2025"
+    },
+    {
+      "text": "2024",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2024"
+    },
+    {
+      "text": "2023",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2023"
+    },
+    {
+      "text": "2022",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2022"
+    },
+    {
+      "text": "2021",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2021"
+    },
+    {
+      "text": "2020",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2020"
+    },
+    {
+      "text": "2019",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2019"
+    },
+    {
+      "text": "2018",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018"
+    },
+    {
+      "text": "November",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/11"
+    },
+    {
+      "text": "October",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/10"
+    },
+    {
+      "text": "August",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/8"
+    },
+    {
+      "text": "June",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/6"
+    },
+    {
+      "text": "May",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/5"
+    },
+    {
+      "text": "April",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/4"
+    },
+    {
+      "text": "March",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/3"
+    },
+    {
+      "text": "2017",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2017"
+    },
+    {
+      "text": "2016",
+      "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2016"
+    },
+    {
+      "text": "",
+      "url": "https://get.adobe.com/reader/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/iowacourts"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/@iowacourts8702"
+    },
+    {
+      "text": "County Court Directory",
+      "url": "https://www.iowacourts.gov/iowa-courts/court-directory/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.iowacourts.gov/privacy-policy/"
+    },
+    {
+      "text": "Site Tools & Accessibility",
+      "url": "https://www.iowacourts.gov/site-tools-accessibility/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.iowacourts.gov/sitemap"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/iowacourts"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/@iowacourts8702"
+    },
+    {
+      "text": "GLOBAL REACH",
+      "url": "https://www.globalreach.com/"
+    }
+  ]
+}

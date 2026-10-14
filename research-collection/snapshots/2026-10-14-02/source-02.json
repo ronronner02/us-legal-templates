@@ -1,0 +1,489 @@
+{
+  "state": "Virginia",
+  "publisher": "Virginia Court System",
+  "url": "https://www.vacourts.gov/forms/circuit/fiduciary",
+  "category": "Estate and personal planning",
+  "rules": [
+    {
+      "pattern": "cc1685\\.pdf",
+      "title": "Small Estate Affidavit",
+      "form_id": "CC-1685",
+      "family_id": "small-estate-affidavit",
+      "identity": "SMALL ESTATE AFFIDAVIT",
+      "max": 1
+    },
+    {
+      "pattern": "cc1611\\.pdf",
+      "title": "List of Heirs",
+      "form_id": "CC-1611",
+      "family_id": "probate-heirs-list",
+      "identity": "LIST OF HEIRS",
+      "max": 1
+    }
+  ],
+  "source": {
+    "url": "https://www.vacourts.gov/forms/circuit/fiduciary",
+    "final_url": "https://www.vacourts.gov/forms/circuit/fiduciary",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-10-14T09:03:46.502Z",
+    "etag": null,
+    "last_modified": "Tue, 13 Oct 2026 20:25:28 GMT",
+    "content_length": null,
+    "sha256": "a7ac1a5894daf61d1a6d04959d07367105e41793c3034eede31b69e886580cf2",
+    "title": "Circuit Court Fiduciary Forms | Virginia Court System",
+    "retrieval_status": "retrieved-pending-review",
+    "local_archive_path": "archive/2026-10-14-02/02-virginia-source.html"
+  },
+  "source_attempts": [
+    {
+      "url": "https://www.vacourts.gov/forms/circuit/fiduciary",
+      "final_url": "https://www.vacourts.gov/forms/circuit/fiduciary",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at": "2026-10-14T09:03:46.502Z",
+      "etag": null,
+      "last_modified": "Tue, 13 Oct 2026 20:25:28 GMT",
+      "content_length": null,
+      "sha256": "a7ac1a5894daf61d1a6d04959d07367105e41793c3034eede31b69e886580cf2",
+      "title": "Circuit Court Fiduciary Forms | Virginia Court System",
+      "retrieval_status": "retrieved-pending-review"
+    }
+  ],
+  "artifacts": [
+    {
+      "pattern": "cc1685\\.pdf",
+      "title": "Small Estate Affidavit",
+      "form_id": "CC-1685",
+      "family_id": "small-estate-affidavit",
+      "identity": "SMALL ESTATE AFFIDAVIT",
+      "max": 1,
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1685.pdf",
+      "link_text": "Small Estate Affidavit",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1685.pdf",
+        "final_url": "https://www.vacourts.gov/static/forms/circuit/cc1685.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:03:47.137Z",
+        "etag": "\"8d49-6558de9787800\"",
+        "last_modified": "Wed, 01 Jul 2026 14:57:36 GMT",
+        "content_length": "36169",
+        "sha256": "9116746619f27008fa56ed884506dbc9d12b2a8792005a9b66c1a9fe78789f30",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.vacourts.gov/static/forms/circuit/cc1685.pdf",
+          "final_url": "https://www.vacourts.gov/static/forms/circuit/cc1685.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:47.137Z",
+          "etag": "\"8d49-6558de9787800\"",
+          "last_modified": "Wed, 01 Jul 2026 14:57:36 GMT",
+          "content_length": "36169",
+          "sha256": "9116746619f27008fa56ed884506dbc9d12b2a8792005a9b66c1a9fe78789f30",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "9116746619f27008fa56ed884506dbc9d12b2a8792005a9b66c1a9fe78789f30",
+      "local_archive_path": "archive/2026-10-14-02/02-small-estate-affidavit-9116746619f2.pdf",
+      "bytes": 36169,
+      "text_length": 5740,
+      "pages": 2,
+      "identity_excerpt": "Form CC-1685 (MASTER, Page 1 of 2) 07/26 SMALL ESTATE AFFIDAVIT Commonwealth of Virginia Va. Code § 64.2-601 I/we, the successor(s), after being duly sworn, state as follows pursuant to Va. Code § 64.2-601: 1. Name of the deceased person (“the decedent”): ....................................................................................................... 2. The decedent’s date of death: ................................................................ 3. The value of the decedent’s entire personal probate estate as of the date of the decedent’s death, wherever located, does not exceed $75,000. 4. A description of the small asset is as follows: ........................................................................................................................................................................................................................................ 5. The claiming successor is entitled to payment or delivery of the “small asset” and the basis for such entitlement is described below: [ ] Surviving Spouse [ ] Beneficiary under Will [ ] Heir (no Will) [ ] Other ............................................................................................................ 6. At least 60 days have passed since decedent’s death. 7. No application for the appointment of a personal representative is pending or has been granted in any jurisdiction. 8. The decedent’s will, if any, was duly probated. 9. The names and addresses of all successors, to the extent known, is/are: NAME ADDRESS a. ........................................................................................................................................................................................................ b. .....................................................................",
+      "revision_evidence": [
+        "Form CC-1685 (MASTER, Page 1 of 2) 07/26 SMALL ESTATE AFFIDAVIT Commonwealth of Vi",
+        "re space is needed) Form CC-1685 (MASTER, Page 2 of 2) 07/26 10. The name of each successor designated"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    },
+    {
+      "pattern": "cc1611\\.pdf",
+      "title": "List of Heirs",
+      "form_id": "CC-1611",
+      "family_id": "probate-heirs-list",
+      "identity": "LIST OF HEIRS",
+      "max": 1,
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1611.pdf",
+      "link_text": "List of Heirs",
+      "format": "pdf",
+      "receipt": {
+        "url": "https://www.vacourts.gov/static/forms/circuit/cc1611.pdf",
+        "final_url": "https://www.vacourts.gov/static/forms/circuit/cc1611.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "retrieved_at": "2026-10-14T09:03:47.704Z",
+        "etag": "\"5c3a-523415aeed040\"",
+        "last_modified": "Thu, 29 Oct 2015 17:08:09 GMT",
+        "content_length": "23610",
+        "sha256": "f6995fc38dd7d38274d626d94a5d7d697aca5b6b29b76755c416b94e974129f4",
+        "title": "",
+        "retrieval_status": "retrieved-pending-review"
+      },
+      "attempts": [
+        {
+          "url": "https://www.vacourts.gov/static/forms/circuit/cc1611.pdf",
+          "final_url": "https://www.vacourts.gov/static/forms/circuit/cc1611.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "retrieved_at": "2026-10-14T09:03:47.704Z",
+          "etag": "\"5c3a-523415aeed040\"",
+          "last_modified": "Thu, 29 Oct 2015 17:08:09 GMT",
+          "content_length": "23610",
+          "sha256": "f6995fc38dd7d38274d626d94a5d7d697aca5b6b29b76755c416b94e974129f4",
+          "title": "",
+          "retrieval_status": "retrieved-pending-review"
+        }
+      ],
+      "downloaded": true,
+      "status": "hash-and-parser-passed",
+      "sha256": "f6995fc38dd7d38274d626d94a5d7d697aca5b6b29b76755c416b94e974129f4",
+      "local_archive_path": "archive/2026-10-14-02/02-list-of-heirs-f6995fc38dd7.pdf",
+      "bytes": 23610,
+      "text_length": 5662,
+      "pages": 1,
+      "identity_excerpt": "LIST OF HEIRS Court File No. ........................................................................... COMMONWEALTH OF VIRGINIA VA. CODE § 64.2-509 ............................................................................................................................................................................................................................... Circuit Court ..................................................................................................................... ................................................................................................................... NAME OF DECEDENT DATE OF DEATH I/We, the undersigned, hereby state under oath that the following are all of the heirs of the Decedent: NAMES OF HEIRS ADDRESSES RELATIONSHIP AGE ........................................................................................................................................................................................................................................................... ........................................................................................................................................................................................................................................................... ........................................................................................................................................................................................................................................................... .....................................................................................................................................................................................................................................................",
+      "revision_evidence": [
+        "lerk FORM CC-1611 MASTER 10/12"
+      ],
+      "identity_verification": "title-pattern-matched",
+      "local_verification": "hash-and-parser-passed"
+    }
+  ],
+  "legal_review": "pending",
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "discovered_pdf_links": [
+    {
+      "text": "Rules of the Supreme Court of Virginia",
+      "url": "https://www.vacourts.gov/static/courts/scv/rulesofcourt.pdf"
+    },
+    {
+      "text": "Designated Local ADA Coordinators",
+      "url": "https://www.vacourts.gov/static/courts/ada/local_ada_coordinators.pdf"
+    },
+    {
+      "text": "Judicial Inquiry and Review Commission Complaint Form",
+      "url": "https://www.vacourts.gov/static/agencies/jirc/jirc_complaint_form.pdf"
+    },
+    {
+      "text": "Parent Education Self Evaluation",
+      "url": "https://www.vacourts.gov/static/courtadmin/aoc/djs/programs/parented/selfev2.pdf"
+    },
+    {
+      "text": "Rules of the Supreme Court of Virginia",
+      "url": "https://www.vacourts.gov/static/courts/scv/rulesofcourt.pdf"
+    },
+    {
+      "text": "Deposition of Witness to Will Without Self-Proving Clause",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1601.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1601inst.pdf"
+    },
+    {
+      "text": "Deposition of Witness to Prove Holographic Will",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1602.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1602inst.pdf"
+    },
+    {
+      "text": "Deposition of Witness to Prove Signatures of Deceased Attesting Witnesses and of the Testator",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1603.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1603inst.pdf"
+    },
+    {
+      "text": "Proof of Holographic Will / Proof of Soldier's or Sailor's Will",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1604.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1604inst.pdf"
+    },
+    {
+      "text": "Waiver of Qualification",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1608.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1608inst.pdf"
+    },
+    {
+      "text": "Certificate of Creditor or Person Other Than a Distributee",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1609.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1609inst.pdf"
+    },
+    {
+      "text": "Consent of Nonresident Fiduciary for Service of Process",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1610.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1610inst.pdf"
+    },
+    {
+      "text": "List of Heirs",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1611.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1611inst.pdf"
+    },
+    {
+      "text": "Real Estate Affidavit",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1612.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1612inst.pdf"
+    },
+    {
+      "text": "Notice Regarding Estate of",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1616.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1616inst.pdf"
+    },
+    {
+      "text": "Affidavit of Notice Regarding Estate of",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1617.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1617inst.pdf"
+    },
+    {
+      "text": "Waiver of Notice of Probate or Qualification",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1618.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1618inst.pdf"
+    },
+    {
+      "text": "Power of Attorney For New Or Additional Bond",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1619.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1619inst.pdf"
+    },
+    {
+      "text": "Cover Sheet to Petition for Appointment of Guardian and/or Conservator",
+      "url": "https://www.vacourts.gov/static//forms/circuit/cc1640.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static//forms/circuit/cc1640inst.pdf"
+    },
+    {
+      "text": "Spanish Translation of CC-1640",
+      "url": "https://www.vacourts.gov/static/forms/circuit/fls/cc1640sp.pdf"
+    },
+    {
+      "text": "Addendum for Financial Information - Confidential (Guardian and/or Conservator)",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1641.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1641inst.pdf"
+    },
+    {
+      "text": "Addendum to Petition for Appointment of Guardian or Conservator-Under Seal",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1642.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1642inst.pdf"
+    },
+    {
+      "text": "Certification of Proposed Guardian",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1643.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1643inst.pdf"
+    },
+    {
+      "text": "Report of Guardian for an Incapacitated Person",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1644.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1644inst.pdf"
+    },
+    {
+      "text": "Sample Form CC-1644",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1644_samp.pdf"
+    },
+    {
+      "text": "Notice of Restriction by Guardian",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1645.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1645inst.pdf"
+    },
+    {
+      "text": "Petition for Review Hearing (Guardian and/or Conservator)",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1646.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1646inst.pdf"
+    },
+    {
+      "text": "Probate Information Form",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1650.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1650inst.pdf"
+    },
+    {
+      "text": "Probate Tax Return",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1651.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1651inst.pdf"
+    },
+    {
+      "text": "Incapacitated Adult Information Form",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1652.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1652inst.pdf"
+    },
+    {
+      "text": "Guardian of Minor Information Form",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1653.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1653inst.pdf"
+    },
+    {
+      "text": "Trust Information Form",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1654.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1654inst.pdf"
+    },
+    {
+      "text": "Inventory for Decedent's Estate",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1670.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1670inst.pdf"
+    },
+    {
+      "text": "Inventory for Incapacitated Adult",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1671.pdf"
+    },
+    {
+      "text": "Instructions and Sample Form",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1671inst.pdf"
+    },
+    {
+      "text": "Inventory for Estate of Minor",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1672.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1672inst.pdf"
+    },
+    {
+      "text": "Inventory for Trust",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1673.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1673inst.pdf"
+    },
+    {
+      "text": "Account for Decedent's Estate",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1680.pdf"
+    },
+    {
+      "text": "Instructions and Sample Form",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1680inst.pdf"
+    },
+    {
+      "text": "Statement In Lieu of Settlement of Account for Decedent's Estate Pursuant to Va. Code § 64.2-1314",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1681.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1681inst.pdf"
+    },
+    {
+      "text": "Account for Incapacitated Adult",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1682.pdf"
+    },
+    {
+      "text": "Instructions and Sample Form",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1682inst.pdf"
+    },
+    {
+      "text": "Account for Minor",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1683.pdf"
+    },
+    {
+      "text": "Instructions and Sample Form",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1683inst.pdf"
+    },
+    {
+      "text": "Account for Trust",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1684.pdf"
+    },
+    {
+      "text": "Instructions and Sample Form",
+      "url": "https://www.vacourts.gov/forms/circuit/cc1684inst.pdf"
+    },
+    {
+      "text": "Small Estate Affidavit",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1685.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1685inst.pdf"
+    },
+    {
+      "text": "Notice to Creditors",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1686.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1686inst.pdf"
+    },
+    {
+      "text": "Affidavit of Notice to Creditors Regarding Estate",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1687.pdf"
+    },
+    {
+      "text": "Instructions",
+      "url": "https://www.vacourts.gov/static/forms/circuit/cc1687inst.pdf"
+    }
+  ]
+}
