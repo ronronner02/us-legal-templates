@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/2_0.pdf",
+      "source_url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8",
+      "category": "Estate and personal planning",
+      "document_type": "Application to Probate Will",
+      "title": "Application to Probate Will",
+      "family_id": "probate-petition",
+      "form_id": null,
+      "scope": "state",
+      "state": "Ohio",
+      "jurisdiction": "Ohio",
+      "publisher": "Supreme Court of Ohio",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/16-application-to-probate-will-8837ec611247.pdf",
+      "sha256": "8837ec6112476d07f5b481b7bfaa13ffb7f279c1edfa85a0112fe21232e12633",
+      "acquired_at": "2026-10-14T09:40:11.738Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/16-application-to-probate-will-8837ec611247.pdf"
+    }
+  }
+]

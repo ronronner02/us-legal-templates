@@ -1,0 +1,85 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "state",
+      "publisher": "Maine Department of Labor",
+      "source_url": "https://www.maine.gov/labor/posters/",
+      "artifact_url": "https://www.maine.gov/labor/docs/2026/posters/minwage/English_minimum_wage.pdf",
+      "source_link_title": "English Language Poster",
+      "title": "Minimum Wage Poster - 2026 Edition",
+      "slug": "minimum-wage-2026",
+      "category": "Employment",
+      "family_id": "minimum-wage-notice",
+      "identity_patterns": [
+        "minimum wage",
+        "2026"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "Current-year edition retained separately from upcoming 2027 edition.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "rev. 10/25",
+      "edition_label": "2026",
+      "sha256": "435668a0b4a6690749c3f8dfcd97af73bec55bf8468a3063f966f5b3ff8314ee",
+      "bytes": 50003,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 4161,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/ME/minimum-wage-2026-435668a0b4a6.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/ME/minimum-wage-2026-435668a0b4a6.pdf",
+      "text_path": "extracted-text/435668a0b4a6690749c3f8dfcd97af73bec55bf8468a3063f966f5b3ff8314ee.txt",
+      "acquired_at": "2026-10-15T01:34:11.159980+00:00",
+      "receipt": {
+        "url": "https://www.maine.gov/labor/docs/2026/posters/minwage/English_minimum_wage.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:34:11.159980+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"c353-64008ccd75c4a\"",
+        "last_modified": "Tue, 30 Sep 2025 18:20:00 GMT",
+        "status": "fetched",
+        "sha256": "435668a0b4a6690749c3f8dfcd97af73bec55bf8468a3063f966f5b3ff8314ee",
+        "bytes": 50003,
+        "body_path": "evidence/http/2026-10-15T01-32-40.761224+00-00/435668a0b4a6690749c3f8dfcd97af73bec55bf8468a3063f966f5b3ff8314ee.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "current_year_edition_classified_legal_review_pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "current_year_edition",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [],
+      "related_files": [
+        "originals/ME/minimum-wage-2027-05776c5a98e9.pdf"
+      ],
+      "rights_evidence": [
+        {
+          "kind": "document_copy_statement",
+          "text": "This poster is available online at no charge and may be copied:  https://www.maine.gov/labor/posters/",
+          "evidence_path": "extracted-text/435668a0b4a6690749c3f8dfcd97af73bec55bf8468a3063f966f5b3ff8314ee.txt",
+          "scope": "Copying stated by the document; modification, resale, and broad commercial redistribution remain unreviewed."
+        }
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-29-58.709997+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/1c0b8edd378ee5f0c976f57b0761a433d78feef71b5351785e9444b893656ea1.body",
+          "resolved_source_url": "https://www.maine.gov/labor/posters/"
+        }
+      ],
+      "rate_effective_date": "2026-01-01",
+      "relationship_note": "Annual editions retained separately. Rate-effective date is distinct from publication and form-effective dates. The 2027 edition also describes the 2026 rate.",
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "West Virginia",
+      "state_code": "WV",
+      "scope": "state",
+      "publisher": "West Virginia Real Estate Commission",
+      "source_url": "https://rec.wv.gov/Forms/Pages/default.aspx",
+      "artifact_url": "https://rec.wv.gov/media/28/download?inline",
+      "source_link_title": "Complaint Form",
+      "title": "Real Estate Commission Complaint Form",
+      "slug": "real-estate-complaint",
+      "category": "Real estate",
+      "family_id": "real-estate-complaint",
+      "identity_patterns": [
+        "complaint"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Blank complaint form; source does not establish that allegations have been adjudicated.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "Mixed markers: July 2023 and September 2025",
+      "sha256": "f4b34c970f8e79dec6c91cd872cee9de56e009cae51a4a0a191f2cf4e2bd12a5",
+      "bytes": 591546,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 4,
+      "text_length": 4565,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/WV/real-estate-complaint-f4b34c970f8e.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/WV/real-estate-complaint-f4b34c970f8e.pdf",
+      "text_path": "extracted-text/f4b34c970f8e79dec6c91cd872cee9de56e009cae51a4a0a191f2cf4e2bd12a5.txt",
+      "acquired_at": "2026-10-15T01:59:41.207888+00:00",
+      "receipt": {
+        "url": "https://rec.wv.gov/media/28/download?inline",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:59:41.207888+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": null,
+        "last_modified": "Mon, 05 Oct 2026 17:55:16 GMT",
+        "status": "fetched",
+        "sha256": "f4b34c970f8e79dec6c91cd872cee9de56e009cae51a4a0a191f2cf4e2bd12a5",
+        "bytes": 591546,
+        "body_path": "evidence/http/2026-10-15T01-54-36.419563+00-00/f4b34c970f8e79dec6c91cd872cee9de56e009cae51a4a0a191f2cf4e2bd12a5.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-52-44.093538+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/e90616f0fcdcd79110caf91cad05900c25fc08b0d440005cf8ff2f685e8260ac.body",
+          "resolved_source_url": "https://rec.wv.gov/forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [],
+      "quality_notes": [
+        "The supplied four-page PDF contains both July 2023 and September 2025 revision markers. Preserve the original packet without assigning one uniform revision. The complaint text states attachments may be shared with respondents and other regulators."
+      ],
+      "edition_classification": "unverified",
+      "usage_classification": "real_estate_regulatory_form",
+      "copyright_review": "pending",
+      "reuse_note": "Official public download does not establish general modification, resale, or republication permission. Review the captured state legal notices and document-specific restrictions before reuse.",
+      "rights_source_url": "https://www.wv.gov/policies/legal-notices",
+      "revision_text_candidates": [
+        "Rev. July 2023",
+        "Rev. July 2023",
+        "Rev. July 2023",
+        "Rev. September 2025"
+      ],
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-02-Small-Claims-Summons-11-24.pdf",
+      "source_url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/",
+      "category": "Court procedure",
+      "document_type": "Small Claims Summons",
+      "title": "Small Claims Summons",
+      "family_id": "small-claims-summons",
+      "form_id": "SC Form 02",
+      "scope": "state",
+      "state": "Wyoming",
+      "jurisdiction": "Wyoming",
+      "publisher": "Wyoming Judicial Branch",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-03/05-small-claims-summons-1155c9c338d2.pdf",
+      "sha256": "1155c9c338d29bdba5751262f93f7234b7ac016bce1b9b232a0b9e8d5fe9c9a4",
+      "acquired_at": "2026-10-14T09:05:42.857Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-03/05-small-claims-summons-1155c9c338d2.pdf"
+    }
+  }
+]

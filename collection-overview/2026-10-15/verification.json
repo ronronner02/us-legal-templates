@@ -1,0 +1,61 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T07:05:28.244386+00:00",
+  "baseline_commit": "677dec1227eab0fd8ec0375f3dd135a26b6c9d87",
+  "unique_original_hashes_verified": 658,
+  "file_signatures_checked": 658,
+  "manifest_checks": [
+    {
+      "manifest": "organized-library/00_Index/manifest.json",
+      "files_verified": 1238
+    },
+    {
+      "manifest": "research-collection/rounds/2026-10-15-01/integrity-manifest.json",
+      "files_verified": 113
+    },
+    {
+      "manifest": "research-collection/rounds/2026-10-15-02/integrity-manifest.json",
+      "files_verified": 136
+    },
+    {
+      "manifest": "research-collection/rounds/2026-10-15-03/integrity-manifest.json",
+      "files_verified": 100
+    },
+    {
+      "manifest": "research-collection/rounds/2026-10-15-04/integrity-manifest.json",
+      "files_verified": 117
+    },
+    {
+      "manifest": "research-collection/rounds/2026-10-15-05/integrity-manifest.json",
+      "files_verified": 118
+    },
+    {
+      "manifest": "research-collection/rounds/2026-10-15-06/integrity-manifest.json",
+      "files_verified": 106
+    },
+    {
+      "manifest": "research-collection/rounds/2026-10-15-07/integrity-manifest.json",
+      "files_verified": 108
+    },
+    {
+      "manifest": "research-collection/manifest.json",
+      "files_verified": 254,
+      "referenced_originals_verified": 240
+    }
+  ],
+  "metadata_records": 658,
+  "link_only_unique": 1,
+  "catalog_original_links_resolve": true,
+  "source_websites_rechecked": false,
+  "fresh_full_library_parser_review": false,
+  "full_library_semantic_deduplication": false,
+  "aggregation_checkpoint_tracked_files_preserved": 2302,
+  "final_checked_at": "2026-10-15T07:10:16.494122+00:00",
+  "final_existing_tracked_files_unchanged": 2301,
+  "intentionally_updated_tracked_files": [
+    "README.md"
+  ],
+  "browser_check": "passed",
+  "browser_original_urls_checked": 658,
+  "overview_delivery": "Pre-commit checkpoint. Subsequent overview delivery is recorded by the Git branch."
+}

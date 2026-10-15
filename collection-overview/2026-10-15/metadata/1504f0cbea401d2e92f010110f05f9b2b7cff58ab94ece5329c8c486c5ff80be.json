@@ -1,0 +1,93 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-05/inventory.json",
+    "batch": "2026-10-15-05",
+    "record": {
+      "state": "Wisconsin",
+      "state_code": "WI",
+      "scope": "statewide",
+      "publisher": "Wisconsin Court System",
+      "source_url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38",
+      "artifact_url": "https://www.wicourts.gov/formdisplay/SC-506A.pdf?formNumber=SC-506A&formType=Form&formatId=2&language=en",
+      "source_link_title": "Form English",
+      "title": "Order for Financial Disclosure (Small Claims)",
+      "slug": "sc-506a",
+      "category": "small_claims_and_civil_procedure",
+      "family_id": "SC-506A",
+      "form_code": "SC-506A",
+      "identity_patterns": [
+        "SC\\-506A",
+        "Financial\\s+Disclosure"
+      ],
+      "source_listed_revision": "11/02/2017",
+      "source_description": "After a small claims judgment has been granted, the court is required to order the debtor to file a financial disclosure statement with the creditor or creditor's attorney.",
+      "source_row_text": "SC-506A Order for Financial Disclosure (Small Claims) After a small claims judgment has been granted, the court is required to order the debtor to file a financial disclosure statement with the creditor or creditor's attorney. 11/02/2017 Form English Form English Summary English",
+      "usage_classification": "proposed_order",
+      "source_form_status": "not_explicitly_labeled_voluntary_in_catalog",
+      "selection_reason": "Fresh official English PDF with form, order, or procedural-guidance role recorded separately.",
+      "notes": "After a small claims judgment has been granted, the court is required to order the debtor to file a financial disclosure statement with the creditor or creditor's attorney.",
+      "sha256": "1504f0cbea401d2e92f010110f05f9b2b7cff58ab94ece5329c8c486c5ff80be",
+      "bytes": 48237,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 5577,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/WI/sc-506a-1504f0cbea40.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-05/originals/WI/sc-506a-1504f0cbea40.pdf",
+      "text_path": "extracted-text/1504f0cbea401d2e92f010110f05f9b2b7cff58ab94ece5329c8c486c5ff80be.txt",
+      "acquired_at": "2026-10-15T04:18:37.694Z",
+      "receipt": {
+        "url": "https://www.wicourts.gov/formdisplay/SC-506A.pdf?formNumber=SC-506A&formType=Form&formatId=2&language=en",
+        "resolved_url": "https://www.wicourts.gov/formdisplay/SC-506A.pdf?formNumber=SC-506A&formType=Form&formatId=2&language=en",
+        "checked_at": "2026-10-15T04:18:37.694Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "last_modified": "Wed, 02 Oct 2019 00:00:00 GMT",
+        "etag": null,
+        "bytes": 48237,
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "1504f0cbea401d2e92f010110f05f9b2b7cff58ab94ece5329c8c486c5ff80be",
+        "body_path": "evidence/http/browser-documents/1504f0cbea401d2e92f010110f05f9b2b7cff58ab94ece5329c8c486c5ff80be.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "11/17",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/1504f0cbea401d2e92f010110f05f9b2b7cff58ab94ece5329c8c486c5ff80be.txt",
+        "matched_text": "SC-506A, 11/17",
+        "method": "Confirmed in extracted original PDF text. Visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.wicourts.gov/forms1/circuit/mandatory.htm",
+      "reuse_note": "The official FAQ and filing forms restrict modification of standard forms. Original bytes are preserved. Public access does not establish blanket permission for republication or commercial reuse; reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Unsigned blank official template. It is not an issued order, judgment, or writ; execution, filing, and acceptance remain unreviewed.",
+        "Order and financial disclosure statement are separate originals. Both contain exemption guidance; file distinctness does not establish distinct legal content."
+      ],
+      "related_files": [
+        "originals/WI/sc-506b-4ec80eb43268.pdf"
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T04-03-54.385770+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T04-03-54.385770+00-00/56bb69d3e9b2b85c57e12a78729e5774edb6df0bf69f07584af89944141b722a.body",
+          "resolved_source_url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "modification_notice_in_original": true,
+      "review_note": "Parser, identity, and printed-revision text checks do not establish visual layout, fields, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

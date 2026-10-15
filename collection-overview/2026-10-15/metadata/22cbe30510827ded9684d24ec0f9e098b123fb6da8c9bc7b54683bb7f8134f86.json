@@ -1,0 +1,86 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "West Virginia",
+      "state_code": "WV",
+      "scope": "state",
+      "publisher": "West Virginia Real Estate Commission",
+      "source_url": "https://rec.wv.gov/Forms/Pages/default.aspx",
+      "artifact_url": "https://rec.wv.gov/media/33/download?inline",
+      "source_link_title": "Waiver",
+      "title": "Trust Fund Account Waiver",
+      "slug": "trust-fund-account-waiver",
+      "category": "Real estate",
+      "family_id": "trust-fund-account-waiver",
+      "identity_patterns": [
+        "waiver"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Companion alternative to trust-account filing; applicability requires review.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "REV. September 2025",
+      "sha256": "22cbe30510827ded9684d24ec0f9e098b123fb6da8c9bc7b54683bb7f8134f86",
+      "bytes": 167999,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1135,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/WV/trust-fund-account-waiver-22cbe3051082.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/WV/trust-fund-account-waiver-22cbe3051082.pdf",
+      "text_path": "extracted-text/22cbe30510827ded9684d24ec0f9e098b123fb6da8c9bc7b54683bb7f8134f86.txt",
+      "acquired_at": "2026-10-15T01:58:51.548850+00:00",
+      "receipt": {
+        "url": "https://rec.wv.gov/media/33/download?inline",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:58:51.548850+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": null,
+        "last_modified": "Mon, 05 Oct 2026 17:55:16 GMT",
+        "status": "fetched",
+        "sha256": "22cbe30510827ded9684d24ec0f9e098b123fb6da8c9bc7b54683bb7f8134f86",
+        "bytes": 167999,
+        "body_path": "evidence/http/2026-10-15T01-54-36.419563+00-00/22cbe30510827ded9684d24ec0f9e098b123fb6da8c9bc7b54683bb7f8134f86.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-52-44.093538+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/e90616f0fcdcd79110caf91cad05900c25fc08b0d440005cf8ff2f685e8260ac.body",
+          "resolved_source_url": "https://rec.wv.gov/forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [
+        "originals/WV/trust-fund-account-cc909a1e3b96.pdf"
+      ],
+      "quality_notes": [],
+      "edition_classification": "unverified",
+      "usage_classification": "real_estate_regulatory_form",
+      "copyright_review": "pending",
+      "reuse_note": "Official public download does not establish general modification, resale, or republication permission. Review the captured state legal notices and document-specific restrictions before reuse.",
+      "rights_source_url": "https://www.wv.gov/policies/legal-notices",
+      "revision_text_candidates": [
+        "serves the right to reject or revoke this waiver should any",
+        "REV. September 2025"
+      ],
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/22cbe30510827ded9684d24ec0f9e098b123fb6da8c9bc7b54683bb7f8134f86.txt",
+        "matched_text": "REV. September 2025",
+        "method": "Verified in extracted original text; visual confirmation not run."
+      },
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

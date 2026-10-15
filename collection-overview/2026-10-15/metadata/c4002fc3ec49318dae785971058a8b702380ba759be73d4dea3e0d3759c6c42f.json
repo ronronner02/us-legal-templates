@@ -1,0 +1,39 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.iowacourts.gov/collections/304/files/547/embedDocument/",
+      "source_url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/6",
+      "category": "Court procedure",
+      "document_type": "Original Notice and Petition for Replevin",
+      "title": "Original Notice and Petition for Replevin",
+      "family_id": "small-claims-replevin",
+      "form_id": "3.5",
+      "scope": "state",
+      "state": "Iowa",
+      "jurisdiction": "Iowa",
+      "publisher": "Iowa Judicial Branch",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-09/09-original-notice-and-petition-for-replevin-c4002fc3ec49.pdf",
+      "sha256": "c4002fc3ec49318dae785971058a8b702380ba759be73d4dea3e0d3759c6c42f",
+      "acquired_at": "2026-10-14T09:59:00.751Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [
+        "historical-2018-order-archive",
+        "current-rule-and-e-filing-review-required"
+      ],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-09/09-original-notice-and-petition-for-replevin-c4002fc3ec49.pdf"
+    }
+  }
+]

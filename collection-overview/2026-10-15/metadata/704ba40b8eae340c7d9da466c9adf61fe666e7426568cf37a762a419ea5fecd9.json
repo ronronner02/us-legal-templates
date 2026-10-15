@@ -1,0 +1,73 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "state",
+      "publisher": "Maine Real Estate Commission",
+      "source_url": "https://www.maine.gov/pfr/professionallicensing/professions/real-estate-commission/applications-forms",
+      "artifact_url": "https://www.maine.gov/pfr/professionallicensing/sites/maine.gov.pfr.professionallicensing/files/inline-files/RECform3.pdf",
+      "source_link_title": "Real Estate Brokerage Relationships Form (PDF)",
+      "title": "Real Estate Brokerage Relationships Form",
+      "slug": "brokerage-relationships",
+      "category": "Real estate",
+      "family_id": "agency-disclosure",
+      "identity_patterns": [
+        "brokerage",
+        "relationship"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "Agency relationship disclosure, not a purchase contract or listing agreement.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "Revised 07/2006",
+      "sha256": "704ba40b8eae340c7d9da466c9adf61fe666e7426568cf37a762a419ea5fecd9",
+      "bytes": 63037,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 5402,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/ME/brokerage-relationships-704ba40b8eae.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/ME/brokerage-relationships-704ba40b8eae.pdf",
+      "text_path": "extracted-text/704ba40b8eae340c7d9da466c9adf61fe666e7426568cf37a762a419ea5fecd9.txt",
+      "acquired_at": "2026-10-15T01:33:21.568170+00:00",
+      "receipt": {
+        "url": "https://www.maine.gov/pfr/professionallicensing/sites/maine.gov.pfr.professionallicensing/files/inline-files/RECform3.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:33:21.568170+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"f63d-5ae2cccd72880\"",
+        "last_modified": "Mon, 31 Aug 2020 13:58:42 GMT",
+        "status": "fetched",
+        "sha256": "704ba40b8eae340c7d9da466c9adf61fe666e7426568cf37a762a419ea5fecd9",
+        "bytes": 63037,
+        "body_path": "evidence/http/2026-10-15T01-32-40.761224+00-00/704ba40b8eae340c7d9da466c9adf61fe666e7426568cf37a762a419ea5fecd9.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "undetermined",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [],
+      "related_files": [],
+      "rights_evidence": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-28-19.205641+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-28-19.205641+00-00/f23db28c3c2b10fd589dba5d0692cb165aadf54cea2ff6945cdca6425004bf59.body",
+          "resolved_source_url": "https://www.maine.gov/pfr/professionallicensing/professions/real-estate-commission/applications-forms"
+        }
+      ],
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

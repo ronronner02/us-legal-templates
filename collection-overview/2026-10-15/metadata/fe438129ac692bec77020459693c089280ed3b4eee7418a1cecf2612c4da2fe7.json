@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-301-Application-for-informal-appointment-of-personal-representative-no-will.pdf",
+      "source_url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/",
+      "category": "Estate and personal planning",
+      "document_type": "Application for Informal Appointment of Personal Representative (No Will)",
+      "title": "Application for Informal Appointment of Personal Representative (No Will)",
+      "family_id": "probate-petition",
+      "form_id": "4B-301",
+      "scope": "state",
+      "state": "New Mexico",
+      "jurisdiction": "New Mexico",
+      "publisher": "New Mexico Courts Self-Representation",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/15-application-for-informal-appointment-of-personal-representative-no-will-fe438129ac69.pdf",
+      "sha256": "fe438129ac692bec77020459693c089280ed3b4eee7418a1cecf2612c4da2fe7",
+      "acquired_at": "2026-10-14T09:40:09.751Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/15-application-for-informal-appointment-of-personal-representative-no-will-fe438129ac69.pdf"
+    }
+  }
+]

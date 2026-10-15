@@ -1,0 +1,72 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "state",
+      "publisher": "Maine Department of Labor",
+      "source_url": "https://www.maine.gov/labor/posters/",
+      "artifact_url": "https://www.maine.gov/labor/docs/2026/posters/MaineBLSSexualHarassmentPreventionChecklist.pdf",
+      "source_link_title": "Sexual Harassment Education and Training Checklist",
+      "title": "Sexual Harassment Education and Training Checklist",
+      "slug": "sexual-harassment-training-checklist",
+      "category": "Employment",
+      "family_id": "sexual-harassment-training-checklist",
+      "identity_patterns": [
+        "sexual harassment"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "Selected poster-directory rendition; separate labor-laws alias observed and deliberately not downloaded.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "rev. 05/26",
+      "sha256": "df4145cba537dda9bf2cce80d2034341dd3577eb9bbc0ad8a3e5528076e3a3f7",
+      "bytes": 264320,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 2633,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/ME/sexual-harassment-training-checklist-df4145cba537.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/ME/sexual-harassment-training-checklist-df4145cba537.pdf",
+      "text_path": "extracted-text/df4145cba537dda9bf2cce80d2034341dd3577eb9bbc0ad8a3e5528076e3a3f7.txt",
+      "acquired_at": "2026-10-15T01:34:21.935151+00:00",
+      "receipt": {
+        "url": "https://www.maine.gov/labor/docs/2026/posters/MaineBLSSexualHarassmentPreventionChecklist.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:34:21.935151+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"40880-652e30e432f9d\"",
+        "last_modified": "Thu, 28 May 2026 16:16:50 GMT",
+        "status": "fetched",
+        "sha256": "df4145cba537dda9bf2cce80d2034341dd3577eb9bbc0ad8a3e5528076e3a3f7",
+        "bytes": 264320,
+        "body_path": "evidence/http/2026-10-15T01-32-40.761224+00-00/df4145cba537dda9bf2cce80d2034341dd3577eb9bbc0ad8a3e5528076e3a3f7.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "undetermined",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [],
+      "related_files": [],
+      "rights_evidence": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-29-58.709997+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/1c0b8edd378ee5f0c976f57b0761a433d78feef71b5351785e9444b893656ea1.body",
+          "resolved_source_url": "https://www.maine.gov/labor/posters/"
+        }
+      ],
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

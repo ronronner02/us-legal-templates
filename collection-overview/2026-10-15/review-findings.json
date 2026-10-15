@@ -1,0 +1,37 @@
+[
+  {
+    "report": "research-collection/rounds/2026-10-15-05/reports/edition-discrepancies.json",
+    "finding": {
+      "form_code": "SC-5130V",
+      "source_listed_revision": "09/12/2024",
+      "printed_revision": "05/24",
+      "text_evidence": {
+        "text_path": "extracted-text/0921b25eed05226a9ee665d7943ad42b1ddd88733565017b0edd1c5c4096e478.txt",
+        "matched_text": "SC-5130V, 05/24",
+        "method": "Confirmed in extracted original PDF text. Visual rendering not run."
+      },
+      "status": "needs_source_or_edition_review"
+    }
+  },
+  {
+    "report": "research-collection/rounds/2026-10-15-07/reports/content-discrepancies.json",
+    "finding": {
+      "form_code": "CC-GN-002",
+      "type": "catalog_and_original_scope_difference",
+      "source_description": "Use this form to ask the court to award guardianship over an individual, regardless of the individual’s age, who has a disability. Learn about the alternatives to guardianship before filing a petition .",
+      "original_evidence": "If the subject of the petition is a minor including a disabled minor, use the form petition set forth in Rule 10-111.",
+      "text_path": "extracted-text/5d850ad00e42c43788acba896fe02450d6b29bcf7acb29c1413a4a7d56f04f7d.txt",
+      "status": "review_pending"
+    }
+  },
+  {
+    "report": "research-collection/rounds/2026-10-15-07/reports/content-discrepancies.json",
+    "finding": {
+      "form_code": "CC-DR-062",
+      "type": "inconsistent_original_footer_form_code",
+      "matched_text": "CC-DC-062 (Rev. 01/2023) Page 4 of 4",
+      "text_path": "extracted-text/fdafd0695cc00d5eac9613423792f6620af23331f357da6d1372d5135ed32152.txt",
+      "status": "review_pending"
+    }
+  }
+]

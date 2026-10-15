@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.courts.maine.gov/help/guides/sc-guide-2026.pdf",
+      "source_url": "https://www.courts.maine.gov/help/small-claims/index.html",
+      "category": "Court procedure",
+      "document_type": "A Guide to Small Claims Cases (2026)",
+      "title": "A Guide to Small Claims Cases (2026)",
+      "family_id": "small-claims-instructions",
+      "form_id": null,
+      "scope": "state",
+      "state": "Maine",
+      "jurisdiction": "Maine",
+      "publisher": "Maine Judicial Branch",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-03/03-a-guide-to-small-claims-cases-2026-ef9d5e36c980.pdf",
+      "sha256": "ef9d5e36c980dc5f2317f5d181cdd8c5409101fc99a5762497c91f2afaf93f6e",
+      "acquired_at": "2026-10-14T09:05:34.719Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-03/03-a-guide-to-small-claims-cases-2026-ef9d5e36c980.pdf"
+    }
+  }
+]

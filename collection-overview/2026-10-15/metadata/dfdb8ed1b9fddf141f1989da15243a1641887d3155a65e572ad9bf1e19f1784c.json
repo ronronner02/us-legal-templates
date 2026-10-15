@@ -1,0 +1,81 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "state",
+      "publisher": "Maine Department of Labor",
+      "source_url": "https://www.maine.gov/labor/posters/",
+      "artifact_url": "https://www.maine.gov/labor/docs/2022/posters/childlabor/childlabor_English.pdf",
+      "source_link_title": "English Language Poster",
+      "title": "Child Labor Laws Poster",
+      "slug": "child-labor-notice",
+      "category": "Employment",
+      "family_id": "child-labor-notice",
+      "identity_patterns": [
+        "child labor"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "Poster provides age-specific restrictions; related work-permit and age-verification forms are separate artifacts.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "rev. 11/19",
+      "sha256": "dfdb8ed1b9fddf141f1989da15243a1641887d3155a65e572ad9bf1e19f1784c",
+      "bytes": 64943,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 3882,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/IWFBKS+MinionPro-It', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 32, '/FontDescriptor': IndirectObject(39, 0, 2023015988304), '/LastChar': 117, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [229, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 579, 0, 0, 0, 0, 0, 0, 0, 0, 0, 532, 0, 0, 0, 0, 0, 0, 468, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 490, 486, 0, 508, 400, 271, 0, 0, 0, 0, 0, 0, 0, 532, 470, 0, 0, 366, 337, 307, 533]}, but is not installed. Consider installing fontTools if you encounter encoding problems."
+      ],
+      "local_path": "originals/ME/child-labor-notice-dfdb8ed1b9fd.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/ME/child-labor-notice-dfdb8ed1b9fd.pdf",
+      "text_path": "extracted-text/dfdb8ed1b9fddf141f1989da15243a1641887d3155a65e572ad9bf1e19f1784c.txt",
+      "acquired_at": "2026-10-15T01:34:35.587809+00:00",
+      "receipt": {
+        "url": "https://www.maine.gov/labor/docs/2022/posters/childlabor/childlabor_English.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:34:35.587809+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"fdaf-5dd7ba88f4bc5\"",
+        "last_modified": "Mon, 25 Apr 2022 14:47:42 GMT",
+        "status": "fetched",
+        "sha256": "dfdb8ed1b9fddf141f1989da15243a1641887d3155a65e572ad9bf1e19f1784c",
+        "bytes": 64943,
+        "body_path": "evidence/http/2026-10-15T01-32-40.761224+00-00/dfdb8ed1b9fddf141f1989da15243a1641887d3155a65e572ad9bf1e19f1784c.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "undetermined",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [],
+      "related_files": [],
+      "rights_evidence": [
+        {
+          "kind": "document_copy_statement",
+          "text": "This poster is available online at no charge and may be copied:  https://www.maine.gov/labor/posters/",
+          "evidence_path": "extracted-text/dfdb8ed1b9fddf141f1989da15243a1641887d3155a65e572ad9bf1e19f1784c.txt",
+          "scope": "Copying stated by the document; modification, resale, and broad commercial redistribution remain unreviewed."
+        }
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-29-58.709997+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/1c0b8edd378ee5f0c976f57b0761a433d78feef71b5351785e9444b893656ea1.body",
+          "resolved_source_url": "https://www.maine.gov/labor/posters/"
+        }
+      ],
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

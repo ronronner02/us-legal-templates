@@ -1,0 +1,93 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-06/inventory.json",
+    "batch": "2026-10-15-06",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdrina.pdf",
+      "source_link_title": "Instructions for Completing and Filing Divorce Forms",
+      "title": "Instructions for Completing and Filing Divorce Forms",
+      "slug": "cc-drin-a",
+      "category": "divorce_and_marital_property",
+      "family_id": "CC-DRIN-A",
+      "form_code": "CC-DRIN-A",
+      "identity_patterns": [
+        "CC[-\\s]*DRIN[-\\s]*A",
+        "INSTRUCTIONS\\s+FOR\\s+COMPLETING\\s+AND\\s+FILING\\s+DIVORCE\\s+FORMS"
+      ],
+      "source_listed_revision": "10/2023",
+      "source_description": "Use this instruction form when completing divorce forms. Learn more: divorce web page and divorce video series .",
+      "source_row_text": "CC-DRIN-A Instructions for Completing and Filing Divorce Forms 10/2023 Use this instruction form when completing divorce forms. Learn more: divorce web page and divorce video series .",
+      "usage_classification": "procedural_guidance",
+      "selection_reason": "Fresh official English family-law original, with procedural, financial, agreement, and guidance roles recorded separately.",
+      "notes": "Use this instruction form when completing divorce forms. Learn more: divorce web page and divorce video series .",
+      "sha256": "12cfe8415215dbb87c836ffca00f737eee53eee7b4e49e0c24aec405745f1e9b",
+      "bytes": 274384,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 6794,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-drin-a-12cfe8415215.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-06/originals/MD/cc-drin-a-12cfe8415215.pdf",
+      "text_path": "extracted-text/12cfe8415215dbb87c836ffca00f737eee53eee7b4e49e0c24aec405745f1e9b.txt",
+      "acquired_at": "2026-10-15T04:35:19.815Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdrina.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdrina.pdf",
+        "checked_at": "2026-10-15T04:35:19.815Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"42fd0-65991f4ec403c\"",
+        "last_modified": "Fri, 21 Aug 2026 17:27:54 GMT",
+        "bytes": 274384,
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "12cfe8415215dbb87c836ffca00f737eee53eee7b4e49e0c24aec405745f1e9b",
+        "body_path": "evidence/http/browser-documents/12cfe8415215dbb87c836ffca00f737eee53eee7b4e49e0c24aec405745f1e9b.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "10/2023",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/12cfe8415215dbb87c836ffca00f737eee53eee7b4e49e0c24aec405745f1e9b.txt",
+        "matched_text": "CC-DRIN-A (Rev. 10/2023)",
+        "method": "Confirmed in extracted original PDF text; whitespace normalized only in the metadata date. Visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public download availability does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [],
+      "related_files": [
+        "originals/MD/cc-dr-020-85a0d1422df3.pdf",
+        "originals/MD/cc-dr-033-cfca51270e13.pdf",
+        "originals/MD/cc-dr-094-b79c30b30bac.pdf",
+        "originals/MD/cc-dr-116-2474109a338c.pdf"
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/1393658dff84a449addf3059e84009d2ca462c016a14f07e8afe82eae4d27321.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": false,
+      "mdj_008_notice_reference_present": false,
+      "review_note": "Parser, form-code, title, and revision-text checks do not establish visual layout, fields, calculations, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "state",
+      "publisher": "Maine Department of Labor",
+      "source_url": "https://www.maine.gov/labor/posters/",
+      "artifact_url": "https://www.maine.gov/labor/docs/2026/posters/26MRSA600_BPoster.pdf",
+      "source_link_title": "Right Not to Participate in Employers’ Religious or Political Meetings",
+      "title": "Right Not to Participate in Religious or Political Employer Meetings",
+      "slug": "religious-political-meetings-notice",
+      "category": "Employment",
+      "family_id": "employer-meetings-rights-notice",
+      "identity_patterns": [
+        "religious",
+        "political"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "Notice concerns specified employer meetings and protected employee choices.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": null,
+      "sha256": "fdd6c069e406747145c7484d9d39abeac28e32f75d6adcac15c7b314d3cf7701",
+      "bytes": 134990,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 2045,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/ME/religious-political-meetings-notice-fdd6c069e406.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/ME/religious-political-meetings-notice-fdd6c069e406.pdf",
+      "text_path": "extracted-text/fdd6c069e406747145c7484d9d39abeac28e32f75d6adcac15c7b314d3cf7701.txt",
+      "acquired_at": "2026-10-15T01:34:20.715643+00:00",
+      "receipt": {
+        "url": "https://www.maine.gov/labor/docs/2026/posters/26MRSA600_BPoster.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:34:20.715643+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"20f4e-646538ba02d8e\"",
+        "last_modified": "Fri, 19 Dec 2025 20:01:39 GMT",
+        "status": "fetched",
+        "sha256": "fdd6c069e406747145c7484d9d39abeac28e32f75d6adcac15c7b314d3cf7701",
+        "bytes": 134990,
+        "body_path": "evidence/http/2026-10-15T01-32-40.761224+00-00/fdd6c069e406747145c7484d9d39abeac28e32f75d6adcac15c7b314d3cf7701.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "undetermined",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [],
+      "related_files": [],
+      "rights_evidence": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-29-58.709997+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/1c0b8edd378ee5f0c976f57b0761a433d78feef71b5351785e9444b893656ea1.body",
+          "resolved_source_url": "https://www.maine.gov/labor/posters/"
+        }
+      ],
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

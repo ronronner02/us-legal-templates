@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.ndcourts.gov/Media/Default/legal-resources/legal-self-help/personal-property-affidavit/Form-1-Affidavit-Collection.pdf",
+      "source_url": "https://www.ndcourts.gov/legal-self-help/personal-property-affidavit",
+      "category": "Estate and personal planning",
+      "document_type": "Affidavit for Collection of Personal Property of the Decedent",
+      "title": "Affidavit for Collection of Personal Property of the Decedent",
+      "family_id": "small-estate-affidavit",
+      "form_id": "NDPC Form 1",
+      "scope": "state",
+      "state": "North Dakota",
+      "jurisdiction": "North Dakota",
+      "publisher": "North Dakota Court System",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-03/01-affidavit-for-collection-of-personal-property-of-the-decedent-663d7b2144f4.pdf",
+      "sha256": "663d7b2144f41c0ffba5299ed656531a27d45abf5cea5f0136fdb65583c255ab",
+      "acquired_at": "2026-10-14T09:05:37.869Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-03/01-affidavit-for-collection-of-personal-property-of-the-decedent-663d7b2144f4.pdf"
+    }
+  }
+]

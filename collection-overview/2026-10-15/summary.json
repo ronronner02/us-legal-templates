@@ -1,0 +1,256 @@
+{
+  "as_of": "2026-10-15T07:05:27.687084+00:00",
+  "baseline_commit": "677dec1227eab0fd8ec0375f3dd135a26b6c9d87",
+  "repository_unique_originals": 658,
+  "physical_original_paths": 658,
+  "formats": {
+    "pdf": 583,
+    "docx": 75
+  },
+  "original_bytes": 225520979,
+  "states_physically_represented": 50,
+  "broad_categories": {
+    "business": 94,
+    "court_general": 251,
+    "insurance": 43,
+    "real_estate": 176,
+    "employment": 89,
+    "unclassified": 5
+  },
+  "sections": {
+    "State documents": 363,
+    "Review required": 248,
+    "Federal documents": 15,
+    "Research references": 3,
+    "Historical review": 5,
+    "Permission hold": 3,
+    "Multistate templates": 10,
+    "File quality review": 11
+  },
+  "recorded_validation": {
+    "parser_passed": 570,
+    "hash-and-parser-passed": 83,
+    "xfa_viewer_required": 1,
+    "missing_eof_review": 3,
+    "no_searchable_text": 1
+  },
+  "copyright_status": {
+    "permission_unclear": 360,
+    "review_pending": 248,
+    "manual_review_required": 40,
+    "license_allows_use": 10
+  },
+  "source_hosts": 113,
+  "source_page_urls": 193,
+  "distinct_link_only_records": 1,
+  "link_only_record_occurrences": 2,
+  "permission_hold_entries": 9,
+  "blocked_host_entries": 43,
+  "publication_approvals": 0,
+  "state_category_cells": 250,
+  "eligible_occupied_state_category_cells": 113,
+  "batches": [
+    {
+      "batch": "Original organized snapshot",
+      "downloaded_inventory_records": 410,
+      "new_unique_originals": 410,
+      "combined_unique_originals": 410,
+      "states": {
+        "Alaska": 1,
+        "Alabama": 3,
+        "Arkansas": 3,
+        "Arizona": 3,
+        "California": 16,
+        "Colorado": 82,
+        "Connecticut": 3,
+        "Delaware": 14,
+        "Florida": 1,
+        "Georgia": 2,
+        "Hawaii": 4,
+        "Iowa": 5,
+        "Idaho": 6,
+        "Illinois": 9,
+        "Indiana": 1,
+        "Kansas": 2,
+        "Kentucky": 5,
+        "Louisiana": 13,
+        "Massachusetts": 11,
+        "Maryland": 4,
+        "Maine": 14,
+        "Minnesota": 2,
+        "Missouri": 1,
+        "Mississippi": 1,
+        "Montana": 14,
+        "North Dakota": 2,
+        "Nebraska": 1,
+        "New Hampshire": 1,
+        "New Jersey": 17,
+        "New Mexico": 3,
+        "Nevada": 16,
+        "New York": 10,
+        "Ohio": 1,
+        "Oklahoma": 3,
+        "Oregon": 15,
+        "Pennsylvania": 10,
+        "Rhode Island": 3,
+        "South Carolina": 9,
+        "South Dakota": 11,
+        "Tennessee": 11,
+        "Texas": 9,
+        "Utah": 1,
+        "Virginia": 8,
+        "Vermont": 2,
+        "Washington": 15,
+        "Wisconsin": 4,
+        "West Virginia": 3,
+        "Wyoming": 1,
+        "federal": 16,
+        "shared-commercial": 10,
+        "Michigan": 2,
+        "North Carolina": 1,
+        "unknown": 5
+      },
+      "inventory": "organized-library/00_Index/all-records.json"
+    },
+    {
+      "batch": "2026-10-14 supplementary collection",
+      "downloaded_inventory_records": 240,
+      "new_unique_originals": 83,
+      "combined_unique_originals": 493,
+      "states": {
+        "Alabama": 3,
+        "Alaska": 1,
+        "Arizona": 3,
+        "Arkansas": 3,
+        "California": 11,
+        "Colorado": 82,
+        "Connecticut": 3,
+        "Delaware": 2,
+        "federal": 16,
+        "Florida": 2,
+        "Georgia": 3,
+        "Hawaii": 4,
+        "Idaho": 2,
+        "Illinois": 3,
+        "Indiana": 2,
+        "Iowa": 7,
+        "Kansas": 6,
+        "Kentucky": 2,
+        "Louisiana": 1,
+        "Maine": 1,
+        "Maryland": 2,
+        "Massachusetts": 2,
+        "Michigan": 1,
+        "Minnesota": 1,
+        "Mississippi": 1,
+        "Missouri": 6,
+        "Montana": 2,
+        "Nebraska": 1,
+        "Nevada": 2,
+        "New Hampshire": 1,
+        "New Jersey": 2,
+        "New Mexico": 3,
+        "New York": 1,
+        "North Carolina": 2,
+        "North Dakota": 1,
+        "Ohio": 3,
+        "Oklahoma": 2,
+        "Oregon": 4,
+        "Pennsylvania": 2,
+        "Rhode Island": 2,
+        "shared-commercial": 10,
+        "South Carolina": 1,
+        "South Dakota": 2,
+        "Tennessee": 1,
+        "Texas": 10,
+        "Utah": 1,
+        "Vermont": 2,
+        "Virginia": 2,
+        "Washington": 2,
+        "West Virginia": 4,
+        "Wisconsin": 4,
+        "Wyoming": 3
+      },
+      "inventory": "research-collection/organized/2026-10-14-03/inventory.json"
+    },
+    {
+      "batch": "2026-10-15-01",
+      "downloaded_inventory_records": 20,
+      "new_unique_originals": 20,
+      "combined_unique_originals": 513,
+      "states": {
+        "Maine": 18,
+        "Oregon": 2
+      },
+      "inventory": "research-collection/rounds/2026-10-15-01/inventory.json"
+    },
+    {
+      "batch": "2026-10-15-02",
+      "downloaded_inventory_records": 25,
+      "new_unique_originals": 25,
+      "combined_unique_originals": 538,
+      "states": {
+        "Massachusetts": 16,
+        "West Virginia": 9
+      },
+      "inventory": "research-collection/rounds/2026-10-15-02/inventory.json"
+    },
+    {
+      "batch": "2026-10-15-03",
+      "downloaded_inventory_records": 20,
+      "new_unique_originals": 20,
+      "combined_unique_originals": 558,
+      "states": {
+        "Maryland": 20
+      },
+      "inventory": "research-collection/rounds/2026-10-15-03/inventory.json"
+    },
+    {
+      "batch": "2026-10-15-04",
+      "downloaded_inventory_records": 25,
+      "new_unique_originals": 25,
+      "combined_unique_originals": 583,
+      "states": {
+        "Maine": 25
+      },
+      "inventory": "research-collection/rounds/2026-10-15-04/inventory.json"
+    },
+    {
+      "batch": "2026-10-15-05",
+      "downloaded_inventory_records": 25,
+      "new_unique_originals": 25,
+      "combined_unique_originals": 608,
+      "states": {
+        "Wisconsin": 25
+      },
+      "inventory": "research-collection/rounds/2026-10-15-05/inventory.json"
+    },
+    {
+      "batch": "2026-10-15-06",
+      "downloaded_inventory_records": 25,
+      "new_unique_originals": 25,
+      "combined_unique_originals": 633,
+      "states": {
+        "Maryland": 25
+      },
+      "inventory": "research-collection/rounds/2026-10-15-06/inventory.json"
+    },
+    {
+      "batch": "2026-10-15-07",
+      "downloaded_inventory_records": 25,
+      "new_unique_originals": 25,
+      "combined_unique_originals": 658,
+      "states": {
+        "Maryland": 25
+      },
+      "inventory": "research-collection/rounds/2026-10-15-07/inventory.json"
+    }
+  ],
+  "scope_notes": [
+    "Counts are original-file SHA-256 counts, not distinct legal instruments or complete filing packets.",
+    "Primary metadata and stricter review sections from the organized snapshot take precedence over overlapping supplementary records.",
+    "Broad-category mapping supports navigation; original categories and source records remain available.",
+    "Review and validation states are inherited records; this aggregation does not repeat visual or legal review.",
+    "State/category presence is not a completion assessment. Source websites were not rechecked during aggregation."
+  ]
+}

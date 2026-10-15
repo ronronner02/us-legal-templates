@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.oregon.gov/oha/PH/ABOUT/Documents/Appointing-Healthcare-Representative.pdf",
+      "source_url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+      "category": "Estate and personal planning",
+      "document_type": "Form for Appointing Health Care Representative and Alternate",
+      "title": "Form for Appointing Health Care Representative and Alternate",
+      "family_id": "health-care-power-of-attorney",
+      "form_id": null,
+      "scope": "state",
+      "state": "Oregon",
+      "jurisdiction": "Oregon",
+      "publisher": "Oregon Health Authority",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-09/10-form-for-appointing-health-care-representative-and-alternate-b5d2a1ad6596.pdf",
+      "sha256": "b5d2a1ad6596ebb882095dfb36242a747acc4d2f66d0fbf8df5a8f27230e8a3e",
+      "acquired_at": "2026-10-14T09:59:03.420Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-09/10-form-for-appointing-health-care-representative-and-alternate-b5d2a1ad6596.pdf"
+    }
+  }
+]

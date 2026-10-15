@@ -1,0 +1,301 @@
+﻿state,state_code,category,physical_originals,research_eligible_by_section,completion_assessment,publication_approved
+Alabama,AL,real_estate,0,0,not_assessed,0
+Alabama,AL,business,1,1,not_assessed,0
+Alabama,AL,insurance,0,0,not_assessed,0
+Alabama,AL,court_general,5,5,not_assessed,0
+Alabama,AL,employment,0,0,not_assessed,0
+Alabama,AL,unclassified,0,0,not_assessed,0
+Alaska,AK,real_estate,0,0,not_assessed,0
+Alaska,AK,business,0,0,not_assessed,0
+Alaska,AK,insurance,0,0,not_assessed,0
+Alaska,AK,court_general,2,2,not_assessed,0
+Alaska,AK,employment,0,0,not_assessed,0
+Alaska,AK,unclassified,0,0,not_assessed,0
+Arizona,AZ,real_estate,0,0,not_assessed,0
+Arizona,AZ,business,0,0,not_assessed,0
+Arizona,AZ,insurance,0,0,not_assessed,0
+Arizona,AZ,court_general,3,3,not_assessed,0
+Arizona,AZ,employment,0,0,not_assessed,0
+Arizona,AZ,unclassified,0,0,not_assessed,0
+Arkansas,AR,real_estate,1,1,not_assessed,0
+Arkansas,AR,business,0,0,not_assessed,0
+Arkansas,AR,insurance,2,2,not_assessed,0
+Arkansas,AR,court_general,3,3,not_assessed,0
+Arkansas,AR,employment,0,0,not_assessed,0
+Arkansas,AR,unclassified,0,0,not_assessed,0
+California,CA,real_estate,0,0,not_assessed,0
+California,CA,business,5,5,not_assessed,0
+California,CA,insurance,2,2,not_assessed,0
+California,CA,court_general,7,7,not_assessed,0
+California,CA,employment,2,2,not_assessed,0
+California,CA,unclassified,0,0,not_assessed,0
+Colorado,CO,real_estate,82,82,not_assessed,0
+Colorado,CO,business,0,0,not_assessed,0
+Colorado,CO,insurance,0,0,not_assessed,0
+Colorado,CO,court_general,0,0,not_assessed,0
+Colorado,CO,employment,0,0,not_assessed,0
+Colorado,CO,unclassified,0,0,not_assessed,0
+Connecticut,CT,real_estate,0,0,not_assessed,0
+Connecticut,CT,business,0,0,not_assessed,0
+Connecticut,CT,insurance,0,0,not_assessed,0
+Connecticut,CT,court_general,3,3,not_assessed,0
+Connecticut,CT,employment,0,0,not_assessed,0
+Connecticut,CT,unclassified,0,0,not_assessed,0
+Delaware,DE,real_estate,4,4,not_assessed,0
+Delaware,DE,business,2,2,not_assessed,0
+Delaware,DE,insurance,8,8,not_assessed,0
+Delaware,DE,court_general,2,2,not_assessed,0
+Delaware,DE,employment,0,0,not_assessed,0
+Delaware,DE,unclassified,0,0,not_assessed,0
+Florida,FL,real_estate,0,0,not_assessed,0
+Florida,FL,business,0,0,not_assessed,0
+Florida,FL,insurance,1,1,not_assessed,0
+Florida,FL,court_general,2,2,not_assessed,0
+Florida,FL,employment,0,0,not_assessed,0
+Florida,FL,unclassified,0,0,not_assessed,0
+Georgia,GA,real_estate,0,0,not_assessed,0
+Georgia,GA,business,0,0,not_assessed,0
+Georgia,GA,insurance,0,0,not_assessed,0
+Georgia,GA,court_general,3,3,not_assessed,0
+Georgia,GA,employment,2,2,not_assessed,0
+Georgia,GA,unclassified,0,0,not_assessed,0
+Hawaii,HI,real_estate,0,0,not_assessed,0
+Hawaii,HI,business,0,0,not_assessed,0
+Hawaii,HI,insurance,0,0,not_assessed,0
+Hawaii,HI,court_general,4,4,not_assessed,0
+Hawaii,HI,employment,0,0,not_assessed,0
+Hawaii,HI,unclassified,0,0,not_assessed,0
+Idaho,ID,real_estate,0,0,not_assessed,0
+Idaho,ID,business,5,5,not_assessed,0
+Idaho,ID,insurance,0,0,not_assessed,0
+Idaho,ID,court_general,3,3,not_assessed,0
+Idaho,ID,employment,0,0,not_assessed,0
+Idaho,ID,unclassified,0,0,not_assessed,0
+Illinois,IL,real_estate,0,0,not_assessed,0
+Illinois,IL,business,1,1,not_assessed,0
+Illinois,IL,insurance,0,0,not_assessed,0
+Illinois,IL,court_general,3,3,not_assessed,0
+Illinois,IL,employment,5,5,not_assessed,0
+Illinois,IL,unclassified,0,0,not_assessed,0
+Indiana,IN,real_estate,0,0,not_assessed,0
+Indiana,IN,business,0,0,not_assessed,0
+Indiana,IN,insurance,1,1,not_assessed,0
+Indiana,IN,court_general,2,2,not_assessed,0
+Indiana,IN,employment,0,0,not_assessed,0
+Indiana,IN,unclassified,0,0,not_assessed,0
+Iowa,IA,real_estate,0,0,not_assessed,0
+Iowa,IA,business,0,0,not_assessed,0
+Iowa,IA,insurance,0,0,not_assessed,0
+Iowa,IA,court_general,8,8,not_assessed,0
+Iowa,IA,employment,4,4,not_assessed,0
+Iowa,IA,unclassified,0,0,not_assessed,0
+Kansas,KS,real_estate,0,0,not_assessed,0
+Kansas,KS,business,0,0,not_assessed,0
+Kansas,KS,insurance,0,0,not_assessed,0
+Kansas,KS,court_general,7,7,not_assessed,0
+Kansas,KS,employment,0,0,not_assessed,0
+Kansas,KS,unclassified,0,0,not_assessed,0
+Kentucky,KY,real_estate,0,0,not_assessed,0
+Kentucky,KY,business,0,0,not_assessed,0
+Kentucky,KY,insurance,0,0,not_assessed,0
+Kentucky,KY,court_general,4,4,not_assessed,0
+Kentucky,KY,employment,3,3,not_assessed,0
+Kentucky,KY,unclassified,0,0,not_assessed,0
+Louisiana,LA,real_estate,13,13,not_assessed,0
+Louisiana,LA,business,0,0,not_assessed,0
+Louisiana,LA,insurance,0,0,not_assessed,0
+Louisiana,LA,court_general,1,1,not_assessed,0
+Louisiana,LA,employment,0,0,not_assessed,0
+Louisiana,LA,unclassified,0,0,not_assessed,0
+Maine,ME,real_estate,7,7,not_assessed,0
+Maine,ME,business,13,13,not_assessed,0
+Maine,ME,insurance,2,1,not_assessed,0
+Maine,ME,court_general,22,22,not_assessed,0
+Maine,ME,employment,14,14,not_assessed,0
+Maine,ME,unclassified,0,0,not_assessed,0
+Maryland,MD,real_estate,13,13,not_assessed,0
+Maryland,MD,business,0,0,not_assessed,0
+Maryland,MD,insurance,2,2,not_assessed,0
+Maryland,MD,court_general,57,57,not_assessed,0
+Maryland,MD,employment,2,2,not_assessed,0
+Maryland,MD,unclassified,0,0,not_assessed,0
+Massachusetts,MA,real_estate,0,0,not_assessed,0
+Massachusetts,MA,business,9,9,not_assessed,0
+Massachusetts,MA,insurance,0,0,not_assessed,0
+Massachusetts,MA,court_general,18,18,not_assessed,0
+Massachusetts,MA,employment,0,0,not_assessed,0
+Massachusetts,MA,unclassified,0,0,not_assessed,0
+Michigan,MI,real_estate,0,0,not_assessed,0
+Michigan,MI,business,0,0,not_assessed,0
+Michigan,MI,insurance,0,0,not_assessed,0
+Michigan,MI,court_general,1,1,not_assessed,0
+Michigan,MI,employment,2,0,not_assessed,0
+Michigan,MI,unclassified,0,0,not_assessed,0
+Minnesota,MN,real_estate,0,0,not_assessed,0
+Minnesota,MN,business,0,0,not_assessed,0
+Minnesota,MN,insurance,0,0,not_assessed,0
+Minnesota,MN,court_general,1,1,not_assessed,0
+Minnesota,MN,employment,2,2,not_assessed,0
+Minnesota,MN,unclassified,0,0,not_assessed,0
+Mississippi,MS,real_estate,0,0,not_assessed,0
+Mississippi,MS,business,0,0,not_assessed,0
+Mississippi,MS,insurance,1,1,not_assessed,0
+Mississippi,MS,court_general,1,1,not_assessed,0
+Mississippi,MS,employment,0,0,not_assessed,0
+Mississippi,MS,unclassified,0,0,not_assessed,0
+Missouri,MO,real_estate,1,1,not_assessed,0
+Missouri,MO,business,0,0,not_assessed,0
+Missouri,MO,insurance,0,0,not_assessed,0
+Missouri,MO,court_general,6,6,not_assessed,0
+Missouri,MO,employment,0,0,not_assessed,0
+Missouri,MO,unclassified,0,0,not_assessed,0
+Montana,MT,real_estate,0,0,not_assessed,0
+Montana,MT,business,12,12,not_assessed,0
+Montana,MT,insurance,0,0,not_assessed,0
+Montana,MT,court_general,3,3,not_assessed,0
+Montana,MT,employment,0,0,not_assessed,0
+Montana,MT,unclassified,0,0,not_assessed,0
+Nebraska,NE,real_estate,0,0,not_assessed,0
+Nebraska,NE,business,0,0,not_assessed,0
+Nebraska,NE,insurance,1,1,not_assessed,0
+Nebraska,NE,court_general,1,1,not_assessed,0
+Nebraska,NE,employment,0,0,not_assessed,0
+Nebraska,NE,unclassified,0,0,not_assessed,0
+Nevada,NV,real_estate,3,3,not_assessed,0
+Nevada,NV,business,12,4,not_assessed,0
+Nevada,NV,insurance,1,1,not_assessed,0
+Nevada,NV,court_general,2,2,not_assessed,0
+Nevada,NV,employment,0,0,not_assessed,0
+Nevada,NV,unclassified,0,0,not_assessed,0
+New Hampshire,NH,real_estate,0,0,not_assessed,0
+New Hampshire,NH,business,0,0,not_assessed,0
+New Hampshire,NH,insurance,1,1,not_assessed,0
+New Hampshire,NH,court_general,1,1,not_assessed,0
+New Hampshire,NH,employment,0,0,not_assessed,0
+New Hampshire,NH,unclassified,0,0,not_assessed,0
+New Jersey,NJ,real_estate,2,2,not_assessed,0
+New Jersey,NJ,business,0,0,not_assessed,0
+New Jersey,NJ,insurance,7,7,not_assessed,0
+New Jersey,NJ,court_general,2,2,not_assessed,0
+New Jersey,NJ,employment,6,4,not_assessed,0
+New Jersey,NJ,unclassified,0,0,not_assessed,0
+New Mexico,NM,real_estate,0,0,not_assessed,0
+New Mexico,NM,business,0,0,not_assessed,0
+New Mexico,NM,insurance,0,0,not_assessed,0
+New Mexico,NM,court_general,3,3,not_assessed,0
+New Mexico,NM,employment,3,3,not_assessed,0
+New Mexico,NM,unclassified,0,0,not_assessed,0
+New York,NY,real_estate,0,0,not_assessed,0
+New York,NY,business,0,0,not_assessed,0
+New York,NY,insurance,1,1,not_assessed,0
+New York,NY,court_general,0,0,not_assessed,0
+New York,NY,employment,9,9,not_assessed,0
+New York,NY,unclassified,0,0,not_assessed,0
+North Carolina,NC,real_estate,0,0,not_assessed,0
+North Carolina,NC,business,0,0,not_assessed,0
+North Carolina,NC,insurance,1,0,not_assessed,0
+North Carolina,NC,court_general,2,2,not_assessed,0
+North Carolina,NC,employment,0,0,not_assessed,0
+North Carolina,NC,unclassified,0,0,not_assessed,0
+North Dakota,ND,real_estate,0,0,not_assessed,0
+North Dakota,ND,business,0,0,not_assessed,0
+North Dakota,ND,insurance,0,0,not_assessed,0
+North Dakota,ND,court_general,1,1,not_assessed,0
+North Dakota,ND,employment,2,2,not_assessed,0
+North Dakota,ND,unclassified,0,0,not_assessed,0
+Ohio,OH,real_estate,0,0,not_assessed,0
+Ohio,OH,business,0,0,not_assessed,0
+Ohio,OH,insurance,0,0,not_assessed,0
+Ohio,OH,court_general,4,4,not_assessed,0
+Ohio,OH,employment,0,0,not_assessed,0
+Ohio,OH,unclassified,0,0,not_assessed,0
+Oklahoma,OK,real_estate,3,3,not_assessed,0
+Oklahoma,OK,business,0,0,not_assessed,0
+Oklahoma,OK,insurance,0,0,not_assessed,0
+Oklahoma,OK,court_general,2,2,not_assessed,0
+Oklahoma,OK,employment,0,0,not_assessed,0
+Oklahoma,OK,unclassified,0,0,not_assessed,0
+Oregon,OR,real_estate,2,2,not_assessed,0
+Oregon,OR,business,8,8,not_assessed,0
+Oregon,OR,insurance,0,0,not_assessed,0
+Oregon,OR,court_general,4,4,not_assessed,0
+Oregon,OR,employment,5,5,not_assessed,0
+Oregon,OR,unclassified,0,0,not_assessed,0
+Pennsylvania,PA,real_estate,0,0,not_assessed,0
+Pennsylvania,PA,business,6,6,not_assessed,0
+Pennsylvania,PA,insurance,0,0,not_assessed,0
+Pennsylvania,PA,court_general,4,4,not_assessed,0
+Pennsylvania,PA,employment,2,2,not_assessed,0
+Pennsylvania,PA,unclassified,0,0,not_assessed,0
+Rhode Island,RI,real_estate,0,0,not_assessed,0
+Rhode Island,RI,business,0,0,not_assessed,0
+Rhode Island,RI,insurance,1,0,not_assessed,0
+Rhode Island,RI,court_general,4,4,not_assessed,0
+Rhode Island,RI,employment,0,0,not_assessed,0
+Rhode Island,RI,unclassified,0,0,not_assessed,0
+South Carolina,SC,real_estate,0,0,not_assessed,0
+South Carolina,SC,business,7,7,not_assessed,0
+South Carolina,SC,insurance,0,0,not_assessed,0
+South Carolina,SC,court_general,1,1,not_assessed,0
+South Carolina,SC,employment,2,2,not_assessed,0
+South Carolina,SC,unclassified,0,0,not_assessed,0
+South Dakota,SD,real_estate,9,9,not_assessed,0
+South Dakota,SD,business,0,0,not_assessed,0
+South Dakota,SD,insurance,0,0,not_assessed,0
+South Dakota,SD,court_general,3,3,not_assessed,0
+South Dakota,SD,employment,0,0,not_assessed,0
+South Dakota,SD,unclassified,0,0,not_assessed,0
+Tennessee,TN,real_estate,0,0,not_assessed,0
+Tennessee,TN,business,0,0,not_assessed,0
+Tennessee,TN,insurance,0,0,not_assessed,0
+Tennessee,TN,court_general,1,1,not_assessed,0
+Tennessee,TN,employment,11,11,not_assessed,0
+Tennessee,TN,unclassified,0,0,not_assessed,0
+Texas,TX,real_estate,7,7,not_assessed,0
+Texas,TX,business,0,0,not_assessed,0
+Texas,TX,insurance,0,0,not_assessed,0
+Texas,TX,court_general,3,3,not_assessed,0
+Texas,TX,employment,0,0,not_assessed,0
+Texas,TX,unclassified,0,0,not_assessed,0
+Utah,UT,real_estate,0,0,not_assessed,0
+Utah,UT,business,0,0,not_assessed,0
+Utah,UT,insurance,0,0,not_assessed,0
+Utah,UT,court_general,2,2,not_assessed,0
+Utah,UT,employment,0,0,not_assessed,0
+Utah,UT,unclassified,0,0,not_assessed,0
+Vermont,VT,real_estate,0,0,not_assessed,0
+Vermont,VT,business,0,0,not_assessed,0
+Vermont,VT,insurance,2,2,not_assessed,0
+Vermont,VT,court_general,2,2,not_assessed,0
+Vermont,VT,employment,0,0,not_assessed,0
+Vermont,VT,unclassified,0,0,not_assessed,0
+Virginia,VA,real_estate,2,1,not_assessed,0
+Virginia,VA,business,0,0,not_assessed,0
+Virginia,VA,insurance,0,0,not_assessed,0
+Virginia,VA,court_general,3,3,not_assessed,0
+Virginia,VA,employment,5,5,not_assessed,0
+Virginia,VA,unclassified,0,0,not_assessed,0
+Washington,WA,real_estate,3,3,not_assessed,0
+Washington,WA,business,3,3,not_assessed,0
+Washington,WA,insurance,1,1,not_assessed,0
+Washington,WA,court_general,4,4,not_assessed,0
+Washington,WA,employment,6,6,not_assessed,0
+Washington,WA,unclassified,0,0,not_assessed,0
+West Virginia,WV,real_estate,9,9,not_assessed,0
+West Virginia,WV,business,0,0,not_assessed,0
+West Virginia,WV,insurance,2,2,not_assessed,0
+West Virginia,WV,court_general,5,5,not_assessed,0
+West Virginia,WV,employment,0,0,not_assessed,0
+West Virginia,WV,unclassified,0,0,not_assessed,0
+Wisconsin,WI,real_estate,11,11,not_assessed,0
+Wisconsin,WI,business,0,0,not_assessed,0
+Wisconsin,WI,insurance,0,0,not_assessed,0
+Wisconsin,WI,court_general,18,18,not_assessed,0
+Wisconsin,WI,employment,0,0,not_assessed,0
+Wisconsin,WI,unclassified,0,0,not_assessed,0
+Wyoming,WY,real_estate,1,1,not_assessed,0
+Wyoming,WY,business,0,0,not_assessed,0
+Wyoming,WY,insurance,0,0,not_assessed,0
+Wyoming,WY,court_general,3,3,not_assessed,0
+Wyoming,WY,employment,0,0,not_assessed,0
+Wyoming,WY,unclassified,0,0,not_assessed,0

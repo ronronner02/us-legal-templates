@@ -1,0 +1,76 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "Massachusetts",
+      "state_code": "MA",
+      "scope": "state",
+      "publisher": "Massachusetts Court System",
+      "source_url": "https://www.mass.gov/lists/court-forms-for-eviction",
+      "artifact_url": "https://www.mass.gov/doc/express-waiver/download",
+      "source_link_title": "Express Waiver , Open PDF file, 322.67 KB",
+      "title": "Express Waiver",
+      "slug": "express-waiver",
+      "category": "Court and general",
+      "family_id": "express-waiver",
+      "identity_patterns": [
+        "waiver"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Review context and procedural consequences before use.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": null,
+      "sha256": "b9c080c266ff3fdcf721b6c1f817903ad4facfa957628ffa7dd36e31ef9ef763",
+      "bytes": 330415,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1116,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MA/express-waiver-b9c080c266ff.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/MA/express-waiver-b9c080c266ff.pdf",
+      "text_path": "extracted-text/b9c080c266ff3fdcf721b6c1f817903ad4facfa957628ffa7dd36e31ef9ef763.txt",
+      "acquired_at": "2026-10-15T02:01:24.130375+00:00",
+      "receipt": {
+        "url": "https://www.mass.gov/doc/express-waiver/download",
+        "kind": "document",
+        "checked_at": "2026-10-15T02:01:24.130375+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"WM2WB35hiCEC1nZPnU9GzQ==\"",
+        "last_modified": "Sun, 27 Aug 2017 07:35:31 GMT",
+        "status": "fetched",
+        "sha256": "b9c080c266ff3fdcf721b6c1f817903ad4facfa957628ffa7dd36e31ef9ef763",
+        "bytes": 330415,
+        "body_path": "evidence/http/2026-10-15T02-01-24.112664+00-00/b9c080c266ff3fdcf721b6c1f817903ad4facfa957628ffa7dd36e31ef9ef763.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-51-07.154781+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/a153acc8f6a1cd99e95ed6b8c56cebf0120c09b481075d174b627c5aff8ccb18.body",
+          "resolved_source_url": "https://www.mass.gov/lists/court-forms-for-eviction"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [],
+      "quality_notes": [],
+      "edition_classification": "unverified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "reuse_note": "Mass.gov terms reserve copyright and describe a fair-use exception. Collection for research does not establish permission for republication, modification, or commercial use. Reuse review remains pending.",
+      "rights_source_url": "https://www.mass.gov/massgov-terms-of-use",
+      "revision_text_candidates": [],
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-03/inventory.json",
+    "batch": "2026-10-15-03",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "District Court; housing and landlord-tenant proceedings",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/district/forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/dccv080.pdf",
+      "source_link_title": "DC-CV-080",
+      "title": "Complaint and Summons Against Tenant Holding Over",
+      "slug": "dc-cv-080-complaint-and-summons-against-tenant-holding-over",
+      "category": "Housing and landlord-tenant",
+      "family_id": "md-dc-cv-080",
+      "identity_patterns": [
+        "DC[- ]?CV[- ]?080",
+        "TENANT\\s+HOLDING\\s+OVER"
+      ],
+      "source_listed_revision": "10/2025",
+      "source_row_text": "DC-CV-080 | Complaint and Summons Against Tenant Holding Over | 10/2025 |  | ",
+      "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+      "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata.",
+      "sha256": "aa32c3084208f3710ee2121c1572f53435311e5212f4320b3a7a397b5d52b057",
+      "bytes": 927395,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 5307,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/dc-cv-080-complaint-and-summons-against-tenant-holding-over-aa32c3084208.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-03/originals/MD/dc-cv-080-complaint-and-summons-against-tenant-holding-over-aa32c3084208.pdf",
+      "text_path": "extracted-text/aa32c3084208f3710ee2121c1572f53435311e5212f4320b3a7a397b5d52b057.txt",
+      "acquired_at": "2026-10-15T02:38:22.569934+00:00",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/dccv080.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T02:38:22.569934+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"e26a3-65d305d27125c\"",
+        "last_modified": "Tue, 06 Oct 2026 18:42:42 GMT",
+        "status": "fetched",
+        "sha256": "aa32c3084208f3710ee2121c1572f53435311e5212f4320b3a7a397b5d52b057",
+        "bytes": 927395,
+        "body_path": "evidence/http/2026-10-15T02-38-22.548123+00-00/aa32c3084208f3710ee2121c1572f53435311e5212f4320b3a7a397b5d52b057.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T02-32-47.323987+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T02-32-47.323987+00-00/ae8f043cc4032bbd1c7b3272166ba1bc43aea013d81c7475749abcbbd9a03cb2.body",
+          "resolved_source_url": "https://www.mdcourts.gov/district/forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "10/2025",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/aa32c3084208f3710ee2121c1572f53435311e5212f4320b3a7a397b5d52b057.txt",
+        "matched_text": "DC-CV-080 (Rev. 10/2025)",
+        "method": "Verified in extracted original text; visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "Captured source footer reserves copyright. Public downloading does not establish permission for republication, modification, or commercial reuse. Rights and publication approval remain pending.",
+      "related_files": [],
+      "quality_notes": [],
+      "review_note": "Parser, form-code, and printed-revision text checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

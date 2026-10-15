@@ -1,0 +1,75 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "state",
+      "publisher": "Maine Office of the Attorney General",
+      "source_url": "https://www.maine.gov/ag/consumer/housing/home_construction.shtml",
+      "artifact_url": "https://www.maine.gov/ag/sites/maine.gov.ag/files/documents/CLG%2017-%20Home%20Construction%20Contracts%20Addendum.docx",
+      "source_link_title": "Home Construction Contracts Required Addendum (Word)",
+      "title": "Home Construction Contracts Required Addendum",
+      "slug": "home-construction-required-addendum",
+      "category": "Business",
+      "family_id": "construction-required-addendum",
+      "identity_patterns": [
+        "addendum"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "Related component also included with model contract; do not count as an independent complete contract. Reuse scope remains pending.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": null,
+      "sha256": "aa91caa9681b54ae3e4ed4d3428d987056ed7f2119ed406662fccc4502b98dbb",
+      "bytes": 20909,
+      "format": "docx",
+      "validation_status": "parser_passed",
+      "pages": null,
+      "text_length": 5603,
+      "ocr_status": "not_applicable",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/ME/home-construction-required-addendum-aa91caa9681b.docx",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/ME/home-construction-required-addendum-aa91caa9681b.docx",
+      "text_path": "extracted-text/aa91caa9681b54ae3e4ed4d3428d987056ed7f2119ed406662fccc4502b98dbb.txt",
+      "acquired_at": "2026-10-15T01:35:19.057402+00:00",
+      "receipt": {
+        "url": "https://www.maine.gov/ag/sites/maine.gov.ag/files/documents/CLG%2017-%20Home%20Construction%20Contracts%20Addendum.docx",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:35:19.057402+00:00",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "etag": "\"51ad-64facf3695640\"",
+        "last_modified": "Fri, 17 Apr 2026 19:28:17 GMT",
+        "status": "fetched",
+        "sha256": "aa91caa9681b54ae3e4ed4d3428d987056ed7f2119ed406662fccc4502b98dbb",
+        "bytes": 20909,
+        "body_path": "evidence/http/2026-10-15T01-35-15.177705+00-00/aa91caa9681b54ae3e4ed4d3428d987056ed7f2119ed406662fccc4502b98dbb.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "undetermined",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [],
+      "related_files": [
+        "originals/ME/home-construction-contract-90381aa39d15.docx"
+      ],
+      "rights_evidence": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-29-23.129602+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-29-23.129602+00-00/c3bd4d0dc9eeecb083cde9e09accfea8839ddc16a7c8f1612185dca057e59c11.body",
+          "resolved_source_url": "https://www.maine.gov/ag/consumer-protection/consumer-help-topics/housing/home-construction-and-repair"
+        }
+      ],
+      "relationship_note": "The model contract includes the required addendum; the separately supplied addendum is a related component.",
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

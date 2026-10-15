@@ -1,0 +1,89 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "Massachusetts",
+      "state_code": "MA",
+      "scope": "state",
+      "publisher": "Massachusetts Court System",
+      "source_url": "https://www.mass.gov/lists/housing-court-forms",
+      "artifact_url": "https://www.mass.gov/doc/housing-court-agreement/download",
+      "source_link_title": "Housing Court Agreement , Open PDF file, 3.67 MB",
+      "title": "Housing Court Agreement",
+      "slug": "housing-court-agreement",
+      "category": "Court and general",
+      "family_id": "housing-court-agreement",
+      "identity_patterns": [
+        "agreement"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Source says court-approved agreement becomes a court order; blank form does not establish approval.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "HC0021 Revised 10/2025",
+      "sha256": "7767cab38a8b77a21bba047dda51a4f6a715fb0104f1c450ca115eb690acdb22",
+      "bytes": 3847765,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 1665,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MA/housing-court-agreement-7767cab38a8b.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/MA/housing-court-agreement-7767cab38a8b.pdf",
+      "text_path": "extracted-text/7767cab38a8b77a21bba047dda51a4f6a715fb0104f1c450ca115eb690acdb22.txt",
+      "acquired_at": "2026-10-15T01:57:52.468897+00:00",
+      "receipt": {
+        "url": "https://www.mass.gov/doc/housing-court-agreement/download",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:57:52.468897+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"mg6MotuYDFjtEmszhHic+w==\"",
+        "last_modified": "Mon, 15 Dec 2025 13:51:01 GMT",
+        "status": "fetched",
+        "sha256": "7767cab38a8b77a21bba047dda51a4f6a715fb0104f1c450ca115eb690acdb22",
+        "bytes": 3847765,
+        "body_path": "evidence/http/2026-10-15T01-54-36.419563+00-00/7767cab38a8b77a21bba047dda51a4f6a715fb0104f1c450ca115eb690acdb22.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-52-44.093538+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/652fe10bb25e9d3782a7c770fd9618093a517d333ecbf8e12a6d919f9649bed0.body",
+          "resolved_source_url": "https://www.mass.gov/lists/housing-court-forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [
+        "originals/MA/housing-court-agreement-judgment-512e56339643.pdf",
+        "originals/MA/summary-process-agreement-judgment-d800e87f00b8.pdf"
+      ],
+      "quality_notes": [
+        "Related agreement forms are court- and purpose-specific. Similar titles do not establish interchangeability or court approval."
+      ],
+      "edition_classification": "unverified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "reuse_note": "Mass.gov terms reserve copyright and describe a fair-use exception. Collection for research does not establish permission for republication, modification, or commercial use. Reuse review remains pending.",
+      "rights_source_url": "https://www.mass.gov/massgov-terms-of-use",
+      "revision_text_candidates": [
+        "HC0021 Revised 10/2025 Page ___ of ___",
+        "HC0021 Revised 10/2025 Page ___ of ___"
+      ],
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/7767cab38a8b77a21bba047dda51a4f6a715fb0104f1c450ca115eb690acdb22.txt",
+        "matched_text": "HC0021 Revised 10/2025",
+        "method": "Verified in extracted original text; visual confirmation not run."
+      },
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

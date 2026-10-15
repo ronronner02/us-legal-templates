@@ -1,0 +1,74 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "state",
+      "publisher": "Maine Department of Labor",
+      "source_url": "https://www.maine.gov/labor/labor_laws/wagehour.shtml",
+      "artifact_url": "https://www.maine.gov/labor/labor_laws/publications/2018/work_permit_072018.pdf",
+      "source_link_title": "Download Maine Work Permit Form",
+      "title": "Work Permit Application for Minors",
+      "slug": "minor-work-permit-application",
+      "category": "Employment",
+      "family_id": "minor-work-permit",
+      "identity_patterns": [
+        "work permit"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "Age-specific government application; filename year is not a verified effective date.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "07/18",
+      "sha256": "d002919bc1959bb1b35f4977342fb73b695ba77ee254e8ea5bed8bb2241e287e",
+      "bytes": 139769,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 2451,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/ME/minor-work-permit-application-d002919bc195.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/ME/minor-work-permit-application-d002919bc195.pdf",
+      "text_path": "extracted-text/d002919bc1959bb1b35f4977342fb73b695ba77ee254e8ea5bed8bb2241e287e.txt",
+      "acquired_at": "2026-10-15T01:35:24.498718+00:00",
+      "receipt": {
+        "url": "https://www.maine.gov/labor/labor_laws/publications/2018/work_permit_072018.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:35:24.498718+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"221f9-5e4cbbb2ee732\"",
+        "last_modified": "Wed, 27 Jul 2022 16:15:53 GMT",
+        "status": "fetched",
+        "sha256": "d002919bc1959bb1b35f4977342fb73b695ba77ee254e8ea5bed8bb2241e287e",
+        "bytes": 139769,
+        "body_path": "evidence/http/2026-10-15T01-35-15.177705+00-00/d002919bc1959bb1b35f4977342fb73b695ba77ee254e8ea5bed8bb2241e287e.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "undetermined",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [
+        "Approval-specific: the form states it is valid only after Bureau approval and only for the named minor, occupations, and employer."
+      ],
+      "related_files": [],
+      "rights_evidence": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-29-58.709997+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/9d12a43fe310c4d3795e218f0f655560ab45af5e52c77f688d505a5dc0d87ad5.body",
+          "resolved_source_url": "https://www.maine.gov/labor/labor_laws/wagehour.shtml"
+        }
+      ],
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

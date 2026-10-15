@@ -1,0 +1,76 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "West Virginia",
+      "state_code": "WV",
+      "scope": "state",
+      "publisher": "West Virginia Real Estate Commission",
+      "source_url": "https://rec.wv.gov/Forms/Pages/default.aspx",
+      "artifact_url": "https://rec.wv.gov/media/45/download?inline",
+      "source_link_title": "Verification of Sponsoring Broker​",
+      "title": "Verification of Sponsoring Broker",
+      "slug": "verification-sponsoring-broker",
+      "category": "Real estate",
+      "family_id": "verification-sponsoring-broker",
+      "identity_patterns": [
+        "broker"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Licensing-process verification, not a consumer brokerage agreement.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": null,
+      "sha256": "9d455e468523502e156fb5afac7154ccdc74fad57326530cc3aceabad2c1d458",
+      "bytes": 478177,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 795,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/WV/verification-sponsoring-broker-9d455e468523.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/WV/verification-sponsoring-broker-9d455e468523.pdf",
+      "text_path": "extracted-text/9d455e468523502e156fb5afac7154ccdc74fad57326530cc3aceabad2c1d458.txt",
+      "acquired_at": "2026-10-15T01:58:10.134127+00:00",
+      "receipt": {
+        "url": "https://rec.wv.gov/media/45/download?inline",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:58:10.134127+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": null,
+        "last_modified": "Mon, 05 Oct 2026 17:55:16 GMT",
+        "status": "fetched",
+        "sha256": "9d455e468523502e156fb5afac7154ccdc74fad57326530cc3aceabad2c1d458",
+        "bytes": 478177,
+        "body_path": "evidence/http/2026-10-15T01-54-36.419563+00-00/9d455e468523502e156fb5afac7154ccdc74fad57326530cc3aceabad2c1d458.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-52-44.093538+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/e90616f0fcdcd79110caf91cad05900c25fc08b0d440005cf8ff2f685e8260ac.body",
+          "resolved_source_url": "https://rec.wv.gov/forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [],
+      "quality_notes": [],
+      "edition_classification": "unverified",
+      "usage_classification": "real_estate_regulatory_form",
+      "copyright_review": "pending",
+      "reuse_note": "Official public download does not establish general modification, resale, or republication permission. Review the captured state legal notices and document-specific restrictions before reuse.",
+      "rights_source_url": "https://www.wv.gov/policies/legal-notices",
+      "revision_text_candidates": [],
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

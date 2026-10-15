@@ -1,0 +1,84 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-03/inventory.json",
+    "batch": "2026-10-15-03",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "District Court; housing and landlord-tenant proceedings",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/district/forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/dccv116.pdf",
+      "source_link_title": "DC-CV-116",
+      "title": "Request to Shield Court Records Related to Repossession of Residential Property for Failure to Pay Rent",
+      "slug": "dc-cv-116-request-to-shield-court-records-related-to-repossession-of-residential-property-for-failure-to-pay-rent",
+      "category": "Housing and landlord-tenant",
+      "family_id": "md-dc-cv-116",
+      "identity_patterns": [
+        "DC[- ]?CV[- ]?116",
+        "REPOSSESSION\\s+OF\\s+RESIDENTIAL\\s+PROPERTY"
+      ],
+      "source_listed_revision": "07/2026",
+      "source_row_text": "DC-CV-116 | Request to Shield Court Records Related to Repossession of Residential Property for Failure to Pay Rent | 07/2026 |  | Need help filling out court forms? Maryland Guide & File is a web-based tool that helps fill out court forms. To use this Maryland Guide & File interview, CLICK HERE .",
+      "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+      "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata.",
+      "sha256": "3404b5a259ca8de022fd33daf97660fce7df980bb61d9a1913a5f7ac2e65a18a",
+      "bytes": 765554,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 2169,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/dc-cv-116-3404b5a259ca.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-03/originals/MD/dc-cv-116-3404b5a259ca.pdf",
+      "text_path": "extracted-text/3404b5a259ca8de022fd33daf97660fce7df980bb61d9a1913a5f7ac2e65a18a.txt",
+      "acquired_at": "2026-10-15T02:39:05.570083+00:00",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/dccv116.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T02:39:05.570083+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"bae72-65b39d0e2ed24\"",
+        "last_modified": "Fri, 11 Sep 2026 19:08:56 GMT",
+        "status": "fetched",
+        "sha256": "3404b5a259ca8de022fd33daf97660fce7df980bb61d9a1913a5f7ac2e65a18a",
+        "bytes": 765554,
+        "body_path": "evidence/http/2026-10-15T02-38-22.548123+00-00/3404b5a259ca8de022fd33daf97660fce7df980bb61d9a1913a5f7ac2e65a18a.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T02-32-47.323987+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T02-32-47.323987+00-00/ae8f043cc4032bbd1c7b3272166ba1bc43aea013d81c7475749abcbbd9a03cb2.body",
+          "resolved_source_url": "https://www.mdcourts.gov/district/forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "07/2026",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/3404b5a259ca8de022fd33daf97660fce7df980bb61d9a1913a5f7ac2e65a18a.txt",
+        "matched_text": "DC-CV-116 (Rev. 07/2026)",
+        "method": "Verified in extracted original text; visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "Captured source footer reserves copyright. Public downloading does not establish permission for republication, modification, or commercial reuse. Rights and publication approval remain pending.",
+      "related_files": [],
+      "quality_notes": [
+        "Separate record-shielding procedures. Eligibility, applicable case dates, and filing conditions require form-specific review.",
+        "Original limits this request to qualifying COVID-19 income-loss cases filed on or after March 5, 2020 and before January 1, 2022."
+      ],
+      "review_note": "Parser, form-code, and printed-revision text checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

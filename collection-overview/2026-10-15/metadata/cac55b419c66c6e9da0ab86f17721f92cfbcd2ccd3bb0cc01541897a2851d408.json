@@ -1,0 +1,110 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-07/inventory.json",
+    "batch": "2026-10-15-07",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdcdv026.pdf",
+      "source_link_title": "Request to Withhold My Address From Public Access (Protective Order)",
+      "title": "Request to Withhold My Address From Public Access (Protective Order)",
+      "slug": "cc-dc-dv-026",
+      "category": "protective_orders",
+      "family_id": "CC-DC-DV-026",
+      "form_code": "CC-DC-DV-026",
+      "identity_patterns": [
+        "CC\\s*-\\s*DC\\s*-\\s*DV\\s*-\\s*026",
+        "REQUEST\\s+TO\\s+WITHHOLD\\s+MY\\s+ADDRESS\\s+FROM\\s+PUBLIC\\s+ACCESS"
+      ],
+      "source_listed_revision": "07/2026",
+      "source_description": "Use this form if disclosing your address on a Protective Order petition would put you at risk of further harm. Learn more .",
+      "source_row_text": "CC-DC-DV-026 Request to Withhold My Address From Public Access (Protective Order) 07/2026 Use this form if disclosing your address on a Protective Order petition would put you at risk of further harm. Learn more .",
+      "usage_classification": "court_procedural_form",
+      "selection_reason": "Fresh official English protective-order, peace-order, guardianship, or name-change original, with procedural roles retained separately.",
+      "notes": "Use this form if disclosing your address on a Protective Order petition would put you at risk of further harm. Learn more .",
+      "sha256": "cac55b419c66c6e9da0ab86f17721f92cfbcd2ccd3bb0cc01541897a2851d408",
+      "bytes": 211203,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1219,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-dc-dv-026-cac55b419c66.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-026-cac55b419c66.pdf",
+      "text_path": "extracted-text/cac55b419c66c6e9da0ab86f17721f92cfbcd2ccd3bb0cc01541897a2851d408.txt",
+      "acquired_at": "2026-10-15T06:45:39.739Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdcdv026.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdcdv026.pdf",
+        "checked_at": "2026-10-15T06:45:39.739Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "headers": {
+          "date": "Thu, 15 Oct 2026 06:45:40 GMT",
+          "content-type": "application/pdf",
+          "content-length": "211203",
+          "connection": "keep-alive",
+          "server": "cloudflare",
+          "x-content-type-options": "nosniff",
+          "last-modified": "Tue, 30 Jun 2026 17:22:43 GMT",
+          "etag": "\"33903-6557bd2a2ee44\"",
+          "accept-ranges": "bytes",
+          "cache-control": "public, max-age=14400",
+          "expires": "Thu, 15 Oct 2026 10:45:40 GMT",
+          "cf-cache-status": "BYPASS",
+          "cf-ray": "a4acdcbed9f00465-HKG"
+        },
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "cac55b419c66c6e9da0ab86f17721f92cfbcd2ccd3bb0cc01541897a2851d408",
+        "bytes": 211203,
+        "body_path": "evidence/http/browser-documents/cac55b419c66c6e9da0ab86f17721f92cfbcd2ccd3bb0cc01541897a2851d408.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "07/2026",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/cac55b419c66c6e9da0ab86f17721f92cfbcd2ccd3bb0cc01541897a2851d408.txt",
+        "matched_text": "CC-DC-DV-026 (Rev. 07/2026)",
+        "all_matching_markers": [
+          "CC-DC-DV-026 (Rev. 07/2026)"
+        ],
+        "method": "Verified in extracted PDF text; whitespace normalized in metadata. Visual confirmation not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public downloading does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [],
+      "related_files": [
+        "originals/MD/cc-dc-po-021-911c0c1e2977.pdf"
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/de692470b4f80f5324d687bc61d93c3d173afa4c716f650a7ae6d31202186ca0.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": false,
+      "mdj_008_notice_reference_present": false,
+      "referenced_form_codes": [
+        "CC-DC-053",
+        "CC-DC-DV-026"
+      ],
+      "review_note": "Parser, form-code, heading, and revision-text checks do not establish visual layout, interactive fields, calculations, signatures, legal currency, filing acceptance, complete packets, or reuse clearance."
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/87-07W_AdvanceDirectiveforHealthCare_as_12292020.pdf",
+      "source_url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/87-07W_AdvanceDirectiveforHealthCare_as_12292020.pdf",
+      "category": "Estate and personal planning",
+      "document_type": "Advance Directive for Health Care",
+      "title": "Advance Directive for Health Care",
+      "family_id": "combined-advance-directives",
+      "form_id": null,
+      "scope": "state",
+      "state": "Oklahoma",
+      "jurisdiction": "Oklahoma",
+      "publisher": "Oklahoma Department of Human Services",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/17-advance-directive-for-health-care-2eac0f82ea17.pdf",
+      "sha256": "2eac0f82ea1767e62df321afe4ac3b16531cd8c84f7dfb81ddbfc6700eccb01e",
+      "acquired_at": "2026-10-14T09:40:11.468Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "official-publisher-direct-endpoint",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/17-advance-directive-for-health-care-2eac0f82ea17.pdf"
+    }
+  }
+]

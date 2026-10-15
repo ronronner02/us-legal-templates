@@ -1,0 +1,38 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2370-de-smallclaimcomplaint.pdf",
+      "source_url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2370-de-smallclaimcomplaint.pdf",
+      "category": "Court procedure",
+      "document_type": "Small Claim Complaint (form marked for e-Filing)",
+      "title": "Small Claim Complaint (form marked for e-Filing)",
+      "family_id": "small-claims-complaint",
+      "form_id": "NHJB-2370-De",
+      "scope": "state",
+      "state": "New Hampshire",
+      "jurisdiction": "New Hampshire",
+      "publisher": "New Hampshire Judicial Branch",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/14-small-claim-complaint-paper-form-b48d686a7c90.pdf",
+      "sha256": "b48d686a7c907e43153744174c0f1de0167162eb9778415071fa6f3751a08357",
+      "acquired_at": "2026-10-14T09:40:08.805Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-and-form-id-checked",
+      "source_link_status": "official-publisher-direct-endpoint",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [
+        "paper-form; reconcile-current-electronic-filing-flow"
+      ],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/14-small-claim-complaint-paper-form-b48d686a7c90.pdf"
+    }
+  }
+]

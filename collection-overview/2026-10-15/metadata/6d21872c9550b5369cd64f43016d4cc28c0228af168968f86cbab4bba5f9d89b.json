@@ -1,0 +1,91 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-06/inventory.json",
+    "batch": "2026-10-15-06",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdr006.pdf",
+      "source_link_title": "Motion to Modify Child Support / Counterclaim to Motion to Modify or Petition for Contempt",
+      "title": "Motion to Modify Child Support / Counterclaim to Motion to Modify or Petition for Contempt",
+      "slug": "cc-dr-006",
+      "category": "custody_child_support_and_parenting",
+      "family_id": "CC-DR-006",
+      "form_code": "CC-DR-006",
+      "identity_patterns": [
+        "CC[-\\s]*DR[-\\s]*006",
+        "MODIFY\\s+CHILD\\s+SUPPORT"
+      ],
+      "source_listed_revision": "10/2025",
+      "source_description": "Need help filling out court forms? Maryland Guide & File is a web-based tool that helps fill out court forms. To use this Maryland Guide & File interview, CLICK HERE .",
+      "source_row_text": "CC-DR-006 Motion to Modify Child Support / Counterclaim to Motion to Modify or Petition for Contempt 10/2025 Need help filling out court forms? Maryland Guide & File is a web-based tool that helps fill out court forms. To use this Maryland Guide & File interview, CLICK HERE .",
+      "usage_classification": "court_procedural_form",
+      "selection_reason": "Fresh official English family-law original, with procedural, financial, agreement, and guidance roles recorded separately.",
+      "notes": "Need help filling out court forms? Maryland Guide & File is a web-based tool that helps fill out court forms. To use this Maryland Guide & File interview, CLICK HERE .",
+      "sha256": "6d21872c9550b5369cd64f43016d4cc28c0228af168968f86cbab4bba5f9d89b",
+      "bytes": 830268,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 3,
+      "text_length": 4429,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-dr-006-6d21872c9550.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-06/originals/MD/cc-dr-006-6d21872c9550.pdf",
+      "text_path": "extracted-text/6d21872c9550b5369cd64f43016d4cc28c0228af168968f86cbab4bba5f9d89b.txt",
+      "acquired_at": "2026-10-15T04:33:52.844Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdr006.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdr006.pdf",
+        "checked_at": "2026-10-15T04:33:52.844Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"cab3c-64c3340436955\"",
+        "last_modified": "Wed, 04 Mar 2026 14:01:05 GMT",
+        "bytes": 830268,
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "6d21872c9550b5369cd64f43016d4cc28c0228af168968f86cbab4bba5f9d89b",
+        "body_path": "evidence/http/browser-documents/6d21872c9550b5369cd64f43016d4cc28c0228af168968f86cbab4bba5f9d89b.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "10/2025",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/6d21872c9550b5369cd64f43016d4cc28c0228af168968f86cbab4bba5f9d89b.txt",
+        "matched_text": "CC-DR-006 (Rev. 10/2025)",
+        "method": "Confirmed in extracted original PDF text; whitespace normalized only in the metadata date. Visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public download availability does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Original contains a restricted-information notice or conditional checkbox. The retained artifact is the blank official original. No personal data was entered or submitted.",
+        "Original references the separate MDJ-008 restricted-information notice. MDJ-008 is not acquired in this round. Companion requirements and filing acceptance remain unreviewed; this is not a complete filing packet."
+      ],
+      "related_files": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/1393658dff84a449addf3059e84009d2ca462c016a14f07e8afe82eae4d27321.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": true,
+      "mdj_008_notice_reference_present": true,
+      "review_note": "Parser, form-code, title, and revision-text checks do not establish visual layout, fields, calculations, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

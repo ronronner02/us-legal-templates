@@ -1,0 +1,82 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "Massachusetts",
+      "state_code": "MA",
+      "scope": "state",
+      "publisher": "Massachusetts Court System",
+      "source_url": "https://www.mass.gov/lists/housing-court-forms",
+      "artifact_url": "https://www.mass.gov/doc/supplementary-process-application-and-summons-efiling-only/download",
+      "source_link_title": "Supplementary process application and summons (eFiling only) , Open PDF file, 872.44 KB",
+      "title": "Supplementary Process Application and Summons - eFiling Only",
+      "slug": "supplementary-process-application-summons",
+      "category": "Court and general",
+      "family_id": "supplementary-process-application-summons",
+      "identity_patterns": [
+        "supplementary",
+        "summons"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Source limits this rendition to eFiling.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "DC/BMC/SPA: 01/2025",
+      "sha256": "22b76dca439b3dc436e000a76ec86c69f14fb718c2a31e3e06f9c7eb9f09f53a",
+      "bytes": 893378,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 2649,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MA/supplementary-process-application-summons-22b76dca439b.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/MA/supplementary-process-application-summons-22b76dca439b.pdf",
+      "text_path": "extracted-text/22b76dca439b3dc436e000a76ec86c69f14fb718c2a31e3e06f9c7eb9f09f53a.txt",
+      "acquired_at": "2026-10-15T01:56:54.559508+00:00",
+      "receipt": {
+        "url": "https://www.mass.gov/doc/supplementary-process-application-and-summons-efiling-only/download",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:56:54.559508+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"h5NsPOkiwfOZNmmcHmruMg==\"",
+        "last_modified": "Wed, 11 Feb 2026 13:42:40 GMT",
+        "status": "fetched",
+        "sha256": "22b76dca439b3dc436e000a76ec86c69f14fb718c2a31e3e06f9c7eb9f09f53a",
+        "bytes": 893378,
+        "body_path": "evidence/http/2026-10-15T01-54-36.419563+00-00/22b76dca439b3dc436e000a76ec86c69f14fb718c2a31e3e06f9c7eb9f09f53a.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-52-44.093538+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/652fe10bb25e9d3782a7c770fd9618093a517d333ecbf8e12a6d919f9649bed0.body",
+          "resolved_source_url": "https://www.mass.gov/lists/housing-court-forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [],
+      "quality_notes": [],
+      "edition_classification": "unverified",
+      "usage_classification": "efiling_only",
+      "copyright_review": "pending",
+      "reuse_note": "Mass.gov terms reserve copyright and describe a fair-use exception. Collection for research does not establish permission for republication, modification, or commercial use. Reuse review remains pending.",
+      "rights_source_url": "https://www.mass.gov/massgov-terms-of-use",
+      "revision_text_candidates": [],
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/22b76dca439b3dc436e000a76ec86c69f14fb718c2a31e3e06f9c7eb9f09f53a.txt",
+        "matched_text": "SPA: 01/2025",
+        "method": "Verified in extracted original text; visual confirmation not run."
+      },
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

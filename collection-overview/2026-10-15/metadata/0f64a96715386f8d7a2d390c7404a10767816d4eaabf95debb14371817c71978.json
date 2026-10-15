@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221209-235323-220318-file-71.pdf",
+      "source_url": "https://www.pacourts.us/forms/for-the-public",
+      "category": "Court procedure",
+      "document_type": "Landlord/Tenant Complaint",
+      "title": "Landlord/Tenant Complaint",
+      "family_id": "landlord-tenant-complaint",
+      "form_id": null,
+      "scope": "state",
+      "state": "Pennsylvania",
+      "jurisdiction": "Pennsylvania",
+      "publisher": "Unified Judicial System of Pennsylvania",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-05/02-landlord-tenant-complaint-0f64a9671538.pdf",
+      "sha256": "0f64a96715386f8d7a2d390c7404a10767816d4eaabf95debb14371817c71978",
+      "acquired_at": "2026-10-14T09:12:16.677Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-05/02-landlord-tenant-complaint-0f64a9671538.pdf"
+    }
+  }
+]

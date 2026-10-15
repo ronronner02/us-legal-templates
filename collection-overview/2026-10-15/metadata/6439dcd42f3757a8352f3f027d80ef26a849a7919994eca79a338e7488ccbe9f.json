@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://selfhelp.nvcourts.gov/images/probate/Probate-Generic-Petition-fillable.pdf",
+      "source_url": "https://selfhelp.nvcourts.gov/forms/probate-forms",
+      "category": "Estate and personal planning",
+      "document_type": "Generic Probate Petition",
+      "title": "Generic Probate Petition",
+      "family_id": "probate-petition",
+      "form_id": null,
+      "scope": "state",
+      "state": "Nevada",
+      "jurisdiction": "Nevada",
+      "publisher": "Nevada State Self-Help Center",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/13-generic-probate-petition-6439dcd42f37.pdf",
+      "sha256": "6439dcd42f3757a8352f3f027d80ef26a849a7919994eca79a338e7488ccbe9f",
+      "acquired_at": "2026-10-14T09:40:09.342Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/13-generic-probate-petition-6439dcd42f37.pdf"
+    }
+  }
+]

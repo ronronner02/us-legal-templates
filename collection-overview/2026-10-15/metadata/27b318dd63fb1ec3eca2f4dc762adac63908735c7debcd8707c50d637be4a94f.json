@@ -1,0 +1,189 @@
+[
+  {
+    "inventory": "organized-library/00_Index/all-records.json",
+    "batch": "Original organized snapshot",
+    "record": {
+      "record_id": "073561f75c7eb9832067c9d5",
+      "document_id": "21bc82a5bd58fd67eae76bba",
+      "state_code": "CA",
+      "state_name": "California",
+      "scope": "state",
+      "legal_category": "court_general",
+      "expected_document_types": [
+        "probate_estate"
+      ],
+      "title": "Advance Health Care Directive",
+      "document_type": "Health care directive",
+      "publisher": "California Courts",
+      "source_type": "court",
+      "source_page_url": "https://selfhelp.courts.ca.gov/wills-estates-probate/legal-documents",
+      "original_file_url": "https://oag.ca.gov/sites/all/files/agweb/pdfs/consumers/ProbateCodeAdvancedHealthCareDirectiveForm-fillable.pdf",
+      "local_path": "docs/legal-template-research/archive/2026-10-09-02/17-1-sites-all-files-agweb-pdfs-consumers-probatecodeadvancedhealthcaredirectiveform-fillable-pdf.pdf",
+      "sha256": "27b318dd63fb1ec3eca2f4dc762adac63908735c7debcd8707c50d637be4a94f",
+      "bytes": 775507,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 7,
+      "text_length": 13610,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/NGSFGS+MyriadPro-Regular', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 0, '/FontDescriptor': IndirectObject(68, 0, 1829299530448), '/LastChar': 255, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 212, 230, 337, 497, 513, 792, 605, 188, 284, 284, 415, 596, 207, 307, 207, 343, 513, 513, 513, 513, 513, 513, 513, 513, 513, 513, 207, 207, 596, 596, 596, 406, 737, 612, 542, 580, 666, 492, 487, 646, 652, 239, 370, 542, 472, 804, 6",
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/NGSFGS+MyriadPro-Regular', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 0, '/FontDescriptor': IndirectObject(68, 0, 1829299530448), '/LastChar': 255, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 212, 230, 337, 497, 513, 792, 605, 188, 284, 284, 415, 596, 207, 307, 207, 343, 513, 513, 513, 513, 513, 513, 513, 513, 513, 513, 207, 207, 596, 596, 596, 406, 737, 612, 542, 580, 666, 492, 487, 646, 652, 239, 370, 542, 472, 804, 6",
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/OKHLUQ+MyriadPro-Bold', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 0, '/FontDescriptor': IndirectObject(64, 0, 1829299530448), '/LastChar': 255, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 202, 268, 397, 550, 555, 880, 678, 205, 314, 314, 454, 596, 260, 322, 260, 331, 555, 555, 555, 555, 555, 555, 555, 555, 555, 555, 260, 260, 596, 596, 596, 445, 770, 656, 604, 595, 696, 534, 527, 682, 689, 285, 411, 614, 511, 846, 690,"
+      ],
+      "recorded_sha256": "27b318dd63fb1ec3eca2f4dc762adac63908735c7debcd8707c50d637be4a94f",
+      "hash_match": "matched",
+      "downloaded": true,
+      "acquired_at": "2026-10-09T09:40:32.196Z",
+      "local_checked_at": "2026-10-14T07:26:10.515294+00:00",
+      "last_verified_at": "2026-10-12T01:52:30.913Z",
+      "published_date": "unknown",
+      "effective_date": "unknown",
+      "version": "unknown",
+      "document_status": "unknown",
+      "currency_review": "manual_review_required",
+      "copyright_status": "permission_unclear",
+      "license_name": "unknown",
+      "license_url": "unknown",
+      "commercial_use_allowed": "unknown",
+      "redistribution_allowed": "unknown",
+      "modification_allowed": "unknown",
+      "attribution_required": "unknown",
+      "terms_reviewed_at": "unknown",
+      "permission_evidence": "No document-specific reuse approval recorded.",
+      "legal_review_status": "manual_review_required",
+      "publication_status": "not_approved",
+      "linking_permission": "manual_review_required",
+      "provenance_ref": "docs/legal-template-research/organized/2026-10-12/inventory.json",
+      "source_link_status": "listed-on-source",
+      "authority_review_status": "pending_review",
+      "new_download": false,
+      "flags": [
+        "text-extraction-warnings-review-required"
+      ],
+      "text_path": "data/text/27b318dd63fb1ec3eca2f4dc762adac63908735c7debcd8707c50d637be4a94f.txt",
+      "catalog_role": "form_or_legal_document",
+      "date_evidence": [
+        "EFFECTIVE:  My agent's authority becomes effective when my primary ",
+        "Effective January 1, 2019.)"
+      ],
+      "bundle_path": "01_Review_Required/01_State_Documents/CA_California/D_Court_and_General_Legal/CA-Advance-Health-Care-Directive--27b318dd63fb.pdf",
+      "bundle_section": "State documents",
+      "metadata_path": "00_Index/metadata/27b318dd63fb1ec3eca2f4dc762adac63908735c7debcd8707c50d637be4a94f.json",
+      "record_aliases": [
+        {
+          "record_id": "073561f75c7eb9832067c9d5",
+          "document_id": "21bc82a5bd58fd67eae76bba",
+          "state_code": "CA",
+          "state_name": "California",
+          "scope": "state",
+          "legal_category": "court_general",
+          "expected_document_types": [
+            "probate_estate"
+          ],
+          "title": "Advance Health Care Directive",
+          "document_type": "Health care directive",
+          "publisher": "California Courts",
+          "source_type": "court",
+          "source_page_url": "https://selfhelp.courts.ca.gov/wills-estates-probate/legal-documents",
+          "original_file_url": "https://oag.ca.gov/sites/all/files/agweb/pdfs/consumers/ProbateCodeAdvancedHealthCareDirectiveForm-fillable.pdf",
+          "local_path": "docs/legal-template-research/archive/2026-10-09-02/17-1-sites-all-files-agweb-pdfs-consumers-probatecodeadvancedhealthcaredirectiveform-fillable-pdf.pdf",
+          "sha256": "27b318dd63fb1ec3eca2f4dc762adac63908735c7debcd8707c50d637be4a94f",
+          "bytes": 775507,
+          "format": "pdf",
+          "validation_status": "parser_passed",
+          "pages": 7,
+          "text_length": 13610,
+          "ocr_status": "not_needed",
+          "encrypted": false,
+          "parser_warnings": [
+            "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/NGSFGS+MyriadPro-Regular', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 0, '/FontDescriptor': IndirectObject(68, 0, 1829299530448), '/LastChar': 255, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 212, 230, 337, 497, 513, 792, 605, 188, 284, 284, 415, 596, 207, 307, 207, 343, 513, 513, 513, 513, 513, 513, 513, 513, 513, 513, 207, 207, 596, 596, 596, 406, 737, 612, 542, 580, 666, 492, 487, 646, 652, 239, 370, 542, 472, 804, 6",
+            "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/NGSFGS+MyriadPro-Regular', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 0, '/FontDescriptor': IndirectObject(68, 0, 1829299530448), '/LastChar': 255, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 212, 230, 337, 497, 513, 792, 605, 188, 284, 284, 415, 596, 207, 307, 207, 343, 513, 513, 513, 513, 513, 513, 513, 513, 513, 513, 207, 207, 596, 596, 596, 406, 737, 612, 542, 580, 666, 492, 487, 646, 652, 239, 370, 542, 472, 804, 6",
+            "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/OKHLUQ+MyriadPro-Bold', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 0, '/FontDescriptor': IndirectObject(64, 0, 1829299530448), '/LastChar': 255, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 202, 268, 397, 550, 555, 880, 678, 205, 314, 314, 454, 596, 260, 322, 260, 331, 555, 555, 555, 555, 555, 555, 555, 555, 555, 555, 260, 260, 596, 596, 596, 445, 770, 656, 604, 595, 696, 534, 527, 682, 689, 285, 411, 614, 511, 846, 690,"
+          ],
+          "recorded_sha256": "27b318dd63fb1ec3eca2f4dc762adac63908735c7debcd8707c50d637be4a94f",
+          "hash_match": "matched",
+          "downloaded": true,
+          "acquired_at": "2026-10-09T09:40:32.196Z",
+          "local_checked_at": "2026-10-14T07:26:10.515294+00:00",
+          "last_verified_at": "2026-10-12T01:52:30.913Z",
+          "published_date": "unknown",
+          "effective_date": "unknown",
+          "version": "unknown",
+          "document_status": "unknown",
+          "currency_review": "manual_review_required",
+          "copyright_status": "permission_unclear",
+          "license_name": "unknown",
+          "license_url": "unknown",
+          "commercial_use_allowed": "unknown",
+          "redistribution_allowed": "unknown",
+          "modification_allowed": "unknown",
+          "attribution_required": "unknown",
+          "terms_reviewed_at": "unknown",
+          "permission_evidence": "No document-specific reuse approval recorded.",
+          "legal_review_status": "manual_review_required",
+          "publication_status": "not_approved",
+          "linking_permission": "manual_review_required",
+          "provenance_ref": "docs/legal-template-research/organized/2026-10-12/inventory.json",
+          "source_link_status": "listed-on-source",
+          "authority_review_status": "pending_review",
+          "new_download": false,
+          "flags": [
+            "text-extraction-warnings-review-required"
+          ],
+          "text_path": "data/text/27b318dd63fb1ec3eca2f4dc762adac63908735c7debcd8707c50d637be4a94f.txt",
+          "catalog_role": "form_or_legal_document",
+          "date_evidence": [
+            "EFFECTIVE:  My agent's authority becomes effective when my primary ",
+            "Effective January 1, 2019.)"
+          ]
+        }
+      ],
+      "original_physical_paths": [
+        "docs/legal-template-research/archive/2026-10-09-02/17-1-sites-all-files-agweb-pdfs-consumers-probatecodeadvancedhealthcaredirectiveform-fillable-pdf.pdf",
+        "docs/legal-template-research/archive/2026-10-12/live-recheck/16-0.pdf"
+      ],
+      "bundle_text_path": "00_Index/extracted-text/27b318dd63fb1ec3eca2f4dc762adac63908735c7debcd8707c50d637be4a94f.txt"
+    }
+  },
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://oag.ca.gov/sites/all/files/agweb/pdfs/consumers/ProbateCodeAdvancedHealthCareDirectiveForm-fillable.pdf",
+      "source_url": "https://selfhelp.courts.ca.gov/wills-estates-probate/legal-documents",
+      "category": "Estate and personal planning",
+      "document_type": "Health care directive",
+      "title": "Advance Health Care Directive",
+      "family_id": "health-care-directive",
+      "scope": "state",
+      "state": "California",
+      "publisher": "California Courts",
+      "jurisdiction": "California",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "../organized-library/01_Review_Required/01_State_Documents/CA_California/D_Court_and_General_Legal/CA-Advance-Health-Care-Directive--27b318dd63fb.pdf",
+      "sha256": "27b318dd63fb1ec3eca2f4dc762adac63908735c7debcd8707c50d637be4a94f",
+      "acquired_at": "2026-10-09T09:40:32.196Z",
+      "local_verification": "hash-and-parser-passed",
+      "live_comparison": "byte-identical",
+      "last_live_check": "2026-10-12T01:52:30.913Z",
+      "source_link_status": "listed-on-source",
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "publication_status": "not-approved",
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-09-02/17-1-sites-all-files-agweb-pdfs-consumers-probatecodeadvancedhealthcaredirectiveform-fillable-pdf.pdf",
+      "existing_repository_review_state": {
+        "publication_status": "not_approved",
+        "copyright_status": "permission_unclear",
+        "legal_review_status": "manual_review_required",
+        "bundle_section": "State documents",
+        "flags": [
+          "text-extraction-warnings-review-required"
+        ]
+      }
+    }
+  }
+]

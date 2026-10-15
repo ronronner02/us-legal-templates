@@ -1,0 +1,88 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-06/inventory.json",
+    "batch": "2026-10-15-06",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/family/forms/ccdr059.pdf/ccdr059.pdf",
+      "source_link_title": "Request for Hearing or Proceeding",
+      "title": "Request for Hearing or Proceeding",
+      "slug": "cc-dr-059",
+      "category": "family_case_procedure",
+      "family_id": "CC-DR-059",
+      "form_code": "CC-DR-059",
+      "identity_patterns": [
+        "CC[-\\s]*DR[-\\s]*059",
+        "REQUEST\\s+FOR\\s+HEARING"
+      ],
+      "source_listed_revision": "07/2026",
+      "source_description": "Use this form to ask the court to schedule a hearing in a family case.",
+      "source_row_text": "CC-DR-059 Request for Hearing or Proceeding 07/2026 Use this form to ask the court to schedule a hearing in a family case.",
+      "usage_classification": "court_procedural_form",
+      "selection_reason": "Fresh official English family-law original, with procedural, financial, agreement, and guidance roles recorded separately.",
+      "notes": "Use this form to ask the court to schedule a hearing in a family case.",
+      "sha256": "1c2af730dfa4b294bc248bdbd54b91e028926adeaeaf5167ab1ecc85d027d647",
+      "bytes": 197108,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1614,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-dr-059-1c2af730dfa4.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-06/originals/MD/cc-dr-059-1c2af730dfa4.pdf",
+      "text_path": "extracted-text/1c2af730dfa4b294bc248bdbd54b91e028926adeaeaf5167ab1ecc85d027d647.txt",
+      "acquired_at": "2026-10-15T04:32:53.920Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/family/forms/ccdr059.pdf/ccdr059.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/family/forms/ccdr059.pdf/ccdr059.pdf",
+        "checked_at": "2026-10-15T04:32:53.920Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"301f4-65568a60aeee6\"",
+        "last_modified": "Mon, 29 Jun 2026 18:30:10 GMT",
+        "bytes": 197108,
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "1c2af730dfa4b294bc248bdbd54b91e028926adeaeaf5167ab1ecc85d027d647",
+        "body_path": "evidence/http/browser-documents/1c2af730dfa4b294bc248bdbd54b91e028926adeaeaf5167ab1ecc85d027d647.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "07/2026",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/1c2af730dfa4b294bc248bdbd54b91e028926adeaeaf5167ab1ecc85d027d647.txt",
+        "matched_text": "CC-DR-059 (Rev. 07/2026)",
+        "method": "Confirmed in extracted original PDF text; whitespace normalized only in the metadata date. Visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public download availability does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [],
+      "related_files": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/1393658dff84a449addf3059e84009d2ca462c016a14f07e8afe82eae4d27321.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": false,
+      "mdj_008_notice_reference_present": false,
+      "review_note": "Parser, form-code, title, and revision-text checks do not establish visual layout, fields, calculations, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

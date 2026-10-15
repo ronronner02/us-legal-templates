@@ -1,0 +1,39 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://irp-cdn.multiscreensite.com/3a4d916c/files/uploaded/CIVIL_ApplicationForTrialDeNovo.pdf",
+      "source_url": "https://www.dadecountymo.gov/circuit-clerk",
+      "category": "Court procedure",
+      "document_type": "Application for Trial de Novo - Small Claims",
+      "title": "Application for Trial de Novo - Small Claims",
+      "family_id": "small-claims-appeal",
+      "form_id": null,
+      "scope": "state",
+      "state": "Missouri",
+      "jurisdiction": "Missouri; Dade County Circuit Clerk source",
+      "publisher": "Dade County Circuit Clerk",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-09/05-application-for-trial-de-novo-small-claims-c03a45717628.pdf",
+      "sha256": "c03a45717628eb818b8f82e0867782a485047943b761150a1c50feeeb5debc71",
+      "acquired_at": "2026-10-14T09:58:56.618Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [
+        "county-source-scope",
+        "historical-copy-current-version-review"
+      ],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-09/05-application-for-trial-de-novo-small-claims-c03a45717628.pdf"
+    }
+  }
+]

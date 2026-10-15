@@ -1,0 +1,38 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://legacy.utcourts.gov/resources/forms/probate/affidavit_personal_property.pdf",
+      "source_url": "https://legacy.utcourts.gov/resources/forms/probate/affidavit_personal_property.pdf",
+      "category": "Estate and personal planning",
+      "document_type": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+      "title": "Affidavit for Collecting Personal Property in a Small Estate Proceeding",
+      "family_id": "small-estate-affidavit",
+      "form_id": null,
+      "scope": "state",
+      "state": "Utah",
+      "jurisdiction": "Utah",
+      "publisher": "Utah State Courts",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/21-affidavit-for-collecting-personal-property-in-a-small-estate-proceeding-ebfb038e167a.pdf",
+      "sha256": "ebfb038e167a3771a934a7b7f2d4c38607a2704ee4f6e276fabeac83cd39ae82",
+      "acquired_at": "2026-10-14T09:40:13.698Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "official-publisher-direct-endpoint",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [
+        "legacy-publisher-endpoint; current-form-currency-review-pending"
+      ],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/21-affidavit-for-collecting-personal-property-in-a-small-estate-proceeding-ebfb038e167a.pdf"
+    }
+  }
+]

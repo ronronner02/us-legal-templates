@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.vtcourts.gov/media/377",
+      "source_url": "https://www.vtcourts.gov/probate/estates-and-wills",
+      "category": "Estate and personal planning",
+      "document_type": "Petition to Open Small Estate",
+      "title": "Petition to Open Small Estate",
+      "family_id": "small-estate-petition",
+      "form_id": "700-00001SM",
+      "scope": "state",
+      "state": "Vermont",
+      "jurisdiction": "Vermont",
+      "publisher": "Vermont Judiciary",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-02/03-petition-to-open-small-estate-1b87f9ec8882.pdf",
+      "sha256": "1b87f9ec8882faa7de7e00960ea960689357b556b2338b676e7b9e321bc099ab",
+      "acquired_at": "2026-10-14T09:03:51.510Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-02/03-petition-to-open-small-estate-1b87f9ec8882.pdf"
+    }
+  }
+]

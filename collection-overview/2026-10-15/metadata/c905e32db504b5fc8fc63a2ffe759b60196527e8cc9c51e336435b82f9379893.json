@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.sosnc.gov/webfiles/documents/forms/advance_healthcare_directives/advance_directive_for_a_natural_death.pdf",
+      "source_url": "https://www.sosnc.gov/forms/by_title/_advance_healthcare_directives",
+      "category": "Estate and personal planning",
+      "document_type": "Advance Directive for a Natural Death (Living Will)",
+      "title": "Advance Directive for a Natural Death (Living Will)",
+      "family_id": "health-care-directive",
+      "form_id": null,
+      "scope": "state",
+      "state": "North Carolina",
+      "jurisdiction": "North Carolina",
+      "publisher": "North Carolina Secretary of State",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14/09-advance-directive-for-a-natural-death-living-will-c905e32db504.pdf",
+      "sha256": "c905e32db504b5fc8fc63a2ffe759b60196527e8cc9c51e336435b82f9379893",
+      "acquired_at": "2026-10-14T09:00:59.357Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14/09-advance-directive-for-a-natural-death-living-will-c905e32db504.pdf"
+    }
+  }
+]

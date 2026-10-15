@@ -1,0 +1,91 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "West Virginia",
+      "state_code": "WV",
+      "scope": "state",
+      "publisher": "West Virginia Real Estate Commission",
+      "source_url": "https://rec.wv.gov/Forms/Pages/default.aspx",
+      "artifact_url": "https://rec.wv.gov/media/31/download?inline",
+      "source_link_title": "A Guide to Agency Relationships​",
+      "title": "A Guide to Agency Relationships",
+      "slug": "guide-agency-relationships",
+      "category": "Real estate",
+      "family_id": "guide-agency-relationships",
+      "identity_patterns": [
+        "agency",
+        "relationship"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Consumer guidance companion to notice; not a contract.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "REVISED OCT 24th 2024",
+      "sha256": "df069809b6eab23e27f29277a92487405152c21eb139caecea88ec9c052eee95",
+      "bytes": 314469,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 4396,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/WV/guide-agency-relationships-df069809b6ea.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/WV/guide-agency-relationships-df069809b6ea.pdf",
+      "text_path": "extracted-text/df069809b6eab23e27f29277a92487405152c21eb139caecea88ec9c052eee95.txt",
+      "acquired_at": "2026-10-15T02:00:21.193335+00:00",
+      "receipt": {
+        "url": "https://rec.wv.gov/media/31/download?inline",
+        "kind": "document",
+        "checked_at": "2026-10-15T02:00:21.193335+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": null,
+        "last_modified": "Mon, 05 Oct 2026 17:55:16 GMT",
+        "status": "fetched",
+        "sha256": "df069809b6eab23e27f29277a92487405152c21eb139caecea88ec9c052eee95",
+        "bytes": 314469,
+        "body_path": "evidence/http/2026-10-15T01-54-36.419563+00-00/df069809b6eab23e27f29277a92487405152c21eb139caecea88ec9c052eee95.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-52-44.093538+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/e90616f0fcdcd79110caf91cad05900c25fc08b0d440005cf8ff2f685e8260ac.body",
+          "resolved_source_url": "https://rec.wv.gov/forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [
+        "originals/WV/notice-agency-b09e6630d8f9.pdf"
+      ],
+      "quality_notes": [
+        "The agency notice and guide are related, separately supplied documents; neither establishes a signed brokerage representation contract."
+      ],
+      "edition_classification": "unverified",
+      "usage_classification": "consumer_guidance",
+      "copyright_review": "pending",
+      "reuse_note": "Official public download does not establish general modification, resale, or republication permission. Review the captured state legal notices and document-specific restrictions before reuse.",
+      "rights_source_url": "https://www.wv.gov/policies/legal-notices",
+      "revision_text_candidates": [
+        "l except that a licensee must reveal",
+        "l except that a licensee must reveal known material defects about",
+        "REVISED OCT 24th 2024",
+        "REVISED OCT 24th 2024"
+      ],
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/df069809b6eab23e27f29277a92487405152c21eb139caecea88ec9c052eee95.txt",
+        "matched_text": "REVISED OCT 24th 2024",
+        "method": "Verified in extracted original text; visual confirmation not run."
+      },
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

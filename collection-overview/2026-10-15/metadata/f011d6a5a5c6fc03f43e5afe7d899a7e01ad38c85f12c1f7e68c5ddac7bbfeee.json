@@ -1,0 +1,115 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-07/inventory.json",
+    "batch": "2026-10-15-07",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv025.pdf/ccdcdv025.pdf",
+      "source_link_title": "Motion for Service by Clerk Concerning Request to Shield Protective Order Records",
+      "title": "Motion for Service by Clerk Concerning Request to Shield Protective Order Records",
+      "slug": "cc-dc-dv-025",
+      "category": "protective_orders",
+      "family_id": "CC-DC-DV-025",
+      "form_code": "CC-DC-DV-025",
+      "identity_patterns": [
+        "CC\\s*-\\s*DC\\s*-\\s*DV\\s*-\\s*025",
+        "MOTION\\s+FOR\\s+SERVICE\\s+BY\\s+CLERK\\s+CONCERNING\\s+REQUEST\\s+TO\\s+SHIELD\\s+PROTECTIVE\\s+ORDER\\s+RECORDS"
+      ],
+      "source_listed_revision": "08/2024",
+      "source_description": "Use this form in a case involving shielding information in protective order records.",
+      "source_row_text": "CC-DC-DV-025 Motion for Service by Clerk Concerning Request to Shield Protective Order Records 08/2024 Use this form in a case involving shielding information in protective order records.",
+      "usage_classification": "court_procedural_form",
+      "selection_reason": "Fresh official English protective-order, peace-order, guardianship, or name-change original, with procedural roles retained separately.",
+      "notes": "Use this form in a case involving shielding information in protective order records.",
+      "sha256": "f011d6a5a5c6fc03f43e5afe7d899a7e01ad38c85f12c1f7e68c5ddac7bbfeee",
+      "bytes": 91627,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1633,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-dc-dv-025-f011d6a5a5c6.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-025-f011d6a5a5c6.pdf",
+      "text_path": "extracted-text/f011d6a5a5c6fc03f43e5afe7d899a7e01ad38c85f12c1f7e68c5ddac7bbfeee.txt",
+      "acquired_at": "2026-10-15T06:45:34.632Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv025.pdf/ccdcdv025.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv025.pdf/ccdcdv025.pdf",
+        "checked_at": "2026-10-15T06:45:34.632Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "headers": {
+          "date": "Thu, 15 Oct 2026 06:45:35 GMT",
+          "content-type": "application/pdf",
+          "content-length": "91627",
+          "connection": "keep-alive",
+          "server": "cloudflare",
+          "x-content-type-options": "nosniff",
+          "last-modified": "Tue, 15 Sep 2026 18:03:21 GMT",
+          "etag": "\"165eb-65b895db4616b\"",
+          "accept-ranges": "bytes",
+          "cache-control": "public, max-age=14400",
+          "expires": "Thu, 15 Oct 2026 10:45:35 GMT",
+          "cf-cache-status": "BYPASS",
+          "cf-ray": "a4acdc9eedf50465-HKG"
+        },
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "f011d6a5a5c6fc03f43e5afe7d899a7e01ad38c85f12c1f7e68c5ddac7bbfeee",
+        "bytes": 91627,
+        "body_path": "evidence/http/browser-documents/f011d6a5a5c6fc03f43e5afe7d899a7e01ad38c85f12c1f7e68c5ddac7bbfeee.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "08/2024",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/f011d6a5a5c6fc03f43e5afe7d899a7e01ad38c85f12c1f7e68c5ddac7bbfeee.txt",
+        "matched_text": "CC-DC-DV-025 (Rev. 08/2024)",
+        "all_matching_markers": [
+          "CC-DC-DV-025 (Rev. 08/2024)"
+        ],
+        "method": "Verified in extracted PDF text; whitespace normalized in metadata. Visual confirmation not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public downloading does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Original contains a restricted-information notice or conditional checkbox. This is the blank original; no personal information was entered or submitted.",
+        "Original references MDJ-008, which is not acquired in this round. Complete filing-packet validation remains pending.",
+        "Blank original includes a proposed court decision or order section. No approval, waiver, service, or issued order is established by this template."
+      ],
+      "related_files": [
+        "originals/MD/cc-dc-dv-021a-09609aa579dd.pdf",
+        "originals/MD/cc-dc-dv-021b-dd534c3fe47b.pdf"
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/de692470b4f80f5324d687bc61d93c3d173afa4c716f650a7ae6d31202186ca0.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": true,
+      "mdj_008_notice_reference_present": true,
+      "referenced_form_codes": [
+        "CC-DC-DV-025",
+        "MDJ-008"
+      ],
+      "review_note": "Parser, form-code, heading, and revision-text checks do not establish visual layout, interactive fields, calculations, signatures, legal currency, filing acceptance, complete packets, or reuse clearance."
+    }
+  }
+]

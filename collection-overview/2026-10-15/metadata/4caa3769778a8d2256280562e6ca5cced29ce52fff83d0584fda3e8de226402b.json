@@ -1,0 +1,76 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Oregon",
+      "state_code": "OR",
+      "scope": "state",
+      "publisher": "Oregon Real Estate Agency",
+      "source_url": "https://www.oregon.gov/rea/licensing/Pages/initial-agency-disclosure.aspx",
+      "artifact_url": "https://www.oregon.gov/rea/licensing/Documents/Sample_Initial_Agency_Disclosure_Pamphlet.docx",
+      "source_link_title": "editable version",
+      "title": "Sample Initial Agency Disclosure Pamphlet - Word",
+      "slug": "sample-initial-agency-disclosure",
+      "category": "Real estate",
+      "family_id": "initial-agency-disclosure",
+      "identity_patterns": [
+        "agency",
+        "disclosure"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "Source describes branding customization. Editable sample and PDF are related renditions; general reuse scope remains pending.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": null,
+      "sha256": "4caa3769778a8d2256280562e6ca5cced29ce52fff83d0584fda3e8de226402b",
+      "bytes": 42278,
+      "format": "docx",
+      "validation_status": "parser_passed",
+      "pages": null,
+      "text_length": 10054,
+      "ocr_status": "not_applicable",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/OR/sample-initial-agency-disclosure-4caa3769778a.docx",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/OR/sample-initial-agency-disclosure-4caa3769778a.docx",
+      "text_path": "extracted-text/4caa3769778a8d2256280562e6ca5cced29ce52fff83d0584fda3e8de226402b.txt",
+      "acquired_at": "2026-10-15T01:34:57.951264+00:00",
+      "receipt": {
+        "url": "https://www.oregon.gov/rea/licensing/Documents/Sample_Initial_Agency_Disclosure_Pamphlet.docx",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:34:57.951264+00:00",
+        "http_status": 200,
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "etag": "\"{A8D904FD-F828-4A77-85F1-0A79AEB1BB0C},24\"",
+        "last_modified": "Fri, 09 Jan 2026 07:32:42 GMT",
+        "status": "fetched",
+        "sha256": "4caa3769778a8d2256280562e6ca5cced29ce52fff83d0584fda3e8de226402b",
+        "bytes": 42278,
+        "body_path": "evidence/http/2026-10-15T01-32-40.761224+00-00/4caa3769778a8d2256280562e6ca5cced29ce52fff83d0584fda3e8de226402b.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "undetermined",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [],
+      "related_files": [
+        "originals/OR/initial-agency-disclosure-a87b14453917.pdf"
+      ],
+      "rights_evidence": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-28-19.205641+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-28-19.205641+00-00/85cbc2a500451b148e550d54dd72f2411b26857a9494b85cbeac80bda1a89387.body",
+          "resolved_source_url": "https://www.oregon.gov/rea/licensing/Pages/initial-agency-disclosure.aspx"
+        }
+      ],
+      "relationship_note": "Related PDF and editable Word renditions of the initial agency disclosure; not two independent instruments. Source invites branding of the Word sample; broader reuse review remains pending.",
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

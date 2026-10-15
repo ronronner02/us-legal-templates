@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.kjc.ks.gov/home/showpublisheddocument/6756/639017291098130000",
+      "source_url": "https://www.kjc.ks.gov/legal-forms/power-of-attorney",
+      "category": "Estate and personal planning",
+      "document_type": "Durable Power of Attorney for Health Care Decisions",
+      "title": "Durable Power of Attorney for Health Care Decisions",
+      "family_id": "health-care-power-of-attorney",
+      "form_id": null,
+      "scope": "state",
+      "state": "Kansas",
+      "jurisdiction": "Kansas",
+      "publisher": "Kansas Judicial Council",
+      "downloaded": true,
+      "format": "docx",
+      "local_archive_path": "archive/2026-10-14-09/02-durable-power-of-attorney-for-health-care-decisions-7779973e26af.docx",
+      "sha256": "7779973e26af7073d1b30f75dae9fa02f6172a8ff1811a9ca446850d9fabb075",
+      "acquired_at": "2026-10-14T09:58:50.081Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-09/02-durable-power-of-attorney-for-health-care-decisions-7779973e26af.docx"
+    }
+  }
+]

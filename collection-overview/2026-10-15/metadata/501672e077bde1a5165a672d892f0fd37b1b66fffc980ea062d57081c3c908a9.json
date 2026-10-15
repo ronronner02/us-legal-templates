@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.kycourts.gov/Legal-Forms/Legal%20Forms/830.pdf",
+      "source_url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx",
+      "category": "Estate and personal planning",
+      "document_type": "Petition to Dispense with Administration",
+      "title": "Petition to Dispense with Administration",
+      "family_id": "small-estate-petition",
+      "form_id": "AOC-830",
+      "scope": "state",
+      "state": "Kentucky",
+      "jurisdiction": "Kentucky",
+      "publisher": "Kentucky Court of Justice",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14/12-petition-to-dispense-with-administration-501672e077bd.pdf",
+      "sha256": "501672e077bde1a5165a672d892f0fd37b1b66fffc980ea062d57081c3c908a9",
+      "acquired_at": "2026-10-14T09:01:02.404Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14/12-petition-to-dispense-with-administration-501672e077bd.pdf"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://eforms.alacourt.gov/media/fhjeaxgw/sm-1-statement-of-claim-complaint-general.pdf",
+      "source_url": "https://eforms.alacourt.gov/small-claims/",
+      "category": "Court procedure",
+      "document_type": "Statement of Claim (Complaint) - General",
+      "title": "Statement of Claim (Complaint) - General",
+      "family_id": "small-claims-complaint",
+      "form_id": "SM-1",
+      "scope": "state",
+      "state": "Alabama",
+      "jurisdiction": "Alabama",
+      "publisher": "Alabama Administrative Office of Courts",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/01-statement-of-claim-complaint-general-e0928869e156.pdf",
+      "sha256": "e0928869e1561a302fdfc235885dfe4a397b73839209a6b5516eba532997255c",
+      "acquired_at": "2026-10-14T09:39:53.292Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-and-form-id-checked",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/01-statement-of-claim-complaint-general-e0928869e156.pdf"
+    }
+  }
+]

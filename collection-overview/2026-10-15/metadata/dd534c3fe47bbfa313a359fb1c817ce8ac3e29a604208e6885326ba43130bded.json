@@ -1,0 +1,119 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-07/inventory.json",
+    "batch": "2026-10-15-07",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv021b.pdf/ccdcdv021b.pdf",
+      "source_link_title": "Request to Shield Consented to Protective Order Records",
+      "title": "Request to Shield Consented to Protective Order Records",
+      "slug": "cc-dc-dv-021b",
+      "category": "protective_orders",
+      "family_id": "CC-DC-DV-021B",
+      "form_code": "CC-DC-DV-021B",
+      "identity_patterns": [
+        "CC\\s*-\\s*DC\\s*-\\s*DV\\s*-\\s*021B",
+        "REQUEST\\s+TO\\s+SHIELD\\s+CONSENTED.TO\\s+PROTECTIVE\\s+ORDER\\s+RECORDS"
+      ],
+      "source_listed_revision": "07/2026",
+      "source_description": "Use the form to ask the court to shield information in a protective order case in which the respondent consented to the order. Need help filing out court forms? Maryland Guide & File is a web-based tool that helps fill out court forms. To use this Maryland Guide & File interview, CLICK HERE .",
+      "source_row_text": "CC-DC-DV-021B Request to Shield Consented to Protective Order Records 07/2026 Use the form to ask the court to shield information in a protective order case in which the respondent consented to the order. Need help filing out court forms? Maryland Guide & File is a web-based tool that helps fill out court forms. To use this Maryland Guide & File interview, CLICK HERE .",
+      "usage_classification": "court_procedural_form",
+      "selection_reason": "Fresh official English protective-order, peace-order, guardianship, or name-change original, with procedural roles retained separately.",
+      "notes": "Use the form to ask the court to shield information in a protective order case in which the respondent consented to the order. Need help filing out court forms? Maryland Guide & File is a web-based tool that helps fill out court forms. To use this Maryland Guide & File interview, CLICK HERE .",
+      "sha256": "dd534c3fe47bbfa313a359fb1c817ce8ac3e29a604208e6885326ba43130bded",
+      "bytes": 836219,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 3255,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-dc-dv-021b-dd534c3fe47b.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-021b-dd534c3fe47b.pdf",
+      "text_path": "extracted-text/dd534c3fe47bbfa313a359fb1c817ce8ac3e29a604208e6885326ba43130bded.txt",
+      "acquired_at": "2026-10-15T06:44:30.732Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv021b.pdf/ccdcdv021b.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv021b.pdf/ccdcdv021b.pdf",
+        "checked_at": "2026-10-15T06:44:30.732Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "headers": {
+          "date": "Thu, 15 Oct 2026 06:44:31 GMT",
+          "content-type": "application/pdf",
+          "content-length": "836219",
+          "connection": "keep-alive",
+          "server": "cloudflare",
+          "x-content-type-options": "nosniff",
+          "last-modified": "Fri, 11 Sep 2026 19:07:49 GMT",
+          "etag": "\"cc27b-65b39cce649cb\"",
+          "accept-ranges": "bytes",
+          "cache-control": "public, max-age=14400",
+          "expires": "Thu, 15 Oct 2026 10:44:31 GMT",
+          "cf-cache-status": "BYPASS",
+          "cf-ray": "a4acdb0f8d190465-HKG"
+        },
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "dd534c3fe47bbfa313a359fb1c817ce8ac3e29a604208e6885326ba43130bded",
+        "bytes": 836219,
+        "body_path": "evidence/http/browser-documents/dd534c3fe47bbfa313a359fb1c817ce8ac3e29a604208e6885326ba43130bded.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "07/2026",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/dd534c3fe47bbfa313a359fb1c817ce8ac3e29a604208e6885326ba43130bded.txt",
+        "matched_text": "CC-DC-DV-021B (Rev. 07/2026)",
+        "all_matching_markers": [
+          "CC-DC-DV-021B (Rev. 07/2026)",
+          "CC-DC-DV-021B (Rev. 07/2026)"
+        ],
+        "method": "Verified in extracted PDF text; whitespace normalized in metadata. Visual confirmation not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public downloading does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Original contains a restricted-information notice or conditional checkbox. This is the blank original; no personal information was entered or submitted.",
+        "Original references MDJ-008, which is not acquired in this round. Complete filing-packet validation remains pending.",
+        "Denied/dismissed and consented-to record-shielding requests have distinct source-described circumstances. Protective-order and peace-order forms are separate and not interchangeable. Referenced release and service companions require review."
+      ],
+      "related_files": [
+        "originals/MD/cc-dc-dv-021a-09609aa579dd.pdf",
+        "originals/MD/cc-dc-dv-025-f011d6a5a5c6.pdf"
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/de692470b4f80f5324d687bc61d93c3d173afa4c716f650a7ae6d31202186ca0.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": true,
+      "mdj_008_notice_reference_present": true,
+      "referenced_form_codes": [
+        "CC-DC-077",
+        "CC-DC-128",
+        "CC-DC-DV-021B",
+        "CC-DC-DV-025",
+        "MDJ-008"
+      ],
+      "review_note": "Parser, form-code, heading, and revision-text checks do not establish visual layout, interactive fields, calculations, signatures, legal currency, filing acceptance, complete packets, or reuse clearance."
+    }
+  }
+]

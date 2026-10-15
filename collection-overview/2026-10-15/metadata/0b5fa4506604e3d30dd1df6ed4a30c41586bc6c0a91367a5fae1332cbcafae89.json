@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-601-Inventory.pdf",
+      "source_url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/",
+      "category": "Estate and personal planning",
+      "document_type": "Inventory",
+      "title": "Inventory",
+      "family_id": "inventory-and-appraisal",
+      "form_id": "4B-601",
+      "scope": "state",
+      "state": "New Mexico",
+      "jurisdiction": "New Mexico",
+      "publisher": "New Mexico Courts Self-Representation",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/15-inventory-0b5fa4506604.pdf",
+      "sha256": "0b5fa4506604e3d30dd1df6ed4a30c41586bc6c0a91367a5fae1332cbcafae89",
+      "acquired_at": "2026-10-14T09:40:09.988Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/15-inventory-0b5fa4506604.pdf"
+    }
+  }
+]

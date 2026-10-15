@@ -1,0 +1,112 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-07/inventory.json",
+    "batch": "2026-10-15-07",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcpo006.pdf/ccdcpo006.pdf",
+      "source_link_title": "Petition to Modify/Rescind/Extend Peace Order",
+      "title": "Petition to Modify/Rescind/Extend Peace Order",
+      "slug": "cc-dc-po-006",
+      "category": "peace_orders",
+      "family_id": "CC-DC-PO-006",
+      "form_code": "CC-DC-PO-006",
+      "identity_patterns": [
+        "CC\\s*-\\s*DC\\s*-\\s*PO\\s*-\\s*006",
+        "PETITION\\s+TO.{0,60}MODIFY.{0,60}RESCIND.{0,60}EXTEND\\s+PEACE\\s+ORDER"
+      ],
+      "source_listed_revision": "07/2026",
+      "source_description": "Use this form to change an existing peace order. Learn more .",
+      "source_row_text": "CC-DC-PO-006 Petition to Modify/Rescind/Extend Peace Order 07/2026 Use this form to change an existing peace order. Learn more .",
+      "usage_classification": "court_procedural_form",
+      "selection_reason": "Fresh official English protective-order, peace-order, guardianship, or name-change original, with procedural roles retained separately.",
+      "notes": "Use this form to change an existing peace order. Learn more .",
+      "sha256": "1ccc6a9a2b5649956c13755d506cf4935b774fe7061e0860ab70d163c969ab00",
+      "bytes": 850811,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 2087,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-dc-po-006-1ccc6a9a2b56.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-po-006-1ccc6a9a2b56.pdf",
+      "text_path": "extracted-text/1ccc6a9a2b5649956c13755d506cf4935b774fe7061e0860ab70d163c969ab00.txt",
+      "acquired_at": "2026-10-15T06:45:51.842Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcpo006.pdf/ccdcpo006.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcpo006.pdf/ccdcpo006.pdf",
+        "checked_at": "2026-10-15T06:45:51.842Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "headers": {
+          "date": "Thu, 15 Oct 2026 06:45:53 GMT",
+          "content-type": "application/pdf",
+          "content-length": "850811",
+          "connection": "keep-alive",
+          "server": "cloudflare",
+          "x-content-type-options": "nosniff",
+          "last-modified": "Wed, 01 Jul 2026 13:19:50 GMT",
+          "etag": "\"cfb7b-6558c8bd75db3\"",
+          "accept-ranges": "bytes",
+          "cache-control": "public, max-age=14400",
+          "expires": "Thu, 15 Oct 2026 10:45:53 GMT",
+          "cf-cache-status": "BYPASS",
+          "cf-ray": "a4acdd0a7ada0465-HKG"
+        },
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "1ccc6a9a2b5649956c13755d506cf4935b774fe7061e0860ab70d163c969ab00",
+        "bytes": 850811,
+        "body_path": "evidence/http/browser-documents/1ccc6a9a2b5649956c13755d506cf4935b774fe7061e0860ab70d163c969ab00.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "07/2026",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/1ccc6a9a2b5649956c13755d506cf4935b774fe7061e0860ab70d163c969ab00.txt",
+        "matched_text": "CC-DC-PO-006 (Rev. 07/2026)",
+        "all_matching_markers": [
+          "CC-DC-PO-006 (Rev. 07/2026)"
+        ],
+        "method": "Verified in extracted PDF text; whitespace normalized in metadata. Visual confirmation not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public downloading does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Original contains a restricted-information notice or conditional checkbox. This is the blank original; no personal information was entered or submitted.",
+        "Original references MDJ-008, which is not acquired in this round. Complete filing-packet validation remains pending."
+      ],
+      "related_files": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/de692470b4f80f5324d687bc61d93c3d173afa4c716f650a7ae6d31202186ca0.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": true,
+      "mdj_008_notice_reference_present": true,
+      "referenced_form_codes": [
+        "CC-DC-128",
+        "CC-DC-PO-006",
+        "MDJ-008"
+      ],
+      "review_note": "Parser, form-code, heading, and revision-text checks do not establish visual layout, interactive fields, calculations, signatures, legal currency, filing acceptance, complete packets, or reuse clearance."
+    }
+  }
+]

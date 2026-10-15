@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+      "source_url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/EATF/Michigan-Statutory-Form-Power-of-Attorney.pdf?rev=8f73adb967134ffaa7a1ae64143f03bb",
+      "category": "Estate and personal planning",
+      "document_type": "Michigan Statutory Form Power of Attorney",
+      "title": "Michigan Statutory Form Power of Attorney",
+      "family_id": "financial-power-of-attorney",
+      "form_id": null,
+      "scope": "state",
+      "state": "Michigan",
+      "jurisdiction": "Michigan",
+      "publisher": "Michigan Department of Attorney General",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14/07-michigan-statutory-form-power-of-attorney-4e6d7a5d85c9.pdf",
+      "sha256": "4e6d7a5d85c94ce5e4b369e9262132f382c361350d1d81db5020bcf9e5063ec0",
+      "acquired_at": "2026-10-14T09:00:58.504Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "official-publisher-direct-endpoint",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14/07-michigan-statutory-form-power-of-attorney-4e6d7a5d85c9.pdf"
+    }
+  }
+]

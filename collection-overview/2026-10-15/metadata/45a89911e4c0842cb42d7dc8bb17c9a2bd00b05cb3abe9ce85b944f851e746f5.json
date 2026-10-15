@@ -1,0 +1,81 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "state",
+      "publisher": "Maine Department of Labor",
+      "source_url": "https://www.maine.gov/labor/posters/",
+      "artifact_url": "https://www.maine.gov/labor/docs/2026/posters/EmployerSurveillancePoster.pdf",
+      "source_link_title": "Maine Employer Surveillance—Your Rights",
+      "title": "Maine Employer Surveillance - Your Rights",
+      "slug": "employer-surveillance-rights",
+      "category": "Employment",
+      "family_id": "employer-surveillance-rights-notice",
+      "identity_patterns": [
+        "surveillance"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "Listed by source among optional posters; individual statutory obligations require review.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "rev. 01/26",
+      "sha256": "45a89911e4c0842cb42d7dc8bb17c9a2bd00b05cb3abe9ce85b944f851e746f5",
+      "bytes": 84056,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1751,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/ME/employer-surveillance-rights-45a89911e4c0.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/ME/employer-surveillance-rights-45a89911e4c0.pdf",
+      "text_path": "extracted-text/45a89911e4c0842cb42d7dc8bb17c9a2bd00b05cb3abe9ce85b944f851e746f5.txt",
+      "acquired_at": "2026-10-15T01:34:31.815566+00:00",
+      "receipt": {
+        "url": "https://www.maine.gov/labor/docs/2026/posters/EmployerSurveillancePoster.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:34:31.815566+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"14858-64870b7b05e7f\"",
+        "last_modified": "Thu, 15 Jan 2026 17:40:15 GMT",
+        "status": "fetched",
+        "sha256": "45a89911e4c0842cb42d7dc8bb17c9a2bd00b05cb3abe9ce85b944f851e746f5",
+        "bytes": 84056,
+        "body_path": "evidence/http/2026-10-15T01-32-40.761224+00-00/45a89911e4c0842cb42d7dc8bb17c9a2bd00b05cb3abe9ce85b944f851e746f5.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "undetermined",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [
+        "Source lists this among optional posters. Individual statutory notice duties require separate review."
+      ],
+      "related_files": [],
+      "rights_evidence": [
+        {
+          "kind": "document_copy_statement",
+          "text": "This poster is available online at no charge and may be copied:  https://www.maine.gov/labor/posters/",
+          "evidence_path": "extracted-text/45a89911e4c0842cb42d7dc8bb17c9a2bd00b05cb3abe9ce85b944f851e746f5.txt",
+          "scope": "Copying stated by the document; modification, resale, and broad commercial redistribution remain unreviewed."
+        }
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-29-58.709997+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/1c0b8edd378ee5f0c976f57b0761a433d78feef71b5351785e9444b893656ea1.body",
+          "resolved_source_url": "https://www.maine.gov/labor/posters/"
+        }
+      ],
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

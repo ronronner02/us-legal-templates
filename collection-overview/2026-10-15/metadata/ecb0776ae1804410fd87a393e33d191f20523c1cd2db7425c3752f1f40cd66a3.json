@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.gasupreme.us/wp-content/uploads/2021/07/GPCSF5_0721.pdf",
+      "source_url": "https://www.gasupreme.us/probate-court-standard-forms/",
+      "category": "Estate and personal planning",
+      "document_type": "Petition to Probate Will in Solemn Form",
+      "title": "Petition to Probate Will in Solemn Form",
+      "family_id": "probate-petition",
+      "form_id": null,
+      "scope": "state",
+      "state": "Georgia",
+      "jurisdiction": "Georgia",
+      "publisher": "Supreme Court of Georgia",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/05-petition-to-probate-will-in-solemn-form-ecb0776ae180.pdf",
+      "sha256": "ecb0776ae1804410fd87a393e33d191f20523c1cd2db7425c3752f1f40cd66a3",
+      "acquired_at": "2026-10-14T09:40:01.002Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/05-petition-to-probate-will-in-solemn-form-ecb0776ae180.pdf"
+    }
+  }
+]

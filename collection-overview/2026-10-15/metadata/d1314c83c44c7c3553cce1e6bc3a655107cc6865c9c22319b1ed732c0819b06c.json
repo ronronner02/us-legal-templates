@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.iowacourts.gov/browse/files/71addedc43dc4d248ef5bac4a9aa28ef/download",
+      "source_url": "https://www.iowacourts.gov/for-the-public/court-forms/filters/4002ed8c902f43bdb947ea697c5f0931",
+      "category": "Court procedure",
+      "document_type": "Instructions for Defendant Responding to a Small Claims Action",
+      "title": "Instructions for Defendant Responding to a Small Claims Action",
+      "family_id": "small-claims-defense-instructions",
+      "form_id": null,
+      "scope": "state",
+      "state": "Iowa",
+      "jurisdiction": "Iowa",
+      "publisher": "Iowa Judicial Branch",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/07-instructions-for-defendant-responding-to-a-small-claims-action-d1314c83c44c.pdf",
+      "sha256": "d1314c83c44c7c3553cce1e6bc3a655107cc6865c9c22319b1ed732c0819b06c",
+      "acquired_at": "2026-10-14T09:40:06.356Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/07-instructions-for-defendant-responding-to-a-small-claims-action-d1314c83c44c.pdf"
+    }
+  }
+]

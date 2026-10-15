@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/forms/legal/DurablePowerOfAttorneyForHealthcare.pdf",
+      "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/forms/legal/DurablePowerOfAttorneyForHealthcare.pdf",
+      "category": "Estate and personal planning",
+      "document_type": "Durable Power of Attorney for Healthcare",
+      "title": "Durable Power of Attorney for Healthcare",
+      "family_id": "health-care-power-of-attorney",
+      "form_id": null,
+      "scope": "state",
+      "state": "Rhode Island",
+      "jurisdiction": "Rhode Island",
+      "publisher": "Rhode Island Department of Health",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/19-durable-power-of-attorney-for-healthcare-7c70aed6e10f.pdf",
+      "sha256": "7c70aed6e10f74a090b611bd44c3c129ba8c6c88be3a2125ec5fba66d97dc171",
+      "acquired_at": "2026-10-14T09:40:13.828Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "official-publisher-direct-endpoint",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/19-durable-power-of-attorney-for-healthcare-7c70aed6e10f.pdf"
+    }
+  }
+]

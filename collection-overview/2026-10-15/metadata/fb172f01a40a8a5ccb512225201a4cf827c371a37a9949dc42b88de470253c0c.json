@@ -1,0 +1,93 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-06/inventory.json",
+    "batch": "2026-10-15-06",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdrin109.pdf",
+      "source_link_title": "Maryland Parenting Plan Instructions",
+      "title": "Maryland Parenting Plan Instructions",
+      "slug": "cc-drin-109",
+      "category": "custody_child_support_and_parenting",
+      "family_id": "CC-DRIN-109",
+      "form_code": "CC-DRIN-109",
+      "identity_patterns": [
+        "CC[-\\s]*DRIN[-\\s]*109",
+        "Parenting\\s+Plan\\s+Instructions"
+      ],
+      "source_listed_revision": "07/2026",
+      "source_description": "Use this instructional form when developing a parenting plan. Learn more .",
+      "source_row_text": "CC-DRIN-109 Maryland Parenting Plan Instructions 07/2026 Use this instructional form when developing a parenting plan. Learn more .",
+      "usage_classification": "procedural_guidance",
+      "selection_reason": "Fresh official English family-law original, with procedural, financial, agreement, and guidance roles recorded separately.",
+      "notes": "Use this instructional form when developing a parenting plan. Learn more .",
+      "sha256": "fb172f01a40a8a5ccb512225201a4cf827c371a37a9949dc42b88de470253c0c",
+      "bytes": 1076403,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 5,
+      "text_length": 7977,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-drin-109-fb172f01a40a.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-06/originals/MD/cc-drin-109-fb172f01a40a.pdf",
+      "text_path": "extracted-text/fb172f01a40a8a5ccb512225201a4cf827c371a37a9949dc42b88de470253c0c.txt",
+      "acquired_at": "2026-10-15T04:33:30.426Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdrin109.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdrin109.pdf",
+        "checked_at": "2026-10-15T04:33:30.426Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"106cb3-6557bbb8047d2\"",
+        "last_modified": "Tue, 30 Jun 2026 17:16:15 GMT",
+        "bytes": 1076403,
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "fb172f01a40a8a5ccb512225201a4cf827c371a37a9949dc42b88de470253c0c",
+        "body_path": "evidence/http/browser-documents/fb172f01a40a8a5ccb512225201a4cf827c371a37a9949dc42b88de470253c0c.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "07/2026",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/fb172f01a40a8a5ccb512225201a4cf827c371a37a9949dc42b88de470253c0c.txt",
+        "matched_text": "CC-DRIN-109 (Rev.  07/2026)",
+        "method": "Confirmed in extracted original PDF text; whitespace normalized only in the metadata date. Visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public download availability does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Parenting-plan tool, instructions, and statement of agreements/disagreements are separate originals. The statement concerns an inability to reach a comprehensive agreement. These documents do not establish an executed agreement or issued custody order."
+      ],
+      "related_files": [
+        "originals/MD/cc-dr-109-798aa6764437.pdf",
+        "originals/MD/cc-dr-110-8c7b16e3ba38.pdf"
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/1393658dff84a449addf3059e84009d2ca462c016a14f07e8afe82eae4d27321.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": false,
+      "mdj_008_notice_reference_present": false,
+      "review_note": "Parser, form-code, title, and revision-text checks do not establish visual layout, fields, calculations, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

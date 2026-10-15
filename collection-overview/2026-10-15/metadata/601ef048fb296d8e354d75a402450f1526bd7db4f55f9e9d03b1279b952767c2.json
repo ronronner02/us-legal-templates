@@ -1,0 +1,92 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-05/inventory.json",
+    "batch": "2026-10-15-05",
+    "record": {
+      "state": "Wisconsin",
+      "state_code": "WI",
+      "scope": "statewide",
+      "publisher": "Wisconsin Court System",
+      "source_url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38",
+      "artifact_url": "https://www.wicourts.gov/formdisplay/SC-5420VA.pdf?formNumber=SC-5420VA&formType=Form&formatId=2&language=en",
+      "source_link_title": "Form English",
+      "title": "Declaration Based on Noncompliance for Money Judgment Non-Eviction (Small Claims)",
+      "slug": "sc-5420va",
+      "category": "small_claims_and_civil_procedure",
+      "family_id": "SC-5420V",
+      "form_code": "SC-5420VA",
+      "identity_patterns": [
+        "SC\\-5420VA",
+        "Small\\s+Claims"
+      ],
+      "source_listed_revision": "03/05/2026",
+      "source_description": "To request the court to enter a money judgment based upon noncompliance. Voluntary form.",
+      "source_row_text": "SC-5420VA Declaration Based on Noncompliance for Money Judgment Non-Eviction (Small Claims) To request the court to enter a money judgment based upon noncompliance. Voluntary form. 03/05/2026 Form English Form English Summary English",
+      "usage_classification": "court_procedural_form",
+      "source_form_status": "voluntary",
+      "selection_reason": "Fresh official English PDF with form, order, or procedural-guidance role recorded separately.",
+      "notes": "To request the court to enter a money judgment based upon noncompliance. Voluntary form.",
+      "sha256": "601ef048fb296d8e354d75a402450f1526bd7db4f55f9e9d03b1279b952767c2",
+      "bytes": 205236,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 3432,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/WI/sc-5420va-601ef048fb29.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-05/originals/WI/sc-5420va-601ef048fb29.pdf",
+      "text_path": "extracted-text/601ef048fb296d8e354d75a402450f1526bd7db4f55f9e9d03b1279b952767c2.txt",
+      "acquired_at": "2026-10-15T04:20:01.814Z",
+      "receipt": {
+        "url": "https://www.wicourts.gov/formdisplay/SC-5420VA.pdf?formNumber=SC-5420VA&formType=Form&formatId=2&language=en",
+        "resolved_url": "https://www.wicourts.gov/formdisplay/SC-5420VA.pdf?formNumber=SC-5420VA&formType=Form&formatId=2&language=en",
+        "checked_at": "2026-10-15T04:20:01.814Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "last_modified": "Tue, 21 Apr 2026 00:00:00 GMT",
+        "etag": null,
+        "bytes": 205236,
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "601ef048fb296d8e354d75a402450f1526bd7db4f55f9e9d03b1279b952767c2",
+        "body_path": "evidence/http/browser-documents/601ef048fb296d8e354d75a402450f1526bd7db4f55f9e9d03b1279b952767c2.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "03/26",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/601ef048fb296d8e354d75a402450f1526bd7db4f55f9e9d03b1279b952767c2.txt",
+        "matched_text": "SC-5420VA, 03/26",
+        "method": "Confirmed in extracted original PDF text. Visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.wicourts.gov/forms1/circuit/mandatory.htm",
+      "reuse_note": "The official FAQ and filing forms restrict modification of standard forms. Original bytes are preserved. Public access does not establish blanket permission for republication or commercial reuse; reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Party declaration, stipulation, petition, or statement is supplied separately from the corresponding proposed court order. Eviction and non-eviction processes remain distinct."
+      ],
+      "related_files": [
+        "originals/WI/sc-5420vb-fb418e0ed403.pdf"
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T04-03-54.385770+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T04-03-54.385770+00-00/56bb69d3e9b2b85c57e12a78729e5774edb6df0bf69f07584af89944141b722a.body",
+          "resolved_source_url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "modification_notice_in_original": true,
+      "review_note": "Parser, identity, and printed-revision text checks do not establish visual layout, fields, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

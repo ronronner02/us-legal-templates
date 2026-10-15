@@ -1,0 +1,90 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-05/inventory.json",
+    "batch": "2026-10-15-05",
+    "record": {
+      "state": "Wisconsin",
+      "state_code": "WI",
+      "scope": "statewide",
+      "publisher": "Wisconsin Court System",
+      "source_url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38",
+      "artifact_url": "https://www.wicourts.gov/formdisplay/SC-512.pdf?formNumber=SC-512&formType=Form&formatId=2&language=en",
+      "source_link_title": "Form English",
+      "title": "Writ of Restitution/Disposal of Personal Property (Eviction)",
+      "slug": "sc-512",
+      "category": "housing_and_eviction",
+      "family_id": "SC-512",
+      "form_code": "SC-512",
+      "identity_patterns": [
+        "SC\\-512",
+        "Writ\\s+of\\s+Restitution"
+      ],
+      "source_listed_revision": "03/17/2022",
+      "source_description": "To direct the sheriff to remove the defendant and defendant's property from the premises.",
+      "source_row_text": "SC-512 Writ of Restitution/Disposal of Personal Property (Eviction) To direct the sheriff to remove the defendant and defendant's property from the premises. 03/17/2022 Form English Form English Summary English",
+      "usage_classification": "blank_writ_form",
+      "source_form_status": "not_explicitly_labeled_voluntary_in_catalog",
+      "selection_reason": "Fresh official English PDF with form, order, or procedural-guidance role recorded separately.",
+      "notes": "To direct the sheriff to remove the defendant and defendant's property from the premises.",
+      "sha256": "f2054b52f467dc86759d2942f07dee7dbfed5f4768e414b9137a5751323c010d",
+      "bytes": 206074,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 2824,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/WI/sc-512-f2054b52f467.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-05/originals/WI/sc-512-f2054b52f467.pdf",
+      "text_path": "extracted-text/f2054b52f467dc86759d2942f07dee7dbfed5f4768e414b9137a5751323c010d.txt",
+      "acquired_at": "2026-10-15T04:17:50.897Z",
+      "receipt": {
+        "url": "https://www.wicourts.gov/formdisplay/SC-512.pdf?formNumber=SC-512&formType=Form&formatId=2&language=en",
+        "resolved_url": "https://www.wicourts.gov/formdisplay/SC-512.pdf?formNumber=SC-512&formType=Form&formatId=2&language=en",
+        "checked_at": "2026-10-15T04:17:50.897Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "last_modified": "Tue, 26 Apr 2022 00:00:00 GMT",
+        "etag": null,
+        "bytes": 206074,
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "f2054b52f467dc86759d2942f07dee7dbfed5f4768e414b9137a5751323c010d",
+        "body_path": "evidence/http/browser-documents/f2054b52f467dc86759d2942f07dee7dbfed5f4768e414b9137a5751323c010d.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "03/22",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/f2054b52f467dc86759d2942f07dee7dbfed5f4768e414b9137a5751323c010d.txt",
+        "matched_text": "SC-512, 03/22",
+        "method": "Confirmed in extracted original PDF text. Visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.wicourts.gov/forms1/circuit/mandatory.htm",
+      "reuse_note": "The official FAQ and filing forms restrict modification of standard forms. Original bytes are preserved. Public access does not establish blanket permission for republication or commercial reuse; reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Unsigned blank official template. It is not an issued order, judgment, or writ; execution, filing, and acceptance remain unreviewed."
+      ],
+      "related_files": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T04-03-54.385770+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T04-03-54.385770+00-00/56bb69d3e9b2b85c57e12a78729e5774edb6df0bf69f07584af89944141b722a.body",
+          "resolved_source_url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "modification_notice_in_original": true,
+      "review_note": "Parser, identity, and printed-revision text checks do not establish visual layout, fields, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

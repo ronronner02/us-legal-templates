@@ -1,0 +1,153 @@
+[
+  {
+    "inventory": "organized-library/00_Index/all-records.json",
+    "batch": "Original organized snapshot",
+    "record": {
+      "record_id": "723e9dceec82d2ebbfac9ef7",
+      "document_id": "96e4c7c5af65966a3bf454ad",
+      "state_code": "IL",
+      "state_name": "Illinois",
+      "scope": "state",
+      "legal_category": "employment",
+      "expected_document_types": [
+        "employment_government_form",
+        "independent_contractor"
+      ],
+      "title": "Illinois Freelance Worker Protection Act Complaint",
+      "document_type": "freelance_worker_complaint",
+      "publisher": "Illinois Department of Labor",
+      "source_type": "government",
+      "source_page_url": "https://labor.illinois.gov/file-a-workplace-complaint.html",
+      "original_file_url": "https://labor.illinois.gov/content/dam/soi/en/web/idol/laws-rules/legal/documents/freelance-worker-protection-act/IDOL_Freelance%20Worker%20Protection%20Act%20(FLWPA)%20Complaint%20Form.pdf",
+      "local_path": "data/files/e5f0a82df6957f54bf96ba75ce7563e7e5c34d13c0a47498418d6adc3a641ed9.pdf",
+      "sha256": "e5f0a82df6957f54bf96ba75ce7563e7e5c34d13c0a47498418d6adc3a641ed9",
+      "bytes": 309306,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 2896,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/AMGHIT+Interstate-Light', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 32, '/FontDescriptor': IndirectObject(351, 0, 1829299188464), '/LastChar': 84, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [260, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 678, 626, 0, 658, 587, 548, 0, 0, 0, 0, 0, 575, 788, 688, 705, 618, 0, 650, 0, 588]}, but is not installed. Consider installing fontTools if you encounter encoding problems.",
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/AMGHIT+Interstate-Black', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 73, '/FontDescriptor': IndirectObject(353, 0, 1829299188464), '/LastChar': 83, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [350, 0, 0, 615, 0, 756, 732, 0, 0, 0, 679]}, but is not installed. Consider installing fontTools if you encounter encoding problems."
+      ],
+      "recorded_sha256": "e5f0a82df6957f54bf96ba75ce7563e7e5c34d13c0a47498418d6adc3a641ed9",
+      "hash_match": "matched",
+      "downloaded": true,
+      "acquired_at": "2026-10-14T03:03:26.706895+00:00",
+      "local_checked_at": "2026-10-14T07:26:10.515294+00:00",
+      "last_verified_at": "2026-10-14T03:03:26.706895+00:00",
+      "published_date": "unknown",
+      "effective_date": "unknown",
+      "version": "N-01-25; WEB IOCI 25-1314",
+      "document_status": "unknown",
+      "currency_review": "manual_review_required",
+      "copyright_status": "permission_unclear",
+      "license_name": "unknown",
+      "license_url": "https://www.illinois.gov/about/privacy.html",
+      "commercial_use_allowed": "unknown",
+      "redistribution_allowed": "unknown",
+      "modification_allowed": "unknown",
+      "attribution_required": "unknown",
+      "terms_reviewed_at": "2026-10-14T02:49:04.241546+00:00",
+      "permission_evidence": "Linked Illinois privacy and disclaimer page reviewed. No document-specific commercial copying, modification or redistribution grant verified. Evidence: evidence/http/2026-10-14T02-48-42.721050+00-00/373f9eafdb9e54564ebf2fcc0adb828d1dc9d8b2698c2852f31c46f675bc49c0.body. Official hosting and successful download do not establish permission. All rights decisions remain open.",
+      "legal_review_status": "manual_review_required",
+      "publication_status": "not_approved",
+      "linking_permission": "manual_review_required",
+      "provenance_ref": "evidence/http/2026-10-14T03-02-30.338942+00-00/requests.json",
+      "source_link_status": "exact-link-on-fetched-official-page-and-received-document-bytes",
+      "authority_review_status": "verified_official",
+      "new_download": true,
+      "flags": [
+        "text-extraction-warnings-review-required",
+        "legal-currency-and-reuse-review-required"
+      ],
+      "text_path": "data/text/e5f0a82df6957f54bf96ba75ce7563e7e5c34d13c0a47498418d6adc3a641ed9.txt",
+      "catalog_role": "form_or_legal_document",
+      "date_evidence": [
+        "WEB IOCI 25-1314"
+      ],
+      "scope_review": "Labor agency complaint form; not an employment agreement or determination of employee status. Linked privacy notice is not a reuse license.",
+      "source_page_evidence": "evidence/http/2026-10-14T02-48-42.721050+00-00/d4b4f55be1238e37c57ff5ec3697f151ed0aa272cd0f0d6d4c617a0f613581bc.body",
+      "bundle_path": "01_Review_Required/01_State_Documents/IL_Illinois/E_Employment/IL-Illinois-Freelance-Worker-Protection-Act-Complaint--e5f0a82df695.pdf",
+      "bundle_section": "State documents",
+      "metadata_path": "00_Index/metadata/e5f0a82df6957f54bf96ba75ce7563e7e5c34d13c0a47498418d6adc3a641ed9.json",
+      "record_aliases": [
+        {
+          "record_id": "723e9dceec82d2ebbfac9ef7",
+          "document_id": "96e4c7c5af65966a3bf454ad",
+          "state_code": "IL",
+          "state_name": "Illinois",
+          "scope": "state",
+          "legal_category": "employment",
+          "expected_document_types": [
+            "employment_government_form",
+            "independent_contractor"
+          ],
+          "title": "Illinois Freelance Worker Protection Act Complaint",
+          "document_type": "freelance_worker_complaint",
+          "publisher": "Illinois Department of Labor",
+          "source_type": "government",
+          "source_page_url": "https://labor.illinois.gov/file-a-workplace-complaint.html",
+          "original_file_url": "https://labor.illinois.gov/content/dam/soi/en/web/idol/laws-rules/legal/documents/freelance-worker-protection-act/IDOL_Freelance%20Worker%20Protection%20Act%20(FLWPA)%20Complaint%20Form.pdf",
+          "local_path": "data/files/e5f0a82df6957f54bf96ba75ce7563e7e5c34d13c0a47498418d6adc3a641ed9.pdf",
+          "sha256": "e5f0a82df6957f54bf96ba75ce7563e7e5c34d13c0a47498418d6adc3a641ed9",
+          "bytes": 309306,
+          "format": "pdf",
+          "validation_status": "parser_passed",
+          "pages": 2,
+          "text_length": 2896,
+          "ocr_status": "not_needed",
+          "encrypted": false,
+          "parser_warnings": [
+            "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/AMGHIT+Interstate-Light', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 32, '/FontDescriptor': IndirectObject(351, 0, 1829299188464), '/LastChar': 84, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [260, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 678, 626, 0, 658, 587, 548, 0, 0, 0, 0, 0, 575, 788, 688, 705, 618, 0, 650, 0, 588]}, but is not installed. Consider installing fontTools if you encounter encoding problems.",
+            "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/AMGHIT+Interstate-Black', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 73, '/FontDescriptor': IndirectObject(353, 0, 1829299188464), '/LastChar': 83, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [350, 0, 0, 615, 0, 756, 732, 0, 0, 0, 679]}, but is not installed. Consider installing fontTools if you encounter encoding problems."
+          ],
+          "recorded_sha256": "e5f0a82df6957f54bf96ba75ce7563e7e5c34d13c0a47498418d6adc3a641ed9",
+          "hash_match": "matched",
+          "downloaded": true,
+          "acquired_at": "2026-10-14T03:03:26.706895+00:00",
+          "local_checked_at": "2026-10-14T07:26:10.515294+00:00",
+          "last_verified_at": "2026-10-14T03:03:26.706895+00:00",
+          "published_date": "unknown",
+          "effective_date": "unknown",
+          "version": "N-01-25; WEB IOCI 25-1314",
+          "document_status": "unknown",
+          "currency_review": "manual_review_required",
+          "copyright_status": "permission_unclear",
+          "license_name": "unknown",
+          "license_url": "https://www.illinois.gov/about/privacy.html",
+          "commercial_use_allowed": "unknown",
+          "redistribution_allowed": "unknown",
+          "modification_allowed": "unknown",
+          "attribution_required": "unknown",
+          "terms_reviewed_at": "2026-10-14T02:49:04.241546+00:00",
+          "permission_evidence": "Linked Illinois privacy and disclaimer page reviewed. No document-specific commercial copying, modification or redistribution grant verified. Evidence: evidence/http/2026-10-14T02-48-42.721050+00-00/373f9eafdb9e54564ebf2fcc0adb828d1dc9d8b2698c2852f31c46f675bc49c0.body. Official hosting and successful download do not establish permission. All rights decisions remain open.",
+          "legal_review_status": "manual_review_required",
+          "publication_status": "not_approved",
+          "linking_permission": "manual_review_required",
+          "provenance_ref": "evidence/http/2026-10-14T03-02-30.338942+00-00/requests.json",
+          "source_link_status": "exact-link-on-fetched-official-page-and-received-document-bytes",
+          "authority_review_status": "verified_official",
+          "new_download": true,
+          "flags": [
+            "text-extraction-warnings-review-required",
+            "legal-currency-and-reuse-review-required"
+          ],
+          "text_path": "data/text/e5f0a82df6957f54bf96ba75ce7563e7e5c34d13c0a47498418d6adc3a641ed9.txt",
+          "catalog_role": "form_or_legal_document",
+          "date_evidence": [
+            "WEB IOCI 25-1314"
+          ],
+          "scope_review": "Labor agency complaint form; not an employment agreement or determination of employee status. Linked privacy notice is not a reuse license.",
+          "source_page_evidence": "evidence/http/2026-10-14T02-48-42.721050+00-00/d4b4f55be1238e37c57ff5ec3697f151ed0aa272cd0f0d6d4c617a0f613581bc.body"
+        }
+      ],
+      "original_physical_paths": [
+        "data/files/e5f0a82df6957f54bf96ba75ce7563e7e5c34d13c0a47498418d6adc3a641ed9.pdf"
+      ],
+      "bundle_text_path": "00_Index/extracted-text/e5f0a82df6957f54bf96ba75ce7563e7e5c34d13c0a47498418d6adc3a641ed9.txt"
+    }
+  }
+]

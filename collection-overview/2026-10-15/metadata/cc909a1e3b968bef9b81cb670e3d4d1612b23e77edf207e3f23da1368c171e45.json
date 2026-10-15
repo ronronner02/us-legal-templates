@@ -1,0 +1,81 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "West Virginia",
+      "state_code": "WV",
+      "scope": "state",
+      "publisher": "West Virginia Real Estate Commission",
+      "source_url": "https://rec.wv.gov/Forms/Pages/default.aspx",
+      "artifact_url": "https://rec.wv.gov/media/32/download?inline",
+      "source_link_title": "Trust Fund Account",
+      "title": "Trust Fund Account",
+      "slug": "trust-fund-account",
+      "category": "Real estate",
+      "family_id": "trust-fund-account",
+      "identity_patterns": [
+        "trust",
+        "account"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Brokerage regulatory account form.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": null,
+      "sha256": "cc909a1e3b968bef9b81cb670e3d4d1612b23e77edf207e3f23da1368c171e45",
+      "bytes": 205277,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 2429,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/WV/trust-fund-account-cc909a1e3b96.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/WV/trust-fund-account-cc909a1e3b96.pdf",
+      "text_path": "extracted-text/cc909a1e3b968bef9b81cb670e3d4d1612b23e77edf207e3f23da1368c171e45.txt",
+      "acquired_at": "2026-10-15T01:58:25.601521+00:00",
+      "receipt": {
+        "url": "https://rec.wv.gov/media/32/download?inline",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:58:25.601521+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": null,
+        "last_modified": "Mon, 05 Oct 2026 17:55:16 GMT",
+        "status": "fetched",
+        "sha256": "cc909a1e3b968bef9b81cb670e3d4d1612b23e77edf207e3f23da1368c171e45",
+        "bytes": 205277,
+        "body_path": "evidence/http/2026-10-15T01-54-36.419563+00-00/cc909a1e3b968bef9b81cb670e3d4d1612b23e77edf207e3f23da1368c171e45.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-52-44.093538+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/e90616f0fcdcd79110caf91cad05900c25fc08b0d440005cf8ff2f685e8260ac.body",
+          "resolved_source_url": "https://rec.wv.gov/forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [
+        "originals/WV/trust-fund-account-waiver-22cbe3051082.pdf"
+      ],
+      "quality_notes": [],
+      "edition_classification": "unverified",
+      "usage_classification": "real_estate_regulatory_form",
+      "copyright_review": "pending",
+      "reuse_note": "Official public download does not establish general modification, resale, or republication permission. Review the captured state legal notices and document-specific restrictions before reuse.",
+      "rights_source_url": "https://www.wv.gov/policies/legal-notices",
+      "revision_text_candidates": [
+        "_______updated information for an existing trust fund account (e.g. n"
+      ],
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

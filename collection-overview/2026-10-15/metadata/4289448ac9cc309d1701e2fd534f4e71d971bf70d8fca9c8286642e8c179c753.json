@@ -1,0 +1,39 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://missourilawyershelp.org/wp-content/uploads/2024/08/DPOA-Fillable-2024.pdf",
+      "source_url": "https://missourilawyershelp.org/legal-topics/durable-power-of-attorney-for-health/",
+      "category": "Estate and personal planning",
+      "document_type": "Durable Power of Attorney for Health Care and Health Care Directive",
+      "title": "Durable Power of Attorney for Health Care and Health Care Directive",
+      "family_id": "combined-advance-directives",
+      "form_id": null,
+      "scope": "state",
+      "state": "Missouri",
+      "jurisdiction": "Missouri",
+      "publisher": "The Missouri Bar",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-09/07-durable-power-of-attorney-for-health-care-and-health-care-directive-4289448ac9cc.pdf",
+      "sha256": "4289448ac9cc309d1701e2fd534f4e71d971bf70d8fca9c8286642e8c179c753",
+      "acquired_at": "2026-10-14T09:58:58.577Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [
+        "bar-publisher-not-government",
+        "reuse-review-required"
+      ],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-09/07-durable-power-of-attorney-for-health-care-and-health-care-directive-4289448ac9cc.pdf"
+    }
+  }
+]

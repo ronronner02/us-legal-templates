@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://courtselfhelp.idaho.gov/docs/forms/CAO_SC_1-2.pdf",
+      "source_url": "https://courtselfhelp.idaho.gov/Forms/claims",
+      "category": "Court procedure",
+      "document_type": "Small Claims Claim",
+      "title": "Small Claims Claim",
+      "family_id": "small-claims-complaint",
+      "form_id": "CAO SC 1-2",
+      "scope": "state",
+      "state": "Idaho",
+      "jurisdiction": "Idaho",
+      "publisher": "Idaho Court Assistance Office",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/06-small-claims-summons-d1d9abd8fa0d.pdf",
+      "sha256": "d1d9abd8fa0d7e064dd9d4d28627b0068e2ccb3d46a3ad82f650adef1b1efa59",
+      "acquired_at": "2026-10-14T09:39:58.181Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-and-form-id-checked",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/06-small-claims-summons-d1d9abd8fa0d.pdf"
+    }
+  }
+]

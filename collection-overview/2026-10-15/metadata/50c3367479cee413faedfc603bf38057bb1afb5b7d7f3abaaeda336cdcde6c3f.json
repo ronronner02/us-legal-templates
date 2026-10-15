@@ -1,0 +1,149 @@
+[
+  {
+    "inventory": "organized-library/00_Index/all-records.json",
+    "batch": "Original organized snapshot",
+    "record": {
+      "record_id": "1d0c400dc8ca8d005a3fc0ca",
+      "document_id": "9f2d3207bbd9f505de85f1f9",
+      "state_code": "KY",
+      "state_name": "Kentucky",
+      "scope": "state",
+      "legal_category": "court_general",
+      "expected_document_types": [
+        "civil"
+      ],
+      "title": "AOC-175 Small Claims Complaint",
+      "document_type": "civil",
+      "publisher": "Kentucky judiciary (seed; identity pending review)",
+      "source_type": "court",
+      "source_page_url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx",
+      "original_file_url": "https://www.kycourts.gov/Legal-Forms/Legal Forms/175.pdf",
+      "local_path": "data/files/50c3367479cee413faedfc603bf38057bb1afb5b7d7f3abaaeda336cdcde6c3f.pdf",
+      "sha256": "50c3367479cee413faedfc603bf38057bb1afb5b7d7f3abaaeda336cdcde6c3f",
+      "bytes": 244343,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 5538,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/CXTEHE+AGaramond-SemiboldItalic', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 32, '/FontDescriptor': IndirectObject(229, 0, 1829299186064), '/LastChar': 120, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [255, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 470, 0, 0, 0, 370, 0, 0, 0, 291, 281, 0, 260, 0, 0, 0, 0, 0, 0, 290, 304, 520, 0, 0, 435]}, but is not installed. Consider installing fontTools if you encounter encoding problems.",
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/BTEYTG+AGaramond-Bold', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 65, '/FontDescriptor': IndirectObject(231, 0, 1829299186064), '/LastChar': 89, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [624, 0, 689, 0, 593, 548, 0, 806, 0, 0, 715, 585, 908, 748, 788, 0, 0, 0, 0, 645, 740, 0, 960, 0, 575]}, but is not installed. Consider installing fontTools if you encounter encoding problems.",
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/BTEYTG+Georgia-Bold', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 67, '/FontDescriptor': IndirectObject(233, 0, 1829299186064), '/LastChar': 85, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [715, 0, 721, 671, 0, 0, 446, 595, 0, 0, 0, 0, 820, 0, 0, 797, 649, 684, 833]}, but is not installed. Consider installing fontTools if you encounter encoding problems."
+      ],
+      "recorded_sha256": "50c3367479cee413faedfc603bf38057bb1afb5b7d7f3abaaeda336cdcde6c3f",
+      "hash_match": "matched",
+      "downloaded": true,
+      "acquired_at": "2026-10-12T04:19:11.511605+00:00",
+      "local_checked_at": "2026-10-14T07:26:10.515294+00:00",
+      "last_verified_at": "2026-10-12T04:19:11.511605+00:00",
+      "published_date": "unknown",
+      "effective_date": "unknown",
+      "version": "unknown",
+      "document_status": "unknown",
+      "currency_review": "manual_review_required",
+      "copyright_status": "permission_unclear",
+      "license_name": "unknown",
+      "license_url": "unknown",
+      "commercial_use_allowed": "unknown",
+      "redistribution_allowed": "unknown",
+      "modification_allowed": "unknown",
+      "attribution_required": "unknown",
+      "terms_reviewed_at": "unknown",
+      "permission_evidence": "No document-specific reuse approval recorded.",
+      "legal_review_status": "manual_review_required",
+      "publication_status": "not_approved",
+      "linking_permission": "manual_review_required",
+      "provenance_ref": "evidence/http/2026-10-12T04-19-02.195024+00-00/requests.json",
+      "source_link_status": "link-observed-on-fetched-source-page",
+      "authority_review_status": "verified_official",
+      "new_download": true,
+      "flags": [
+        "text-extraction-warnings-review-required"
+      ],
+      "text_path": "data/text/50c3367479cee413faedfc603bf38057bb1afb5b7d7f3abaaeda336cdcde6c3f.txt",
+      "catalog_role": "form_or_legal_document",
+      "date_evidence": [
+        "Rev. 4-26",
+        "Rev. 4-26"
+      ],
+      "bundle_path": "01_Review_Required/01_State_Documents/KY_Kentucky/D_Court_and_General_Legal/KY-AOC-175-Small-Claims-Complaint--50c3367479ce.pdf",
+      "bundle_section": "State documents",
+      "metadata_path": "00_Index/metadata/50c3367479cee413faedfc603bf38057bb1afb5b7d7f3abaaeda336cdcde6c3f.json",
+      "record_aliases": [
+        {
+          "record_id": "1d0c400dc8ca8d005a3fc0ca",
+          "document_id": "9f2d3207bbd9f505de85f1f9",
+          "state_code": "KY",
+          "state_name": "Kentucky",
+          "scope": "state",
+          "legal_category": "court_general",
+          "expected_document_types": [
+            "civil"
+          ],
+          "title": "AOC-175 Small Claims Complaint",
+          "document_type": "civil",
+          "publisher": "Kentucky judiciary (seed; identity pending review)",
+          "source_type": "court",
+          "source_page_url": "https://www.kycourts.gov/Legal-Forms/Pages/default.aspx",
+          "original_file_url": "https://www.kycourts.gov/Legal-Forms/Legal Forms/175.pdf",
+          "local_path": "data/files/50c3367479cee413faedfc603bf38057bb1afb5b7d7f3abaaeda336cdcde6c3f.pdf",
+          "sha256": "50c3367479cee413faedfc603bf38057bb1afb5b7d7f3abaaeda336cdcde6c3f",
+          "bytes": 244343,
+          "format": "pdf",
+          "validation_status": "parser_passed",
+          "pages": 2,
+          "text_length": 5538,
+          "ocr_status": "not_needed",
+          "encrypted": false,
+          "parser_warnings": [
+            "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/CXTEHE+AGaramond-SemiboldItalic', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 32, '/FontDescriptor': IndirectObject(229, 0, 1829299186064), '/LastChar': 120, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [255, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 470, 0, 0, 0, 370, 0, 0, 0, 291, 281, 0, 260, 0, 0, 0, 0, 0, 0, 290, 304, 520, 0, 0, 435]}, but is not installed. Consider installing fontTools if you encounter encoding problems.",
+            "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/BTEYTG+AGaramond-Bold', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 65, '/FontDescriptor': IndirectObject(231, 0, 1829299186064), '/LastChar': 89, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [624, 0, 689, 0, 593, 548, 0, 806, 0, 0, 715, 585, 908, 748, 788, 0, 0, 0, 0, 645, 740, 0, 960, 0, 575]}, but is not installed. Consider installing fontTools if you encounter encoding problems.",
+            "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/BTEYTG+Georgia-Bold', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 67, '/FontDescriptor': IndirectObject(233, 0, 1829299186064), '/LastChar': 85, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [715, 0, 721, 671, 0, 0, 446, 595, 0, 0, 0, 0, 820, 0, 0, 797, 649, 684, 833]}, but is not installed. Consider installing fontTools if you encounter encoding problems."
+          ],
+          "recorded_sha256": "50c3367479cee413faedfc603bf38057bb1afb5b7d7f3abaaeda336cdcde6c3f",
+          "hash_match": "matched",
+          "downloaded": true,
+          "acquired_at": "2026-10-12T04:19:11.511605+00:00",
+          "local_checked_at": "2026-10-14T07:26:10.515294+00:00",
+          "last_verified_at": "2026-10-12T04:19:11.511605+00:00",
+          "published_date": "unknown",
+          "effective_date": "unknown",
+          "version": "unknown",
+          "document_status": "unknown",
+          "currency_review": "manual_review_required",
+          "copyright_status": "permission_unclear",
+          "license_name": "unknown",
+          "license_url": "unknown",
+          "commercial_use_allowed": "unknown",
+          "redistribution_allowed": "unknown",
+          "modification_allowed": "unknown",
+          "attribution_required": "unknown",
+          "terms_reviewed_at": "unknown",
+          "permission_evidence": "No document-specific reuse approval recorded.",
+          "legal_review_status": "manual_review_required",
+          "publication_status": "not_approved",
+          "linking_permission": "manual_review_required",
+          "provenance_ref": "evidence/http/2026-10-12T04-19-02.195024+00-00/requests.json",
+          "source_link_status": "link-observed-on-fetched-source-page",
+          "authority_review_status": "verified_official",
+          "new_download": true,
+          "flags": [
+            "text-extraction-warnings-review-required"
+          ],
+          "text_path": "data/text/50c3367479cee413faedfc603bf38057bb1afb5b7d7f3abaaeda336cdcde6c3f.txt",
+          "catalog_role": "form_or_legal_document",
+          "date_evidence": [
+            "Rev. 4-26",
+            "Rev. 4-26"
+          ]
+        }
+      ],
+      "original_physical_paths": [
+        "data/files/50c3367479cee413faedfc603bf38057bb1afb5b7d7f3abaaeda336cdcde6c3f.pdf"
+      ],
+      "bundle_text_path": "00_Index/extracted-text/50c3367479cee413faedfc603bf38057bb1afb5b7d7f3abaaeda336cdcde6c3f.txt"
+    }
+  }
+]

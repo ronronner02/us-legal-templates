@@ -1,0 +1,86 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-04/inventory.json",
+    "batch": "2026-10-15-04",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "Maine Judicial Branch; civil, housing, small claims, or judgment procedure according to the form",
+      "publisher": "State of Maine Judicial Branch",
+      "source_url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/Index",
+      "artifact_url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=SC-007",
+      "source_link_title": "SC-007",
+      "source_row_text": "SC-007 | Notice of Small Claims Appeal | 2/1/2020",
+      "source_listed_revision": "2/1/2020",
+      "title": "Notice of Small Claims Appeal",
+      "slug": "sc-007",
+      "form_code": "SC-007",
+      "category": "Small claims",
+      "family_id": "me-sc-007",
+      "identity_patterns": [
+        "SC[- ]?007",
+        "SMALL\\s+CLAIMS\\s+APPEAL"
+      ],
+      "selection_reason": "Official civil or housing form or instructions not present in baseline URL inventories.",
+      "notes": "Preserved blank original or official instructions. Court, case type, service, companion-document, and filing conditions require individual review. Catalog revision is separate from printed revision and HTTP Last-Modified.",
+      "sha256": "dd91c70ae114ce1b08d68746956282dd475fbb16c106f802f56193168566e819",
+      "bytes": 182415,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 3063,
+      "ocr_status": "not_needed",
+      "encrypted": true,
+      "encryption_note": "Opens through the parser's standard password-free reader; encryption flag retained and modification permissions require review.",
+      "parser_warnings": [],
+      "local_path": "originals/ME/sc-007-dd91c70ae114.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-04/originals/ME/sc-007-dd91c70ae114.pdf",
+      "text_path": "extracted-text/dd91c70ae114ce1b08d68746956282dd475fbb16c106f802f56193168566e819.txt",
+      "acquired_at": "2026-10-15T03:37:52.147258+00:00",
+      "receipt": {
+        "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=SC-007",
+        "kind": "document",
+        "checked_at": "2026-10-15T03:37:52.147258+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": null,
+        "last_modified": null,
+        "status": "fetched",
+        "sha256": "dd91c70ae114ce1b08d68746956282dd475fbb16c106f802f56193168566e819",
+        "bytes": 182415,
+        "body_path": "evidence/http/2026-10-15T03-35-17.158608+00-00/dd91c70ae114ce1b08d68746956282dd475fbb16c106f802f56193168566e819.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "02/20",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/dd91c70ae114ce1b08d68746956282dd475fbb16c106f802f56193168566e819.txt",
+        "matched_text": "SC-007, Rev. 02/20",
+        "method": "Confirmed in extracted original PDF text. Visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.courts.maine.gov/forms/index.html",
+      "reuse_note": "Judicial Branch landing page reserves copyright. Download availability does not establish a broad grant for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "related_files": [],
+      "quality_notes": [
+        "PDF reports encryption/security settings and opens through the parser standard password-free reader. No passwords, security settings, fields, or original bytes were changed. Modification permissions and compatible-viewer behavior remain unreviewed."
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T03-33-13.510223+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T03-33-13.510223+00-00/155abf7a5ef425119f9586065dc97bb2df114f09258cd1f8461ce92ea4882935.body",
+          "resolved_source_url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/Index"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "review_note": "Parser, identity, and printed-revision text checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

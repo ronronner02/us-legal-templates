@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20250110/221034-220311-civilcomplaint-000771.pdf",
+      "source_url": "https://www.pacourts.us/forms/for-the-public",
+      "category": "Court procedure",
+      "document_type": "Civil Complaint (Magisterial District Court)",
+      "title": "Civil Complaint (Magisterial District Court)",
+      "family_id": "civil-complaint",
+      "form_id": null,
+      "scope": "state",
+      "state": "Pennsylvania",
+      "jurisdiction": "Pennsylvania",
+      "publisher": "Unified Judicial System of Pennsylvania",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-03/02-civil-complaint-magisterial-district-court-b09829142853.pdf",
+      "sha256": "b098291428530b7fb0164ab5458d6bef317a9daa47b218b0e6ed4519d9bc9857",
+      "acquired_at": "2026-10-14T09:05:36.863Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-03/02-civil-complaint-magisterial-district-court-b09829142853.pdf"
+    }
+  }
+]

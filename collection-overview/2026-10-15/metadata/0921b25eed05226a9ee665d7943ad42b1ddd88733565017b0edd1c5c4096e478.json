@@ -1,0 +1,90 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-05/inventory.json",
+    "batch": "2026-10-15-05",
+    "record": {
+      "state": "Wisconsin",
+      "state_code": "WI",
+      "scope": "statewide",
+      "publisher": "Wisconsin Court System",
+      "source_url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38",
+      "artifact_url": "https://www.wicourts.gov/formdisplay/SC-5130V.pdf?formNumber=SC-5130V&formType=Form&formatId=2&language=en",
+      "source_link_title": "Form English",
+      "title": "Declaration of Mailing (Small Claims)",
+      "slug": "sc-5130v",
+      "category": "small_claims_and_civil_procedure",
+      "family_id": "SC-5130V",
+      "form_code": "SC-5130V",
+      "identity_patterns": [
+        "SC\\-5130V",
+        "Small\\s+Claims"
+      ],
+      "source_listed_revision": "09/12/2024",
+      "source_description": "For a person who has served documents by mail upon (mailed documents to) another person to provide the necessary information concerning that service. Voluntary form.",
+      "source_row_text": "SC-5130V Declaration of Mailing (Small Claims) For a person who has served documents by mail upon (mailed documents to) another person to provide the necessary information concerning that service. Voluntary form. 09/12/2024 Form English Form English Summary English",
+      "usage_classification": "court_procedural_form",
+      "source_form_status": "voluntary",
+      "selection_reason": "Fresh official English PDF with form, order, or procedural-guidance role recorded separately.",
+      "notes": "For a person who has served documents by mail upon (mailed documents to) another person to provide the necessary information concerning that service. Voluntary form.",
+      "sha256": "0921b25eed05226a9ee665d7943ad42b1ddd88733565017b0edd1c5c4096e478",
+      "bytes": 215612,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1790,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/WI/sc-5130v-0921b25eed05.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-05/originals/WI/sc-5130v-0921b25eed05.pdf",
+      "text_path": "extracted-text/0921b25eed05226a9ee665d7943ad42b1ddd88733565017b0edd1c5c4096e478.txt",
+      "acquired_at": "2026-10-15T04:18:45.774Z",
+      "receipt": {
+        "url": "https://www.wicourts.gov/formdisplay/SC-5130V.pdf?formNumber=SC-5130V&formType=Form&formatId=2&language=en",
+        "resolved_url": "https://www.wicourts.gov/formdisplay/SC-5130V.pdf?formNumber=SC-5130V&formType=Form&formatId=2&language=en",
+        "checked_at": "2026-10-15T04:18:45.774Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "last_modified": "Mon, 14 Apr 2025 00:00:00 GMT",
+        "etag": null,
+        "bytes": 215612,
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "0921b25eed05226a9ee665d7943ad42b1ddd88733565017b0edd1c5c4096e478",
+        "body_path": "evidence/http/browser-documents/0921b25eed05226a9ee665d7943ad42b1ddd88733565017b0edd1c5c4096e478.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "05/24",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/0921b25eed05226a9ee665d7943ad42b1ddd88733565017b0edd1c5c4096e478.txt",
+        "matched_text": "SC-5130V, 05/24",
+        "method": "Confirmed in extracted original PDF text. Visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.wicourts.gov/forms1/circuit/mandatory.htm",
+      "reuse_note": "The official FAQ and filing forms restrict modification of standard forms. Original bytes are preserved. Public access does not establish blanket permission for republication or commercial reuse; reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Catalog revision is 09/12/2024; supplied original prints 05/24. Both observations are retained without inferring the cause or silently normalizing the edition."
+      ],
+      "related_files": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T04-03-54.385770+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T04-03-54.385770+00-00/56bb69d3e9b2b85c57e12a78729e5774edb6df0bf69f07584af89944141b722a.body",
+          "resolved_source_url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38"
+        }
+      ],
+      "source_revision_matches_printed_month_year": false,
+      "modification_notice_in_original": true,
+      "review_note": "Parser, identity, and printed-revision text checks do not establish visual layout, fields, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

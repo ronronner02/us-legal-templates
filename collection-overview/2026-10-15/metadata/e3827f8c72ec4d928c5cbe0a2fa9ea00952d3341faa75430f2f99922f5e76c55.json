@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.in.gov/idr/files/Advanced-Directive-Planning-Sheet-Final-Eng-23.6.10-1.pdf",
+      "source_url": "https://www.in.gov/idr/advanced-directive-resources/",
+      "category": "Estate and personal planning",
+      "document_type": "Advance Directive Planning Sheet",
+      "title": "Advance Directive Planning Sheet",
+      "family_id": "advance-care-planning-worksheet",
+      "form_id": null,
+      "scope": "state",
+      "state": "Indiana",
+      "jurisdiction": "Indiana",
+      "publisher": "Indiana Disability Rights",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14/11-advance-directive-planning-sheet-e3827f8c72ec.pdf",
+      "sha256": "e3827f8c72ec4d928c5cbe0a2fa9ea00952d3341faa75430f2f99922f5e76c55",
+      "acquired_at": "2026-10-14T09:01:01.816Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14/11-advance-directive-planning-sheet-e3827f8c72ec.pdf"
+    }
+  }
+]

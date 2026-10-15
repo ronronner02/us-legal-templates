@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.vtcourts.gov/media/12554",
+      "source_url": "https://www.vtcourts.gov/probate/estates-and-wills",
+      "category": "Estate and personal planning",
+      "document_type": "Affidavit of Paid and Outstanding Funeral Expenses and Debts for Small Estate",
+      "title": "Affidavit of Paid and Outstanding Funeral Expenses and Debts for Small Estate",
+      "family_id": "small-estate-debt-affidavit",
+      "form_id": "700-00402",
+      "scope": "state",
+      "state": "Vermont",
+      "jurisdiction": "Vermont",
+      "publisher": "Vermont Judiciary",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-02/03-affidavit-of-paid-and-outstanding-funeral-expenses-and-debts-for-small-estate-d38fcd0fb6dc.pdf",
+      "sha256": "d38fcd0fb6dce2e051c4722f03c606ce75ebf98f3abf650c0bd82f4305bc75ed",
+      "acquired_at": "2026-10-14T09:03:54.826Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-02/03-affidavit-of-paid-and-outstanding-funeral-expenses-and-debts-for-small-estate-d38fcd0fb6dc.pdf"
+    }
+  }
+]

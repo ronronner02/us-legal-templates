@@ -1,0 +1,114 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-07/inventory.json",
+    "batch": "2026-10-15-07",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/family/forms/ccgn003.pdf/ccgn003.pdf",
+      "source_link_title": "Answer to Petition for Guardianship of Minor",
+      "title": "Answer to Petition for Guardianship of Minor",
+      "slug": "cc-gn-003",
+      "category": "guardianship",
+      "family_id": "CC-GN-003",
+      "form_code": "CC-GN-003",
+      "identity_patterns": [
+        "CC\\s*-\\s*GN\\s*-\\s*003",
+        "ANSWER\\s+TO\\s+PETITION\\s+FOR\\s+GUARDIANSHIP\\s+OF\\s+MINOR"
+      ],
+      "source_listed_revision": "10/2026",
+      "source_description": "Use this form to respond to or \"answer\" a petition for guardianship of a minor that has been filed with the court.",
+      "source_row_text": "CC-GN-003 Answer to Petition for Guardianship of Minor 10/2026 Use this form to respond to or \"answer\" a petition for guardianship of a minor that has been filed with the court.",
+      "usage_classification": "court_procedural_form",
+      "selection_reason": "Fresh official English protective-order, peace-order, guardianship, or name-change original, with procedural roles retained separately.",
+      "notes": "Use this form to respond to or \"answer\" a petition for guardianship of a minor that has been filed with the court.",
+      "sha256": "ce2597e44d2a63111c8c5c00ece00b71456ac4bd3c506142b7b7e23fdb23c20b",
+      "bytes": 901427,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 3,
+      "text_length": 6695,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-gn-003-ce2597e44d2a.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-07/originals/MD/cc-gn-003-ce2597e44d2a.pdf",
+      "text_path": "extracted-text/ce2597e44d2a63111c8c5c00ece00b71456ac4bd3c506142b7b7e23fdb23c20b.txt",
+      "acquired_at": "2026-10-15T06:50:05.882Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/family/forms/ccgn003.pdf/ccgn003.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/family/forms/ccgn003.pdf/ccgn003.pdf",
+        "checked_at": "2026-10-15T06:50:05.882Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "headers": {
+          "date": "Thu, 15 Oct 2026 06:50:06 GMT",
+          "content-type": "application/pdf",
+          "content-length": "901427",
+          "connection": "keep-alive",
+          "server": "cloudflare",
+          "x-content-type-options": "nosniff",
+          "last-modified": "Fri, 09 Oct 2026 18:41:28 GMT",
+          "etag": "\"dc133-65d6cb23bae31\"",
+          "accept-ranges": "bytes",
+          "cache-control": "public, max-age=14400",
+          "expires": "Thu, 15 Oct 2026 10:50:06 GMT",
+          "cf-cache-status": "BYPASS",
+          "cf-ray": "a4ace33e49770465-HKG"
+        },
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "ce2597e44d2a63111c8c5c00ece00b71456ac4bd3c506142b7b7e23fdb23c20b",
+        "bytes": 901427,
+        "body_path": "evidence/http/browser-documents/ce2597e44d2a63111c8c5c00ece00b71456ac4bd3c506142b7b7e23fdb23c20b.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "10/2026",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/ce2597e44d2a63111c8c5c00ece00b71456ac4bd3c506142b7b7e23fdb23c20b.txt",
+        "matched_text": "CC-GN-003 (Rev. 10/2026)",
+        "all_matching_markers": [
+          "CC-GN-003 (Rev. 10/2026)",
+          "CC-GN-003 (Rev. 10/2026)",
+          "CC\n-GN-003 (Rev. 10/2026)"
+        ],
+        "method": "Verified in extracted PDF text; whitespace normalized in metadata. Visual confirmation not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public downloading does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Answer addresses a minor guardianship petition. It is not the answer to an alleged-disabled-person petition; service and additional companions remain unreviewed."
+      ],
+      "related_files": [
+        "originals/MD/cc-gn-001-397181ea2c4d.pdf"
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/de692470b4f80f5324d687bc61d93c3d173afa4c716f650a7ae6d31202186ca0.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": false,
+      "mdj_008_notice_reference_present": false,
+      "referenced_form_codes": [
+        "CC-DC-128",
+        "CC-GN-003"
+      ],
+      "review_note": "Parser, form-code, heading, and revision-text checks do not establish visual layout, interactive fields, calculations, signatures, legal currency, filing acceptance, complete packets, or reuse clearance."
+    }
+  }
+]

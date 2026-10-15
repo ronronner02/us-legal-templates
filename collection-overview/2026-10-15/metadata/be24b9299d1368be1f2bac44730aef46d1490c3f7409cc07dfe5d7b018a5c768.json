@@ -1,0 +1,79 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "West Virginia",
+      "state_code": "WV",
+      "scope": "state",
+      "publisher": "West Virginia Real Estate Commission",
+      "source_url": "https://rec.wv.gov/Forms/Pages/default.aspx",
+      "artifact_url": "https://rec.wv.gov/media/41/download?inline",
+      "source_link_title": "Irrevocable Consent​",
+      "title": "Irrevocable Consent",
+      "slug": "irrevocable-consent",
+      "category": "Real estate",
+      "family_id": "irrevocable-consent",
+      "identity_patterns": [
+        "consent"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Regulatory consent form; review the parties and statutory context.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": null,
+      "sha256": "be24b9299d1368be1f2bac44730aef46d1490c3f7409cc07dfe5d7b018a5c768",
+      "bytes": 158456,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1449,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/WV/irrevocable-consent-be24b9299d13.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/WV/irrevocable-consent-be24b9299d13.pdf",
+      "text_path": "extracted-text/be24b9299d1368be1f2bac44730aef46d1490c3f7409cc07dfe5d7b018a5c768.txt",
+      "acquired_at": "2026-10-15T01:59:07.837274+00:00",
+      "receipt": {
+        "url": "https://rec.wv.gov/media/41/download?inline",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:59:07.837274+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": null,
+        "last_modified": "Mon, 05 Oct 2026 17:55:16 GMT",
+        "status": "fetched",
+        "sha256": "be24b9299d1368be1f2bac44730aef46d1490c3f7409cc07dfe5d7b018a5c768",
+        "bytes": 158456,
+        "body_path": "evidence/http/2026-10-15T01-54-36.419563+00-00/be24b9299d1368be1f2bac44730aef46d1490c3f7409cc07dfe5d7b018a5c768.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-52-44.093538+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/e90616f0fcdcd79110caf91cad05900c25fc08b0d440005cf8ff2f685e8260ac.body",
+          "resolved_source_url": "https://rec.wv.gov/forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [],
+      "quality_notes": [],
+      "edition_classification": "unverified",
+      "usage_classification": "real_estate_regulatory_form",
+      "copyright_review": "pending",
+      "reuse_note": "Official public download does not establish general modification, resale, or republication permission. Review the captured state legal notices and document-specific restrictions before reuse.",
+      "rights_source_url": "https://www.wv.gov/policies/legal-notices",
+      "revision_text_candidates": [
+        "IRREVOCABLE CONSENT FOR SERVICE OF PROCESS IN SUITS AND/OR A",
+        "e deemed and is hereby made irrevocable."
+      ],
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

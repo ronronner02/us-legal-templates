@@ -1,0 +1,38 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "http://www.miamidadeclerk.gov/resources-clerk/library/Civil/333-Web.pdf",
+      "source_url": "https://www.miamidadeclerk.gov/clerk/small-claims.page",
+      "category": "Court procedure",
+      "document_type": "Small Claims Statement of Claim - Miami-Dade County",
+      "title": "Small Claims Statement of Claim - Miami-Dade County",
+      "family_id": "small-claims-complaint",
+      "form_id": null,
+      "scope": "state",
+      "state": "Florida",
+      "jurisdiction": "Florida; Miami-Dade County",
+      "publisher": "Miami-Dade County Clerk of the Court and Comptroller",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/04-small-claims-statement-of-claim-miami-dade-county-13595b1a05b9.pdf",
+      "sha256": "13595b1a05b9bf10752e0af7abee6e1be7888b20b0c73537110bf434557b6f65",
+      "acquired_at": "2026-10-14T09:40:00.711Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-and-form-id-checked",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [
+        "county-specific-form; local-filing-review-pending"
+      ],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/04-small-claims-statement-of-claim-miami-dade-county-13595b1a05b9.pdf"
+    }
+  }
+]

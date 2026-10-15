@@ -1,0 +1,83 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "state",
+      "publisher": "Maine Department of Labor",
+      "source_url": "https://www.maine.gov/labor/posters/",
+      "artifact_url": "https://www.maine.gov/labor/docs/2025/posters/pfml/englishposter.pdf",
+      "source_link_title": "Paid Familiy and Medical Leave Poster",
+      "title": "Paid Family and Medical Leave Poster",
+      "slug": "paid-family-medical-leave",
+      "category": "Employment",
+      "family_id": "paid-family-medical-leave-notice",
+      "identity_patterns": [
+        "paid",
+        "family",
+        "medical"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "Printed benefit and contribution dates require review against collection date.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "rev. 04/25",
+      "sha256": "bd47ce32d44e0c0657b8f733a86feaee14d7498d602057b09a8328ceb22a7168",
+      "bytes": 74862,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 3349,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/ME/paid-family-medical-leave-bd47ce32d44e.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/ME/paid-family-medical-leave-bd47ce32d44e.pdf",
+      "text_path": "extracted-text/bd47ce32d44e0c0657b8f733a86feaee14d7498d602057b09a8328ceb22a7168.txt",
+      "acquired_at": "2026-10-15T01:34:18.434298+00:00",
+      "receipt": {
+        "url": "https://www.maine.gov/labor/docs/2025/posters/pfml/englishposter.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:34:18.434298+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"1246e-63867db720598\"",
+        "last_modified": "Wed, 25 Jun 2025 16:22:54 GMT",
+        "status": "fetched",
+        "sha256": "bd47ce32d44e0c0657b8f733a86feaee14d7498d602057b09a8328ceb22a7168",
+        "bytes": 74862,
+        "body_path": "evidence/http/2026-10-15T01-32-40.761224+00-00/bd47ce32d44e0c0657b8f733a86feaee14d7498d602057b09a8328ceb22a7168.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "undetermined",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [
+        "The poster states applications are scheduled to begin May 1, 2026. This is preserved source wording; current program operation was not independently verified."
+      ],
+      "related_files": [],
+      "rights_evidence": [
+        {
+          "kind": "document_copy_statement",
+          "text": "This poster is available online at no charge and may be copied:  www.maine.gov/labor/posters/",
+          "evidence_path": "extracted-text/bd47ce32d44e0c0657b8f733a86feaee14d7498d602057b09a8328ceb22a7168.txt",
+          "scope": "Copying stated by the document; modification, resale, and broad commercial redistribution remain unreviewed."
+        }
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-29-58.709997+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/1c0b8edd378ee5f0c976f57b0761a433d78feef71b5351785e9444b893656ea1.body",
+          "resolved_source_url": "https://www.maine.gov/labor/posters/"
+        }
+      ],
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

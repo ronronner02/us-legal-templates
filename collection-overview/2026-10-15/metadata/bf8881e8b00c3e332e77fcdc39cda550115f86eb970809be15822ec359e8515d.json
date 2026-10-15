@@ -1,0 +1,39 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://digitalcollections.library.oregon.gov/assets/downloadwiz/247732",
+      "source_url": "https://digitalcollections.library.oregon.gov/nodes/download/167640",
+      "category": "Estate and personal planning",
+      "document_type": "Your Guide to the Oregon Advance Directive for Health Care - library archive",
+      "title": "Your Guide to the Oregon Advance Directive for Health Care - library archive",
+      "family_id": "advance-directive-guide",
+      "form_id": null,
+      "scope": "state",
+      "state": "Oregon",
+      "jurisdiction": "Oregon",
+      "publisher": "State Library of Oregon",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-09/11-your-guide-to-the-oregon-advance-directive-for-health-care-library-archive-bf8881e8b00c.pdf",
+      "sha256": "bf8881e8b00c3e332e77fcdc39cda550115f86eb970809be15822ec359e8515d",
+      "acquired_at": "2026-10-14T09:59:04.094Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [
+        "state-library-archived-publication",
+        "current-version-review-required"
+      ],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-09/11-your-guide-to-the-oregon-advance-directive-for-health-care-library-archive-bf8881e8b00c.pdf"
+    }
+  }
+]

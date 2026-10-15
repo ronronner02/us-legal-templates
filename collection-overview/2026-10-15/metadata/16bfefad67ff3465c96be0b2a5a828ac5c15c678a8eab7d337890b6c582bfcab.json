@@ -1,0 +1,87 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "Massachusetts",
+      "state_code": "MA",
+      "scope": "state",
+      "publisher": "Massachusetts Court System",
+      "source_url": "https://www.mass.gov/lists/court-forms-for-eviction",
+      "artifact_url": "https://www.mass.gov/doc/summary-process-summons-and-complaint-sample/download",
+      "source_link_title": "Summary Process Summons and Complaint Sample , Open PDF file, 897.07 KB",
+      "title": "Summary Process Summons and Complaint - Sample",
+      "slug": "summary-process-summons-complaint-sample",
+      "category": "Court and general",
+      "family_id": "summary-process-summons-complaint-sample",
+      "identity_patterns": [
+        "summons",
+        "complaint"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Source labels this sample only. The filing form must be obtained from the court clerk; do not treat this sample as filing-ready.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "Revised 11/2025",
+      "sha256": "16bfefad67ff3465c96be0b2a5a828ac5c15c678a8eab7d337890b6c582bfcab",
+      "bytes": 918602,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 6292,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MA/summary-process-summons-complaint-sample-16bfefad67ff.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/MA/summary-process-summons-complaint-sample-16bfefad67ff.pdf",
+      "text_path": "extracted-text/16bfefad67ff3465c96be0b2a5a828ac5c15c678a8eab7d337890b6c582bfcab.txt",
+      "acquired_at": "2026-10-15T01:54:36.434067+00:00",
+      "receipt": {
+        "url": "https://www.mass.gov/doc/summary-process-summons-and-complaint-sample/download",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:54:36.434067+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"WpiNZMdkyJxa1mIeUUeVFA==\"",
+        "last_modified": "Tue, 14 Apr 2026 20:20:34 GMT",
+        "status": "fetched",
+        "sha256": "16bfefad67ff3465c96be0b2a5a828ac5c15c678a8eab7d337890b6c582bfcab",
+        "bytes": 918602,
+        "body_path": "evidence/http/2026-10-15T01-54-36.419563+00-00/16bfefad67ff3465c96be0b2a5a828ac5c15c678a8eab7d337890b6c582bfcab.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-51-07.154781+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/a153acc8f6a1cd99e95ed6b8c56cebf0120c09b481075d174b627c5aff8ccb18.body",
+          "resolved_source_url": "https://www.mass.gov/lists/court-forms-for-eviction"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [],
+      "quality_notes": [
+        "Official source states this is a sample; the filing form must be obtained from the court clerk."
+      ],
+      "edition_classification": "unverified",
+      "usage_classification": "sample_only_not_filing_ready",
+      "copyright_review": "pending",
+      "reuse_note": "Mass.gov terms reserve copyright and describe a fair-use exception. Collection for research does not establish permission for republication, modification, or commercial use. Reuse review remains pending.",
+      "rights_source_url": "https://www.mass.gov/massgov-terms-of-use",
+      "revision_text_candidates": [
+        "Revised 11/2025",
+        "Revised 11/2025"
+      ],
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/16bfefad67ff3465c96be0b2a5a828ac5c15c678a8eab7d337890b6c582bfcab.txt",
+        "matched_text": "Revised 11/2025",
+        "method": "Verified in extracted original text; visual confirmation not run."
+      },
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

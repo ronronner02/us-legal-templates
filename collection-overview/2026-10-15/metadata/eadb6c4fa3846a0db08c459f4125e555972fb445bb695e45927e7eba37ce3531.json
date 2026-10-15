@@ -1,0 +1,84 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-03/inventory.json",
+    "batch": "2026-10-15-03",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "District Court; housing and landlord-tenant proceedings",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/district/forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/dccv119.pdf",
+      "source_link_title": "DC-CV-119",
+      "title": "Petition to Shield a Failure to Pay Rent Action Record",
+      "slug": "dc-cv-119-petition-to-shield-a-failure-to-pay-rent-action-record",
+      "category": "Housing and landlord-tenant",
+      "family_id": "md-dc-cv-119",
+      "identity_patterns": [
+        "DC[- ]?CV[- ]?119",
+        "FAILURE\\s+TO\\s+PAY\\s+RENT\\s+ACTION\\s+RECORD"
+      ],
+      "source_listed_revision": "07/2026",
+      "source_row_text": "DC-CV-119 | Petition to Shield a Failure to Pay Rent Action Record | 07/2026 |  | ",
+      "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+      "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata.",
+      "sha256": "eadb6c4fa3846a0db08c459f4125e555972fb445bb695e45927e7eba37ce3531",
+      "bytes": 764352,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1683,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/dc-cv-119-petition-to-shield-a-failure-to-pay-rent-action-record-eadb6c4fa384.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-03/originals/MD/dc-cv-119-petition-to-shield-a-failure-to-pay-rent-action-record-eadb6c4fa384.pdf",
+      "text_path": "extracted-text/eadb6c4fa3846a0db08c459f4125e555972fb445bb695e45927e7eba37ce3531.txt",
+      "acquired_at": "2026-10-15T02:39:09.123450+00:00",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/dccv119.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T02:39:09.123450+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"ba9c0-65a826da0b972\"",
+        "last_modified": "Wed, 02 Sep 2026 16:21:31 GMT",
+        "status": "fetched",
+        "sha256": "eadb6c4fa3846a0db08c459f4125e555972fb445bb695e45927e7eba37ce3531",
+        "bytes": 764352,
+        "body_path": "evidence/http/2026-10-15T02-38-22.548123+00-00/eadb6c4fa3846a0db08c459f4125e555972fb445bb695e45927e7eba37ce3531.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T02-32-47.323987+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T02-32-47.323987+00-00/ae8f043cc4032bbd1c7b3272166ba1bc43aea013d81c7475749abcbbd9a03cb2.body",
+          "resolved_source_url": "https://www.mdcourts.gov/district/forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "07/2026",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/eadb6c4fa3846a0db08c459f4125e555972fb445bb695e45927e7eba37ce3531.txt",
+        "matched_text": "DC-CV-119  (Rev. 07/2026)",
+        "method": "Verified in extracted original text; visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "Captured source footer reserves copyright. Public downloading does not establish permission for republication, modification, or commercial reuse. Rights and publication approval remain pending.",
+      "related_files": [],
+      "quality_notes": [
+        "Separate record-shielding procedures. Eligibility, applicable case dates, and filing conditions require form-specific review.",
+        "Original applies to actions filed on or after October 1, 2024 and describes redemption, elapsed-time, or other-good-cause conditions."
+      ],
+      "review_note": "Parser, form-code, and printed-revision text checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "Massachusetts",
+      "state_code": "MA",
+      "scope": "state",
+      "publisher": "Massachusetts Court System",
+      "source_url": "https://www.mass.gov/lists/housing-court-forms",
+      "artifact_url": "https://www.mass.gov/doc/request-to-correct-clerical-error-in-electronic-docket-entry-trial-court-rule-xiv-rule-6/download",
+      "source_link_title": "Request to Correct Clerical Error in Electronic Docket Entry (Trial Court Rule XIV, Rule 6) , Open PDF file, 1.03 MB",
+      "title": "Request to Correct Clerical Error in Electronic Docket Entry",
+      "slug": "correct-clerical-docket-error",
+      "category": "Court and general",
+      "family_id": "correct-clerical-docket-error",
+      "identity_patterns": [
+        "clerical",
+        "docket"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "For potential clerical errors only; source describes revision January 2024.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "TC0019 (01/24)",
+      "sha256": "336a607ff45817415b725292186783bbe6beef35d5bb52745b0db2baed666e44",
+      "bytes": 1082948,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 2503,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MA/correct-clerical-docket-error-336a607ff458.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/MA/correct-clerical-docket-error-336a607ff458.pdf",
+      "text_path": "extracted-text/336a607ff45817415b725292186783bbe6beef35d5bb52745b0db2baed666e44.txt",
+      "acquired_at": "2026-10-15T01:57:21.708993+00:00",
+      "receipt": {
+        "url": "https://www.mass.gov/doc/request-to-correct-clerical-error-in-electronic-docket-entry-trial-court-rule-xiv-rule-6/download",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:57:21.708993+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"aFU4ovgIKFaYB6SWy3tUVg==\"",
+        "last_modified": "Tue, 30 Jan 2024 19:59:05 GMT",
+        "status": "fetched",
+        "sha256": "336a607ff45817415b725292186783bbe6beef35d5bb52745b0db2baed666e44",
+        "bytes": 1082948,
+        "body_path": "evidence/http/2026-10-15T01-54-36.419563+00-00/336a607ff45817415b725292186783bbe6beef35d5bb52745b0db2baed666e44.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-52-44.093538+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/652fe10bb25e9d3782a7c770fd9618093a517d333ecbf8e12a6d919f9649bed0.body",
+          "resolved_source_url": "https://www.mass.gov/lists/housing-court-forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [],
+      "quality_notes": [],
+      "edition_classification": "unverified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "reuse_note": "Mass.gov terms reserve copyright and describe a fair-use exception. Collection for research does not establish permission for republication, modification, or commercial use. Reuse review remains pending.",
+      "rights_source_url": "https://www.mass.gov/massgov-terms-of-use",
+      "revision_text_candidates": [
+        "Register, or Recorder to review the electronic record described below."
+      ],
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/336a607ff45817415b725292186783bbe6beef35d5bb52745b0db2baed666e44.txt",
+        "matched_text": "TC0019 (01/24)",
+        "method": "Verified in extracted original text; visual confirmation not run."
+      },
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

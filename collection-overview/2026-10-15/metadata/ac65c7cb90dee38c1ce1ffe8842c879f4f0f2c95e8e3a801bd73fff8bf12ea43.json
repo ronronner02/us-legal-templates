@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/06/Resources_Advanced-Directives_Supported-Decision-Making-Agreement.pdf",
+      "source_url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/",
+      "category": "Estate and personal planning",
+      "document_type": "Supported Decision-Making Agreement",
+      "title": "Supported Decision-Making Agreement",
+      "family_id": "supported-decision-making-agreement",
+      "form_id": null,
+      "scope": "state",
+      "state": "Delaware",
+      "jurisdiction": "Delaware",
+      "publisher": "Delaware Department of Health and Social Services",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/03-supported-decision-making-agreement-ac65c7cb90de.pdf",
+      "sha256": "ac65c7cb90dee38c1ce1ffe8842c879f4f0f2c95e8e3a801bd73fff8bf12ea43",
+      "acquired_at": "2026-10-14T09:39:56.427Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/03-supported-decision-making-agreement-ac65c7cb90de.pdf"
+    }
+  }
+]

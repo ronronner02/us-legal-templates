@@ -1,0 +1,38 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.circuit7.net/civil/forms/108.pdf",
+      "source_url": "https://www.circuit7.net/civil/Index",
+      "category": "Court procedure",
+      "document_type": "Petition of Landlord for Recovery of Possession for Non-Payment of Rent",
+      "title": "Petition of Landlord for Recovery of Possession for Non-Payment of Rent",
+      "family_id": "eviction-petition",
+      "form_id": null,
+      "scope": "state",
+      "state": "Missouri",
+      "jurisdiction": "Missouri; Seventh Judicial Circuit, Clay County",
+      "publisher": "Missouri Seventh Judicial Circuit",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-09/06-petition-of-landlord-for-recovery-of-possession-for-non-payment-of-rent-5097ca60df06.pdf",
+      "sha256": "5097ca60df06d6a6c0911d2b1faed67596938245626106d422b3550f15309e61",
+      "acquired_at": "2026-10-14T09:58:52.858Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [
+        "local-circuit-scope"
+      ],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-09/06-petition-of-landlord-for-recovery-of-possession-for-non-payment-of-rent-5097ca60df06.pdf"
+    }
+  }
+]

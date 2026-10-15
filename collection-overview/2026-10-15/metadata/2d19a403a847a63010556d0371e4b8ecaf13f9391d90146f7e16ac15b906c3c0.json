@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/probate_forms/decedentEstate/4_0.pdf",
+      "source_url": "https://www.supremecourt.ohio.gov/forms/all-forms/decedents-estate/8",
+      "category": "Estate and personal planning",
+      "document_type": "Application for Authority to Administer Estate",
+      "title": "Application for Authority to Administer Estate",
+      "family_id": "probate-petition",
+      "form_id": null,
+      "scope": "state",
+      "state": "Ohio",
+      "jurisdiction": "Ohio",
+      "publisher": "Supreme Court of Ohio",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/16-application-for-authority-to-administer-estate-2d19a403a847.pdf",
+      "sha256": "2d19a403a847a63010556d0371e4b8ecaf13f9391d90146f7e16ac15b906c3c0",
+      "acquired_at": "2026-10-14T09:40:12.140Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/16-application-for-authority-to-administer-estate-2d19a403a847.pdf"
+    }
+  }
+]

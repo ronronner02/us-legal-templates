@@ -1,0 +1,77 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "Massachusetts",
+      "state_code": "MA",
+      "scope": "state",
+      "publisher": "Massachusetts Court System",
+      "source_url": "https://www.mass.gov/lists/court-forms-for-eviction",
+      "artifact_url": "https://www.mass.gov/doc/military-affidavit/download",
+      "source_link_title": "Military Affidavit , Open PDF file, 967.82 KB",
+      "title": "Military Affidavit",
+      "slug": "military-affidavit",
+      "category": "Court and general",
+      "family_id": "military-affidavit",
+      "identity_patterns": [
+        "military",
+        "affidavit"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "English rendition only. Official index also lists translations.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": null,
+      "sha256": "4e6bd38c43d470466f4a01929f4c09ef5e97701c3f4f4038464d0f9a2e8f028d",
+      "bytes": 991047,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 4,
+      "text_length": 10731,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MA/military-affidavit-4e6bd38c43d4.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/MA/military-affidavit-4e6bd38c43d4.pdf",
+      "text_path": "extracted-text/4e6bd38c43d470466f4a01929f4c09ef5e97701c3f4f4038464d0f9a2e8f028d.txt",
+      "acquired_at": "2026-10-15T02:01:28.986891+00:00",
+      "receipt": {
+        "url": "https://www.mass.gov/doc/military-affidavit/download",
+        "kind": "document",
+        "checked_at": "2026-10-15T02:01:28.986891+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"KGeAHxeUnHzXdq9Bu5WoKw==\"",
+        "last_modified": "Tue, 03 Mar 2026 18:44:28 GMT",
+        "status": "fetched",
+        "sha256": "4e6bd38c43d470466f4a01929f4c09ef5e97701c3f4f4038464d0f9a2e8f028d",
+        "bytes": 991047,
+        "body_path": "evidence/http/2026-10-15T02-01-24.112664+00-00/4e6bd38c43d470466f4a01929f4c09ef5e97701c3f4f4038464d0f9a2e8f028d.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-51-07.154781+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/a153acc8f6a1cd99e95ed6b8c56cebf0120c09b481075d174b627c5aff8ccb18.body",
+          "resolved_source_url": "https://www.mass.gov/lists/court-forms-for-eviction"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [],
+      "quality_notes": [],
+      "edition_classification": "unverified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "reuse_note": "Mass.gov terms reserve copyright and describe a fair-use exception. Collection for research does not establish permission for republication, modification, or commercial use. Reuse review remains pending.",
+      "rights_source_url": "https://www.mass.gov/massgov-terms-of-use",
+      "revision_text_candidates": [],
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

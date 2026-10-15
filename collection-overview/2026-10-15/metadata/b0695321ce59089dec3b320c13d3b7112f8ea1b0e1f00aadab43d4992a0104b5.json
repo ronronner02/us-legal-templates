@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/99-63_HealthCarePowerofAttorney_cap_05172022.pdf",
+      "source_url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/99-63_HealthCarePowerofAttorney_cap_05172022.pdf",
+      "category": "Estate and personal planning",
+      "document_type": "Health Care Power of Attorney",
+      "title": "Health Care Power of Attorney",
+      "family_id": "health-care-power-of-attorney",
+      "form_id": null,
+      "scope": "state",
+      "state": "Oklahoma",
+      "jurisdiction": "Oklahoma",
+      "publisher": "Oklahoma Department of Human Services",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/18-health-care-power-of-attorney-b0695321ce59.pdf",
+      "sha256": "b0695321ce59089dec3b320c13d3b7112f8ea1b0e1f00aadab43d4992a0104b5",
+      "acquired_at": "2026-10-14T09:40:11.030Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "official-publisher-direct-endpoint",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/18-health-care-power-of-attorney-b0695321ce59.pdf"
+    }
+  }
+]

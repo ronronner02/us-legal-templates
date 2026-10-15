@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.sos.la.gov/media/wmjm0vsi/living-will-declaration-form.pdf",
+      "source_url": "https://www.sos.la.gov/media/wmjm0vsi/living-will-declaration-form.pdf",
+      "category": "Estate and personal planning",
+      "document_type": "Living Will Declaration",
+      "title": "Living Will Declaration",
+      "family_id": "health-care-directive",
+      "form_id": null,
+      "scope": "state",
+      "state": "Louisiana",
+      "jurisdiction": "Louisiana",
+      "publisher": "Louisiana Secretary of State",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/09-living-will-declaration-0aa0368ee0ec.pdf",
+      "sha256": "0aa0368ee0ec2711bc840a9b0fccf73e5dbc51e19664d7bc66e1b5ba79a2556b",
+      "acquired_at": "2026-10-14T09:40:04.747Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "official-publisher-direct-endpoint",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/09-living-will-declaration-0aa0368ee0ec.pdf"
+    }
+  }
+]

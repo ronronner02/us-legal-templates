@@ -1,0 +1,112 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-07/inventory.json",
+    "batch": "2026-10-15-07",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv016.pdf/ccdcdv016.pdf",
+      "source_link_title": "Request to Register Out-of-State Order of Protection (Family Law 4-508.1)",
+      "title": "Request to Register Out-of-State Order of Protection (Family Law 4-508.1)",
+      "slug": "cc-dc-dv-016",
+      "category": "protective_orders",
+      "family_id": "CC-DC-DV-016",
+      "form_code": "CC-DC-DV-016",
+      "identity_patterns": [
+        "CC\\s*-\\s*DC\\s*-\\s*DV\\s*-\\s*016",
+        "REQUEST\\s+TO\\s+REGISTER\\s+OUT.OF.STATE\\s+ORDER\\s+FOR\\s+PROTECTION"
+      ],
+      "source_listed_revision": "08/2024",
+      "source_description": "Use this form to ask the court to recognize and out-of-state protective order.",
+      "source_row_text": "CC-DC-DV-016 Request to Register Out-of-State Order of Protection (Family Law 4-508.1) 08/2024 Use this form to ask the court to recognize and out-of-state protective order.",
+      "usage_classification": "court_procedural_form",
+      "selection_reason": "Fresh official English protective-order, peace-order, guardianship, or name-change original, with procedural roles retained separately.",
+      "notes": "Use this form to ask the court to recognize and out-of-state protective order.",
+      "sha256": "585a823a0f9cd36d0a0e62aea9774d293a903c21b67f47193ccf4d6a77f9194c",
+      "bytes": 34050,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1737,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-dc-dv-016-585a823a0f9c.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-016-585a823a0f9c.pdf",
+      "text_path": "extracted-text/585a823a0f9cd36d0a0e62aea9774d293a903c21b67f47193ccf4d6a77f9194c.txt",
+      "acquired_at": "2026-10-15T06:44:09.188Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv016.pdf/ccdcdv016.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv016.pdf/ccdcdv016.pdf",
+        "checked_at": "2026-10-15T06:44:09.188Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "headers": {
+          "date": "Thu, 15 Oct 2026 06:44:10 GMT",
+          "content-type": "application/pdf",
+          "content-length": "34050",
+          "connection": "keep-alive",
+          "server": "cloudflare",
+          "x-content-type-options": "nosniff",
+          "last-modified": "Tue, 15 Sep 2026 18:00:17 GMT",
+          "etag": "\"8502-65b8952bccc4e\"",
+          "accept-ranges": "bytes",
+          "cache-control": "public, max-age=14400",
+          "expires": "Thu, 15 Oct 2026 10:44:10 GMT",
+          "cf-cache-status": "BYPASS",
+          "cf-ray": "a4acda88eda90465-HKG"
+        },
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "585a823a0f9cd36d0a0e62aea9774d293a903c21b67f47193ccf4d6a77f9194c",
+        "bytes": 34050,
+        "body_path": "evidence/http/browser-documents/585a823a0f9cd36d0a0e62aea9774d293a903c21b67f47193ccf4d6a77f9194c.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "08/2024",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/585a823a0f9cd36d0a0e62aea9774d293a903c21b67f47193ccf4d6a77f9194c.txt",
+        "matched_text": "CC-DC-DV -016 (Rev. 08/2024)",
+        "all_matching_markers": [
+          "CC-DC-DV -016 (Rev. 08/2024)"
+        ],
+        "method": "Verified in extracted PDF text; whitespace normalized in metadata. Visual confirmation not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public downloading does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Original contains a restricted-information notice or conditional checkbox. This is the blank original; no personal information was entered or submitted.",
+        "Original references MDJ-008, which is not acquired in this round. Complete filing-packet validation remains pending.",
+        "Registration request calls for an attached out-of-state protection order. The blank request does not supply that issued order or establish registration."
+      ],
+      "related_files": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/de692470b4f80f5324d687bc61d93c3d173afa4c716f650a7ae6d31202186ca0.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": true,
+      "mdj_008_notice_reference_present": true,
+      "referenced_form_codes": [
+        "CC-DC-DV-016",
+        "MDJ-008"
+      ],
+      "review_note": "Parser, form-code, heading, and revision-text checks do not establish visual layout, interactive fields, calculations, signatures, legal currency, filing acceptance, complete packets, or reuse clearance."
+    }
+  }
+]

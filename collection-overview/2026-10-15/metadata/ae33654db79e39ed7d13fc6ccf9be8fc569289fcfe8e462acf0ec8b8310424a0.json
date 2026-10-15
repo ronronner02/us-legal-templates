@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://dhss.delaware.gov/wp-content/uploads/sites/9/2026/09/DE-Advanced-Health-Care-Directive.9.14.26.pdf",
+      "source_url": "https://dhss.delaware.gov/dsaapd/division-of-services-for-aging-and-adults-with-physical-disabilities/advance-directives/",
+      "category": "Estate and personal planning",
+      "document_type": "Advance Health-Care Directive (publisher September 2026 file)",
+      "title": "Advance Health-Care Directive (publisher September 2026 file)",
+      "family_id": "combined-advance-directives",
+      "form_id": null,
+      "scope": "state",
+      "state": "Delaware",
+      "jurisdiction": "Delaware",
+      "publisher": "Delaware Department of Health and Social Services",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/03-advance-health-care-directive-publisher-september-2026-file-ae33654db79e.pdf",
+      "sha256": "ae33654db79e39ed7d13fc6ccf9be8fc569289fcfe8e462acf0ec8b8310424a0",
+      "acquired_at": "2026-10-14T09:39:56.125Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/03-advance-health-care-directive-publisher-september-2026-file-ae33654db79e.pdf"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.ag.ky.gov/AG%20Publications/livingwillpacket.pdf",
+      "source_url": "https://www.ag.ky.gov/Resources/Consumer-Resources/seniors/Pages/Living-Wills-in-Kentucky.aspx",
+      "category": "Estate and personal planning",
+      "document_type": "Kentucky Living Will Packet",
+      "title": "Kentucky Living Will Packet",
+      "family_id": "combined-advance-directives",
+      "form_id": null,
+      "scope": "state",
+      "state": "Kentucky",
+      "jurisdiction": "Kentucky",
+      "publisher": "Kentucky Attorney General",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-09/12-kentucky-living-will-packet-add090c39ac0.pdf",
+      "sha256": "add090c39ac09a5fcbe7d2a22b407383f88aec7d9ac6b4eab28948e012621826",
+      "acquired_at": "2026-10-14T09:59:04.299Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-09/12-kentucky-living-will-packet-add090c39ac0.pdf"
+    }
+  }
+]

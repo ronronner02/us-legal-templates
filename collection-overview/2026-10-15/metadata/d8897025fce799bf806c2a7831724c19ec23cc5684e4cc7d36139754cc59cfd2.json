@@ -1,0 +1,74 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "state",
+      "publisher": "Maine Department of Labor",
+      "source_url": "https://www.maine.gov/labor/bls/",
+      "artifact_url": "https://www.maine.gov/labor/docs/2019/bls/MaineCertifiedPayrollFormrev10042019.pdf",
+      "source_link_title": "Download Certified Payroll Form",
+      "title": "Certified Payroll Form",
+      "slug": "certified-payroll",
+      "category": "Employment",
+      "family_id": "state-construction-certified-payroll",
+      "identity_patterns": [
+        "payroll"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "State-funded construction payroll context; not a generic federal certified-payroll substitution.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": null,
+      "sha256": "d8897025fce799bf806c2a7831724c19ec23cc5684e4cc7d36139754cc59cfd2",
+      "bytes": 232420,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 5451,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/ME/certified-payroll-d8897025fce7.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/ME/certified-payroll-d8897025fce7.pdf",
+      "text_path": "extracted-text/d8897025fce799bf806c2a7831724c19ec23cc5684e4cc7d36139754cc59cfd2.txt",
+      "acquired_at": "2026-10-15T01:34:07.212026+00:00",
+      "receipt": {
+        "url": "https://www.maine.gov/labor/docs/2019/bls/MaineCertifiedPayrollFormrev10042019.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:34:07.212026+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"38be4-5feb853433e68\"",
+        "last_modified": "Thu, 22 Jun 2023 14:01:47 GMT",
+        "status": "fetched",
+        "sha256": "d8897025fce799bf806c2a7831724c19ec23cc5684e4cc7d36139754cc59cfd2",
+        "bytes": 232420,
+        "body_path": "evidence/http/2026-10-15T01-32-40.761224+00-00/d8897025fce799bf806c2a7831724c19ec23cc5684e4cc7d36139754cc59cfd2.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "undetermined",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [
+        "Printed revision glyphs are garbled in extracted text. Filename date is not a verified printed revision. Main form and certification text are readable; visual review is pending."
+      ],
+      "related_files": [],
+      "rights_evidence": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-29-58.709997+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/f82d37e3b77b7f070828d73f99bf94a86bc6cc36d69c03d1ac56bdd652d5a901.body",
+          "resolved_source_url": "https://www.maine.gov/labor/bls/"
+        }
+      ],
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

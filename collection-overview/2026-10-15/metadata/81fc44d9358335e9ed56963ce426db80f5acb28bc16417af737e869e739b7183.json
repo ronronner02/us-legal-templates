@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.tn.gov/content/dam/tn/hfc/documents/Advance_Directive_for_Health_Care.pdf",
+      "source_url": "https://www.tn.gov/hfc/health-care-decision-making.html",
+      "category": "Estate and personal planning",
+      "document_type": "Advance Directive for Health Care",
+      "title": "Advance Directive for Health Care",
+      "family_id": "health-care-directive",
+      "form_id": null,
+      "scope": "state",
+      "state": "Tennessee",
+      "jurisdiction": "Tennessee",
+      "publisher": "Tennessee Health Facilities Commission",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-02/06-advance-directive-for-health-care-81fc44d93583.pdf",
+      "sha256": "81fc44d9358335e9ed56963ce426db80f5acb28bc16417af737e869e739b7183",
+      "acquired_at": "2026-10-14T09:03:56.309Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-02/06-advance-directive-for-health-care-81fc44d93583.pdf"
+    }
+  }
+]

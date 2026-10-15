@@ -1,0 +1,74 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "state",
+      "publisher": "Maine Department of Labor",
+      "source_url": "https://www.maine.gov/labor/labor_laws/wagehour.shtml",
+      "artifact_url": "https://www.maine.gov/labor/docs/2022/laborlaws/AgeVerificationform042022.pdf",
+      "source_link_title": "Download Age Verification Form",
+      "title": "Age Verification Form",
+      "slug": "age-verification",
+      "category": "Employment",
+      "family_id": "minor-age-verification",
+      "identity_patterns": [
+        "age verification"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "Companion to youth-employment process; not general identity-verification authority.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "rev. 4/22",
+      "sha256": "798f59d2ff8f704b9fb59b89626be216477ba872b40ab3f9caae07becfe5c60a",
+      "bytes": 72105,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1426,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/ME/age-verification-798f59d2ff8f.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/ME/age-verification-798f59d2ff8f.pdf",
+      "text_path": "extracted-text/798f59d2ff8f704b9fb59b89626be216477ba872b40ab3f9caae07becfe5c60a.txt",
+      "acquired_at": "2026-10-15T01:33:49.216036+00:00",
+      "receipt": {
+        "url": "https://www.maine.gov/labor/docs/2022/laborlaws/AgeVerificationform042022.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:33:49.216036+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"119a9-5dc60c08cb3d6\"",
+        "last_modified": "Mon, 11 Apr 2022 13:16:28 GMT",
+        "status": "fetched",
+        "sha256": "798f59d2ff8f704b9fb59b89626be216477ba872b40ab3f9caae07becfe5c60a",
+        "bytes": 72105,
+        "body_path": "evidence/http/2026-10-15T01-32-40.761224+00-00/798f59d2ff8f704b9fb59b89626be216477ba872b40ab3f9caae07becfe5c60a.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "undetermined",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [
+        "Blank work-permit workflow form. Its text restricts sharing completed sensitive information to MDOL through the online work-permit portal. Do not treat this as a general identity-verification form. Some logo glyphs are garbled in extraction."
+      ],
+      "related_files": [],
+      "rights_evidence": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-29-58.709997+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/9d12a43fe310c4d3795e218f0f655560ab45af5e52c77f688d505a5dc0d87ad5.body",
+          "resolved_source_url": "https://www.maine.gov/labor/labor_laws/wagehour.shtml"
+        }
+      ],
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

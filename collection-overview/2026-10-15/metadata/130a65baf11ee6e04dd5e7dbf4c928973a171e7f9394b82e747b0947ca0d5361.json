@@ -1,0 +1,39 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.iowacourts.gov/collections/304/files/571/embedDocument/",
+      "source_url": "https://www.iowacourts.gov/iowa-courts/supreme-court/orders/archive/2018/6",
+      "category": "Court procedure",
+      "document_type": "Counterclaim against Plaintiff(s)",
+      "title": "Counterclaim against Plaintiff(s)",
+      "family_id": "small-claims-counterclaim",
+      "form_id": "3.13",
+      "scope": "state",
+      "state": "Iowa",
+      "jurisdiction": "Iowa",
+      "publisher": "Iowa Judicial Branch",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-09/09-counterclaim-against-plaintiff-s-130a65baf11e.pdf",
+      "sha256": "130a65baf11ee6e04dd5e7dbf4c928973a171e7f9394b82e747b0947ca0d5361",
+      "acquired_at": "2026-10-14T09:59:02.045Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [
+        "historical-2018-order-archive",
+        "current-rule-and-e-filing-review-required"
+      ],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-09/09-counterclaim-against-plaintiff-s-130a65baf11e.pdf"
+    }
+  }
+]

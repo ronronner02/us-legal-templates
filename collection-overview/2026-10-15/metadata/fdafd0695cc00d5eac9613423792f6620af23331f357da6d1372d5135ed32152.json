@@ -1,0 +1,120 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-07/inventory.json",
+    "batch": "2026-10-15-07",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdr062.pdf",
+      "source_link_title": "Petition for Change of Name of a Minor",
+      "title": "Petition for Change of Name of a Minor",
+      "slug": "cc-dr-062",
+      "category": "name_change",
+      "family_id": "CC-DR-062",
+      "form_code": "CC-DR-062",
+      "identity_patterns": [
+        "CC\\s*-\\s*DR\\s*-\\s*062",
+        "PETITION\\s+FOR\\s+CHANGE\\s+OF\\s+NAME\\s+OF\\s+A\\s+MINOR"
+      ],
+      "source_listed_revision": "01/2023",
+      "source_description": "Use this form to ask the court to change the name of a minor.",
+      "source_row_text": "CC-DR-062 Petition for Change of Name of a Minor 01/2023 Use this form to ask the court to change the name of a minor.",
+      "usage_classification": "court_procedural_form",
+      "selection_reason": "Fresh official English protective-order, peace-order, guardianship, or name-change original, with procedural roles retained separately.",
+      "notes": "Use this form to ask the court to change the name of a minor.",
+      "sha256": "fdafd0695cc00d5eac9613423792f6620af23331f357da6d1372d5135ed32152",
+      "bytes": 336310,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 4,
+      "text_length": 5663,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-dr-062-fdafd0695cc0.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-07/originals/MD/cc-dr-062-fdafd0695cc0.pdf",
+      "text_path": "extracted-text/fdafd0695cc00d5eac9613423792f6620af23331f357da6d1372d5135ed32152.txt",
+      "acquired_at": "2026-10-15T06:50:17.396Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdr062.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdr062.pdf",
+        "checked_at": "2026-10-15T06:50:17.396Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "headers": {
+          "date": "Thu, 15 Oct 2026 06:50:18 GMT",
+          "content-type": "application/pdf",
+          "content-length": "336310",
+          "connection": "keep-alive",
+          "server": "cloudflare",
+          "x-content-type-options": "nosniff",
+          "last-modified": "Fri, 24 Apr 2026 17:27:15 GMT",
+          "etag": "\"521b6-65038137e1ba9\"",
+          "accept-ranges": "bytes",
+          "cache-control": "public, max-age=14400",
+          "expires": "Thu, 15 Oct 2026 10:50:18 GMT",
+          "cf-cache-status": "BYPASS",
+          "cf-ray": "a4ace38639f90465-HKG"
+        },
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "fdafd0695cc00d5eac9613423792f6620af23331f357da6d1372d5135ed32152",
+        "bytes": 336310,
+        "body_path": "evidence/http/browser-documents/fdafd0695cc00d5eac9613423792f6620af23331f357da6d1372d5135ed32152.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "01/2023",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/fdafd0695cc00d5eac9613423792f6620af23331f357da6d1372d5135ed32152.txt",
+        "matched_text": "CC-DR-062 (Rev. 01/2023)",
+        "all_matching_markers": [
+          "CC-DR-062 (Rev. 01/2023)",
+          "CC-DR-062 (Rev. 01/2023)",
+          "CC-DR-062 (Rev. 01/2023)"
+        ],
+        "method": "Verified in extracted PDF text; whitespace normalized in metadata. Visual confirmation not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public downloading does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Adult and minor name-change petitions are separate. Birth/identity evidence, consent or objection forms, notice, service, and any confidentiality steps require case-specific review. No name-change order is supplied.",
+        "Original pages 1-3 identify CC-DR-062; page 4 footer reads CC-DC-062. Title and main form identity match the catalog. The original discrepancy is preserved without correction and awaits visual/source review."
+      ],
+      "related_files": [
+        "originals/MD/cc-dr-060-ece4c7f85300.pdf"
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/de692470b4f80f5324d687bc61d93c3d173afa4c716f650a7ae6d31202186ca0.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": false,
+      "mdj_008_notice_reference_present": false,
+      "referenced_form_codes": [
+        "CC-DC-053",
+        "CC-DC-062",
+        "CC-DR-062",
+        "CC-DR-063",
+        "CC-DR-070",
+        "CC-DR-119",
+        "CC-DR-121"
+      ],
+      "review_note": "Parser, form-code, heading, and revision-text checks do not establish visual layout, interactive fields, calculations, signatures, legal currency, filing acceptance, complete packets, or reuse clearance."
+    }
+  }
+]

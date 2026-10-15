@@ -1,0 +1,82 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "Massachusetts",
+      "state_code": "MA",
+      "scope": "state",
+      "publisher": "Massachusetts Court System",
+      "source_url": "https://www.mass.gov/lists/court-forms-for-eviction",
+      "artifact_url": "https://www.mass.gov/doc/notice-of-transfer-to-housing-court-gl-c-185c-ss-20/download",
+      "source_link_title": "Notice of Transfer to Housing Court - G.L. c. 185C, § 20 , Open PDF file, 1.41 MB",
+      "title": "Notice of Transfer to Housing Court",
+      "slug": "notice-transfer-housing-court",
+      "category": "Court and general",
+      "family_id": "notice-transfer-housing-court",
+      "identity_patterns": [
+        "transfer",
+        "housing"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Transfer form under the statute identified on the official source.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "TC0027 (03/23)",
+      "sha256": "c272e51ccb5b502c536023251530b2495e869c0c4d845ba543f7045dc3039a0c",
+      "bytes": 1479925,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1379,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MA/notice-transfer-housing-court-c272e51ccb5b.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/MA/notice-transfer-housing-court-c272e51ccb5b.pdf",
+      "text_path": "extracted-text/c272e51ccb5b502c536023251530b2495e869c0c4d845ba543f7045dc3039a0c.txt",
+      "acquired_at": "2026-10-15T01:56:31.084868+00:00",
+      "receipt": {
+        "url": "https://www.mass.gov/doc/notice-of-transfer-to-housing-court-gl-c-185c-ss-20/download",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:56:31.084868+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"n7lwWhE+4frXR8BZRzhOKA==\"",
+        "last_modified": "Thu, 05 Mar 2026 18:59:50 GMT",
+        "status": "fetched",
+        "sha256": "c272e51ccb5b502c536023251530b2495e869c0c4d845ba543f7045dc3039a0c",
+        "bytes": 1479925,
+        "body_path": "evidence/http/2026-10-15T01-54-36.419563+00-00/c272e51ccb5b502c536023251530b2495e869c0c4d845ba543f7045dc3039a0c.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-51-07.154781+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/a153acc8f6a1cd99e95ed6b8c56cebf0120c09b481075d174b627c5aff8ccb18.body",
+          "resolved_source_url": "https://www.mass.gov/lists/court-forms-for-eviction"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [],
+      "quality_notes": [],
+      "edition_classification": "unverified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "reuse_note": "Mass.gov terms reserve copyright and describe a fair-use exception. Collection for research does not establish permission for republication, modification, or commercial use. Reuse review remains pending.",
+      "rights_source_url": "https://www.mass.gov/massgov-terms-of-use",
+      "revision_text_candidates": [],
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/c272e51ccb5b502c536023251530b2495e869c0c4d845ba543f7045dc3039a0c.txt",
+        "matched_text": "TC0027 (03/23)",
+        "method": "Verified in extracted original text; visual confirmation not run."
+      },
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

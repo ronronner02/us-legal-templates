@@ -1,0 +1,79 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "state",
+      "publisher": "Maine Department of Labor",
+      "source_url": "https://www.maine.gov/labor/labor_laws/wagehour.shtml",
+      "artifact_url": "https://www.maine.gov/labor/docs/2022/posters/equalpay_new.pdf",
+      "source_link_title": "Equal Pay Poster",
+      "title": "Equal Pay Poster",
+      "slug": "equal-pay-notice",
+      "category": "Employment",
+      "family_id": "equal-pay-notice",
+      "identity_patterns": [
+        "equal pay"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "rev. 02/22",
+      "sha256": "17e25a30f0c244e43894da54207ac0d8f4f099e15c55f0c2d104dddf79ef8db6",
+      "bytes": 95846,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1575,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/ME/equal-pay-notice-17e25a30f0c2.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/ME/equal-pay-notice-17e25a30f0c2.pdf",
+      "text_path": "extracted-text/17e25a30f0c244e43894da54207ac0d8f4f099e15c55f0c2d104dddf79ef8db6.txt",
+      "acquired_at": "2026-10-15T01:34:33.569146+00:00",
+      "receipt": {
+        "url": "https://www.maine.gov/labor/docs/2022/posters/equalpay_new.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:34:33.569146+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"17666-5d957650d4ec5\"",
+        "last_modified": "Thu, 03 Mar 2022 21:51:04 GMT",
+        "status": "fetched",
+        "sha256": "17e25a30f0c244e43894da54207ac0d8f4f099e15c55f0c2d104dddf79ef8db6",
+        "bytes": 95846,
+        "body_path": "evidence/http/2026-10-15T01-32-40.761224+00-00/17e25a30f0c244e43894da54207ac0d8f4f099e15c55f0c2d104dddf79ef8db6.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "undetermined",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [],
+      "related_files": [],
+      "rights_evidence": [
+        {
+          "kind": "document_copy_statement",
+          "text": "This poster is provided at no cost by the Maine Department of Labor and may be copied.",
+          "evidence_path": "extracted-text/17e25a30f0c244e43894da54207ac0d8f4f099e15c55f0c2d104dddf79ef8db6.txt",
+          "scope": "Copying stated by the document; modification, resale, and broad commercial redistribution remain unreviewed."
+        }
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-29-58.709997+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/9d12a43fe310c4d3795e218f0f655560ab45af5e52c77f688d505a5dc0d87ad5.body",
+          "resolved_source_url": "https://www.maine.gov/labor/labor_laws/wagehour.shtml"
+        }
+      ],
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

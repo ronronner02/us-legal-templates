@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.iowacourts.gov/browse/files/cc85952321f54914bf6ba14535b8ac9d/download",
+      "source_url": "https://www.iowacourts.gov/for-the-public/court-forms/filters/4002ed8c902f43bdb947ea697c5f0931",
+      "category": "Court procedure",
+      "document_type": "Instructions for Filing a Small Claims Action for Money Judgment",
+      "title": "Instructions for Filing a Small Claims Action for Money Judgment",
+      "family_id": "small-claims-instructions",
+      "form_id": null,
+      "scope": "state",
+      "state": "Iowa",
+      "jurisdiction": "Iowa",
+      "publisher": "Iowa Judicial Branch",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/07-instructions-for-filing-a-small-claims-action-for-money-judgment-6c0267534963.pdf",
+      "sha256": "6c026753496324568630dbfd88f28122de6057168f5b8841ccdee3835ae150a0",
+      "acquired_at": "2026-10-14T09:40:05.943Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/07-instructions-for-filing-a-small-claims-action-for-money-judgment-6c0267534963.pdf"
+    }
+  }
+]

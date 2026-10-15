@@ -1,0 +1,81 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-03/inventory.json",
+    "batch": "2026-10-15-03",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "District Court; housing and landlord-tenant proceedings",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/district/forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv087.pdf/dccv087.pdf",
+      "source_link_title": "DC-CV-087",
+      "title": "Motion to Sell Distrained Goods",
+      "slug": "dc-cv-087-motion-to-sell-distrained-goods",
+      "category": "Housing and landlord-tenant",
+      "family_id": "md-dc-cv-087",
+      "identity_patterns": [
+        "DC[- ]?CV[- ]?087",
+        "DISTRAINED\\s+GOODS"
+      ],
+      "source_listed_revision": "07/2021",
+      "source_row_text": "DC-CV-087 | Motion to Sell Distrained Goods | 07/2021 |  | ",
+      "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+      "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata.",
+      "sha256": "66a683a15651e8ed764c8f1318a12718c8a46c532600167047f33dd6c5966ccb",
+      "bytes": 439188,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1127,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/dc-cv-087-motion-to-sell-distrained-goods-66a683a15651.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-03/originals/MD/dc-cv-087-motion-to-sell-distrained-goods-66a683a15651.pdf",
+      "text_path": "extracted-text/66a683a15651e8ed764c8f1318a12718c8a46c532600167047f33dd6c5966ccb.txt",
+      "acquired_at": "2026-10-15T02:38:48.412795+00:00",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv087.pdf/dccv087.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T02:38:48.412795+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"6b394-5c60ed3c0506b\"",
+        "last_modified": "Thu, 01 Jul 2021 12:17:47 GMT",
+        "status": "fetched",
+        "sha256": "66a683a15651e8ed764c8f1318a12718c8a46c532600167047f33dd6c5966ccb",
+        "bytes": 439188,
+        "body_path": "evidence/http/2026-10-15T02-38-22.548123+00-00/66a683a15651e8ed764c8f1318a12718c8a46c532600167047f33dd6c5966ccb.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T02-32-47.323987+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T02-32-47.323987+00-00/ae8f043cc4032bbd1c7b3272166ba1bc43aea013d81c7475749abcbbd9a03cb2.body",
+          "resolved_source_url": "https://www.mdcourts.gov/district/forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "07/2021",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/66a683a15651e8ed764c8f1318a12718c8a46c532600167047f33dd6c5966ccb.txt",
+        "matched_text": "DC-CV-087 (Rev. 07/2021)",
+        "method": "Verified in extracted original text; visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "Captured source footer reserves copyright. Public downloading does not establish permission for republication, modification, or commercial reuse. Rights and publication approval remain pending.",
+      "related_files": [],
+      "quality_notes": [],
+      "review_note": "Parser, form-code, and printed-revision text checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

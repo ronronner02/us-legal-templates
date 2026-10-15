@@ -1,0 +1,93 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-06/inventory.json",
+    "batch": "2026-10-15-06",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/family/forms/ccdr055.pdf/ccdr055.pdf",
+      "source_link_title": "Affidavit of Service (Private Process)",
+      "title": "Affidavit of Service (Private Process)",
+      "slug": "cc-dr-055",
+      "category": "family_case_procedure",
+      "family_id": "CC-DR-055",
+      "form_code": "CC-DR-055",
+      "identity_patterns": [
+        "CC[-\\s]*DR[-\\s]*055",
+        "AFFIDAVIT\\s+OF\\s+SERVICE"
+      ],
+      "source_listed_revision": "04/2021",
+      "source_description": "Use this form to provide proof to the court that copies of documents filed in a case have been served on a party.",
+      "source_row_text": "CC-DR-055 Affidavit of Service (Private Process) 04/2021 Use this form to provide proof to the court that copies of documents filed in a case have been served on a party.",
+      "usage_classification": "court_procedural_form",
+      "selection_reason": "Fresh official English family-law original, with procedural, financial, agreement, and guidance roles recorded separately.",
+      "notes": "Use this form to provide proof to the court that copies of documents filed in a case have been served on a party.",
+      "sha256": "fc0bed1b5426ed2ace68bc46bd549f3f1db722ebd916d1d058037a923a8c62b1",
+      "bytes": 205674,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 2137,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-dr-055-fc0bed1b5426.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-06/originals/MD/cc-dr-055-fc0bed1b5426.pdf",
+      "text_path": "extracted-text/fc0bed1b5426ed2ace68bc46bd549f3f1db722ebd916d1d058037a923a8c62b1.txt",
+      "acquired_at": "2026-10-15T04:32:43.104Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/family/forms/ccdr055.pdf/ccdr055.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/family/forms/ccdr055.pdf/ccdr055.pdf",
+        "checked_at": "2026-10-15T04:32:43.104Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"3236a-64f1dd02bb74e\"",
+        "last_modified": "Fri, 10 Apr 2026 16:42:05 GMT",
+        "bytes": 205674,
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "fc0bed1b5426ed2ace68bc46bd549f3f1db722ebd916d1d058037a923a8c62b1",
+        "body_path": "evidence/http/browser-documents/fc0bed1b5426ed2ace68bc46bd549f3f1db722ebd916d1d058037a923a8c62b1.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "04/2021",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/fc0bed1b5426ed2ace68bc46bd549f3f1db722ebd916d1d058037a923a8c62b1.txt",
+        "matched_text": "CC-DR-055 (Rev. 04/2021)",
+        "method": "Confirmed in extracted original PDF text; whitespace normalized only in the metadata date. Visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public download availability does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Catalog title uses Private Process; original heading specifies Hand Delivery/Private Process. Original wording and source title are preserved.",
+        "Hand-delivery/private-process and certified-mail service affidavits describe different service methods. Blank forms are not evidence that service occurred."
+      ],
+      "related_files": [
+        "originals/MD/cc-dr-056-af66b265f706.pdf"
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/1393658dff84a449addf3059e84009d2ca462c016a14f07e8afe82eae4d27321.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": false,
+      "mdj_008_notice_reference_present": false,
+      "review_note": "Parser, form-code, title, and revision-text checks do not establish visual layout, fields, calculations, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

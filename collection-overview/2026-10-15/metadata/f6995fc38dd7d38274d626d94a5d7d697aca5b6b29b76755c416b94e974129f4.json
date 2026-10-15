@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.vacourts.gov/static/forms/circuit/cc1611.pdf",
+      "source_url": "https://www.vacourts.gov/forms/circuit/fiduciary",
+      "category": "Estate and personal planning",
+      "document_type": "List of Heirs",
+      "title": "List of Heirs",
+      "family_id": "probate-heirs-list",
+      "form_id": "CC-1611",
+      "scope": "state",
+      "state": "Virginia",
+      "jurisdiction": "Virginia",
+      "publisher": "Virginia Court System",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-02/02-list-of-heirs-f6995fc38dd7.pdf",
+      "sha256": "f6995fc38dd7d38274d626d94a5d7d697aca5b6b29b76755c416b94e974129f4",
+      "acquired_at": "2026-10-14T09:03:47.704Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-02/02-list-of-heirs-f6995fc38dd7.pdf"
+    }
+  }
+]

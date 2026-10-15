@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://selfrepresentation.nmcourts.gov/wp-content/uploads/sites/62/2023/12/4B-702-Verified-small-estate-closing-statement-of-the-personal-representative.pdf",
+      "source_url": "https://selfrepresentation.nmcourts.gov/forms-files/probate/",
+      "category": "Estate and personal planning",
+      "document_type": "Verified Small Estate Closing Statement of the Personal Representative",
+      "title": "Verified Small Estate Closing Statement of the Personal Representative",
+      "family_id": "small-estate-closing-statement",
+      "form_id": "4B-702",
+      "scope": "state",
+      "state": "New Mexico",
+      "jurisdiction": "New Mexico",
+      "publisher": "New Mexico Courts Self-Representation",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/15-verified-small-estate-closing-statement-of-the-personal-representative-5fc0f0f76ae5.pdf",
+      "sha256": "5fc0f0f76ae5dbd76bf2a12a4e1c096b6f6b6a60b75c1e405fb901f8e9504ef1",
+      "acquired_at": "2026-10-14T09:40:10.207Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/15-verified-small-estate-closing-statement-of-the-personal-representative-5fc0f0f76ae5.pdf"
+    }
+  }
+]

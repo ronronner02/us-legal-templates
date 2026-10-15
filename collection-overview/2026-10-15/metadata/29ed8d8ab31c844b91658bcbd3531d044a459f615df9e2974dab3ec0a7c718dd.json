@@ -1,0 +1,153 @@
+[
+  {
+    "inventory": "organized-library/00_Index/all-records.json",
+    "batch": "Original organized snapshot",
+    "record": {
+      "record_id": "ceba8938828a32853bd74a55",
+      "document_id": "9871eb71edb28ba0d2ff2cf3",
+      "state_code": "SC",
+      "state_name": "South Carolina",
+      "scope": "state",
+      "legal_category": "employment",
+      "expected_document_types": [
+        "labor_compliance"
+      ],
+      "title": "South Carolina Wage Complaint Form",
+      "document_type": "labor_compliance",
+      "publisher": "South Carolina Department of Labor Licensing and Regulation",
+      "source_type": "government",
+      "source_page_url": "https://llr.sc.gov/wage/formswages.aspx",
+      "original_file_url": "https://llr.sc.gov/wage/pdf/wcl-3.pdf",
+      "local_path": "data/files/29ed8d8ab31c844b91658bcbd3531d044a459f615df9e2974dab3ec0a7c718dd.pdf",
+      "sha256": "29ed8d8ab31c844b91658bcbd3531d044a459f615df9e2974dab3ec0a7c718dd",
+      "bytes": 250345,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 3,
+      "text_length": 8708,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LDBNPD+Helvetica-Bold', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 32, '/FontDescriptor': IndirectObject(561, 0, 1829299191584), '/LastChar': 146, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [278, 0, 0, 0, 556, 0, 722, 0, 333, 333, 0, 0, 278, 333, 278, 278, 556, 556, 0, 556, 556, 556, 0, 0, 0, 556, 333, 0, 0, 0, 0, 0, 0, 722, 722, 722, 722, 667, 611, 778, 722, 278, 0, 722, 611, 833, 722, 778, 667, 778, 722, 667, 611, 722, 667, 944, 0, 667, 611, 0, 0, 0, 0, 556, 0, 556, 611, 556, 611, 556, 333, 611, 611, 278, 278, 556, 278, 889, 611, 611, 611, 0, 389, 556, 333, 611, 556, 778, 55"
+      ],
+      "recorded_sha256": "29ed8d8ab31c844b91658bcbd3531d044a459f615df9e2974dab3ec0a7c718dd",
+      "hash_match": "matched",
+      "downloaded": true,
+      "acquired_at": "2026-10-12T10:16:13.859373+00:00",
+      "local_checked_at": "2026-10-14T07:26:10.515294+00:00",
+      "last_verified_at": "2026-10-12T10:16:13.859373+00:00",
+      "published_date": "unknown",
+      "effective_date": "unknown",
+      "version": "WCL-3 (Rev. 10/19)",
+      "document_status": "unknown",
+      "currency_review": "manual_review_required",
+      "copyright_status": "permission_unclear",
+      "license_name": "unknown",
+      "license_url": "https://llr.sc.gov/aboutus/disclaimer.aspx",
+      "commercial_use_allowed": "unknown",
+      "redistribution_allowed": "unknown",
+      "modification_allowed": "unknown",
+      "attribution_required": "unknown",
+      "terms_reviewed_at": "2026-10-12T10:30:18.625543+00:00",
+      "permission_evidence": "Public publisher source and blank form inspected. No document-specific commercial redistribution grant established; original hosting and downloadable access are not permission. Reviewed policy: https://llr.sc.gov/aboutus/disclaimer.aspx; archived body evidence/http/2026-10-12T10-06-24.450998+00-00/32393b8f7c0e5ae26c66eb6e218c753159580b3455901ce19cb1a9772706d8c6.body SHA-256 32393b8f7c0e5ae26c66eb6e218c753159580b3455901ce19cb1a9772706d8c6. No blanket commercial document grant found in this reviewed page.",
+      "legal_review_status": "manual_review_required",
+      "publication_status": "not_approved",
+      "linking_permission": "manual_review_required",
+      "provenance_ref": "evidence/http/2026-10-12T10-15-37.602331+00-00/requests.json",
+      "source_link_status": "link-observed-on-fetched-source-page",
+      "authority_review_status": "verified_official",
+      "new_download": true,
+      "flags": [
+        "text-extraction-warnings-review-required",
+        "document-currency-requires-human-review",
+        "commercial-rehosting-not-approved",
+        "font-encoding-warning-and-repeated-text-needs-review"
+      ],
+      "text_path": "data/text/29ed8d8ab31c844b91658bcbd3531d044a459f615df9e2974dab3ec0a7c718dd.txt",
+      "catalog_role": "form_or_legal_document",
+      "date_evidence": [
+        "WCL-3 (Rev. 10/19)",
+        "Verified against original bytes 29ed8d8ab31c844b91658bcbd3531d044a459f615df9e2974dab3ec0a7c718dd; original file URL path date is not a release date."
+      ],
+      "source_page_evidence": "evidence/http/2026-10-12T10-03-01.567727+00-00/60624d35b5ce2c92e58af5e6176b428b49ba4617df1ef8828abb8c50a0cf0950.body",
+      "bundle_path": "01_Review_Required/01_State_Documents/SC_South Carolina/E_Employment/SC-South-Carolina-Wage-Complaint-Form--29ed8d8ab31c.pdf",
+      "bundle_section": "State documents",
+      "metadata_path": "00_Index/metadata/29ed8d8ab31c844b91658bcbd3531d044a459f615df9e2974dab3ec0a7c718dd.json",
+      "record_aliases": [
+        {
+          "record_id": "ceba8938828a32853bd74a55",
+          "document_id": "9871eb71edb28ba0d2ff2cf3",
+          "state_code": "SC",
+          "state_name": "South Carolina",
+          "scope": "state",
+          "legal_category": "employment",
+          "expected_document_types": [
+            "labor_compliance"
+          ],
+          "title": "South Carolina Wage Complaint Form",
+          "document_type": "labor_compliance",
+          "publisher": "South Carolina Department of Labor Licensing and Regulation",
+          "source_type": "government",
+          "source_page_url": "https://llr.sc.gov/wage/formswages.aspx",
+          "original_file_url": "https://llr.sc.gov/wage/pdf/wcl-3.pdf",
+          "local_path": "data/files/29ed8d8ab31c844b91658bcbd3531d044a459f615df9e2974dab3ec0a7c718dd.pdf",
+          "sha256": "29ed8d8ab31c844b91658bcbd3531d044a459f615df9e2974dab3ec0a7c718dd",
+          "bytes": 250345,
+          "format": "pdf",
+          "validation_status": "parser_passed",
+          "pages": 3,
+          "text_length": 8708,
+          "ocr_status": "not_needed",
+          "encrypted": false,
+          "parser_warnings": [
+            "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LDBNPD+Helvetica-Bold', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 32, '/FontDescriptor': IndirectObject(561, 0, 1829299191584), '/LastChar': 146, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [278, 0, 0, 0, 556, 0, 722, 0, 333, 333, 0, 0, 278, 333, 278, 278, 556, 556, 0, 556, 556, 556, 0, 0, 0, 556, 333, 0, 0, 0, 0, 0, 0, 722, 722, 722, 722, 667, 611, 778, 722, 278, 0, 722, 611, 833, 722, 778, 667, 778, 722, 667, 611, 722, 667, 944, 0, 667, 611, 0, 0, 0, 0, 556, 0, 556, 611, 556, 611, 556, 333, 611, 611, 278, 278, 556, 278, 889, 611, 611, 611, 0, 389, 556, 333, 611, 556, 778, 55"
+          ],
+          "recorded_sha256": "29ed8d8ab31c844b91658bcbd3531d044a459f615df9e2974dab3ec0a7c718dd",
+          "hash_match": "matched",
+          "downloaded": true,
+          "acquired_at": "2026-10-12T10:16:13.859373+00:00",
+          "local_checked_at": "2026-10-14T07:26:10.515294+00:00",
+          "last_verified_at": "2026-10-12T10:16:13.859373+00:00",
+          "published_date": "unknown",
+          "effective_date": "unknown",
+          "version": "WCL-3 (Rev. 10/19)",
+          "document_status": "unknown",
+          "currency_review": "manual_review_required",
+          "copyright_status": "permission_unclear",
+          "license_name": "unknown",
+          "license_url": "https://llr.sc.gov/aboutus/disclaimer.aspx",
+          "commercial_use_allowed": "unknown",
+          "redistribution_allowed": "unknown",
+          "modification_allowed": "unknown",
+          "attribution_required": "unknown",
+          "terms_reviewed_at": "2026-10-12T10:30:18.625543+00:00",
+          "permission_evidence": "Public publisher source and blank form inspected. No document-specific commercial redistribution grant established; original hosting and downloadable access are not permission. Reviewed policy: https://llr.sc.gov/aboutus/disclaimer.aspx; archived body evidence/http/2026-10-12T10-06-24.450998+00-00/32393b8f7c0e5ae26c66eb6e218c753159580b3455901ce19cb1a9772706d8c6.body SHA-256 32393b8f7c0e5ae26c66eb6e218c753159580b3455901ce19cb1a9772706d8c6. No blanket commercial document grant found in this reviewed page.",
+          "legal_review_status": "manual_review_required",
+          "publication_status": "not_approved",
+          "linking_permission": "manual_review_required",
+          "provenance_ref": "evidence/http/2026-10-12T10-15-37.602331+00-00/requests.json",
+          "source_link_status": "link-observed-on-fetched-source-page",
+          "authority_review_status": "verified_official",
+          "new_download": true,
+          "flags": [
+            "text-extraction-warnings-review-required",
+            "document-currency-requires-human-review",
+            "commercial-rehosting-not-approved",
+            "font-encoding-warning-and-repeated-text-needs-review"
+          ],
+          "text_path": "data/text/29ed8d8ab31c844b91658bcbd3531d044a459f615df9e2974dab3ec0a7c718dd.txt",
+          "catalog_role": "form_or_legal_document",
+          "date_evidence": [
+            "WCL-3 (Rev. 10/19)",
+            "Verified against original bytes 29ed8d8ab31c844b91658bcbd3531d044a459f615df9e2974dab3ec0a7c718dd; original file URL path date is not a release date."
+          ],
+          "source_page_evidence": "evidence/http/2026-10-12T10-03-01.567727+00-00/60624d35b5ce2c92e58af5e6176b428b49ba4617df1ef8828abb8c50a0cf0950.body"
+        }
+      ],
+      "original_physical_paths": [
+        "data/files/29ed8d8ab31c844b91658bcbd3531d044a459f615df9e2974dab3ec0a7c718dd.pdf"
+      ],
+      "bundle_text_path": "00_Index/extracted-text/29ed8d8ab31c844b91658bcbd3531d044a459f615df9e2974dab3ec0a7c718dd.txt"
+    }
+  }
+]

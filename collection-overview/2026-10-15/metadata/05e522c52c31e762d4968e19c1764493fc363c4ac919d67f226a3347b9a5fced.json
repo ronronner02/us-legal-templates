@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.kjc.ks.gov/home/showpublisheddocument/1340/638864405887870000",
+      "source_url": "https://www.kjc.ks.gov/legal-forms/divorce/divorce-without-minor-children/filing-a-petition-for-divorce",
+      "category": "Family",
+      "document_type": "Instructions for Filing for Divorce without Minor Children",
+      "title": "Instructions for Filing for Divorce without Minor Children",
+      "family_id": "divorce-instructions",
+      "form_id": null,
+      "scope": "state",
+      "state": "Kansas",
+      "jurisdiction": "Kansas",
+      "publisher": "Kansas Judicial Council",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-09/04-instructions-for-filing-for-divorce-without-minor-children-05e522c52c31.pdf",
+      "sha256": "05e522c52c31e762d4968e19c1764493fc363c4ac919d67f226a3347b9a5fced",
+      "acquired_at": "2026-10-14T09:58:54.247Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-09/04-instructions-for-filing-for-divorce-without-minor-children-05e522c52c31.pdf"
+    }
+  }
+]

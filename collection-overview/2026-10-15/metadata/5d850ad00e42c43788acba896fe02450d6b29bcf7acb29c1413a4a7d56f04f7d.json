@@ -1,0 +1,115 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-07/inventory.json",
+    "batch": "2026-10-15-07",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccgn002.pdf",
+      "source_link_title": "Petition for Guardianship of Alleged Disabled Person",
+      "title": "Petition for Guardianship of Alleged Disabled Person",
+      "slug": "cc-gn-002",
+      "category": "guardianship",
+      "family_id": "CC-GN-002",
+      "form_code": "CC-GN-002",
+      "identity_patterns": [
+        "CC\\s*-\\s*GN\\s*-\\s*002",
+        "PETITION\\s+FOR\\s+GUARDIANSHIP\\s+OF\\s+ALLEGED\\s+DISABLED\\s+PERSON"
+      ],
+      "source_listed_revision": "10/2026",
+      "source_description": "Use this form to ask the court to award guardianship over an individual, regardless of the individual’s age, who has a disability. Learn about the alternatives to guardianship before filing a petition .",
+      "source_row_text": "CC-GN-002 Petition for Guardianship of Alleged Disabled Person 10/2026 Use this form to ask the court to award guardianship over an individual, regardless of the individual’s age, who has a disability. Learn about the alternatives to guardianship before filing a petition .",
+      "usage_classification": "court_procedural_form",
+      "selection_reason": "Fresh official English protective-order, peace-order, guardianship, or name-change original, with procedural roles retained separately.",
+      "notes": "Use this form to ask the court to award guardianship over an individual, regardless of the individual’s age, who has a disability. Learn about the alternatives to guardianship before filing a petition .",
+      "sha256": "5d850ad00e42c43788acba896fe02450d6b29bcf7acb29c1413a4a7d56f04f7d",
+      "bytes": 316587,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 7,
+      "text_length": 11207,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-gn-002-5d850ad00e42.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-07/originals/MD/cc-gn-002-5d850ad00e42.pdf",
+      "text_path": "extracted-text/5d850ad00e42c43788acba896fe02450d6b29bcf7acb29c1413a4a7d56f04f7d.txt",
+      "acquired_at": "2026-10-15T06:49:59.560Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccgn002.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccgn002.pdf",
+        "checked_at": "2026-10-15T06:49:59.560Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "headers": {
+          "date": "Thu, 15 Oct 2026 06:50:00 GMT",
+          "content-type": "application/pdf",
+          "content-length": "316587",
+          "connection": "keep-alive",
+          "server": "cloudflare",
+          "x-content-type-options": "nosniff",
+          "last-modified": "Wed, 30 Sep 2026 15:24:19 GMT",
+          "etag": "\"4d4ab-65cb4e49a315b\"",
+          "accept-ranges": "bytes",
+          "cache-control": "public, max-age=14400",
+          "expires": "Thu, 15 Oct 2026 10:50:00 GMT",
+          "cf-cache-status": "BYPASS",
+          "cf-ray": "a4ace316bc350465-HKG"
+        },
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "5d850ad00e42c43788acba896fe02450d6b29bcf7acb29c1413a4a7d56f04f7d",
+        "bytes": 316587,
+        "body_path": "evidence/http/browser-documents/5d850ad00e42c43788acba896fe02450d6b29bcf7acb29c1413a4a7d56f04f7d.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "10/2026",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/5d850ad00e42c43788acba896fe02450d6b29bcf7acb29c1413a4a7d56f04f7d.txt",
+        "matched_text": "CC-GN-002 (Rev. 10/2026)",
+        "all_matching_markers": [
+          "CC-GN-002 (Rev. 10/2026)",
+          "CC-GN-002 (Rev. 10/2026)",
+          "CC-GN-002 (Rev. 10/2026)",
+          "CC-GN-002 (Rev. 10/2026)",
+          "CC-GN-002 (Rev. 10/2026)",
+          "CC-GN-002 (Rev. 10/2026)",
+          "CC-GN-002 (Rev. 10/2026)"
+        ],
+        "method": "Verified in extracted PDF text; whitespace normalized in metadata. Visual confirmation not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public downloading does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Catalog description says regardless of age, while the PDF instructions direct a minor, including a disabled minor, to the Rule 10-111 petition. Preserve both descriptions; applicability requires review."
+      ],
+      "related_files": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/de692470b4f80f5324d687bc61d93c3d173afa4c716f650a7ae6d31202186ca0.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": false,
+      "mdj_008_notice_reference_present": false,
+      "referenced_form_codes": [
+        "CC-GN-002"
+      ],
+      "review_note": "Parser, form-code, heading, and revision-text checks do not establish visual layout, interactive fields, calculations, signatures, legal currency, filing acceptance, complete packets, or reuse clearance."
+    }
+  }
+]

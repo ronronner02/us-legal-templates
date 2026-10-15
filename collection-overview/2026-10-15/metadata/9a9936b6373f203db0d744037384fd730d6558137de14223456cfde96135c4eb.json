@@ -1,0 +1,84 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "Massachusetts",
+      "state_code": "MA",
+      "scope": "state",
+      "publisher": "Massachusetts Court System",
+      "source_url": "https://www.mass.gov/lists/housing-court-forms",
+      "artifact_url": "https://www.mass.gov/doc/filing-of-impounded-information/download",
+      "source_link_title": "Filing of Impounded Information , Open PDF file, 203.98 KB",
+      "title": "Filing of Impounded Information",
+      "slug": "filing-impounded-information",
+      "category": "Court and general",
+      "family_id": "filing-impounded-information",
+      "identity_patterns": [
+        "impounded"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Filing the cover form alone does not establish compliance with all confidentiality requirements.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": null,
+      "sha256": "9a9936b6373f203db0d744037384fd730d6558137de14223456cfde96135c4eb",
+      "bytes": 208873,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 4787,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MA/filing-impounded-information-9a9936b6373f.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/MA/filing-impounded-information-9a9936b6373f.pdf",
+      "text_path": "extracted-text/9a9936b6373f203db0d744037384fd730d6558137de14223456cfde96135c4eb.txt",
+      "acquired_at": "2026-10-15T01:57:14.622191+00:00",
+      "receipt": {
+        "url": "https://www.mass.gov/doc/filing-of-impounded-information/download",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:57:14.622191+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"zJdOLQl/7aPjW4QRYBWXUQ==\"",
+        "last_modified": "Tue, 03 Mar 2026 19:52:53 GMT",
+        "status": "fetched",
+        "sha256": "9a9936b6373f203db0d744037384fd730d6558137de14223456cfde96135c4eb",
+        "bytes": 208873,
+        "body_path": "evidence/http/2026-10-15T01-54-36.419563+00-00/9a9936b6373f203db0d744037384fd730d6558137de14223456cfde96135c4eb.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-52-44.093538+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/652fe10bb25e9d3782a7c770fd9618093a517d333ecbf8e12a6d919f9649bed0.body",
+          "resolved_source_url": "https://www.mass.gov/lists/housing-court-forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [],
+      "quality_notes": [
+        "Completed forms may contain confidential or financial data; retained artifact is the blank official original. No completed information was submitted."
+      ],
+      "edition_classification": "unverified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "reuse_note": "Mass.gov terms reserve copyright and describe a fair-use exception. Collection for research does not establish permission for republication, modification, or commercial use. Reuse review remains pending.",
+      "rights_source_url": "https://www.mass.gov/massgov-terms-of-use",
+      "revision_text_candidates": [
+        "All filers are required to review this list and to mark on this form any and all appl",
+        "Abuse Prevention Orders. G. L. c. 209A, § 8.",
+        "Harassment Prevention Orders. G. L. c. 258E, § 10.",
+        "Medical Peer Review Committee. G. L. c. 111, § 204.",
+        "§§ 3:15 and 5:02 (rev. 2008)."
+      ],
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

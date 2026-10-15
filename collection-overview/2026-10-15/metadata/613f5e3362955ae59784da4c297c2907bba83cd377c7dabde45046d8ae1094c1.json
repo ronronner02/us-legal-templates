@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://eforms.alacourt.gov/media/df4mch23/sm-3-defendant-s-answer.pdf",
+      "source_url": "https://eforms.alacourt.gov/small-claims/",
+      "category": "Court procedure",
+      "document_type": "Defendant's Answer",
+      "title": "Defendant's Answer",
+      "family_id": "small-claims-answer",
+      "form_id": "SM-3",
+      "scope": "state",
+      "state": "Alabama",
+      "jurisdiction": "Alabama",
+      "publisher": "Alabama Administrative Office of Courts",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/01-defendant-s-answer-613f5e336295.pdf",
+      "sha256": "613f5e3362955ae59784da4c297c2907bba83cd377c7dabde45046d8ae1094c1",
+      "acquired_at": "2026-10-14T09:39:55.019Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/01-defendant-s-answer-613f5e336295.pdf"
+    }
+  }
+]

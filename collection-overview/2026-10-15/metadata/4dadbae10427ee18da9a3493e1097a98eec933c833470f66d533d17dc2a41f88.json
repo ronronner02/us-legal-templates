@@ -1,0 +1,115 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-07/inventory.json",
+    "batch": "2026-10-15-07",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv001b.pdf/ccdcdv001b.pdf",
+      "source_link_title": "Definition of Terms (for Use with Petition for Protection from Domestic Violence, Child Abuse, and Vulnerable Adult Abuse)",
+      "title": "Definition of Terms (for Use with Petition for Protection from Domestic Violence, Child Abuse, and Vulnerable Adult Abuse)",
+      "slug": "cc-dc-dv-001b",
+      "category": "protective_orders",
+      "family_id": "CC-DC-DV-001B",
+      "form_code": "CC-DC-DV-001B",
+      "identity_patterns": [
+        "CC\\s*-\\s*DC\\s*-\\s*DV\\s*-\\s*001B",
+        "DEFINITION\\s+OF\\s+TERMS"
+      ],
+      "source_listed_revision": "12/2020",
+      "source_description": "Use this instruction form to become familiar with legal terms in protective order cases. Learn more .",
+      "source_row_text": "CC-DC-DV-001B Definition of Terms (for Use with Petition for Protection from Domestic Violence, Child Abuse, and Vulnerable Adult Abuse) 12/2020 Use this instruction form to become familiar with legal terms in protective order cases. Learn more .",
+      "usage_classification": "procedural_guidance",
+      "selection_reason": "Fresh official English protective-order, peace-order, guardianship, or name-change original, with procedural roles retained separately.",
+      "notes": "Use this instruction form to become familiar with legal terms in protective order cases. Learn more .",
+      "sha256": "4dadbae10427ee18da9a3493e1097a98eec933c833470f66d533d17dc2a41f88",
+      "bytes": 144008,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 7997,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-dc-dv-001b-4dadbae10427.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-001b-4dadbae10427.pdf",
+      "text_path": "extracted-text/4dadbae10427ee18da9a3493e1097a98eec933c833470f66d533d17dc2a41f88.txt",
+      "acquired_at": "2026-10-15T06:43:01.479Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv001b.pdf/ccdcdv001b.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv001b.pdf/ccdcdv001b.pdf",
+        "checked_at": "2026-10-15T06:43:01.479Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "headers": {
+          "date": "Thu, 15 Oct 2026 06:43:02 GMT",
+          "content-type": "application/pdf",
+          "content-length": "144008",
+          "connection": "keep-alive",
+          "server": "cloudflare",
+          "x-content-type-options": "nosniff",
+          "last-modified": "Tue, 25 Aug 2026 20:35:12 GMT",
+          "etag": "\"23288-659e50a1a3bf9\"",
+          "accept-ranges": "bytes",
+          "cache-control": "public, max-age=14400",
+          "expires": "Thu, 15 Oct 2026 10:43:02 GMT",
+          "cf-cache-status": "BYPASS",
+          "cf-ray": "a4acd8e1bee20465-HKG"
+        },
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "4dadbae10427ee18da9a3493e1097a98eec933c833470f66d533d17dc2a41f88",
+        "bytes": 144008,
+        "body_path": "evidence/http/browser-documents/4dadbae10427ee18da9a3493e1097a98eec933c833470f66d533d17dc2a41f88.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "12/2020",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/4dadbae10427ee18da9a3493e1097a98eec933c833470f66d533d17dc2a41f88.txt",
+        "matched_text": "CC-DC-DV-001B (Rev. 12/2020)",
+        "all_matching_markers": [
+          "CC-DC-DV-001B (Rev. 12/2020)",
+          "CC-DC-DV-001B (Rev. 12/2020)"
+        ],
+        "method": "Verified in extracted PDF text; whitespace normalized in metadata. Visual confirmation not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public downloading does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Definition-of-terms guidance accompanies the protective-order petition; it is not a party filing or independently verified statement of current law."
+      ],
+      "related_files": [
+        "originals/MD/cc-dc-dv-001-d2898f99c57c.pdf",
+        "originals/MD/cc-dc-dv-001a-f57c97732952.pdf",
+        "originals/MD/cc-dc-dv-004-7e60f0f133b6.pdf"
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/de692470b4f80f5324d687bc61d93c3d173afa4c716f650a7ae6d31202186ca0.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": false,
+      "mdj_008_notice_reference_present": false,
+      "referenced_form_codes": [
+        "CC-DC-DV-001",
+        "CC-DC-DV-001B"
+      ],
+      "review_note": "Parser, form-code, heading, and revision-text checks do not establish visual layout, interactive fields, calculations, signatures, legal currency, filing acceptance, complete packets, or reuse clearance."
+    }
+  }
+]

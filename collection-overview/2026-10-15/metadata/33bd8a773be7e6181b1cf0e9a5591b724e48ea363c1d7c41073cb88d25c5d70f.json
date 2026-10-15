@@ -1,0 +1,83 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-03/inventory.json",
+    "batch": "2026-10-15-03",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "District Court; civil procedure and judgment enforcement",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/district/forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv036.pdf/dccv036.pdf",
+      "source_link_title": "DC-CV-036",
+      "title": "Motion for Release of Property from Levy/Garnishment or to Exempt Property from Execution",
+      "slug": "dc-cv-036-motion-for-release-of-property-from-levy-garnishment-or-to-exempt-property-from-execution",
+      "category": "Civil procedure and judgments",
+      "family_id": "md-dc-cv-036",
+      "identity_patterns": [
+        "DC[- ]?CV[- ]?036",
+        "EXEMPT\\s+PROPERTY\\s+FROM\\s+EXECUTION"
+      ],
+      "source_listed_revision": "09/2026",
+      "source_row_text": "DC-CV-036 | Motion for Release of Property from Levy/Garnishment or to Exempt Property from Execution | 09/2026 |  | Need help filling out court forms? Maryland Guide & File is a web-based tool that helps fill out court forms. To use this Maryland Guide & File interview, CLICK HERE .",
+      "selection_reason": "Adds an official civil procedure form absent from baseline URLs after Pennsylvania acquisition stopped on HTTP 403.",
+      "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata.",
+      "sha256": "33bd8a773be7e6181b1cf0e9a5591b724e48ea363c1d7c41073cb88d25c5d70f",
+      "bytes": 234969,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 4752,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/dc-cv-036-33bd8a773be7.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-03/originals/MD/dc-cv-036-33bd8a773be7.pdf",
+      "text_path": "extracted-text/33bd8a773be7e6181b1cf0e9a5591b724e48ea363c1d7c41073cb88d25c5d70f.txt",
+      "acquired_at": "2026-10-15T02:40:35.758711+00:00",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv036.pdf/dccv036.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T02:40:35.758711+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"395d9-65c268da6a1f0\"",
+        "last_modified": "Wed, 23 Sep 2026 13:35:15 GMT",
+        "status": "fetched",
+        "sha256": "33bd8a773be7e6181b1cf0e9a5591b724e48ea363c1d7c41073cb88d25c5d70f",
+        "bytes": 234969,
+        "body_path": "evidence/http/2026-10-15T02-40-10.609522+00-00/33bd8a773be7e6181b1cf0e9a5591b724e48ea363c1d7c41073cb88d25c5d70f.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T02-32-47.323987+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T02-32-47.323987+00-00/ae8f043cc4032bbd1c7b3272166ba1bc43aea013d81c7475749abcbbd9a03cb2.body",
+          "resolved_source_url": "https://www.mdcourts.gov/district/forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "09/2026",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/33bd8a773be7e6181b1cf0e9a5591b724e48ea363c1d7c41073cb88d25c5d70f.txt",
+        "matched_text": "DC-CV-036 (Rev. 09/2026)",
+        "method": "Verified in extracted original text; visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "Captured source footer reserves copyright. Public downloading does not establish permission for republication, modification, or commercial reuse. Rights and publication approval remain pending.",
+      "related_files": [],
+      "quality_notes": [
+        "Source lists September 2026 revision. The printed revision was independently checked in extracted text; present procedural applicability remains pending."
+      ],
+      "review_note": "Parser, form-code, and printed-revision text checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.wyocourts.gov/app/uploads/2025/12/SC-01a-Instructions-for-Small-Claims-Affidavit-11-24.pdf",
+      "source_url": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/",
+      "category": "Court procedure",
+      "document_type": "Instructions for Small Claims Affidavit",
+      "title": "Instructions for Small Claims Affidavit",
+      "family_id": "small-claims-instructions",
+      "form_id": "SC Form 01a",
+      "scope": "state",
+      "state": "Wyoming",
+      "jurisdiction": "Wyoming",
+      "publisher": "Wyoming Judicial Branch",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-03/05-instructions-for-small-claims-affidavit-b311cb135c9b.pdf",
+      "sha256": "b311cb135c9b55a87afb10e4b3d2dc0e62d19fab145274bd20f90c4ca9e362e1",
+      "acquired_at": "2026-10-14T09:05:40.929Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-03/05-instructions-for-small-claims-affidavit-b311cb135c9b.pdf"
+    }
+  }
+]

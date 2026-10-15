@@ -1,0 +1,95 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "Massachusetts",
+      "state_code": "MA",
+      "scope": "state",
+      "publisher": "Massachusetts Court System",
+      "source_url": "https://www.mass.gov/lists/court-forms-for-eviction",
+      "artifact_url": "https://www.mass.gov/doc/summary-process-agreement-for-judgment/download",
+      "source_link_title": "Summary Process Agreement for Judgment , Open PDF file, 1.17 MB",
+      "title": "Summary Process Agreement for Judgment",
+      "slug": "summary-process-agreement-judgment",
+      "category": "Court and general",
+      "family_id": "summary-process-agreement-judgment",
+      "identity_patterns": [
+        "agreement",
+        "judgment"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Source places this rendition under Boston Municipal Court forms. Keep separate from Housing Court agreement-for-judgment rendition.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "10/21",
+      "sha256": "d800e87f00b8dde765eea425fdf1395b89796abdbac4e3e88ffa4415f1e9604e",
+      "bytes": 1225206,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 698,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MA/summary-process-agreement-judgment-d800e87f00b8.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/MA/summary-process-agreement-judgment-d800e87f00b8.pdf",
+      "text_path": "extracted-text/d800e87f00b8dde765eea425fdf1395b89796abdbac4e3e88ffa4415f1e9604e.txt",
+      "acquired_at": "2026-10-15T02:01:38.396475+00:00",
+      "receipt": {
+        "url": "https://www.mass.gov/doc/summary-process-agreement-for-judgment/download",
+        "kind": "document",
+        "checked_at": "2026-10-15T02:01:38.396475+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"B7xY/dZ3yixJ53HsPRruyA==\"",
+        "last_modified": "Thu, 18 Nov 2021 20:53:03 GMT",
+        "status": "fetched",
+        "sha256": "d800e87f00b8dde765eea425fdf1395b89796abdbac4e3e88ffa4415f1e9604e",
+        "bytes": 1225206,
+        "body_path": "evidence/http/2026-10-15T02-01-24.112664+00-00/d800e87f00b8dde765eea425fdf1395b89796abdbac4e3e88ffa4415f1e9604e.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "identity_method": "embedded_xfa_template",
+      "xfa_template_path": "evidence/xfa/summary-process-agreement-judgment-template.xml",
+      "xfa_text_path": "extracted-text/d800e87f00b8dde765eea425fdf1395b89796abdbac4e3e88ffa4415f1e9604e.xfa.txt",
+      "text_extraction_status": "pdf_page_contains_viewer_notice_xfa_text_extracted",
+      "rendering_status": "xfa_compatible_viewer_required_not_tested",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-51-07.154781+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/a153acc8f6a1cd99e95ed6b8c56cebf0120c09b481075d174b627c5aff8ccb18.body",
+          "resolved_source_url": "https://www.mass.gov/lists/court-forms-for-eviction"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [
+        "originals/MA/housing-court-agreement-judgment-512e56339643.pdf",
+        "originals/MA/housing-court-agreement-7767cab38a8b.pdf"
+      ],
+      "quality_notes": [
+        "Related agreement forms are court- and purpose-specific. Similar titles do not establish interchangeability or court approval.",
+        "Dynamic Adobe XFA form. Ordinary PDF page extraction returns a viewer notice. Identity was verified from the embedded XFA XML template. Rendering, interactive fields, and dynamic pagination require a compatible viewer and remain untested."
+      ],
+      "edition_classification": "unverified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "reuse_note": "Mass.gov terms reserve copyright and describe a fair-use exception. Collection for research does not establish permission for republication, modification, or commercial use. Reuse review remains pending.",
+      "rights_source_url": "https://www.mass.gov/massgov-terms-of-use",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/d800e87f00b8dde765eea425fdf1395b89796abdbac4e3e88ffa4415f1e9604e.xfa.txt",
+        "matched_text": "10/21",
+        "method": "Extracted from embedded XFA XML template; visual confirmation not run."
+      },
+      "revision_text_candidates": [
+        "rt on \t\t     at\t\t o'clock for review on compliance with this Agreement."
+      ],
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

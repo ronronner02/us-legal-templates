@@ -1,0 +1,81 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "Massachusetts",
+      "state_code": "MA",
+      "scope": "state",
+      "publisher": "Massachusetts Court System",
+      "source_url": "https://www.mass.gov/lists/court-forms-for-eviction",
+      "artifact_url": "https://www.mass.gov/doc/financial-statement-housing-court/download",
+      "source_link_title": "Financial Statement - Housing Court , Open PDF file, 264.61 KB",
+      "title": "Financial Statement - Housing Court",
+      "slug": "housing-court-financial-statement",
+      "category": "Court and general",
+      "family_id": "housing-court-financial-statement",
+      "identity_patterns": [
+        "financial",
+        "statement"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Blank financial-disclosure form; completed copies may contain sensitive financial information.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": null,
+      "sha256": "156abeb6706daff25899e3694850585026bf1b8535478dedf8aae04ca552abfa",
+      "bytes": 270965,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 2,
+      "text_length": 3937,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MA/housing-court-financial-statement-156abeb6706d.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/MA/housing-court-financial-statement-156abeb6706d.pdf",
+      "text_path": "extracted-text/156abeb6706daff25899e3694850585026bf1b8535478dedf8aae04ca552abfa.txt",
+      "acquired_at": "2026-10-15T01:55:01.335659+00:00",
+      "receipt": {
+        "url": "https://www.mass.gov/doc/financial-statement-housing-court/download",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:55:01.335659+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"kojTCETWP0GgSbn1bKRJsg==\"",
+        "last_modified": "Sun, 27 Aug 2017 07:04:49 GMT",
+        "status": "fetched",
+        "sha256": "156abeb6706daff25899e3694850585026bf1b8535478dedf8aae04ca552abfa",
+        "bytes": 270965,
+        "body_path": "evidence/http/2026-10-15T01-54-36.419563+00-00/156abeb6706daff25899e3694850585026bf1b8535478dedf8aae04ca552abfa.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-51-07.154781+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/a153acc8f6a1cd99e95ed6b8c56cebf0120c09b481075d174b627c5aff8ccb18.body",
+          "resolved_source_url": "https://www.mass.gov/lists/court-forms-for-eviction"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [],
+      "quality_notes": [
+        "Completed forms may contain confidential or financial data; retained artifact is the blank official original. No completed information was submitted."
+      ],
+      "edition_classification": "unverified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "reuse_note": "Mass.gov terms reserve copyright and describe a fair-use exception. Collection for research does not establish permission for republication, modification, or commercial use. Reuse review remains pending.",
+      "rights_source_url": "https://www.mass.gov/massgov-terms-of-use",
+      "revision_text_candidates": [
+        "Previous Employer ..............................Position .."
+      ],
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

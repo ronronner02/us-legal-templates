@@ -1,0 +1,81 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-03/inventory.json",
+    "batch": "2026-10-15-03",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "District Court; housing and landlord-tenant proceedings",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/district/forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv083.pdf/dccv083.pdf",
+      "source_link_title": "DC-CV-083",
+      "title": "Complaint for Rent Escrow and Breach of Warranty of Habitability",
+      "slug": "dc-cv-083-complaint-for-rent-escrow-and-breach-of-warranty-of-habitability",
+      "category": "Housing and landlord-tenant",
+      "family_id": "md-dc-cv-083",
+      "identity_patterns": [
+        "DC[- ]?CV[- ]?083",
+        "WARRANTY\\s+OF\\s+HABITABILITY"
+      ],
+      "source_listed_revision": "10/2025",
+      "source_row_text": "DC-CV-083 | Complaint for Rent Escrow and Breach of Warranty of Habitability | 10/2025 |  | Need help filling out court forms? Maryland Guide & File is a web-based tool that helps fill out court forms. To use this Maryland Guide & File interview, CLICK HERE .",
+      "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+      "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata.",
+      "sha256": "b8017eb975a5b142f0c5d2798e7a31f52552200fd55c2316f2b7b13badf71c9d",
+      "bytes": 963628,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 3108,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/dc-cv-083-b8017eb975a5.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-03/originals/MD/dc-cv-083-b8017eb975a5.pdf",
+      "text_path": "extracted-text/b8017eb975a5b142f0c5d2798e7a31f52552200fd55c2316f2b7b13badf71c9d.txt",
+      "acquired_at": "2026-10-15T02:38:33.532052+00:00",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv083.pdf/dccv083.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T02:38:33.532052+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"eb42c-64f1f0378a0e0\"",
+        "last_modified": "Fri, 10 Apr 2026 18:08:01 GMT",
+        "status": "fetched",
+        "sha256": "b8017eb975a5b142f0c5d2798e7a31f52552200fd55c2316f2b7b13badf71c9d",
+        "bytes": 963628,
+        "body_path": "evidence/http/2026-10-15T02-38-22.548123+00-00/b8017eb975a5b142f0c5d2798e7a31f52552200fd55c2316f2b7b13badf71c9d.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T02-32-47.323987+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T02-32-47.323987+00-00/ae8f043cc4032bbd1c7b3272166ba1bc43aea013d81c7475749abcbbd9a03cb2.body",
+          "resolved_source_url": "https://www.mdcourts.gov/district/forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "10/2025",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/b8017eb975a5b142f0c5d2798e7a31f52552200fd55c2316f2b7b13badf71c9d.txt",
+        "matched_text": "DC-CV-083 (Rev. 10/2025)",
+        "method": "Verified in extracted original text; visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "Captured source footer reserves copyright. Public downloading does not establish permission for republication, modification, or commercial reuse. Rights and publication approval remain pending.",
+      "related_files": [],
+      "quality_notes": [],
+      "review_note": "Parser, form-code, and printed-revision text checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "state",
+      "publisher": "Maine Department of Labor",
+      "source_url": "https://www.maine.gov/labor/posters/",
+      "artifact_url": "https://www.maine.gov/labor/docs/2024/posters/regofemployment/regulationofemployment_English.pdf",
+      "source_link_title": "English Language Poster",
+      "title": "Regulation of Employment Poster",
+      "slug": "regulation-of-employment-notice",
+      "category": "Employment",
+      "family_id": "employment-regulations-notice",
+      "identity_patterns": [
+        "employment"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "Filename directory year is not a publication-date determination.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "rev. 12/23",
+      "sha256": "76236d98ea84f40c1b0e71366d95f8898ab5aeaa7d2d74a9cbd6dbf5318acd4c",
+      "bytes": 113095,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 5200,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/ME/regulation-of-employment-notice-76236d98ea84.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/ME/regulation-of-employment-notice-76236d98ea84.pdf",
+      "text_path": "extracted-text/76236d98ea84f40c1b0e71366d95f8898ab5aeaa7d2d74a9cbd6dbf5318acd4c.txt",
+      "acquired_at": "2026-10-15T01:34:42.885121+00:00",
+      "receipt": {
+        "url": "https://www.maine.gov/labor/docs/2024/posters/regofemployment/regulationofemployment_English.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:34:42.885121+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"1b9c7-60d08f97b4629\"",
+        "last_modified": "Thu, 21 Dec 2023 18:07:36 GMT",
+        "status": "fetched",
+        "sha256": "76236d98ea84f40c1b0e71366d95f8898ab5aeaa7d2d74a9cbd6dbf5318acd4c",
+        "bytes": 113095,
+        "body_path": "evidence/http/2026-10-15T01-32-40.761224+00-00/76236d98ea84f40c1b0e71366d95f8898ab5aeaa7d2d74a9cbd6dbf5318acd4c.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "undetermined",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [],
+      "related_files": [],
+      "rights_evidence": [
+        {
+          "kind": "document_copy_statement",
+          "text": "This poster is available online at no charge and may be copied:  https://www.maine.gov/labor/posters/",
+          "evidence_path": "extracted-text/76236d98ea84f40c1b0e71366d95f8898ab5aeaa7d2d74a9cbd6dbf5318acd4c.txt",
+          "scope": "Copying stated by the document; modification, resale, and broad commercial redistribution remain unreviewed."
+        }
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-29-58.709997+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/1c0b8edd378ee5f0c976f57b0761a433d78feef71b5351785e9444b893656ea1.body",
+          "resolved_source_url": "https://www.maine.gov/labor/posters/"
+        }
+      ],
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

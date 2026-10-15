@@ -1,0 +1,39 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://irp.cdn-website.com/3a4d916c/files/uploaded/Small-claims-handbook-2021.pdf",
+      "source_url": "https://www.dadecountymo.gov/circuit-clerk",
+      "category": "Court procedure",
+      "document_type": "Missouri Small Claims Court Handbook - county-hosted 2021 copy",
+      "title": "Missouri Small Claims Court Handbook - county-hosted 2021 copy",
+      "family_id": "small-claims-instructions",
+      "form_id": null,
+      "scope": "state",
+      "state": "Missouri",
+      "jurisdiction": "Missouri; Dade County Circuit Clerk source",
+      "publisher": "Dade County Circuit Clerk",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-09/05-missouri-small-claims-court-handbook-county-hosted-2021-copy-79bf30cdc93d.pdf",
+      "sha256": "79bf30cdc93dab6e4ae83a4020572d23df3b45915f5042d421dcdfa65ee471b5",
+      "acquired_at": "2026-10-14T09:58:55.621Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [
+        "county-source-scope",
+        "historical-copy-current-version-review"
+      ],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-09/05-missouri-small-claims-court-handbook-county-hosted-2021-copy-79bf30cdc93d.pdf"
+    }
+  }
+]

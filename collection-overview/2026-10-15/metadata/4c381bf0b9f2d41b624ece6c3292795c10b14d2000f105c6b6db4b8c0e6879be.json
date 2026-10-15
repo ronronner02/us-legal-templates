@@ -1,0 +1,36 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://www.kjc.ks.gov/home/showpublisheddocument/2318/638962859351730000",
+      "source_url": "https://www.kjc.ks.gov/legal-forms/small-claims/filing-a-small-claims-case/-folder-681-431",
+      "category": "Court procedure",
+      "document_type": "Small Claims Petition",
+      "title": "Small Claims Petition",
+      "family_id": "small-claims-complaint",
+      "form_id": null,
+      "scope": "state",
+      "state": "Kansas",
+      "jurisdiction": "Kansas",
+      "publisher": "Kansas Judicial Council",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-09/01-small-claims-petition-4c381bf0b9f2.pdf",
+      "sha256": "4c381bf0b9f2d41b624ece6c3292795c10b14d2000f105c6b6db4b8c0e6879be",
+      "acquired_at": "2026-10-14T09:58:50.248Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "listed-on-acquired-source",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-09/01-small-claims-petition-4c381bf0b9f2.pdf"
+    }
+  }
+]

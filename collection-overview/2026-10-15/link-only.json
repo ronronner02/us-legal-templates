@@ -1,0 +1,90 @@
+{
+  "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf": [
+    {
+      "inventory": "organized-library/00_Index/all-records.json",
+      "record": {
+        "record_id": "96f2ad61a4bebb6a7733b8ca",
+        "document_id": "d412aca667dea222132f65cf",
+        "state_code": "OR",
+        "state_name": "Oregon",
+        "scope": "state",
+        "legal_category": "court_general",
+        "expected_document_types": [
+          "probate_estate"
+        ],
+        "title": "Oregon Advance Directive User Guide",
+        "document_type": "Advance directive instructions",
+        "publisher": "Oregon Health Authority",
+        "source_type": "government",
+        "source_page_url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+        "original_file_url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+        "local_path": null,
+        "validation_status": "file_missing",
+        "sha256": null,
+        "format": "docx",
+        "recorded_sha256": null,
+        "hash_match": "not_recorded",
+        "downloaded": false,
+        "acquired_at": "2026-10-09T10:06:59.552Z",
+        "local_checked_at": "2026-10-14T07:26:10.515294+00:00",
+        "last_verified_at": "2026-10-12T01:54:00.128Z",
+        "published_date": "unknown",
+        "effective_date": "unknown",
+        "version": "unknown",
+        "document_status": "unknown",
+        "currency_review": "manual_review_required",
+        "copyright_status": "permission_unclear",
+        "license_name": "unknown",
+        "license_url": "unknown",
+        "commercial_use_allowed": "unknown",
+        "redistribution_allowed": "unknown",
+        "modification_allowed": "unknown",
+        "attribution_required": "unknown",
+        "terms_reviewed_at": "unknown",
+        "permission_evidence": "No document-specific reuse approval recorded.",
+        "legal_review_status": "manual_review_required",
+        "publication_status": "not_approved",
+        "linking_permission": "manual_review_required",
+        "provenance_ref": "docs/legal-template-research/organized/2026-10-12/inventory.json",
+        "source_link_status": "listed-on-source",
+        "authority_review_status": "pending_review",
+        "new_download": false,
+        "flags": [
+          "file_missing"
+        ],
+        "text_path": null,
+        "catalog_role": "form_or_legal_document",
+        "date_evidence": [],
+        "bundle_path": "",
+        "bundle_status": "link_only_no_file"
+      }
+    },
+    {
+      "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+      "record": {
+        "artifact_url": "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3942.pdf",
+        "source_url": "https://www.oregon.gov/oha/ph/about/pages/adac-forms.aspx",
+        "category": "Estate and personal planning",
+        "document_type": "Advance directive instructions",
+        "title": "Oregon Advance Directive User Guide",
+        "family_id": "advance-directive-guide",
+        "scope": "state",
+        "state": "Oregon",
+        "publisher": "Oregon Health Authority",
+        "jurisdiction": "Oregon",
+        "downloaded": false,
+        "format": "docx",
+        "local_archive_path": null,
+        "sha256": null,
+        "acquired_at": "2026-10-09T10:06:59.552Z",
+        "local_verification": "missing-artifact",
+        "live_comparison": "fetch-failed",
+        "last_live_check": "2026-10-12T01:54:00.128Z",
+        "source_link_status": "listed-on-source",
+        "legal_review": "pending",
+        "reuse_review": "pending",
+        "publication_status": "not-approved"
+      }
+    }
+  ]
+}

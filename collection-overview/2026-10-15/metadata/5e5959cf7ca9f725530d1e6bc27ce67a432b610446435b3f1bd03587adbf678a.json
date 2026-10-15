@@ -1,0 +1,84 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-02/inventory.json",
+    "batch": "2026-10-15-02",
+    "record": {
+      "state": "Massachusetts",
+      "state_code": "MA",
+      "scope": "state",
+      "publisher": "Massachusetts Court System",
+      "source_url": "https://www.mass.gov/lists/housing-court-forms",
+      "artifact_url": "https://www.mass.gov/doc/motion-to-withdraw-appearance/download",
+      "source_link_title": "Motion to Withdraw Appearance , Open PDF file, 1.59 MB",
+      "title": "Motion to Withdraw Appearance",
+      "slug": "motion-withdraw-appearance",
+      "category": "Court and general",
+      "family_id": "motion-withdraw-appearance",
+      "identity_patterns": [
+        "withdraw",
+        "appearance"
+      ],
+      "selection_reason": "Official source-link observation; baseline URL and SHA-256 screening before inclusion.",
+      "notes": "Attorney appearance withdrawal in Housing Court.",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "HC 08/2025",
+      "sha256": "5e5959cf7ca9f725530d1e6bc27ce67a432b610446435b3f1bd03587adbf678a",
+      "bytes": 1664690,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1715,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MA/motion-withdraw-appearance-5e5959cf7ca9.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-02/originals/MA/motion-withdraw-appearance-5e5959cf7ca9.pdf",
+      "text_path": "extracted-text/5e5959cf7ca9f725530d1e6bc27ce67a432b610446435b3f1bd03587adbf678a.txt",
+      "acquired_at": "2026-10-15T01:57:40.070238+00:00",
+      "receipt": {
+        "url": "https://www.mass.gov/doc/motion-to-withdraw-appearance/download",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:57:40.070238+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"9eZw9u9Kgn0Z4wIQKzQLWQ==\"",
+        "last_modified": "Tue, 03 Mar 2026 15:54:13 GMT",
+        "status": "fetched",
+        "sha256": "5e5959cf7ca9f725530d1e6bc27ce67a432b610446435b3f1bd03587adbf678a",
+        "bytes": 1664690,
+        "body_path": "evidence/http/2026-10-15T01-54-36.419563+00-00/5e5959cf7ca9f725530d1e6bc27ce67a432b610446435b3f1bd03587adbf678a.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-52-44.093538+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/652fe10bb25e9d3782a7c770fd9618093a517d333ecbf8e12a6d919f9649bed0.body",
+          "resolved_source_url": "https://www.mass.gov/lists/housing-court-forms"
+        }
+      ],
+      "metadata_as_of": "2026-10-15",
+      "related_files": [],
+      "quality_notes": [],
+      "edition_classification": "unverified",
+      "usage_classification": "court_procedural_form",
+      "copyright_review": "pending",
+      "reuse_note": "Mass.gov terms reserve copyright and describe a fair-use exception. Collection for research does not establish permission for republication, modification, or commercial use. Reuse review remains pending.",
+      "rights_source_url": "https://www.mass.gov/massgov-terms-of-use",
+      "revision_text_candidates": [
+        "• My previous client(s) will appear without an attorney in all p"
+      ],
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/5e5959cf7ca9f725530d1e6bc27ce67a432b610446435b3f1bd03587adbf678a.txt",
+        "matched_text": "HC 08/2025",
+        "method": "Verified in extracted original text; visual confirmation not run."
+      },
+      "review_note": "Parser and expected-title checks do not establish visual layout, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-06/inventory.json",
+    "batch": "2026-10-15-06",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdrin.pdf",
+      "source_link_title": "General Instructions for Family and Guardianship Forms",
+      "title": "General Instructions for Family and Guardianship Forms",
+      "slug": "cc-drin",
+      "category": "family_case_procedure",
+      "family_id": "CC-DRIN",
+      "form_code": "CC-DRIN",
+      "identity_patterns": [
+        "CC[-\\s]*DRIN",
+        "GENERAL\\s+INSTRUCTIONS"
+      ],
+      "source_listed_revision": "07/2026",
+      "source_description": "Use this instruction form for cases including child custody, visitation, child support, divorce, alimony, name change, contempt, and guardianship.",
+      "source_row_text": "CC-DRIN General Instructions for Family and Guardianship Forms 07/2026 Use this instruction form for cases including child custody, visitation, child support, divorce, alimony, name change, contempt, and guardianship.",
+      "usage_classification": "procedural_guidance",
+      "selection_reason": "Fresh official English family-law original, with procedural, financial, agreement, and guidance roles recorded separately.",
+      "notes": "Use this instruction form for cases including child custody, visitation, child support, divorce, alimony, name change, contempt, and guardianship.",
+      "sha256": "d3d6a07e20d91c33adf0d71ac50de325ee46278f1acc6ad08b159f85cf94afe4",
+      "bytes": 232555,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 9,
+      "text_length": 30230,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-drin-d3d6a07e20d9.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-06/originals/MD/cc-drin-d3d6a07e20d9.pdf",
+      "text_path": "extracted-text/d3d6a07e20d91c33adf0d71ac50de325ee46278f1acc6ad08b159f85cf94afe4.txt",
+      "acquired_at": "2026-10-15T04:33:24.911Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdrin.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/ccdrin.pdf",
+        "checked_at": "2026-10-15T04:33:24.911Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"38c6b-6557baa934d27\"",
+        "last_modified": "Tue, 30 Jun 2026 17:11:31 GMT",
+        "bytes": 232555,
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "d3d6a07e20d91c33adf0d71ac50de325ee46278f1acc6ad08b159f85cf94afe4",
+        "body_path": "evidence/http/browser-documents/d3d6a07e20d91c33adf0d71ac50de325ee46278f1acc6ad08b159f85cf94afe4.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "07/2026",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/d3d6a07e20d91c33adf0d71ac50de325ee46278f1acc6ad08b159f85cf94afe4.txt",
+        "matched_text": "CC-DRIN (Rev. 07/2026)",
+        "method": "Confirmed in extracted original PDF text; whitespace normalized only in the metadata date. Visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public download availability does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [],
+      "related_files": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/1393658dff84a449addf3059e84009d2ca462c016a14f07e8afe82eae4d27321.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": false,
+      "mdj_008_notice_reference_present": false,
+      "review_note": "Parser, form-code, title, and revision-text checks do not establish visual layout, fields, calculations, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-05/inventory.json",
+    "batch": "2026-10-15-05",
+    "record": {
+      "state": "Wisconsin",
+      "state_code": "WI",
+      "scope": "statewide",
+      "publisher": "Wisconsin Court System",
+      "source_url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38",
+      "artifact_url": "https://www.wicourts.gov/formdisplay/SC-5500VB.pdf?formNumber=SC-5500VB&formType=Form&formatId=2&language=en",
+      "source_link_title": "Form English",
+      "title": "Order on Petition for Stay of Eviction Based on Defendant's Application for Emergency Assistance (Small Claims)",
+      "slug": "sc-5500vb",
+      "category": "housing_and_eviction",
+      "family_id": "SC-5500V",
+      "form_code": "SC-5500VB",
+      "identity_patterns": [
+        "SC\\-5500VB",
+        "Small\\s+Claims"
+      ],
+      "source_listed_revision": "05/03/2018",
+      "source_description": "Court order to stay eviction proceedings after defendant has applied for Emergency Assistance grant. Voluntary form.",
+      "source_row_text": "SC-5500VB Order on Petition for Stay of Eviction Based on Defendant's Application for Emergency Assistance (Small Claims) Court order to stay eviction proceedings after defendant has applied for Emergency Assistance grant. Voluntary form. 05/03/2018 Form English Form English Summary English",
+      "usage_classification": "proposed_order",
+      "source_form_status": "voluntary",
+      "selection_reason": "Fresh official English PDF with form, order, or procedural-guidance role recorded separately.",
+      "notes": "Court order to stay eviction proceedings after defendant has applied for Emergency Assistance grant. Voluntary form.",
+      "sha256": "64ff2e7d3f0e21e3d4901a68c7d57ac2f356d93dae106905722bc90fe7e74327",
+      "bytes": 166565,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1281,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/WI/sc-5500vb-64ff2e7d3f0e.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-05/originals/WI/sc-5500vb-64ff2e7d3f0e.pdf",
+      "text_path": "extracted-text/64ff2e7d3f0e21e3d4901a68c7d57ac2f356d93dae106905722bc90fe7e74327.txt",
+      "acquired_at": "2026-10-15T04:21:17.840Z",
+      "receipt": {
+        "url": "https://www.wicourts.gov/formdisplay/SC-5500VB.pdf?formNumber=SC-5500VB&formType=Form&formatId=2&language=en",
+        "resolved_url": "https://www.wicourts.gov/formdisplay/SC-5500VB.pdf?formNumber=SC-5500VB&formType=Form&formatId=2&language=en",
+        "checked_at": "2026-10-15T04:21:17.840Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "last_modified": "Fri, 31 Aug 2018 00:00:00 GMT",
+        "etag": null,
+        "bytes": 166565,
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "64ff2e7d3f0e21e3d4901a68c7d57ac2f356d93dae106905722bc90fe7e74327",
+        "body_path": "evidence/http/browser-documents/64ff2e7d3f0e21e3d4901a68c7d57ac2f356d93dae106905722bc90fe7e74327.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "05/18",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/64ff2e7d3f0e21e3d4901a68c7d57ac2f356d93dae106905722bc90fe7e74327.txt",
+        "matched_text": "SC-5500VB, 05/18",
+        "method": "Confirmed in extracted original PDF text. Visual rendering not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.wicourts.gov/forms1/circuit/mandatory.htm",
+      "reuse_note": "The official FAQ and filing forms restrict modification of standard forms. Original bytes are preserved. Public access does not establish blanket permission for republication or commercial reuse; reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Unsigned blank official template. It is not an issued order, judgment, or writ; execution, filing, and acceptance remain unreviewed.",
+        "Party declaration, stipulation, petition, or statement is supplied separately from the corresponding proposed court order. Eviction and non-eviction processes remain distinct."
+      ],
+      "related_files": [
+        "originals/WI/sc-5500va-01d8cd7c71ae.pdf"
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T04-03-54.385770+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T04-03-54.385770+00-00/56bb69d3e9b2b85c57e12a78729e5774edb6df0bf69f07584af89944141b722a.body",
+          "resolved_source_url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "modification_notice_in_original": true,
+      "review_note": "Parser, identity, and printed-revision text checks do not establish visual layout, fields, legal adequacy, current applicability, signatures, filing acceptance, or reuse clearance."
+    }
+  }
+]

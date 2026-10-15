@@ -1,0 +1,73 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-01/inventory.json",
+    "batch": "2026-10-15-01",
+    "record": {
+      "state": "Maine",
+      "state_code": "ME",
+      "scope": "state",
+      "publisher": "Maine Department of Labor",
+      "source_url": "https://www.maine.gov/labor/labor_laws/wagehour.shtml",
+      "artifact_url": "https://www.maine.gov/labor/labor_laws/publications/epcomplaintform.pdf",
+      "source_link_title": "Equal Pay Complaint Form",
+      "title": "Equal Pay Complaint Form",
+      "slug": "equal-pay-complaint",
+      "category": "Employment",
+      "family_id": "equal-pay-complaint",
+      "identity_patterns": [
+        "equal pay",
+        "complaint"
+      ],
+      "selection_reason": "Official source; selected to add a previously absent document or edition after URL and hash screening.",
+      "notes": "",
+      "publication_date": null,
+      "form_effective_date": null,
+      "printed_revision": "Rev. 02/22",
+      "sha256": "16040b4aadf5c30d45583b1bd1d38b67ad3df0191946d40805792f28fbd85b62",
+      "bytes": 112129,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1846,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/ME/equal-pay-complaint-16040b4aadf5.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-01/originals/ME/equal-pay-complaint-16040b4aadf5.pdf",
+      "text_path": "extracted-text/16040b4aadf5c30d45583b1bd1d38b67ad3df0191946d40805792f28fbd85b62.txt",
+      "acquired_at": "2026-10-15T01:33:52.887010+00:00",
+      "receipt": {
+        "url": "https://www.maine.gov/labor/labor_laws/publications/epcomplaintform.pdf",
+        "kind": "document",
+        "checked_at": "2026-10-15T01:33:52.887010+00:00",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "etag": "\"1b601-5e4cbb971c24f\"",
+        "last_modified": "Wed, 27 Jul 2022 16:15:24 GMT",
+        "status": "fetched",
+        "sha256": "16040b4aadf5c30d45583b1bd1d38b67ad3df0191946d40805792f28fbd85b62",
+        "bytes": 112129,
+        "body_path": "evidence/http/2026-10-15T01-32-40.761224+00-00/16040b4aadf5c30d45583b1bd1d38b67ad3df0191946d40805792f28fbd85b62.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "edition_classification": "undetermined",
+      "metadata_as_of": "2026-10-15",
+      "quality_notes": [],
+      "related_files": [],
+      "rights_evidence": [],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/2026-10-15T01-29-58.709997+00-00/requests.json",
+          "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/9d12a43fe310c4d3795e218f0f655560ab45af5e52c77f688d505a5dc0d87ad5.body",
+          "resolved_source_url": "https://www.maine.gov/labor/labor_laws/wagehour.shtml"
+        }
+      ],
+      "review_note": "Parser and identity checks verify readable document structure, not legal adequacy, current applicability, reuse rights, signatures, or visual layout."
+    }
+  }
+]

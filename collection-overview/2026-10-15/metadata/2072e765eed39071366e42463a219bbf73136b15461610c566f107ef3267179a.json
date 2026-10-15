@@ -1,0 +1,38 @@
+[
+  {
+    "inventory": "research-collection/organized/2026-10-14-03/inventory.json",
+    "batch": "2026-10-14 supplementary collection",
+    "record": {
+      "artifact_url": "https://courts.ms.gov/archive/courtinterpreter/Translated%20Forms/Sample%20justice%20court%20civil%20forms%20(7-2-2024).pdf",
+      "source_url": "https://courts.ms.gov/archive/courtinterpreter/Translated%20Forms/Sample%20justice%20court%20civil%20forms%20(7-2-2024).pdf",
+      "category": "Court procedure",
+      "document_type": "Sample Justice Court Civil Forms (July 2, 2024 bundle)",
+      "title": "Sample Justice Court Civil Forms (July 2, 2024 bundle)",
+      "family_id": "sample-civil-court-forms",
+      "form_id": null,
+      "scope": "state",
+      "state": "Mississippi",
+      "jurisdiction": "Mississippi",
+      "publisher": "Mississippi Judiciary",
+      "downloaded": true,
+      "format": "pdf",
+      "local_archive_path": "archive/2026-10-14-08/11-sample-justice-court-civil-forms-july-2-2024-bundle-2072e765eed3.pdf",
+      "sha256": "2072e765eed39071366e42463a219bbf73136b15461610c566f107ef3267179a",
+      "acquired_at": "2026-10-14T09:40:07.775Z",
+      "local_verification": "hash-and-parser-passed",
+      "identity_verification": "title-pattern-matched",
+      "source_link_status": "official-publisher-direct-endpoint",
+      "live_comparison": "not-rechecked-after-acquisition",
+      "last_live_check": null,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "flags": [
+        "sample-bundle; individual-form-and-local-court-review-pending"
+      ],
+      "local_checked_at": "2026-10-14T10:05:38.155Z",
+      "original_local_archive_path": "archive/2026-10-14-08/11-sample-justice-court-civil-forms-july-2-2024-bundle-2072e765eed3.pdf"
+    }
+  }
+]

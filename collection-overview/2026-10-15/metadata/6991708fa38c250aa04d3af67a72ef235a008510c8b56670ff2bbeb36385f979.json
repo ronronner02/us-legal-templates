@@ -1,0 +1,112 @@
+[
+  {
+    "inventory": "research-collection/rounds/2026-10-15-07/inventory.json",
+    "batch": "2026-10-15-07",
+    "record": {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcpo019.pdf/ccdcpo019.pdf",
+      "source_link_title": "Motion for Service by Clerk Concerning Request to Shield Peace Order Records",
+      "title": "Motion for Service by Clerk Concerning Request to Shield Peace Order Records",
+      "slug": "cc-dc-po-019",
+      "category": "peace_orders",
+      "family_id": "CC-DC-PO-019",
+      "form_code": "CC-DC-PO-019",
+      "identity_patterns": [
+        "CC\\s*-\\s*DC\\s*-\\s*PO\\s*-\\s*019",
+        "MOTION\\s+FOR\\s+SERVICE\\s+BY\\s+CLERK\\s+CONCERNING\\s+REQUEST\\s+TO\\s+SHIELD\\s+PEACE\\s+ORDER\\s+RECORDS"
+      ],
+      "source_listed_revision": "10/2021",
+      "source_description": "",
+      "source_row_text": "CC-DC-PO-019 Motion for Service by Clerk Concerning Request to Shield Peace Order Records 10/2021",
+      "usage_classification": "court_procedural_form",
+      "selection_reason": "Fresh official English protective-order, peace-order, guardianship, or name-change original, with procedural roles retained separately.",
+      "notes": "No usage description supplied in the source row.",
+      "sha256": "6991708fa38c250aa04d3af67a72ef235a008510c8b56670ff2bbeb36385f979",
+      "bytes": 184921,
+      "format": "pdf",
+      "validation_status": "parser_passed",
+      "pages": 1,
+      "text_length": 1168,
+      "ocr_status": "not_needed",
+      "encrypted": false,
+      "parser_warnings": [],
+      "local_path": "originals/MD/cc-dc-po-019-6991708fa38c.pdf",
+      "repository_path": "research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-po-019-6991708fa38c.pdf",
+      "text_path": "extracted-text/6991708fa38c250aa04d3af67a72ef235a008510c8b56670ff2bbeb36385f979.txt",
+      "acquired_at": "2026-10-15T06:46:46.995Z",
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcpo019.pdf/ccdcpo019.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcpo019.pdf/ccdcpo019.pdf",
+        "checked_at": "2026-10-15T06:46:46.995Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "headers": {
+          "date": "Thu, 15 Oct 2026 06:46:48 GMT",
+          "content-type": "application/pdf",
+          "content-length": "184921",
+          "connection": "keep-alive",
+          "server": "cloudflare",
+          "x-content-type-options": "nosniff",
+          "last-modified": "Fri, 04 Sep 2026 17:48:57 GMT",
+          "etag": "\"2d259-65aabe1f3a253\"",
+          "accept-ranges": "bytes",
+          "cache-control": "public, max-age=14400",
+          "expires": "Thu, 15 Oct 2026 10:46:48 GMT",
+          "cf-cache-status": "BYPASS",
+          "cf-ray": "a4acde632f550465-HKG"
+        },
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "fetched",
+        "sha256": "6991708fa38c250aa04d3af67a72ef235a008510c8b56670ff2bbeb36385f979",
+        "bytes": 184921,
+        "body_path": "evidence/http/browser-documents/6991708fa38c250aa04d3af67a72ef235a008510c8b56670ff2bbeb36385f979.body"
+      },
+      "identity_verified": true,
+      "legal_review": "pending",
+      "reuse_review": "pending",
+      "currency_review": "pending",
+      "publication_status": "not-approved",
+      "visual_review": "not-run",
+      "metadata_as_of": "2026-10-15",
+      "printed_revision": "10/2021",
+      "printed_revision_evidence": {
+        "text_path": "extracted-text/6991708fa38c250aa04d3af67a72ef235a008510c8b56670ff2bbeb36385f979.txt",
+        "matched_text": "CC-DC-PO-019 (Rev. 10/2021)",
+        "all_matching_markers": [
+          "CC-DC-PO-019 (Rev. 10/2021)"
+        ],
+        "method": "Verified in extracted PDF text; whitespace normalized in metadata. Visual confirmation not run."
+      },
+      "edition_classification": "printed_revision_text_verified",
+      "copyright_review": "pending",
+      "rights_source_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "reuse_note": "The source footer reserves copyright. Public downloading does not establish blanket permission for republication, modification, or commercial reuse. Reuse and publication reviews remain pending.",
+      "quality_notes": [
+        "Blank original includes a proposed court decision or order section. No approval, waiver, service, or issued order is established by this template."
+      ],
+      "related_files": [
+        "originals/MD/cc-dc-po-016a-3eac4f68783d.pdf",
+        "originals/MD/cc-dc-po-016b-50ea22af62a1.pdf"
+      ],
+      "source_evidence": [
+        {
+          "receipt_file": "evidence/http/browser-sources/requests.json",
+          "body_path": "evidence/http/browser-sources/de692470b4f80f5324d687bc61d93c3d173afa4c716f650a7ae6d31202186ca0.body",
+          "resolved_source_url": "https://www.mdcourts.gov/family/family-forms"
+        }
+      ],
+      "source_revision_matches_printed_month_year": true,
+      "restricted_information_notice_present": false,
+      "mdj_008_notice_reference_present": false,
+      "referenced_form_codes": [
+        "CC-DC-PO-019"
+      ],
+      "review_note": "Parser, form-code, heading, and revision-text checks do not establish visual layout, interactive fields, calculations, signatures, legal currency, filing acceptance, complete packets, or reuse clearance."
+    }
+  }
+]
