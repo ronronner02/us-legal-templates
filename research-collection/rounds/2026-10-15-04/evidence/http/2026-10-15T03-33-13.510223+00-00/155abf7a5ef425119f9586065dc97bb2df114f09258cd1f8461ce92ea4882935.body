@@ -1,0 +1,5794 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms List - Maine Judicial Branch</title>
+
+    <script src="/CourtForms/bundles/jqueryandbs?v=mBVSuDJp-_O2sJTg-159lTwhuDy5PHly8U_HQ8p9Klk1"></script>
+
+    <script src="/CourtForms/bundles/jqueryui?v=96ItJ_3SnPlvEAbHTOcGOEkokWcSvP9bE0W3MEAPkmM1"></script>
+
+    <script src="/CourtForms/bundles/jquerydatatables?v=qQpnaWi4xBmJ9VqJgjc22uMFWN4ByUMJUlEsHdlBKlA1"></script>
+
+    
+    <link href="/CourtForms/Content/cssjqryUi?v=9sZmB-NU1P1tV8ThjNQanBgcdOvwoxSbtxcnwr3WUc01" rel="stylesheet"/>
+
+    <script src="/CourtForms/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+
+
+    <link href="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.10/themes/redmond/jquery-ui.css" rel="Stylesheet" type="text/css" />
+    <link href="/CourtForms/Content/Site.css" rel="stylesheet" />
+
+
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="container-fluid">
+            <div class="navbar navbar-fixed-top">
+
+                <img class="img-responsive width:100%" src="/CourtForms/Content/images/MJBLogo.jpg" />
+                
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+
+                        <li class="active"><a href="/CourtForms/Home/Index">Home</a></li>
+                        <li class="active"><a href="/CourtForms/FormsLists/Index">Forms Search</a></li>
+                        <li><a href="https://www.courts.maine.gov/fees_forms/forms/index.shtml" target="_blank">ME Judicial Branch &nbsp; <i class="glyphicon glyphicon-new-window" aria-hidden="false"></i></a></li>
+                        
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <br />
+            <br />
+            
+
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        $('#FormsListTbl').DataTable({
+            "lengthMenu": [25, 50, 100],
+            "pageLength": 50,
+            "language": {
+                "search": "Quick Filter:"
+            }
+        })
+
+
+    });
+</script>
+
+
+
+<br />
+<br />
+<h4>Court Forms Search</h4>
+
+
+<form action="/CourtForms/FormsLists/Index" enctype="multipart/form-data" method="post"><input name="__RequestVerificationToken" type="hidden" value="lYQMCh-VpYwwskggpZ5D3inMePT1Zrym19E-eKGCZQ7ACdynmoqKA7eCmnvZtsfj-uIAOWO6kjfK8jPMtse7T4C2p3pnULDS-z8WXJGSFDo1" />    <div class="form-horizontal">
+
+
+        <div class="row col-md-12">
+
+
+            <div class="col-md-2-offset col-md-2">
+                <select id="ddCaseTypes" name="ddCaseTypes"><option value="All">--Select All--</option>
+<option value="CV">Civil -- All Civil</option>
+<option value="BCD">      ------- Business &amp; Consumer Court</option>
+<option value="CFP">      ------- Civil Form Packets</option>
+<option value="FED">      ------- Forcible Entry &amp; Detainer</option>
+<option value="FDP">      ------- Foreclosure Diversion</option>
+<option value="PPR">      ------- 	Recovery of Personal Property</option>
+<option value="APP">      ------- 76D/80B/80C Appeals</option>
+<option value="CWR">      ------- Red Flag - Civil Weapons Restrictions</option>
+<option value="WRO">      ------- Yellow Flag - Weapons Restriction Order</option>
+<option value="CR">Criminal -- All Criminal</option>
+<option value="CAP">      ------- Appeal Forms</option>
+<option value="BA">      ------- Bail Forms</option>
+<option value="JUR">      ------- Jury Trial Forms</option>
+<option value="MTC">      ------- Maine Treatment Court</option>
+<option value="PCR">      ------- Post Conviction Review</option>
+<option value="PV">      ------- Probation Violation Forms</option>
+<option value="SNT">      ------- Sentence Forms</option>
+<option value="SOR">      ------- Sex Offender Registry</option>
+<option value="FM">Family Matters -- All Family Matters</option>
+<option value="DIV">      ------- Divorce/Annulment</option>
+<option value="FFP">      ------- Family Form Packets</option>
+<option value="PRR">      ------- Parental Rights &amp; Responsibilities/Parentage</option>
+<option value="PJM">      ------- Motion to Modify/Enforce/Contempt</option>
+<option value="HC">Home Court/Probate</option>
+<option value="AD">      ------- Adoption</option>
+<option value="GS">      ------- Guardianship</option>
+<option value="NC">      ------- Name Change</option>
+<option value="PB">      ------- Probate</option>
+<option value="JV">Juvenile</option>
+<option value="MH">Mental Health</option>
+<option value="MJ">Money Judgment</option>
+<option value="OTH">Other MJB Forms</option>
+<option value="INT">      ------- Interpreter Forms</option>
+<option value="PA">Protection From Abuse</option>
+<option value="PFP">      ------- Protection Form Packets</option>
+<option value="PC">Protective Custody</option>
+<option value="PUB">Publications</option>
+<option value="RL">Recording Logs</option>
+<option value="SC">Small Claims</option>
+<option value="SJC">Supreme Judicial Court</option>
+<option value="VB">Violations Bureau - Traffic</option>
+<option value="VS">Vital Statistics Forms</option>
+</select>
+            </div>
+
+
+            <div class="col-md-push-2 col-md-2">
+                <input type="submit" value="Search" formaction="Index" class="btn btn-primary" />
+            </div>
+        </div>
+
+
+    </div>
+    <br />
+    <br />
+    <h5>Click on the form number to download a form.  To filter search results, use the "Quick Filter" and type in keyword or 3-digit form number (example: FM-004)</h5>
+    <h5>Note to eFilers: To successfully upload court forms into eFileMaine, the user must remove all security settings from the PDF document. Noncompliance will result in submission failure. Instructions for removing form security are available for <a href="https://www.courts.maine.gov/ecourts/mac-forms-security.pdf" target="_blank">MAC</a> and <a href="https://www.courts.maine.gov/ecourts/pc-forms-security.pdf" target="_blank">PC</a> users on the MJB <a href="https://www.courts.maine.gov/ecourts/efile.html" target="_blank">About eFileMaine page</a> </h5>
+    <h5>If you need a form in an alternative format, please reach out to the accessibility office at accessibility@courts.maine.gov or (207) 822-0718.</h5>
+    <h5>PLEASE NOTE: If the use of a court form is required the current version <b>must</b> be used. Outdated forms will be returned as incomplete. This site contains the most up-to-date version of all court forms.</h5>
+</form>
+<table id="FormsListTbl" class="table table-condensed table-bordered table-striped">
+    <thead>
+        <tr>
+            <td>
+                <label for="Form_Number">Form Number</label>
+            </td>
+            <td>
+                <label for="Form_Name">Form Name</label>
+            </td>
+            <td>
+                <label for="Revision_Date">Revision Date</label>
+            </td>
+        </tr>
+    </thead>
+
+
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-001" target="_blank">AD-001</a>
+            </td>
+
+            <td>
+                Petition for Adoption and Name Change
+            </td>
+
+            <td>
+                3/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-003" target="_blank">AD-003</a>
+            </td>
+
+            <td>
+                Consent of Other than Parent
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-004" target="_blank">AD-004</a>
+            </td>
+
+            <td>
+                Consent of Person (12 Years Old or More) to be Adopted
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-005" target="_blank">AD-005</a>
+            </td>
+
+            <td>
+                Consent of Parent to Adoption
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-006" target="_blank">AD-006</a>
+            </td>
+
+            <td>
+                Consent of Parent to Adoption (Outside Maine)
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-007" target="_blank">AD-007</a>
+            </td>
+
+            <td>
+                Confidential Statement to Accompany Petition for Adoption
+            </td>
+
+            <td>
+                9/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-008" target="_blank">AD-008</a>
+            </td>
+
+            <td>
+                Report of Disbursements
+            </td>
+
+            <td>
+                9/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-009" target="_blank">AD-009</a>
+            </td>
+
+            <td>
+                Certificate of Counseling
+            </td>
+
+            <td>
+                9/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-012" target="_blank">AD-012</a>
+            </td>
+
+            <td>
+                Petition to Terminate Parental Rights in an Adoption Matter
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-015" target="_blank">AD-015</a>
+            </td>
+
+            <td>
+                Surrender and Release of Child for Adoption
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-017" target="_blank">AD-017</a>
+            </td>
+
+            <td>
+                Waiver of Notice by Putative Parent
+            </td>
+
+            <td>
+                10/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-020" target="_blank">AD-020</a>
+            </td>
+
+            <td>
+                Petition for Annulment of Adoption Decree
+            </td>
+
+            <td>
+                10/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-022" target="_blank">AD-022</a>
+            </td>
+
+            <td>
+                Petition for Information or to Examine Records
+            </td>
+
+            <td>
+                10/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-029" target="_blank">AD-029</a>
+            </td>
+
+            <td>
+                Statement Regarding Tribal Affiliation
+            </td>
+
+            <td>
+                5/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-030" target="_blank">AD-030</a>
+            </td>
+
+            <td>
+                Petiton for Confirmatory Adoption
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-032" target="_blank">AD-032</a>
+            </td>
+
+            <td>
+                Authorization for Maine DHHS Child Abuse Registry Background Check
+            </td>
+
+            <td>
+                6/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-FM-GS-JV-PA-PC-292" target="_blank">AD-FM-GS-JV-PA-PC-292</a>
+            </td>
+
+            <td>
+                Motion for Special Findings of Fact and Conclusions of Law (Special Immigration Juvenile Status)
+            </td>
+
+            <td>
+                8/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=AD-FM-GS-JV-PA-PC-293" target="_blank">AD-FM-GS-JV-PA-PC-293</a>
+            </td>
+
+            <td>
+                Order on Motion for Special Findings of Fact and Conclusions of Law (Special Immigration Juvenile Status)
+            </td>
+
+            <td>
+                8/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=BCCP-2010" target="_blank">BCCP-2010</a>
+            </td>
+
+            <td>
+                Foreclosure Answer and Request for Mediation provided by Maine Bureau of Consumer Credit Protection (BCCP)
+            </td>
+
+            <td>
+                1/1/2010
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=BCCP-2021" target="_blank">BCCP-2021</a>
+            </td>
+
+            <td>
+                Defendant&#39;s Answer to Complaint (Credit Card or Student Loan Collection Actions) by Maine Bureau of Consumer Credit Protection (BCCP)
+            </td>
+
+            <td>
+                10/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-003" target="_blank">CR-003</a>
+            </td>
+
+            <td>
+                Termination of Surety Agreement
+            </td>
+
+            <td>
+                11/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-004" target="_blank">CR-004</a>
+            </td>
+
+            <td>
+                Bail Lien
+            </td>
+
+            <td>
+                3/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-006" target="_blank">CR-006</a>
+            </td>
+
+            <td>
+                Assignment of Cash Bail/Order of Court
+            </td>
+
+            <td>
+                7/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-009" target="_blank">CR-009</a>
+            </td>
+
+            <td>
+                Petition for De Novo Determination of Bail
+            </td>
+
+            <td>
+                7/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-010" target="_blank">CR-010</a>
+            </td>
+
+            <td>
+                (Defendant&#39;s) Motion to Amend Bail
+            </td>
+
+            <td>
+                7/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-011" target="_blank">CR-011</a>
+            </td>
+
+            <td>
+                Victim Confidential Address
+            </td>
+
+            <td>
+                7/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-022" target="_blank">CR-022</a>
+            </td>
+
+            <td>
+                Waiver of Indictment
+            </td>
+
+            <td>
+                7/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-030" target="_blank">CR-030</a>
+            </td>
+
+            <td>
+                Consent to Proceed in Absence of Defendant (For Class D &amp; E Crimes ONLY)
+            </td>
+
+            <td>
+                7/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-032" target="_blank">CR-032</a>
+            </td>
+
+            <td>
+                Motion and Affidavit for Assignment of Counsel
+            </td>
+
+            <td>
+                1/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-076" target="_blank">CR-076</a>
+            </td>
+
+            <td>
+                Affidavit and Request for Search Warrant
+            </td>
+
+            <td>
+                5/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-078" target="_blank">CR-078</a>
+            </td>
+
+            <td>
+                Inventory
+            </td>
+
+            <td>
+                7/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-083" target="_blank">CR-083</a>
+            </td>
+
+            <td>
+                Request to Transfer for Plea and Sentence
+            </td>
+
+            <td>
+                7/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-112" target="_blank">CR-112</a>
+            </td>
+
+            <td>
+                Agreement of Defendant and Order Deferring Disposition
+            </td>
+
+            <td>
+                10/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-127" target="_blank">CR-127</a>
+            </td>
+
+            <td>
+                Notice of Fine and Plea/Answer
+            </td>
+
+            <td>
+                7/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-140" target="_blank">CR-140</a>
+            </td>
+
+            <td>
+                Petition for Post-Conviction Review
+            </td>
+
+            <td>
+                3/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-147" target="_blank">CR-147</a>
+            </td>
+
+            <td>
+                Petition for Release Hearing
+            </td>
+
+            <td>
+                7/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-153" target="_blank">CR-153</a>
+            </td>
+
+            <td>
+                Certificate or Prisoner&#39;s Account
+            </td>
+
+            <td>
+                3/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-161" target="_blank">CR-161</a>
+            </td>
+
+            <td>
+                Application to the Law Court to Allow an Appeal of Sentence
+            </td>
+
+            <td>
+                7/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-198" target="_blank">CR-198</a>
+            </td>
+
+            <td>
+                Proof of Community Service/Public Service Performed
+            </td>
+
+            <td>
+                7/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-218" target="_blank">CR-218</a>
+            </td>
+
+            <td>
+                Motion to Seal Criminal History
+            </td>
+
+            <td>
+                7/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-228" target="_blank">CR-228</a>
+            </td>
+
+            <td>
+                Request for Fine Payment Modification or Extension of Time to Pay Fine
+            </td>
+
+            <td>
+                9/1/2017
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-230" target="_blank">CR-230</a>
+            </td>
+
+            <td>
+                Statement of Prosecuting Attorney Regarding Domestic Violence Intervention
+            </td>
+
+            <td>
+                10/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-234" target="_blank">CR-234</a>
+            </td>
+
+            <td>
+                Treatment Court Referral Form
+            </td>
+
+            <td>
+                4/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-235" target="_blank">CR-235</a>
+            </td>
+
+            <td>
+                Entry/Bail Contract and Order Admitting Defendant into Maine Treatment Court
+            </td>
+
+            <td>
+                11/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-236" target="_blank">CR-236</a>
+            </td>
+
+            <td>
+                Authorization to Release Information within Maine Treatment Court Teams
+            </td>
+
+            <td>
+                7/1/2018
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-237" target="_blank">CR-237</a>
+            </td>
+
+            <td>
+                Maine Treatment Court: Court Observation Confidentiality Form
+            </td>
+
+            <td>
+                7/1/2018
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-238" target="_blank">CR-238</a>
+            </td>
+
+            <td>
+                Maine Treatment Court: Plea Agreement and Waiver of Rights
+            </td>
+
+            <td>
+                3/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-239" target="_blank">CR-239</a>
+            </td>
+
+            <td>
+                Maine Treatment Court: Request to Travel Outside County of Residence
+            </td>
+
+            <td>
+                7/1/2018
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-240" target="_blank">CR-240</a>
+            </td>
+
+            <td>
+                Maine Treatment Court: Participant Testing Policy
+            </td>
+
+            <td>
+                7/1/2018
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-242" target="_blank">CR-242</a>
+            </td>
+
+            <td>
+                Maine Treatment Court: Petition to Advance to Phase 2
+            </td>
+
+            <td>
+                11/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-243" target="_blank">CR-243</a>
+            </td>
+
+            <td>
+                Maine Treatment Court: Petition to Advance to Phase 3
+            </td>
+
+            <td>
+                1/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-244" target="_blank">CR-244</a>
+            </td>
+
+            <td>
+                Maine Treatment Court: Petition to Advance to Phase 4
+            </td>
+
+            <td>
+                11/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-245" target="_blank">CR-245</a>
+            </td>
+
+            <td>
+                Maine Treatment Court: Petition to Advance to Phase 5
+            </td>
+
+            <td>
+                11/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-246" target="_blank">CR-246</a>
+            </td>
+
+            <td>
+                Maine Treatment Court: Petition for Commencement
+            </td>
+
+            <td>
+                11/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-248" target="_blank">CR-248</a>
+            </td>
+
+            <td>
+                Maine Treatment Court: Prohibited Substances Agreement
+            </td>
+
+            <td>
+                11/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-249" target="_blank">CR-249</a>
+            </td>
+
+            <td>
+                Maine Treatment &amp; Recovery Court: Participation Handbook
+            </td>
+
+            <td>
+                8/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-250" target="_blank">CR-250</a>
+            </td>
+
+            <td>
+                Maine Treatment Court: Plea Agreement and Waiver of Rights (Probation)
+            </td>
+
+            <td>
+                3/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-251" target="_blank">CR-251</a>
+            </td>
+
+            <td>
+                Maine Treatment Court Physician and Pharmacy Conditions
+            </td>
+
+            <td>
+                2/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-258" target="_blank">CR-258</a>
+            </td>
+
+            <td>
+                Request for Notice to the Secretary of State - Murder/Manslaughter
+            </td>
+
+            <td>
+                5/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-259" target="_blank">CR-259</a>
+            </td>
+
+            <td>
+                Request for Notice to the Secretary of State - Assault/Crim Threatening/Reckless Conduct
+            </td>
+
+            <td>
+                5/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-266" target="_blank">CR-266</a>
+            </td>
+
+            <td>
+                Notification to the Court by the Commissioner of Health and Human Services
+            </td>
+
+            <td>
+                7/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-287" target="_blank">CR-287</a>
+            </td>
+
+            <td>
+                Application for Appointment as a Bail Commissioner
+            </td>
+
+            <td>
+                2/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-288" target="_blank">CR-288</a>
+            </td>
+
+            <td>
+                Process for Appointment as a Bail Commissioner
+            </td>
+
+            <td>
+                7/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-289" target="_blank">CR-289</a>
+            </td>
+
+            <td>
+                Motion to Seal Conviction for Engaging in Prostitution
+            </td>
+
+            <td>
+                10/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-305" target="_blank">CR-305</a>
+            </td>
+
+            <td>
+                Maine Veterans Treatment Court: Participant Handbook
+            </td>
+
+            <td>
+                8/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-307" target="_blank">CR-307</a>
+            </td>
+
+            <td>
+                 *Effective 07/29/2026* Motion to Seal Conviction for Victims of Sex Trafficking or Sexual Exploitation
+            </td>
+
+            <td>
+                6/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-308" target="_blank">CR-308</a>
+            </td>
+
+            <td>
+                 *Effective 07/29/2026* Order on Motion to Seal Conviction of Criminal History for Victims of Sex Trafficking or Sexual Exploitation 
+            </td>
+
+            <td>
+                6/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-CV-214" target="_blank">CR-CV-214</a>
+            </td>
+
+            <td>
+                Request for Inclusion on Juror Source List
+            </td>
+
+            <td>
+                7/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-CV-FM-199" target="_blank">CR-CV-FM-199</a>
+            </td>
+
+            <td>
+                Notice of Change of Address
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-CV-FM-255" target="_blank">CR-CV-FM-255</a>
+            </td>
+
+            <td>
+                Notice Regarding Electronic Service
+            </td>
+
+            <td>
+                12/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-CV-FM-260" target="_blank">CR-CV-FM-260</a>
+            </td>
+
+            <td>
+                Motion for Alternative Format for Court Proceeding
+            </td>
+
+            <td>
+                6/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-CV-FM-265" target="_blank">CR-CV-FM-265</a>
+            </td>
+
+            <td>
+                Request for Remote Hearing Coordinates
+            </td>
+
+            <td>
+                7/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-CV-FM-306" target="_blank">CR-CV-FM-306</a>
+            </td>
+
+            <td>
+                Findings for Appointment of Private Counsel
+            </td>
+
+            <td>
+                4/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-CV-FM-JV-021" target="_blank">CR-CV-FM-JV-021</a>
+            </td>
+
+            <td>
+                Entry of Appearance
+            </td>
+
+            <td>
+                12/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-CV-FM-JV-166" target="_blank">CR-CV-FM-JV-166</a>
+            </td>
+
+            <td>
+                Motion for Transcript at State Expense
+            </td>
+
+            <td>
+                4/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-CV-FM-JV-PA-PC-286" target="_blank">CR-CV-FM-JV-PA-PC-286</a>
+            </td>
+
+            <td>
+                Motion to Continue
+            </td>
+
+            <td>
+                7/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-CV-FM-PC-200" target="_blank">CR-CV-FM-PC-200</a>
+            </td>
+
+            <td>
+                Social Security Confidential Disclosure Form
+            </td>
+
+            <td>
+                7/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-CV-JV-297" target="_blank">CR-CV-JV-297</a>
+            </td>
+
+            <td>
+                Personal Identifying Information Attachment
+            </td>
+
+            <td>
+                5/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CR-JV-253" target="_blank">CR-JV-253</a>
+            </td>
+
+            <td>
+                Notification That Observation is No Longer Necessary and Order Terminating Commitment
+            </td>
+
+            <td>
+                11/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-001" target="_blank">CV-001</a>
+            </td>
+
+            <td>
+                Civil Summary Sheet
+            </td>
+
+            <td>
+                12/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-007" target="_blank">CV-007</a>
+            </td>
+
+            <td>
+                Complaint for Residential Forcible Entry and Detainer
+            </td>
+
+            <td>
+                4/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-037" target="_blank">CV-037</a>
+            </td>
+
+            <td>
+                Subpoena on Motion for Contempt (*Self-represented parties must obtain this form from a clerk&#39;s office for a $5.00 fee)
+            </td>
+
+            <td>
+                6/1/2014
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-060" target="_blank">CV-060</a>
+            </td>
+
+            <td>
+                Request for Withdrawal (Minor&#39;s Settlement)
+            </td>
+
+            <td>
+                6/1/2014
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-061" target="_blank">CV-061</a>
+            </td>
+
+            <td>
+                Affidavit &amp; Request for Default and Default Judgment
+            </td>
+
+            <td>
+                10/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-066" target="_blank">CV-066</a>
+            </td>
+
+            <td>
+                Petition &amp; Order for Military Certification
+            </td>
+
+            <td>
+                3/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-067" target="_blank">CV-067</a>
+            </td>
+
+            <td>
+                Application to Proceed Without Payment of Fees
+            </td>
+
+            <td>
+                6/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-092" target="_blank">CV-092</a>
+            </td>
+
+            <td>
+                How to File a Civil Appeal
+            </td>
+
+            <td>
+                8/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-100" target="_blank">CV-100</a>
+            </td>
+
+            <td>
+                Instruction for Filing a Residential Forcible Entry &amp; Detainer (Eviction) Case
+            </td>
+
+            <td>
+                1/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-145" target="_blank">CV-145</a>
+            </td>
+
+            <td>
+                Report of ADR Conference and Order
+            </td>
+
+            <td>
+                1/1/2002
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-172" target="_blank">CV-172</a>
+            </td>
+
+            <td>
+                Newspaper Cover Letter (Service by Publication)
+            </td>
+
+            <td>
+                6/1/2014
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-173" target="_blank">CV-173</a>
+            </td>
+
+            <td>
+                Verification (of Publication)
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-181" target="_blank">CV-181</a>
+            </td>
+
+            <td>
+                Request for Renewal Writ of Execution
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-183" target="_blank">CV-183</a>
+            </td>
+
+            <td>
+                Complaint for Recovery of Personal Property (Summary Process)
+            </td>
+
+            <td>
+                6/1/2014
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-187" target="_blank">CV-187</a>
+            </td>
+
+            <td>
+                Notice of Appeal for Recovery of Personal Property
+            </td>
+
+            <td>
+                6/1/2014
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-188" target="_blank">CV-188</a>
+            </td>
+
+            <td>
+                Request for Issuance of Writ of Possession for Personal Property
+            </td>
+
+            <td>
+                6/1/2014
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-191" target="_blank">CV-191</a>
+            </td>
+
+            <td>
+                Financial Affidavit
+            </td>
+
+            <td>
+                6/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-195" target="_blank">CV-195</a>
+            </td>
+
+            <td>
+                Request for Issuance of Writ of Possession
+            </td>
+
+            <td>
+                2/1/2013
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-204" target="_blank">CV-204</a>
+            </td>
+
+            <td>
+                Affidavit of Service, FED
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-206" target="_blank">CV-206</a>
+            </td>
+
+            <td>
+                Notice of Appeal and Affidavit, FED
+            </td>
+
+            <td>
+                4/1/2014
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-207" target="_blank">CV-207</a>
+            </td>
+
+            <td>
+                Consent for Expedited Final Hearing (Foreclosure)
+            </td>
+
+            <td>
+                9/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-208" target="_blank">CV-208</a>
+            </td>
+
+            <td>
+                Request to Schedule Expedited Final Hearing (Foreclosure)
+            </td>
+
+            <td>
+                9/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-218" target="_blank">CV-218</a>
+            </td>
+
+            <td>
+                Instructions for Filing a Summary Personal Property Recovery Case (To be used in place of CV-182 while COVID procedures, PMOs, and the PMP is in place
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-222" target="_blank">CV-222</a>
+            </td>
+
+            <td>
+                Application for Transfer to Business and Consumer Docket
+            </td>
+
+            <td>
+                1/1/2014
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-223" target="_blank">CV-223</a>
+            </td>
+
+            <td>
+                Judicial Recommendation to Transfer to BCD (USED BY JUDGES - THIS FORM IS MADE AVAILABLE FOR PUBLIC INFORMATION ONLY.)
+            </td>
+
+            <td>
+                10/1/2014
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-256" target="_blank">CV-256</a>
+            </td>
+
+            <td>
+                Residential Forcible Entry and Detainer (Eviction) Information Sheet and Mediation Request
+            </td>
+
+            <td>
+                1/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-261" target="_blank">CV-261</a>
+            </td>
+
+            <td>
+                Contract Case Cover Sheet 
+            </td>
+
+            <td>
+                8/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-266" target="_blank">CV-266</a>
+            </td>
+
+            <td>
+                Affidavit and Request to Register a Foreign State Judgment Under the Uniform Enforcement of Foreign Judgments Act (UEFJA)
+            </td>
+
+            <td>
+                12/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-267" target="_blank">CV-267</a>
+            </td>
+
+            <td>
+                Affidavit and Request for Issuance of a Subpoena Under the Uniform Interstate Depositions and Discovery Act
+            </td>
+
+            <td>
+                1/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-281" target="_blank">CV-281</a>
+            </td>
+
+            <td>
+                Affidavit and Request to Register a Canadian Money Judgment
+            </td>
+
+            <td>
+                12/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-282" target="_blank">CV-282</a>
+            </td>
+
+            <td>
+                Petition to Recognize a Foreign Country Money Judgment
+            </td>
+
+            <td>
+                12/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-287" target="_blank">CV-287</a>
+            </td>
+
+            <td>
+                Debt Buyer Complaint
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-295" target="_blank">CV-295</a>
+            </td>
+
+            <td>
+                Petition for Special Findings Relief (Special Immigration Juvenile Status)
+            </td>
+
+            <td>
+                12/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-296" target="_blank">CV-296</a>
+            </td>
+
+            <td>
+                Order on Petition for Special Findings and Relief (Special Immigration Juvenile Status)
+            </td>
+
+            <td>
+                12/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-CR-162" target="_blank">CV-CR-162</a>
+            </td>
+
+            <td>
+                Notice of Appeal (to the Law Court/Supreme Judicial Court)
+            </td>
+
+            <td>
+                12/1/2018
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-CR-163" target="_blank">CV-CR-163</a>
+            </td>
+
+            <td>
+                Request for Protection
+            </td>
+
+            <td>
+                7/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-CR-JV-165" target="_blank">CV-CR-JV-165</a>
+            </td>
+
+            <td>
+                Transcript and Audio Order Form
+            </td>
+
+            <td>
+                4/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-036" target="_blank">CV-FM-036</a>
+            </td>
+
+            <td>
+                Acknowledgment of Receipt of Summons and Complaint or Post-Judgment Motion
+            </td>
+
+            <td>
+                8/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-072" target="_blank">CV-FM-072</a>
+            </td>
+
+            <td>
+                Motion for Service by Alternate Means and Affidavit
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-103" target="_blank">CV-FM-103</a>
+            </td>
+
+            <td>
+                Notice of Hearing (Contact the Court to obtain the Court location, hearing date, and time which are required on this form to be served with FM-214.)
+            </td>
+
+            <td>
+                10/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-201" target="_blank">CV-FM-201</a>
+            </td>
+
+            <td>
+                Instructions for Service by Alternate Means
+            </td>
+
+            <td>
+                4/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-202" target="_blank">CV-FM-202</a>
+            </td>
+
+            <td>
+                Affidavit that Service was Completed by Alternate Means
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-203" target="_blank">CV-FM-203</a>
+            </td>
+
+            <td>
+                Request for Hearing (Registered Order)
+            </td>
+
+            <td>
+                7/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-270" target="_blank">CV-FM-270</a>
+            </td>
+
+            <td>
+                Motion for Appointment of Court-Paid Referee
+            </td>
+
+            <td>
+                2/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-271" target="_blank">CV-FM-271</a>
+            </td>
+
+            <td>
+                Consent or Objection to Appointment of Court-Paid Referee
+            </td>
+
+            <td>
+                2/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-273" target="_blank">CV-FM-273</a>
+            </td>
+
+            <td>
+                Notice Preserving Right to Object to Court-Paid Referee&#39;s Report
+            </td>
+
+            <td>
+                2/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-274" target="_blank">CV-FM-274</a>
+            </td>
+
+            <td>
+                Referee&#39;s Case Management Conference Order
+            </td>
+
+            <td>
+                2/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-275" target="_blank">CV-FM-275</a>
+            </td>
+
+            <td>
+                Objection to Court-Paid Referee&#39;s Report
+            </td>
+
+            <td>
+                2/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-277" target="_blank">CV-FM-277</a>
+            </td>
+
+            <td>
+                Zoom Participant List
+            </td>
+
+            <td>
+                2/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-278" target="_blank">CV-FM-278</a>
+            </td>
+
+            <td>
+                Report of Court-Paid Referee After Settlement Conference Without Agreement
+            </td>
+
+            <td>
+                8/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-280" target="_blank">CV-FM-280</a>
+            </td>
+
+            <td>
+                Information for Parties Participating in Court-Paid Referee Hearing or Settlement Conference
+            </td>
+
+            <td>
+                2/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-288" target="_blank">CV-FM-288</a>
+            </td>
+
+            <td>
+                Motion for Appointment of Court-Paid Attorney Referee
+            </td>
+
+            <td>
+                5/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-289" target="_blank">CV-FM-289</a>
+            </td>
+
+            <td>
+                Agreement to Appointment of Court-Paid Attorney Referee
+            </td>
+
+            <td>
+                5/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-291" target="_blank">CV-FM-291</a>
+            </td>
+
+            <td>
+                Court-Paid Attorney Referee Voucher
+            </td>
+
+            <td>
+                11/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-JV-PB-PC-024" target="_blank">CV-FM-JV-PB-PC-024</a>
+            </td>
+
+            <td>
+                Guardian Ad Litem Voucher (**New Mileage Rates Effective 11/01/2025)
+            </td>
+
+            <td>
+                11/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-JV-PB-PC-242" target="_blank">CV-FM-JV-PB-PC-242</a>
+            </td>
+
+            <td>
+                Guardian Ad Litem&#39;s Motion for Pre-Approval of Out of State and Overnight Travel (**Outdated versions will be rejected on/after 08/13/2025**)
+            </td>
+
+            <td>
+                7/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-JV-PB-PC-269" target="_blank">CV-FM-JV-PB-PC-269</a>
+            </td>
+
+            <td>
+                Guardian Ad Litem&#39;s Motion for Pre-Approval to Exceed the Voucher Cap
+            </td>
+
+            <td>
+                10/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-PA-PB-PC-268" target="_blank">CV-FM-PA-PB-PC-268</a>
+            </td>
+
+            <td>
+                Order Appointing Guardian Ad Litem Under M.R. Civ. P. 17(b)
+            </td>
+
+            <td>
+                4/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-PB-221" target="_blank">CV-FM-PB-221</a>
+            </td>
+
+            <td>
+                Amended Order Appointing Guardian Ad Litem (GAL)
+            </td>
+
+            <td>
+                10/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CV-FM-PB-299" target="_blank">CV-FM-PB-299</a>
+            </td>
+
+            <td>
+                Attorney Voucher (NOTE: For use by attorneys appointed by the court. Appointments by DHHS or otherwise privately retained must seek payment from DHHS 
+            </td>
+
+            <td>
+                7/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CWR-001" target="_blank">CWR-001</a>
+            </td>
+
+            <td>
+                Affidavit and Petition for Extreme Risk Protection Order
+            </td>
+
+            <td>
+                2/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CWR-002" target="_blank">CWR-002</a>
+            </td>
+
+            <td>
+                Service Information Sheet - Extreme Risk Protection Order
+            </td>
+
+            <td>
+                2/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CWR-009" target="_blank">CWR-009</a>
+            </td>
+
+            <td>
+                Respondent&#39;s Motion to Terminate Extreme Risk Protection Order
+            </td>
+
+            <td>
+                2/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CWR-010" target="_blank">CWR-010</a>
+            </td>
+
+            <td>
+                Petitioner&#39;s Motion to Renew Extreme Risk Protection Order
+            </td>
+
+            <td>
+                2/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=CWR-012" target="_blank">CWR-012</a>
+            </td>
+
+            <td>
+                Notice of Relinquishment
+            </td>
+
+            <td>
+                2/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FDP-002A" target="_blank">FDP-002A</a>
+            </td>
+
+            <td>
+                Plaintiff&#39;s Foreclosure Mediation Information
+            </td>
+
+            <td>
+                9/1/2014
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FDP-002B" target="_blank">FDP-002B</a>
+            </td>
+
+            <td>
+                Defendant&#39;s Foreclosure Mediation Information 
+            </td>
+
+            <td>
+                9/1/2014
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FDP-003" target="_blank">FDP-003</a>
+            </td>
+
+            <td>
+                Motion to Waive Mediation in Foreclosure Action
+            </td>
+
+            <td>
+                6/1/2014
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FDP-004" target="_blank">FDP-004</a>
+            </td>
+
+            <td>
+                Motion to Continue Mediation in Foreclosure Action
+            </td>
+
+            <td>
+                5/1/2012
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FDP-006" target="_blank">FDP-006</a>
+            </td>
+
+            <td>
+                Request to Include in Foreclosure Mediation
+            </td>
+
+            <td>
+                5/1/2012
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FDP-007" target="_blank">FDP-007</a>
+            </td>
+
+            <td>
+                Request to Extend Time for Foreclosure Mediation
+            </td>
+
+            <td>
+                5/1/2012
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FDP-010" target="_blank">FDP-010</a>
+            </td>
+
+            <td>
+                Joint Motion to Stay Foreclosure Action Following Mediation
+            </td>
+
+            <td>
+                6/1/2013
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-002" target="_blank">FM-002</a>
+            </td>
+
+            <td>
+                Family and Probate Matter Summary Sheet
+            </td>
+
+            <td>
+                7/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-004" target="_blank">FM-004</a>
+            </td>
+
+            <td>
+                Complaint for Divorce
+            </td>
+
+            <td>
+                7/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-006" target="_blank">FM-006</a>
+            </td>
+
+            <td>
+                Complaint for Parental Rights &amp; Responsibilities
+            </td>
+
+            <td>
+                7/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-008" target="_blank">FM-008</a>
+            </td>
+
+            <td>
+                Petition for Expedited Enforcement Of Child Custody Determination
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-020" target="_blank">FM-020</a>
+            </td>
+
+            <td>
+                Entry of Appearance (Defendant)
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-040" target="_blank">FM-040</a>
+            </td>
+
+            <td>
+                Child Support Worksheet
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-040-A" target="_blank">FM-040-A</a>
+            </td>
+
+            <td>
+                Supplemental Child Support Worksheet
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-042" target="_blank">FM-042</a>
+            </td>
+
+            <td>
+                Certificate in Lieu of Financial Statement
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-043" target="_blank">FM-043</a>
+            </td>
+
+            <td>
+                Financial Statement
+            </td>
+
+            <td>
+                1/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-050" target="_blank">FM-050</a>
+            </td>
+
+            <td>
+                Child Support Affidavit
+            </td>
+
+            <td>
+                1/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-052" target="_blank">FM-052</a>
+            </td>
+
+            <td>
+                Federal Affidavit
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-054" target="_blank">FM-054</a>
+            </td>
+
+            <td>
+                Certificate in Lieu of Case Management Conference
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-055" target="_blank">FM-055</a>
+            </td>
+
+            <td>
+                Verification of Diligent Job Search
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-056" target="_blank">FM-056</a>
+            </td>
+
+            <td>
+                Certificate Regarding Real Estate
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-057" target="_blank">FM-057</a>
+            </td>
+
+            <td>
+                Affidavit of Confidential Address
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-062" target="_blank">FM-062</a>
+            </td>
+
+            <td>
+                Motion to Modify
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-064" target="_blank">FM-064</a>
+            </td>
+
+            <td>
+                Petition for Emancipation
+            </td>
+
+            <td>
+                10/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-065" target="_blank">FM-065</a>
+            </td>
+
+            <td>
+                Request for Appointment of Counsel for Emancipation
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-068" target="_blank">FM-068</a>
+            </td>
+
+            <td>
+                Motion for Contempt
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-070" target="_blank">FM-070</a>
+            </td>
+
+            <td>
+                Motion to Enforce
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-071" target="_blank">FM-071</a>
+            </td>
+
+            <td>
+                Objection to Magistrate Final Order
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-073" target="_blank">FM-073</a>
+            </td>
+
+            <td>
+                Deferral of Case Management Conference
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-080" target="_blank">FM-080</a>
+            </td>
+
+            <td>
+                Divorce with Children - What To Do With These Forms
+            </td>
+
+            <td>
+                8/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-081" target="_blank">FM-081</a>
+            </td>
+
+            <td>
+                Divorce without Children - What To Do with These Forms
+            </td>
+
+            <td>
+                12/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-082" target="_blank">FM-082</a>
+            </td>
+
+            <td>
+                Parental Rights and Responsibilities Case: What To Do With These Court Forms
+            </td>
+
+            <td>
+                8/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-084%20" target="_blank">FM-084 </a>
+            </td>
+
+            <td>
+                Child Support Table
+            </td>
+
+            <td>
+                1/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-087" target="_blank">FM-087</a>
+            </td>
+
+            <td>
+                Important Information Regarding Case Management Conference
+            </td>
+
+            <td>
+                7/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-088" target="_blank">FM-088</a>
+            </td>
+
+            <td>
+                Motion to Modify: What To Do With These Court Forms
+            </td>
+
+            <td>
+                8/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-089" target="_blank">FM-089</a>
+            </td>
+
+            <td>
+                Motion to Enforce: What To Do With These Court Forms
+            </td>
+
+            <td>
+                8/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-090" target="_blank">FM-090</a>
+            </td>
+
+            <td>
+                Motion for Contempt: What To Do With These Court Forms
+            </td>
+
+            <td>
+                12/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-093" target="_blank">FM-093</a>
+            </td>
+
+            <td>
+                Foreign Judgments Regarding Protection, Custody, or Support: What To Do With These Court Forms
+            </td>
+
+            <td>
+                1/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-108" target="_blank">FM-108</a>
+            </td>
+
+            <td>
+                Important Notice About Mediation
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-132" target="_blank">FM-132</a>
+            </td>
+
+            <td>
+                Child Support Order
+            </td>
+
+            <td>
+                6/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-136" target="_blank">FM-136</a>
+            </td>
+
+            <td>
+                Conditional Income Withholding Order for Spousal Support
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-137" target="_blank">FM-137</a>
+            </td>
+
+            <td>
+                Scheduling Order (Contempt)
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-160" target="_blank">FM-160</a>
+            </td>
+
+            <td>
+                Waiver of Appeal
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-171" target="_blank">FM-171</a>
+            </td>
+
+            <td>
+                Abstract of Divorce Decree
+            </td>
+
+            <td>
+                5/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-181" target="_blank">FM-181</a>
+            </td>
+
+            <td>
+                Verified Application for Issuance of Warrant
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-183" target="_blank">FM-183</a>
+            </td>
+
+            <td>
+                Motion Requesting Release of Address
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-186" target="_blank">FM-186</a>
+            </td>
+
+            <td>
+                Answer &amp; Counterclaim for Divorce
+            </td>
+
+            <td>
+                7/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-187" target="_blank">FM-187</a>
+            </td>
+
+            <td>
+                Answer &amp; Counterclaim for Determination of Parentage, Parental Rights &amp; Responsibilities, and Child Support
+            </td>
+
+            <td>
+                7/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-188" target="_blank">FM-188</a>
+            </td>
+
+            <td>
+                Order for Service by Alternate Means
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-205" target="_blank">FM-205</a>
+            </td>
+
+            <td>
+                Real Estate Order
+            </td>
+
+            <td>
+                2/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-214" target="_blank">FM-214</a>
+            </td>
+
+            <td>
+                Expedited Motion to Enforce Visitation for Military Members (see CV-FM-103)
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-216" target="_blank">FM-216</a>
+            </td>
+
+            <td>
+                Joint Petition for Pre-Birth Determination Involving Gestational Carrier Agreement
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-218" target="_blank">FM-218</a>
+            </td>
+
+            <td>
+                Motion for Expedited Hearing
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-222" target="_blank">FM-222</a>
+            </td>
+
+            <td>
+                Compliance Report of the Guardian Ad Litem
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-224" target="_blank">FM-224</a>
+            </td>
+
+            <td>
+                Complaint for Annulment
+            </td>
+
+            <td>
+                7/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-225" target="_blank">FM-225</a>
+            </td>
+
+            <td>
+                Answer &amp; Counterclaim for Annulment
+            </td>
+
+            <td>
+                7/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-226" target="_blank">FM-226</a>
+            </td>
+
+            <td>
+                Petition for Grandparent Visitation or Great-Grandparent Visitation
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-227" target="_blank">FM-227</a>
+            </td>
+
+            <td>
+                Response to Petition for Grandparent or Great-Grandparent Visitation
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-228" target="_blank">FM-228</a>
+            </td>
+
+            <td>
+                Complaint for Judicial Separation
+            </td>
+
+            <td>
+                7/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-229" target="_blank">FM-229</a>
+            </td>
+
+            <td>
+                Answer and Counterclaim for Judicial Separation and/or Divorce
+            </td>
+
+            <td>
+                7/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-230" target="_blank">FM-230</a>
+            </td>
+
+            <td>
+                Petition for Termination of Parental Rights
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-232" target="_blank">FM-232</a>
+            </td>
+
+            <td>
+                Complaint for Determinaton of Defacto Parentage
+            </td>
+
+            <td>
+                7/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-233" target="_blank">FM-233</a>
+            </td>
+
+            <td>
+                Defendant&#39;s Answer to Plaintiff&#39;s Complaint for Determination of De Facto Parentage
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-234" target="_blank">FM-234</a>
+            </td>
+
+            <td>
+                Petition for Pre-Birth Determination of Parentage Involving a Donor
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-235" target="_blank">FM-235</a>
+            </td>
+
+            <td>
+                Witness and Exhibit List
+            </td>
+
+            <td>
+                7/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-238" target="_blank">FM-238</a>
+            </td>
+
+            <td>
+                UCCJEA/UIFSA Order Registration Return of Service
+            </td>
+
+            <td>
+                8/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-243" target="_blank">FM-243</a>
+            </td>
+
+            <td>
+                Request for Abstract of Divorce Decree
+            </td>
+
+            <td>
+                2/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-258" target="_blank">FM-258</a>
+            </td>
+
+            <td>
+                Witness and Exhibit List with Court Deadlines
+            </td>
+
+            <td>
+                7/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-283" target="_blank">FM-283</a>
+            </td>
+
+            <td>
+                Affidavit and Request to Register Foreign Custody Order Under the Uniform Child Custody Jurisdiction and Enforcement Act
+            </td>
+
+            <td>
+                1/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-284" target="_blank">FM-284</a>
+            </td>
+
+            <td>
+                Affidavit and Request to Register Foreign Support ORder Under the Uniform Interstate Family Support Act
+            </td>
+
+            <td>
+                1/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-285" target="_blank">FM-285</a>
+            </td>
+
+            <td>
+                UIFSA Social Security Number Confidential Disclosure Form
+            </td>
+
+            <td>
+                1/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-PB-009" target="_blank">FM-PB-009</a>
+            </td>
+
+            <td>
+                Affidavit
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-PB-125" target="_blank">FM-PB-125</a>
+            </td>
+
+            <td>
+                Order Appointing Guardian ad Litem Under Title 18-C or 19-A
+            </td>
+
+            <td>
+                11/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-PB-297" target="_blank">FM-PB-297</a>
+            </td>
+
+            <td>
+                Motion for Service by Clerk By Court Due to Confidential Address
+            </td>
+
+            <td>
+                3/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=FM-PC-003" target="_blank">FM-PC-003</a>
+            </td>
+
+            <td>
+                Family Matters and Child Protection Financial Affidavit (formerly PC-003)
+            </td>
+
+            <td>
+                10/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-001" target="_blank">GS-001</a>
+            </td>
+
+            <td>
+                Petition to Appoint Guardian of Minor
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-002" target="_blank">GS-002</a>
+            </td>
+
+            <td>
+                Order of Appointment of Guardian of Minor and Findings of Fact and Conclusions of Law
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-003" target="_blank">GS-003</a>
+            </td>
+
+            <td>
+                Motion of Guardian of Minor on an Emergency Basis
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-004" target="_blank">GS-004</a>
+            </td>
+
+            <td>
+                Order Appointing Guardian of Minor on an Emergency Basis
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-006" target="_blank">GS-006</a>
+            </td>
+
+            <td>
+                Affidavit of Notice
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-007" target="_blank">GS-007</a>
+            </td>
+
+            <td>
+                Parent&#39;s Consent to Appointment of Guardian of Minor (Interim/Final)
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-008" target="_blank">GS-008</a>
+            </td>
+
+            <td>
+                Acceptance of Appointment by Guardian of Minor
+            </td>
+
+            <td>
+                9/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-009" target="_blank">GS-009</a>
+            </td>
+
+            <td>
+                Petition for Modification/Termination/Removal/Resignation of Guardian 
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-010" target="_blank">GS-010</a>
+            </td>
+
+            <td>
+                Order of Modification/Termination/Removal/Resignation of Guardian
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-012" target="_blank">GS-012</a>
+            </td>
+
+            <td>
+                Minor&#39;s Consent/Objection/Nomination of Guardian
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-014" target="_blank">GS-014</a>
+            </td>
+
+            <td>
+                Status Report of the Guardian of Minor
+            </td>
+
+            <td>
+                9/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-016" target="_blank">GS-016</a>
+            </td>
+
+            <td>
+                Child Support Affidavit
+            </td>
+
+            <td>
+                10/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-017" target="_blank">GS-017</a>
+            </td>
+
+            <td>
+                Child Support Worksheet
+            </td>
+
+            <td>
+                10/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-018" target="_blank">GS-018</a>
+            </td>
+
+            <td>
+                Guardianship Child Support Order
+            </td>
+
+            <td>
+                6/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=GS-021" target="_blank">GS-021</a>
+            </td>
+
+            <td>
+                Parent Consent to Appointment of Guardian Pursuant to ICWA
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-002-W" target="_blank">JV-002-W</a>
+            </td>
+
+            <td>
+                Juvenile Summons (FOR INFORMATIONAL PURPOSES ONLY)
+            </td>
+
+            <td>
+                12/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-005" target="_blank">JV-005</a>
+            </td>
+
+            <td>
+                Petition for Review of Detention of Juvenile and Order
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-006-W" target="_blank">JV-006-W</a>
+            </td>
+
+            <td>
+                Juvenile Conditions of Release (FOR INFORMATIONAL PURPOSES ONLY)
+            </td>
+
+            <td>
+                10/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-008-W" target="_blank">JV-008-W</a>
+            </td>
+
+            <td>
+                Conditions of Probation (FOR INFORMATIONAL PURPOSES ONLY)
+            </td>
+
+            <td>
+                9/1/2018
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-009-W" target="_blank">JV-009-W</a>
+            </td>
+
+            <td>
+                Notice to Legal Parents and Guardians (FOR INFORMATIONAL PURPOSES ONLY)
+            </td>
+
+            <td>
+                12/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-010-W" target="_blank">JV-010-W</a>
+            </td>
+
+            <td>
+                Notice to Juvenile of Right to Appeal to the Law Court (FOR INFORMATIONAL PURPOSES ONLY)
+            </td>
+
+            <td>
+                9/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-011-W" target="_blank">JV-011-W</a>
+            </td>
+
+            <td>
+                Notice to Parent, Guardian, or Legal Custodian of Right to Appeal to the Law Court (FOR INFORMATIONAL PURPOSES ONLY)
+            </td>
+
+            <td>
+                9/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-012" target="_blank">JV-012</a>
+            </td>
+
+            <td>
+                Notice of Appeal to the Law Court
+            </td>
+
+            <td>
+                9/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-016-W" target="_blank">JV-016-W</a>
+            </td>
+
+            <td>
+                Hearing Notice to Parents/Legal Custodian for Consideration of DHS Custody (FOR INFORMATIONAL PURPOSES ONLY)
+            </td>
+
+            <td>
+                12/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-017" target="_blank">JV-017</a>
+            </td>
+
+            <td>
+                Waiver of Notice
+            </td>
+
+            <td>
+                12/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-020" target="_blank">JV-020</a>
+            </td>
+
+            <td>
+                Important Notice (Failure to Comply)
+            </td>
+
+            <td>
+                10/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-021-W" target="_blank">JV-021-W</a>
+            </td>
+
+            <td>
+                Agreement of Juvenile and Order Deferring Disposition (FOR INFORMATIONAL PURPOSES ONLY)
+            </td>
+
+            <td>
+                12/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-022" target="_blank">JV-022</a>
+            </td>
+
+            <td>
+                Proof of Community Service/Public Service Performed
+            </td>
+
+            <td>
+                10/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-034" target="_blank">JV-034</a>
+            </td>
+
+            <td>
+                Motion for Transport
+            </td>
+
+            <td>
+                12/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-035" target="_blank">JV-035</a>
+            </td>
+
+            <td>
+                Motion and Order to Continue Juvenile Case
+            </td>
+
+            <td>
+                12/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-040" target="_blank">JV-040</a>
+            </td>
+
+            <td>
+                Notice of Discharge
+            </td>
+
+            <td>
+                12/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-041" target="_blank">JV-041</a>
+            </td>
+
+            <td>
+                Notice to Individual Inspecting Juvenile Case Records
+            </td>
+
+            <td>
+                12/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-043" target="_blank">JV-043</a>
+            </td>
+
+            <td>
+                Petition to Seal Juvenile Case Records
+            </td>
+
+            <td>
+                12/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-044" target="_blank">JV-044</a>
+            </td>
+
+            <td>
+                Request to Make a Public Juvenile Petition Confidential
+            </td>
+
+            <td>
+                12/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-046" target="_blank">JV-046</a>
+            </td>
+
+            <td>
+                Request for Abstract to the Secretary of State (JV Murder/Manslaughter)
+            </td>
+
+            <td>
+                9/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=JV-047" target="_blank">JV-047</a>
+            </td>
+
+            <td>
+                Request for Abstract to the Secretary of State (JV Assault/Crim Threatening/Reckless Conduct)
+            </td>
+
+            <td>
+                9/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MH-014" target="_blank">MH-014</a>
+            </td>
+
+            <td>
+                Petition to Dissolve Weapons Restriction Order
+            </td>
+
+            <td>
+                9/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MH-015" target="_blank">MH-015</a>
+            </td>
+
+            <td>
+                Request and Order for Protective Custody Warrant
+            </td>
+
+            <td>
+                8/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJ-002" target="_blank">MJ-002</a>
+            </td>
+
+            <td>
+                Request for Civil Order of Arrest or Order for Appearance
+            </td>
+
+            <td>
+                6/1/2014
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJ-005" target="_blank">MJ-005</a>
+            </td>
+
+            <td>
+                Answer to &quot;Order to Hold and Answer&quot;
+            </td>
+
+            <td>
+                6/1/2014
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJ-007" target="_blank">MJ-007</a>
+            </td>
+
+            <td>
+                Answer by Employer to Withhold and Deliver
+            </td>
+
+            <td>
+                3/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJ-009" target="_blank">MJ-009</a>
+            </td>
+
+            <td>
+                Motion and Affidavit for Order to Withhold and Deliver
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJ-014" target="_blank">MJ-014</a>
+            </td>
+
+            <td>
+                Request for Restitution Order to be Made a Money Judgment
+            </td>
+
+            <td>
+                6/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJ-015" target="_blank">MJ-015</a>
+            </td>
+
+            <td>
+                Motion, Affidavit, and Order to DOL to Provide Employment Information
+            </td>
+
+            <td>
+                9/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJBVB-009" target="_blank">MJBVB-009</a>
+            </td>
+
+            <td>
+                Motion to Amend VSAC
+            </td>
+
+            <td>
+                8/1/2018
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJBVB-010" target="_blank">MJBVB-010</a>
+            </td>
+
+            <td>
+                Motion to Continue
+            </td>
+
+            <td>
+                8/1/2018
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJBVB-017" target="_blank">MJBVB-017</a>
+            </td>
+
+            <td>
+                Request for Extension of Time to Pay Violations Bureau Fine
+            </td>
+
+            <td>
+                8/1/2018
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJBVB-018" target="_blank">MJBVB-018</a>
+            </td>
+
+            <td>
+                Motion to Reopen (with instructions)
+            </td>
+
+            <td>
+                8/1/2018
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJBVB-020" target="_blank">MJBVB-020</a>
+            </td>
+
+            <td>
+                Notice of Appeal of Traffic Infraction
+            </td>
+
+            <td>
+                1/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJBVB-028" target="_blank">MJBVB-028</a>
+            </td>
+
+            <td>
+                Information about Traffic Violation Trials
+            </td>
+
+            <td>
+                4/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJBVB-029" target="_blank">MJBVB-029</a>
+            </td>
+
+            <td>
+                Information about Traffic Violation Appeals
+            </td>
+
+            <td>
+                3/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJ-SC-001" target="_blank">MJ-SC-001</a>
+            </td>
+
+            <td>
+                Affidavit and Agreement (to pay)
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJ-SC-005" target="_blank">MJ-SC-005</a>
+            </td>
+
+            <td>
+                Motion for Contempt
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=MJ-SC-012" target="_blank">MJ-SC-012</a>
+            </td>
+
+            <td>
+                Affidavit and Agreement (Business Entities)
+            </td>
+
+            <td>
+                8/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=NC-001" target="_blank">NC-001</a>
+            </td>
+
+            <td>
+                Petition for Change of Name (Minor)
+            </td>
+
+            <td>
+                9/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=NC-003" target="_blank">NC-003</a>
+            </td>
+
+            <td>
+                Waiver Agreement of Name Change
+            </td>
+
+            <td>
+                10/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OMB-097" target="_blank">OMB-097</a>
+            </td>
+
+            <td>
+                Federal Income Withholding For Support
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-005" target="_blank">OTH-005</a>
+            </td>
+
+            <td>
+                DEEP Brochure
+            </td>
+
+            <td>
+                11/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-007" target="_blank">OTH-007</a>
+            </td>
+
+            <td>
+                Media Notification - Requested Coverage of Court Proceeding
+            </td>
+
+            <td>
+                12/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-008" target="_blank">OTH-008</a>
+            </td>
+
+            <td>
+                Attorney Information Form
+            </td>
+
+            <td>
+                1/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-009" target="_blank">OTH-009</a>
+            </td>
+
+            <td>
+                Request for Record Search (All Courts and Violation&#39;s Bureau)
+            </td>
+
+            <td>
+                10/1/2015
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-011" target="_blank">OTH-011</a>
+            </td>
+
+            <td>
+                ADA: Accommodation Request Form
+            </td>
+
+            <td>
+                3/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-012" target="_blank">OTH-012</a>
+            </td>
+
+            <td>
+                ADA: Grievance Form for Disability Accommodation
+            </td>
+
+            <td>
+                5/1/2018
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-013" target="_blank">OTH-013</a>
+            </td>
+
+            <td>
+                Guardian Ad Litem Roster Application
+            </td>
+
+            <td>
+                3/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-014" target="_blank">OTH-014</a>
+            </td>
+
+            <td>
+                Party&#39;s Request for Access to Child Protection or Protection Order Cases in re:SearchMaine
+            </td>
+
+            <td>
+                6/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-015" target="_blank">OTH-015</a>
+            </td>
+
+            <td>
+                Interpreter Request Form
+            </td>
+
+            <td>
+                10/1/2018
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-017" target="_blank">OTH-017</a>
+            </td>
+
+            <td>
+                Bill for Interpreter Services (see OTH-131 for a version that does not auto-calculate $ amounts)
+            </td>
+
+            <td>
+                1/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-019" target="_blank">OTH-019</a>
+            </td>
+
+            <td>
+                Opt In Form For Progress ShareFile
+            </td>
+
+            <td>
+                1/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-029" target="_blank">OTH-029</a>
+            </td>
+
+            <td>
+                Complaint for Protection from Abuse Packet - Paper Filing (with PA/PH Guide)
+            </td>
+
+            <td>
+                12/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-030" target="_blank">OTH-030</a>
+            </td>
+
+            <td>
+                Complaint for Protection from Abuse Packet - Electronic Filing
+            </td>
+
+            <td>
+                1/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-031" target="_blank">OTH-031</a>
+            </td>
+
+            <td>
+                Complaint for Protection from Harassment Packet - Paper Filing (with PA/PH Guide)
+            </td>
+
+            <td>
+                12/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-032" target="_blank">OTH-032</a>
+            </td>
+
+            <td>
+                Complaint for Protection from Harassment Packet - Electronic Filing
+            </td>
+
+            <td>
+                1/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-033" target="_blank">OTH-033</a>
+            </td>
+
+            <td>
+                Motion to Extend Order of Protection Packet - Paper Filing
+            </td>
+
+            <td>
+                12/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-034" target="_blank">OTH-034</a>
+            </td>
+
+            <td>
+                Motion to Extend Order of Protection Packet - Electronic Filing
+            </td>
+
+            <td>
+                1/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-039" target="_blank">OTH-039</a>
+            </td>
+
+            <td>
+                Complaint for Divorce with Children Packet (NOT INCLUDED: FM Summons (FM-038); this must be purchased for $5)
+            </td>
+
+            <td>
+                8/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-040" target="_blank">OTH-040</a>
+            </td>
+
+            <td>
+                Complaint for Divorce without Children Packet (NOT INCLUDED: FM Summons (FM-038); this must be purchased for $5)
+            </td>
+
+            <td>
+                8/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-041" target="_blank">OTH-041</a>
+            </td>
+
+            <td>
+                Complaint for Parentage, Parental Rights &amp; Responsibilities, and Child Support Packet (NOT INCLUDED: FM Summons (FM-038) must be purchased for $5)
+            </td>
+
+            <td>
+                2/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-042" target="_blank">OTH-042</a>
+            </td>
+
+            <td>
+                FM Motion to Modify Packet
+            </td>
+
+            <td>
+                8/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-043" target="_blank">OTH-043</a>
+            </td>
+
+            <td>
+                FM Motion to Enforce Packet
+            </td>
+
+            <td>
+                8/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-044" target="_blank">OTH-044</a>
+            </td>
+
+            <td>
+                FM Motion for Contempt Packet - NOT INCLUDED: Contempt Hearing Subpoena (CV-037); this must be purchased for $5 or issued by an attorney
+            </td>
+
+            <td>
+                3/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-045" target="_blank">OTH-045</a>
+            </td>
+
+            <td>
+                Residential FED Packet (NOT INCLUDED: FED Summons (CV-034); this form must be purchased for $5)
+            </td>
+
+            <td>
+                1/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-046" target="_blank">OTH-046</a>
+            </td>
+
+            <td>
+                Recovery of Personal Property Packet Under the PMP (NOT INCLUDED: Recovery of PP Summons (CV-184); this must be purchased for $5)
+            </td>
+
+            <td>
+                9/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-057" target="_blank">OTH-057</a>
+            </td>
+
+            <td>
+                An Overview of Small Claims Court - SC Pamphlet
+            </td>
+
+            <td>
+                10/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-058" target="_blank">OTH-058</a>
+            </td>
+
+            <td>
+                Evicting a Tenant from a Residence for Not Paying Rent - FED Pamphlet
+            </td>
+
+            <td>
+                10/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-064" target="_blank">OTH-064</a>
+            </td>
+
+            <td>
+                A Guide to Small Claims Cases
+            </td>
+
+            <td>
+                11/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-073" target="_blank">OTH-073</a>
+            </td>
+
+            <td>
+                Help for People Filing a Protection Order (Cover sheet for PA Email Packets)
+            </td>
+
+            <td>
+                5/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-075" target="_blank">OTH-075</a>
+            </td>
+
+            <td>
+                Notice to Cash Bail Providers
+            </td>
+
+            <td>
+                7/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-085" target="_blank">OTH-085</a>
+            </td>
+
+            <td>
+                Request for Docket Number (for use ONLY by Maine attorneys in cases/courts where eFiling is available)
+            </td>
+
+            <td>
+                2/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-087" target="_blank">OTH-087</a>
+            </td>
+
+            <td>
+                Case Search Identifiers for Maine eCourts
+            </td>
+
+            <td>
+                7/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-098" target="_blank">OTH-098</a>
+            </td>
+
+            <td>
+                Documents for Service (FM Foreign Judgments)
+            </td>
+
+            <td>
+                8/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-123" target="_blank">OTH-123</a>
+            </td>
+
+            <td>
+                Application to Proceed Without Payment of Fee - Packet
+            </td>
+
+            <td>
+                10/1/2024
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-131" target="_blank">OTH-131</a>
+            </td>
+
+            <td>
+                Bill for Interpreter Services (does not auto-calculate $ amounts)
+            </td>
+
+            <td>
+                1/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-132" target="_blank">OTH-132</a>
+            </td>
+
+            <td>
+                GAL Mentor Application
+            </td>
+
+            <td>
+                5/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-133" target="_blank">OTH-133</a>
+            </td>
+
+            <td>
+                GAL Mentor Request Form
+            </td>
+
+            <td>
+                5/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-134" target="_blank">OTH-134</a>
+            </td>
+
+            <td>
+                Acceptance of GAL Referral Form
+            </td>
+
+            <td>
+                5/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-135" target="_blank">OTH-135</a>
+            </td>
+
+            <td>
+                GAL Mentor Voucher
+            </td>
+
+            <td>
+                5/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-136" target="_blank">OTH-136</a>
+            </td>
+
+            <td>
+                Child Support/DSER Handout
+            </td>
+
+            <td>
+                3/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-152%20" target="_blank">OTH-152 </a>
+            </td>
+
+            <td>
+                JV Guide Insert
+            </td>
+
+            <td>
+                9/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-154" target="_blank">OTH-154</a>
+            </td>
+
+            <td>
+                Parenting Capacity Evaluations - State Forensics
+            </td>
+
+            <td>
+                10/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-001" target="_blank">PA-001</a>
+            </td>
+
+            <td>
+                Complaint for Protection from Abuse
+            </td>
+
+            <td>
+                9/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-005" target="_blank">PA-005</a>
+            </td>
+
+            <td>
+                Protection Order Service Information
+            </td>
+
+            <td>
+                9/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-006" target="_blank">PA-006</a>
+            </td>
+
+            <td>
+                Complaint for Protection from Harassment
+            </td>
+
+            <td>
+                9/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-010" target="_blank">PA-010</a>
+            </td>
+
+            <td>
+                Defendant&#39;s Motion to Dissolve/Modify/Amend Temporary Order for Protection
+            </td>
+
+            <td>
+                1/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-012" target="_blank">PA-012</a>
+            </td>
+
+            <td>
+                Plaintiff Pre-Judgment Motion to Dismiss Complaint
+            </td>
+
+            <td>
+                1/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-013" target="_blank">PA-013</a>
+            </td>
+
+            <td>
+                Plaintiff&#39;s Motion to Extend Order for Protection
+            </td>
+
+            <td>
+                9/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-015" target="_blank">PA-015</a>
+            </td>
+
+            <td>
+                Affidavit of Confidential Address
+            </td>
+
+            <td>
+                1/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-022" target="_blank">PA-022</a>
+            </td>
+
+            <td>
+                Post-Judgment Motion to Modify/Extinguish Final Protection Order
+            </td>
+
+            <td>
+                9/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-024" target="_blank">PA-024</a>
+            </td>
+
+            <td>
+                Notice of Relinquishment of Weapons to be Completed by Law Enforcement
+            </td>
+
+            <td>
+                9/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-025" target="_blank">PA-025</a>
+            </td>
+
+            <td>
+                Notice of Firearms Relinquishment to be Completed by Defendant
+            </td>
+
+            <td>
+                9/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-026" target="_blank">PA-026</a>
+            </td>
+
+            <td>
+                Information Regarding Relinquishment of Firearms &amp; Weapons
+            </td>
+
+            <td>
+                9/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-027" target="_blank">PA-027</a>
+            </td>
+
+            <td>
+                Certification for Electronic Filing of Complaint or Motion to Extend Protection Order
+            </td>
+
+            <td>
+                1/1/2026
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-028" target="_blank">PA-028</a>
+            </td>
+
+            <td>
+                Protection From Abuse or Protection From Harassment: What Kind of Case Should I File?
+            </td>
+
+            <td>
+                9/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-033" target="_blank">PA-033</a>
+            </td>
+
+            <td>
+                Affidavit and Request to Register Foreign Protection Order Under the Uniform Enforcement of Foreign Judgments Act
+            </td>
+
+            <td>
+                1/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PA-037" target="_blank">PA-037</a>
+            </td>
+
+            <td>
+                Sexual Assault and Domestic Violence Help
+            </td>
+
+            <td>
+                8/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PB-003" target="_blank">PB-003</a>
+            </td>
+
+            <td>
+                Jurisdictional Affidavit
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PB-004" target="_blank">PB-004</a>
+            </td>
+
+            <td>
+                SSN Disclosure Form (AD,GS,NC)
+            </td>
+
+            <td>
+                9/1/2019
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PB-010" target="_blank">PB-010</a>
+            </td>
+
+            <td>
+                Guardianship Case File Checklist
+            </td>
+
+            <td>
+                5/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PB-011" target="_blank">PB-011</a>
+            </td>
+
+            <td>
+                Private Party Adoption Case File Checklist
+            </td>
+
+            <td>
+                6/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PB-012" target="_blank">PB-012</a>
+            </td>
+
+            <td>
+                Name Change Case File Checklist
+            </td>
+
+            <td>
+                11/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PB-013" target="_blank">PB-013</a>
+            </td>
+
+            <td>
+                Instructions for Submission of VS-9 or VS-14 Form to Vital Statistics
+            </td>
+
+            <td>
+                1/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PC-034%20" target="_blank">PC-034 </a>
+            </td>
+
+            <td>
+                Compliance Report of the Guardian Ad Litem
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PC-043" target="_blank">PC-043</a>
+            </td>
+
+            <td>
+                Motion to Extend Jeopardy Order Deadline
+            </td>
+
+            <td>
+                8/1/2022
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PC-044" target="_blank">PC-044</a>
+            </td>
+
+            <td>
+                ICWA Consent to Foster Care Placement
+            </td>
+
+            <td>
+                10/1/2023
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=PUB-001" target="_blank">PUB-001</a>
+            </td>
+
+            <td>
+                A Guide to Protection from Abuse/Harassment Cases
+            </td>
+
+            <td>
+                11/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=SC-001" target="_blank">SC-001</a>
+            </td>
+
+            <td>
+                Statement of Claim
+            </td>
+
+            <td>
+                10/1/2021
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=SC-003" target="_blank">SC-003</a>
+            </td>
+
+            <td>
+                Request for Disclosure Hearing
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=SC-005" target="_blank">SC-005</a>
+            </td>
+
+            <td>
+                Acknowledgment of Service (Formerly Notice of Service)
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=SC-006" target="_blank">SC-006</a>
+            </td>
+
+            <td>
+                Affidavit and Request for Service
+            </td>
+
+            <td>
+                1/1/2025
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=SC-007" target="_blank">SC-007</a>
+            </td>
+
+            <td>
+                Notice of Small Claims Appeal 
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=SC-009" target="_blank">SC-009</a>
+            </td>
+
+            <td>
+                Important Facts If You Are Being Sued in Small Claims Court
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+        <tr>
+
+            <td>
+                <a href="/CourtForms/FormsLists/DownloadForm?strFormNumber=SC-010" target="_blank">SC-010</a>
+            </td>
+
+            <td>
+                Instructions About Service for Small Claims Actions
+            </td>
+
+            <td>
+                2/1/2020
+            </td>
+
+
+        </tr>
+
+</table>
+
+            <hr />
+            <footer>
+                <div class="row">
+                    <div class="col-md-2 col-md-offset-5">
+                        <address>
+                            <strong>Maine Judicial Branch</strong><br />
+                        </address>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-9 col-md-offset-3">
+                        <p>If you encounter any problems with this site, please contact webmaster@courts.maine.gov</p>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+
+    <script src="/CourtForms/bundles/jquery"></script>
+
+    <script src="/CourtForms/bundles/bootstrap?v=M4Nk6kIOwMFflsEKET0iPL9i5YBqbzMzvUOrd8gyCnw1"></script>
+
+
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=932203580" async></script></body>
+</html>

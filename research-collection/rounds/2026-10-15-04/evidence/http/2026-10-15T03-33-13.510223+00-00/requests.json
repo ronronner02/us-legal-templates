@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://mjbportal.courts.maine.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T03:33:13.532506+00:00",
+    "http_status": 404,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_404",
+    "sha256": "e2ce04058884a18298d5c511997c2a90b87a4bba7815695cea1440c540b17695",
+    "bytes": 1378,
+    "body_path": "evidence/http/2026-10-15T03-33-13.510223+00-00/e2ce04058884a18298d5c511997c2a90b87a4bba7815695cea1440c540b17695.body"
+  },
+  {
+    "url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/Index",
+    "kind": "source",
+    "checked_at": "2026-10-15T03:33:14.951121+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "etag": null,
+    "last_modified": null,
+    "status": "fetched",
+    "title": "Forms List - Maine Judicial Branch",
+    "sha256": "155abf7a5ef425119f9586065dc97bb2df114f09258cd1f8461ce92ea4882935",
+    "bytes": 134315,
+    "body_path": "evidence/http/2026-10-15T03-33-13.510223+00-00/155abf7a5ef425119f9586065dc97bb2df114f09258cd1f8461ce92ea4882935.body"
+  },
+  {
+    "url": "https://www.courts.maine.gov/forms/attorney-forms.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T03:33:17.810127+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "fetched",
+    "title": "Attorney and Vendor Forms: State of Maine Judicial Branch",
+    "sha256": "2377225e1dc53ae34784391ba37eb1c81478870cb318402f591eb55f547c7646",
+    "bytes": 25057,
+    "body_path": "evidence/http/2026-10-15T03-33-13.510223+00-00/2377225e1dc53ae34784391ba37eb1c81478870cb318402f591eb55f547c7646.body"
+  }
+]

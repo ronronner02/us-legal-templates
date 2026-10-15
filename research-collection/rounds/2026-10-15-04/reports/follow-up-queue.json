@@ -1,0 +1,22 @@
+[
+  {
+    "owner": "collection reviewer",
+    "task": "Review copyright, permitted reuse, and publication approval using captured official source and document notices.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Render originals and inspect interactive fields, layout, PDF security settings, signatures, current procedural rules, and court-specific filing acceptance.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Preserve CV-067/CV-191 content overlap and companion-document distinctions; full-library semantic deduplication remains incomplete.",
+    "status": "pending"
+  },
+  {
+    "owner": "future research round",
+    "task": "Retain all inherited holds plus this round access and robots-verification stops. No coverage absence is inferred from inaccessible sources.",
+    "status": "held"
+  }
+]

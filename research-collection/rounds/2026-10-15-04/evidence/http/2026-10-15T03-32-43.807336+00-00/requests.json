@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://www.courts.maine.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T03:32:43.841965+00:00",
+    "http_status": 404,
+    "content_type": "text/html; charset=iso-8859-1",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_404",
+    "sha256": "e3a7fa8f5af962d836759796937f9812220946a2a109f8f9be6dd89974d64d86",
+    "bytes": 327,
+    "body_path": "evidence/http/2026-10-15T03-32-43.807336+00-00/e3a7fa8f5af962d836759796937f9812220946a2a109f8f9be6dd89974d64d86.body"
+  },
+  {
+    "url": "https://www.courts.maine.gov/forms/index.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T03:32:46.182086+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "fetched",
+    "title": "State of Maine Judicial Branch",
+    "sha256": "f2e1ec80c6ceac587171971df6dabab5bba35261ef4ae65a199223b6f1558981",
+    "bytes": 30472,
+    "body_path": "evidence/http/2026-10-15T03-32-43.807336+00-00/f2e1ec80c6ceac587171971df6dabab5bba35261ef4ae65a199223b6f1558981.body"
+  },
+  {
+    "url": "https://www.courts.oregon.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T03:32:48.285275+00:00",
+    "status": "fetch_error",
+    "reason": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "url": "https://www.courts.oregon.gov/forms/Pages/landlord-tenant.aspx",
+    "kind": "source",
+    "checked_at": "2026-10-15T03:32:59.381744+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  }
+]

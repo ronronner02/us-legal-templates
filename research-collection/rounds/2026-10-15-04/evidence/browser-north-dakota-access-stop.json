@@ -1,0 +1,8 @@
+{
+  "status": 403,
+  "url": "https://www.ndcourts.gov/legal-self-help/eviction-for-landlords",
+  "checked_at": "2026-10-15T03:32:28.563867+00:00",
+  "title": "Blocked",
+  "reason": "Browser source returned HTTP 403; static discovery also stopped because robots verification was unavailable. No further requests.",
+  "evidence_ref": "evidence/browser-north-dakota-access-stop.json"
+}

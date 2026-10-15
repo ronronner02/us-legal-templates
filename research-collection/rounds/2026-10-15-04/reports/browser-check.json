@@ -1,0 +1,230 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T03:39:26.577Z",
+  "initial_count": "25 of 25 documents",
+  "filters": [
+    {
+      "filter": "state",
+      "value": "ME",
+      "expected": 25,
+      "actual": 25
+    },
+    {
+      "filter": "category",
+      "value": "Housing and eviction",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "filter": "category",
+      "value": "Civil procedure and property",
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "filter": "category",
+      "value": "Foreign judgments",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "filter": "category",
+      "value": "Small claims",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "filter": "use",
+      "value": "court_procedural_form",
+      "expected": 19,
+      "actual": 19
+    },
+    {
+      "filter": "use",
+      "value": "procedural_guidance",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "filter": "use",
+      "value": "application_with_companion_affidavit",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "filter": "use",
+      "value": "information_sheet_and_mediation_request",
+      "expected": 1,
+      "actual": 1
+    }
+  ],
+  "searches": [
+    {
+      "query": "canadian",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "query": "cv-067",
+      "expected": 1,
+      "actual": 1
+    }
+  ],
+  "empty_state": "passed",
+  "combined_filters": "passed",
+  "reset": "passed",
+  "originals": [
+    {
+      "path": "/originals/ME/sc-005-4b0dfb934456.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 130999
+    },
+    {
+      "path": "/originals/ME/cv-061-3bbc9e43f420.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 230254
+    },
+    {
+      "path": "/originals/ME/sc-006-e6dc6e7d6530.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 162546
+    },
+    {
+      "path": "/originals/ME/cv-281-03dc43028343.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 224013
+    },
+    {
+      "path": "/originals/ME/cv-266-18c2e281fafa.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 238473
+    },
+    {
+      "path": "/originals/ME/cv-204-68fc320982d8.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 158713
+    },
+    {
+      "path": "/originals/ME/cv-067-ab5830f8fbcf.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 2211833
+    },
+    {
+      "path": "/originals/ME/cv-183-f1adeed7c876.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 153611
+    },
+    {
+      "path": "/originals/ME/cv-007-78e77a6af71b.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 184772
+    },
+    {
+      "path": "/originals/ME/cv-261-5d64b25ea7d5.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 166632
+    },
+    {
+      "path": "/originals/ME/cv-287-863651d37a7a.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 324541
+    },
+    {
+      "path": "/originals/ME/cv-191-9580d624dcdb.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 260742
+    },
+    {
+      "path": "/originals/ME/cv-092-6bd9baabf7f9.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 153816
+    },
+    {
+      "path": "/originals/ME/sc-009-afc3a9379f0f.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 93433
+    },
+    {
+      "path": "/originals/ME/cv-100-b5c6f68dc9f8.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 155754
+    },
+    {
+      "path": "/originals/ME/sc-010-7b96d628b2a4.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 135444
+    },
+    {
+      "path": "/originals/ME/cv-206-78242b172e29.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 237839
+    },
+    {
+      "path": "/originals/ME/cv-187-a55540ffaf00.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 165378
+    },
+    {
+      "path": "/originals/ME/sc-007-dd91c70ae114.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 182415
+    },
+    {
+      "path": "/originals/ME/cv-282-3eb66a4875e5.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 234299
+    },
+    {
+      "path": "/originals/ME/sc-003-4c2a113ebb28.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 981447
+    },
+    {
+      "path": "/originals/ME/cv-195-7fc59ff78988.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 157326
+    },
+    {
+      "path": "/originals/ME/cv-188-558a973fa44a.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 136818
+    },
+    {
+      "path": "/originals/ME/cv-181-8838614a489e.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 193212
+    },
+    {
+      "path": "/originals/ME/cv-256-12a8898d5943.pdf",
+      "status": 200,
+      "pdf_header": true,
+      "bytes": 190662
+    }
+  ],
+  "original_urls_checked": 25,
+  "javascript_errors": []
+}

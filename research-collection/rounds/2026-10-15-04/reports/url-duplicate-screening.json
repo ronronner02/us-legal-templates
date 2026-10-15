@@ -1,0 +1,9 @@
+{
+  "baseline_unique_originals": 558,
+  "selected_urls_absent_from_baseline": 25,
+  "excluded_known_form_codes": [
+    "CV-001",
+    "SC-001"
+  ],
+  "note": "Known URLs excluded before downloading. Acquired byte hashes are checked separately against all baseline originals."
+}

@@ -1,0 +1,8 @@
+{
+  "status": "access_challenge",
+  "url": "https://courts.delaware.gov/forms/list.aspx?sec=Forms&sub=Landlord/%20Tenant",
+  "checked_at": "2026-10-15T03:31:40.269011+00:00",
+  "title": "Request Rejected",
+  "evidence_ref": "evidence/browser-delaware-access-stop.json",
+  "reason": "Normal browser navigation returned Request Rejected. No retry or alternate acquisition route."
+}

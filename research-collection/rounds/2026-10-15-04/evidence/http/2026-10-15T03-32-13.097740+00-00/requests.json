@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://www.ndcourts.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T03:32:13.138902+00:00",
+    "http_status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_403",
+    "sha256": "b86b7544259cab02ca0891bd8974a2d7634c63eabfcf7ae3f40b6b29fbd23cb4",
+    "bytes": 274677,
+    "body_path": "evidence/http/2026-10-15T03-32-13.097740+00-00/b86b7544259cab02ca0891bd8974a2d7634c63eabfcf7ae3f40b6b29fbd23cb4.body"
+  },
+  {
+    "url": "https://www.ndcourts.gov/legal-self-help/eviction-for-landlords",
+    "kind": "source",
+    "checked_at": "2026-10-15T03:32:13.931662+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  }
+]

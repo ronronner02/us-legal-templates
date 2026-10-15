@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.vermontjudiciary.org/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T03:32:28.804673+00:00",
+    "http_status": 403,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_403",
+    "sha256": "967925e8562335cfa0166bf46cf1b8fcb3e68f86f51c5b895a52c78c026d3e98",
+    "bytes": 392,
+    "body_path": "evidence/http/2026-10-15T03-32-28.780190+00-00/967925e8562335cfa0166bf46cf1b8fcb3e68f86f51c5b895a52c78c026d3e98.body"
+  },
+  {
+    "url": "https://www.vermontjudiciary.org/civil/landlord-tenant",
+    "kind": "source",
+    "checked_at": "2026-10-15T03:32:29.998008+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  },
+  {
+    "url": "https://www.dccourts.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T03:32:30.012891+00:00",
+    "http_status": 403,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_403",
+    "sha256": "1f2e1251b1d5fab2f47bbfe3e09b149064e61571f98a5e02c6ace5f86bacb1d5",
+    "bytes": 179,
+    "body_path": "evidence/http/2026-10-15T03-32-28.780190+00-00/1f2e1251b1d5fab2f47bbfe3e09b149064e61571f98a5e02c6ace5f86bacb1d5.body"
+  },
+  {
+    "url": "https://www.dccourts.gov/services/civil-matters/landlord-tenant",
+    "kind": "source",
+    "checked_at": "2026-10-15T03:32:34.571487+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  }
+]

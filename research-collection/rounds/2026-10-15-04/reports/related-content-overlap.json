@@ -1,0 +1,12 @@
+{
+  "file_hash_deduplication": "All acquired original hashes screened against baseline originals and this round.",
+  "known_content_overlap": [
+    {
+      "container_form": "CV-067",
+      "included_form": "CV-191",
+      "basis": "Four-page supplied CV-067 original includes two-page CV-191 Financial Affidavit with its printed code and revision. Separate original retained without splitting or rewriting.",
+      "counting": "Two distinct original files; not two independent form contents."
+    }
+  ],
+  "full_library_semantic_deduplication": "not_performed"
+}

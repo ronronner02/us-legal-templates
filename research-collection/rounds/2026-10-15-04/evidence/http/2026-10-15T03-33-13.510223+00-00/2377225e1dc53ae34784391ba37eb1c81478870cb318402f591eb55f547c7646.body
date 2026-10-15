@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]>                <html lang="en" class="no-js ie9"> <![endif]-->
+<html lang="en"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- Maine.gov | State Agency Template 3.0 -->
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Attorney and Vendor Forms: State of Maine Judicial Branch</title>
+<!-- InstanceEndEditable -->
+<link media="screen" type="text/css" rel="stylesheet" href="../css/index.css" />
+<link media="print" type="text/css" rel="stylesheet" href="../css/print.css" />
+<link media="only screen and (max-width: 651px)" type="text/css" rel="stylesheet" href="../css/sphone.css" />
+<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="text/javascript" src="https://www1.maine.gov/awt/templateV3/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://www1.maine.gov/awt/templateV3/js/maine.js"></script>
+<script type="text/javascript" src="https://www1.maine.gov/awt/templateV3/js/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="https://www1.maine.gov/awt/templateV3/js/superfish.js"></script>
+<script type="text/javascript" src="https://www1.maine.gov/awt/templateV3/js/jquery.smartmenus.js"></script>
+<script type="text/javascript" src="https://www1.maine.gov/awt/templateV3/js/jquery.smartmenus.keyboard.js"></script>
+<script type="text/javascript" src="https://www1.maine.gov/awt/templateV3/js/agencyv3.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,400i&display=swap" rel="stylesheet">
+
+<!-- InstanceBeginEditable name="head" -->
+<meta name="description" content=" " />
+<meta name="keywords" content=" " />
+
+<!-- Custom code area (Start) -->
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/datatables/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/datatables/js/dataTables.responsive.min.js"></script>
+<link href="https://www.maine.gov/awt/templateV3/js/datatables/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript"> 
+$(document).ready(function() { 
+$('.datatable').dataTable( {
+   responsive: false,
+	 "order": [[ 0, "asc" ]]
+   });
+});
+</script>
+	<style type="text/css">
+		h3.formsindex { margin:35px 0 0; }
+		.threecol2 + h2 { clear:both; margin-top:30px; float:left; }
+		
+	</style>
+<!-- custom code area (End) -->
+
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="crumbtrail" type="boolean" value="true" -->
+<!-- InstanceParam name="rightcol" type="boolean" value="false" -->
+<!-- InstanceParam name="leftcol" type="boolean" value="true" -->
+<!-- InstanceParam name="maincontent-id" type="text" value="maincontent2" -->
+<!-- InstanceParam name="maincontent-opt" type="boolean" value="true" -->
+<!-- InstanceParam name="sectionid" type="text" value="forms" -->
+<!-- InstanceParam name="about-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="ecourts-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="covid-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="courts-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="supreme-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="help-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="family-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="juvenile-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="services-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="forms-pages" type="boolean" value="true" -->
+<!-- InstanceParam name="bar-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="juror-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="programs-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="news-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="reports-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="rules-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="traffic-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="treatment-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="sectionbanner" type="boolean" value="false" -->
+<!-- InstanceParam name="sectionbanner-id" type="text" value="sectionbanner2" -->
+<!-- InstanceParam name="mobilenav" type="boolean" value="true" -->
+<!-- InstanceParam name="Divorce-Sub" type="boolean" value="false" -->
+<!-- InstanceParam name="ada-sub" type="boolean" value="false" -->
+<!-- InstanceParam name="supreme-sub" type="boolean" value="false" -->
+<!-- InstanceParam name="lep-sub" type="boolean" value="false" -->
+<!-- InstanceParam name="adr-sub" type="boolean" value="false" -->
+<!-- InstanceParam name="info-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="kat-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="bcd-pages" type="boolean" value="false" -->
+
+
+
+
+</head>
+
+<body id="forms">
+<!-- Start Skip Navigation: Accessibility Requirement -->
+<ul class="offscreen">
+    <li><a href="/" accesskey="H" title="Home [accesskey 'h']">Home</a></li>
+    <li><a href="#top-nav" accesskey="1" title="Skip to navigation [accesskey '1']">Skip to top navigation</a></li>
+    <li><a href="#content" accesskey="2" title="Skip to side navigation [accesskey '2']">Skip to side navigation</a></li>
+    <li><a href="#page-body" accesskey="3" title="Skip to content [accesskey '3']">Skip to content</a></li>
+    <li><a href="#footer" accesskey="4" title="Skip to footer [accesskey '4']">Skip to footer</a></li>
+</ul>
+<!-- End Skip Navigation: Accessibility Requirement --> 
+<!-- Sliver Start --> 
+ <!-- ##################################################################w11n -->
+<!-- insert citizen alert -->
+
+
+<div id="sliver_container"> 
+  <div class="sliver"> 
+    <h2><a href="https://www.maine.gov/">Maine.gov</a></h2>
+      <ul> 
+        <li><a href="https://www.maine.gov/portal/government/state-agencies.php">Agencies</a> |</li>
+        <li><a href="https://www.maine.gov/portal/online_services/index.html">Online Services</a> |</li>
+        <li><a href="https://www.maine.gov/portal/help/index.html">Help</a> |</li>
+        <li><a href="https://www.maine.gov/search/" class="state_search">Search Maine.gov</a></li>
+      </ul>
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  </div>
+
+</div>
+
+  
+<!-- Sliver End -->
+<div id="container"> 
+    
+     <!-- Header -->
+  <header>
+    <div class="sub-container clearfix">
+     	<h2 class="logo"><a href="../index.html">State of Maine Judicial Branch</a></h2>
+      	<div class="header_nav_search">
+			<ul class="nav clearfix" id="vtopnav">
+				<li><a href="https://www.courts.maine.gov/online-services.html">Online Services</a></li>
+				<li> | &nbsp;&nbsp;<a href="https://www.courts.maine.gov/about/jobs.html">Jobs</a></li>
+				<li> | &nbsp;&nbsp;<a href="https://www.courts.maine.gov/ada/index.html">ADA</a></li>
+				<li> | &nbsp;&nbsp;<a href="https://www.courts.maine.gov/programs/lep/index.html">Interpreters</a></li>
+				<!-- <li> | &nbsp;&nbsp;<a href="https://www.courts.maine.gov/help/a-z-index.html">Index</a></li> -->
+				<li> | &nbsp;&nbsp;<a href="https://www.courts.maine.gov/contact-info.html">Contact</a></li>
+
+
+			</ul>
+		
+		<div role="search" class="header_search">
+  			<form action="https://www.maine.gov/search" method="get">
+    		<label class="hide-label" for="headersearch">Search Courts</label>
+    		<input type="text" size="24" name="search" id="headersearch" class="search_area" placeholder="Search Courts">
+    		<input class="search_button green_btn" type="submit" value="Search">
+  			</form>
+		</div>
+        	<!-- end header_search --> 
+    	</div>
+		</div>
+    	<!--End Sub-Container--> 
+	 <!-- ################################################################## -->
+<link href="/portal/sliverheader/sliver.css" rel="stylesheet" type="text/css" /> 	
+<!-- ################################################################## -->
+ </header>
+  
+  	<nav id="top-nav" aria-label="Main menu" role="navigation" class="megamenu">
+		<div class="sub-container clearfix">
+      		<ul class="sf-menu" id="dropdown">
+				
+				
+				<li><a href="https://www.courts.maine.gov/index.html" class="hometab">Home</a></li>		
+
+				
+				<li><a href="https://www.courts.maine.gov/about/index.html" class="abouttab">About</a>
+				  	<ul>
+						<li><a href="https://www.courts.maine.gov/about/aoc.html">Administrative Office of the Courts</a></li>
+						<li><a href="https://www.courts.maine.gov/about/committees/index.html">Court Committees</a></li>
+						<li><a href="https://www.courts.maine.gov/about/projects/index.html">Courthouse Building &amp; Capital Improvement Projects</a></li>
+						<li><a href="https://www.courts.maine.gov/about/reports-data.html">Reports &amp; Data</a></li>
+						<li><a href="https://www.courts.maine.gov/about/jobs.html">Jobs &amp; Clerkships</a></li>
+						<li><a href="https://www.courts.maine.gov/about/contact.html">Contact</a></li>
+				  	</ul>
+				</li>
+				<li><a href="https://www.courts.maine.gov/courts/index.html" class="courtstab">Courts</a>
+          			<ul>
+						<li><a href="https://www.courts.maine.gov/courts/find-a-court.html">Find a Court</a></li>
+						<li><a href="https://www.courts.maine.gov/courts/schedules/index.html">Schedules &amp; Closings</a></li>
+						<li><a href="https://www.courts.maine.gov/courts/sjc/index.html">Supreme Court</a></li>
+						<li><a href="https://www.courts.maine.gov/courts/superior/index.html">Superior Court</a></li>
+						<li><a href="https://www.courts.maine.gov/courts/district/index.html">District Court</a></li>
+						<li><a href="https://www.courts.maine.gov/courts/family/index.html">Family Division</a></li>
+						<li><a href="https://www.courts.maine.gov/courts/juvenile/index.html">Juvenile Court</a></li>
+						<li><a href="https://www.courts.maine.gov/courts/bcd/index.html">Business &amp; Consumer</a></li>
+						<li><a href="https://www.courts.maine.gov/courts/traffic/index.html">Traffic Violations</a></li>
+						<li><a href="https://www.courts.maine.gov/courts/treatment/index.html">Treatment Courts</a></li>
+					</ul>
+        		</li>
+
+				<li><a href="https://www.courts.maine.gov/programs/index.html" class="programstab">Programs &amp; Services</a>
+					<ul>
+						<li><a href="https://www.courts.maine.gov/programs/casa.html">Court-Appointed Special Advocates (CASA)</a></li>
+						<li><a href="https://www.courts.maine.gov/programs/adr/index.html">Mediation &amp; Alternative Dispute Resolution (ADR)</a></li>
+						<li><a href="https://www.courts.maine.gov/ada/index.html">ADA Accessibility</a></li>
+						<li><a href="https://www.courts.maine.gov/programs/lep/index.html">Interpreter &amp; Translation Services</a></li>
+						<li><a href="https://www.courts.maine.gov/programs/fdp/index.html">Foreclosure Diversion Program</a></li>
+						<li><a href="https://www.courts.maine.gov/programs/oto/index.html">Court Transcripts</a></li>
+                        <li><a href="https://www.courts.maine.gov/courts/sharefile/index.html">ShareFile</a></li>
+
+					</ul>
+				</li>
+				<li><a href="https://www.courts.maine.gov/ecourts/index.html" class="ecourtstab">Maine eCourts</a></li>		
+				
+				<li><a href="https://www.courts.maine.gov/help/index.html" class="helptab">Help</a>
+				<ul>
+						<li><a href="https://www.courts.maine.gov/help/abuse/index.html">Abuse &amp; Harassment</a></li>
+						<li><a href="https://www.courts.maine.gov/help/criminal/index.html">Criminal Cases</a></li>
+						<li><a href="https://www.courts.maine.gov/help/eviction/index.html">Eviction</a></li>
+                        <li><a href="https://www.courts.maine.gov/courts/family/divorce-separation/index.html">Divorce &amp; Family Separation</a></li>
+						<li><a href="https://www.courts.maine.gov/courts/family/index.html">Families &amp; Children</a></li>
+						<li><a href="https://www.courts.maine.gov/help/small-claims/index.html">Small Claims</a></li>
+						<li><a href="https://www.courts.maine.gov/help/records.html">Court Records</a></li>
+						<li><a href="https://www.courts.maine.gov/help/legal/index.html">Legal Help &amp; Guides</a></li>
+                        <li><a href="https://www.courts.maine.gov/help/videos.html">Court Help Videos</a></li>
+						<li><a href="https://www.courts.maine.gov/help/index.html">More Help Topics</a></li>
+					</ul>
+				</li>
+				
+				<li><a href="https://www.courts.maine.gov/rules/index.html" class="rulestab">Rules &amp; Orders</a>
+				<ul>
+					<li><a href="https://www.courts.maine.gov/rules/index.html">Court Rules</a></li>
+					<li><a href="https://www.courts.maine.gov/rules/proposed.html"> Proposed &amp; Recommended Rule Amendments</a></li>
+					<li><a href="https://www.courts.maine.gov/adminorders/index.html">Administrative Orders</a></li>
+					<li><a href="https://www.courts.maine.gov/covid19/index.html">COVID-19</a></li>
+
+				</ul>
+				</li>
+				
+				<li><a href="https://www.courts.maine.gov/forms/index.html" class="formstab">Forms &amp; Fees</a>
+				<ul>
+					<li><a href="https://www.courts.maine.gov/forms/index.html">Court Forms</a></li>
+					<li><a href="https://www.courts.maine.gov/forms/translated.html">Translated Court Forms</a></li>
+					<li><a href="https://www.courts.maine.gov/forms/fees.html">Court Fees</a></li>
+				</ul>
+				</li>
+				
+				<li><a href="https://www.courts.maine.gov/attorneys/index.html" class="infotab">Information for...</a>
+					<ul>
+						<li><a href="https://www.courts.maine.gov/attorneys/index.html">Attorneys</a></li>
+						<li><a href="https://www.courts.maine.gov/juror/index.html">Jurors</a></li>
+						<li><a href="https://www.courts.maine.gov/info/gals.html">Guardians ad Litem</a></li>
+						<li><a href="https://www.courts.maine.gov/info/mediators.html">Mediators</a></li>
+						<li><a href="https://www.courts.maine.gov/info/interpreters.html">Interpreters</a></li>
+                        <li><a href="https://www.courts.maine.gov/info/students.html">Students &amp; Teachers</a></li>
+					</ul>
+				</li>
+				<li><a href="https://www.courts.maine.gov/news/index.html" class="newstab">News &amp; Opinions</a>
+					<ul>
+				<li><a href="https://www.courts.maine.gov/news/index.html">News &amp; Announcements</a></li>
+				<li><a href="https://www.courts.maine.gov/news/high-profile.html">High Profile Cases</a></li>
+				<li><a href="https://www.courts.maine.gov/news/opinions.html">Opinions</a></li>
+				<li><a href="https://www.courts.maine.gov/news/media.html">For the Media</a></li>
+					</ul>
+				</li>
+			</ul>
+    	</div>
+  	</nav>
+	
+    
+		<div id="court-alerts">
+<p><img src="https://www.courts.maine.gov/images/alert-icon-1578.png" alt="warning symbol" /> COURT ALERTS IN EFFECT. &emsp;<a href="https://www.courts.maine.gov/courts/alerts.shtml">See Active Alerts</a></p>
+</div>
+
+	
+    <div id="content" class="clearfix"> 
+        <div class="crumb_trail">
+            <p><a href="../index.html">Home</a> &rarr; <!-- InstanceBeginEditable name="breadcrumbs" -->Court Forms <!-- InstanceEndEditable --></p>
+        </div>
+          
+        <nav id="sectionnav"  role="navigation"> 
+		
+		
+		<!-- end about pages navigation --> 
+		
+		<!-- end courts pages navigation -->
+            
+		  <!-- end supreme pages navigation -->
+			
+			<!-- end help pages navigation -->
+		
+		<!-- end info pages navigation -->
+			<!-- end kat pages navigation -->
+			
+			
+		<!-- end rules pages navigation -->
+            <!-- end family pages navigation --> 
+            
+             <!-- end juvenile pages navigation --> 
+			
+			<!-- end traffic pages navigation --> 
+			
+			<!-- end treatment pages navigation --> 
+			
+			<!-- end ecourts pages navigation --> 
+		
+			
+            <h3>Forms &amp; Fees</h3>
+            <ul class="mainnav">
+                <li><a href="index.html">Court Forms</a></li>
+                <li><a href="translated.html">Translated Court Forms</a></li>
+				<li><a href="fees.html">Fees</a></li>
+            </ul>
+            <!-- end forms pages navigation --> 
+		
+			
+			<!-- end programs pages navigation --> 
+            
+            
+			<!-- end jury pages navigation --> 
+            
+			
+			<!-- end news pages navigation --> 
+            
+			
+			<!-- end covid pages navigation --> 
+            
+            
+            
+        </nav>
+        
+        <nav id="mobilenav" role="navigation">
+            <ul id="mobilemenu" class="sm sm-simple">
+                <li>
+                <h2><a href="index.html">Menu</a></h2>
+                
+		<!-- end about pages navigation --> 
+		
+		<!-- end courts pages navigation -->
+            
+		  <!-- end supreme pages navigation -->
+			
+			<!-- end help pages navigation -->
+		
+		<!-- end info pages navigation -->
+			<!-- end kat pages navigation -->
+			
+			
+		<!-- end rules pages navigation -->
+            <!-- end family pages navigation --> 
+            
+             <!-- end juvenile pages navigation --> 
+			
+			<!-- end traffic pages navigation --> 
+			
+			<!-- end treatment pages navigation --> 
+			
+			<!-- end ecourts pages navigation --> 
+		
+			
+            <h3>Forms &amp; Fees</h3>
+            <ul class="mainnav">
+                <li><a href="index.html">Court Forms</a></li>
+                <li><a href="translated.html">Translated Court Forms</a></li>
+				<li><a href="fees.html">Fees</a></li>
+            </ul>
+            <!-- end forms pages navigation --> 
+		
+			
+			<!-- end programs pages navigation --> 
+            
+            
+			<!-- end jury pages navigation --> 
+            
+			
+			<!-- end news pages navigation --> 
+            
+			
+			<!-- end covid pages navigation --> 
+                
+                </li>
+            </ul>
+            <!-- end leftcol -->
+            
+        </nav>
+        <!-- end mobile navigation --> 
+        
+         <span id="page-body"></span>
+        <div id="maincontent2" class="article" role="main"> <!-- InstanceBeginEditable name="maincontent2" -->
+          <h1>Attorney &amp; Vendor Forms</h1>
+          <h2>Attorney Information Form</h2>
+			<p>The <a href="https://mjbportal.courts.maine.gov/CourtForms/FormsLists/DownloadForm?strFormNumber=OTH-008">Attorney Information Form</a> is used by attorneys to register with the case management system used by the Maine Judicial Branch. It is also to be used by registered attorneys to&nbsp;update their contact information.&nbsp;Attorneys must also update their contact information with the&nbsp;<a href="http://www.mebaroverseers.org/" target="_blank">Maine Board of Overseers of the Bar.</a>&nbsp;</p>
+          <p><strong>Return completed forms to:<br>
+          </strong>Technology Analyst, OIT<br>
+            1 Court Street, Suite 201<br>
+          Augusta, Maine 04330<br>
+          <a href="mailto:attorneyupdate@courts.maine.gov" target="_blank">attorneyupdate@courts.maine.gov</a>&nbsp;<br>
+          Fax: 207-430-4102 </p>
+          <h2>State Vendor Code Form</h2>
+          <p>Those seeking payment from the Judicial Branch must complete a&nbsp;Substitute W-9 &amp; Vendor Authorization Form found on the State of Maine Office of the State Controller's website at <a href="https://www.maine.gov/osc/forms">www.maine.gov/osc/forms. </a>This&nbsp;form&nbsp;is to be used by attorneys and other providers when applying for a vendor code or making modifications to existing vendor codes.&nbsp;</p>
+          <p><strong>Return completed forms to:<br>
+          </strong>Financial Administrative Assistant&nbsp;<br>
+            Administrative Office of the Courts&nbsp;<br>
+          P.O. Box 4820, Portland, Maine 04112</p>
+          <h2>Direct Deposit Form</h2>
+          <p>The Activation/Change Request for Direct Deposit / EFT<a href="http://www.maine.gov/osc/pdf/forms/eftactivate_v6.pdf"></a>&nbsp;form and guidelines found on the State of Maine Office of the State Controller's website at <a href="https://www.maine.gov/osc/forms">www.maine.gov/osc/forms </a>is for attorneys and other vendors to fill out in order to have their payments from the State of Maine directly deposited into their accounts. </p>
+          <p><strong>Return completed forms to:<u></u></strong><br>
+            Office of the State Controller&nbsp;<br>
+            Attention: Accounting Staff<br>
+            14 State House Station, Augusta, Maine 04333</p>
+          <h2> Maine Commission on Public Defense Services&nbsp;</a></h2>
+          <p>If you received an assignment through the <a href="https://www.maine.gov/pds/">Maine Commission on Public Defense Services</a>, please contact it regarding the process for payment of services. The Commission is responsible for paying attorney for work on assigned cases (except for GAL assignments).</p>
+          <h2>Maine Bar Numbers and Maine Board of Overseers of the Bar&nbsp;</h2>
+          <p>To secure a bar number, please contact the&nbsp;<a href="http://mebaroverseers.org/" target="_blank">Maine Board of Overseers of the Bar</a>. In addition, members of the Bar should provide address changes directly to the Board in addition to the Judicial Branch. Please contact the&nbsp;<a href="http://mebaroverseers.org/" target="_blank">Board</a>&nbsp;for more information about attorney obligations.</p>
+          <p>&nbsp;</p>
+        <!-- InstanceEndEditable --><!-- end editable maincontent --> 
+            
+        </div>
+        <!-- end maincontent --> 
+        
+        <!-- end rightcol --> 
+    </div>
+    <!-- end content id --> 
+    
+    <footer id="footer" class="clearfix">
+  	<div class="sub-container">
+		<div class="footer_column">
+		  <p><img width="80" height="80" align="center" alt="MJB seal" src="https://www.courts.maine.gov/images/mjb-seal-footer.png"></p>
+		  <p>Copyright &copy; 2026 <br>
+		  State of Maine Judicial Branch<br>
+			All rights reserved.</p>
+
+		</div>
+		
+		<div class="footer_column">
+		<h4>State Government</h4>
+		<ul>
+		<li><a href="https://www.maine.gov/portal/index.html">Maine.gov</a></li>
+		<li><a href="http://legislature.maine.gov">Legislature Home</a></li>
+		<li><a href="http://www.mainelegislature.org/legis/statutes/search.htm">Maine Statutes</a></li>
+		<li><a href="https://www.maine.gov/portal/policies/accessibility.html">Website Accessibility</a></li>
+		<li><a href="https://www.maine.gov/portal/free-viewers.html">Document Viewers</a></li>
+		</ul>
+		</div>
+		
+		<div class="footer_column">
+		  <h4>Quick Links</h4>
+          <ul>
+          	<li><a href="https://www.courts.maine.gov/courts/find-a-court.html">Find a Court</a></li>
+            <li><a href="https://www.courts.maine.gov/courts/schedules/index.html">Schedules & Closings</a></li>
+            <li><a href="https://www.courts.maine.gov/rules/index.html">Court Rules</a></li>
+			<li><a href="https://www.courts.maine.gov/adminorders/index.html">Administrative Orders</a>
+            <li><a href="https://www.courts.maine.gov/courts/sjc/opinions.html">SJC Opinions</a></li>
+            <li><a href="https://www.courts.maine.gov/help/glossary.html">Legal Glossary</a></li>
+			<li><a href="https://www.courts.maine.gov/help/legal/index.html">Legal Help & Guides</a></li>
+          </ul>
+		</div>
+		
+		<div class="footer_column">
+		  <h4>Connect with Us</h4>
+          <ul>
+          	<li><a href="https://www.courts.maine.gov/contact-info.html">Contact</a></li>
+            <li><a href="https://vimeo.com/mainejudicialbranch">Vimeo</a></li>
+            <li><a href="https://www.courts.maine.gov/about/webmaster-form.html">Website Feedback</a></li>
+            <li><a href="https://www.courts.maine.gov/news/signup.html">Email Sign Up</a></li>
+			<li><a href="https://www.courts.maine.gov/about/jobs.html">Jobs & Clerkships</a></li>
+			</ul>
+			</div>
+		
+		<div class="footer_column">
+		  
+			<p><strong>Administrative Office of the Courts</strong></p>
+			<p>P.O. Box 4820</p>
+			<p>Portland, ME 04112-0792</p>
+			<p>Phone: (207) 822-0792</p>
+			<p>TTY: 711 Relay</p>
+			<p><a href="https://www.courts.maine.gov/about/contact.html">AOC Directory</a></p>
+
+
+		</div>
+		<!-- end footer_column --> 
+	</div>
+  </footer> 
+</div>
+<!-- end container id --> 
+
+<script type="text/javascript">
+  if($(window).width() <= 651){
+$('.sf-menu a').on('click touchend', function() {
+var el = $(this);
+var link = el.attr('href');
+window.location = link;
+});
+}
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src=https://www.googletagmanager.com/gtag/js?id=G-R4VZYTS3DX></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'G-R4VZYTS3DX');
+</script>
+</body>
+<!-- InstanceEnd --></html>

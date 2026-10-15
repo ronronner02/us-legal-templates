@@ -1,0 +1,14 @@
+{
+  "reviewed_at": "2026-10-15T03:35:16.919612+00:00",
+  "source_url": "https://mjbportal.courts.maine.gov/CourtForms/FormsLists/Index",
+  "official_landing_page": "https://www.courts.maine.gov/forms/index.html",
+  "findings": [
+    "Official landing page links the Maine Judicial Branch form-search portal.",
+    "Landing page reserves copyright; general republication and modification rights remain unresolved.",
+    "Portal states current required forms must be used and outdated forms will be returned incomplete. This is a source statement, not an independent legal currency determination.",
+    "Landing page identifies summons and subpoena forms that require clerk purchase or attorney issuance. They are excluded from this selection.",
+    "Portal contains instructions about security settings for eFiling. No PDF security settings or original bytes are modified in this collection."
+  ],
+  "reuse_review": "pending",
+  "publication_status": "not-approved"
+}
