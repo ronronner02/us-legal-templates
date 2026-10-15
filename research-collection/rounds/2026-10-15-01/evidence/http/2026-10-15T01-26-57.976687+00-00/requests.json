@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://www.dre.ca.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:26:58.002336+00:00",
+    "status": "fetch_error",
+    "reason": "<urlopen error _ssl.c:1015: The handshake operation timed out>"
+  },
+  {
+    "url": "https://www.dre.ca.gov/Forms/Consumer.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:27:19.389791+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  },
+  {
+    "url": "https://www.dre.ca.gov/Forms/MLB.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:27:19.404941+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  },
+  {
+    "url": "https://www.dre.ca.gov/Forms/Miscellaneous.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:27:19.419457+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  },
+  {
+    "url": "https://www.dre.ca.gov/Forms/AboutForms.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:27:19.434381+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  },
+  {
+    "url": "https://www.dre.ca.gov/PrivacyPolicy.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:27:19.450713+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  },
+  {
+    "url": "https://www.maine.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:27:19.466294+00:00",
+    "http_status": 200,
+    "content_type": "text/plain",
+    "etag": "\"9e0-5e08b5982823f\"",
+    "last_modified": "Fri, 03 Jun 2022 13:46:30 GMT",
+    "status": "fetched",
+    "sha256": "1a2af05a486596db1a4cbf39eee941d3ad6c31aed66ef9f1654525f37cf2fbd3",
+    "bytes": 2528,
+    "body_path": "evidence/http/2026-10-15T01-26-57.976687+00-00/1a2af05a486596db1a4cbf39eee941d3ad6c31aed66ef9f1654525f37cf2fbd3.body"
+  },
+  {
+    "url": "https://www.maine.gov/pfr/professionallicensing/professions/real-estate-commission/forms",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:27:20.315820+00:00",
+    "http_status": 404,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": null,
+    "last_modified": null,
+    "status": "fetch_error",
+    "reason": "The read operation timed out"
+  }
+]

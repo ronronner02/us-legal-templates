@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]>                <html lang="en" class="no-js ie9"> <![endif]-->
+<html lang="en"><!-- InstanceBegin template="/Templates/laborver3subpages.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-14W01QVZSH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-14W01QVZSH');
+</script>
+<!-- Maine.gov | State Agency Template 3.0 -->
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>MDOL: Maine Department of Labor Posters page</title>
+<!-- InstanceEndEditable -->
+<link media="screen" type="text/css" rel="stylesheet" href="../css/indexver3.css" />
+<link media="print" type="text/css" rel="stylesheet" href="../css/printver3.css" />
+<link media="only screen and (max-width:651px)" type="text/css" rel="stylesheet" href="../css/sphonever3.css" />
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/maine.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/superfish.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/jquery.smartmenus.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/jquery.smartmenus.keyboard.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/agencyv3.js"></script>
+<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- InstanceBeginEditable name="head" -->
+<meta name="description" content=" " />
+<meta name="keywords" content=" " />
+<!-- Custom code area (Start) -->
+ <!--begin bread crumb trail code-->
+    <style>
+ul.breadcrumb {
+  padding: 10px 16px;
+  list-style: none;
+  background-color: ;
+}
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: black;
+  content: "/\00a0";
+}
+ul.breadcrumb li a {
+  color: #0275d8;
+  text-decoration: none;
+}
+ul.breadcrumb li a:hover {
+  color: #01447e;
+  text-decoration: underline;
+}
+    </style>
+    <!--end bread crumb trail code-->
+  <!--begin two column layout-->
+    <style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height:; 
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+    </style>
+<!--end two column layout-->    
+<!--begin accordian code-->	
+	<style>
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: 0;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;	
+}
+
+.active, .accordion:hover {
+    background-color: #ccc;
+}
+
+.accordion:after {
+    content: '\002B';
+    color: #000000;
+    font-weight: bold;
+    float: left;
+    margin-left: -15px;
+}
+
+.active:after {
+    content: "\2212";
+}		
+		
+		
+.panel {
+    padding: 0 18px;
+    background-color: #f9f9f9;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+	height: 1;
+	
+}
+    .column1 {  float: left;
+  width: 50%;
+  padding: 10px;
+  height:; 
+}
+.column1 {    width: 100%;
+}
+    </style>
+	<!--end accordian code-->	     
+    
+<!-- Custom code area (End) -->
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="crumbtrail" type="boolean" value="false" -->
+<!-- InstanceParam name="rightcol" type="boolean" value="false" -->
+<!-- InstanceParam name="leftcol" type="boolean" value="false" -->
+<!-- InstanceParam name="mobilenav" type="boolean" value="false" -->
+<!-- InstanceParam name="maincontent-id" type="text" value="maincontent1" -->
+<!-- InstanceParam name="maincontent-opt" type="boolean" value="true" -->
+<!-- InstanceParam name="sectionid" type="text" value="section" -->
+<!-- InstanceParam name="sectionbanner" type="boolean" value="false" -->
+<!-- InstanceParam name="sectionbanner-id" type="text" value="sectionbanner2" -->
+<!-- InstanceParam name="sample-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="feature-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="bigsmallcol" type="boolean" value="false" -->
+</head>
+<body id="section">
+<!-- Start Skip Navigation: Accessibility Requirement -->
+<ul class="offscreen">
+  <li><a href="/" accesskey="H" title="Home [accesskey 'h']">Home</a></li>
+  <li><a href="#top-nav" accesskey="1" title="Skip to navigation [accesskey '1']">Skip to top navigation</a></li>
+  <li><a href="#content" accesskey="2" title="Skip to side navigation [accesskey '2']">Skip to side navigation</a></li>
+  <li><a href="#page-body" accesskey="3" title="Skip to content [accesskey '3']">Skip to content</a></li>
+  <li><a href="#footer" accesskey="4" title="Skip to footer [accesskey '4']">Skip to footer</a></li>
+</ul>
+<!-- End Skip Navigation: Accessibility Requirement --> 
+<!-- Sliver Start --> 
+ <!-- ##################################################################w11n -->
+<!-- insert citizen alert -->
+
+
+<div id="sliver_container"> 
+  <div class="sliver"> 
+    <h2><a href="https://www.maine.gov/">Maine.gov</a></h2>
+      <ul> 
+        <li><a href="https://www.maine.gov/portal/government/state-agencies.php">Agencies</a> |</li>
+        <li><a href="https://www.maine.gov/portal/online_services/index.html">Online Services</a> |</li>
+        <li><a href="https://www.maine.gov/portal/help/index.html">Help</a> |</li>
+        <li><a href="https://www.maine.gov/search/" class="state_search">Search Maine.gov</a></li>
+      </ul>
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  </div>
+
+</div>
+
+  
+<!-- Sliver End -->
+<div id="container"> 
+  
+    
+   <!-- Header -->
+  <header>
+    <div class="sub-container clearfix">
+      <h2 class="logo"><a href="http://www.maine.gov/labor/">Department of Labor</a></h2>
+      <div class="header_nav_search">
+        <ul class="nav clearfix" id="vtopnav">
+          <li><a href="https://www.maine.gov/labor/online_services/">Online Services</a></li>
+          <li> | &nbsp;<a href="https://www1.maine.gov/labor/contact/">Contact Us</a></li>
+          <li> | &nbsp;<a href="https://www.maine.gov/labor/sitemap/">Sitemap</a></li>
+          <!-- put this code where you'd like your intranet link to appear -->
+
+  <li> | <a href="http://inet.state.me.us/labor/index.php">Intranet</a></li>
+
+        </ul>
+        <div role="search" class="header_search">
+          <form action="http://www.maine.gov/search" method="get">
+            <label class="hide-label" for="headersearch">Search MDOL</label>
+            <input type="text" size="24" name="search" id="headersearch" class="search_area" placeholder="Search MDOL">
+            <input class="search_button green_btn" type="submit" value="Search">
+            <input type="hidden" value="http://www.maine.gov/labor" name="as_sitesearch">
+            <input type="hidden" value="test_collection" name="site">
+            <input type="hidden" value="xml_no_dtd" name="output">
+            <input type="hidden" value="test_collection" name="client">
+            <input type="hidden" value="test_collection" name="proxystylesheet">
+          </form>
+        </div>
+        <!-- end header_search --> 
+      </div>
+    </div>
+    <!--End Sub-Container--> 
+   <!-- ################################################################## -->
+<link href="/portal/sliverheader/sliver.css" rel="stylesheet" type="text/css" /> 	
+<!-- ################################################################## -->
+ </header>
+  
+  <nav id="top-nav" aria-label="Main menu" role="navigation" class="megamenu">
+    <div class="sub-container clearfix">
+      <ul class="sf-menu" id="dropdown">
+        <li><a href="https://www.maine.gov/labor/index.shtml" class="samplestab">Home</a>          
+        </li>
+        <li><a href="https://www.maine.gov/labor/contact/index.shtml" class="featurestab">Contact Us</a>          
+        </li>
+        <li><a href="https://www.maine.gov/labor/online_services/index.shtml" class="tab3">Online Services</a></li>
+        <li><a href="https://www.maine.gov/labor/about/" class="tab4">About MDOL</a></li>
+        <li><a href="https://www.maine.gov/labor/news_events/" class="tab5">News and Events</a></li>
+        <li><a href="https://www.maine.gov/labor/publications/index.shtml" class="tab6">Forms and Publications</a></li>        
+		<li><a href="https://www.maine.gov/labor/nonlaborresources/" class="tab7">Non-Labor Resources</a></li>
+      </ul>
+    </div>
+  </nav> 
+  
+  <div id="content" class="clearfix">
+  
+    
+	 
+    
+	<!-- end leftcol -->
+    
+    <span id="page-body"></span>
+    <div id="maincontent1" class="article" role="main"> <!-- InstanceBeginEditable name="maincontent2" -->
+     <ul class="breadcrumb">
+  <li><a href="https://www.maine.gov/labor/">Home</a></li>
+ <li><strong>Labor Posters</strong></li></ul>
+      <h1>Labor Posters</h1>
+      <p>These  are posters which  are required and optional for the Maine workplace.&nbsp; It is our  objective to make these posters as easily available for the workplace as  possible. You may download and print them from this page. Additionally free  printed copies of the Maine posters are available by contacting us at (207)  623-7900 or by contacting us with your name, address, and request using the <a href="https://www.maine.gov/labor/contact/" target="_blank">Contact Us</a> link at the top of the  page.&nbsp; Be sure to request specific languages if needed.&nbsp; </p>
+<h2>State of Maine Required Posters</h2>
+     <div class="row">
+       <div class="column">  
+                <button class="accordion"><strong>Child Labor Posters</strong></button>
+                <div class="panel">
+                  <p><strong>Telephone: Maine Department of Labor 623-7900</strong></p>
+                  <ul>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/childlabor/childlabor_Arabic_Final.pdf" target="_blank">ملصق حول عمالة الأطفالة</a> - Arabic Language Poster&nbsp;(PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/childlabor/childlabor_Chinese_Final.pdf" target="_blank">童工海报</a> - Chinese Language Poster&nbsp;(PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/childlabor/childlabor_English.pdf" target="_blank">English Language Poster</a>&nbsp;(PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/childlabor/childlabor_French.pdf" target="_blank">Affiche sur le travail des enfants</a>&nbsp;- French Language Poster&nbsp;(PDF)</li>
+                    <li><a href="../docs/2026/posters/mainerequiredposters/childlabor_LN.pdf" target="_blank">Affiche ya mosala ya bana</a> - Lingala Language Poster (PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/childlabor/childlabor_Portuguese.pdf" target="_blank">Cartaz sobre o Trabalho Infantil</a>&nbsp;- Portuguese Language Poster&nbsp;(PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/childlabor/childlabor_Somali.pdf" target="_blank">Boodhka Foosha Carruurta</a> - Somali Language Poster&nbsp;(PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/childlabor/childlabor_Spanish.pdf" target="_blank">Cartel sobre el trabajo infantil</a> - Spanish Language Poster&nbsp;(PDF)</li>
+                  </ul>
+                </div>
+                <p></p>
+          
+          <button class="accordion"><strong>Minimum Wage Posters</strong></button>
+                <div class="panel">
+                  <p><strong>Telephone: Maine Department of Labor 623-7900</strong></p>
+                  <p><strong>Posters for 2026 (effective January 1, 2026)</strong></p>
+					<ul>
+					  <li><a href="../docs/2026/posters/minwage/Arabic_minimum_wage.pdf" target="_blank">ملصق الحد الأدنى للأجور</a>&nbsp; - Arabic Language Poster (PDF)</li>
+  <li><a href="../docs/2026/posters/minwage/Chinese_minimum_wage.pdf" target="_blank">最低工资海报</a>&nbsp;- Chinese Language Poster (PDF)</li>
+  <li><a href="../docs/2026/posters/minwage/English_minimum_wage.pdf" target="_blank">English Language Poster</a> (PDF)</li>
+  <li><a href="../docs/2026/posters/minwage/French_minimum_wage.pdf" target="_blank">Affiche sur le salaire minimum</a>- French Language Poster&nbsp;(PDF)</li>
+  <li><a href="../docs/2026/posters/mainerequiredposters/LN_minimum_wage.pdf" target="_blank">Affiche ya Lifuta ya Moke</a> - Lingala Language Poster (PDF)</li>
+  <li><a href="../docs/2026/posters/minwage/Portuguese_minimum_wage.pdf" target="_blank">Cartaz do Salário Mínimo</a>&nbsp;- Portuguese Language Poster&nbsp;(PDF)</li>
+  <li><a href="../docs/2026/posters/minwage/Somali_minimum_wage.pdf" target="_blank">Boodhka Mushaharka Ugu Yar</a>&nbsp;- Somali Language Poster&nbsp;(PDF)</li>
+  <li><a href="../docs/2026/posters/minwage/Spanish_minimum_wage.pdf" target="_blank">Cartel del salario mínimo</a>&nbsp;- Spanish Language Poster&nbsp;(PDF)</li>
+  </ul>
+					<p><strong>Posters for 2027 (effective January 1, 2027)</strong></p>
+					<ul>
+					 <li><a href="../docs/2027/posters/Arabic_minimum_wage.pdf" target="_blank">ملصق الحد الأدنى للأجور</a>&nbsp; - Arabic Language Poster (PDF)</li>
+					  <li><a href="../docs/2027/posters/Chinese_minimum_wage.pdf" target="_blank">最低工资海报</a>&nbsp;- Chinese Language Poster (PDF)</li>
+					  <li><a href="../docs/2027/posters/English_minimum_wage.pdf" target="_blank">English Language Poster</a> (PDF)</li>
+					  <li><a href="../docs/2027/posters/French_minimum_wage.pdf" target="_blank">Affiche sur le salaire minimum</a>- French Language Poster&nbsp;(PDF)</li>
+					  <li><a href="../docs/2027/posters/Lingala_minimum_wage.pdf" target="_blank">Affiche ya Lifuta ya Moke</a> - Lingala Language Poster (PDF)</li>
+					  <li><a href="../docs/2027/posters/Portuguese_minimum_wage.pdf" target="_blank">Cartaz do Salário Mínimo</a>&nbsp;- Portuguese Language Poster&nbsp;(PDF)</li>
+					  <li><a href="../docs/2027/posters/Somali_minimum_wage.pdf" target="_blank">Boodhka Mushaharka Ugu Yar</a>&nbsp;- Somali Language Poster&nbsp;(PDF)</li>
+					  <li><a href="../docs/2027/posters/Spanish_minimum_wage.pdf" target="_blank">Cartel del salario mínimo</a>&nbsp;- Spanish Language Poster&nbsp;(PDF)          </li>
+				  </ul>
+          </div>
+                <p></p>
+          
+         
+          
+          <button class="accordion"><strong>Regulation of Employment Posters</strong></button>
+          <div class="panel">
+            <p><strong>Telephone: </strong><strong>Maine Department of Labor 623-7900</strong>            </p>
+            <ul>
+            <li>              <a href="../docs/2024/posters/regofemployment/regulationofemployment_Arabic_Final.pdf" target="_blank">ملصق تنظيم التوظيف</a>&nbsp;- Arabic Language Poster&nbsp;(PDF)</li>
+            <li><a href="../docs/2024/posters/regofemployment/regulationofemployment_Chinese_Final.pdf" target="_blank">就业法规海报</a> - Chinese Language Poster&nbsp;(PDF)</li>
+            <li><a href="../docs/2024/posters/regofemployment/regulationofemployment_English.pdf" target="_blank">English Language Poster</a>&nbsp;(PDF)</li>
+            <li><a href="../docs/2026/posters/mainerequiredposters/regulationofemployment_LN.pdf" target="_blank">Affiche sur la réglementation de l'emploi</a>&nbsp;- French Language Poster&nbsp;(PDF)</li>
+            <li><a href="../docs/2026/posters/mainerequiredposters/regulationofemployment_LN.pdf" target="_blank">Affiche ya réglementation ya emploi</a> - Lingala Language Poster (PDF)</li>
+            <li><a href="../docs/2024/posters/regofemployment/regulationofemployment_Portuguese_Final.pdf" target="_blank">Cartaz sobre Regulamentação do Emprego</a>&nbsp;- <br>
+              Portuguese Language Poster&nbsp;(PDF)</li>
+            <li><a href="../docs/2024/posters/regofemployment/Regulationofemployment_Somali_Final.pdf" target="_blank">Xeerka Boodhka Shaqada</a>- Somali Language Poster&nbsp;(PDF)</li>
+            <li><a href="../docs/2024/posters/regofemployment/Regulationofemployment_Spanish_Final.pdf" target="_blank">Cartel sobre la normativa laboral</a>&nbsp; - Spanish Language Poster&nbsp;(PDF)</li>
+            </ul>
+          </div>
+                <p></p>
+          
+          <button class="accordion"><strong>Whistle Blower Posters</strong></button>
+          <div class="panel">
+            <p><strong>Telephone: </strong><strong>Maine Department of Labor 623-7900</strong></p>
+            <ul>
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/whistleblower/whistleblowerprotection_Arabic.pdf" target="_blank">ملصق المبلغين عن المخالفات </a> - Arabic Language Poster&nbsp;(PDF)</li>
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/whistleblower/whistleblowerprotection_Chinese.pdf" target="_blank">吹哨人海报</a> - Chinese Language Poster&nbsp;(PDF)</li>
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/whistleblower/whistleblowerprotection_English.pdf" target="_blank">English Language Poster</a>&nbsp;(PDF)</li>
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/whistleblower/whistleblowerprotection_French.pdf" target="_blank">Affiche sur les lanceurs d'alerte</a>&nbsp;- French Language Poster&nbsp;(PDF)</li>
+              <li><a href="../docs/2026/posters/mainerequiredposters/whistleblowerprotection_LN.pdf" target="_blank">Affiche ya mopesi sango</a> - Lingala Language Poster (PDF)</li>
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/whistleblower/whistleblowerprotection_Portuguese.pdf" target="_blank">Cartaz sobre Denúncias</a>&nbsp;- Portuguese Language Poster&nbsp;(PDF)</li>
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/whistleblower/whistleblowerprotection_Somali.pdf" target="_blank">Boodhka foorida</a>&nbsp;- Somali Language Poster&nbsp;(PDF)</li>
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/whistleblower/whistleblowerprotection_spanish.pdf" target="_blank">Cartel para denunciantes</a> - Spanish Language Poster&nbsp;(PDF)</li>
+            </ul>
+          </div>
+      <p></p>  
+      <button class="accordion"><strong>Workers Compensation Poster</strong></button>
+          <div class="panel">
+            <p><strong>Maine Workers' Compensation Comm. 287-3751</strong></p>
+            <ul>
+              <li><a href="https://www.maine.gov/wcb/forms/index.html" target="_blank">WCB-90 - Workers' Compensation Board Notice to Employees  English/French/Spanish  Poster&nbsp;(PDF)</a></li>
+            </ul>
+          </div>
+      <p></p> 
+		   <button class="accordion"><strong>Paid Family and Medical Leave</strong></button>
+          <div class="panel">
+            <ul>
+              <li><a href="../docs/2025/posters/pfml/englishposter.pdf" target="_blank">Paid Familiy and Medical Leave  Poster</a>&nbsp;- English&nbsp;(PDF)</li>
+              <li><a href="../docs/2025/posters/pfml/frenchposter.pdf" target="_blank">Affiche sur les congés familiaux et médicaux payés</a>&nbsp;- French (PDF)</li>
+              <li><a href="../docs/2025/posters/pfml/portugueseposter.pdf" target="_blank">Cartaz sobre baixa médica e familiar remunerada</a>&nbsp;- Portuguese (PDF)</li>
+              <li><a href="../docs/2025/posters/pfml/somaliposter.pdf" target="_blank">Boodhadhka Fasaxa Qoyska iyo Caafimaadka ee Lacag-bixinta ah</a>&nbsp;- Somali (PDF)</li>
+              <li><a href="../docs/2025/posters/pfml/spanishposter.pdf" target="_blank">Póster sobre licencia familiar y médica remunerada</a> - Spanish (PDF)</li>
+            </ul>
+          </div>
+      <p></p>  
+		   <button class="accordion"><strong>Right Not to Participate in Employers’ Religious or Political Meetings</strong></button>
+          <div class="panel">
+            <p>The Maine Department of Labor  does not have enforcement authority related to this law. If your rights are  violated, you may file a civil lawsuit in Maine Superior Court. You have 90  days from the date of the violation to file. A court may order that: you be  rehired, if you were fired; the employer pay you back wages and/or restore your  benefits/seniority; the employer stop the violations; and other remedies.</p>
+            <ul>
+              <li><a href="../docs/2026/posters/26MRSA600_BPoster.pdf" target="_blank">Right Not to Participate in Employers’ Religious or Political Meetings</a>&nbsp;(PDF)</li>
+            </ul>
+          </div>
+      <p></p>         
+        </div>
+  <div class="column">   
+               
+              <button class="accordion"><strong>Maine Employment Security Law Posters</strong></button>
+                <div class="panel">
+                  <p><strong>Telephone: Maine Department of Labor 621-5100</strong></p>
+                  <ul>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/mesl/Maine%20Employment%20Security%20Law_11-19_Arabic_Final.pdf" target="_blank">ملصق قانون أمن التوظيف في ولاية مين</a> - Arabic Language Poster&nbsp;(PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/mesl/Maine%20Employment%20Security%20Law_11-19_Chinese_Final.pdf" target="_blank">缅�&nbsp;州就业保障法海报</a> - Chinese Language Poster&nbsp;(PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/mesl/Maine%20Employment%20Security%20Law_11-19_English.pdf" target="_blank">English Language Poster</a>&nbsp;(PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/mesl/Maine%20Employment%20Security%20Law_11-19_French.pdf" target="_blank">Affiche relative �&nbsp; la loi sur la sécurité de l'emploi du Maine</a>&nbsp;- <br>
+                    French Language Poster&nbsp;(PDF)</li>
+                    <li><a href="../docs/2026/posters/mainerequiredposters/MaineEmploymentSecurityLaw_LN.pdf" target="_blank">Affiche ya mibeko ya bokengi ya mosala ya Maine</a> - <br>
+                    Lingala Language Poster (PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/mesl/Maine%20Employment%20Security%20Law_11-19_Portuguese.pdf" target="_blank">Cartaz da Lei de Segurança no Emprego do Maine</a>&nbsp;- <br>
+                    Portuguese Language Poster&nbsp;(PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/mesl/Maine%20Employment%20Security%20Law_11-19_Somali.pdf" target="_blank">Boodhka Sharciga Amniga Shaqaalaynta Maine</a>&nbsp;- <br>
+                    Somali Language Poster&nbsp;(PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/mesl/Maine%20Employment%20Security%20Law_11-19_Spanish.pdf" target="_blank">Cartel de la Ley de Seguridad del Empleo de Maine</a>&nbsp;- <br>
+                    Spanish Language Poster&nbsp;(PDF)</li>
+                  </ul>
+                </div>
+                <p></p>
+  <button class="accordion"><strong>Occupational Safety and Health Regulations Posters</strong></button>
+                <div class="panel">
+                  <p><strong>Telephone: Maine Department of Labor 623-7900</strong></p>
+                  <ul type="disc">
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/oshr/OCCUPATIONAL%20SAFETY%20AND%20HEALTH%20REGULATIONS_Arabic_Final.pdf" target="_blank">ملصق لوائح السلامة والصحة المهنية</a>&nbsp;- Arabic Language Poster&nbsp;(PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/oshr/OCCUPATIONAL%20SAFETY%20AND%20HEALTH%20REGULATIONS_Chinese_Final.pdf" target="_blank">职业安全与卫生法规海报</a>&nbsp;- Chinese Language Poster&nbsp;(PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/oshr/OCCUPATIONAL%20SAFETY%20AND%20HEALTH%20REGULATIONS_English.pdf">English Language Poster</a>&nbsp;(PDF)</li>
+                    <li><a href="/labor/docs/2022/posters/oshr/OCCUPATIONAL SAFETY AND HEALTH REGULATIONS_French.pdf" target="_blank">Affiche des règlements sur la santé et la sécurité au travail</a> -<br>
+French Language Poster (PDF)</li>
+                    <li><a href="../docs/2026/posters/mainerequiredposters/OCCUPATIONAL_SAFETY_AND_HEALTH_REGULATIONS_LN.pdf" target="_blank">Affiche ya mibeko ya bokengi mpe bokolongono na mosala</a> -  
+                      <br>
+                    Lingala Language Poster (PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/oshr/OCCUPATIONAL SAFETY AND HEALTH REGULATIONS_Portugese.pdf" target="_blank">Cartaz de Regulamentos de Segurança e Saúde no Trabalho</a>&nbsp;- <br>
+                    Portuguese Language Poster&nbsp;(PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/oshr/OCCUPATIONAL%20SAFETY%20AND%20HEALTH%20REGULATIONS_Somali.pdf" target="_blank">Boodhka Badbaadada Shaqada iyo Xeerarka Caafimaadka</a> - <br>
+                    Somali Language Poster&nbsp;(PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/docs/2022/posters/oshr/OCCUPATIONAL SAFETY AND HEALTH REGULATIONS_Spanish.pdf" target="_blank">Cartel de las Normas de Seguridad y Salud Ocupacional</a> - <br>
+                    Spanish Language Poster&nbsp;(PDF)</li>
+                  </ul>
+                </div>
+                <p></p>
+          <button class="accordion"><strong>VDT Posters</strong></button>
+          <div class="panel">
+            <p><strong>Telephone: </strong><strong>Maine Department of Labor 623-7900</strong></p>
+            <ul>
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/vdt/vdtposter_Arabic_Final.pdf" target="_blank">ملصق اللغة العربية</a>&nbsp;- Arabic Language Poster&nbsp;(PDF)</li>
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/vdt/vdtposter_Chinese_Final.pdf" target="_blank">中文海报</a>&nbsp;- Chinese Language Poster&nbsp;(PDF)</li>
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/vdt/vdtposter_English.pdf" target="_blank">English Language Poster</a>&nbsp;(PDF)</li>
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/vdt/vdtposter_French.pdf" target="_blank">Affiche en langue française</a> - French Language Poster&nbsp;(PDF)</li>
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/vdt/vdtposter_Portuguese.pdf" target="_blank">Cartaz da Língua Portuguesa</a>&nbsp;- Portuguese Language Poster&nbsp;(PDF)</li>
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/vdt/vdtposter_Somali.pdf" target="_blank">Boodhka Af-Soomaaliga</a> - Somali Language Poster&nbsp;(PDF) </li>
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/vdt/vdtposter_Spanish.pdf" target="_blank">Afiche en idioma español</a> - Spanish Language Poster&nbsp;(PDF)</li>
+            </ul>
+          </div>
+                <p></p>  
+       <button class="accordion"><strong>Sexual Harassment Posters</strong></button>
+          <div class="panel">
+<p><strong>Telephone: Maine Human Rights Commission 624-6290</strong></p>
+            <ul>
+              <li><a href="../docs/2022/posters/mhra/Maine Human Rights Act_Arabic_Final.pdf" target="_blank">ملصق حول التحرش الجنسي</a>&nbsp;- Arabic Language Poster&nbsp;(PDF)</li>
+              <li><a href="../docs/2022/posters/mhra/Maine Human Rights Act_Chinese_Final.pdf" target="_blank">性骚扰海报</a>&nbsp;- Chinese Language Poster&nbsp;(PDF)</li>
+              <li><a href="../docs/2022/posters/mhra/Maine Human Act_poster_English.pdf" target="_blank">English Language Poster</a>&nbsp;(PDF)</li>
+              <li><a href="../docs/2022/posters/mhra/Maine Human Act_poster_French.pdf" target="_blank">Affiche sur le harcèlement sexuel</a>&nbsp;- French Language Poster&nbsp;(PDF)</li>
+              <li><a href="../docs/2026/posters/mainerequiredposters/MaineHumanAct_poster_LN.pdf" target="_blank">Affiche ya kotungisa bato na makambo ya kosangisa nzoto</a> - <br>
+Lingala Language Poster (PDF)</li>
+              <li><a href="../docs/2022/posters/mhra/Maine Human Rights Act_poster_Portuguese.pdf" target="_blank">Cartaz sobre Assédio Sexual</a>&nbsp;- Portuguese Language Poster&nbsp;(PDF)</li>
+              <li><a href="../docs/2022/posters/mhra/Maine Human Rights Act_poster_SOMALI.pdf" target="_blank">Boodhka Xadgudubka Galmada</a>&nbsp;- Somali Language Poster&nbsp;(PDF)</li>
+              <li><a href="../docs/2022/posters/mhra/Maine Human Rights Act_poster_Spanish.pdf" target="_blank">Cartel sobre acoso sexual</a> - Spanish Language Poster&nbsp;(PDF)</li>
+            </ul>
+          </div>
+                <br>
+      <button class="accordion"><strong>Veterans&rsquo; Benefits  and Services: Required for employers with over 50 full-time equivalent employees</strong></button>
+          <div class="panel">
+<p><strong>Telephone:&nbsp;</strong><strong>Maine Department of Labor 623-7900</strong></p>
+            <ul>
+              <li><a href="../docs/2024/posters/veterans/VeteransBenefitsandServices.pdf" target="_blank">Veterans Benefits and Services Poster</a>&nbsp;(PDF)</li>
+            </ul>
+          </div>
+                <br>
+	   <button class="accordion"><strong>Sexual Harassment Education and Training Checklist: required for workplaces with 15 or more employees</strong></button>
+          <div class="panel">
+<p><strong>Telephone:&nbsp;</strong><strong>Maine Department of Labor 623-7900</strong></p>
+            <ul>
+              <li><a href="../docs/2026/posters/MaineBLSSexualHarassmentPreventionChecklist.pdf" target="_blank">Sexual Harassment Education and Training Checklist</a> (PDF)</li>
+            </ul>
+          </div>
+                <br>
+          
+        </div>
+</div>
+      <h2>Federal, State, and Other Posters</h2>
+        
+        <div class="row">
+       <div class="column">  
+                <button class="accordion"><strong>Federal Government Required Posters</strong></button>
+                <div class="panel">
+                  <p>For a complete list of posters required under  Federal Law, as well as optional posters, please visit the&nbsp;<a href="https://www.dol.gov/general/topics/posters" target="_blank">U.S. Department of Labor's Poster Page</a>.</p>
+                </div>
+                <p></p>
+          
+          <button class="accordion"><strong>Human Trafficking Posters - Required in certain  workplaces</strong></button>
+                <div class="panel">
+                  <p>Please choose any or all of the attached Human Trafficking posters. <strong>Please note:</strong> all employers who are on the following list are  required to display one of these posters in a public area.</p>
+                  <ul>
+                    <li>A Department of Labor career center</li>
+                    <li>An office that provides services under the Governor's Jobs Initiative Program under section 2031</li>
+                    <li>A hospital or facility providing emergency medical services that is licensed under Title 22, section 1811</li>
+                    <li>An eating and lodging place licensed under Title 22, chapter 562</li>
+                    <li>An adult entertainment nightclub or bar, adult spa, establishment featuring strippers or erotic dancers or other sexually oriented business</li>
+                    <li>A money transmitter licensed under Title 32, chapter 80, subchapter 1</li>
+                    <li>A check cashing business or foreign currency exchange business registered under Title 32, chapter 80, subchapter 2</li>
+                  </ul>
+                  <p><strong>List of Human Trafficking Posters</strong></p>
+                  <ul>
+                    <li><a href="../docs/2020/posters/humantrafficking/bc-wdhtll-posters-2016-eng-8.5x11-portrait-web.pdf" target="_blank">What        Does Human Trafficking Look Like?</a> - English  (PDF)</li>
+                    <li><a href="../docs/2020/posters/humantrafficking/bc-wdhtll-posters-2016-spa-8.5x11-portrait-web.pdf" target="_blank">What        Does Human Trafficking Look Like?</a> - Spanish  (PDF)</li>
+                    <li><a href="../docs/2020/posters/humantrafficking/18_0423_domestic-servitude.pdf" target="_blank">Domestic        Servitude Poster</a> - English (PDF)</li>
+                    <li><a href="../docs/2020/posters/humantrafficking/18_0423_domestic-servitude_spanish.pdf" target="_blank">Domestic        Servitude Poster</a> - Spanish (PDF)</li>
+                    <li><a href="../docs/2020/posters/humantrafficking/18_0423_forced-labor.pdf" target="_blank">Forced        Labor Poster</a> - English (PDF)</li>
+                    <li><a href="../docs/2020/posters/humantrafficking/18_0423_forced-labor_spanish.pdf" target="_blank">Forced        Labor Poster</a> - Spanish (PDF)</li>
+                    <li><a href="../docs/2020/posters/humantrafficking/18_0423_sex-trafficking.pdf" target="_blank">Sex        Trafficking Poster</a> - English (PDF)</li>
+                    <li><a href="../docs/2020/posters/humantrafficking/18_0423_sex-trafficking_spanish.pdf" target="_blank">Sex        Trafficking Poster</a> - Spanish (PDF)</li>
+                  </ul>
+                  <p><strong>Maine Sex Trafficking and Exploitation Network (Maine STEN) Human Trafficking Posters</strong></p>
+                  <ul>
+                    <li><a href="/labor/docs/2020/posters/humantrafficking/STENPoster2019PrintableArabic.pdf" target="_blank">ملصق ولاية مين (STEN) لمكافحة الاتجار بالبشر</a> - Arabic (PDF)</li>
+                    <li><a href="/labor/docs/2020/posters/humantrafficking/STENPoster2019PrintableMandarin.pdf" target="_blank">缅�&nbsp;州 STEN 人口贩运海报</a> - Chinese (PDF)</li>
+                    <li><a href="/labor/docs/2020/posters/humantrafficking/STENPoster2019Printable English.pdf" target="_blank">Maine STEN Human Trafficking Poster</a> - English (PDF)</li>
+                    <li><a href="/labor/docs/2020/posters/humantrafficking/STENPoster2019PrintableFrench.pdf" target="_blank">Affiche du Maine STEN sur la traite des êtres humains</a> - French (PDF)</li>
+                    <li><a href="/labor/docs/2020/posters/humantrafficking/STENPoster2020PrintableHaitianCreole.pdf" target="_blank">Afich sou trafik moun nan Maine STEN</a> - Haitian-Creole(PDF)</li>
+                    <li><a href="/labor/docs/2020/posters/humantrafficking/STENPoster2020PrintableHindi.pdf" target="_blank">Maine STEN मानव तस्करी पोस्टर</a> - Hindi (PDF)</li>
+                    <li><a href="/labor/docs/2026/posters/maineoptionalposters/STENPosterPrintable_LN.pdf" target="_blank">Maine STEN Affiche ya mombongo ya bato</a> - Ligala (PDF)</li>
+                    <li><a href="/labor/docs/2020/posters/humantrafficking/STENPoster2020PrintableRussian.pdf" target="_blank">Плакат штата Мэн (STEN) о торговле людьми</a> - Russian (PDF)</li>
+                    <li><a href="/labor/docs/2020/posters/humantrafficking/STENPoster2019PrintableSpanish.pdf" target="_blank">Cartel sobre la trata de personas de Maine STEN</a> - Spanish (PDF)</li>
+                  </ul>
+                </div>
+                <p></p>        
+        </div>
+  <div class="column">
+    <button class="accordion"><strong>State of Maine Optional Posters</strong></button>
+                <div class="panel">
+                  <ul>
+                    <li><a href="https://www.maine.gov/mhrc/laws-guidance/employment/guarantees/" target="_blank">Maine Human Rights Act - Equal Employment Rights</a>
+                      <ul>
+                        <li>Telephone: Maine Human Rights Commission 624-6290</li>
+                      </ul>
+                    </li>
+                    <li><a href="../docs/2023/posters/equal pay.pdf" target="_blank">Equal Pay Poster</a> (PDF)
+                      <ul>
+                        <li>Telephone: Maine Department of Labor 623-7900</li>
+                      </ul>
+                    </li>
+                    <li><a href="../docs/2015/posters/domesticviolence.pdf" target="_blank">Domestic Violence in the Workplace Poster</a> (PDF)
+                      <ul>
+                        <li>Telephone: Maine Department of Labor 623-7900</li>
+                      </ul>
+                    </li>
+                    <li><a href="../docs/2026/posters/EmployerSurveillancePoster.pdf" target="_blank">Maine Employer Surveillance—Your Rights</a> (PDF)
+<ul>
+                  <li>Telephone: Maine Department of Labor 623-7900</li>
+                      </ul>
+                    </li>
+                    <li><a href="../docs/2024/posters/maineopt/nursingmother.pdf" target="_blank">Maine Workplaces Support Nursing Moms</a> (PDF)
+                      <ul>
+                        <li>Telephone: Maine Department of Labor 623-7900</li>
+                      </ul>
+                    </li>
+                    <li><a href="../docs/2019/posters/SocialMedia.pdf" target="_blank">Social Media</a> - rev 11/19 (PDF)
+                      <ul>
+                        <li>Telephone: Maine Department of Labor 623-7900</li>
+                      </ul>
+                    </li>
+                    <li><a href="/labor/posters/2019/maineservicedogs.pdf" target="_blank">Service  Dogs Welcome sign </a>(PDF)
+                      <ul>
+                        <li>Telephone: Maine Department of Labor 623-7900                    </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+                <p></p>
+          <button class="accordion"><strong>Other Resources</strong></button>
+          <div class="panel">
+            <ul type="disc">
+              <li><a href="https://www.maine.gov/labor/docs/2022/posters/MainesEPLLaw.pdf" target="_blank">Maine&rsquo;s Earned Paid Leave Law for Agricultural Employment</a>&nbsp;(PDF)</li>
+              <li><a href="https://www.maine.gov/labor/docs/2019/posters/flu.pdf" target="_blank">Preventing the Spread of Flu in the Workplace (Optional)</a>&nbsp;(PDF)</li>
+              <li>No Smoking Signage for the Workplace - Optional:&nbsp;<a href="../docs/2022/posters/otherresources/nosmokingsmall.pdf" target="_blank">Small</a>&nbsp;<a href="../docs/2022/posters/otherresources/nosmokingmedium.pdf" target="_blank">Medium</a>&nbsp;<a href="../docs/2022/posters/otherresources/nosmokinglarge.pdf" target="_blank">Large</a>&nbsp;(PDF)</li>
+            </ul>
+          </div>
+                <p></p> 
+          
+        </div>
+</div>
+           
+      <p></p>
+      
+        <!--begin accordian BODY code-->
+        <script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight){
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+        </script>
+     
+
+      <!--end accodian BODY code-->		  
+      <!-- InstanceEndEditable --><!-- end editable maincontent --> 
+      
+    </div>
+    <!-- end maincontent --> 
+    
+	<!-- end rightcol --> 
+    </div><!-- end content id -->
+  
+   <footer id="footer" class="clearfix"> 
+  	<div class="sub-container">
+		<div class="footer_column">
+		  <h4>Stay Informed</h4>
+		  <p>Follow us on social media or sign up for email alerts.</p>
+		  <ul class="social-media">
+			<li class="facebook"><a href="https://www.facebook.com/MElabor/">Facebook</a></li>
+			<li class="twitter"><a href="https://twitter.com/maine_labor">Twitter</a></li>								
+			<li class="instagram"><a href="https://www.instagram.com/maine_dept_labor/?hl=en">Instagram</a></li>
+			<li class="govdelivery"><a href="https://public.govdelivery.com/accounts/MEDOL/subscriber/new">Email/SMS Updates</a></li>
+		</ul>
+		  	
+		  <h4>Credits</h4>
+		  <p>Copyright &copy; 2019<br>
+		  <p><img width="50" height="28" alt="This is the Maine Department of Labor's logo." src="https://www.maine.gov/labor/images/header_agency_logo_footer.jpg"></p>
+			All rights reserved.</p>
+		</div>
+		<div class="footer_column">
+		  <h4>Find it by Topic</h4>
+          <ul>
+            <li><a href="http://www.maine.gov/labor/labor_laws/publications/minorsguide.html">Child Labor Laws </a></li>
+  <li><a href="http://www.mainecareercenter.com">Employment and Training Services</a></li>
+  <li><a href="http://www.maine.gov/labor/posters/index.shtml">Free Labor Posters</a></li>
+  <li><a href="http://www.safetyworksmaine.com/consultations/">Workplace Safety   Consultations</a></li>
+  <li><a href="http://www.maine.gov/labor/cwri/index.html">Labor Market Information</a></li>
+  <li><a href="http://www.maine.gov/labor/labor_laws/index.html">Labor Laws</a></li>
+  <li><a href="http://www.maine.gov/rehab/">Rehabilitation/Disability Services</a></li>
+  <li><a href="http://www.maine.gov/unemployment/appeals/">Unemployment Appeals </a></li>
+  <li><a href="http://www.maine.gov/unemployment/">Unemployment Claims</a></li>
+  <li><a href="http://www.maine.gov/labor/cwri/laus.html">Unemployment Rate</a></li>
+  <li><a href="http://www.maine.gov/unemployment/employers/">Unemployment Tax </a></li>
+  <li><a href="http://www.maine.gov/labor/labor_laws/publications/minorsguide.html#Work">Work Permits</a></li>
+          </ul>
+		</div>
+		<div class="footer_column">
+		  <h4>Find it by Audience</h4>
+		  <p><a href="http://www.maine.gov/labor/for_workers/">Workers</a></p>
+<p><a href="http://www.maine.gov/labor/for_job_seekers/">Job Seekers</a></p>
+<p><a href="http://www.maine.gov/labor/for_employers/">Employers / Businesses</a></p>
+<h4>Contacts for Unemployment:</h4>
+<ul>
+  <li> Toll-Free: 1-800-593-7660 (Customer service available Mon-Fri, 8:00 a.m. to 3:00 p.m.) </li>
+  <li>TTY/Relay for Deaf and hard of hearing: Maine relay 711 </li>
+   <li><a href="https://www1.maine.gov/labor/contact/index.html" target="_blank">Submit an Online Inquiry</a></li>
+  </ul>
+<h4><a href="/labor/far/index.shtml">Department of Labor Freedom of Access Contact Information</a></h4>
+		</div>
+		<div class="footer_column">
+		  <h4>Find it by Agency</h4>
+<p><a href="http://www.maine.gov/labor/bes/">Bureau of Employment Services</a></p>
+<p><a href="http://www.maine.gov/labor/bls/">Bureau of Labor Standards</a></p>
+<p><a href="http://www.maine.gov/rehab">Bureau of Rehabilitation Services</a></p>
+<p><a href="https://www.maine.gov/paidleave/">Bureau of Paid Family and Medical Leave</a></p>
+<p><a href="https://www.maine.gov/unemployment/">The Bureau of Unemployment Compensation</a></p>
+<p><a href="http://www.maine.gov/labor/cwri/">Center for Workforce Research and Information</a></p>
+<p><a href="https://www.maine.gov/swb/index.html">The State Workforce Board</a></p>
+<p>&nbsp;</p>
+<p>The Department of Labor is an equal opportunity provider. Auxiliary aids and services are available to individuals with disabilities upon request.</p>
+		</div>
+		<div class="footer_column">
+		<h4>Services</h4>
+		 <p><a href="http://www.maine.gov/reemployme/"><img src="https://www.maine.gov/labor/inc/images/Reemploy_Maine_Final4.png" alt="File for Unemployment" width="150" height="35"></a></p>
+<p><a href="http://www.mainecareercenter.gov/"><img src="/labor/images/ccenterlogoamericanjobcenter2017.gif" alt="CareerCenter" width="150" height="41"></a></p>
+<p><a href="http://www.safetyworksmaine.gov/"><img src="https://www.maine.gov/labor/images/safetyworks.gif" alt="SafetyWorks!" width="150" height="80"></a></p>
+		</div>
+		<!-- end footer_column --> 
+	</div>
+  </footer> 
+</div><!-- end container id --> 
+
+<script type="text/javascript">
+  if($(window).width() <= 651){
+$('.sf-menu a').on('click touchend', function() {
+var el = $(this);
+var link = el.attr('href');
+window.location = link;
+});
+}
+</script>
+  
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HE2F8S6N54"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+  
+          gtag('config', 'G-HE2F8S6N54');
+          </script>
+  
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-TFVPRW63KM"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+  
+          gtag('config', 'G-TFVPRW63KM');
+          </script>
+</body>
+
+<!-- InstanceEnd --></html>

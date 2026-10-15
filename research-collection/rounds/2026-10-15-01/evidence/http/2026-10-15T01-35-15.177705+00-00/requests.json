@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://www.maine.gov/ag/sites/maine.gov.ag/files/documents/CLG%2017-%20Model%20Home%20Construction%20Contract.docx",
+    "kind": "document",
+    "checked_at": "2026-10-15T01:35:15.193702+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "etag": "\"5e1e-65038b355e560\"",
+    "last_modified": "Fri, 24 Apr 2026 18:11:57 GMT",
+    "status": "fetched",
+    "sha256": "90381aa39d15f1806e19f99e3f880e2324a55b2ea6d90a03c8497a152fa7a862",
+    "bytes": 24094,
+    "body_path": "evidence/http/2026-10-15T01-35-15.177705+00-00/90381aa39d15f1806e19f99e3f880e2324a55b2ea6d90a03c8497a152fa7a862.body"
+  },
+  {
+    "url": "https://www.maine.gov/ag/sites/maine.gov.ag/files/documents/CLG%2017-%20Home%20Construction%20Contracts%20Addendum.docx",
+    "kind": "document",
+    "checked_at": "2026-10-15T01:35:19.057402+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "etag": "\"51ad-64facf3695640\"",
+    "last_modified": "Fri, 17 Apr 2026 19:28:17 GMT",
+    "status": "fetched",
+    "sha256": "aa91caa9681b54ae3e4ed4d3428d987056ed7f2119ed406662fccc4502b98dbb",
+    "bytes": 20909,
+    "body_path": "evidence/http/2026-10-15T01-35-15.177705+00-00/aa91caa9681b54ae3e4ed4d3428d987056ed7f2119ed406662fccc4502b98dbb.body"
+  },
+  {
+    "url": "https://www.maine.gov/labor/labor_laws/publications/2018/work_permit_072018.pdf",
+    "kind": "document",
+    "checked_at": "2026-10-15T01:35:24.498718+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "etag": "\"221f9-5e4cbbb2ee732\"",
+    "last_modified": "Wed, 27 Jul 2022 16:15:53 GMT",
+    "status": "fetched",
+    "sha256": "d002919bc1959bb1b35f4977342fb73b695ba77ee254e8ea5bed8bb2241e287e",
+    "bytes": 139769,
+    "body_path": "evidence/http/2026-10-15T01-35-15.177705+00-00/d002919bc1959bb1b35f4977342fb73b695ba77ee254e8ea5bed8bb2241e287e.body"
+  }
+]

@@ -1,0 +1,952 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]>                <html lang="en" class="no-js ie9"> <![endif]-->
+<html lang="en"><!-- InstanceBegin template="/Templates/blsver3.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-05HF4HS4JB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-05HF4HS4JB');
+</script>
+<!-- Maine.gov | State Agency Template 3.0 -->
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>MDOL: Bureau of Labor Standards Home page</title>
+<!-- InstanceEndEditable -->
+<link media="screen" type="text/css" rel="stylesheet" href="../css/indexver3.css" />
+<link media="print" type="text/css" rel="stylesheet" href="../css/printver3.css" />
+<link media="only screen and (max-width:651px)" type="text/css" rel="stylesheet" href="../css/sphonever3.css" />
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/maine.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/superfish.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/jquery.smartmenus.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/jquery.smartmenus.keyboard.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/agencyv3.js"></script>
+<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- InstanceBeginEditable name="head" -->
+<meta name="description" content=" " />
+<meta name="keywords" content=" " />
+<!-- Custom code area (Start) -->
+
+<!--begin accordian code-->	
+	<style>
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: 1;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;	
+}
+
+.active, .accordion:hover {
+    background-color: #ccc;
+}
+
+.accordion:after {
+    content: '\002B';
+    color: #000000;
+    font-weight: bold;
+    float: left;
+    margin-left: -15px;
+}
+
+.active:after {
+    content: "\2212";
+}		
+		
+		
+.panel {
+    padding: 0 18px;
+    background-color: #f9f9f9;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+	height: 1;
+	
+}
+    </style>
+	<!--end accordian code-->	
+	
+<!--begin round table code-->
+	<style>
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;    
+}
+
+th, td {
+	border-collapse: collapse;
+    border: none;
+    text-align: left;
+    padding: 8px;
+	font-size: 16px;
+}
+
+tr:nth-child(even){}
+    </style>
+
+
+<style>
+	
+	.box {
+   	width: 100%;
+    height: 100%;
+    color: #000;
+    margin: 1em auto;
+	border: 0px solid #00557E;
+	
+}
+ 
+.rounded {
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+	border-collapse: collapse;
+	
+} 
+</style>
+	
+	<!--end round table code-->
+	<!--begin automatic slideshow code-->
+	<style>
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #ffffff;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/4 etc) */
+.numbertext {
+  color: #ffffff;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+    </style>
+	
+<!--end automatic slideshow code-->	
+
+<!--begin three column code-->	
+	<style>
+* {
+    box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 46%;
+    padding: 10px;
+   
+}
+.column1 {
+    float: left;
+    width: 5%;
+    padding: 10px;
+   
+}
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+.box1 {   	width: 100%;
+    height: 100%;
+    color: #000;
+    margin: 1em auto;
+	border: 2px solid #00557E;	
+}
+.column2 {    float: left;
+    width: 46%;
+    padding: 10px;
+}
+.column2 {        width: 100%;
+}
+.rounded1 {	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+	border-collapse: collapse;
+}
+.rounded1 {	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+	border-collapse: collapse;
+}
+    .box2 {   	width: 100%;
+    height: 100%;
+    color: #000;
+    margin: 3em auto;
+	border: 2px solid #00557E;
+}
+    .panel1 {    padding: 0 18px;
+    background-color: #f9f9f9;
+	max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.20s ease-out;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+	height: 1;
+}
+    </style>
+	
+<!--end three column code-->
+	<!--begin non whatsnew yellow box code-->
+	<style type="text/css">
+.box1 {   	width: 100%;
+    height: 100%;
+    color: #000;
+    margin: 0em auto;
+	border: 2px solid #00557E;
+	background-color: #ffd588 ;
+	text-align: center;
+}
+.rounded {	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+	border-collapse: collapse;
+}
+</style>	
+	<!--end non whatsnew yellow box code-->
+	
+<!--begin responsive image code-->	
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+</style>	
+<!--end responsive image code-->	
+	<!-- Custom code area (End) -->
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="crumbtrail" type="boolean" value="true" -->
+<!-- InstanceParam name="rightcol" type="boolean" value="true" -->
+<!-- InstanceParam name="leftcol" type="boolean" value="true" -->
+<!-- InstanceParam name="mobilenav" type="boolean" value="true" -->
+<!-- InstanceParam name="maincontent-id" type="text" value="maincontent3" -->
+<!-- InstanceParam name="maincontent-opt" type="boolean" value="true" -->
+<!-- InstanceParam name="sectionid" type="text" value="section" -->
+<!-- InstanceParam name="sectionbanner" type="boolean" value="false" -->
+<!-- InstanceParam name="sectionbanner-id" type="text" value="sectionbanner2" -->
+<!-- InstanceParam name="sample-pages" type="boolean" value="true" -->
+<!-- InstanceParam name="feature-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="bigsmallcol" type="boolean" value="false" -->
+</head>
+<body id="section">
+<!-- Start Skip Navigation: Accessibility Requirement -->
+<ul class="offscreen">
+  <li><a href="/" accesskey="H" title="Home [accesskey 'h']">Home</a></li>
+  <li><a href="#top-nav" accesskey="1" title="Skip to navigation [accesskey '1']">Skip to top navigation</a></li>
+  <li><a href="#content" accesskey="2" title="Skip to side navigation [accesskey '2']">Skip to side navigation</a></li>
+  <li><a href="#page-body" accesskey="3" title="Skip to content [accesskey '3']">Skip to content</a></li>
+  <li><a href="#footer" accesskey="4" title="Skip to footer [accesskey '4']">Skip to footer</a></li>
+</ul>
+<!-- End Skip Navigation: Accessibility Requirement --> 
+<!-- Sliver Start --> 
+ <!-- ##################################################################w11n -->
+<!-- insert citizen alert -->
+
+
+<div id="sliver_container"> 
+  <div class="sliver"> 
+    <h2><a href="https://www.maine.gov/">Maine.gov</a></h2>
+      <ul> 
+        <li><a href="https://www.maine.gov/portal/government/state-agencies.php">Agencies</a> |</li>
+        <li><a href="https://www.maine.gov/portal/online_services/index.html">Online Services</a> |</li>
+        <li><a href="https://www.maine.gov/portal/help/index.html">Help</a> |</li>
+        <li><a href="https://www.maine.gov/search/" class="state_search">Search Maine.gov</a></li>
+      </ul>
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  </div>
+
+</div>
+
+  
+<!-- Sliver End -->
+<div id="container"> 
+  
+    
+   <!-- Header -->
+  <header>
+    <div class="sub-container clearfix">
+      <h2 class="logo"><a href="http://www.maine.gov/labor/">Department of Labor</a></h2>
+      <div class="header_nav_search">
+        <ul class="nav clearfix" id="vtopnav">
+          <li><a href="https://www.maine.gov/labor/online_services/">Online Services</a></li>
+          <li> | &nbsp;<a href="https://www1.maine.gov/labor/contact/">Contact Us</a></li>
+          <li> | &nbsp;<a href="https://www.maine.gov/labor/sitemap/">Sitemap</a></li>
+          <!-- put this code where you'd like your intranet link to appear -->
+
+  <li> | <a href="http://inet.state.me.us/labor/index.php">Intranet</a></li>
+
+        </ul>
+        <div role="search" class="header_search">
+          <form action="http://www.maine.gov/search" method="get">
+            <label class="hide-label" for="headersearch">Search MDOL</label>
+            <input type="text" size="24" name="search" id="headersearch" class="search_area" placeholder="Search MDOL">
+            <input class="search_button green_btn" type="submit" value="Search">
+            <input type="hidden" value="http://www.maine.gov/labor" name="as_sitesearch">
+            <input type="hidden" value="test_collection" name="site">
+            <input type="hidden" value="xml_no_dtd" name="output">
+            <input type="hidden" value="test_collection" name="client">
+            <input type="hidden" value="test_collection" name="proxystylesheet">
+          </form>
+        </div>
+        <!-- end header_search --> 
+      </div>
+    </div>
+    <!--End Sub-Container--> 
+   <!-- ################################################################## -->
+<link href="/portal/sliverheader/sliver.css" rel="stylesheet" type="text/css" /> 	
+<!-- ################################################################## -->
+ </header>
+  
+  <nav id="top-nav" aria-label="Main menu" role="navigation" class="megamenu">
+    <div class="sub-container clearfix">
+      <ul class="sf-menu" id="dropdown">
+        <li><a href="https://www.maine.gov/labor/index.shtml" class="samplestab">Home</a>          
+        </li>
+        <li><a href="https://www.maine.gov/labor/contact/index.shtml" class="featurestab">Contact Us</a>          
+        </li>
+        <li><a href="https://www.maine.gov/labor/online_services/index.shtml" class="tab3">Online Services</a></li>
+        <li><a href="https://www.maine.gov/labor/about/" class="tab4">About MDOL</a></li>
+        <li><a href="https://www.maine.gov/labor/news_events/" class="tab5">News and Events</a></li>
+        <li><a href="https://www.maine.gov/labor/publications/index.shtml" class="tab6">Forms and Publications</a></li>        
+		<li><a href="https://www.maine.gov/labor/nonlaborresources/" class="tab7">Non-Labor Resources</a></li>
+      </ul>
+    </div>
+  </nav> 
+  
+  <div id="content" class="clearfix">
+  
+    <div class="crumb_trail">
+      <p><a href="../index.shtml">Home</a> &rarr; <!-- InstanceBeginEditable name="breadcrumbs" --><strong>Bureau of Labor Standards</strong><!-- InstanceEndEditable --></p>
+    </div>
+    
+    
+	 
+    
+	
+    <nav id="sectionnav" aria-label="Section Navigation"  role="navigation">
+      <h3>Maine Department of Labor</h3>
+      
+      <ul class="mainnav">
+        <li><a href="https://www.maine.gov/labor/jobs_training/">Jobs and Training</a></li><li><!-- InstanceBeginEditable name="EditRegion6" -->
+	      <ul>
+		    <li></li>
+		  </ul>		  
+		  <!-- InstanceEndEditable --></li>
+        <li><a href="https://www.maine.gov/unemployment/">Unemployment Insurance</a></li><li><!-- InstanceBeginEditable name="EditRegion1" -->
+		<ul>
+		  <li></li>
+		  </ul>
+		  <!-- InstanceEndEditable --></li>
+		<!-- end 2 column page (left sidebar) subnav -->
+          </li>
+        <li><a href="http://www.maine.gov/rehab/index.shtml">Disability Services</a></li><li><!-- InstanceBeginEditable name="EditRegion4" -->
+	      <ul>
+		    <li></li>
+		  </ul>		  
+		  <!-- InstanceEndEditable --></li>
+		  <li><a href="https://www.maine.gov/labor/workplace_safety/index.html">WorkPlace Safety</a></li><li><!-- InstanceBeginEditable name="EditRegion5" -->
+		  <ul>
+		  <li></li>
+		  </ul>
+		  <!-- InstanceEndEditable --></li>
+		  <li><a href="https://www.maine.gov/labor/labor_laws/index.html">Labor Laws</a></li>
+		  <li><a href="https://www.maine.gov/labor/labor_stats/index.html">Labor Statistics</a></li><li><!-- InstanceBeginEditable name="EditRegion3" -->
+	      <ul>
+		    <li></li>
+		  </ul>		  
+		  <!-- InstanceEndEditable --></li>
+		  <li><a href="https://www.maine.gov/labor/workforce_dev/index.shtml">Work Force Development</a></li>
+		  <li><!-- InstanceBeginEditable name="EditRegion2" -->
+          <ul>
+            <li></li>
+          </ul>
+        <!-- InstanceEndEditable --></li>
+	  </ul>
+      <p>&nbsp;</p>
+      <!-- end sample pages navigation -->
+	  
+	  <p>&nbsp;</p>
+    </nav>
+	  
+    <!-- end leftcol -->
+    
+	<nav id="mobilenav" aria-label="Mobile Navigation" role="navigation">
+	<ul id="mobilemenu" class="sm sm-simple">
+	<li>
+	<h2><a>Labor Website Navigation</a></h2>
+	
+	<ul class="mainnav">
+		<li><a href="https://www.maine.gov/labor/jobs_training/index.html">Jobs and Training</a></li>
+		<li><a href="https://www.maine.gov/unemployment/">Unemployment Insurance</a></li>		
+	<li><a href="http://www.maine.gov/rehab/index.shtml">Disability Services</a></li>
+        <li><a href="https://www.maine.gov/labor/workplace_safety/index.html">Work Place Safety</a></li>
+		  <li><a href="https://www.maine.gov/labor/labor_laws/index.html">Labor Laws</a></li>
+		  <li><a href="https://www.maine.gov/labor/labor_stats/index.html">Labor Statistics</a></li>
+		  <li><a href="https://www.maine.gov/labor/workforce_dev/index.html">Work Force Development</a></li>
+		  
+	</ul>
+	
+	<!-- end sample pages navigation -->
+	
+	<!-- end features pages navigation -->
+	</li>
+	</ul>
+	</nav>
+	
+    <span id="page-body"></span>
+    <div id="maincontent3" class="article" role="main"> <!-- InstanceBeginEditable name="maincontent2" -->
+      <h1>Bureau of Labor Standards</h1>
+      <p>The Bureau of Labor Standards helps workers and businesses make their worksites safer; upholds standards for minimum wages, child labor and other practices; and gathers information on the rapidly changing world of work in Maine today - and in the future.</p>
+      <div class="rounded box">
+        <table border="0">
+          <tbody>
+            <tr>
+              <td><p></p>
+                <button class="accordion"><strong>Labor Laws</strong></button>
+                <div class="panel">
+                  <ul type="disc">
+                    <li><a href="../labor_laws/mma/index.shtml" target="_blank">Maine Monitor Advocate</a></li>
+                    <li><a href="https://www.maine.gov/labor/labor_laws/earnedpaidleave/" target="_blank">Earned Paid Leave Information</a></li>
+                    <li><a href="https://www.maine.gov/labor/labor_laws/cleanenergy/" target="_blank">Energy Facility Construction</a></li>
+                    <li><a href="https://www.maine.gov/labor/labor_laws/wagehour.shtml">Summary of Labor Laws</a>&nbsp;(includes minimum wage, overtime, independent contractor, and other laws)</li>
+                    <li><a href="https://www.maine.gov/labor/labor_laws/minorsguide/">Child Labor Laws and Child Labor Rules</a></li>
+                    <li><a href="https://www.maine.gov/labor/labor_laws/substanceusetesting/">Substance Use Testing Law</a></li>
+                    <li><a href="http://www.maine.gov/labor/labor_stats/publications/wagerateconst/index.html">Prevailing Wage Certification for State Funded Construction Projects</a></li>
+                  </ul>
+                </div>
+                <p></p>
+                <button class="accordion"><strong>Workplace Safety and Health</strong></button>
+                <div class="panel">
+                  <ul>
+                    <li><a href="http://www.safetyworksmaine.com/">SafetyWorks!</a>&nbsp;(Includes workplace safety training classes and consultations)</li>
+                    <li><a href="http://maine.gov/labor/labor_stats/research.html">Safety Research</a></li>
+                    <li><a href="http://maine.gov/labor/posters/index.html">Free Labor Posters</a></li>
+                    <li><a href="http://maine.gov/labor/workplace_safety/publicsector.shtml">Public Sector Safety Enforcement</a></li>
+                  </ul>
+                </div>
+                <p></p>
+                <button class="accordion"><strong>Workplace Statistics</strong></button>
+                <div class="panel">
+                  <ul>
+                    <li><a href="https://www.maine.gov/labor/bls/researchstats/" target="_blank">Research and Statistics Division</a>&nbsp;(Provides data and analysis relating to workplace injuries, illnesses etc.)</li>
+                  </ul>
+                </div>
+                <p></p>
+                <button class="accordion"><strong>Posters and Forms</strong></button>
+                <div class="panel">
+                  <ul>
+                    <li><a href="https://www.maine.gov/labor/docs/2019/bls/MaineCertifiedPayrollFormrev10042019.pdf" target="_blank">Download Certified Payroll Form</a> (PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/labor_laws/publications/2018/work_permit_072018.pdf" target="_blank">Download the Work Permit Application</a> (PDF)</li>
+                    <li><a href="https://www.maine.gov/labor/posters/index.shtml" target="_blank">Free Labor Posters</a></li>
+                    <li><a href="/labor/docs/2022/laborlaws/LaborResourcesforSingleWorkingWomensWeek.pdf" target="_blank">Labor Resources for Parents</a> (PDF)</li>
+                    <li><a href="http://maine.gov/labor/labor_stats/data_profiles.html">Request an Injury Data Profile for Your Business</a></li>
+                  </ul>
+                </div>
+                <p></p>
+				  <button class="accordion"><strong>Wage and Hour Violations</strong></button>
+                <div class="panel">
+                  <p><a href="https://www.maine.gov/labor/bls/whv/" target="_blank">Wage and Hour Violations</a></p>
+                </div>
+                <p></p>
+				<button class="accordion"><strong>Wage and Hour  Classes and  Webinars</strong></button>
+                <div class="panel">
+                  <p><strong>In-person Wage and Hour Classes </strong><br>
+                    <br>
+                  <a href="https://safetyworksmaine.gov/training/scheduled-classes" target="_blank">Browse the schedule and register here</a>. </p>
+                  <p><strong><br>
+                    Tuesday Topics Webinar Series for Employers</strong><br>
+                </p>
+                  <p>Have questions about Maine's labor laws and workplace requirements? Join the Maine Department of Labor for Tuesday Topics, a monthly webinar series designed to help employers understand Maine's labor laws and workplace requirements. Each session covers a different topic and provides practical information and resources to help employers meet their responsibilities and support their employees.</p>
+                  <p>Tuesday Topics webinars are offered in two live Zoom sessions on the same day, at 10 a.m. and 1:30 p.m. Registration is not required; simply select a topic below to learn more about the session and join.</p>
+                  <p>The Maine Department of Labor provides equal opportunity in employment and programs. Auxiliary aids and services are available to people with disabilities upon request by contacting Tina Duffany at 207-623-7912 or <a href="mailto:Tina.Duffany@maine.gov?subject=BLS%20Tuesday%20Topic%20question" target="_blank">Tina.Duffany@maine.gov</a>.</p>
+					
+				  <div><h4></h4>
+
+<p></p>
+<p id="summary"></p>
+<ul>
+<li><a href="https://www.maine.gov/labor/bls/tt/112026/"  target="_blank">Nov. 10, 2026 | What to Know About Wages, Part 1</a></li>
+</ul>
+
+
+
+
+
+<h4></h4>
+
+<p></p>
+<p id="summary"></p>
+<ul>
+<li><a href="https://www.maine.gov/labor/bls/tt/122026/"  target="_blank">Dec. 8, 2026 | What to Know About Wages, Part 2</a></li>
+</ul>
+
+
+
+
+
+<h4></h4>
+
+<p></p>
+<p id="summary"></p>
+<ul>
+<li><a href="https://www.maine.gov/labor/bls/tt/012027/"  target="_blank">Jan. 5, 2027 | Recognizing Labor Trafficking</a></li>
+</ul>
+
+
+
+
+
+<h4></h4>
+
+<p></p>
+<p id="summary"></p>
+<ul>
+<li><a href="https://www.maine.gov/labor/bls/tt/022027/"  target="_blank">Feb. 9, 2027 | Record-Keeping Requirements</a></li>
+</ul>
+
+
+
+
+
+<h4></h4>
+
+<p></p>
+<p id="summary"></p>
+<ul>
+<li><a href="https://www.maine.gov/labor/bls/tt/032027/"  target="_blank">Mar. 9, 2027 | Required Notices and Training</a></li>
+</ul>
+
+
+
+
+
+<h4></h4>
+
+<p></p>
+<p id="summary"></p>
+<ul>
+<li><a href="https://www.maine.gov/labor/bls/tt/042027/"  target="_blank">Apr. 13, 2027 | Youth Employment</li>
+</ul>
+
+
+
+
+
+<h4></h4>
+
+<p></p>
+<p id="summary"></p>
+<ul>
+<li><a href="https://www.maine.gov/labor/bls/tt/052027/"  target="_blank">May 11, 2027 | Youth Employment </li>
+</ul>
+
+
+
+
+
+<h4></h4>
+
+<p></p>
+<p id="summary"></p>
+<ul>
+<li><a href="https://www.maine.gov/labor/bls/tt/062027/"  target="_blank">Jun. 8, 2027 | Hiring, Firing and Personnel Files  </li>
+</ul>
+
+
+
+
+
+<h4></h4>
+
+<p></p>
+<p id="summary"></p>
+<ul>
+<li><a href="https://www.maine.gov/labor/bls/tt/072027/"  target="_blank">Jul. 13, 2027 | Leave Laws, Part 1  </li>
+</ul>
+
+
+
+
+
+<h4></h4>
+
+<p></p>
+<p id="summary"></p>
+<ul>
+<li><a href="https://www.maine.gov/labor/bls/tt/082027/"  target="_blank">Aug. 10, 2027 | Leave Laws, Part 2</li>
+</ul>
+
+
+
+
+
+<h4></h4>
+
+<p></p>
+<p id="summary"></p>
+<ul>
+<li><a href="https://www.maine.gov/labor/bls/tt/092027/"  target="_blank">Sep. 14, 2027 | Employee or Independent Contractor? Know the Difference</li>
+</ul>
+
+
+
+
+
+<h4></h4>
+
+<p></p>
+<p id="summary"></p>
+<ul>
+<li><a href="https://www.maine.gov/labor/bls/tt/102027/"  target="_blank">Oct. 12, 2027 | Employer Surveillance: What Employers Need to Know</li>
+</ul>
+
+
+
+
+
+<h4></h4>
+
+<p></p>
+<p id="summary"></p>
+<ul>
+<li><a href="https://www.maine.gov/labor/bls/tt/112027/"  target="_blank">Nov. 9, 2027 | Sexual Harassment Notices and Training</li>
+</ul>
+
+
+
+
+
+<h4></h4>
+
+<p></p>
+<p id="summary"></p>
+<ul>
+<li><a href="https://www.maine.gov/labor/bls/tt/122027/"  target="_blank">Dec. 7, 2027 | Laws You May Have Missed</li>
+</ul>
+
+
+
+
+
+
+</div>
+                  
+                           
+                   
+					
+                </div>
+               
+                
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+		<br>
+      <Div align="center"><a href="https://www.maine.gov/labor/schoolresources/" target="_blank"><img src="https://www.maine.gov/labor/images/2023/schoolresources/WorkforceResourcesforSchoolsandStudentssm1.png" class="responsive" width="600" height="174" alt="This is the logo for the school resources web page."/></a>
+		<br>
+		<a href="https://www.maine.gov/labor/schoolresources/" target="_blank">Workforce Resources for Schools and Students</a></Div>
+      
+      <p><!--begin accordian BODY code-->
+        <script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight){
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+        </script>
+		  </p>
+    <!-- InstanceEndEditable --><!-- end editable maincontent --> 
+      
+    </div>
+    <!-- end maincontent --> 
+    
+	
+    <aside> 
+	<!-- InstanceBeginEditable name="rightnav" -->
+		<div class="sidebarbox clearfix">
+        <h3>Public Employer Indoor Air Quality Listening Sessions</h3>
+        <ul><li></li>
+          <li></li>
+          <li><a href="https://www.maine.gov/labor/docs/2026/bls/DRAFTIAQ2026CD31_26%20forListeningSessions91826.pdf" target="_blank"><strong>Proposed  Voluntary Compliance Directive</strong></a><strong> (PDF) <br>
+            <br>
+            Sessions: <a href="https://www.maine.gov/labor/news_events/article.shtml?id=13363776" target="_blank">10/13, 11/2, 11/9</a></strong></li>
+        </ul>
+      </div>
+		<div class="sidebarbox clearfix">
+        <h3>MAINE STATUTE <br>
+UPDATES – MDOL</h3>
+        <ul>
+          <li></li>
+        </ul>
+	    <ul>
+	      <li><strong>Review the webinar about labor standards law changes that went into effect in July, 2026</strong></li>
+	      <li><a href="https://www.youtube.com/watch?v=UtjNawt8kEA" target="_blank">Video</a> | <a href="../docs/2026/bls/BLSLaborStandardsLawsWebinar.pdf" target="_blank">Transcript</a> (PDF)</li>
+	      </ul>
+	  </div>
+		<p></p>
+	  <div class="sidebarbox clearfix">
+        <h3>Wage and Hour Violation Complaint</h3>
+        <ul>
+          <li><strong>To submit a wage and hour violation complaint, click <a href="https://www.maine.gov/labor/complaint/" target="_blank">here</a></strong></li>
+        </ul>
+      </div>
+		<p></p>
+		<div class="sidebarbox clearfix">
+        <h3>Questions about Paid Family and Medical Leave? </h3>
+        <ul>
+          <li><strong>Contact PFML by clicking <a href="https://www.maine.gov/paidleave/contact/index.shtml" target="_blank">here</a></strong>.</li>
+        </ul>
+      </div>
+		<p></p>
+      <div class="sidebarbox clearfix">
+        <h3>Contact BLS</h3>
+        <ul>
+          <li><strong>Mailing Address: </strong><br>
+            Bureau of Labor Standards
+            <br>
+45 State House Station <br>
+            Augusta, Maine 04333-0045</li>
+          <li><strong>Telephone:</strong> 207-623-7900</li>
+          <li> <strong>FAX:</strong> 207-623-7934</li>
+          <li> <strong>TTY:</strong> Maine relay 711</li>
+          <li> <strong>E-mail:<br>
+          </strong><a href='mailto:bls.mdol@maine.gov' target="_blank">bls.mdol@maine.gov</a></li>
+          <li><span data-teams="true"><strong><br>
+          To submit a wage and hour violation complaint, click <a href="https://www.maine.gov/labor/complaint/" target="_blank">here</a></strong></span></li>
+        </ul>
+      </div>
+		<p></p>
+		
+	
+	<!-- InstanceEndEditable --> 
+      </aside><!-- end pageaside --> 
+    <!-- end rightcol --> 
+    </div><!-- end content id -->
+  
+   <footer id="footer" class="clearfix"> 
+  	<div class="sub-container">
+		<div class="footer_column">
+		  <h4>Stay Informed</h4>
+		  <p>Follow us on social media or sign up for email alerts.</p>
+		  <ul class="social-media">
+			<li class="facebook"><a href="https://www.facebook.com/MElabor/">Facebook</a></li>
+			<li class="twitter"><a href="https://twitter.com/maine_labor">Twitter</a></li>								
+			<li class="instagram"><a href="https://www.instagram.com/maine_dept_labor/?hl=en">Instagram</a></li>
+			<li class="govdelivery"><a href="https://public.govdelivery.com/accounts/MEDOL/subscriber/new">Email/SMS Updates</a></li>
+		</ul>
+		  	
+		  <h4>Credits</h4>
+		  <p>Copyright &copy; 2019<br>
+		  <p><img width="50" height="28" alt="This is the Maine Department of Labor's logo." src="https://www.maine.gov/labor/images/header_agency_logo_footer.jpg"></p>
+			All rights reserved.</p>
+		</div>
+		<div class="footer_column">
+		  <h4>Find it by Topic</h4>
+          <ul>
+            <li><a href="http://www.maine.gov/labor/labor_laws/publications/minorsguide.html">Child Labor Laws </a></li>
+  <li><a href="http://www.mainecareercenter.com">Employment and Training Services</a></li>
+  <li><a href="http://www.maine.gov/labor/posters/index.shtml">Free Labor Posters</a></li>
+  <li><a href="http://www.safetyworksmaine.com/consultations/">Workplace Safety   Consultations</a></li>
+  <li><a href="http://www.maine.gov/labor/cwri/index.html">Labor Market Information</a></li>
+  <li><a href="http://www.maine.gov/labor/labor_laws/index.html">Labor Laws</a></li>
+  <li><a href="http://www.maine.gov/rehab/">Rehabilitation/Disability Services</a></li>
+  <li><a href="http://www.maine.gov/unemployment/appeals/">Unemployment Appeals </a></li>
+  <li><a href="http://www.maine.gov/unemployment/">Unemployment Claims</a></li>
+  <li><a href="http://www.maine.gov/labor/cwri/laus.html">Unemployment Rate</a></li>
+  <li><a href="http://www.maine.gov/unemployment/employers/">Unemployment Tax </a></li>
+  <li><a href="http://www.maine.gov/labor/labor_laws/publications/minorsguide.html#Work">Work Permits</a></li>
+          </ul>
+		</div>
+		<div class="footer_column">
+		  <h4>Find it by Audience</h4>
+		  <p><a href="http://www.maine.gov/labor/for_workers/">Workers</a></p>
+<p><a href="http://www.maine.gov/labor/for_job_seekers/">Job Seekers</a></p>
+<p><a href="http://www.maine.gov/labor/for_employers/">Employers / Businesses</a></p>
+<h4>Contacts for Unemployment:</h4>
+<ul>
+  <li> Toll-Free: 1-800-593-7660 (Customer service available Mon-Fri, 8:00 a.m. to 3:00 p.m.) </li>
+  <li>TTY/Relay for Deaf and hard of hearing: Maine relay 711 </li>
+   <li><a href="https://www1.maine.gov/labor/contact/index.html" target="_blank">Submit an Online Inquiry</a></li>
+  </ul>
+<h4><a href="/labor/far/index.shtml">Department of Labor Freedom of Access Contact Information</a></h4>
+		</div>
+		<div class="footer_column">
+		  <h4>Find it by Agency</h4>
+<p><a href="http://www.maine.gov/labor/bes/">Bureau of Employment Services</a></p>
+<p><a href="http://www.maine.gov/labor/bls/">Bureau of Labor Standards</a></p>
+<p><a href="http://www.maine.gov/rehab">Bureau of Rehabilitation Services</a></p>
+<p><a href="https://www.maine.gov/paidleave/">Bureau of Paid Family and Medical Leave</a></p>
+<p><a href="https://www.maine.gov/unemployment/">The Bureau of Unemployment Compensation</a></p>
+<p><a href="http://www.maine.gov/labor/cwri/">Center for Workforce Research and Information</a></p>
+<p><a href="https://www.maine.gov/swb/index.html">The State Workforce Board</a></p>
+<p>&nbsp;</p>
+<p>The Department of Labor is an equal opportunity provider. Auxiliary aids and services are available to individuals with disabilities upon request.</p>
+		</div>
+		<div class="footer_column">
+		<h4>Services</h4>
+		 <p><a href="http://www.maine.gov/reemployme/"><img src="https://www.maine.gov/labor/inc/images/Reemploy_Maine_Final4.png" alt="File for Unemployment" width="150" height="35"></a></p>
+<p><a href="http://www.mainecareercenter.gov/"><img src="/labor/images/ccenterlogoamericanjobcenter2017.gif" alt="CareerCenter" width="150" height="41"></a></p>
+<p><a href="http://www.safetyworksmaine.gov/"><img src="https://www.maine.gov/labor/images/safetyworks.gif" alt="SafetyWorks!" width="150" height="80"></a></p>
+		</div>
+		<!-- end footer_column --> 
+	</div>
+  </footer> 
+</div><!-- end container id --> 
+
+<script type="text/javascript">
+  if($(window).width() <= 651){
+$('.sf-menu a').on('click touchend', function() {
+var el = $(this);
+var link = el.attr('href');
+window.location = link;
+});
+}
+</script>
+  
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HE2F8S6N54"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+  
+          gtag('config', 'G-HE2F8S6N54');
+          </script>
+  
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-TFVPRW63KM"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+  
+          gtag('config', 'G-TFVPRW63KM');
+          </script>
+</body>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38703455-1']);
+  _gaq.push(['_setDomainName', 'maine.gov']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57355819-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- InstanceEnd --></html>

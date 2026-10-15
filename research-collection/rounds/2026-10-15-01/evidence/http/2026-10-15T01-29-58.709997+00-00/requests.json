@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://www.maine.gov/labor/posters/",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:29:58.737566+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "fetched",
+    "title": "MDOL: Maine Department of Labor Posters page",
+    "sha256": "1c0b8edd378ee5f0c976f57b0761a433d78feef71b5351785e9444b893656ea1",
+    "bytes": 46577,
+    "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/1c0b8edd378ee5f0c976f57b0761a433d78feef71b5351785e9444b893656ea1.body"
+  },
+  {
+    "url": "https://www.maine.gov/labor/labor_laws/wagehour.shtml",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:30:03.378726+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "fetched",
+    "title": "MDOL: Labor Law Publications ",
+    "sha256": "9d12a43fe310c4d3795e218f0f655560ab45af5e52c77f688d505a5dc0d87ad5",
+    "bytes": 29945,
+    "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/9d12a43fe310c4d3795e218f0f655560ab45af5e52c77f688d505a5dc0d87ad5.body"
+  },
+  {
+    "url": "https://www.maine.gov/labor/bls/",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:30:09.531870+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "fetched",
+    "title": "MDOL: Bureau of Labor Standards Home page",
+    "sha256": "f82d37e3b77b7f070828d73f99bf94a86bc6cc36d69c03d1ac56bdd652d5a901",
+    "bytes": 34756,
+    "body_path": "evidence/http/2026-10-15T01-29-58.709997+00-00/f82d37e3b77b7f070828d73f99bf94a86bc6cc36d69c03d1ac56bdd652d5a901.body"
+  }
+]

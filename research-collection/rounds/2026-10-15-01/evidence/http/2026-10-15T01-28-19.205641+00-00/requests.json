@@ -1,0 +1,77 @@
+[
+  {
+    "url": "https://www.maine.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:28:19.231129+00:00",
+    "http_status": 200,
+    "content_type": "text/plain",
+    "etag": "\"9e0-5e08b5982823f\"",
+    "last_modified": "Fri, 03 Jun 2022 13:46:30 GMT",
+    "status": "fetched",
+    "sha256": "1a2af05a486596db1a4cbf39eee941d3ad6c31aed66ef9f1654525f37cf2fbd3",
+    "bytes": 2528,
+    "body_path": "evidence/http/2026-10-15T01-28-19.205641+00-00/1a2af05a486596db1a4cbf39eee941d3ad6c31aed66ef9f1654525f37cf2fbd3.body"
+  },
+  {
+    "url": "https://www.maine.gov/pfr/professionallicensing/professions/real-estate-commission/applications-forms",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:28:24.749444+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": null,
+    "last_modified": null,
+    "status": "fetched",
+    "title": "Real Estate Commission - Applications & Forms | Office of Professional and Occupational Regulation",
+    "sha256": "f23db28c3c2b10fd589dba5d0692cb165aadf54cea2ff6945cdca6425004bf59",
+    "bytes": 148254,
+    "body_path": "evidence/http/2026-10-15T01-28-19.205641+00-00/f23db28c3c2b10fd589dba5d0692cb165aadf54cea2ff6945cdca6425004bf59.body"
+  },
+  {
+    "url": "https://arec.alabama.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:28:27.256438+00:00",
+    "status": "fetch_error",
+    "reason": "<urlopen error timed out>"
+  },
+  {
+    "url": "https://arec.alabama.gov/pages/forms.aspx",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:28:50.623929+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  },
+  {
+    "url": "https://arec.alabama.gov/pages/laws/StatutoryChanges.aspx",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:28:50.639432+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  },
+  {
+    "url": "https://www.oregon.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:28:50.655601+00:00",
+    "http_status": 200,
+    "content_type": "text/plain",
+    "etag": "\"{40755D10-5E1B-4896-B820-A5B92A49CCD6},17\"",
+    "last_modified": "Fri, 16 Dec 2022 17:24:20 GMT",
+    "status": "fetched",
+    "sha256": "5835e2c65e3725b4ec3b9b673b794a80ecba281f7f861c8c91cfc9c608ef19f2",
+    "bytes": 7226,
+    "body_path": "evidence/http/2026-10-15T01-28-19.205641+00-00/5835e2c65e3725b4ec3b9b673b794a80ecba281f7f861c8c91cfc9c608ef19f2.body"
+  },
+  {
+    "url": "https://www.oregon.gov/rea/licensing/Pages/initial-agency-disclosure.aspx",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:28:55.798167+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "etag": null,
+    "last_modified": "Thu, 15 Oct 2026 01:28:57 GMT",
+    "status": "fetched",
+    "title": "\r\n\tOregon Real Estate Agency : Initial Agency Disclosure Pamphlet : Licensing : State of Oregon\r\n",
+    "sha256": "85cbc2a500451b148e550d54dd72f2411b26857a9494b85cbeac80bda1a89387",
+    "bytes": 74950,
+    "body_path": "evidence/http/2026-10-15T01-28-19.205641+00-00/85cbc2a500451b148e550d54dd72f2411b26857a9494b85cbeac80bda1a89387.body"
+  }
+]

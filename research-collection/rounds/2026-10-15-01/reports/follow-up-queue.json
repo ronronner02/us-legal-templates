@@ -1,0 +1,32 @@
+[
+  {
+    "owner": "collection reviewer",
+    "task": "Review reuse and legal currency for every new document before product publication. Preserve existing publication holds.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Render originals for visual inspection; prioritize certified payroll revision and age-verification glyphs. Office rendering, OCR, and signature validation were not run.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review older printed editions against current official requirements; distinguish publication dates from HTTP Last-Modified and rate-effective dates.",
+    "status": "pending"
+  },
+  {
+    "owner": "future research round",
+    "task": "Retain existing access stops for Idaho, South Carolina, Indiana, Alabama, and California; do not re-probe during this round. Review recorded access evidence before any later decision.",
+    "status": "held"
+  },
+  {
+    "owner": "future research round",
+    "task": "Search other accessible official state sources to improve geographic coverage. This round adds Maine and Oregon only.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Semantic similarity review across the entire prior library remains unperformed. SHA-256 distinctness does not establish distinct legal instruments.",
+    "status": "pending"
+  }
+]

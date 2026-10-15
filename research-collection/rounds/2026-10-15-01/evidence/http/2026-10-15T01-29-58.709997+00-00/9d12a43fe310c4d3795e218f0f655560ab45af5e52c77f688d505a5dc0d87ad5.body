@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]>                <html lang="en" class="no-js ie9"> <![endif]-->
+<html lang="en"><!-- InstanceBegin template="/Templates/laborver3laborlaws.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- Maine.gov | State Agency Template 3.0 -->
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>MDOL: Labor Law Publications </title>
+<!-- InstanceEndEditable -->
+<link media="screen" type="text/css" rel="stylesheet" href="../css/indexver3.css" />
+<link media="print" type="text/css" rel="stylesheet" href="../css/printver3.css" />
+<link media="only screen and (max-width:651px)" type="text/css" rel="stylesheet" href="../css/sphonever3.css" />
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/maine.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/superfish.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/jquery.smartmenus.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/jquery.smartmenus.keyboard.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/templateV3/js/agencyv3.js"></script>
+<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- InstanceBeginEditable name="head" -->
+<meta name="description" content=" " />
+<meta name="keywords" content=" " />
+<!-- Custom code area (Start) -->
+<!--begin two column layout-->
+	<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that float next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: ; 
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+	<!--end two column layout-->
+	
+	
+	
+	
+	
+<!-- Custom code area (End) -->
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="crumbtrail" type="boolean" value="true" -->
+<!-- InstanceParam name="rightcol" type="boolean" value="false" -->
+<!-- InstanceParam name="leftcol" type="boolean" value="true" -->
+<!-- InstanceParam name="mobilenav" type="boolean" value="true" -->
+<!-- InstanceParam name="maincontent-id" type="text" value="maincontent2" -->
+<!-- InstanceParam name="maincontent-opt" type="boolean" value="true" -->
+<!-- InstanceParam name="sectionid" type="text" value="section" -->
+<!-- InstanceParam name="sectionbanner" type="boolean" value="false" -->
+<!-- InstanceParam name="sectionbanner-id" type="text" value="sectionbanner2" -->
+<!-- InstanceParam name="sample-pages" type="boolean" value="true" -->
+<!-- InstanceParam name="feature-pages" type="boolean" value="false" -->
+<!-- InstanceParam name="bigsmallcol" type="boolean" value="false" -->
+</head>
+<body id="section">
+<!-- Start Skip Navigation: Accessibility Requirement -->
+<ul class="offscreen">
+  <li><a href="/" accesskey="H" title="Home [accesskey 'h']">Home</a></li>
+  <li><a href="#top-nav" accesskey="1" title="Skip to navigation [accesskey '1']">Skip to top navigation</a></li>
+  <li><a href="#content" accesskey="2" title="Skip to side navigation [accesskey '2']">Skip to side navigation</a></li>
+  <li><a href="#page-body" accesskey="3" title="Skip to content [accesskey '3']">Skip to content</a></li>
+  <li><a href="#footer" accesskey="4" title="Skip to footer [accesskey '4']">Skip to footer</a></li>
+</ul>
+<!-- End Skip Navigation: Accessibility Requirement --> 
+<!-- Sliver Start --> 
+ <!-- ##################################################################w11n -->
+<!-- insert citizen alert -->
+
+
+<div id="sliver_container"> 
+  <div class="sliver"> 
+    <h2><a href="https://www.maine.gov/">Maine.gov</a></h2>
+      <ul> 
+        <li><a href="https://www.maine.gov/portal/government/state-agencies.php">Agencies</a> |</li>
+        <li><a href="https://www.maine.gov/portal/online_services/index.html">Online Services</a> |</li>
+        <li><a href="https://www.maine.gov/portal/help/index.html">Help</a> |</li>
+        <li><a href="https://www.maine.gov/search/" class="state_search">Search Maine.gov</a></li>
+      </ul>
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  </div>
+
+</div>
+
+  
+<!-- Sliver End -->
+<div id="container"> 
+  
+    
+   <!-- Header -->
+  <header>
+    <div class="sub-container clearfix">
+      <h2 class="logo"><a href="http://www.maine.gov/labor/">Department of Labor</a></h2>
+      <div class="header_nav_search">
+        <ul class="nav clearfix" id="vtopnav">
+          <li><a href="https://www.maine.gov/labor/online_services/">Online Services</a></li>
+          <li> | &nbsp;<a href="https://www1.maine.gov/labor/contact/">Contact Us</a></li>
+          <li> | &nbsp;<a href="https://www.maine.gov/labor/sitemap/">Sitemap</a></li>
+          <!-- put this code where you'd like your intranet link to appear -->
+
+  <li> | <a href="http://inet.state.me.us/labor/index.php">Intranet</a></li>
+
+        </ul>
+        <div role="search" class="header_search">
+          <form action="http://www.maine.gov/search" method="get">
+            <label class="hide-label" for="headersearch">Search MDOL</label>
+            <input type="text" size="24" name="search" id="headersearch" class="search_area" placeholder="Search MDOL">
+            <input class="search_button green_btn" type="submit" value="Search">
+            <input type="hidden" value="http://www.maine.gov/labor" name="as_sitesearch">
+            <input type="hidden" value="test_collection" name="site">
+            <input type="hidden" value="xml_no_dtd" name="output">
+            <input type="hidden" value="test_collection" name="client">
+            <input type="hidden" value="test_collection" name="proxystylesheet">
+          </form>
+        </div>
+        <!-- end header_search --> 
+      </div>
+    </div>
+    <!--End Sub-Container--> 
+   <!-- ################################################################## -->
+<link href="/portal/sliverheader/sliver.css" rel="stylesheet" type="text/css" /> 	
+<!-- ################################################################## -->
+ </header>
+  
+  <nav id="top-nav" aria-label="Main menu" role="navigation" class="megamenu">
+    <div class="sub-container clearfix">
+      <ul class="sf-menu" id="dropdown">
+        <li><a href="https://www.maine.gov/labor/index.shtml" class="samplestab">Home</a>          
+        </li>
+        <li><a href="https://www.maine.gov/labor/contact/index.shtml" class="featurestab">Contact Us</a>          
+        </li>
+        <li><a href="https://www.maine.gov/labor/online_services/index.shtml" class="tab3">Online Services</a></li>
+        <li><a href="https://www.maine.gov/labor/about/" class="tab4">About MDOL</a></li>
+        <li><a href="https://www.maine.gov/labor/news_events/" class="tab5">News and Events</a></li>
+        <li><a href="https://www.maine.gov/labor/publications/index.shtml" class="tab6">Forms and Publications</a></li>        
+		<li><a href="https://www.maine.gov/labor/nonlaborresources/" class="tab7">Non-Labor Resources</a></li>
+      </ul>
+    </div>
+  </nav> 
+  
+  <div id="content" class="clearfix">
+  
+    <div class="crumb_trail">
+      <p><a href="../index.shtml">Home</a> &rarr; <!-- InstanceBeginEditable name="breadcrumbs" --><a href="https://www.maine.gov/labor/labor_laws/">Labor Laws</a>&nbsp;→<strong>Labor Law Publications</strong><!-- InstanceEndEditable --></p>
+    </div>
+    
+    
+	 
+    
+	
+    <nav id="sectionnav" aria-label="Section Navigation"  role="navigation">
+      <h3>Maine Department of Labor</h3>
+      
+      <ul class="mainnav">
+        <li><a href="https://www.maine.gov/labor/jobs_training/">Jobs and Training</a></li><li><!-- InstanceBeginEditable name="EditRegion6" -->		  <!-- InstanceEndEditable --></li>
+        <li><a href="https://www.maine.gov/unemployment/">Unemployment Insurance</a></li><li><!-- InstanceBeginEditable name="EditRegion1" -->		  <!-- InstanceEndEditable --></li>
+		<!-- end 2 column page (left sidebar) subnav -->
+          </li>
+        <li><a href="http://www.maine.gov/rehab/index.shtml">Disability Services</a></li><li><!-- InstanceBeginEditable name="EditRegion4" -->		  <!-- InstanceEndEditable --></li>
+		  <li><a href="https://www.maine.gov/labor/workplace_safety/index.html">WorkPlace Safety</a></li><li><!-- InstanceBeginEditable name="EditRegion5" -->		  <!-- InstanceEndEditable --></li>
+		  <li><a href="https://www.maine.gov/labor/labor_laws/index.html">Labor Laws</a></li><li><!-- InstanceBeginEditable name="EditRegion3" -->
+	      <ul>
+		    <li><a href="https://www.maine.gov/labor/labor_laws/wagehour.shtml">Employment Laws</a></li>
+			  <li><a href="https://www.maine.gov/labor/posters/index.shtml" target="_blank">Free Labor Posters</a></li>
+			  <li><a href="http://www.maine.gov/mlrb/" target="_blank">Collective Bargining</a></li>
+			  <li><a href="https://www.maine.gov/unemployment/lawsandrules/" target="_blank">Unemployment Laws</a></li>
+			  <li><a href="http://www.safetyworksmaine.com/regulations/index.html" target="_blank">Workplace Safety Laws</a></li>  
+		  </ul>		  
+		  <!-- InstanceEndEditable --></li>
+		<li><a href="https://www.maine.gov/labor/labor_stats/index.shtml">Labor Stats</a></li>
+		  <li><a href="https://www.maine.gov/labor/workforce_dev/index.shtml">Work Force Development</a></li>
+		  <li><!-- InstanceBeginEditable name="EditRegion2" -->        <!-- InstanceEndEditable --></li>
+	  </ul>
+      <p>&nbsp;</p>
+      <!-- end sample pages navigation -->
+	  
+	  <p>&nbsp;</p>
+    </nav>
+	  
+    <!-- end leftcol -->
+    
+	<nav id="mobilenav" aria-label="Mobile Navigation" role="navigation">
+	<ul id="mobilemenu" class="sm sm-simple">
+	<li>
+	<h2><a>Labor Website Navigation</a></h2>
+	
+	<ul class="mainnav">
+		<li><a href="https://www.maine.gov/labor/jobs_training/index.html">Jobs and Training</a></li>
+		<li><a href="https://www.maine.gov/unemployment/">Unemployment Insurance</a></li>		
+	<li><a href="http://www.maine.gov/rehab/index.shtml">Disability Services</a></li>
+        <li><a href="https://www.maine.gov/labor/workplace_safety/index.html">Work Place Safety</a></li>
+		  <li><a href="https://www.maine.gov/labor/labor_laws/index.html">Labor Laws</a></li>
+		  <li><a href="https://www.maine.gov/labor/labor_stats/index.html">Labor Statistics</a></li>
+		  <li><a href="https://www.maine.gov/labor/workforce_dev/index.html">Work Force Development</a></li>
+		  
+	</ul>
+	
+	<!-- end sample pages navigation -->
+	
+	<!-- end features pages navigation -->
+	</li>
+	</ul>
+	</nav>
+	
+    <span id="page-body"></span>
+    <div id="maincontent2" class="article" role="main"> <!-- InstanceBeginEditable name="maincontent2" -->
+      <h1>Labor Law Publications </h1>
+      <h2>Updates</h2>
+      <ul>
+        <li>Summary: <a href="https://www.maine.gov/labor/labor_laws/llupdates/2025/index.shtml" target="_blank">2025</a> | <a href="https://www.maine.gov/labor/labor_laws/llupdates/2023/index.shtml" target="_blank">2023</a> | <a href="https://www.maine.gov/labor/labor_laws/llupdates/2022/index.shtml" target="_blank">2022</a> | <a href="https://www.maine.gov/labor/labor_laws/llupdates/2021/index.shtml" target="_blank">2021</a> | <a href="https://www.maine.gov/labor/labor_laws/llupdates/2020/index.shtml" target="_blank">2020</a> | <a href="/labor/labor_laws/llupdates/2019/index.shtml" target="_blank">2019</a> | <a href="https://www.maine.gov/labor/labor_laws/2017_labor_laws.html" target="_blank">2017</a> | <a href="2016_labor_laws.html">2016</a> | <a href="2015_labor_laws.html">2015</a> | <a href="2014_labor_laws.html">2014</a> | <a href="2013_labor_laws.html">2013</a> | <a href="2012_labor_laws.html">2012</a> | <a href="2011_labor_laws.html">2011</a> | <a href="https://www.maine.gov/tools/whatsnew/index.php?topic=Labor+Press+Releases&amp;id=113952&amp;v=Article">2010</a></li>
+        <li><a href="https://www.maine.gov/labor/posters/index.shtml" target="_blank">Maine Labor Posters</a></li>
+      </ul>
+      <p>The following links provide information and resources concerning Maine employment laws, many of which are enforced by the Maine Department of Labor, Wage and Hour Division.</p>
+     
+      <div class="row">
+        <div class="column">
+    
+          <h3>Child Labor</h3>
+          <ul>
+            <li><a href="https://legislature.maine.gov/statutes/26/title26ch7sec0.html" target="_blank">Relevant Statutes (Go to Sub-chapter 4, Article 3)</a></li>
+            <li><a href="https://www.maine.gov/labor/labor_laws/publications/minorsguide.shtml" target="_blank">Guide to Maine Laws Governing the Employment of Minors</a></li>
+            <li><a href="../docs/2022/laborlaws/HazardousOccupationsRules.pdf"
+target="_blank">Hazardous Occupations Rules</a> (PDF)</li>
+            <li><a href="https://www.maine.gov/labor/posters/index.shtml" target="_blank">Child Labor Poster</a></li>
+            <li><a href="https://www.mainelegislature.org/legis/statutes/26/title26sec775.html" target="_blank">Work Permits Law</a></li>
+            <li><a href="publications/2018/work_permit_072018.pdf" target="_blank">Download Maine Work Permit Form</a> (PDF)</li>
+            <li><a href="../docs/2022/laborlaws/AgeVerificationform042022.pdf" target="_blank">Download Age Verification Form</a>&nbsp;(PDF) </li>
+            <li><a href="/labor/docs/2024/laborlaws/EmployersGuidetoYouthEmployment.pdf" target="_blank">Employers  Guide to Youth Employment</a> (PDF)</li>
+          </ul>
+          <h3>Earned Paid Leave</h3>
+          <ul>
+            <li><a href="https://www.maine.gov/labor/labor_laws/earnedpaidleave/" target="_blank">Earned Paid Leave Information</a></li>
+            <li><a
+href="https://legislature.maine.gov/legis/statutes/26/title26sec637-2.html" target="_blank">Relevant Statutes</a></li>
+          </ul>
+          <h3>Employment Leave for Victims of Violence</h3>
+          <ul>
+            <li><a href="https://www.maine.gov/sos/cec/rules/12/170/170c010.docx"
+target="_blank">Rules Relating to Employment Leave for Victims of Violence</a> (Word)</li>
+            <li><a href="../labor_stats/publications/dvreports/domesticoffendersreport.pdf">Report on the Impact of Domestic Violence Offenders on Occupational Safety &amp; Health: A Pilot Study</a> (PDF)</li>
+            <li><a href="../labor_stats/publications/dvreports/survivorstudy.pdf">Report on Domestic Violence Survivors at Work: How Perpetrators Impact Employment</a> (PDF)</li>
+          </ul>
+          <h3>Equal Pay</h3>
+          <ul>
+            <li><a href="/labor/docs/2021/laborlaws/2021 Equal Pay Report 03.10.21.pdf" target="_blank">2021 Equal Pay Report</a> (PDF)</li>
+            <li><a
+href="https://legislature.maine.gov/statutes/26/title26sec628.html" target="_blank">Relevant Statutes</a></li>
+            <li><a href="https://www.maine.gov/sos/cec/rules/12/170/170c012.doc"
+target="_blank">Rules Relating to Equal Pay</a></li>
+            <li><a href="https://www.maine.gov/labor/labor_laws/publications/epcomplaintform.pdf" target="_blank">Equal Pay Complaint Form</a> (PDF)</li>
+            <li>Equal Pay Self-Audit Tool For Employers (<a href="publications/epaudit.doc"
+target="_blank">Word)</a> (<a href="publications/epaudit.pdf"
+target="_blank">PDF)</a></li>
+            <li><a href="https://www.maine.gov/labor/docs/2022/posters/equalpay_new.pdf" target="_blank">Equal Pay Poster</a> (PDF)</li>
+          </ul>
+          <h3>Family Medical Leave</h3>
+          <ul>
+            <li><a
+href="https://legislature.maine.gov/statutes/26/title26sec844.html" target="_blank">Relevant Statutes</a> (go to section 6-A) </li>
+            <li><a href="https://webapps.dol.gov/elaws/fmla.htm" target="_blank">Federal Family Medical Leave Law</a></li>
+          </ul>
+          <h3>Final Payment of Wages</h3>
+          <ul>
+            <li><a href="https://legislature.maine.gov/statutes/26/title26sec626.html"
+target="_blank">Relevant Statutes</a></li>
+            <li>Interpretive Guidance relating to the payout of accrued vacation time (<a href="/labor/docs/2022/laborlaws/BLSInterpretiveGuidancePolicy22-01.docx" target="_blank">Word</a>) (<a href="/labor/docs/2022/laborlaws/BLSInterpretiveGuidancePolicy22-01.pdf" target="_blank">PDF</a>)</li>
+            <li><a href="https://legislature.maine.gov/statutes/26/title26sec632.html" target="_blank">Wage Assurance Fund Statutes</a></li>
+            <li><a href="https://www.maine.gov/sos/cec/rules/12/170/170c003.doc">Wage Assurance Fund Rules</a> (Word)</li>
+          </ul>
+          <h3>Foreign Workers</h3>
+          <ul>
+            <li><a href="hiring_foreign_workers.html">Visit the Migrant and Immigrant Services Website</a></li>
+          </ul>
+          <h3>Independent Contractors</h3>
+          <ul>
+            <li><a href="https://www.maine.gov/labor/misclass/employmentstandard/index.shtml" target="_blank">Independent Contractor vs. Employee: What you Need to Know</a><a href="publications/indcontrbro.pdf"></a> <a href="Independent Contractor vs. Employee: What you Need to Know"></a></li>
+            <li><a href="publications/misclass.doc">Report on Misclassification of Workers in the Construction Industry</a> (Word)       </li>
+          </ul>
+          <p><strong>Minimum Pay for Reporting to Work</strong></p>
+          <ul>
+            <li><a href="../docs/2025/laborlaws/wagehour/LD598Minimumpayforreportingtowork.pdf" target="_blank">Relevant Statute</a> (PDF)</li>
+               <li><a href="../docs/2025/laborlaws/wagehour/NEWMinimumPayforReportingtoWorkguidance.pdf" target="_blank">Guidance</a> (PDF)</li>
+          </ul>
+        </div>
+  <div class="column">
+    
+    <h3>Minimum Wage &amp; Overtime</h3>
+    <ul>
+      <li><a href="minwagehistory.html">History of Maine's Minimum Wage</a></li>
+      <li><a href="https://legislature.maine.gov/statutes/26/title26sec603.html"
+target="_blank">Limits on Mandatory Overtime</a></li>
+      <li><a href="https://www.maine.gov/labor/posters/index.shtml" target="_blank">Minimum Wage Poster</a></li>
+      <li><a
+href="https://legislature.maine.gov/statutes/26/title26sec664.html" target="_blank">Relevant Statutes</a></li>
+      <li><a href="/labor/docs/2021/laborlaws/Salaried Workers Guidance rev 09.27.2021.pdf" target="_blank">Salaried Worker Guidance: A guideline to overtime requirements</a> (PDF)</li>
+      <li><a href="https://www.maine.gov/labor/docs/2019/laborlaws/minimumwage112019.pdf" target="_blank"></a><a href="../docs/2022/laborlaws/SalaryRules.pdf"
+target="_blank">Salary vs. Hourly Test: Rules Governing Definitions for Executive, Administrative, and Professional Exemptions from Minimum Wage and Overtime</a> (PDF)</li>
+      </ul>
+    <h3>Prevailing Wage on State Construction Projects</h3>
+    <ul>
+      <li><a
+href="https://legislature.maine.gov/legis/statutes/26/title26ch15sec0.html" target="_blank">Relevant Statutes</a></li>
+      <li><a href="../labor_stats/publications/wagerateconst/index.html"
+target="_blank">Current Construction Wage Rates</a></li>
+      <li><a href="https://www.maine.gov/sos/cec/rules/12/170/170c013.doc"
+target="_blank">Rules Relating to Fair Minimum Wage in Construction</a></li>
+      <li><a href="/labor/docs/2020/laborstats/2020OccupationalCodes.pdf" target="_blank">Occupational Codes</a> (PDF)</li>
+      </ul>
+    <h3>Rest Breaks</h3>
+    <ul>
+      <li><a
+href="https://legislature.maine.gov/statutes/26/title26sec601.html" target="_blank">Relevant Statutes</a></li>
+    </ul>
+    <h3>Safety</h3>
+    <ul>
+      <li><a href="../workplace_safety/publicsector.shtml">Visit the Public Sector Safety Enforcement Website</a></li>
+      <li><a href="http://www.safetyworksmaine.gov/" target="_blank">Visit the SafetyWorks! Website</a></li>
+      <li><a href="https://www.osha.gov" target="_blank">Visit the OSHA Website</a></li>
+      </ul>
+    <h3>Severance Pay</h3>
+    <ul>
+      <li><a
+href="https://legislature.maine.gov/statutes/26/title26sec625-B.html" target="_blank">Relevant Statutes</a></li>
+      <li><a href="https://www.maine.gov/sos/cec/rules/12/170/170c015.doc">Severance Pay Rules</a></li>
+      </ul>
+    <h3><strong>Sexual Harassment</strong></h3>
+    <ul>
+      <li><a href="../docs/2026/laborlaws/MaineBLSSexualHarassmentPreventionChecklist.pdf" target="_blank">Sexual Harassment Training Checklist</a> (PDF)</li>
+      <li><a href="/labor/posters/2017/sexual_harassment_poster.pdf" target="_blank">Sexual Harassment Training Poster</a> (PDF)</li>
+    </ul>
+    <h3>Substance Use Testing</h3>
+    <ul>
+      <li><a
+href="https://legislature.maine.gov/statutes/26/title26ch7sec0.html" target="_blank">Relevant Statutes (See Subchapter 3-A</a></li>
+      <li><a href="https://www.maine.gov/labor/labor_laws/substanceusetesting/"
+target="_blank">Model Substance Abuse Testing Policy and Reports</a></li>
+      <li><a href="https://www.maine.gov/sos/cec/rules/12/170/170c007.doc"
+target="_blank">Rules Relating to Substance Abuse Testing</a></li>
+      <li>Study of Employer Attitudes Toward Substance Abuse and Substance Abuse Testing Programs in Maine: <a
+href="../labor_stats/publications/substanceabuse/substanceabuseemployers.pdf">Adobe PDF version</a>, <a
+href="../labor_stats/publications/substanceabuse/substanceabuseemployers.doc">MS Word version</a></li>
+    </ul>
+    <h3>Unfair Agreements</h3>
+    <ul>
+      <li><a
+href="https://www.mainelegislature.org/legis/statutes/26/title26sec629.html">Related Statutes</a></li>
+    </ul>
+    <h3>The Wage and Hour Division also:</h3>
+    <ul>
+      <li>Consults on related labor laws</li>
+      <li>Provides speakers on wage and hour issues</li>
+      <li>Provides <a href="../posters/index.html" target="_blank">Required Labor Posters</a></li>
+      <li>Publishes <a href="https://www.maine.gov/labor/labor_laws/employeerightsguide/"
+target="_blank">Maine Employee Rights Guide</a> and <a
+href="publications/minorsguide.html" target="_blank">Guide to Maine Laws Governing the Employment of Minors</a></li>
+      <li><a href="https://legislature.maine.gov/statutes/26/title26ch7sec0.html"
+target="_blank">Title 26 Chapter 7</a> Maine laws governing employment practices</li>
+      <li><a href="https://me-newhire.com/" target="_blank">New Hire Reporting</a> is a process by which you, as an employer, report information on newly-hired employees to us within 7 days of the date of hire.  </li>
+    </ul>
+  </div>
+</div>
+    <!-- InstanceEndEditable --><!-- end editable maincontent --> 
+      
+    </div>
+    <!-- end maincontent --> 
+    
+	<!-- end rightcol --> 
+    </div><!-- end content id -->
+  
+   <footer id="footer" class="clearfix"> 
+  	<div class="sub-container">
+		<div class="footer_column">
+		  <h4>Stay Informed</h4>
+		  <p>Follow us on social media or sign up for email alerts.</p>
+		  <ul class="social-media">
+			<li class="facebook"><a href="https://www.facebook.com/MElabor/">Facebook</a></li>
+			<li class="twitter"><a href="https://twitter.com/maine_labor">Twitter</a></li>								
+			<li class="instagram"><a href="https://www.instagram.com/maine_dept_labor/?hl=en">Instagram</a></li>
+			<li class="govdelivery"><a href="https://public.govdelivery.com/accounts/MEDOL/subscriber/new">Email/SMS Updates</a></li>
+		</ul>
+		  	
+		  <h4>Credits</h4>
+		  <p>Copyright &copy; 2019<br>
+		  <p><img width="50" height="28" alt="This is the Maine Department of Labor's logo." src="https://www.maine.gov/labor/images/header_agency_logo_footer.jpg"></p>
+			All rights reserved.</p>
+		</div>
+		<div class="footer_column">
+		  <h4>Find it by Topic</h4>
+          <ul>
+            <li><a href="http://www.maine.gov/labor/labor_laws/publications/minorsguide.html">Child Labor Laws </a></li>
+  <li><a href="http://www.mainecareercenter.com">Employment and Training Services</a></li>
+  <li><a href="http://www.maine.gov/labor/posters/index.shtml">Free Labor Posters</a></li>
+  <li><a href="http://www.safetyworksmaine.com/consultations/">Workplace Safety   Consultations</a></li>
+  <li><a href="http://www.maine.gov/labor/cwri/index.html">Labor Market Information</a></li>
+  <li><a href="http://www.maine.gov/labor/labor_laws/index.html">Labor Laws</a></li>
+  <li><a href="http://www.maine.gov/rehab/">Rehabilitation/Disability Services</a></li>
+  <li><a href="http://www.maine.gov/unemployment/appeals/">Unemployment Appeals </a></li>
+  <li><a href="http://www.maine.gov/unemployment/">Unemployment Claims</a></li>
+  <li><a href="http://www.maine.gov/labor/cwri/laus.html">Unemployment Rate</a></li>
+  <li><a href="http://www.maine.gov/unemployment/employers/">Unemployment Tax </a></li>
+  <li><a href="http://www.maine.gov/labor/labor_laws/publications/minorsguide.html#Work">Work Permits</a></li>
+          </ul>
+		</div>
+		<div class="footer_column">
+		  <h4>Find it by Audience</h4>
+		  <p><a href="http://www.maine.gov/labor/for_workers/">Workers</a></p>
+<p><a href="http://www.maine.gov/labor/for_job_seekers/">Job Seekers</a></p>
+<p><a href="http://www.maine.gov/labor/for_employers/">Employers / Businesses</a></p>
+<h4>Contacts for Unemployment:</h4>
+<ul>
+  <li> Toll-Free: 1-800-593-7660 (Customer service available Mon-Fri, 8:00 a.m. to 3:00 p.m.) </li>
+  <li>TTY/Relay for Deaf and hard of hearing: Maine relay 711 </li>
+   <li><a href="https://www1.maine.gov/labor/contact/index.html" target="_blank">Submit an Online Inquiry</a></li>
+  </ul>
+<h4><a href="/labor/far/index.shtml">Department of Labor Freedom of Access Contact Information</a></h4>
+		</div>
+		<div class="footer_column">
+		  <h4>Find it by Agency</h4>
+<p><a href="http://www.maine.gov/labor/bes/">Bureau of Employment Services</a></p>
+<p><a href="http://www.maine.gov/labor/bls/">Bureau of Labor Standards</a></p>
+<p><a href="http://www.maine.gov/rehab">Bureau of Rehabilitation Services</a></p>
+<p><a href="https://www.maine.gov/paidleave/">Bureau of Paid Family and Medical Leave</a></p>
+<p><a href="https://www.maine.gov/unemployment/">The Bureau of Unemployment Compensation</a></p>
+<p><a href="http://www.maine.gov/labor/cwri/">Center for Workforce Research and Information</a></p>
+<p><a href="https://www.maine.gov/swb/index.html">The State Workforce Board</a></p>
+<p>&nbsp;</p>
+<p>The Department of Labor is an equal opportunity provider. Auxiliary aids and services are available to individuals with disabilities upon request.</p>
+		</div>
+		<div class="footer_column">
+		<h4>Services</h4>
+		 <p><a href="http://www.maine.gov/reemployme/"><img src="https://www.maine.gov/labor/inc/images/Reemploy_Maine_Final4.png" alt="File for Unemployment" width="150" height="35"></a></p>
+<p><a href="http://www.mainecareercenter.gov/"><img src="/labor/images/ccenterlogoamericanjobcenter2017.gif" alt="CareerCenter" width="150" height="41"></a></p>
+<p><a href="http://www.safetyworksmaine.gov/"><img src="https://www.maine.gov/labor/images/safetyworks.gif" alt="SafetyWorks!" width="150" height="80"></a></p>
+		</div>
+		<!-- end footer_column --> 
+	</div>
+  </footer> 
+</div><!-- end container id --> 
+
+<script type="text/javascript">
+  if($(window).width() <= 651){
+$('.sf-menu a').on('click touchend', function() {
+var el = $(this);
+var link = el.attr('href');
+window.location = link;
+});
+}
+</script>
+  
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HE2F8S6N54"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+  
+          gtag('config', 'G-HE2F8S6N54');
+          </script>
+  
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-TFVPRW63KM"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+  
+          gtag('config', 'G-TFVPRW63KM');
+          </script>
+</body>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38703455-1']);
+  _gaq.push(['_setDomainName', 'maine.gov']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57355819-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- InstanceEnd --></html>

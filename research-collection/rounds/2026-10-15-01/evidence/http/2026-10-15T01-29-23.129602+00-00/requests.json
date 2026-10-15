@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://www.maine.gov/portal/policies/disclaimer.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:29:23.172045+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "fetched",
+    "title": "Maine.gov: Content Disclaimer",
+    "sha256": "fff92a669f125904a5b0a24fc7e336054b3d489539f6c97735b7b3d0568e338f",
+    "bytes": 24590,
+    "body_path": "evidence/http/2026-10-15T01-29-23.129602+00-00/fff92a669f125904a5b0a24fc7e336054b3d489539f6c97735b7b3d0568e338f.body"
+  },
+  {
+    "url": "https://www.maine.gov/labor/posters/index.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:29:26.114612+00:00",
+    "http_status": 404,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_404",
+    "sha256": "722de35eccdef3f9c5df773498baaec04b87f5a06e64b538ee6287abc1c07519",
+    "bytes": 22618,
+    "body_path": "evidence/http/2026-10-15T01-29-23.129602+00-00/722de35eccdef3f9c5df773498baaec04b87f5a06e64b538ee6287abc1c07519.body"
+  },
+  {
+    "url": "https://www.maine.gov/ag/consumer/housing/home_construction.shtml",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:29:27.090312+00:00",
+    "http_status": 301,
+    "content_type": "text/html; charset=utf-8",
+    "etag": "\"1792018801\"",
+    "last_modified": "Wed, 14 Oct 2026 23:00:01 GMT",
+    "status": "redirect",
+    "location": "https://www.maine.gov/ag/consumer-protection/consumer-help-topics/housing/home-construction-and-repair"
+  },
+  {
+    "url": "https://www.maine.gov/ag/consumer-protection/consumer-help-topics/housing/home-construction-and-repair",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:29:31.100077+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": "\"1792018801\"",
+    "last_modified": "Wed, 14 Oct 2026 23:00:01 GMT",
+    "status": "fetched",
+    "title": "Home Construction and Repair | Attorney General",
+    "sha256": "c3bd4d0dc9eeecb083cde9e09accfea8839ddc16a7c8f1612185dca057e59c11",
+    "bytes": 56222,
+    "body_path": "evidence/http/2026-10-15T01-29-23.129602+00-00/c3bd4d0dc9eeecb083cde9e09accfea8839ddc16a7c8f1612185dca057e59c11.body"
+  },
+  {
+    "url": "https://www.oregon.gov/rea/brokerage/Pages/Buyer-Representation-Agreements.aspx",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:29:33.087662+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "etag": null,
+    "last_modified": "Thu, 15 Oct 2026 01:29:34 GMT",
+    "status": "soft_404",
+    "title": "\r\n\tOregon Real Estate Agency : Page not found : State of Oregon\r\n",
+    "sha256": "9de7a8a63dcf66436e4b68da11ba88283387ffe16fcdcc9cb6576bab36ca552f",
+    "bytes": 66617,
+    "body_path": "evidence/http/2026-10-15T01-29-23.129602+00-00/9de7a8a63dcf66436e4b68da11ba88283387ffe16fcdcc9cb6576bab36ca552f.body"
+  }
+]

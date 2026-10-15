@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.dre.ca.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:26:18.899604+00:00",
+    "http_status": 200,
+    "content_type": "text/plain",
+    "etag": "\"07a7bd8251dcf1:0\"",
+    "last_modified": "Wed, 29 Jan 2014 19:11:00 GMT",
+    "status": "fetched",
+    "sha256": "095fba6e9b7483fb2ee66b9240deb3e8438b7920fe0ce92b8bea6784d116c751",
+    "bytes": 89,
+    "body_path": "evidence/http/2026-10-15T01-26-18.872620+00-00/095fba6e9b7483fb2ee66b9240deb3e8438b7920fe0ce92b8bea6784d116c751.body"
+  },
+  {
+    "url": "https://www.dre.ca.gov/Forms/Disclosures.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:26:20.792186+00:00",
+    "http_status": 404,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_404",
+    "sha256": "dc1d54dab6ec8c00f70137927504e4f222c8395f10760b6beecfcfa94e08249f",
+    "bytes": 1245,
+    "body_path": "evidence/http/2026-10-15T01-26-18.872620+00-00/dc1d54dab6ec8c00f70137927504e4f222c8395f10760b6beecfcfa94e08249f.body"
+  },
+  {
+    "url": "https://www.dre.ca.gov/Forms/",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:26:21.534089+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "fetched",
+    "title": "Forms - DRE",
+    "sha256": "73a5633be12013b1f1b28019b139212996e0eebcdc323e0ab3d379051f2ecc70",
+    "bytes": 26021,
+    "body_path": "evidence/http/2026-10-15T01-26-18.872620+00-00/73a5633be12013b1f1b28019b139212996e0eebcdc323e0ab3d379051f2ecc70.body"
+  }
+]

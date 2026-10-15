@@ -1,0 +1,237 @@
+[
+  {
+    "url": "https://www.dre.ca.gov/Forms/Disclosure.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:25:38.419946+00:00",
+    "http_status": 404,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_404",
+    "sha256": "dc1d54dab6ec8c00f70137927504e4f222c8395f10760b6beecfcfa94e08249f",
+    "bytes": 1245,
+    "body_path": "evidence/http/2026-10-15T01-25-37.152949+00-00/dc1d54dab6ec8c00f70137927504e4f222c8395f10760b6beecfcfa94e08249f.body",
+    "receipt_file": "evidence/http/2026-10-15T01-25-37.152949+00-00/requests.json"
+  },
+  {
+    "url": "https://dopl.idaho.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:25:43.139042+00:00",
+    "status": "fetch_error",
+    "reason": "<urlopen error timed out>",
+    "receipt_file": "evidence/http/2026-10-15T01-25-37.152949+00-00/requests.json"
+  },
+  {
+    "url": "https://dopl.idaho.gov/rec/rec-licensee-resources/",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:26:01.584161+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T01-25-37.152949+00-00/requests.json"
+  },
+  {
+    "url": "https://llr.sc.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:26:01.600641+00:00",
+    "status": "fetch_error",
+    "reason": "<urlopen error timed out>",
+    "receipt_file": "evidence/http/2026-10-15T01-25-37.152949+00-00/requests.json"
+  },
+  {
+    "url": "https://llr.sc.gov/re/",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:26:19.698460+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T01-25-37.152949+00-00/requests.json"
+  },
+  {
+    "url": "https://forms.in.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:26:19.714730+00:00",
+    "http_status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_403",
+    "sha256": "e3f61c2e0cc69db26fae395638cc7d49d172236b62af102bc7924aa9f2a0db02",
+    "bytes": 4902,
+    "body_path": "evidence/http/2026-10-15T01-25-37.152949+00-00/e3f61c2e0cc69db26fae395638cc7d49d172236b62af102bc7924aa9f2a0db02.body",
+    "receipt_file": "evidence/http/2026-10-15T01-25-37.152949+00-00/requests.json"
+  },
+  {
+    "url": "https://forms.in.gov/Download.aspx?id=5231",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:26:20.692116+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T01-25-37.152949+00-00/requests.json"
+  },
+  {
+    "url": "https://www.dre.ca.gov/Forms/Disclosures.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:26:20.792186+00:00",
+    "http_status": 404,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_404",
+    "sha256": "dc1d54dab6ec8c00f70137927504e4f222c8395f10760b6beecfcfa94e08249f",
+    "bytes": 1245,
+    "body_path": "evidence/http/2026-10-15T01-26-18.872620+00-00/dc1d54dab6ec8c00f70137927504e4f222c8395f10760b6beecfcfa94e08249f.body",
+    "receipt_file": "evidence/http/2026-10-15T01-26-18.872620+00-00/requests.json"
+  },
+  {
+    "url": "https://www.dre.ca.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:26:58.002336+00:00",
+    "status": "fetch_error",
+    "reason": "<urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "receipt_file": "evidence/http/2026-10-15T01-26-57.976687+00-00/requests.json"
+  },
+  {
+    "url": "https://www.dre.ca.gov/Forms/Consumer.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:27:19.389791+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T01-26-57.976687+00-00/requests.json"
+  },
+  {
+    "url": "https://www.dre.ca.gov/Forms/MLB.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:27:19.404941+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T01-26-57.976687+00-00/requests.json"
+  },
+  {
+    "url": "https://www.dre.ca.gov/Forms/Miscellaneous.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:27:19.419457+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T01-26-57.976687+00-00/requests.json"
+  },
+  {
+    "url": "https://www.dre.ca.gov/Forms/AboutForms.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:27:19.434381+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T01-26-57.976687+00-00/requests.json"
+  },
+  {
+    "url": "https://www.dre.ca.gov/PrivacyPolicy.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:27:19.450713+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T01-26-57.976687+00-00/requests.json"
+  },
+  {
+    "url": "https://www.maine.gov/pfr/professionallicensing/professions/real-estate-commission/forms",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:27:20.315820+00:00",
+    "http_status": 404,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": null,
+    "last_modified": null,
+    "status": "fetch_error",
+    "reason": "The read operation timed out",
+    "receipt_file": "evidence/http/2026-10-15T01-26-57.976687+00-00/requests.json"
+  },
+  {
+    "url": "https://arec.alabama.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:28:27.256438+00:00",
+    "status": "fetch_error",
+    "reason": "<urlopen error timed out>",
+    "receipt_file": "evidence/http/2026-10-15T01-28-19.205641+00-00/requests.json"
+  },
+  {
+    "url": "https://arec.alabama.gov/pages/forms.aspx",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:28:50.623929+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T01-28-19.205641+00-00/requests.json"
+  },
+  {
+    "url": "https://arec.alabama.gov/pages/laws/StatutoryChanges.aspx",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:28:50.639432+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T01-28-19.205641+00-00/requests.json"
+  },
+  {
+    "url": "https://www.maine.gov/labor/posters/index.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:29:26.114612+00:00",
+    "http_status": 404,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_404",
+    "sha256": "722de35eccdef3f9c5df773498baaec04b87f5a06e64b538ee6287abc1c07519",
+    "bytes": 22618,
+    "body_path": "evidence/http/2026-10-15T01-29-23.129602+00-00/722de35eccdef3f9c5df773498baaec04b87f5a06e64b538ee6287abc1c07519.body",
+    "receipt_file": "evidence/http/2026-10-15T01-29-23.129602+00-00/requests.json"
+  },
+  {
+    "url": "https://www.maine.gov/ag/consumer/housing/home_construction.shtml",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:29:27.090312+00:00",
+    "http_status": 301,
+    "content_type": "text/html; charset=utf-8",
+    "etag": "\"1792018801\"",
+    "last_modified": "Wed, 14 Oct 2026 23:00:01 GMT",
+    "status": "redirect",
+    "location": "https://www.maine.gov/ag/consumer-protection/consumer-help-topics/housing/home-construction-and-repair",
+    "receipt_file": "evidence/http/2026-10-15T01-29-23.129602+00-00/requests.json"
+  },
+  {
+    "url": "https://www.oregon.gov/rea/brokerage/Pages/Buyer-Representation-Agreements.aspx",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:29:33.087662+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "etag": null,
+    "last_modified": "Thu, 15 Oct 2026 01:29:34 GMT",
+    "status": "soft_404",
+    "title": "\r\n\tOregon Real Estate Agency : Page not found : State of Oregon\r\n",
+    "sha256": "9de7a8a63dcf66436e4b68da11ba88283387ffe16fcdcc9cb6576bab36ca552f",
+    "bytes": 66617,
+    "body_path": "evidence/http/2026-10-15T01-29-23.129602+00-00/9de7a8a63dcf66436e4b68da11ba88283387ffe16fcdcc9cb6576bab36ca552f.body",
+    "receipt_file": "evidence/http/2026-10-15T01-29-23.129602+00-00/requests.json"
+  },
+  {
+    "url": "https://www.maine.gov/ag/sites/maine.gov.ag/files/documents/CLG%2017-%20Model%20Home%20Construction%20Contract.docx",
+    "kind": "document",
+    "checked_at": "2026-10-15T01:32:40.777101+00:00",
+    "status": "fetch_error",
+    "reason": "<urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "receipt_file": "evidence/http/2026-10-15T01-32-40.761224+00-00/requests.json"
+  },
+  {
+    "url": "https://www.maine.gov/ag/sites/maine.gov.ag/files/documents/CLG%2017-%20Home%20Construction%20Contracts%20Addendum.docx",
+    "kind": "document",
+    "checked_at": "2026-10-15T01:33:02.206744+00:00",
+    "status": "fetch_error",
+    "reason": "<urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "receipt_file": "evidence/http/2026-10-15T01-32-40.761224+00-00/requests.json"
+  },
+  {
+    "url": "https://www.maine.gov/labor/labor_laws/publications/2018/work_permit_072018.pdf",
+    "kind": "document",
+    "checked_at": "2026-10-15T01:33:24.463369+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "etag": "\"221f9-5e4cbbb2ee732\"",
+    "last_modified": "Wed, 27 Jul 2022 16:15:53 GMT",
+    "status": "fetch_error",
+    "reason": "The read operation timed out",
+    "receipt_file": "evidence/http/2026-10-15T01-32-40.761224+00-00/requests.json"
+  }
+]

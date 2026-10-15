@@ -1,0 +1,193 @@
+{
+  "checked_at": "2026-10-15T01:43:11.133012+00:00",
+  "status": "passed",
+  "baseline_tracked_files_preserved": 1497,
+  "baseline_unique_originals": 493,
+  "new_unique_originals": 20,
+  "combined_unique_originals": 513,
+  "formats": {
+    "docx": 4,
+    "pdf": 16
+  },
+  "states": {
+    "Maine": 18,
+    "Oregon": 2
+  },
+  "state_family_keys": 18,
+  "sha256_duplicates": 0,
+  "local_catalog_links_checked": 44,
+  "browser_check": "passed",
+  "remote": "https://github.com/ronronner02/us-legal-templates.git",
+  "head": "097131330b2c9f057a8f31037f3191a36f020d6d",
+  "branch": "library/organized-snapshot",
+  "commit_created": false,
+  "pushed": false,
+  "files": [
+    {
+      "path": "originals/ME/home-construction-change-order-9d7484165de2.docx",
+      "sha256": "9d7484165de209a1de59d87a251e899aa5fff5406e59795255a679f4c49a268c",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/brokerage-relationships-704ba40b8eae.pdf",
+      "sha256": "704ba40b8eae340c7d9da466c9adf61fe666e7426568cf37a762a419ea5fecd9",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/age-verification-798f59d2ff8f.pdf",
+      "sha256": "798f59d2ff8f704b9fb59b89626be216477ba872b40ab3f9caae07becfe5c60a",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/equal-pay-complaint-16040b4aadf5.pdf",
+      "sha256": "16040b4aadf5c30d45583b1bd1d38b67ad3df0191946d40805792f28fbd85b62",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/equal-pay-self-audit-793915357bd8.pdf",
+      "sha256": "793915357bd888c49f1a82d13afe29ea2c4d6ec799fc508c2e5e21aae87c21a5",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/certified-payroll-d8897025fce7.pdf",
+      "sha256": "d8897025fce799bf806c2a7831724c19ec23cc5684e4cc7d36139754cc59cfd2",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/minimum-wage-2026-435668a0b4a6.pdf",
+      "sha256": "435668a0b4a6690749c3f8dfcd97af73bec55bf8468a3063f966f5b3ff8314ee",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/minimum-wage-2027-05776c5a98e9.pdf",
+      "sha256": "05776c5a98e935b115021e6d535dd753165cf8aace65564400543d4b62d56f3f",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/paid-family-medical-leave-bd47ce32d44e.pdf",
+      "sha256": "bd47ce32d44e0c0657b8f733a86feaee14d7498d602057b09a8328ceb22a7168",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/religious-political-meetings-notice-fdd6c069e406.pdf",
+      "sha256": "fdd6c069e406747145c7484d9d39abeac28e32f75d6adcac15c7b314d3cf7701",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/sexual-harassment-training-checklist-df4145cba537.pdf",
+      "sha256": "df4145cba537dda9bf2cce80d2034341dd3577eb9bbc0ad8a3e5528076e3a3f7",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/employer-surveillance-rights-45a89911e4c0.pdf",
+      "sha256": "45a89911e4c0842cb42d7dc8bb17c9a2bd00b05cb3abe9ce85b944f851e746f5",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/equal-pay-notice-17e25a30f0c2.pdf",
+      "sha256": "17e25a30f0c244e43894da54207ac0d8f4f099e15c55f0c2d104dddf79ef8db6",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/child-labor-notice-dfdb8ed1b9fd.pdf",
+      "sha256": "dfdb8ed1b9fddf141f1989da15243a1641887d3155a65e572ad9bf1e19f1784c",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/regulation-of-employment-notice-76236d98ea84.pdf",
+      "sha256": "76236d98ea84f40c1b0e71366d95f8898ab5aeaa7d2d74a9cbd6dbf5318acd4c",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/OR/initial-agency-disclosure-a87b14453917.pdf",
+      "sha256": "a87b1445391786f016788020c59cd7c739003ac5ff0eb14903d3ba538930be3d",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/OR/sample-initial-agency-disclosure-4caa3769778a.docx",
+      "sha256": "4caa3769778a8d2256280562e6ca5cced29ce52fff83d0584fda3e8de226402b",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/home-construction-contract-90381aa39d15.docx",
+      "sha256": "90381aa39d15f1806e19f99e3f880e2324a55b2ea6d90a03c8497a152fa7a862",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/home-construction-required-addendum-aa91caa9681b.docx",
+      "sha256": "aa91caa9681b54ae3e4ed4d3428d987056ed7f2119ed406662fccc4502b98dbb",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/ME/minor-work-permit-application-d002919bc195.pdf",
+      "sha256": "d002919bc1959bb1b35f4977342fb73b695ba77ee254e8ea5bed8bb2241e287e",
+      "parser": "passed",
+      "identity": "passed",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    }
+  ],
+  "limitations": [
+    "No full-library semantic deduplication.",
+    "No visual rendering, OCR, signature validation, or office rendering.",
+    "Legal, currency, reuse, and publication reviews remain pending.",
+    "Generated catalog received a manual scope, provenance, escaping, link, and review-limit scan; no independent code review was run."
+  ]
+}

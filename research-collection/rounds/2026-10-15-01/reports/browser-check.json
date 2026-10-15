@@ -1,0 +1,253 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T01:42:59.212Z",
+  "url": "http://127.0.0.1:8769/index.html",
+  "checks": [
+    {
+      "name": "initial files",
+      "value": 20,
+      "status": "passed"
+    },
+    {
+      "name": "Oregon filter",
+      "value": 2,
+      "status": "passed"
+    },
+    {
+      "name": "combined filters",
+      "value": 0,
+      "status": "passed"
+    },
+    {
+      "name": "no-match message",
+      "value": true,
+      "status": "passed"
+    },
+    {
+      "name": "clear filters",
+      "value": 20,
+      "status": "passed"
+    },
+    {
+      "name": "search",
+      "value": 1,
+      "status": "passed"
+    },
+    {
+      "name": "no-match search",
+      "value": 0,
+      "status": "passed"
+    },
+    {
+      "name": "upcoming edition",
+      "value": 1,
+      "status": "passed"
+    },
+    {
+      "name": "upcoming year",
+      "value": 2027,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 72105,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 232420,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 64943,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 112129,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 95846,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 68343,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 20909,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 84056,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 50003,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 269400,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 17795,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 24094,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 74862,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 63037,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 113095,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 134990,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 264320,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 139769,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 153280,
+      "status": "passed"
+    },
+    {
+      "name": "original HTTP response",
+      "value": 200,
+      "status": "passed"
+    },
+    {
+      "name": "document magic bytes",
+      "value": 42278,
+      "status": "passed"
+    }
+  ],
+  "original_urls_checked": 20
+}
