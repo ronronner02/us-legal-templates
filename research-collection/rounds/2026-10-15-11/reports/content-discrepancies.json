@@ -1,0 +1,37 @@
+[
+  {
+    "type": "source_and_pdf_title_variation",
+    "key": "ri-small-claims-complaint-self-represented",
+    "source_label": "Small Claims Lawsuit - Complaint (Self-represented Litigant - With Instructions)",
+    "printed_heading": "Small Claims Lawsuit (Self-represented Litigant)",
+    "decision": "Retain source title and printed-heading distinction. Identity confirmed through DC-SC-1 and substantive claim sections."
+  },
+  {
+    "type": "instruction_scope_label",
+    "key": "ri-small-claims-answer-attorney",
+    "source_label": "Attorney - No Instructions",
+    "evidence": "PDF page 2 contains numbered procedural directions including answer timing and service.",
+    "decision": "Source label retained; do not interpret No Instructions as an absence of procedural directions."
+  },
+  {
+    "type": "repeated_step_label",
+    "key": "ri-small-claims-answer-self-represented",
+    "evidence": [
+      "Step 5: The court will refer the case to mediation",
+      "Step 5: Prepare for trial"
+    ],
+    "decision": "Repeated Step 5 labels preserved; no correction to original."
+  },
+  {
+    "type": "older_guide_and_newer_packet_process_difference",
+    "keys": [
+      "ri-small-claims-instructions",
+      "ri-small-claims-answer-self-represented"
+    ],
+    "evidence": [
+      "October 2021 guide: clerk office will schedule the case for trial after answer.",
+      "October 2024 answer packet: mediation followed by trial preparation if unsuccessful."
+    ],
+    "decision": "Preserve both source accounts; current process, fees, deadlines and legal applicability require review. No determination of which statement governs."
+  }
+]

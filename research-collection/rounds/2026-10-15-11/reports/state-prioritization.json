@@ -1,0 +1,91 @@
+{
+  "baseline_distinct_originals": 726,
+  "count_method": "Distinct baseline original SHA-256 hashes mapped through historical combined and subsequent inventories. Empty state code means non-state material.",
+  "baseline_counts": {
+    "AK": 2,
+    "MS": 2,
+    "UT": 2,
+    "AZ": 3,
+    "CT": 3,
+    "FL": 3,
+    "IN": 3,
+    "MI": 3,
+    "MN": 3,
+    "NC": 3,
+    "ND": 3,
+    "HI": 4,
+    "NH": 4,
+    "OH": 4,
+    "VT": 4,
+    "WY": 4,
+    "GA": 5,
+    "RI": 5,
+    "AL": 6,
+    "AR": 6,
+    "NM": 6,
+    "KS": 7,
+    "KY": 7,
+    "MO": 7,
+    "ID": 8,
+    "IL": 9,
+    "NY": 10,
+    "SC": 10,
+    "TX": 10,
+    "VA": 10,
+    "IA": 12,
+    "PA": 12,
+    "SD": 12,
+    "TN": 12,
+    "LA": 14,
+    "MT": 15,
+    "CA": 16,
+    "DE": 16,
+    "WV": 16,
+    "NJ": 17,
+    "WA": 17,
+    "NV": 18,
+    "OR": 19,
+    "NE": 23,
+    "OK": 25,
+    "MA": 27,
+    "WI": 29,
+    "": 31,
+    "ME": 58,
+    "CO": 82,
+    "MD": 99
+  },
+  "evaluated": [
+    {
+      "state_code": "RI",
+      "baseline": 5,
+      "decision": "Five small-claims originals selected; general catalog exposes only first ten forms in static and normal browser display."
+    },
+    {
+      "state_code": "AL",
+      "baseline": 6,
+      "decision": "Robots HTTP 302 redirects to homepage. Verification stopped; no source or original requests."
+    },
+    {
+      "state_code": "KY",
+      "baseline": 7,
+      "decision": "Fifteen fresh English civil and small-claims originals selected."
+    }
+  ],
+  "selection_rule": "Prefer low-count states while retaining inherited host stops and permission holds.",
+  "acquired_by_state": {
+    "KY": 15,
+    "RI": 5
+  },
+  "before_after": {
+    "KY": {
+      "before": 7,
+      "added": 15,
+      "after": 22
+    },
+    "RI": {
+      "before": 5,
+      "added": 5,
+      "after": 10
+    }
+  }
+}

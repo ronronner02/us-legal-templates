@@ -1,0 +1,22 @@
+{
+  "policies": [
+    {
+      "url": "https://www.kentucky.gov/policies/Pages/default.aspx",
+      "body_path": "evidence/http/browser-sources/9baab2e5db34b3c585585224d749d8ecc4bfe1a91a06b4acd0b34ea35409c86a.body"
+    },
+    {
+      "url": "https://www.kentucky.gov/policies/Pages/disclaimer.aspx",
+      "body_path": "evidence/http/browser-sources/d993af3b3d801c1084e7054ad989a7731800f6a956e988cb52ce91587db05547.body"
+    }
+  ],
+  "findings": [
+    "Kentucky court catalog states that improper use or alteration beyond completion without removing the commonwealth seal and AOC number is prohibited; originals retained unmodified. This is not a general reuse license.",
+    "Kentucky linked privacy/security and disclaimer pages captured. Legal notice concerns copyright complaints and third-party trademarks; general commercial reuse permission is not established.",
+    "Kentucky policy host redirected robots to its www host, which returned HTTP 404. Only policy-source retrieval treated that as robots absent; court and original paths used separate successful court-host robots verification.",
+    "Rhode Island captured pages show a judiciary footer but no general reuse grant. Source and blank originals retained for review; publication and commercial permission remain unverified.",
+    "Attorney versions labeled No Instructions may still contain procedural directions. Blank originals are not legal advice or evidence of a filing."
+  ],
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "original_modification": false
+}

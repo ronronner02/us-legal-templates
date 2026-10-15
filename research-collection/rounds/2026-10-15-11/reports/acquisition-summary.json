@@ -1,0 +1,14 @@
+{
+  "selected_candidates": 20,
+  "document_attempts": 20,
+  "acquired_originals": 20,
+  "by_state": {
+    "Kentucky": 15,
+    "Rhode Island": 5
+  },
+  "pages": 43,
+  "original_bytes": 4916912,
+  "transport": "Sequential ordinary requests with at least two seconds between recorded starts; response bodies and headers retained.",
+  "unresolved_download_failures": 0,
+  "resolved_identity_label_variations": 1
+}

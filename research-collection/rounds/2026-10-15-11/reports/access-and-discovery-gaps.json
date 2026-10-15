@@ -1,0 +1,100 @@
+{
+  "requests": [
+    {
+      "url": "https://eforms.alacourt.gov/robots.txt",
+      "resolved_url": "https://eforms.alacourt.gov/robots.txt",
+      "checked_at": "2026-10-15T08:47:52.372Z",
+      "http_status": 302,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "location": "https://eforms.alacourt.gov/",
+        "server": "Microsoft-IIS/10.0",
+        "date": "Thu, 15 Oct 2026 08:47:52 GMT",
+        "content-length": "151"
+      },
+      "kind": "robots",
+      "transport": "ordinary_browser_fetch",
+      "status": "http_302",
+      "sha256": "f3e2fd6f5546ab152846ba975676eac09e480047d6f1e0e7282766dfd14f8471",
+      "bytes": 151,
+      "body_path": "evidence/http/browser-sources/f3e2fd6f5546ab152846ba975676eac09e480047d6f1e0e7282766dfd14f8471.body",
+      "receipt_file": "evidence/http/browser-sources/requests.json"
+    },
+    {
+      "url": "https://kentucky.gov/robots.txt",
+      "resolved_url": "https://kentucky.gov/robots.txt",
+      "checked_at": "2026-10-15T08:49:14.485Z",
+      "http_status": 301,
+      "content_type": "",
+      "headers": {
+        "content-length": "0",
+        "date": "Thu, 15 Oct 2026 08:49:17 GMT",
+        "location": "https://www.kentucky.gov/robots.txt",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "request-context": "appId=cid-v1:730e8d87-d3fb-4532-9d2e-fd8d3a640bb1",
+        "content-security-policy": "default-src 'self'; script-src: 'self'",
+        "referrer-policy": "no-referrer",
+        "x-xss-protection": "1; mode=block",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff"
+      },
+      "kind": "robots",
+      "transport": "ordinary_browser_fetch",
+      "status": "http_301",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "body_path": "evidence/http/browser-sources/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.body",
+      "receipt_file": "evidence/http/browser-sources/requests.json"
+    },
+    {
+      "url": "https://www.kentucky.gov/robots.txt",
+      "resolved_url": "https://www.kentucky.gov/robots.txt",
+      "checked_at": "2026-10-15T08:50:13.404Z",
+      "http_status": 404,
+      "content_type": "text/html",
+      "headers": {
+        "date": "Thu, 15 Oct 2026 08:50:15 GMT",
+        "content-type": "text/html",
+        "content-length": "642",
+        "connection": "keep-alive",
+        "set-cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\nApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\n_InfoPath_Sentinel=; path=/",
+        "cache-control": "public",
+        "expires": "Wed, 30 Sep 2026 08:50:15 GMT",
+        "x-sharepointhealthscore": "0",
+        "public-extension": "http://schemas.microsoft.com/repl-2",
+        "sprequestguid": "e10e45a2-8cbe-b05c-6baa-25f1c4a5d2f9",
+        "request-id": "e10e45a2-8cbe-b05c-6baa-25f1c4a5d2f9",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "sprequestduration": "22",
+        "spiislatency": "11",
+        "x-powered-by": "ASP.NET",
+        "microsoftsharepointteamservices": "16.0.0.20326",
+        "x-content-type-options": "nosniff",
+        "x-ms-invokeapp": "1; RequireReadOnly",
+        "x-azure-ref": "20261015T085015Z-15c55f579859j6gkhC1LAXyqqs00000001yg00000000kzat",
+        "x-fd-int-roxy-purgeid": "64413890",
+        "x-cache": "TCP_MISS"
+      },
+      "kind": "robots",
+      "transport": "ordinary_browser_fetch",
+      "status": "http_404",
+      "sha256": "3b7b444fc853403ab5064fb2453f7ed8ec7f37462b25f6838ce52646e9d7d14e",
+      "bytes": 642,
+      "body_path": "evidence/http/browser-sources/3b7b444fc853403ab5064fb2453f7ed8ec7f37462b25f6838ce52646e9d7d14e.body",
+      "receipt_file": "evidence/http/browser-sources/requests.json"
+    }
+  ],
+  "source_gaps": [
+    {
+      "host": "eforms.alacourt.gov",
+      "reason": "Robots HTTP 302 points to homepage, not a verified robots policy. No source or original requests."
+    },
+    {
+      "host": "www.courts.ri.gov",
+      "reason": "General forms catalog exposes ten initial entries in static response and normal browser display. No unobserved pagination or list API used."
+    }
+  ],
+  "all_inherited_host_stops_and_holds": "preserved"
+}

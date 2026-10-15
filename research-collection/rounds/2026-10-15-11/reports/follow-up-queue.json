@@ -1,0 +1,42 @@
+[
+  {
+    "owner": "collection reviewer",
+    "task": "Inspect CFF-font warnings with a compatible renderer and verify complete extracted text without replacing preserved originals or initial extraction.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Reconcile Rhode Island guide, newer attorney/self-represented packets and current rules; check fees, timing, mediation, service and appeal clauses.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review repeated Step 5 labels and source No Instructions label against embedded directions.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Confirm current Kentucky existing complaint, eFiling categories, exceptions, execution rights and complete packet dependencies.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review original fields, visual appearance, signatures, notarizations and court acceptance.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review copyright, commonwealth-seal/form-number conditions, permitted reuse and publication scope.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Continue research in low-count states while preserving all access stops and permission holds.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Refresh the historical 658-document root overview only in a separately scoped update.",
+    "status": "pending"
+  }
+]

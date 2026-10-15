@@ -1,0 +1,25 @@
+{
+  "resolved": [
+    {
+      "key": "ri-small-claims-complaint-self-represented",
+      "initial_identity_patterns": [
+        "SMALL CLAIMS",
+        "COMPLAINT"
+      ],
+      "initial_result": false,
+      "reason": "Source and filename use Complaint; PDF heading uses Small Claims Lawsuit and statement-of-claim sections.",
+      "resolved_patterns": [
+        "DC-SC-1",
+        "Small\\s+Claims\\s+Lawsuit",
+        "Self-represented\\s+Litigant",
+        "Statement\\s+and\\s+Reason\\s+for\\s+Claim",
+        "Signature\\s+and\\s+Notary"
+      ],
+      "printed_identifier": "DC-SC-1",
+      "status": "identity_confirmed_from_identifier_title_and_sections",
+      "original_bytes_modified": false
+    }
+  ],
+  "all_originals_identity_verified": true,
+  "collection_keys_are_not_official_numbers": true
+}

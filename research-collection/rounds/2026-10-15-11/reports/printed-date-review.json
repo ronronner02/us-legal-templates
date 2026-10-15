@@ -1,0 +1,229 @@
+{
+  "printed_labels_verified": 20,
+  "kentucky_source_and_printed_matches": 15,
+  "rhode_island_source_revision_not_listed": 5,
+  "date_labels": [
+    {
+      "key": "AOC-026",
+      "source_listed_revision": "10-22",
+      "printed_revision": "10-22",
+      "evidence": {
+        "matched_text": "Rev. 10-22",
+        "text_path": "extracted-text/070d21d9283dd9c8beffd9b6ca241878def6d775011aabf88d1bfa6b718047ea.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "AOC-104",
+      "source_listed_revision": "1-24",
+      "printed_revision": "1-24",
+      "evidence": {
+        "matched_text": "Rev. 1-24",
+        "text_path": "extracted-text/1e0d73eb2260528560b342026608bbe36508eab0e0992b029382fe7af126cb6e.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "AOC-108",
+      "source_listed_revision": "11-22",
+      "printed_revision": "11-22",
+      "evidence": {
+        "matched_text": "Rev. 11-22",
+        "text_path": "extracted-text/a9a09211cbdc3dd7383d700ec382b52bb629831cfc3b752fba917e3df9e26657.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "AOC-110",
+      "source_listed_revision": "6-13",
+      "printed_revision": "6-13",
+      "evidence": {
+        "matched_text": "Rev.\t6-13",
+        "text_path": "extracted-text/a79cb21db9488fb2a29dbcbc23a5e23b8129a7deeeee3af24366524c6ebc8cf3.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "AOC-115",
+      "source_listed_revision": "2-16",
+      "printed_revision": "2-16",
+      "evidence": {
+        "matched_text": "Rev. 2-16",
+        "text_path": "extracted-text/f6b54fe6fde73652276e74f8ad83afd03f6f30046fe1deb8517144229b8bee85.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "AOC-120",
+      "source_listed_revision": "11-09",
+      "printed_revision": "11-09",
+      "evidence": {
+        "matched_text": "Rev. 11-09",
+        "text_path": "extracted-text/2ccf6edae2ba81bbad734312758b0defb8cafa310aab3e9e5b80557ade4ca2da.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "AOC-125",
+      "source_listed_revision": "10-07",
+      "printed_revision": "10-07",
+      "evidence": {
+        "matched_text": "Rev. 10-07",
+        "text_path": "extracted-text/2838567c6de3dd89fda87d0123143064fc203f74ee05dca24847fbb7d523fa92.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "AOC-130",
+      "source_listed_revision": "1-14",
+      "printed_revision": "1-14",
+      "evidence": {
+        "matched_text": "Rev. 1-14",
+        "text_path": "extracted-text/29f130bbebaa125be50107855ac954ca558b91ed3e5abe5f6fe3f53574f16d88.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "AOC-135",
+      "source_listed_revision": "6-14",
+      "printed_revision": "6-14",
+      "evidence": {
+        "matched_text": "Rev.\t 6-14",
+        "text_path": "extracted-text/11c841a7a71089c8112728986953a4a4f2647418cbcb811435fda2bbd4d50227.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "AOC-135.1",
+      "source_listed_revision": "8-03",
+      "printed_revision": "8-03",
+      "evidence": {
+        "matched_text": "Rev.\t8-03",
+        "text_path": "extracted-text/a95464fca5cd3d3d208eb3e7c302c867458edf1d080bcdaba6a46d3be7166fec.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "AOC-180",
+      "source_listed_revision": "4-26",
+      "printed_revision": "4-26",
+      "evidence": {
+        "matched_text": "Rev.\t4-26",
+        "text_path": "extracted-text/770f6f01bf7d899ebc1a49cbf4ae7ca7c731e7ce3e98c2eaad955324f0e01f98.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "AOC-185",
+      "source_listed_revision": "4-26",
+      "printed_revision": "4-26",
+      "evidence": {
+        "matched_text": "Rev. 4-26",
+        "text_path": "extracted-text/7fe0cfdd0670ec160a247707fcf0498c4cfe9f2d7db11a7962c8d83b302e6c62.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "AOC-190",
+      "source_listed_revision": "4-26",
+      "printed_revision": "4-26",
+      "evidence": {
+        "matched_text": "Rev. 4-26",
+        "text_path": "extracted-text/aef71cba6ee065d936f971e369377e6bda233bfec392a68f4f599cbc353de73d.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "AOC-191",
+      "source_listed_revision": "6-17",
+      "printed_revision": "6-17",
+      "evidence": {
+        "matched_text": "Rev. 6-17",
+        "text_path": "extracted-text/138d31624ca05fd3c5a70035f4bae9dd73082a315558a6f3ef4a0486367a71c6.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "AOC-191.1",
+      "source_listed_revision": "6-17",
+      "printed_revision": "6-17",
+      "evidence": {
+        "matched_text": "Rev. 6-17",
+        "text_path": "extracted-text/c883ad6e410aee7b0cf74a6515b3d6b2dd054b1ee01aca023e5bfb5333fc0af3.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": true
+    },
+    {
+      "key": "ri-small-claims-instructions",
+      "source_listed_revision": null,
+      "printed_revision": "October 2021",
+      "evidence": {
+        "matched_text": "Revised October 2021",
+        "text_path": "extracted-text/daf28f53e99f7aca3092d7c89c156187cd203737061c5e0c1f9eec75983550ae.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": "not_listed"
+    },
+    {
+      "key": "ri-small-claims-complaint-self-represented",
+      "source_listed_revision": null,
+      "printed_revision": "January 2025",
+      "evidence": {
+        "matched_text": "revised January 2025",
+        "text_path": "extracted-text/e1000a04c56d2a5c6e4df1472cb7892743d78bac685811fbaeb4276dc1a6b36d.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": "not_listed"
+    },
+    {
+      "key": "ri-small-claims-answer-self-represented",
+      "source_listed_revision": null,
+      "printed_revision": "October 2024",
+      "evidence": {
+        "matched_text": "revised October 2024",
+        "text_path": "extracted-text/f17373b64a6a8c50943bdd2f734ef4caa5f6d81e2a3da393f49bb6c8c00a0809.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": "not_listed"
+    },
+    {
+      "key": "ri-small-claims-complaint-attorney",
+      "source_listed_revision": null,
+      "printed_revision": "October 2024",
+      "evidence": {
+        "matched_text": "revised October 2024",
+        "text_path": "extracted-text/7191b1486bdefb75a2ebeb5aeb1420bf88aa757c82f41bdf4345ae1571a0ac36.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": "not_listed"
+    },
+    {
+      "key": "ri-small-claims-answer-attorney",
+      "source_listed_revision": null,
+      "printed_revision": "October 2024",
+      "evidence": {
+        "matched_text": "revised October 2024",
+        "text_path": "extracted-text/71363de83051b1ace0600a2f225b2d417e5b1f59214b04b296e94bf0b183e228.txt",
+        "interpretation": "Printed revision label, not independently verified legal effective date."
+      },
+      "source_match": "not_listed"
+    }
+  ],
+  "legal_effective_dates_independently_verified": false,
+  "http_dates_used_as_revision_dates": false
+}

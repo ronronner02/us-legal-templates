@@ -1,0 +1,201 @@
+{
+  "parser_passed_originals": 20,
+  "warning_originals": 13,
+  "warnings": [
+    {
+      "key": "AOC-026",
+      "warning_type": "missing_optional_font_decoding_dependency",
+      "warning_count": 6,
+      "warnings_preserved_in": "inventory.json",
+      "page_text_review": [
+        {
+          "page": 1,
+          "text_length": 2640,
+          "replacement_characters": 0
+        },
+        {
+          "page": 2,
+          "text_length": 1542,
+          "replacement_characters": 0
+        },
+        {
+          "page": 3,
+          "text_length": 1724,
+          "replacement_characters": 0
+        }
+      ],
+      "status": "review_pending"
+    },
+    {
+      "key": "AOC-104",
+      "warning_type": "missing_optional_font_decoding_dependency",
+      "warning_count": 3,
+      "warnings_preserved_in": "inventory.json",
+      "page_text_review": [
+        {
+          "page": 1,
+          "text_length": 3071,
+          "replacement_characters": 0
+        }
+      ],
+      "status": "review_pending"
+    },
+    {
+      "key": "AOC-108",
+      "warning_type": "missing_optional_font_decoding_dependency",
+      "warning_count": 3,
+      "warnings_preserved_in": "inventory.json",
+      "page_text_review": [
+        {
+          "page": 1,
+          "text_length": 2549,
+          "replacement_characters": 0
+        }
+      ],
+      "status": "review_pending"
+    },
+    {
+      "key": "AOC-110",
+      "warning_type": "missing_optional_font_decoding_dependency",
+      "warning_count": 3,
+      "warnings_preserved_in": "inventory.json",
+      "page_text_review": [
+        {
+          "page": 1,
+          "text_length": 1521,
+          "replacement_characters": 0
+        }
+      ],
+      "status": "review_pending"
+    },
+    {
+      "key": "AOC-115",
+      "warning_type": "missing_optional_font_decoding_dependency",
+      "warning_count": 3,
+      "warnings_preserved_in": "inventory.json",
+      "page_text_review": [
+        {
+          "page": 1,
+          "text_length": 1135,
+          "replacement_characters": 0
+        }
+      ],
+      "status": "review_pending"
+    },
+    {
+      "key": "AOC-120",
+      "warning_type": "missing_optional_font_decoding_dependency",
+      "warning_count": 3,
+      "warnings_preserved_in": "inventory.json",
+      "page_text_review": [
+        {
+          "page": 1,
+          "text_length": 2192,
+          "replacement_characters": 0
+        }
+      ],
+      "status": "review_pending"
+    },
+    {
+      "key": "AOC-130",
+      "warning_type": "missing_optional_font_decoding_dependency",
+      "warning_count": 3,
+      "warnings_preserved_in": "inventory.json",
+      "page_text_review": [
+        {
+          "page": 1,
+          "text_length": 2374,
+          "replacement_characters": 0
+        }
+      ],
+      "status": "review_pending"
+    },
+    {
+      "key": "AOC-135.1",
+      "warning_type": "missing_optional_font_decoding_dependency",
+      "warning_count": 3,
+      "warnings_preserved_in": "inventory.json",
+      "page_text_review": [
+        {
+          "page": 1,
+          "text_length": 2570,
+          "replacement_characters": 0
+        }
+      ],
+      "status": "review_pending"
+    },
+    {
+      "key": "AOC-180",
+      "warning_type": "missing_optional_font_decoding_dependency",
+      "warning_count": 3,
+      "warnings_preserved_in": "inventory.json",
+      "page_text_review": [
+        {
+          "page": 1,
+          "text_length": 3179,
+          "replacement_characters": 0
+        }
+      ],
+      "status": "review_pending"
+    },
+    {
+      "key": "AOC-185",
+      "warning_type": "missing_optional_font_decoding_dependency",
+      "warning_count": 3,
+      "warnings_preserved_in": "inventory.json",
+      "page_text_review": [
+        {
+          "page": 1,
+          "text_length": 3040,
+          "replacement_characters": 0
+        }
+      ],
+      "status": "review_pending"
+    },
+    {
+      "key": "AOC-190",
+      "warning_type": "missing_optional_font_decoding_dependency",
+      "warning_count": 3,
+      "warnings_preserved_in": "inventory.json",
+      "page_text_review": [
+        {
+          "page": 1,
+          "text_length": 2003,
+          "replacement_characters": 0
+        }
+      ],
+      "status": "review_pending"
+    },
+    {
+      "key": "AOC-191",
+      "warning_type": "missing_optional_font_decoding_dependency",
+      "warning_count": 3,
+      "warnings_preserved_in": "inventory.json",
+      "page_text_review": [
+        {
+          "page": 1,
+          "text_length": 2097,
+          "replacement_characters": 0
+        }
+      ],
+      "status": "review_pending"
+    },
+    {
+      "key": "AOC-191.1",
+      "warning_type": "missing_optional_font_decoding_dependency",
+      "warning_count": 3,
+      "warnings_preserved_in": "inventory.json",
+      "page_text_review": [
+        {
+          "page": 1,
+          "text_length": 1301,
+          "replacement_characters": 0
+        }
+      ],
+      "status": "review_pending"
+    }
+  ],
+  "replacement_characters": 0,
+  "visual_rendering": "not_run",
+  "complete_transcription": "pending"
+}

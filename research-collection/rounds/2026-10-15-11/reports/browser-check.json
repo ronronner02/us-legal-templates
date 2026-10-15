@@ -1,0 +1,189 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T08:58:33.180Z",
+  "catalog_checks": 18,
+  "checks": [
+    "initial count",
+    "state:KY=15",
+    "state:RI=5",
+    "category:civil_procedure=10",
+    "category:small_claims=10",
+    "use:court_motion=2",
+    "use:court_form=4",
+    "use:court_affidavit=2",
+    "use:court_order_template=5",
+    "use:court_summons=2",
+    "use:agency_guide=1",
+    "use:court_complaint=2",
+    "use:court_answer=2",
+    "combined state/category/form number",
+    "combined state/category/use/search",
+    "empty count",
+    "empty message",
+    "reset restores all"
+  ],
+  "original_urls_checked": 20,
+  "original_checks": [
+    {
+      "key": "AOC-026",
+      "url": "originals/KY/aoc-026-070d21d9283d.pdf",
+      "http_status": 200,
+      "bytes": 297156,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "AOC-104",
+      "url": "originals/KY/aoc-104-1e0d73eb2260.pdf",
+      "http_status": 200,
+      "bytes": 261903,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "AOC-108",
+      "url": "originals/KY/aoc-108-a9a09211cbdc.pdf",
+      "http_status": 200,
+      "bytes": 186602,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "AOC-110",
+      "url": "originals/KY/aoc-110-a79cb21db948.pdf",
+      "http_status": 200,
+      "bytes": 738181,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "AOC-115",
+      "url": "originals/KY/aoc-115-f6b54fe6fde7.pdf",
+      "http_status": 200,
+      "bytes": 126846,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "AOC-120",
+      "url": "originals/KY/aoc-120-2ccf6edae2ba.pdf",
+      "http_status": 200,
+      "bytes": 184569,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "AOC-125",
+      "url": "originals/KY/aoc-125-2838567c6de3.pdf",
+      "http_status": 200,
+      "bytes": 459902,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "AOC-130",
+      "url": "originals/KY/aoc-130-29f130bbebaa.pdf",
+      "http_status": 200,
+      "bytes": 145099,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "AOC-135",
+      "url": "originals/KY/aoc-135-11c841a7a710.pdf",
+      "http_status": 200,
+      "bytes": 192942,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "AOC-135.1",
+      "url": "originals/KY/aoc-135.1-a95464fca5cd.pdf",
+      "http_status": 200,
+      "bytes": 209353,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "AOC-180",
+      "url": "originals/KY/aoc-180-770f6f01bf7d.pdf",
+      "http_status": 200,
+      "bytes": 181436,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "AOC-185",
+      "url": "originals/KY/aoc-185-7fe0cfdd0670.pdf",
+      "http_status": 200,
+      "bytes": 242838,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "AOC-190",
+      "url": "originals/KY/aoc-190-aef71cba6ee0.pdf",
+      "http_status": 200,
+      "bytes": 188205,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "AOC-191",
+      "url": "originals/KY/aoc-191-138d31624ca0.pdf",
+      "http_status": 200,
+      "bytes": 163050,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "AOC-191.1",
+      "url": "originals/KY/aoc-191.1-c883ad6e410a.pdf",
+      "http_status": 200,
+      "bytes": 145237,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "ri-small-claims-instructions",
+      "url": "originals/RI/small-claims-instructions-daf28f53e99f.pdf",
+      "http_status": 200,
+      "bytes": 195216,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "ri-small-claims-complaint-self-represented",
+      "url": "originals/RI/small-claims-complaint-self-represented-e1000a04c56d.pdf",
+      "http_status": 200,
+      "bytes": 284211,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "ri-small-claims-answer-self-represented",
+      "url": "originals/RI/small-claims-answer-self-represented-f17373b64a6a.pdf",
+      "http_status": 200,
+      "bytes": 283085,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "ri-small-claims-complaint-attorney",
+      "url": "originals/RI/small-claims-complaint-attorney-7191b1486bde.pdf",
+      "http_status": 200,
+      "bytes": 218956,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    },
+    {
+      "key": "ri-small-claims-answer-attorney",
+      "url": "originals/RI/small-claims-answer-attorney-71363de83051.pdf",
+      "http_status": 200,
+      "bytes": 212125,
+      "signature": "%PDF-",
+      "preserved_response_bytes": "matched"
+    }
+  ],
+  "scope": "Local searchable catalog controls, counts, empty/reset and original response byte equality; no original visual rendering or legal applicability review."
+}

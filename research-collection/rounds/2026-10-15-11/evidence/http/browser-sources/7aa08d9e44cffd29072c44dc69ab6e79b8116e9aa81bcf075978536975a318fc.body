@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /*AllItems.aspx
+Disallow: /Lists/

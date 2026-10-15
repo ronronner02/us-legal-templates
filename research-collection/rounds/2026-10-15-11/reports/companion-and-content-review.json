@@ -1,0 +1,38 @@
+{
+  "groups": {
+    "Kentucky small claims": [
+      "AOC-180",
+      "AOC-185",
+      "AOC-190",
+      "AOC-191",
+      "AOC-191.1"
+    ],
+    "Kentucky execution": [
+      "AOC-130",
+      "AOC-135",
+      "AOC-135.1"
+    ],
+    "Rhode Island small claims": [
+      "ri-small-claims-instructions",
+      "ri-small-claims-complaint-self-represented",
+      "ri-small-claims-answer-self-represented",
+      "ri-small-claims-complaint-attorney",
+      "ri-small-claims-answer-attorney"
+    ]
+  },
+  "distinctions": [
+    "Complaint versus summons versus counterclaim versus judgment",
+    "Motion for satisfaction versus order entering satisfaction",
+    "Execution versus affidavit challenging execution",
+    "Fee-waiver motion and affidavit versus judicial order",
+    "Attorney versus self-represented variants sharing DC-SC-1 or DC-SC-2"
+  ],
+  "missing_or_unverified": [
+    "Existing Kentucky AOC-175 complaint currency and all packet dependencies",
+    "Current rules, fees, delivery/service, filing and court acceptance",
+    "Military-service evidence, notarization and complete execution where required",
+    "Entered court orders, judgments and prior records"
+  ],
+  "complete_packet_verified": false,
+  "full_library_semantic_deduplication": "not_performed"
+}
