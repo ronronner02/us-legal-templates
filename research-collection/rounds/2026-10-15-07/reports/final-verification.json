@@ -1,0 +1,287 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T06:55:06.638209+00:00",
+  "baseline_tracked_files_preserved": 2193,
+  "baseline_unique_originals": 633,
+  "new_unique_originals": 25,
+  "combined_unique_originals": 658,
+  "states": {
+    "Maryland": 25
+  },
+  "formats": {
+    "pdf": 25
+  },
+  "state_family_keys": 25,
+  "sha256_duplicates": 0,
+  "request_bodies_hash_checked": 29,
+  "local_catalog_links_checked": 54,
+  "browser_check": "passed",
+  "head": "fe796edea428bdb9967b97fada2c15fcd83d9858",
+  "branch": "library/organized-snapshot",
+  "remote": "https://github.com/ronronner02/us-legal-templates.git",
+  "new_round_committed": false,
+  "new_round_pushed": false,
+  "files": [
+    {
+      "path": "originals/MD/cc-dc-dv-001-d2898f99c57c.pdf",
+      "sha256": "d2898f99c57c9713d0f31e170357edf9896e04c27114a2390b9ba6846be2edc4",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-dv-001a-f57c97732952.pdf",
+      "sha256": "f57c97732952897263b7d31854413825826882156846eea026706bc0bc4184bb",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-dv-001b-4dadbae10427.pdf",
+      "sha256": "4dadbae10427ee18da9a3493e1097a98eec933c833470f66d533d17dc2a41f88",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-dv-004-7e60f0f133b6.pdf",
+      "sha256": "7e60f0f133b668dc3720266253c9285237dad4353a20ed6df326b4646fec3571",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-dv-006-90ae4c090245.pdf",
+      "sha256": "90ae4c0902458391a361e0ce7e036bdeebd46c897decec75f4f7b361a4194b1f",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-dv-016-585a823a0f9c.pdf",
+      "sha256": "585a823a0f9cd36d0a0e62aea9774d293a903c21b67f47193ccf4d6a77f9194c",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-dv-018-454019e0b0b0.pdf",
+      "sha256": "454019e0b0b0ee8b1a6eb010547ae26d88d7838b965a391347f28af7e7deb1ab",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-dv-019-675ff7899364.pdf",
+      "sha256": "675ff78993641dfde25aa63564e40092f0f8f1d886f43b21721babe557690a04",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-dv-021a-09609aa579dd.pdf",
+      "sha256": "09609aa579dd38ffd6e114626078df9458d5fc701e1613edb0ca76ae330d0755",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-dv-021b-dd534c3fe47b.pdf",
+      "sha256": "dd534c3fe47bbfa313a359fb1c817ce8ac3e29a604208e6885326ba43130bded",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-dv-007-74daa8fb21a8.pdf",
+      "sha256": "74daa8fb21a86c5cf065fe78137442c38569e62c63631dca520acab56eb391c5",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-dv-025-f011d6a5a5c6.pdf",
+      "sha256": "f011d6a5a5c6fc03f43e5afe7d899a7e01ad38c85f12c1f7e68c5ddac7bbfeee",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-dv-026-cac55b419c66.pdf",
+      "sha256": "cac55b419c66c6e9da0ab86f17721f92cfbcd2ccd3bb0cc01541897a2851d408",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-po-001a-7b4e78a7a3ff.pdf",
+      "sha256": "7b4e78a7a3ffb9aa1c1115f49a17e04067029c77a1318181fa121bac7b326019",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-po-006-1ccc6a9a2b56.pdf",
+      "sha256": "1ccc6a9a2b5649956c13755d506cf4935b774fe7061e0860ab70d163c969ab00",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-po-016a-3eac4f68783d.pdf",
+      "sha256": "3eac4f68783d904a90198b45e3c0be515e0ccd7fe70f0fa840de80d2e8fb55ba",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-po-016b-50ea22af62a1.pdf",
+      "sha256": "50ea22af62a1ffbc5fd42fae94a7bcf16278b58c89f61a4a2ecd2ef66ac8de64",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-po-019-6991708fa38c.pdf",
+      "sha256": "6991708fa38c250aa04d3af67a72ef235a008510c8b56670ff2bbeb36385f979",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-po-021-911c0c1e2977.pdf",
+      "sha256": "911c0c1e2977d622e470ce49d4f47fa41e62d6fa2b8b7755b859b116b07663e2",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-po-001-76669d5aa8df.pdf",
+      "sha256": "76669d5aa8df66fb1643191ff789cb69cc5c9158412b9d2147c16de4eab1b27c",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-001-397181ea2c4d.pdf",
+      "sha256": "397181ea2c4da50757a0db60b6a8ae915d51caa2d2f8c1272d853947cd183a8a",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-002-5d850ad00e42.pdf",
+      "sha256": "5d850ad00e42c43788acba896fe02450d6b29bcf7acb29c1413a4a7d56f04f7d",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-003-ce2597e44d2a.pdf",
+      "sha256": "ce2597e44d2a63111c8c5c00ece00b71456ac4bd3c506142b7b7e23fdb23c20b",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-060-ece4c7f85300.pdf",
+      "sha256": "ece4c7f85300a22e44e83e76f527b8de6a430a8d0b3de0f684405a52bfe7d227",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-062-fdafd0695cc0.pdf",
+      "sha256": "fdafd0695cc00d5eac9613423792f6620af23331f357da6d1372d5135ed32152",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    }
+  ],
+  "limitations": [
+    "No visual rendering, OCR, office rendering, or signature validation.",
+    "Printed revision text checked. Visual layout, interactive fields, calculations, signatures, legal currency, complete packets, reuse, and publication approval remain pending. Scope and footer discrepancies are recorded for review.",
+    "No full-library semantic deduplication.",
+    "Catalog generated and manually reviewed for scope, provenance, escaping, links, and stated limits. Independent code review was not run."
+  ],
+  "delivery_state_scope": "Pre-commit verification checkpoint for round 07; the Git branch records subsequent delivery. Baseline round 06 was already pushed and verified.",
+  "original_bytes_unmodified": true,
+  "source_revision_mismatches": [],
+  "content_discrepancies": [
+    {
+      "form_code": "CC-GN-002",
+      "type": "catalog_and_original_scope_difference",
+      "source_description": "Use this form to ask the court to award guardianship over an individual, regardless of the individual’s age, who has a disability. Learn about the alternatives to guardianship before filing a petition .",
+      "original_evidence": "If the subject of the petition is a minor including a disabled minor, use the form petition set forth in Rule 10-111.",
+      "text_path": "extracted-text/5d850ad00e42c43788acba896fe02450d6b29bcf7acb29c1413a4a7d56f04f7d.txt",
+      "status": "review_pending"
+    },
+    {
+      "form_code": "CC-DR-062",
+      "type": "inconsistent_original_footer_form_code",
+      "matched_text": "CC-DC-062 (Rev. 01/2023) Page 4 of 4",
+      "text_path": "extracted-text/fdafd0695cc00d5eac9613423792f6620af23331f357da6d1372d5135ed32152.txt",
+      "status": "review_pending"
+    }
+  ],
+  "acquisition_summary": {
+    "selected_candidates": 25,
+    "acquired_originals": 25,
+    "document_attempts": 26,
+    "resolved_redirect_responses": 1,
+    "unresolved_document_failures": 0,
+    "transport": "Sequential ordinary browser requests with at least two seconds between document requests, after successful robots verification. Response bodies and metadata retained.",
+    "unresolved_candidates": [],
+    "inherited_holds": "Preserved unchanged; no held-host requests made."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "requested_codes": [
+    "CC-DC-DV-001",
+    "CC-DC-DV-001A",
+    "CC-DC-DV-001B",
+    "CC-DC-DV-004",
+    "CC-DC-DV-006",
+    "CC-DC-DV-007",
+    "CC-DC-DV-016",
+    "CC-DC-DV-018",
+    "CC-DC-DV-019",
+    "CC-DC-DV-021A",
+    "CC-DC-DV-021B",
+    "CC-DC-DV-025",
+    "CC-DC-DV-026",
+    "CC-DC-PO-001A",
+    "CC-DC-PO-006",
+    "CC-DC-PO-016A",
+    "CC-DC-PO-016B",
+    "CC-DC-PO-019",
+    "CC-DC-PO-021",
+    "DC-PO-001",
+    "CC-GN-001",
+    "CC-GN-002",
+    "CC-GN-003",
+    "CC-DR-060",
+    "CC-DR-062"
+  ],
+  "selected": 25,
+  "existing_url_skips": [],
+  "normalization": "URL-decoded, lowercased, and trailing slash removed; screened against the permanent base catalog and every research inventory."
+}

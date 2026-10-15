@@ -1,0 +1,19 @@
+{
+  "reviewed_at": "2026-10-15T06:54:26.980296+00:00",
+  "source_url": "https://www.mdcourts.gov/family/family-forms",
+  "policy_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+  "policy_evidence": [
+    {
+      "body_path": "evidence/http/browser-sources/d330237b09485846137f032bb8e1a9cdee7e372b63ecd0b84f9550d5205245d5.body",
+      "receipt_file": "evidence/http/browser-sources/requests.json"
+    }
+  ],
+  "findings": [
+    "Robots verification succeeded; selected catalog, terms, original, and redirect destination paths were allowed for the collection user agent.",
+    "Terms discuss reading, printing, or downloading information; the footer reserves copyright. Download availability is not interpreted as a general reuse grant.",
+    "No external interview was used, no personal information entered, and no case submitted.",
+    "Printed revision month/year agrees with the catalog for all 25 originals; scope and footer discrepancies are recorded separately. Legal currency and filing acceptance remain unverified."
+  ],
+  "reuse_review": "pending",
+  "publication_status": "not-approved"
+}

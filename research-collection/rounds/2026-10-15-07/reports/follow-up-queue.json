@@ -1,0 +1,32 @@
+[
+  {
+    "owner": "collection reviewer",
+    "task": "Review captured copyright, reuse, modification, commercial rights, and publication approval.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Render originals and inspect layout, fields, calculations, signatures, legal currency, and court filing requirements.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review the CC-GN-002 catalog age description against its original instructions and CC-DR-062 inconsistent last-page footer.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review MDJ-008, release, certificate-of-service, name-change consent/objection, alternate-service, and case-specific attachments; this is not a verified complete filing packet.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Preserve protective/peace order, denied-dismissed/consented shielding, petition/addendum/guidance, guardianship, and adult/minor name-change distinctions. Full-library semantic deduplication remains pending.",
+    "status": "pending"
+  },
+  {
+    "owner": "future research round",
+    "task": "Retain inherited permission holds and access stops, including hostname aliases, and prior unresolved Wisconsin revision/cross-reference findings.",
+    "status": "held"
+  }
+]

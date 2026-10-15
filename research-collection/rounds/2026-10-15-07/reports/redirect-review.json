@@ -1,0 +1,66 @@
+{
+  "status": "resolved",
+  "actions": [
+    {
+      "state": "Maryland",
+      "state_code": "MD",
+      "scope": "statewide",
+      "publisher": "Maryland Judiciary",
+      "source_url": "https://www.mdcourts.gov/family/family-forms",
+      "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv007.pdf/ccdcdv007.pdf",
+      "source_link_title": "Petition for Contempt (Violation of Protective Order)",
+      "title": "Petition for Contempt (Violation of Protective Order)",
+      "slug": "cc-dc-dv-007",
+      "category": "protective_orders",
+      "family_id": "CC-DC-DV-007",
+      "form_code": "CC-DC-DV-007",
+      "identity_patterns": [
+        "CC[-\\s]*DC[-\\s]*DV[-\\s]*007"
+      ],
+      "source_listed_revision": "07/2026",
+      "source_description": "Use this form if you believe a respondent has violated a protective order. Learn more .",
+      "source_row_text": "CC-DC-DV-007 Petition for Contempt (Violation of Protective Order) 07/2026 Use this form if you believe a respondent has violated a protective order. Learn more .",
+      "usage_classification": "court_procedural_form",
+      "selection_reason": "Fresh official English protective-order, peace-order, guardianship, or name-change original, with procedural roles retained separately.",
+      "notes": "Use this form if you believe a respondent has violated a protective order. Learn more .",
+      "checked_at": "2026-10-15T06:43:34.145Z",
+      "attempt": 1,
+      "receipt": {
+        "url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv007.pdf/ccdcdv007.pdf",
+        "resolved_url": "https://www.mdcourts.gov/sites/default/files/court-forms/courtforms/joint/ccdcdv007.pdf/ccdcdv007.pdf",
+        "checked_at": "2026-10-15T06:43:34.145Z",
+        "http_status": 301,
+        "content_type": "text/html; charset=utf-8",
+        "headers": {
+          "date": "Thu, 15 Oct 2026 06:43:35 GMT",
+          "content-type": "text/html; charset=utf-8",
+          "transfer-encoding": "chunked",
+          "connection": "keep-alive",
+          "server": "cloudflare",
+          "x-powered-by": "PHP/8.3.33",
+          "x-redirect-id": "4419",
+          "content-language": "en",
+          "x-content-type-options": "nosniff",
+          "x-frame-options": "SAMEORIGIN",
+          "expires": "Thu, 15 Oct 2026 10:43:35 GMT",
+          "cache-control": "public, max-age=14400",
+          "vary": "Cookie",
+          "x-generator": "Drupal 10 (https://www.drupal.org)",
+          "x-drupal-cache": "MISS",
+          "location": "http://www.mdcourts.gov/sites/default/files/import/courtforms/joint/ccdcdv007.pdf",
+          "last-modified": "Thu, 15 Oct 2026 06:43:35 GMT",
+          "cf-cache-status": "MISS",
+          "cf-ray": "a4acd9adedfa0465-HKG"
+        },
+        "kind": "document",
+        "transport": "ordinary_browser_fetch",
+        "status": "http_301",
+        "sha256": "b397a9c327ec3b5a509211d2e5d6e74cc03336fb8ca10565faf01a4b7d5243c8",
+        "bytes": 570,
+        "body_path": "evidence/http/browser-documents/b397a9c327ec3b5a509211d2e5d6e74cc03336fb8ca10565faf01a4b7d5243c8.body"
+      },
+      "status": "http_301"
+    }
+  ],
+  "resolution": "Same official hostname and server-supplied path followed using HTTPS after destination screening. Both response receipts retained. Not a transport retry."
+}

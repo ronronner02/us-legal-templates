@@ -1,0 +1,219 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T06:55:01.730Z",
+  "original_urls_checked": 25,
+  "checks": [
+    {
+      "test": "initial_count",
+      "count": 25
+    },
+    {
+      "test": "state",
+      "value": "MD",
+      "count": 25
+    },
+    {
+      "test": "category",
+      "value": "guardianship",
+      "count": 3
+    },
+    {
+      "test": "category",
+      "value": "name_change",
+      "count": 2
+    },
+    {
+      "test": "category",
+      "value": "peace_orders",
+      "count": 7
+    },
+    {
+      "test": "category",
+      "value": "protective_orders",
+      "count": 13
+    },
+    {
+      "test": "use",
+      "value": "court_procedural_form",
+      "count": 23
+    },
+    {
+      "test": "use",
+      "value": "financial_statement_or_worksheet",
+      "count": 1
+    },
+    {
+      "test": "use",
+      "value": "procedural_guidance",
+      "count": 1
+    },
+    {
+      "test": "combined_filters",
+      "count": 1
+    },
+    {
+      "test": "form_code_search",
+      "count": 1
+    },
+    {
+      "test": "no_match",
+      "count": 0
+    }
+  ],
+  "originals": [
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-po-001a-7b4e78a7a3ff.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 194034
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-gn-003-ce2597e44d2a.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 901427
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-001b-4dadbae10427.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 144008
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-004-7e60f0f133b6.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 98798
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-po-019-6991708fa38c.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 184921
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-025-f011d6a5a5c6.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 91627
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-006-90ae4c090245.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 863573
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dr-062-fdafd0695cc0.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 336310
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dr-060-ece4c7f85300.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 106212
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-007-74daa8fb21a8.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 877610
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-gn-002-5d850ad00e42.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 316587
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-gn-001-397181ea2c4d.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 277856
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/dc-po-001-76669d5aa8df.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 797029
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-018-454019e0b0b0.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 64679
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-001-d2898f99c57c.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 332261
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-po-006-1ccc6a9a2b56.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 850811
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-001a-f57c97732952.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 207703
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-019-675ff7899364.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 142505
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-016-585a823a0f9c.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 34050
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-po-016b-50ea22af62a1.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 848065
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-021b-dd534c3fe47b.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 836219
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-po-016a-3eac4f68783d.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 850015
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-021a-09609aa579dd.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 852420
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-dv-026-cac55b419c66.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 211203
+    },
+    {
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-07/originals/MD/cc-dc-po-021-911c0c1e2977.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 212042
+    }
+  ],
+  "page_errors": [],
+  "limitations": [
+    "Catalog interactions and original URL bytes checked; PDF visual rendering, interactive fields, and legal acceptance not tested."
+  ]
+}
