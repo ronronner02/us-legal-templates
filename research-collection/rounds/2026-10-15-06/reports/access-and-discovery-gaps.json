@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://www.wicourts.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T04:29:17.425691+00:00",
+    "status": "fetch_error",
+    "reason": "[Errno 11001] getaddrinfo failed",
+    "receipt_file": "evidence/http/2026-10-15T04-29-17.387816+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/forms1/circuit/index.htm",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:29:28.506498+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T04-29-17.387816+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/disclaimer.htm",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:29:28.527474+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T04-29-17.387816+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/forms1/circuit/mandatory.htm",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:29:28.545620+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T04-29-17.387816+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:29:28.561887+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T04-29-17.387816+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?page=2&FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:29:28.577524+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T04-29-17.387816+00-00/requests.json"
+  }
+]

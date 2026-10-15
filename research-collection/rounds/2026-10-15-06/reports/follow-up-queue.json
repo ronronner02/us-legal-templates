@@ -1,0 +1,27 @@
+[
+  {
+    "owner": "collection reviewer",
+    "task": "Review copyright, permitted reuse, and publication approval using captured official terms and document notices.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Render originals; test interactive fields, worksheet calculations, signatures, legal currency, service steps, and court-specific filing acceptance.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review restricted-information notices and the referenced MDJ-008 companion. These files are not a verified complete filing packet.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Preserve parenting-plan, joint-statement, financial-statement, worksheet, complaint/counterclaim, and agreement distinctions. Full-library semantic deduplication remains incomplete.",
+    "status": "pending"
+  },
+  {
+    "owner": "future research round",
+    "task": "Retain inherited holds and access stops plus this round Wisconsin robots verification stop, including hostname aliases. Prior round SC-5130V discrepancy and SC-6030V cross-reference remain unresolved.",
+    "status": "held"
+  }
+]

@@ -1,0 +1,374 @@
+GENERAL INSTRUCTIONS 
+DOMESTIC RELATIONS AND GUARDIANSHIP FORMS 
+(Form CC-DRIN) 
+Use the CC-DR and CC-GN Forms if you do not have a lawyer and need to file papers for family law 
+cases. These cases include child custody or visitation, child support, divorce, alimony, name change, 
+contempt, and guardianship. These Instructions answer the following questions: 
+DO I NEED A LAWYER?  ............................................................................................. 1 
+WHAT LEGAL RESOURCES ARE AVAILABLE?  ................................................. 1 
+WHERE SHOULD I FILE MY CASE?  ....................................................................... 2 
+HOW MUCH WILL THIS COST?  .............................................................................. 3 
+HOW DO I START MY CASE?  ................................................................................... 3 
+WHAT IS SERVICE OF PROCESS?  .......................................................................... 4 
+HOW DO I SERVE SOMEONE .................................................................................... 4 
+WHAT IF SERVICE IS NOT MADE? .......................................................................... 4 
+WHAT HAPPENS AFTER SERVICE IS MADE?  ..................................................... 5 
+WHAT HAPPENS NEXT?  ............................................................................................ 5 
+WHAT HAPPENS IN COURT?  ................................................................................... 5 
+WHAT HAPPENS AFTER COURT?  .......................................................................... 6 
+GLOSSARY OF COMMON LEGAL TERMS ............................................................ 7 
+DO I NEED A LAWYER? 
+The answer is probably YES if: 
+• The case is contested, and the other side (opposing party) has a lawyer. 
+• You do not have an address for or cannot locate the other side to serve them with your papers. 
+• This is a child custody case and there is a dispute about who should have custody. 
+• This is a divorce case and either side has a house, pension / retirement account, or a large amount of 
+property or income.  
+• This is a divorce after a long-term marriage and / or you want alimony. 
+• This is an annulment case. 
+NOTE: You may speak with or hire a lawyer at any time during your case. Hiring a lawyer at the 
+last minute is usually not grounds for a postponement of your hearing or trial date. Many lawyers 
+may not accept a case close to a hearing or trial date if they believe there is not enough time to 
+prepare. 
+WHAT LEGAL RESOURCES ARE AVAILABLE? 
+Court Clerks - Clerks cannot give legal advice, complete forms, or tell you how to complete forms, but 
+they can give you information about where to file your papers, the filings costs, and resources and 
+services that are available. 
+CC-DRIN (Rev. 07/2026) Page 1 of 9 
+Maryland Court Help Center - The Court Help Center is staffed by lawyers who provide free help by 
+phone or chat. They cannot represent you in court.  
+Hours: Monday-Friday, 8:30 a.m. to 8:00 p.m. 
+Telephone: (410) 260-1392 
+Live Chat: Accessed directly from mdcourts.gov/helpcenter 
+Family Law Help Centers/Family Law Help/Pro Se Assistance - Each circuit court offers information, 
+assistance, or referrals. Services vary by court. Court Help Center attorneys and staff cannot represent you 
+in court or complete forms. 
+Family Services Programs - Services differ by court, and may include custody evaluators, mediators, 
+and more. Visit mdcourts.gov/family for information. 
+The People’s Law Library of Maryland (peoples-law.org) - This website offers legal self-help 
+information. The website also includes links to resources for free or reduced-fee lawyer referrals. 
+Family Law Hotline - This Hotline is staffed by lawyers and is free to low-income callers. Hotline 
+lawyers give information about Maryland family law to help you understand your rights and legal 
+options. Hotline lawyers cannot represent you in court but can give you information about Maryland 
+family law and may give you the phone number of a lawyer referral service. 
+Hours: Monday-Friday, 9:30 a.m. to 4:30 p.m. 
+Telephone: 1-800-845-8550 
+Court Help Video Library - available at mdcourts.gov/videos. 
+Maryland Law Help App - This is a free mobile app that includes links to self-help videos, court form 
+finders, access to legal help by phone or chat, public law libraries, mediation resources, and more. 
+Visit: mdcourts.gov/legalhelp/mobileapp 
+WHERE SHOULD I FILE MY CASE? 
+The type of case determines where to file your case. If you are unsure about where to file, speak with a 
+lawyer or seek assistance through one of the above-mentioned resources. 
+• ANNULMENT: in the circuit court in the county where you live, in the county where the marriage 
+was performed, OR in the circuit court in the county where your spouse lives or works. 
+• DIVORCE: in the circuit court in the county where you live OR in the circuit court in the county 
+where your spouse lives or works. 
+• CHILD CUSTODY, VISITATION, or CHILD SUPPORT: in the circuit court in the county 
+where the child(ren), either parent, or alleged parent lives. Different procedures may apply if the 
+child(ren) currently live(s) outside of Maryland.  
+• CHANGE OF NAME: in the circuit court in the county where you live. 
+• PETITION FOR GUARDIANSHIP: in the circuit court in the county where the minor or alleged 
+disabled person lives or, if they are not a Maryland resident, in the county in which they are 
+physically present in Maryland. If you are requesting guardianship of the property, you may also 
+file the petition in any circuit court in the county in which the minor or alleged disabled person has 
+property such as a house. 
+CC-DRIN (Rev. 07/2026) Page 2 of 9 
+• PETITION FOR PROTECTION FROM DOMESTIC VIOLENCE: in either the circuit or 
+district court in your county. 
+• ANSWER (to a complaint, petition, or motion): in the court where the complaint, petition or 
+motion was filed. 
+• REQUEST TO MODIFY or ENFORCE (by contempt filing): a court order in the same court 
+and under the same case number as the existing case. A request to modify reopens the initial case. 
+There may be other options to file if either party has moved to another county. 
+• MOTION FOR RESTORATION OF FORMER NAME: in the same court and under the same 
+case number as your absolute divorce case. 
+HOW MUCH WILL THIS COST? 
+There are filing fees for all cases except Protection from Domestic Violence cases, and a Motion for 
+Restoration of Former Name. You must prepay these fees before the court will open your case. 
+If you cannot afford the filing fees, ask the court to waive them at the beginning of your case by filing a 
+Request for Waiver of Costs (CC-DC-089) with your initial papers. If the court grants your request, you 
+will not pay the fees at the time of filing and your case will move forward. If the court denies your 
+request, you have ten (10) days to pay the filing fee. If you do not pay the fees, your case will not move 
+forward. Contact your county’s court clerk, or visit mdcourts.gov/circuit/feeschedule for a list of filing 
+fees and costs. 
+If you are granted a Waiver of Costs, you may be required to pay court fees and costs at the end of your 
+case. If there are still outstanding court fees and costs at the end of your case and you can’t afford to pay 
+the fees, you may ask the court to waive them at the end of the final hearing in your case or by filing a 
+Request for Final Waiver of Open Costs (CC-DC-090). For information about fee waivers, visit: 
+mdcourts.gov/legalhelp/filingfeewaivers. 
+There is a fee if you have the Sheriff’s Office serve your papers on the opposing party (See “WHAT IS 
+SERVICE OF PROCESS?”). The court clerk will provide you with fee information. If you are granted a 
+waiver of prepayment of fees, this usually includes the Sheriff’s fee.  
+HOW DO I START MY CASE? 
+Review the list of court forms on the Maryland Judiciary website (mdcourts.gov/forms). Choose the form, 
+with instructions, for the kind case you want to file.  
+Forms are also available from the court clerk. Court clerks cannot tell you which forms to file or 
+complete the forms for you. 
+• Review the instructions carefully and complete all forms required for your case, including any 
+financial statements if you are seeking child support, alimony, or property distribution. 
+• Complete Civil-Domestic Case Information Report (CC-DCM-001).  
+• Make sure that all names and complete addresses are clearly written on each form. If it’s a new 
+case, the clerk will assign a case number when you file. If you are reopening a case, include the 
+case number on all forms. Make at least two (2) copies of all forms: One (1) set for yourself AND 
+one (1) for service on the person you’re filing against. If you want the clerk’s office to make copies, 
+they may charge a fee. 
+• File completed and signed forms in the clerk’s office with the filing fee, or Request for Waiver of 
+Costs (CC-DC-089). Do not serve a copy of the Request for Waiver on the person you are filing 
+against. The clerk will not docket your case until a judge decides whether to grant the fee waiver 
+request. 
+CC-DRIN (Rev. 07/2026) Page 3 of 9 
+• Once your case is docketed, the clerk’s office will issue a Writ of Summons. This may take a few 
+days to a week or a few weeks if you filed a Request for Waiver of Costs (CC-DC-089). After the 
+clerk issues the Writ of Summons, the case is ready for service of process on the person you filed 
+against. Exception: if you are filing a Motion for Restoration of Former Name within 30 days of 
+your divorce judgment, a Writ of Summons is not required for service. 
+NOTE: Your signature on each form is made under oath and you are stating that the information 
+and statements are true and correct to the best of your knowledge. 
+WHAT IS SERVICE OF PROCESS? 
+Service of Process (or “service”) means providing the person you filed against copies of the papers you 
+filed and the summons issued by the court. The Court Help Video Library at 
+mdcourts.gov/reference/videolibrary contains information about service of process.  
+HOW DO I SERVE SOMEONE? 
+Methods of Service: 
+**IMPORTANT: You may NOT serve the other side yourself directly, or by certified mail, when 
+serving a Writ of Summons and an initial filing (or papers that are reopening a previous case) ** 
+Petition for Protection from Domestic Violence or Petition for Peace Order: served by a law 
+enforcement official. There is no service fee for a Petition for Protection from Domestic Violence. 
+Service by Sheriff - For a fee (if not waived), the clerk can forward the Writ of Summons with a copy of 
+the filing to the Sheriff’s Office. The Sheriff will attempt service and file the required Return (Proof) of 
+Service with the court. 
+Service by Private Process - Forward the Writ of Summons and a copy of all the papers you filed to a 
+private process server. They will serve the other side and file an Affidavit (Proof) of Service with the 
+court. Private process companies charge a fee. Private process may also be made by any person who is: 1) 
+over 18, and 2) not involved in the case. Give this person an Affidavit of Service (Hand 
+Delivery/Private Process) (CC-DR-055) to complete. You cannot complete the Affidavit, but you may 
+file it with the court. 
+Service by Certified Mail, Restricted Delivery - Have someone (not you) send the Writ of Summons 
+and a copy of all papers you filed by certified mail, return receipt with restricted delivery. Service is 
+completed when the person being served personally signs the certified mail return receipt card, which will 
+be returned to the person who mailed the papers for service. That person must complete an Affidavit of 
+Service (Certified Mail Restricted Delivery-Receipt Requested) (CC-DR-056). You must attach the 
+original return receipt card to the Affidavit of Service and file it with the court. Keep a copy of both sides 
+of the certified mail return receipt card. 
+WHAT IF SERVICE IS NOT MADE? 
+After several unsuccessful attempts to make service of process by the Sheriff, a private process server, or  
+by certified mail, OR if you have been unable to find where the other side lives or works, you may file a 
+Motion for Alternate Service and Affidavit (CC-DR-070) with a Notice-Alternate Service  
+(CC-DR-072). Attach proof of your efforts. A judge will decide if you may use another form of service. 
+If your motion is granted, you will notify the person you filed against of your court filings by whatever 
+reasonable method the judge orders. There is a fee for the Sheriff to post notice for alternate service on 
+the sheriff’s bulletin board. 
+If the Sheriff posted notice of alternate service, the Sheriff’s office will file proof with the court. If the 
+court ordered another form of alternate service, you must file proof with the court that it was completed. 
+CC-DRIN (Rev. 07/2026) Page 4 of 9 
+The Maryland Judiciary’s court help video library has a helpful video and resources on service of process 
+at mdcourts.gov/video/selfhelp/serviceofprocess. 
+WHAT HAPPENS AFTER SERVICE IS MADE? 
+After service of process is made AND proof of service is filed with the court, the person you served may 
+file an answer or a motion challenging service, jurisdiction, or other aspects of your filing. If the person 
+resides or was served: 
+• within Maryland, they have 30 days to file a response. 
+• in another state, they have 60 days to file a response. 
+• in another country, they have 90 days to file a response. 
+Court-approved response forms: 
+• Answer to Complaint / Petition / Motion (CC-DR-050) 
+• Counter-Claim for Absolute Divorce (CC-DR-094) or  
+• Counter-Claim for Custody / Child Support (CC-DR-095) 
+If No Answer is Filed: 
+If no answer is filed by the deadline, file a Request for Order of Default (CC-DR-054). If the other 
+person is in the military and can be verified through DOD at: scra.dmdc.osd.mil/, you should consider 
+consulting or hiring a lawyer to help you. The judge will grant the Order of Default if they are satisfied 
+that the other person is not presently in the military and proof of service has been filed with the court. The 
+clerk’s office will issue a Notice of Default. The other person has 30 days to file a written explanation 
+about why an answer was not filed and ask the court to vacate (cancel) the Order of Default. If the other 
+person does not respond to the Notice of Default, the case may move forward without their participation. 
+WHAT HAPPENS NEXT? 
+After each person’s papers have been filed and served, or an Order of Default is granted, the court will 
+schedule your case. You may be required to attend the following, and will receive notice by mail and 
+possible by other means: 
+• scheduling conference: to set dates and deadlines, and possibly make referrals for services.  
+• settlement conference: to explore areas of agreement and disagreement.  
+• hearing or trial: if you have settled your issues and just need to formalize the divorce, name 
+change, custody agreement, etc., you will be given a hearing. Otherwise, the case will go to trial. 
+If a reasonable period of time passes after the filing of an Answer or Order of Default and you 
+have not received notice from the court, you may file a Request for Hearing or Proceeding  
+(CC-DR-059). 
+The Maryland Safe at Home Address Confidentiality Program provides a substitute address for 
+victims of domestic violence who have moved or are about to move to a location unknown to their abuser. 
+It also offers free confidential mail-forwarding for first-class mail and legal papers. Application assistants 
+can help you apply. Call 1-800-633-9657 ext. 3875, visit sos.maryland.gov/ACP, or email  
+safe.at home@maryland.gov. 
+WHAT HAPPENS IN COURT? 
+At your hearing or trial, you have an opportunity to testify. Witnesses who have first-hand knowledge 
+about your case may also testify. You may present evidence that may be accepted by the court under the  
+Rules of Evidence. The person you filed against will also have a chance to present their side of the case 
+and offer testimony, witnesses, and evidence. Each side may cross-examine (ask questions of) the other 
+side’s witnesses about their testimony. In preparing for your court day, keep the following in mind: 
+ 
+CC-DRIN (Rev. 07/2026) Page 5 of 9 
+• Arrive before your scheduled trial time. You must go through security and find the courtroom 
+where your case will be heard. 
+• Prepare the documents and evidence that you want to show the court. Have at least three (3) copies 
+of any documents you bring: one (1) for the court, one (1) for the other side, and one (1) for 
+yourself. The court is not required to make copies for you. 
+• If you filed the initial case and fail to appear for the hearing date, your case may be dismissed. If a 
+Counter-Complaint/Claim was filed and you fail to appear, the other side may still proceed and 
+could be granted the relief requested in their papers. 
+• If you have an emergency that prevents you from appearing for your hearing, contact the court 
+before the hearing. However, contacting the court does not necessarily mean that your case will be 
+postponed. 
+• There are strict evidentiary rules about children being witnesses in a divorce or custody trial. If the 
+court has ordered you to bring your child(ren) to court, you must do so. If you believe your 
+child(ren)’s testimony is necessary, speak with a lawyer about how to present this to the court. If a 
+parent must be in court, and needs childcare, some courthouses provide this service. Please check 
+the website of the courthouse. 
+• When the hearing or trial is complete, the magistrate or judge will make a decision. They may state 
+the facts, evidence, and the law that applies in their decision (or ruling) either that day or in a 
+written decision mailed to both sides on a later date. 
+• You should consider consulting or hiring a lawyer to help you. 
+WHAT HAPPENS AFTER COURT? 
+What happens after a decision is made depends on whether a judge or magistrate heard your case. 
+• Judge orders, with right to appeal: If your hearing was in front of a judge, they will sign a final 
+order. You may receive the order at the end of the hearing or by mail. If either party believes that 
+the judge made an error in applying the law in their case, there are procedures for requesting the 
+court to review the decisions and orders. You may file an appeal of a judge’s decision to another 
+(higher) court. Requests for review and an appeal are complex with specific requirements and 
+strict deadlines. Speak with a lawyer before filing any further papers. 
+• Magistrate recommendations, with right to exceptions: If your hearing was in front of a 
+magistrate, they will issue a Report and Recommendations with findings of fact and a proposed 
+order. A judge will review it before it becomes final. After ten (10) days, a judge will sign the 
+order, and it will be mailed to both sides. If either party believes that the magistrate made an error 
+in applying the law in their case, there are procedures for requesting the court to review the 
+decisions and orders. You may file exceptions to a magistrate’s report. Requests for review and 
+exceptions are complex with specific requirements and strict deadlines. Speak with a lawyer 
+before filing any further papers. 
+CC-DRIN (Rev. 07/2026) Page 6 of 9 
+DICTIONARY 
+GLOSSARY OF COMMON LEGAL TERMS 
+Affidavit: A written statement made under oath. 
+Alimony: Court-ordered payments made by one (1) spouse to the other for support. 
+Annulment: A court’s decision that a marriage is void; it never legally existed. It is available only under 
+certain limited circumstances. 
+Answer: A written response to a complaint, petition or motion. 
+Arrears: The amount of money a person failed to pay when due. A person who does not make court-
+ordered payments such as alimony or child support is “in arrears” for the amount they owe. 
+Certificate of Service: A written statement filed with the court as proof that copies of papers filed with 
+the court were given to the appropriate parties. 
+Child Custody: Court-ordered arrangement of who children live with and how decisions about them will 
+be made. There are two (2) types of custody: 
+Legal Custody/Decision-making authority: Refers to how long-term decisions about children’s 
+education, health, religion, etc. are made. 
+Physical Custody/Parenting time: Refers to where children live and the amount of time they 
+spend with each parent. 
+Child support: The amount of financial and other support each parent is responsible to provide for the 
+care of their minor child(ren). 
+Child support guidelines: Maryland’s guidelines are used to determine the appropriate amount of child 
+support. The guidelines formula calculates support based on the number of children in the family, 
+additional expenses (for example, childcare and health insurance), and the combined gross income of the 
+parents. In certain circumstances, the court may award child support higher or lower than the guidelines. 
+See the Annotated Code of Maryland, Family Law Article, Sections 12-201 through 12-204. 
+Civil (or Court) Clerk: A court employee who receives and maintains case files and issues some court 
+documents such as writs of summons, copies of court orders, and other notices. 
+Complaint: One (1) type of legal paper that starts a case. The person who files the initial case is referred 
+to as the plaintiff and the person against whom the complaint is made is the defendant. 
+Contempt: The failure to follow a court order. One (1) side may request that the court determine that the 
+other side is in contempt. If the court determines that a person is “in contempt,” it can punish them. 
+Contested Case: A case that involves one (1) or more disputed issues. 
+Counter-Complaint/Counter-Claim: A complaint the defendant files against the plaintiff after the 
+plaintiff’s initial complaint. 
+Custody: The legal arrangements regarding with whom a child will live and how decisions about the 
+child will be made. Custody has two (2) parts: legal and physical. Legal custody refers to decision-making 
+authority. Physical custody refers to the child(ren)’s time with each parent. Parents may agree on the 
+custody arrangement that is in the best interest of their child(ren). If the court decides custody, the judge 
+determines what is in the best interest of the children and makes an order. 
+Decision/Judgment/Opinion/Ruling: The result reached by the court in resolving the disputes in a case. 
+Default: A party’s failure to file a timely answer to a complaint, motion or petition after proper service of 
+process has been made. After a certain time has passed, the plaintiff can ask the court for a default judgment. 
+CC-DRIN (Rev. 07/2026) Page 7 of 9 
+Default Judgment: A court’s finding on behalf of a plaintiff because the defendant did not respond to a 
+complaint, motion, or petition. 
+Defendant: The person the case is brought against. If a defendant files a counter-complaint/claim, they 
+become the counter-plaintiff. 
+Discovery: A process in which each party is allowed to investigate the other side’s case and get information 
+related to the case before a trial or hearing. Special rules determine how and when discovery occurs.  
+Discovery methods include: 
+• Interrogatories: Written questions one side gives the other side to answer under oath. 
+• Oral Depositions: In-person question-and-answer sessions about the facts of a case. Answers are 
+made under oath and recorded. 
+• Requests for Production, Inspection and Copying of Documents: Asking one (1) party to give 
+the other party documents related to the case. 
+• Orders for mental or physical examinations: Asking a party to be examined by an expert. 
+• Requests for Admissions of Fact: Asking the party to admit to facts so that those facts do not 
+have to be decided by the court. 
+Dissolution: Another name for the legal end of a marriage. 
+Divorce: A process for the ending of a marriage. 
+Absolute Divorce: The legal ending of a marriage. Once granted, both parties can remarry. 
+Evidence: Testimony of witnesses and documents presented to and considered by the court in making a decision. 
+Rules of evidence are complicated and technical, you should consider consulting or hiring a lawyer to help you. 
+Exhibit: A document or object admitted into evidence to prove or disprove an issue in court. 
+Family Home: The property in this State that was used as the primary residence of the parties when they 
+lived together, is owned or leased by one (1) or both of the parties at the time of the proceeding, and is 
+being used or will be used as a primary residence by one (1) or both of the parties and child(ren). Family 
+home does not include property acquired before marriage, by inheritance or gift from a third party, or 
+excluded by valid agreement. 
+Family Use Personal Property: Personal property acquired during the marriage and used for family 
+purposes (e.g., family car, family home, furniture, appliances, etc.). 
+Filing: The process of giving the clerk of the court papers in a case. Those papers are also called 
+“filings.” Some filings require payment of a fee. 
+Grounds for Divorce: The legal basis for a divorce. The law sets out specific circumstances under which 
+a divorce may be granted. Before the court will grant a divorce, the person seeking the divorce must prove 
+that those conditions exist. 
+Hearing: A trial or legal proceeding during which an issue is presented to a judge or magistrate. 
+Judge: A court official with the authority to hear and make decisions about a case. 
+Judgment: A court’s decision (the final order of the court). For example, the court will enter a Judgment 
+of Absolute Divorce. A judgment also refers to the grant of money such as for fees and costs, contempt 
+fees, or attorney fees to be paid by the other party. 
+Jurisdiction: Refers to the authority of the court to hear and decide a case. 
+Magistrate: A court official who hears cases. A magistrate’s decision is reviewed by a judge before it is final. 
+Marital Property: All property acquired during the marriage, even it is not titled in both names, with some 
+exceptions. See Annotated Code of Maryland, Family Law Article, Section 8-201(e) for definition and Sections 
+8-203 through 8-205 for how the court treats marital property. Marital property can be divided when spouses 
+divorce. If spouses cannot agree, the court will decide. You should consider consulting or hiring a lawyer. 
+CC-DRIN (Rev. 07/2026) Page 8 of 9 
+Mediation: A process in which the parties meet with a trained, neutral third-party (a mediator) who helps 
+them resolve issues and reach an agreement. With some exceptions, most courts refer parties in family 
+law cases involving children, to mediation. 
+Modification: A change to an existing order. A party asking the court for a modification must show that 
+there has been a “material change in circumstance” since the date of the existing order. 
+Motion: A request during a case for the court to take certain action in a case. 
+Multifamily Adjustment: An allowance for support for each child: (A) living in a parent’s home to 
+whom the parent owes a legal duty of support, (B) spending more than 92 overnights in the parent’s home 
+in a year, and (C) not subject to the support order. 
+Non-Marital property: Property acquired before marriage by one spouse, third-person gifts to one 
+spouse, and inheritances made to one spouse. Non-marital property will not be divided by the court unless 
+the spouses agree, or the property has been commingled with marital property. 
+Oath: A promise to tell the truth subject to criminal penalties for lying. Oaths can be oral (for example, made 
+in court while testifying or during a deposition) or written (for example, by signing a form or an affidavit). 
+Order: A written directive to the parties based on a ruling/decision of the court about the issues stated in 
+a complaint, petition, motion, or other matter; a command that one or both parties must follow. 
+Order of Default: A court’s order allowing a party’s case to proceed without the participation of the 
+other party, who failed to file a timely Answer after proper service of process was made. 
+Parties: The two (2) sides in a case; the plaintiff and the defendant. There may be more than one (1) 
+plaintiff and defendant named in a case. 
+Pendente Lite: Temporary arrangements for child custody, child support, child visitation, alimony, use 
+and possession of the family home/property, etc. until a final hearing or trial in a case. 
+Petition: One (1) type of legal paper that starts a case. The person who files the case is the petitioner. The 
+person who is served is the respondent. For example, a Petition for Protection from Domestic Violence or 
+a Petition for Contempt. 
+Plaintiff: The person who files the initial case. If a counter-complaint/claim is filed by the opposing 
+party, the plaintiff also becomes the “counter-defendant.” 
+Pro se/Self-Represented Litigant/Proper Person: A person who represents themselves in court without 
+a lawyer. 
+Reconciliation: Married but separated people getting back together. 
+Service of Process (or “Service”): Providing a copy of the papers being filed to the other side. 
+Spouse: The person to whom you are married. 
+Subpoena: A form issued by the court requiring someone to appear in court and/or to provide documents. 
+Uncontested Divorce Case: When neither spouse disagrees with the divorce and there are no issues for 
+the court to decide about children, money or property. 
+Use and Possession: Under certain circumstances the court may grant use and possession to a parent who 
+has physical custody of the minor child(ren) of the marriage, allowing that parent and the child(ren) to 
+live in the family home and/or use family property for up to three (3) years from the date of the divorce. 
+Venue: The county or Baltimore city where the case is heard. 
+Writ of Summons: A form issued by the court directing a party to respond to a complaint, motion or petition. 
+CC-DRIN (Rev. 07/2026) Page 9 of 9 

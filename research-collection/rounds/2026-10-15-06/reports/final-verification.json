@@ -1,0 +1,269 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T04:38:17.457414+00:00",
+  "baseline_tracked_files_preserved": 2086,
+  "baseline_unique_originals": 608,
+  "new_unique_originals": 25,
+  "combined_unique_originals": 633,
+  "states": {
+    "Maryland": 25
+  },
+  "formats": {
+    "pdf": 25
+  },
+  "state_family_keys": 25,
+  "sha256_duplicates": 0,
+  "request_bodies_hash_checked": 28,
+  "local_catalog_links_checked": 54,
+  "browser_check": "passed",
+  "head": "9488192b8f2ebfcd005a484b701e8f1518ff83c5",
+  "branch": "library/organized-snapshot",
+  "remote": "https://github.com/ronronner02/us-legal-templates.git",
+  "files": [
+    {
+      "path": "originals/MD/cc-dcm-001-44a305ddfb3d.pdf",
+      "sha256": "44a305ddfb3def9bca0352beeb1c15c67f63055f65d1b5b0ffe104559169698a",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-030-1cd031326271.pdf",
+      "sha256": "1cd031326271abc5ce87d05e53d027b0891fb393f85459aea93430aa5036a373",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-031-67884adf6860.pdf",
+      "sha256": "67884adf68605702199b36b671debb4ca6d72904661583712eb39360dcc374c4",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-050-c8ce4d567557.pdf",
+      "sha256": "c8ce4d567557c11d947b82eb1ca7e582b2fc594b6d27624ea9a90e0d75e671e5",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-054-9a6c5bac22f5.pdf",
+      "sha256": "9a6c5bac22f56b76d193e07e7fb185f00fd4bb895107509c415985a30474d751",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-055-fc0bed1b5426.pdf",
+      "sha256": "fc0bed1b5426ed2ace68bc46bd549f3f1db722ebd916d1d058037a923a8c62b1",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-056-af66b265f706.pdf",
+      "sha256": "af66b265f7065639260e11a455169f83bdd82ff59ad91aca343fec5043dac5db",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-059-1c2af730dfa4.pdf",
+      "sha256": "1c2af730dfa4b294bc248bdbd54b91e028926adeaeaf5167ab1ecc85d027d647",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-109-798aa6764437.pdf",
+      "sha256": "798aa676443758e50ae3a2ffbee3601fd11c5255f0dc253ccd4c51439f105959",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-110-8c7b16e3ba38.pdf",
+      "sha256": "8c7b16e3ba38bb0a52aa1c87100b26031db3836ce64060d5166e3fe595f9b59d",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-drin-d3d6a07e20d9.pdf",
+      "sha256": "d3d6a07e20d91c33adf0d71ac50de325ee46278f1acc6ad08b159f85cf94afe4",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-drin-109-fb172f01a40a.pdf",
+      "sha256": "fb172f01a40a8a5ccb512225201a4cf827c371a37a9949dc42b88de470253c0c",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-001-fd83087c1808.pdf",
+      "sha256": "fd83087c1808aab58a142690b2cea98125fcde1d7e99bddbd27ea770727ebb7b",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-004-349b94480517.pdf",
+      "sha256": "349b9448051732d3c822459969060956631e2f24789deba4685f8f8f64aa2880",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-005-d636771dd671.pdf",
+      "sha256": "d636771dd6711d1c742254bdfffd6f657919c8ef030ac0f3c5995e960d5d51f3",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-006-6d21872c9550.pdf",
+      "sha256": "6d21872c9550b5369cd64f43016d4cc28c0228af168968f86cbab4bba5f9d89b",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-007-8bac7bdc4c83.pdf",
+      "sha256": "8bac7bdc4c83d6ccf879dddc81396c0a372fdd1158de1f07c690cbed7f27a303",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-034-327672f016b2.pdf",
+      "sha256": "327672f016b266f25bdd2545aad35633f297eba5ace92a5bec4ee5f406412bea",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-035-09aa9331908c.pdf",
+      "sha256": "09aa9331908ce82124bbdd245d52f35b80484ce01c4b6cf1e7b1ad840c07ae5d",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-095-631c3271d947.pdf",
+      "sha256": "631c3271d947be94821fc02475354c5b3ce9a012aa99f082508d2f79ea3d8fe1",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-020-85a0d1422df3.pdf",
+      "sha256": "85a0d1422df3b7bfeb62640278d151c58d91f0226f2b973be6bcbf6be61e1397",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-033-cfca51270e13.pdf",
+      "sha256": "cfca51270e1386da6ed0eb537006ae6dfd5bde0369f3d30e7dee037cc397caae",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-094-b79c30b30bac.pdf",
+      "sha256": "b79c30b30baca43d4cda717c9385c42a38aa6040c02bdcf61990efbb6de0bc46",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-116-2474109a338c.pdf",
+      "sha256": "2474109a338c6bf0749e73e53ee6fe99727a282a431a7305864ed9ea2e4d07de",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-drin-a-12cfe8415215.pdf",
+      "sha256": "12cfe8415215dbb87c836ffca00f737eee53eee7b4e49e0c24aec405745f1e9b",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    }
+  ],
+  "limitations": [
+    "No visual rendering, OCR, office rendering, or signature validation.",
+    "Printed revision text checked; visual confirmation, legal currency, reuse rights, and publication approval remain pending. Interactive fields and worksheet calculations were not tested. Referenced MDJ-008 is not acquired in this round; complete filing-packet validation remains pending.",
+    "No full-library semantic deduplication.",
+    "Catalog generated and manually reviewed for scope, provenance, escaping, links, and stated limits. Independent code review was not run."
+  ],
+  "delivery_state_scope": "Pre-commit verification snapshot for this round. Subsequent Git delivery is verified separately.",
+  "original_bytes_unmodified": true,
+  "source_revision_mismatches": [],
+  "acquisition_summary": {
+    "selected_candidates": 25,
+    "acquired_originals": 25,
+    "document_attempts": 25,
+    "failed_document_attempts": 0,
+    "transport": "Ordinary browser fetches after successful Maryland robots verification. Source and original response bytes and metadata preserved.",
+    "unresolved_candidates": [],
+    "discovery_stop": "Wisconsin robots DNS verification failed; no Wisconsin source or PDF request proceeded this round."
+  },
+  "verification_checkpoint": "pre-commit",
+  "delivery_status": "authorized_for_commit_and_push"
+}

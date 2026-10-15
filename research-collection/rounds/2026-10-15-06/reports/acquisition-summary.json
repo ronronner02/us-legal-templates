@@ -1,0 +1,9 @@
+{
+  "selected_candidates": 25,
+  "acquired_originals": 25,
+  "document_attempts": 25,
+  "failed_document_attempts": 0,
+  "transport": "Ordinary browser fetches after successful Maryland robots verification. Source and original response bytes and metadata preserved.",
+  "unresolved_candidates": [],
+  "discovery_stop": "Wisconsin robots DNS verification failed; no Wisconsin source or PDF request proceeded this round."
+}

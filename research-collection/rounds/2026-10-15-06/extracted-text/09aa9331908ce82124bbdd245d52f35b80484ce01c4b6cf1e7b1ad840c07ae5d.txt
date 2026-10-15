@@ -1,0 +1,157 @@
+ 
+ 
+ 
+This form contains Restricted Information. 
+CIRCUIT COURT FOR
+City/County 
+, MARYLAND 
+Located at 
+Court Address 
+Telephone
+Case No. 
+ Plaintiff 
+ Street Address 
+City, State, Zip Telephone 
+E -mail 
+vs. 
+Defendant 
+Street Address 
+City, State, Zip Telephone 
+E-mail 
+WORKSHEET B - CHILD SUPPORT OBLIGATION: SHARED PHYSICAL CUSTODY 
+(Md. Rule 9-206(d)) 
+You must file a Notice Regarding Restricted Information Pursuant to Rule 20-201.1 (form MDJ-
+008) with this submission. 
+Name of Child Date of Birth 
+Name of Child Date of Birth 
+Name of Child Date of Birth 
+Name of Child Date of Birth 
+Name of Child Date of Birth 
+Name of Child Date of Birth 
+Parent 1 Parent 2 Combined
+1. MONTHLY ACTUAL INCOME (Before taxes) 
+(Code, Family Law Article, § 12-201(b) and (c))   
+a. Minus preexisting child support payment actually paid - - 
+b. Minus alimony actually paid - - 
+c. Plus/Minus alimony awarded in this case +/- +/- 
+d. Minus multifamily adjustment - - 
+2. MONTHLY ADJUSTED ACTUAL INCOME    
+3. SHARE OF INCOME
+(Divide each parent’s income on line 2 by the combined 
+income on line 2.)
+% % 
+4. BASIC CHILD SUPPORT OBLIGATION 
+(Apply line 2 Combined Income to Child Support Schedule.) 
+5. ADJUSTED BASIC CHILD SUPPORT OBLIGATION 
+(Multiply line 4 by 1.5) 
+6. OVERNIGHTS with each parent (must total 365)   365 
+7. PERCENTAGE WITH EACH PARENT 
+(Divide line 6 by 365) A % B % 
+STOP HERE IF line 7 is less than 25% for either parent. 
+Shared physical custody does not apply. (Use WORKSHEET A.) 
+8. EACH PARENT’S SHARE OF ADJUSTED BASIC 
+CHILD SUPPORT OBLIGATION (Multiply line 5 by line 3 
+for each parent.)
+A B 
+ 
+CC-DR-035 (Rev. 07/2026) Page 1 of 3 CHSGW 
+Case No. 
+Parent 1 Parent 2 Combined
+9. THEORETICAL BASIC CHILD SUPPORT
+OBLIGATION FOR TIME WITH OTHER PARENT
+(Multiply line 8A by line 7B; put answer on line 9A.)
+(Multiply line 8B by line 7A; and put answer on line 9B.)
+A B 
+10. SHARED PHYSICAL CUSTODY ADJUSTMENT
+(If Line 7 for a parent is more than 25%, but less than 30%,
+multiply that parent’s line 9 by the amount below:
+# of overnights amount 
+• 92-94 .10 
+• 95-98 .08 
+• 99-102 .06 
+• 103-105 .04 
+• 106-109 .02
+A B 
+11. ADJUSTED THEORETICAL BASIC CHILD
+SUPPORT OBLIGATION
+(If the shared physical custody Adjustment applies, add line
+10 to that parent’s line 9; put the answer on line 11.)
+A B 
+12. NET BASIC CHILD SUPPORT OBLIGATION
+(If there is no shared physical custody adjustment: Subtract
+line 9 lesser amount from greater amount. Place answer here
+under column with greater amount in line 9.
+Shared physical custody Adjustment: For that parent use
+amount from line 11 instead of line 9 when completing
+calculation.)
+13. EXPENSES :
+a. Work-Related Child Care Expenses (Code, Family Law
+Article § 12-204(g)) + 
+b. Health Insurance Expenses (Code, Family Law Article
+§ 12-204(h)(1)) + 
+c. Extraordinary Medical Expenses (Code, Family Law Article
+§ 12-204(h)(2)) + 
+d. Cash Medical Support (Code, Family Law Article
+§ 12-102(c) applies only to a child support order under Title
+IV, Part D of the Social Security Act) + 
+e. Additional Expenses (Code, Family Law Article § 12-204(i)) + 
+14. NET ADJUSTMENT FROM WORKSHEET C. Enter
+amount from line 1, WORKSHEET C, if applicable. If not,
+continue to line 15.
+15. NET BASIC CHILD SUPPORT OBLIGATION (From
+line 12, WORKSHEET B)
+16. RECOMMENDED CHILD SUPPORT ORDER
+(If the same parent owes money under lines 14 and 15, add
+these two figures to obtain the amount owed by that parent. If
+one parent owes money under line 14 and the other owes
+money under line 15, subtract the lesser amount from the
+greater amount. The parent owing the greater of the two
+amounts on lines 14 and 15 will owe that difference as the
+child support obligation. NOTE: Amount owed in a shared
+custody arrangement may not exceed the amount that would
+be owed if the obligor parent were a non-custodial parent.
+See WORKSHEET A).
+CC-DR-035 (Rev. 07/2026) Page 2 of 3 CHSGW 
+Case No. 
+Comments or special adjustments, such as any adjustment for certain third party benefits paid to or for the child of an obligor 
+who is disabled, retired, or receiving benefits as a result of a compensable claim (see Code, Family Law Article, § 12-204(j)): 
+ 
+ 
+ 
+ 
+ 
+PREPARED BY: DATE: 
+ 
+INSTRUCTIONS FOR WORKSHEET C: Use Worksheet C ONLY if any of the e xpenses listed in lines 13 is 
+paid out or received by the parents in a different proportion than the percentage share of income entered on line 3 of 
+Worksheet B. Example: One parent pays 100% of day care, or parents split education/medical costs 50/50 and line 3 
+is other than 50/50. If there is more than one 13e expense, make calculations on lines i and j below for each expense. 
+WORKSHEET C - FOR ADJUSTMENTS, LINE 12, WORKSHEET B 
+Parent 1 Parent 2
+a. Payments made for line 13a expenses multiplied by each parent’s percentage of 
+income (line 3, WORKSHEET B) (Proportionate share)   
+b. Excess payments made by the parent who pays more than the amount in line a, 
+above. (Subtract proportionate share from amount paid)    
+c. Total amount of direct payments made for line 13b expenses multiplied by each 
+parent’s percentage of income (line 3, WORKSHEET B)   
+d. The excess amount of direct payments made by the parent who pays more than the 
+amount calculated in line c, above.   
+e. Total amount of direct payments made for line 13c expenses multiplied by each 
+parent’s percentage of income (line 3, WORKSHEET B)   
+f. The excess amount of direct payments made by the parent who pays more than the 
+amount calculated in line e, above.   
+g. Total amount of direct payments made for line 13d expenses multiplied by each 
+parent’s percentage of income (line 3, WORKSHEET B)   
+h. The excess amount of direct payments made by the parent who pays more than the 
+amount calculated in line g, above.   
+i. Total amount of direct payments made for line 13e expenses multiplied by each 
+parent’s percentage of income (line 3, WORKSHEET B)   
+j. The excess amount of direct payments made by the parent who pays more than the 
+amount calculated in line i, above.   
+k. For each parent, add lines b, d, f, h, and j.   
+l. Subtract lesser amount from greater amount in line k, above. Place the answer on 
+this line under the amount in line k.  
+Also enter this answer on line 14 of WORKSHEET B, in the same parent’s 
+column. 
+  
+CC-DR-035 (Rev. 07/2026) Page 3 of 3 CHSGW 

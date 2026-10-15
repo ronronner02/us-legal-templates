@@ -1,0 +1,20 @@
+{
+  "reviewed_at": "2026-10-15T04:37:44.908118+00:00",
+  "source_url": "https://www.mdcourts.gov/family/family-forms",
+  "policy_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+  "policy_evidence": [
+    {
+      "body_path": "evidence/http/browser-sources/4fd55b64ed2a9e50ea742772ce8d1a917e27349f1cf11890cc890e2c443d6e62.body",
+      "receipt_file": "evidence/http/browser-sources/requests.json"
+    }
+  ],
+  "findings": [
+    "Maryland robots file was retrieved and checked; the family catalog, terms page, and selected PDF paths are not disallowed for the collection user agent.",
+    "Captured terms discuss reading, printing, or downloading information and state public-service information is not guaranteed accurate. These statements are not construed as a general reuse grant.",
+    "The footer reserves copyright. Reuse, modification, commercial rights, and publication approval remain unresolved.",
+    "The catalog links external interview services. Those services were not used; no cases were created or personal data submitted.",
+    "Printed form revision text matches source-listed month/year for all acquired originals. This does not establish legal currency, filing acceptance, or tested calculations."
+  ],
+  "reuse_review": "pending",
+  "publication_status": "not-approved"
+}

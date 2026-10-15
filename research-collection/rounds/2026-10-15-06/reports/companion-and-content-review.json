@@ -1,0 +1,62 @@
+{
+  "groups": [
+    {
+      "forms": [
+        "CC-DR-109",
+        "CC-DR-110",
+        "CC-DRIN-109"
+      ],
+      "basis": "Related separately supplied original forms or instructions; distinct hashes do not establish independent legal content."
+    },
+    {
+      "forms": [
+        "CC-DR-030",
+        "CC-DR-031",
+        "CC-DR-034",
+        "CC-DR-035"
+      ],
+      "basis": "Related separately supplied original forms or instructions; distinct hashes do not establish independent legal content."
+    },
+    {
+      "forms": [
+        "CC-DR-020",
+        "CC-DR-033",
+        "CC-DR-094",
+        "CC-DR-116",
+        "CC-DRIN-A"
+      ],
+      "basis": "Related separately supplied original forms or instructions; distinct hashes do not establish independent legal content."
+    },
+    {
+      "forms": [
+        "CC-DR-055",
+        "CC-DR-056"
+      ],
+      "basis": "Related separately supplied original forms or instructions; distinct hashes do not establish independent legal content."
+    }
+  ],
+  "restricted_information_notice_form_codes": [
+    "CC-DR-030",
+    "CC-DR-031",
+    "CC-DR-050",
+    "CC-DR-109",
+    "CC-DR-110",
+    "CC-DR-001",
+    "CC-DR-004",
+    "CC-DR-005",
+    "CC-DR-006",
+    "CC-DR-007",
+    "CC-DR-034",
+    "CC-DR-035",
+    "CC-DR-095",
+    "CC-DR-020",
+    "CC-DR-033",
+    "CC-DR-094",
+    "CC-DR-116"
+  ],
+  "mdj_008": {
+    "status": "referenced_not_acquired_this_round",
+    "note": "Several originals refer to this companion notice; complete filing-packet validation remains pending."
+  },
+  "full_library_semantic_deduplication": "not_performed"
+}
