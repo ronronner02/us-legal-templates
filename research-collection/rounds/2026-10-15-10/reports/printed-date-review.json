@@ -1,0 +1,164 @@
+{
+  "printed_date_text_verified": 16,
+  "printed_date_not_verified": 4,
+  "verified_parenthetical_date": "01-01-2026",
+  "not_verified": [
+    "property-condition-act-guide",
+    "ownership-affidavit-individual",
+    "ownership-affidavit-nonexempt-business",
+    "ownership-affidavit-exempt-business"
+  ],
+  "identifiers_are_not_dates": [
+    "OAG 2023-1",
+    "OAG 2023-2",
+    "OAG 2023-3"
+  ],
+  "date_markers": [
+    {
+      "key": "property-condition-disclaimer",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/f32281d53644ab98a374ebe13294112427d14b8fbf41f3edced77a30f1c37091.txt",
+        "matched_text": "RPC DISCLAIMER STATEMENT FORM (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "property-condition-exemption",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/b9f0c7471ab7a66bf9f52666f21c189b9f76683fcd6b6b9968d9a281ad7d3bc3.txt",
+        "matched_text": "RPCD EXEMPTION FORM (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "lead-paint-landlord-disclosure",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/382848cf976ea54e20aa07ffd3a4392f1ccf70fcb9a716c7e316348bcc5ba7f2.txt",
+        "matched_text": "Lead-Based Paint discLosure - LandLord (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "lead-paint-seller-disclosure",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/391bc00f82468b5b99d31553dd2991a11b5bd29937e9ba0604a9afe214ab70f0.txt",
+        "matched_text": "Lead-Based Paint discLosure - seLLer (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "lease-application",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/4f04da76baa71ae55600358afaa40f9207cd234f054efd44ff50999a3dbb3133.txt",
+        "matched_text": "LEASE APPLICATION (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "broker-disclosure-landlord-tenant",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/a68028b98cc7d268380d09166b7d6683ea9e107582019e5dba0ad317ce3d1d22.txt",
+        "matched_text": "act; if not understood, seek advice from an attorney.DISCLOSURE OF BROKER DUTIES & RESPONSIBILITIES (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "key-rekeying-addendum",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/7f91e4c18538dfc7a2c11869f11e079327659ab9dfe07b676db589a26fc0d8d0.txt",
+        "matched_text": "gally binding Contract; if not understood, seek advice from an attorney.KEYS AND RE-KEYING ADDENDUM (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "pet-addendum",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/ab36f3eadd90261be8bae54c13bd7cf90f85c4b0469a0fdba591e503b2fed37a.txt",
+        "matched_text": "This is a legally binding Contract; if not understood, seek advice from an attorney.Section Marker (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "lease-supplement",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/6ebfd3ea8e9474a779697f0450a3b134a1f3dfa18a83d79b25f31521ec000763.txt",
+        "matched_text": "ally binding Contract; if not understood, seek advice from an attorney.RESIDENTIAL LEASE SUPPLEMENT (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "tenancy-guidelines",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/3558bf9927f0a33259799d8c4b5734988f51b106e451b964f4dbc5f6587f3216.txt",
+        "matched_text": "s is a legally binding Contract; if not understood, seek advice from an attorney.Tenancy Guidelines (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "nonforeign-seller-affidavit",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/8461d6ca8db246941d5da27ada68023054eb568bd40c984cada8efc1dd74821b.txt",
+        "matched_text": "NON-FOREIGN AFFIDAVIT (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "nonforeign-seller-information",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/1dd125b6e85a1fa64875476276b0ac16b05ad3fd84f2347aaa703a8233741491.txt",
+        "matched_text": "NON-FOREIGN SELLER INFORMATION SHEET (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "deed-fraud-notice",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/679f99d9d49fb2b4bc734bb8104e8f6f9504b8b11827c91f3d726b1f3086a27a.txt",
+        "matched_text": "DEED FRAUD NOTICE (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "wholesale-contract-cancellation",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/98c0e3aeb13de1dbefaf6644794e05af9bab338fc3667bcc88ae3f83d0511c7a.txt",
+        "matched_text": "CANCELLATION OF WHOLESALE CONTRACT (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "wire-fraud-advisory",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/abd039aa941c822ac398cd9560860e06c6e39f9aa243b2bdd69bc48f707206bd.txt",
+        "matched_text": "WIRE ADVISORY (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    },
+    {
+      "key": "property-data",
+      "printed_date": "01-01-2026",
+      "evidence": {
+        "text_path": "extracted-text/6291a563285b1cdad399fc93afbf9fcb97c67521c823545f090ce77a1a530293.txt",
+        "matched_text": "s is a legally binding Contract; if not understood, seek advice from an attorney.ProPerty Data Form (01-01-2026)",
+        "method": "Parenthetical date checked in extracted PDF text. Not independently verified as a legal effective date."
+      }
+    }
+  ],
+  "http_or_url_dates_used_as_publication_dates": false,
+  "legal_currency": "pending"
+}

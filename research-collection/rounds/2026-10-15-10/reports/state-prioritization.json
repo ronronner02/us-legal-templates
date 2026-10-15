@@ -1,0 +1,114 @@
+{
+  "baseline_head": "b13682c8849f36440d81d64f54356ac4cc9b94b2",
+  "baseline_distinct_originals": 706,
+  "count_method": "Distinct baseline original hashes mapped through historical combined inventory and later round inventories. Blank state code represents non-state or unmapped material and is not a state.",
+  "baseline_counts": {
+    "AK": 2,
+    "MS": 2,
+    "UT": 2,
+    "AZ": 3,
+    "CT": 3,
+    "FL": 3,
+    "IN": 3,
+    "MI": 3,
+    "MN": 3,
+    "NC": 3,
+    "ND": 3,
+    "HI": 4,
+    "NH": 4,
+    "OH": 4,
+    "VT": 4,
+    "WY": 4,
+    "GA": 5,
+    "OK": 5,
+    "RI": 5,
+    "AL": 6,
+    "AR": 6,
+    "NM": 6,
+    "KS": 7,
+    "KY": 7,
+    "MO": 7,
+    "ID": 8,
+    "IL": 9,
+    "NY": 10,
+    "SC": 10,
+    "TX": 10,
+    "VA": 10,
+    "IA": 12,
+    "PA": 12,
+    "SD": 12,
+    "TN": 12,
+    "LA": 14,
+    "MT": 15,
+    "CA": 16,
+    "DE": 16,
+    "WV": 16,
+    "NJ": 17,
+    "WA": 17,
+    "NV": 18,
+    "OR": 19,
+    "NE": 23,
+    "MA": 27,
+    "WI": 29,
+    "": 31,
+    "ME": 58,
+    "CO": 82,
+    "MD": 99
+  },
+  "evaluated": [
+    {
+      "state_code": "MS",
+      "baseline": 2,
+      "decision": "Robots HTTP 500; no source or document request."
+    },
+    {
+      "state_code": "IN",
+      "baseline": 3,
+      "decision": "Robots transport timeout; no source or document request."
+    },
+    {
+      "state_code": "WY",
+      "baseline": 4,
+      "decision": "Robots WAF challenge; persistent stop recorded."
+    },
+    {
+      "state_code": "AZ",
+      "baseline": 3,
+      "decision": "Robots HTTP 403 challenge; persistent stop recorded."
+    },
+    {
+      "state_code": "CT",
+      "baseline": 3,
+      "decision": "Robots disallows named assisted retrieval clients; persistent stop recorded."
+    },
+    {
+      "state_code": "FL",
+      "baseline": 3,
+      "decision": "Candidate judiciary hostname DNS lookup failed. No source or document request; not a finding about all Florida sources."
+    },
+    {
+      "state_code": "GA",
+      "baseline": 5,
+      "decision": "Catalog captured. Upload-directory PDFs disallowed by robots; link-only."
+    },
+    {
+      "state_code": "OK",
+      "baseline": 5,
+      "decision": "Official source and policy captures succeeded; 20 fresh candidates selected."
+    }
+  ],
+  "selection_rule": "Prefer low-count states subject to current source evidence, access and permission gates; do not force a quota or override restricted sources.",
+  "selected_by_state": {
+    "OK": 20
+  },
+  "acquired_by_state": {
+    "OK": 20
+  },
+  "before_after": {
+    "OK": {
+      "before": 5,
+      "added": 20,
+      "after": 25
+    }
+  }
+}

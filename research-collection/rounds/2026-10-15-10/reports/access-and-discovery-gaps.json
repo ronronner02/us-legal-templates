@@ -1,0 +1,130 @@
+{
+  "requests": [
+    {
+      "url": "https://courts.ms.gov/robots.txt",
+      "resolved_url": "https://courts.ms.gov/robots.txt",
+      "checked_at": "2026-10-15T08:16:22.298Z",
+      "http_status": 500,
+      "content_type": "text/html",
+      "headers": {
+        "content-length": "25781",
+        "content-type": "text/html",
+        "x-frame-options": "ALLOW-FROM https://courts.ms.gov",
+        "x-xss-protection": "1",
+        "x-content-type-options": "nosniff",
+        "content-security-policy": "object-src 'self'"
+      },
+      "kind": "robots",
+      "transport": "ordinary_browser_fetch",
+      "status": "http_500",
+      "sha256": "6779537e43ce5d71392041378de2430fa1ce2675da17deb73bba862c1abf8f6e",
+      "bytes": 25781,
+      "body_path": "evidence/http/browser-sources/6779537e43ce5d71392041378de2430fa1ce2675da17deb73bba862c1abf8f6e.body",
+      "receipt_file": "evidence/http/browser-sources/requests.json"
+    },
+    {
+      "url": "https://www.in.gov/robots.txt",
+      "checked_at": "2026-10-15T08:16:44.754Z",
+      "status": "fetch_error",
+      "reason": "Error: apiRequestContext.get: connect ETIMEDOUT 208.40.244.65:443\nCall log:\n\u001b[2m  - → GET https://www.in.gov/robots.txt\u001b[22m\n\u001b[2m    - user-agent: LegalTemplateResearch/0.1\u001b[22m\n\u001b[2m    - accept: */*\u001b[22m\n\u001b[2m    - accept-encoding: gzip,deflate,br\u001b[22m\n",
+      "kind": "robots",
+      "transport": "ordinary_browser_fetch",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "body_path": "evidence/http/browser-sources/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.body",
+      "receipt_file": "evidence/http/browser-sources/requests.json"
+    },
+    {
+      "url": "https://www.wyocourts.gov/robots.txt",
+      "resolved_url": "https://www.wyocourts.gov/robots.txt",
+      "checked_at": "2026-10-15T08:17:08.269Z",
+      "http_status": 202,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "server": "CloudFront",
+        "date": "Thu, 15 Oct 2026 08:17:11 GMT",
+        "content-length": "0",
+        "connection": "keep-alive",
+        "x-amzn-waf-action": "challenge",
+        "cache-control": "no-store, max-age=0",
+        "content-type": "text/html; charset=UTF-8",
+        "access-control-allow-origin": "*",
+        "access-control-max-age": "86400",
+        "access-control-allow-methods": "OPTIONS,GET,POST",
+        "access-control-expose-headers": "x-amzn-waf-action",
+        "x-cache": "Error from cloudfront",
+        "via": "1.1 5e4382c6ab9f1c9abcd4f0ccd698f9f4.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "HKG62-P1",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-amz-cf-id": "CIcOOQIjYjgrSI7WTa-D77NXcMqMzFInTRnhomsU_AOcGSW4z0Q0jg=="
+      },
+      "kind": "robots",
+      "transport": "ordinary_browser_fetch",
+      "status": "http_202",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "body_path": "evidence/http/browser-sources/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.body",
+      "receipt_file": "evidence/http/browser-sources/requests.json"
+    },
+    {
+      "url": "https://www.azcourts.gov/robots.txt",
+      "resolved_url": "https://www.azcourts.gov/robots.txt",
+      "checked_at": "2026-10-15T08:17:48.573Z",
+      "http_status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "date": "Thu, 15 Oct 2026 08:17:50 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "transfer-encoding": "chunked",
+        "connection": "close",
+        "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+        "cf-mitigated": "challenge",
+        "content-security-policy": "default-src 'none'; script-src 'nonce-ecyXc7abH08ReQPDVJlgiW' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'",
+        "server": "cloudflare",
+        "critical-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+        "cross-origin-embedder-policy": "require-corp",
+        "cross-origin-opener-policy": "same-origin",
+        "cross-origin-resource-policy": "same-origin",
+        "origin-agent-cluster": "?1",
+        "permissions-policy": "accelerometer=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=(),xr-spatial-tracking=*",
+        "referrer-policy": "same-origin",
+        "server-timing": "chlray;desc=\"a4ad63c3286b09fc\"",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "set-cookie": "__cf_bm=BMYTeImxOBIAmpWhQbnwqHhlOtJH.x8gylwdG0G1z_I-1792052270.5831351-1.0.1.1-6Z9qFvW6MvPobwPoUEwhtkAAZBxq2h9MQXlsC9LMvc.eGfu7XYY7f_lYnuvhSzukjL0q7Tok_uYzcXArfR56L2gxIRBqZDWnzMfajuE2G8XjRUaOcleEvdesxDf4ID56; HttpOnly; SameSite=None; Secure; Path=/; Domain=azcourts.gov; Expires=Thu, 15 Oct 2026 08:47:50 GMT",
+        "content-encoding": "gzip",
+        "cf-ray": "a4ad63c3286b09fc-HKG"
+      },
+      "kind": "robots",
+      "transport": "ordinary_browser_fetch",
+      "status": "http_403",
+      "sha256": "3e6c74e405a3b97a64ded1b5fab29833c98f07f7d113b2f2c0b7b6c5ef090d49",
+      "bytes": 5426,
+      "body_path": "evidence/http/browser-sources/3e6c74e405a3b97a64ded1b5fab29833c98f07f7d113b2f2c0b7b6c5ef090d49.body",
+      "receipt_file": "evidence/http/browser-sources/requests.json"
+    },
+    {
+      "url": "https://flcourts.gov/robots.txt",
+      "checked_at": "2026-10-15T08:18:08.858Z",
+      "status": "fetch_error",
+      "reason": "Error: apiRequestContext.get: getaddrinfo ENOTFOUND flcourts.gov\nCall log:\n\u001b[2m  - → GET https://flcourts.gov/robots.txt\u001b[22m\n\u001b[2m    - user-agent: LegalTemplateResearch/0.1\u001b[22m\n\u001b[2m    - accept: */*\u001b[22m\n\u001b[2m    - accept-encoding: gzip,deflate,br\u001b[22m\n",
+      "kind": "robots",
+      "transport": "ordinary_browser_fetch",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "body_path": "evidence/http/browser-sources/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.body",
+      "receipt_file": "evidence/http/browser-sources/requests.json"
+    }
+  ],
+  "not_fetched": [
+    {
+      "host": "www.jud.ct.gov",
+      "reason": "Captured robots disallows named assisted retrieval clients; no source or document fetch."
+    },
+    {
+      "host": "www.gasupreme.us",
+      "reason": "Document upload directory disallowed by robots; 42 links retained only."
+    }
+  ],
+  "scope": "Failures and restrictions concern evaluated hosts, not absence of useful documents across the states."
+}

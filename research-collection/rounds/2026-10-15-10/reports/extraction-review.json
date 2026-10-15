@@ -1,0 +1,134 @@
+[
+  {
+    "key": "property-condition-act-guide",
+    "parser_warnings": [],
+    "per_page": [
+      {
+        "page": 1,
+        "text_length": 5,
+        "replacement_characters": 0,
+        "printed_page_labels": []
+      },
+      {
+        "page": 2,
+        "text_length": 2354,
+        "replacement_characters": 0,
+        "printed_page_labels": []
+      },
+      {
+        "page": 3,
+        "text_length": 2625,
+        "replacement_characters": 0,
+        "printed_page_labels": []
+      },
+      {
+        "page": 4,
+        "text_length": 1657,
+        "replacement_characters": 0,
+        "printed_page_labels": []
+      },
+      {
+        "page": 5,
+        "text_length": 2298,
+        "replacement_characters": 0,
+        "printed_page_labels": []
+      },
+      {
+        "page": 6,
+        "text_length": 2356,
+        "replacement_characters": 0,
+        "printed_page_labels": []
+      },
+      {
+        "page": 7,
+        "text_length": 2549,
+        "replacement_characters": 0,
+        "printed_page_labels": []
+      },
+      {
+        "page": 8,
+        "text_length": 2574,
+        "replacement_characters": 0,
+        "printed_page_labels": []
+      },
+      {
+        "page": 9,
+        "text_length": 2826,
+        "replacement_characters": 0,
+        "printed_page_labels": []
+      },
+      {
+        "page": 10,
+        "text_length": 461,
+        "replacement_characters": 0,
+        "printed_page_labels": []
+      },
+      {
+        "page": 11,
+        "text_length": 25,
+        "replacement_characters": 0,
+        "printed_page_labels": []
+      }
+    ],
+    "status": "review_pending",
+    "notes": "Resource guide contains source-described statutory material, not a transaction form or independently verified current law. Eleven PDF pages retained; pages 1 and 11 have little extractable text. Their visual content and the printed edition date require review."
+  },
+  {
+    "key": "ownership-affidavit-individual",
+    "parser_warnings": [
+      "Ignoring wrong pointing object 6 0 (offset 0)",
+      "Ignoring wrong pointing object 8 0 (offset 0)",
+      "Ignoring wrong pointing object 10 0 (offset 0)",
+      "Ignoring wrong pointing object 12 0 (offset 0)",
+      "Ignoring wrong pointing object 14 0 (offset 0)"
+    ],
+    "per_page": [
+      {
+        "page": 1,
+        "text_length": 1696,
+        "replacement_characters": 0,
+        "printed_page_labels": []
+      },
+      {
+        "page": 2,
+        "text_length": 1382,
+        "replacement_characters": 0,
+        "printed_page_labels": []
+      }
+    ],
+    "status": "review_pending",
+    "notes": "Printed OAG 2023-1 identifies the individual ownership affidavit, not a verified revision date. It describes an exhibit to a deed. Parser emitted five object-pointer warnings; original bytes retained and viewer/structure review pending. No citizenship, residency, ownership or notarization finding is made."
+  },
+  {
+    "key": "property-data",
+    "parser_warnings": [],
+    "per_page": [
+      {
+        "page": 1,
+        "text_length": 1241,
+        "replacement_characters": 0,
+        "printed_page_labels": [
+          "Page 1 of 3"
+        ]
+      },
+      {
+        "page": 2,
+        "text_length": 1088,
+        "replacement_characters": 0,
+        "printed_page_labels": [
+          "Page 2 of 3"
+        ]
+      },
+      {
+        "page": 3,
+        "text_length": 763,
+        "replacement_characters": 202,
+        "printed_page_labels": [
+          "Page 3 of 3"
+        ]
+      }
+    ],
+    "status": "review_pending",
+    "notes": "Three-page residential data form is distinct from the statutory condition disclosure and verified property/title records. Page 3 extraction contains 202 replacement characters in field-line regions; original visual content and complete transcription need review."
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "source_url": "https://oklahoma.gov/orec/contract-forms-and-related-addenda.html",
+  "section_evidence": "evidence/oklahoma-contract-sections.json",
+  "findings": [
+    {
+      "type": "source_label_destination_mismatch",
+      "source_heading": "Lead-Based Paint - Residential Disclosure (EPA Link)",
+      "observed_destination": "https://oklahoma.gov/content/dam/ok/en/orec/documents/contracts-and-forms-page/2025-contract-forms/2025%20Lead-Based%20Paint%20Seller%20Disclosure.pdf",
+      "decision": "Not fetched; preserve observed 2025 local document destination separately from the source EPA-link label and acquired 2026 seller disclosure."
+    }
+  ],
+  "source_descriptions": "Captured source claims, not independently verified law.",
+  "legal_or_tax_advice_validation": "not_performed"
+}

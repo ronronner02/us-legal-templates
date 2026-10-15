@@ -1,0 +1,219 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T08:45:20.658191+00:00",
+  "baseline_tracked_files_preserved": 3198,
+  "baseline_unique_originals": 706,
+  "new_unique_originals": 20,
+  "combined_unique_originals": 726,
+  "states": {
+    "Oklahoma": 20
+  },
+  "formats": {
+    "pdf": 20
+  },
+  "pages": 43,
+  "sha256_duplicates": 0,
+  "request_bodies_hash_checked": 32,
+  "minimum_request_start_interval_seconds": 2.665,
+  "local_catalog_links_checked": 44,
+  "browser_check": "passed",
+  "head": "b13682c8849f36440d81d64f54356ac4cc9b94b2",
+  "branch": "library/organized-snapshot",
+  "remote": "https://github.com/ronronner02/us-legal-templates.git",
+  "remote_sha_matches_baseline": true,
+  "new_round_committed": false,
+  "new_round_pushed": false,
+  "inherited_holds_and_access_stops": "Preserved; three new access/robots stops recorded",
+  "original_bytes_unmodified": true,
+  "files": [
+    {
+      "path": "originals/OK/property-condition-act-guide-21021ad162da.pdf",
+      "sha256": "21021ad162da88c062d45281860b8c4caf326c0377aec697c231d7f4c44660ff",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/property-condition-disclaimer-f32281d53644.pdf",
+      "sha256": "f32281d53644ab98a374ebe13294112427d14b8fbf41f3edced77a30f1c37091",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/property-condition-exemption-b9f0c7471ab7.pdf",
+      "sha256": "b9f0c7471ab7a66bf9f52666f21c189b9f76683fcd6b6b9968d9a281ad7d3bc3",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/lead-paint-landlord-disclosure-382848cf976e.pdf",
+      "sha256": "382848cf976ea54e20aa07ffd3a4392f1ccf70fcb9a716c7e316348bcc5ba7f2",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/lead-paint-seller-disclosure-391bc00f8246.pdf",
+      "sha256": "391bc00f82468b5b99d31553dd2991a11b5bd29937e9ba0604a9afe214ab70f0",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/lease-application-4f04da76baa7.pdf",
+      "sha256": "4f04da76baa71ae55600358afaa40f9207cd234f054efd44ff50999a3dbb3133",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/broker-disclosure-landlord-tenant-a68028b98cc7.pdf",
+      "sha256": "a68028b98cc7d268380d09166b7d6683ea9e107582019e5dba0ad317ce3d1d22",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/key-rekeying-addendum-7f91e4c18538.pdf",
+      "sha256": "7f91e4c18538dfc7a2c11869f11e079327659ab9dfe07b676db589a26fc0d8d0",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/pet-addendum-ab36f3eadd90.pdf",
+      "sha256": "ab36f3eadd90261be8bae54c13bd7cf90f85c4b0469a0fdba591e503b2fed37a",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/lease-supplement-6ebfd3ea8e94.pdf",
+      "sha256": "6ebfd3ea8e9474a779697f0450a3b134a1f3dfa18a83d79b25f31521ec000763",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/tenancy-guidelines-3558bf9927f0.pdf",
+      "sha256": "3558bf9927f0a33259799d8c4b5734988f51b106e451b964f4dbc5f6587f3216",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/ownership-affidavit-individual-ed41af0e05f2.pdf",
+      "sha256": "ed41af0e05f26613b45c41806cadf9572f4dc7b75d01c357a445d9e8439a4203",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/ownership-affidavit-nonexempt-business-dac778521d9d.pdf",
+      "sha256": "dac778521d9d1fc8d7cdf45acb945a1c73d08bc2ce14f86e27cbce402e234352",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/ownership-affidavit-exempt-business-7435d6bdb620.pdf",
+      "sha256": "7435d6bdb62031e53f23293ed7b3b6cdb0487240ce7528dec2bba12458cc4b00",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/nonforeign-seller-affidavit-8461d6ca8db2.pdf",
+      "sha256": "8461d6ca8db246941d5da27ada68023054eb568bd40c984cada8efc1dd74821b",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/nonforeign-seller-information-1dd125b6e85a.pdf",
+      "sha256": "1dd125b6e85a1fa64875476276b0ac16b05ad3fd84f2347aaa703a8233741491",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/deed-fraud-notice-679f99d9d49f.pdf",
+      "sha256": "679f99d9d49fb2b4bc734bb8104e8f6f9504b8b11827c91f3d726b1f3086a27a",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/wholesale-contract-cancellation-98c0e3aeb13d.pdf",
+      "sha256": "98c0e3aeb13de1dbefaf6644794e05af9bab338fc3667bcc88ae3f83d0511c7a",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/wire-fraud-advisory-abd039aa941c.pdf",
+      "sha256": "abd039aa941c822ac398cd9560860e06c6e39f9aa243b2bdd69bc48f707206bd",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/OK/property-data-6291a563285b.pdf",
+      "sha256": "6291a563285b1cdad399fc93afbf9fcb97c67521c823545f090ce77a1a530293",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    }
+  ],
+  "limitations": [
+    "No original visual rendering, OCR, field testing, calculation testing or signature validation.",
+    "Sixteen parenthetical form dates checked in text. OAG identifiers are not edition dates. Guide date, pagination, parser warnings and extraction anomalies remain under review.",
+    "Legal and tax currency, complete packets, professional acceptance, reuse and publication approval remain pending.",
+    "No full-library semantic deduplication.",
+    "Historical root README and combined overview remain at the 658-document snapshot.",
+    "Independent code review not run."
+  ],
+  "delivery_state_scope": "Verified pre-commit checkpoint for round 10. Commit and push state after this checkpoint is recorded by Git history."
+}

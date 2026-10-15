@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/ronronner02/us-legal-templates.git",
+  "branch": "library/organized-snapshot",
+  "commit": "b13682c8849f36440d81d64f54356ac4cc9b94b2",
+  "round": "2026-10-15-09",
+  "scope": "23 Nebraska and New Hampshire original PDFs and evidence.",
+  "remote_sha_verified_before_round": true,
+  "new_round_committed": false,
+  "new_round_pushed": false
+}

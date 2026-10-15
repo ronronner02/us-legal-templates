@@ -1,0 +1,42 @@
+[
+  {
+    "owner": "collection reviewer",
+    "task": "Render pet addendum pages and review inconsistent printed page totals and Section Marker header.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Render the guide low-text pages and property-data page 3; inspect replacement characters, fields and transcription completeness.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review original OAG 2023-1 parser warnings in a compatible viewer without modifying the original. Keep OAG identifiers separate from edition dates.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review state ownership, federal tax, cancellation, disclosure, lead-paint, assistance-animal and application-fee conditions with qualified reviewers; do not treat source statements as independently verified current law.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review permitted reuse, commercial rights, modification and publication approval using captured policy evidence.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review missing case-specific companions, signatures, notarizations, notice delivery and complete transaction packets.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Continue low-count-state research while respecting all inherited and newly recorded access stops and robots paths.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Refresh the root README and historical 658-document combined overview in a separately scoped update.",
+    "status": "pending"
+  }
+]

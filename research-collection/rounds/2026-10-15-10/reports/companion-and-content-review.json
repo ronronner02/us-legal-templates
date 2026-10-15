@@ -1,0 +1,65 @@
+{
+  "groups": [
+    [
+      "property-condition-act-guide",
+      "property-condition-disclaimer",
+      "property-condition-exemption"
+    ],
+    [
+      "lead-paint-landlord-disclosure",
+      "lead-paint-seller-disclosure"
+    ],
+    [
+      "lease-application",
+      "broker-disclosure-landlord-tenant",
+      "key-rekeying-addendum",
+      "pet-addendum",
+      "lease-supplement",
+      "tenancy-guidelines"
+    ],
+    [
+      "ownership-affidavit-individual",
+      "ownership-affidavit-nonexempt-business",
+      "ownership-affidavit-exempt-business"
+    ],
+    [
+      "nonforeign-seller-affidavit",
+      "nonforeign-seller-information"
+    ]
+  ],
+  "prior_related_originals": [
+    {
+      "title": "Oklahoma Residential Lease Agreement",
+      "repository_path": "organized-library/01_Review_Required/01_State_Documents/OK_Oklahoma/A_Real_Estate/OK-Oklahoma-Residential-Lease-Agreement--b1c3b0a610bc.pdf",
+      "sha256": "b1c3b0a610bc35a0a90b3821209d34b3509dfce59d24572a43d10ed47b60fb42"
+    },
+    {
+      "title": "Oklahoma Residential Lease Flood Notice (Notice to Tenant)",
+      "repository_path": "organized-library/01_Review_Required/01_State_Documents/OK_Oklahoma/A_Real_Estate/OK-Oklahoma-Residential-Lease-Flood-Notice--Notice-to-Tenant--9c84cc17374d.pdf",
+      "sha256": "9c84cc17374d46e9f0f485e78cba410c4c5110681a1877a4214f4dbb3e0dd69e"
+    },
+    {
+      "title": "Oklahoma Residential Property Condition Disclosure Statement (Appendix A)",
+      "repository_path": "organized-library/01_Review_Required/01_State_Documents/OK_Oklahoma/A_Real_Estate/OK-Oklahoma-Residential-Property-Condition-Disclosure-Statement--App--e9166f17de87.pdf",
+      "sha256": "e9166f17de87571efb15211d9ac59b048909c252b5048fc602fbdd38ec3b2d72"
+    }
+  ],
+  "missing_or_unverified_companions": [
+    "Property-specific condition, inspection and hazard reports",
+    "Approved lead-information pamphlet and proof of receipt",
+    "Pet Application referenced by Pet Addendum",
+    "Executed primary lease and negotiated terms",
+    "Recorded deed, property/title evidence, entity authority and notarizations",
+    "Current tax forms, withholding determinations and professional review"
+  ],
+  "distinctions": [
+    "Disclosure versus disclaimer versus exemption",
+    "Landlord versus seller lead-paint disclosure",
+    "Application versus lease addendum versus brokerage disclosure",
+    "Individual versus non-exempt business/trust versus exempt business/trust ownership affidavit",
+    "Land-ownership affidavit versus federal tax-status affidavit",
+    "Advisory or guidance versus a completed notice or transaction"
+  ],
+  "packet_completeness": "not_verified",
+  "full_library_semantic_deduplication": "not_performed"
+}

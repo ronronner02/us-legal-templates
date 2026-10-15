@@ -1,0 +1,237 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T08:32:50.102Z",
+  "scope": "Local round-10 catalog filters, search, empty/reset and original response-byte checks. Original visual rendering and interactive fields not tested.",
+  "catalog_url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-10/index.html",
+  "checks": [
+    {
+      "name": "initial",
+      "expected": 20,
+      "actual": 20
+    },
+    {
+      "name": "state Oklahoma",
+      "expected": 20,
+      "actual": 20
+    },
+    {
+      "name": "category real estate",
+      "expected": 20,
+      "actual": 20
+    },
+    {
+      "name": "use agency_guide",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "name": "use statutory_disclosure",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "name": "use application_form",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "name": "use brokerage_disclosure",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "name": "use contract_addendum",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "name": "use contract_supplement",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "name": "use lease_rules",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "name": "use ownership_affidavit",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "name": "use tax_affidavit",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "name": "use tax_information_guide",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "name": "use consumer_notice",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "name": "use cancellation_notice",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "name": "use property_information_form",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "name": "combined identifier search",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "name": "reset combined",
+      "expected": 20,
+      "actual": 20
+    },
+    {
+      "name": "title search",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "name": "empty search",
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "name": "reset empty",
+      "expected": 20,
+      "actual": 20
+    }
+  ],
+  "original_urls_checked": 20,
+  "originals": [
+    {
+      "path": "originals/OK/ownership-affidavit-exempt-business-7435d6bdb620.pdf",
+      "status": 200,
+      "bytes": 98318,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/ownership-affidavit-individual-ed41af0e05f2.pdf",
+      "status": 200,
+      "bytes": 85396,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/ownership-affidavit-nonexempt-business-dac778521d9d.pdf",
+      "status": 200,
+      "bytes": 95690,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/broker-disclosure-landlord-tenant-a68028b98cc7.pdf",
+      "status": 200,
+      "bytes": 75599,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/key-rekeying-addendum-7f91e4c18538.pdf",
+      "status": 200,
+      "bytes": 64466,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/lead-paint-landlord-disclosure-382848cf976e.pdf",
+      "status": 200,
+      "bytes": 75124,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/lead-paint-seller-disclosure-391bc00f8246.pdf",
+      "status": 200,
+      "bytes": 77605,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/nonforeign-seller-affidavit-8461d6ca8db2.pdf",
+      "status": 200,
+      "bytes": 70041,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/nonforeign-seller-information-1dd125b6e85a.pdf",
+      "status": 200,
+      "bytes": 68370,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/wholesale-contract-cancellation-98c0e3aeb13d.pdf",
+      "status": 200,
+      "bytes": 68555,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/deed-fraud-notice-679f99d9d49f.pdf",
+      "status": 200,
+      "bytes": 62721,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/pet-addendum-ab36f3eadd90.pdf",
+      "status": 200,
+      "bytes": 93158,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/property-data-6291a563285b.pdf",
+      "status": 200,
+      "bytes": 148313,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/lease-application-4f04da76baa7.pdf",
+      "status": 200,
+      "bytes": 234705,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/lease-supplement-6ebfd3ea8e94.pdf",
+      "status": 200,
+      "bytes": 63511,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/property-condition-disclaimer-f32281d53644.pdf",
+      "status": 200,
+      "bytes": 209606,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/property-condition-act-guide-21021ad162da.pdf",
+      "status": 200,
+      "bytes": 1377295,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/property-condition-exemption-b9f0c7471ab7.pdf",
+      "status": 200,
+      "bytes": 73099,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/tenancy-guidelines-3558bf9927f0.pdf",
+      "status": 200,
+      "bytes": 89438,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/OK/wire-fraud-advisory-abd039aa941c.pdf",
+      "status": 200,
+      "bytes": 62183,
+      "signature": "%PDF-"
+    }
+  ],
+  "page_errors": []
+}

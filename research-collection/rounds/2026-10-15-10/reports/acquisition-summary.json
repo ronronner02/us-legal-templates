@@ -1,0 +1,12 @@
+{
+  "selected_candidates": 20,
+  "acquired_originals": 20,
+  "document_attempts": 20,
+  "unresolved_document_failures": 0,
+  "by_state": {
+    "Oklahoma": 20
+  },
+  "transport": "Sequential ordinary requests at least two seconds apart, after per-host robots validation and inherited hold screening. Original response bodies and headers preserved.",
+  "additional_link_only_originals_counted": 0,
+  "inherited_holds": "Preserved; three new access/robots stops recorded."
+}

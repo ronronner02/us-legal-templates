@@ -1,0 +1,76 @@
+User-agent: *
+Disallow: /external/supapp/Cases/AROap/70ap350.pdf
+Disallow: /external/news/jobs/
+Disallow: /superiorcourt/MODDocs/
+Disallow: /LegalResources/MOD/documentpreview
+Disallow: /legalResources/MOD/Documentpreview
+Disallow: /legalResources/MOD/documentpreview
+Disallow: /ArchivedNoIndexPDFs/
+Disallow: /elp/paralegal.htm
+Disallow: /external/supapp/appJudge_alexander.htm
+Disallow: /jury/accom/norwalk.htm
+Disallow: /Publications/CR137C.pdf
+Disallow: /HomePDFs/QDROApprovalv2.pdf
+Disallow: /Publications/ja044.pdf
+Disallow: /Publications/ja024.pdf
+Disallow: /external/super/E-Services/efile/efile_documents_list_CV.pdf
+Disallow: /external/super/E-Services/efile/efile_documents_list_FA.pdf
+Disallow: /external/super/magistrate_notice_0311.htm 
+ 
+
+
+# Major LLM Training Bots
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+User-agent: cohere-ai
+Disallow: /
+User-agent: cohere-training-data-crawler
+Disallow: /
+
+# Google & Meta AI Controls
+User-agent: Google-Extended
+Disallow: /
+User-agent: FacebookBot
+Disallow: /
+User-agent: Meta-ExternalAgent
+Disallow: /
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+# AI Search & Retrieval Bots
+User-agent: PerplexityBot
+Disallow: /
+User-agent: Perplexity-User
+Disallow: /
+User-agent: OAI-SearchBot
+Disallow: /
+User-agent: YouBot
+Disallow: /
+User-agent: DuckAssistBot
+Disallow: /
+
+# Data Aggregators & Scrapers
+User-agent: CCBot
+Disallow: /
+User-agent: omgili
+Disallow: /
+User-agent: omgilibot
+Disallow: /
+User-agent: Diffbot
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: ImagesiftBot
+Disallow: /
+User-agent: img2dataset
+Disallow: /
+
+# Apple AI Systems
+User-agent: Applebot-Extended
+Disallow: /
