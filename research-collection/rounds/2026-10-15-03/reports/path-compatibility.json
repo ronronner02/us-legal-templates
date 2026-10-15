@@ -1,0 +1,29 @@
+{
+  "changes": [
+    {
+      "old_path": "originals/MD/dc-cv-083-complaint-for-rent-escrow-and-breach-of-warranty-of-habitability-b8017eb975a5.pdf",
+      "path": "originals/MD/dc-cv-083-b8017eb975a5.pdf",
+      "sha256": "b8017eb975a5b142f0c5d2798e7a31f52552200fd55c2316f2b7b13badf71c9d",
+      "reason": "Shortened storage filename after ordinary Windows HTTP serving returned 404 for an existing long path. Original bytes and descriptive metadata retained."
+    },
+    {
+      "old_path": "originals/MD/dc-cv-115-notice-of-intent-to-file-a-complaint-for-summary-ejectment-failure-to-pay-rent-f99ff6d21fe9.pdf",
+      "path": "originals/MD/dc-cv-115-f99ff6d21fe9.pdf",
+      "sha256": "f99ff6d21fe93c77f640e03f247dc8b9954e965eec6852e29fd75c3ed8085fbd",
+      "reason": "Shortened storage filename after ordinary Windows HTTP serving returned 404 for an existing long path. Original bytes and descriptive metadata retained."
+    },
+    {
+      "old_path": "originals/MD/dc-cv-116-request-to-shield-court-records-related-to-repossession-of-residential-property-for-failure-to-pay-rent-3404b5a259ca.pdf",
+      "path": "originals/MD/dc-cv-116-3404b5a259ca.pdf",
+      "sha256": "3404b5a259ca8de022fd33daf97660fce7df980bb61d9a1913a5f7ac2e65a18a",
+      "reason": "Shortened storage filename after ordinary Windows HTTP serving returned 404 for an existing long path. Original bytes and descriptive metadata retained."
+    },
+    {
+      "old_path": "originals/MD/dc-cv-036-motion-for-release-of-property-from-levy-garnishment-or-to-exempt-property-from-execution-33bd8a773be7.pdf",
+      "path": "originals/MD/dc-cv-036-33bd8a773be7.pdf",
+      "sha256": "33bd8a773be7e6181b1cf0e9a5591b724e48ea363c1d7c41073cb88d25c5d70f",
+      "reason": "Shortened storage filename after ordinary Windows HTTP serving returned 404 for an existing long path. Original bytes and descriptive metadata retained."
+    }
+  ],
+  "original_bytes_unchanged": true
+}

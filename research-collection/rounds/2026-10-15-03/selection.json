@@ -1,0 +1,641 @@
+[
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; housing and landlord-tenant proceedings",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/dccv080.pdf",
+    "source_link_title": "DC-CV-080",
+    "title": "Complaint and Summons Against Tenant Holding Over",
+    "slug": "dc-cv-080-complaint-and-summons-against-tenant-holding-over",
+    "category": "Housing and landlord-tenant",
+    "family_id": "md-dc-cv-080",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?080"
+    ],
+    "source_listed_revision": "10/2025",
+    "source_row_text": "DC-CV-080 | Complaint and Summons Against Tenant Holding Over | 10/2025 |  | ",
+    "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; housing and landlord-tenant proceedings",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/dccv081.pdf",
+    "source_link_title": "DC-CV-081",
+    "title": "Petition for Warrant of Restitution",
+    "slug": "dc-cv-081-petition-for-warrant-of-restitution",
+    "category": "Housing and landlord-tenant",
+    "family_id": "md-dc-cv-081",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?081"
+    ],
+    "source_listed_revision": "07/01/2026",
+    "source_row_text": "DC-CV-081 | Petition for Warrant of Restitution | 07/01/2026 | 5 | ",
+    "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; housing and landlord-tenant proceedings",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv083.pdf/dccv083.pdf",
+    "source_link_title": "DC-CV-083",
+    "title": "Complaint for Rent Escrow and Breach of Warranty of Habitability",
+    "slug": "dc-cv-083-complaint-for-rent-escrow-and-breach-of-warranty-of-habitability",
+    "category": "Housing and landlord-tenant",
+    "family_id": "md-dc-cv-083",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?083"
+    ],
+    "source_listed_revision": "10/2025",
+    "source_row_text": "DC-CV-083 | Complaint for Rent Escrow and Breach of Warranty of Habitability | 10/2025 |  | Need help filling out court forms? Maryland Guide & File is a web-based tool that helps fill out court forms. To use this Maryland Guide & File interview, CLICK HERE .",
+    "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; housing and landlord-tenant proceedings",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv085.pdf/dccv085.pdf",
+    "source_link_title": "DC-CV-085",
+    "title": "Complaint and Summons Against Tenant in Breach of Lease",
+    "slug": "dc-cv-085-complaint-and-summons-against-tenant-in-breach-of-lease",
+    "category": "Housing and landlord-tenant",
+    "family_id": "md-dc-cv-085",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?085"
+    ],
+    "source_listed_revision": "10/2025",
+    "source_row_text": "DC-CV-085 | Complaint and Summons Against Tenant in Breach of Lease | 10/2025 | 5 | ",
+    "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; housing and landlord-tenant proceedings",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv086.pdf/dccv086.pdf",
+    "source_link_title": "DC-CV-086",
+    "title": "Petition for Levy in Distress",
+    "slug": "dc-cv-086-petition-for-levy-in-distress",
+    "category": "Housing and landlord-tenant",
+    "family_id": "md-dc-cv-086",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?086"
+    ],
+    "source_listed_revision": "10/2025",
+    "source_row_text": "DC-CV-086 | Petition for Levy in Distress | 10/2025 |  | ",
+    "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; housing and landlord-tenant proceedings",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv087.pdf/dccv087.pdf",
+    "source_link_title": "DC-CV-087",
+    "title": "Motion to Sell Distrained Goods",
+    "slug": "dc-cv-087-motion-to-sell-distrained-goods",
+    "category": "Housing and landlord-tenant",
+    "family_id": "md-dc-cv-087",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?087"
+    ],
+    "source_listed_revision": "07/2021",
+    "source_row_text": "DC-CV-087 | Motion to Sell Distrained Goods | 07/2021 |  | ",
+    "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; housing and landlord-tenant proceedings",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv088.pdf/dccv088.pdf",
+    "source_link_title": "DC-CV-088",
+    "title": "Motion for Order to Follow Goods Under Distress",
+    "slug": "dc-cv-088-motion-for-order-to-follow-goods-under-distress",
+    "category": "Housing and landlord-tenant",
+    "family_id": "md-dc-cv-088",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?088"
+    ],
+    "source_listed_revision": "07/2021",
+    "source_row_text": "DC-CV-088 | Motion for Order to Follow Goods Under Distress | 07/2021 |  | ",
+    "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; housing and landlord-tenant proceedings",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv089.pdf/dccv089.pdf",
+    "source_link_title": "DC-CV-089",
+    "title": "Complaint for Wrongful Detainer",
+    "slug": "dc-cv-089-complaint-for-wrongful-detainer",
+    "category": "Housing and landlord-tenant",
+    "family_id": "md-dc-cv-089",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?089"
+    ],
+    "source_listed_revision": "10/2025",
+    "source_row_text": "DC-CV-089 | Complaint for Wrongful Detainer | 10/2025 |  | ",
+    "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; housing and landlord-tenant proceedings",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv109.pdf/dccv109.pdf",
+    "source_link_title": "DC-CV-109",
+    "title": "Complaint for Grantor in Possession",
+    "slug": "dc-cv-109-complaint-for-grantor-in-possession",
+    "category": "Housing and landlord-tenant",
+    "family_id": "md-dc-cv-109",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?109"
+    ],
+    "source_listed_revision": "05/2023",
+    "source_row_text": "DC-CV-109 | Complaint for Grantor in Possession | 05/2023 |  | ",
+    "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; housing and landlord-tenant proceedings",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/dccv115.pdf",
+    "source_link_title": "DC-CV-115",
+    "title": "Notice of Intent to File a Complaint for Summary Ejectment (Failure to Pay Rent)",
+    "slug": "dc-cv-115-notice-of-intent-to-file-a-complaint-for-summary-ejectment-failure-to-pay-rent",
+    "category": "Housing and landlord-tenant",
+    "family_id": "md-dc-cv-115",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?115"
+    ],
+    "source_listed_revision": "10/2024",
+    "source_row_text": "DC-CV-115 | Notice of Intent to File a Complaint for Summary Ejectment (Failure to Pay Rent) | 10/2024 |  | ",
+    "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; housing and landlord-tenant proceedings",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/dccv116.pdf",
+    "source_link_title": "DC-CV-116",
+    "title": "Request to Shield Court Records Related to Repossession of Residential Property for Failure to Pay Rent",
+    "slug": "dc-cv-116-request-to-shield-court-records-related-to-repossession-of-residential-property-for-failure-to-pay-rent",
+    "category": "Housing and landlord-tenant",
+    "family_id": "md-dc-cv-116",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?116"
+    ],
+    "source_listed_revision": "07/2026",
+    "source_row_text": "DC-CV-116 | Request to Shield Court Records Related to Repossession of Residential Property for Failure to Pay Rent | 07/2026 |  | Need help filling out court forms? Maryland Guide & File is a web-based tool that helps fill out court forms. To use this Maryland Guide & File interview, CLICK HERE .",
+    "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; housing and landlord-tenant proceedings",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/dccv119.pdf",
+    "source_link_title": "DC-CV-119",
+    "title": "Petition to Shield a Failure to Pay Rent Action Record",
+    "slug": "dc-cv-119-petition-to-shield-a-failure-to-pay-rent-action-record",
+    "category": "Housing and landlord-tenant",
+    "family_id": "md-dc-cv-119",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?119"
+    ],
+    "source_listed_revision": "07/2026",
+    "source_row_text": "DC-CV-119 | Petition to Shield a Failure to Pay Rent Action Record | 07/2026 |  | ",
+    "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; housing and landlord-tenant proceedings",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/dccv120.pdf",
+    "source_link_title": "DC-CV-120",
+    "title": "Petition for Injunction",
+    "slug": "dc-cv-120-petition-for-injunction",
+    "category": "Housing and landlord-tenant",
+    "family_id": "md-dc-cv-120",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?120"
+    ],
+    "source_listed_revision": "10/2025",
+    "source_row_text": "DC-CV-120 | Petition for Injunction | 10/2025 |  | ",
+    "selection_reason": "Adds an official housing procedure form absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+    "publisher": "Unified Judicial System of Pennsylvania",
+    "source_url": "https://www.pacourts.us/forms/for-the-public",
+    "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233058-215950-noticeofappealfrommagisterialdistrictjudgejudgment-000763.pdf",
+    "source_link_title": "‌ ‌Notice of Appeal from Magisterial District Judge Judgment",
+    "title": "Notice of Appeal from Magisterial District Judge Judgment",
+    "slug": "notice-appeal-magisterial-judgment",
+    "category": "Housing and civil procedure",
+    "family_id": "pa-notice-appeal-magisterial-judgment",
+    "identity_patterns": [
+      "NOTICE\\s+OF\\s+APPEAL",
+      "MAGISTERIAL"
+    ],
+    "source_listed_revision": null,
+    "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved."
+  },
+  {
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+    "publisher": "Unified Judicial System of Pennsylvania",
+    "source_url": "https://www.pacourts.us/forms/for-the-public",
+    "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233209-220005-tanonsection81008c2-000772.pdf",
+    "source_link_title": "‌ ‌Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+    "title": "Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+    "slug": "tenant-affidavit-non-section-8-rule-1008",
+    "category": "Housing and civil procedure",
+    "family_id": "pa-tenant-affidavit-non-section-8-rule-1008",
+    "identity_patterns": [
+      "AFFIDAVIT",
+      "1008"
+    ],
+    "source_listed_revision": null,
+    "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved."
+  },
+  {
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+    "publisher": "Unified Judicial System of Pennsylvania",
+    "source_url": "https://www.pacourts.us/forms/for-the-public",
+    "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233332-220014-tanonsection81013c2-000773.pdf",
+    "source_link_title": "‌ ‌Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+    "title": "Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+    "slug": "tenant-affidavit-non-section-8-rule-1013",
+    "category": "Housing and civil procedure",
+    "family_id": "pa-tenant-affidavit-non-section-8-rule-1013",
+    "identity_patterns": [
+      "AFFIDAVIT",
+      "1013"
+    ],
+    "source_listed_revision": null,
+    "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved."
+  },
+  {
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+    "publisher": "Unified Judicial System of Pennsylvania",
+    "source_url": "https://www.pacourts.us/forms/for-the-public",
+    "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234313-220022-tasection81008c2-000774.pdf",
+    "source_link_title": "‌ ‌Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+    "title": "Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+    "slug": "tenant-affidavit-section-8-rule-1008",
+    "category": "Housing and civil procedure",
+    "family_id": "pa-tenant-affidavit-section-8-rule-1008",
+    "identity_patterns": [
+      "AFFIDAVIT",
+      "1008"
+    ],
+    "source_listed_revision": null,
+    "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved."
+  },
+  {
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+    "publisher": "Unified Judicial System of Pennsylvania",
+    "source_url": "https://www.pacourts.us/forms/for-the-public",
+    "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234409-220034-tasection81013c2-000775.pdf",
+    "source_link_title": "‌ ‌Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+    "title": "Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+    "slug": "tenant-affidavit-section-8-rule-1013",
+    "category": "Housing and civil procedure",
+    "family_id": "pa-tenant-affidavit-section-8-rule-1013",
+    "identity_patterns": [
+      "AFFIDAVIT",
+      "1013"
+    ],
+    "source_listed_revision": null,
+    "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved."
+  },
+  {
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+    "publisher": "Unified Judicial System of Pennsylvania",
+    "source_url": "https://www.pacourts.us/forms/for-the-public",
+    "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20260115/193559-2026supplementalinstructionsheet.pdf",
+    "source_link_title": "‌ ‌Tenant Affidavit - Supplemental Instructions for Obtaining a Stay of Eviction",
+    "title": "Tenant Affidavit - Supplemental Instructions for Obtaining a Stay of Eviction",
+    "slug": "tenant-affidavit-stay-eviction-instructions",
+    "category": "Housing and civil procedure",
+    "family_id": "pa-tenant-affidavit-stay-eviction-instructions",
+    "identity_patterns": [
+      "INSTRUCTIONS",
+      "EVICTION"
+    ],
+    "source_listed_revision": null,
+    "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved."
+  },
+  {
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+    "publisher": "Unified Judicial System of Pennsylvania",
+    "source_url": "https://www.pacourts.us/forms/for-the-public",
+    "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20221115/152545-220318-authorizationofrepresentativeform317-003474.pdf",
+    "source_link_title": "‌ ‌Authorization of Representative",
+    "title": "Authorization of Representative",
+    "slug": "authorization-representative",
+    "category": "Housing and civil procedure",
+    "family_id": "pa-authorization-representative",
+    "identity_patterns": [
+      "AUTHORIZATION",
+      "REPRESENTATIVE"
+    ],
+    "source_listed_revision": null,
+    "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved."
+  },
+  {
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+    "publisher": "Unified Judicial System of Pennsylvania",
+    "source_url": "https://www.pacourts.us/forms/for-the-public",
+    "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20210515/220322-file-3664.pdf",
+    "source_link_title": "‌ ‌Request for Determination of Abandonment",
+    "title": "Request for Determination of Abandonment",
+    "slug": "request-determination-abandonment",
+    "category": "Housing and civil procedure",
+    "family_id": "pa-request-determination-abandonment",
+    "identity_patterns": [
+      "ABANDONMENT"
+    ],
+    "source_listed_revision": null,
+    "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved."
+  },
+  {
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+    "publisher": "Unified Judicial System of Pennsylvania",
+    "source_url": "https://www.pacourts.us/forms/for-the-public",
+    "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20221101/000102-220328-file-10974.pdf",
+    "source_link_title": "‌ ‌Domestic Violence Affidavit",
+    "title": "Domestic Violence Affidavit",
+    "slug": "domestic-violence-affidavit",
+    "category": "Housing and civil procedure",
+    "family_id": "pa-domestic-violence-affidavit",
+    "identity_patterns": [
+      "DOMESTIC\\s+VIOLENCE",
+      "AFFIDAVIT"
+    ],
+    "source_listed_revision": null,
+    "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved."
+  },
+  {
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+    "publisher": "Unified Judicial System of Pennsylvania",
+    "source_url": "https://www.pacourts.us/forms/for-the-public",
+    "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222809-requestfororderforpossession-004524.pdf",
+    "source_link_title": "‌ ‌Request for Order for Possession",
+    "title": "Request for Order for Possession",
+    "slug": "request-order-possession",
+    "category": "Housing and civil procedure",
+    "family_id": "pa-request-order-possession",
+    "identity_patterns": [
+      "REQUEST",
+      "POSSESSION"
+    ],
+    "source_listed_revision": null,
+    "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved."
+  },
+  {
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+    "publisher": "Unified Judicial System of Pennsylvania",
+    "source_url": "https://www.pacourts.us/forms/for-the-public",
+    "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20260331/202849-noticeofsettlementwithstipulatedjudgment.pdf",
+    "source_link_title": "‌ Notice of Settlement with Stipulated Judgment",
+    "title": "Notice of Settlement with Stipulated Judgment",
+    "slug": "notice-settlement-with-stipulated-judgment",
+    "category": "Housing and civil procedure",
+    "family_id": "pa-notice-settlement-with-stipulated-judgment",
+    "identity_patterns": [
+      "NOTICE\\s+OF\\s+SETTLEMENT",
+      "WITH\\s+STIPULATED\\s+JUDGMENT"
+    ],
+    "source_listed_revision": null,
+    "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved."
+  },
+  {
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+    "publisher": "Unified Judicial System of Pennsylvania",
+    "source_url": "https://www.pacourts.us/forms/for-the-public",
+    "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20260331/202849-noticeofsettlementwithoutstipulatedjudgment.pdf",
+    "source_link_title": "‌ Notice of Settlement without Stipulated Judgment",
+    "title": "Notice of Settlement without Stipulated Judgment",
+    "slug": "notice-settlement-without-stipulated-judgment",
+    "category": "Housing and civil procedure",
+    "family_id": "pa-notice-settlement-without-stipulated-judgment",
+    "identity_patterns": [
+      "NOTICE\\s+OF\\s+SETTLEMENT",
+      "WITHOUT\\s+STIPULATED\\s+JUDGMENT"
+    ],
+    "source_listed_revision": null,
+    "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+    "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; civil procedure and judgment enforcement",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv015.pdf/dccv015.pdf",
+    "source_link_title": "DC-CV-015",
+    "title": "Request to File Foreign Judgment",
+    "slug": "dc-cv-015-request-to-file-foreign-judgment",
+    "category": "Civil procedure and judgments",
+    "family_id": "md-dc-cv-015",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?015"
+    ],
+    "source_listed_revision": "06/2023",
+    "source_row_text": "DC-CV-015 | Request to File Foreign Judgment | 06/2023 |  | ",
+    "selection_reason": "Adds an official civil procedure form absent from baseline URLs after Pennsylvania acquisition stopped on HTTP 403.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; civil procedure and judgment enforcement",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv021.pdf/dccv021.pdf",
+    "source_link_title": "DC-CV-021",
+    "title": "Notice of Dismissal",
+    "slug": "dc-cv-021-notice-of-dismissal",
+    "category": "Civil procedure and judgments",
+    "family_id": "md-dc-cv-021",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?021"
+    ],
+    "source_listed_revision": "07/2026",
+    "source_row_text": "DC-CV-021 | Notice of Dismissal | 07/2026 |  | ",
+    "selection_reason": "Adds an official civil procedure form absent from baseline URLs after Pennsylvania acquisition stopped on HTTP 403.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; civil procedure and judgment enforcement",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv023.pdf/dccv023.pdf",
+    "source_link_title": "DC-CV-023",
+    "title": "Request to Renew Judgment",
+    "slug": "dc-cv-023-request-to-renew-judgment",
+    "category": "Civil procedure and judgments",
+    "family_id": "md-dc-cv-023",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?023"
+    ],
+    "source_listed_revision": "10/2014",
+    "source_row_text": "DC-CV-023 | Request to Renew Judgment | 10/2014 |  | ",
+    "selection_reason": "Adds an official civil procedure form absent from baseline URLs after Pennsylvania acquisition stopped on HTTP 403.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; civil procedure and judgment enforcement",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv031.pdf/dccv031.pdf",
+    "source_link_title": "DC-CV-031",
+    "title": "Notice of Satisfaction",
+    "slug": "dc-cv-031-notice-of-satisfaction",
+    "category": "Civil procedure and judgments",
+    "family_id": "md-dc-cv-031",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?031"
+    ],
+    "source_listed_revision": "07/2026",
+    "source_row_text": "DC-CV-031 | Notice of Satisfaction | 07/2026 | 3 | Need help filling out court forms? Maryland Guide & File is a web-based tool that helps fill out court forms. To use this Maryland Guide & File interview, CLICK HERE.",
+    "selection_reason": "Adds an official civil procedure form absent from baseline URLs after Pennsylvania acquisition stopped on HTTP 403.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; civil procedure and judgment enforcement",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv033.pdf/dccv033.pdf",
+    "source_link_title": "DC-CV-033",
+    "title": "Request for Show Cause Order for Contempt",
+    "slug": "dc-cv-033-request-for-show-cause-order-for-contempt",
+    "category": "Civil procedure and judgments",
+    "family_id": "md-dc-cv-033",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?033"
+    ],
+    "source_listed_revision": "07/2026",
+    "source_row_text": "DC-CV-033 | Request for Show Cause Order for Contempt | 07/2026 |  | Need help filling out court forms? Maryland Guide & File is a web-based tool that helps fill out court forms. To use this Maryland Guide & File interview, CLICK HERE .",
+    "selection_reason": "Adds an official civil procedure form absent from baseline URLs after Pennsylvania acquisition stopped on HTTP 403.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; civil procedure and judgment enforcement",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv036.pdf/dccv036.pdf",
+    "source_link_title": "DC-CV-036",
+    "title": "Motion for Release of Property from Levy/Garnishment or to Exempt Property from Execution",
+    "slug": "dc-cv-036-motion-for-release-of-property-from-levy-garnishment-or-to-exempt-property-from-execution",
+    "category": "Civil procedure and judgments",
+    "family_id": "md-dc-cv-036",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?036"
+    ],
+    "source_listed_revision": "09/2026",
+    "source_row_text": "DC-CV-036 | Motion for Release of Property from Levy/Garnishment or to Exempt Property from Execution | 09/2026 |  | Need help filling out court forms? Maryland Guide & File is a web-based tool that helps fill out court forms. To use this Maryland Guide & File interview, CLICK HERE .",
+    "selection_reason": "Adds an official civil procedure form absent from baseline URLs after Pennsylvania acquisition stopped on HTTP 403.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  },
+  {
+    "state": "Maryland",
+    "state_code": "MD",
+    "scope": "District Court; civil procedure and judgment enforcement",
+    "publisher": "Maryland Judiciary",
+    "source_url": "https://www.mdcourts.gov/district/forms",
+    "artifact_url": "https://www.mdcourts.gov/sites/default/files/court-forms/district/forms/civil/dccv037.pdf/dccv037.pdf",
+    "source_link_title": "DC-CV-037",
+    "title": "Civil Appeal/Request for Transcript",
+    "slug": "dc-cv-037-civil-appeal-request-for-transcript",
+    "category": "Civil procedure and judgments",
+    "family_id": "md-dc-cv-037",
+    "identity_patterns": [
+      "DC[- ]?CV[- ]?037"
+    ],
+    "source_listed_revision": "07/2026",
+    "source_row_text": "DC-CV-037 | Civil Appeal/Request for Transcript | 07/2026 |  | ",
+    "selection_reason": "Adds an official civil procedure form absent from baseline URLs after Pennsylvania acquisition stopped on HTTP 403.",
+    "notes": "Preserved blank original. Court procedure, filing requirements, and present applicability require review. Source-listed revision is separate from printed revision and HTTP metadata."
+  }
+]

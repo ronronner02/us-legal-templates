@@ -1,0 +1,213 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T03:29:58.042855+00:00",
+  "baseline_tracked_files_preserved": 1748,
+  "baseline_unique_originals": 538,
+  "new_unique_originals": 20,
+  "combined_unique_originals": 558,
+  "states": {
+    "Maryland": 20
+  },
+  "formats": {
+    "pdf": 20
+  },
+  "state_family_keys": 20,
+  "sha256_duplicates": 0,
+  "request_bodies_hash_checked": 29,
+  "local_catalog_links_checked": 44,
+  "browser_check": "passed",
+  "head": "c3a4c264f3fe5d9bcfad28db30e16f82afb28c12",
+  "branch": "library/organized-snapshot",
+  "remote": "https://github.com/ronronner02/us-legal-templates.git",
+  "new_round_committed": false,
+  "new_round_pushed": false,
+  "files": [
+    {
+      "path": "originals/MD/dc-cv-080-complaint-and-summons-against-tenant-holding-over-aa32c3084208.pdf",
+      "sha256": "aa32c3084208f3710ee2121c1572f53435311e5212f4320b3a7a397b5d52b057",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-081-petition-for-warrant-of-restitution-ff25db87f65d.pdf",
+      "sha256": "ff25db87f65dc16a05a1a006dba734029c320a8ef1e9e26fd8670d022b01685d",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-083-b8017eb975a5.pdf",
+      "sha256": "b8017eb975a5b142f0c5d2798e7a31f52552200fd55c2316f2b7b13badf71c9d",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-085-complaint-and-summons-against-tenant-in-breach-of-lease-73bd33f0b763.pdf",
+      "sha256": "73bd33f0b76351713d0ef238d55de75165071befe3985cb01ccdbfb7606a0f20",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-086-petition-for-levy-in-distress-cc35c9d78cbb.pdf",
+      "sha256": "cc35c9d78cbb4ccc5228db5656c63f0cd483f1b35e14df56acf5cebd214a190c",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-087-motion-to-sell-distrained-goods-66a683a15651.pdf",
+      "sha256": "66a683a15651e8ed764c8f1318a12718c8a46c532600167047f33dd6c5966ccb",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-088-motion-for-order-to-follow-goods-under-distress-a97d9939acec.pdf",
+      "sha256": "a97d9939acecf62b18e4f196d362a7099b2eaca2da3b9d18719ba28ffdd13e91",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-089-complaint-for-wrongful-detainer-a9e0505cc576.pdf",
+      "sha256": "a9e0505cc576b32cf6e039d7132f32cbd0ca2ee1f3492ab770c9d66b8a46a6ef",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-109-complaint-for-grantor-in-possession-2e55f0d52a11.pdf",
+      "sha256": "2e55f0d52a1184916aa1cfa228d39fcaa34ead5010d18515bb59e0e919accaa4",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-115-f99ff6d21fe9.pdf",
+      "sha256": "f99ff6d21fe93c77f640e03f247dc8b9954e965eec6852e29fd75c3ed8085fbd",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-116-3404b5a259ca.pdf",
+      "sha256": "3404b5a259ca8de022fd33daf97660fce7df980bb61d9a1913a5f7ac2e65a18a",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-119-petition-to-shield-a-failure-to-pay-rent-action-record-eadb6c4fa384.pdf",
+      "sha256": "eadb6c4fa3846a0db08c459f4125e555972fb445bb695e45927e7eba37ce3531",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-120-petition-for-injunction-9d21960e583d.pdf",
+      "sha256": "9d21960e583d87e0c379b5cc85e61cb583fd76bf1f8996fce8126dd209e7eeb7",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-015-request-to-file-foreign-judgment-a5e771966837.pdf",
+      "sha256": "a5e7719668376b3add69874902761f19f9110ecc7c77601ad0f1defb6315f4a5",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-021-notice-of-dismissal-83c51e404dd1.pdf",
+      "sha256": "83c51e404dd1e410ccf16c640d5fc4d489d53e25e70bbc758d76df4c84915171",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-023-request-to-renew-judgment-82722d157d33.pdf",
+      "sha256": "82722d157d33cdc970217cc63b8f0cc20d57e04757147238d468cffa8358bb1f",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-031-notice-of-satisfaction-36f1133c3a1a.pdf",
+      "sha256": "36f1133c3a1a001f9f8841d24d4c1f16746a0a9b947faa6aaa9ac8823ff5ec47",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-033-request-for-show-cause-order-for-contempt-0f5702c1bf9d.pdf",
+      "sha256": "0f5702c1bf9de009eec0a083632ea47861607c7d853d134936f2935bf3a4c405",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-036-33bd8a773be7.pdf",
+      "sha256": "33bd8a773be7e6181b1cf0e9a5591b724e48ea363c1d7c41073cb88d25c5d70f",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/dc-cv-037-civil-appeal-request-for-transcript-391e5dbf3e54.pdf",
+      "sha256": "391e5dbf3e5418bffc965f00acd87cf644baa61e80192965cb644e1e49a9a469",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    }
+  ],
+  "limitations": [
+    "No visual rendering, OCR, office rendering, or signature validation.",
+    "Printed revisions were checked in extracted text; visual confirmation, legal currency, reuse rights, and publication approval remain pending.",
+    "No full-library semantic deduplication.",
+    "Catalog generated and manually reviewed for scope, provenance, escaping, links, and stated limits. Independent code review was not run."
+  ],
+  "delivery_state_scope": "Commit and push flags describe the pre-submission verification checkpoint. Delivery is recorded in repository history."
+}

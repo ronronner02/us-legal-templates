@@ -1,0 +1,135 @@
+[
+  {
+    "url": "https://www.pacourts.us/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T02:32:51.259950+00:00",
+    "http_status": 404,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_404",
+    "sha256": "dc1d54dab6ec8c00f70137927504e4f222c8395f10760b6beecfcfa94e08249f",
+    "bytes": 1245,
+    "body_path": "evidence/http/2026-10-15T02-32-47.323987+00-00/dc1d54dab6ec8c00f70137927504e4f222c8395f10760b6beecfcfa94e08249f.body",
+    "receipt_file": "evidence/http/2026-10-15T02-32-47.323987+00-00/requests.json"
+  },
+  {
+    "url": "https://www.iowacourts.gov/for-the-public/court-forms/",
+    "kind": "source",
+    "checked_at": "2026-10-15T02:32:56.133286+00:00",
+    "http_status": 301,
+    "content_type": "text/html; charset=iso-8859-1",
+    "etag": null,
+    "last_modified": null,
+    "status": "redirect",
+    "location": "https://www.iowacourts.gov/for-the-public/court-forms",
+    "receipt_file": "evidence/http/2026-10-15T02-32-47.323987+00-00/requests.json"
+  },
+  {
+    "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233058-215950-noticeofappealfrommagisterialdistrictjudgejudgment-000763.pdf",
+    "kind": "document",
+    "checked_at": "2026-10-15T02:39:19.003134+00:00",
+    "http_status": 403,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_403",
+    "sha256": "6b9d72451df250e4430540e4e5793a05e6ab3c70b69fe963e2ab7b06832cf0db",
+    "bytes": 502,
+    "body_path": "evidence/http/2026-10-15T02-38-22.548123+00-00/6b9d72451df250e4430540e4e5793a05e6ab3c70b69fe963e2ab7b06832cf0db.body",
+    "receipt_file": "evidence/http/2026-10-15T02-38-22.548123+00-00/requests.json"
+  },
+  {
+    "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233209-220005-tanonsection81008c2-000772.pdf",
+    "kind": "document",
+    "checked_at": "2026-10-15T02:39:20.905186+00:00",
+    "status": "persistent_hold_or_access_stop",
+    "reason": "Existing host restriction retained, including hostname aliases.",
+    "receipt_file": "evidence/http/2026-10-15T02-38-22.548123+00-00/requests.json"
+  },
+  {
+    "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233332-220014-tanonsection81013c2-000773.pdf",
+    "kind": "document",
+    "checked_at": "2026-10-15T02:39:20.922704+00:00",
+    "status": "persistent_hold_or_access_stop",
+    "reason": "Existing host restriction retained, including hostname aliases.",
+    "receipt_file": "evidence/http/2026-10-15T02-38-22.548123+00-00/requests.json"
+  },
+  {
+    "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234313-220022-tasection81008c2-000774.pdf",
+    "kind": "document",
+    "checked_at": "2026-10-15T02:39:20.941876+00:00",
+    "status": "persistent_hold_or_access_stop",
+    "reason": "Existing host restriction retained, including hostname aliases.",
+    "receipt_file": "evidence/http/2026-10-15T02-38-22.548123+00-00/requests.json"
+  },
+  {
+    "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234409-220034-tasection81013c2-000775.pdf",
+    "kind": "document",
+    "checked_at": "2026-10-15T02:39:20.960010+00:00",
+    "status": "persistent_hold_or_access_stop",
+    "reason": "Existing host restriction retained, including hostname aliases.",
+    "receipt_file": "evidence/http/2026-10-15T02-38-22.548123+00-00/requests.json"
+  },
+  {
+    "url": "https://www.pacourts.us/Storage/media/pdfs/20260115/193559-2026supplementalinstructionsheet.pdf",
+    "kind": "document",
+    "checked_at": "2026-10-15T02:39:20.977265+00:00",
+    "status": "persistent_hold_or_access_stop",
+    "reason": "Existing host restriction retained, including hostname aliases.",
+    "receipt_file": "evidence/http/2026-10-15T02-38-22.548123+00-00/requests.json"
+  },
+  {
+    "url": "https://www.pacourts.us/Storage/media/pdfs/20221115/152545-220318-authorizationofrepresentativeform317-003474.pdf",
+    "kind": "document",
+    "checked_at": "2026-10-15T02:39:20.995634+00:00",
+    "status": "persistent_hold_or_access_stop",
+    "reason": "Existing host restriction retained, including hostname aliases.",
+    "receipt_file": "evidence/http/2026-10-15T02-38-22.548123+00-00/requests.json"
+  },
+  {
+    "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/220322-file-3664.pdf",
+    "kind": "document",
+    "checked_at": "2026-10-15T02:39:21.012236+00:00",
+    "status": "persistent_hold_or_access_stop",
+    "reason": "Existing host restriction retained, including hostname aliases.",
+    "receipt_file": "evidence/http/2026-10-15T02-38-22.548123+00-00/requests.json"
+  },
+  {
+    "url": "https://www.pacourts.us/Storage/media/pdfs/20221101/000102-220328-file-10974.pdf",
+    "kind": "document",
+    "checked_at": "2026-10-15T02:39:21.029743+00:00",
+    "status": "persistent_hold_or_access_stop",
+    "reason": "Existing host restriction retained, including hostname aliases.",
+    "receipt_file": "evidence/http/2026-10-15T02-38-22.548123+00-00/requests.json"
+  },
+  {
+    "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222809-requestfororderforpossession-004524.pdf",
+    "kind": "document",
+    "checked_at": "2026-10-15T02:39:21.048370+00:00",
+    "status": "persistent_hold_or_access_stop",
+    "reason": "Existing host restriction retained, including hostname aliases.",
+    "receipt_file": "evidence/http/2026-10-15T02-38-22.548123+00-00/requests.json"
+  },
+  {
+    "url": "https://www.pacourts.us/Storage/media/pdfs/20260331/202849-noticeofsettlementwithstipulatedjudgment.pdf",
+    "kind": "document",
+    "checked_at": "2026-10-15T02:39:21.066064+00:00",
+    "status": "persistent_hold_or_access_stop",
+    "reason": "Existing host restriction retained, including hostname aliases.",
+    "receipt_file": "evidence/http/2026-10-15T02-38-22.548123+00-00/requests.json"
+  },
+  {
+    "url": "https://www.pacourts.us/Storage/media/pdfs/20260331/202849-noticeofsettlementwithoutstipulatedjudgment.pdf",
+    "kind": "document",
+    "checked_at": "2026-10-15T02:39:21.083670+00:00",
+    "status": "persistent_hold_or_access_stop",
+    "reason": "Existing host restriction retained, including hostname aliases.",
+    "receipt_file": "evidence/http/2026-10-15T02-38-22.548123+00-00/requests.json"
+  },
+  {
+    "url": "https://www.iowacourts.gov/for-the-public/court-forms/",
+    "status": "dynamic_catalog_discovery_gap",
+    "reason": "Static source capture did not expose the main searchable form catalog. No Iowa originals acquired or coverage conclusion inferred."
+  }
+]

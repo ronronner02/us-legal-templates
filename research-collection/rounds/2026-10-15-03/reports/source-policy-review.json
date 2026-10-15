@@ -1,0 +1,15 @@
+{
+  "reviewed_at": "2026-10-15T02:38:22.321449+00:00",
+  "sources": [
+    {
+      "url": "https://www.mdcourts.gov/district/forms",
+      "policy_url": "https://www.mdcourts.gov/reference/termsdisclaimer",
+      "finding": "Captured policy discusses public-service information, privacy, accuracy, and translations. Footer reserves copyright. No broad reuse grant established; reuse and publication review pending."
+    },
+    {
+      "url": "https://www.pacourts.us/forms/for-the-public",
+      "finding": "Source expressly prohibits changing content or format of its civil complaint and landlord-tenant complaint, both already in baseline and not selected here. Preserve those document-specific limits. Selected originals are retained without modifications. General reuse grant not established; reuse and publication review pending."
+    }
+  ],
+  "inherited_holds": "All inherited permission holds and access stops retained."
+}

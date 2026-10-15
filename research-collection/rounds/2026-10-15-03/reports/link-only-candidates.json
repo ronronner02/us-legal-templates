@@ -1,0 +1,379 @@
+{
+  "Pennsylvania": {
+    "source_url": "https://www.pacourts.us/forms/for-the-public",
+    "status": "host_access_stop_http_403",
+    "note": "First selected PDF returned HTTP 403. Remaining selected PDFs were stopped without acquisition. These links are not acquired originals.",
+    "candidates": [
+      {
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+        "publisher": "Unified Judicial System of Pennsylvania",
+        "source_url": "https://www.pacourts.us/forms/for-the-public",
+        "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233058-215950-noticeofappealfrommagisterialdistrictjudgejudgment-000763.pdf",
+        "source_link_title": "‌ ‌Notice of Appeal from Magisterial District Judge Judgment",
+        "title": "Notice of Appeal from Magisterial District Judge Judgment",
+        "slug": "notice-appeal-magisterial-judgment",
+        "category": "Housing and civil procedure",
+        "family_id": "pa-notice-appeal-magisterial-judgment",
+        "identity_patterns": [
+          "NOTICE\\s+OF\\s+APPEAL",
+          "MAGISTERIAL"
+        ],
+        "source_listed_revision": null,
+        "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+        "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved.",
+        "checked_at": "2026-10-15T02:39:19.002963+00:00",
+        "attempt": 1,
+        "receipt": {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233058-215950-noticeofappealfrommagisterialdistrictjudgejudgment-000763.pdf",
+          "kind": "document",
+          "checked_at": "2026-10-15T02:39:19.003134+00:00",
+          "http_status": 403,
+          "content_type": "text/html",
+          "etag": null,
+          "last_modified": null,
+          "status": "http_403",
+          "sha256": "6b9d72451df250e4430540e4e5793a05e6ab3c70b69fe963e2ab7b06832cf0db",
+          "bytes": 502,
+          "body_path": "evidence/http/2026-10-15T02-38-22.548123+00-00/6b9d72451df250e4430540e4e5793a05e6ab3c70b69fe963e2ab7b06832cf0db.body"
+        },
+        "status": "http_403"
+      },
+      {
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+        "publisher": "Unified Judicial System of Pennsylvania",
+        "source_url": "https://www.pacourts.us/forms/for-the-public",
+        "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233209-220005-tanonsection81008c2-000772.pdf",
+        "source_link_title": "‌ ‌Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+        "title": "Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+        "slug": "tenant-affidavit-non-section-8-rule-1008",
+        "category": "Housing and civil procedure",
+        "family_id": "pa-tenant-affidavit-non-section-8-rule-1008",
+        "identity_patterns": [
+          "AFFIDAVIT",
+          "1008"
+        ],
+        "source_listed_revision": null,
+        "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+        "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved.",
+        "checked_at": "2026-10-15T02:39:20.905014+00:00",
+        "attempt": 1,
+        "receipt": {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233209-220005-tanonsection81008c2-000772.pdf",
+          "kind": "document",
+          "checked_at": "2026-10-15T02:39:20.905186+00:00",
+          "status": "persistent_hold_or_access_stop",
+          "reason": "Existing host restriction retained, including hostname aliases."
+        },
+        "status": "persistent_hold_or_access_stop"
+      },
+      {
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+        "publisher": "Unified Judicial System of Pennsylvania",
+        "source_url": "https://www.pacourts.us/forms/for-the-public",
+        "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233332-220014-tanonsection81013c2-000773.pdf",
+        "source_link_title": "‌ ‌Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+        "title": "Tenant Affidavit (Non-Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+        "slug": "tenant-affidavit-non-section-8-rule-1013",
+        "category": "Housing and civil procedure",
+        "family_id": "pa-tenant-affidavit-non-section-8-rule-1013",
+        "identity_patterns": [
+          "AFFIDAVIT",
+          "1013"
+        ],
+        "source_listed_revision": null,
+        "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+        "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved.",
+        "checked_at": "2026-10-15T02:39:20.922537+00:00",
+        "attempt": 1,
+        "receipt": {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/233332-220014-tanonsection81013c2-000773.pdf",
+          "kind": "document",
+          "checked_at": "2026-10-15T02:39:20.922704+00:00",
+          "status": "persistent_hold_or_access_stop",
+          "reason": "Existing host restriction retained, including hostname aliases."
+        },
+        "status": "persistent_hold_or_access_stop"
+      },
+      {
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+        "publisher": "Unified Judicial System of Pennsylvania",
+        "source_url": "https://www.pacourts.us/forms/for-the-public",
+        "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234313-220022-tasection81008c2-000774.pdf",
+        "source_link_title": "‌ ‌Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+        "title": "Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1008C(2)",
+        "slug": "tenant-affidavit-section-8-rule-1008",
+        "category": "Housing and civil procedure",
+        "family_id": "pa-tenant-affidavit-section-8-rule-1008",
+        "identity_patterns": [
+          "AFFIDAVIT",
+          "1008"
+        ],
+        "source_listed_revision": null,
+        "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+        "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved.",
+        "checked_at": "2026-10-15T02:39:20.941661+00:00",
+        "attempt": 1,
+        "receipt": {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234313-220022-tasection81008c2-000774.pdf",
+          "kind": "document",
+          "checked_at": "2026-10-15T02:39:20.941876+00:00",
+          "status": "persistent_hold_or_access_stop",
+          "reason": "Existing host restriction retained, including hostname aliases."
+        },
+        "status": "persistent_hold_or_access_stop"
+      },
+      {
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+        "publisher": "Unified Judicial System of Pennsylvania",
+        "source_url": "https://www.pacourts.us/forms/for-the-public",
+        "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234409-220034-tasection81013c2-000775.pdf",
+        "source_link_title": "‌ ‌Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+        "title": "Tenant Affidavit (Section 8) Pa.R.Civ.P.M.D.J 1013C(2)",
+        "slug": "tenant-affidavit-section-8-rule-1013",
+        "category": "Housing and civil procedure",
+        "family_id": "pa-tenant-affidavit-section-8-rule-1013",
+        "identity_patterns": [
+          "AFFIDAVIT",
+          "1013"
+        ],
+        "source_listed_revision": null,
+        "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+        "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved.",
+        "checked_at": "2026-10-15T02:39:20.959812+00:00",
+        "attempt": 1,
+        "receipt": {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20221031/234409-220034-tasection81013c2-000775.pdf",
+          "kind": "document",
+          "checked_at": "2026-10-15T02:39:20.960010+00:00",
+          "status": "persistent_hold_or_access_stop",
+          "reason": "Existing host restriction retained, including hostname aliases."
+        },
+        "status": "persistent_hold_or_access_stop"
+      },
+      {
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+        "publisher": "Unified Judicial System of Pennsylvania",
+        "source_url": "https://www.pacourts.us/forms/for-the-public",
+        "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20260115/193559-2026supplementalinstructionsheet.pdf",
+        "source_link_title": "‌ ‌Tenant Affidavit - Supplemental Instructions for Obtaining a Stay of Eviction",
+        "title": "Tenant Affidavit - Supplemental Instructions for Obtaining a Stay of Eviction",
+        "slug": "tenant-affidavit-stay-eviction-instructions",
+        "category": "Housing and civil procedure",
+        "family_id": "pa-tenant-affidavit-stay-eviction-instructions",
+        "identity_patterns": [
+          "INSTRUCTIONS",
+          "EVICTION"
+        ],
+        "source_listed_revision": null,
+        "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+        "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved.",
+        "checked_at": "2026-10-15T02:39:20.977116+00:00",
+        "attempt": 1,
+        "receipt": {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20260115/193559-2026supplementalinstructionsheet.pdf",
+          "kind": "document",
+          "checked_at": "2026-10-15T02:39:20.977265+00:00",
+          "status": "persistent_hold_or_access_stop",
+          "reason": "Existing host restriction retained, including hostname aliases."
+        },
+        "status": "persistent_hold_or_access_stop"
+      },
+      {
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+        "publisher": "Unified Judicial System of Pennsylvania",
+        "source_url": "https://www.pacourts.us/forms/for-the-public",
+        "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20221115/152545-220318-authorizationofrepresentativeform317-003474.pdf",
+        "source_link_title": "‌ ‌Authorization of Representative",
+        "title": "Authorization of Representative",
+        "slug": "authorization-representative",
+        "category": "Housing and civil procedure",
+        "family_id": "pa-authorization-representative",
+        "identity_patterns": [
+          "AUTHORIZATION",
+          "REPRESENTATIVE"
+        ],
+        "source_listed_revision": null,
+        "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+        "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved.",
+        "checked_at": "2026-10-15T02:39:20.995472+00:00",
+        "attempt": 1,
+        "receipt": {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20221115/152545-220318-authorizationofrepresentativeform317-003474.pdf",
+          "kind": "document",
+          "checked_at": "2026-10-15T02:39:20.995634+00:00",
+          "status": "persistent_hold_or_access_stop",
+          "reason": "Existing host restriction retained, including hostname aliases."
+        },
+        "status": "persistent_hold_or_access_stop"
+      },
+      {
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+        "publisher": "Unified Judicial System of Pennsylvania",
+        "source_url": "https://www.pacourts.us/forms/for-the-public",
+        "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20210515/220322-file-3664.pdf",
+        "source_link_title": "‌ ‌Request for Determination of Abandonment",
+        "title": "Request for Determination of Abandonment",
+        "slug": "request-determination-abandonment",
+        "category": "Housing and civil procedure",
+        "family_id": "pa-request-determination-abandonment",
+        "identity_patterns": [
+          "ABANDONMENT"
+        ],
+        "source_listed_revision": null,
+        "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+        "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved.",
+        "checked_at": "2026-10-15T02:39:21.012088+00:00",
+        "attempt": 1,
+        "receipt": {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20210515/220322-file-3664.pdf",
+          "kind": "document",
+          "checked_at": "2026-10-15T02:39:21.012236+00:00",
+          "status": "persistent_hold_or_access_stop",
+          "reason": "Existing host restriction retained, including hostname aliases."
+        },
+        "status": "persistent_hold_or_access_stop"
+      },
+      {
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+        "publisher": "Unified Judicial System of Pennsylvania",
+        "source_url": "https://www.pacourts.us/forms/for-the-public",
+        "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20221101/000102-220328-file-10974.pdf",
+        "source_link_title": "‌ ‌Domestic Violence Affidavit",
+        "title": "Domestic Violence Affidavit",
+        "slug": "domestic-violence-affidavit",
+        "category": "Housing and civil procedure",
+        "family_id": "pa-domestic-violence-affidavit",
+        "identity_patterns": [
+          "DOMESTIC\\s+VIOLENCE",
+          "AFFIDAVIT"
+        ],
+        "source_listed_revision": null,
+        "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+        "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved.",
+        "checked_at": "2026-10-15T02:39:21.029590+00:00",
+        "attempt": 1,
+        "receipt": {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20221101/000102-220328-file-10974.pdf",
+          "kind": "document",
+          "checked_at": "2026-10-15T02:39:21.029743+00:00",
+          "status": "persistent_hold_or_access_stop",
+          "reason": "Existing host restriction retained, including hostname aliases."
+        },
+        "status": "persistent_hold_or_access_stop"
+      },
+      {
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+        "publisher": "Unified Judicial System of Pennsylvania",
+        "source_url": "https://www.pacourts.us/forms/for-the-public",
+        "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222809-requestfororderforpossession-004524.pdf",
+        "source_link_title": "‌ ‌Request for Order for Possession",
+        "title": "Request for Order for Possession",
+        "slug": "request-order-possession",
+        "category": "Housing and civil procedure",
+        "family_id": "pa-request-order-possession",
+        "identity_patterns": [
+          "REQUEST",
+          "POSSESSION"
+        ],
+        "source_listed_revision": null,
+        "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+        "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved.",
+        "checked_at": "2026-10-15T02:39:21.048215+00:00",
+        "attempt": 1,
+        "receipt": {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20210224/222809-requestfororderforpossession-004524.pdf",
+          "kind": "document",
+          "checked_at": "2026-10-15T02:39:21.048370+00:00",
+          "status": "persistent_hold_or_access_stop",
+          "reason": "Existing host restriction retained, including hostname aliases."
+        },
+        "status": "persistent_hold_or_access_stop"
+      },
+      {
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+        "publisher": "Unified Judicial System of Pennsylvania",
+        "source_url": "https://www.pacourts.us/forms/for-the-public",
+        "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20260331/202849-noticeofsettlementwithstipulatedjudgment.pdf",
+        "source_link_title": "‌ Notice of Settlement with Stipulated Judgment",
+        "title": "Notice of Settlement with Stipulated Judgment",
+        "slug": "notice-settlement-with-stipulated-judgment",
+        "category": "Housing and civil procedure",
+        "family_id": "pa-notice-settlement-with-stipulated-judgment",
+        "identity_patterns": [
+          "NOTICE\\s+OF\\s+SETTLEMENT",
+          "WITH\\s+STIPULATED\\s+JUDGMENT"
+        ],
+        "source_listed_revision": null,
+        "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+        "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved.",
+        "checked_at": "2026-10-15T02:39:21.065916+00:00",
+        "attempt": 1,
+        "receipt": {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20260331/202849-noticeofsettlementwithstipulatedjudgment.pdf",
+          "kind": "document",
+          "checked_at": "2026-10-15T02:39:21.066064+00:00",
+          "status": "persistent_hold_or_access_stop",
+          "reason": "Existing host restriction retained, including hostname aliases."
+        },
+        "status": "persistent_hold_or_access_stop"
+      },
+      {
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "scope": "Magisterial District Court and related civil appeal or housing proceedings; form-specific rules apply",
+        "publisher": "Unified Judicial System of Pennsylvania",
+        "source_url": "https://www.pacourts.us/forms/for-the-public",
+        "artifact_url": "https://www.pacourts.us/Storage/media/pdfs/20260331/202849-noticeofsettlementwithoutstipulatedjudgment.pdf",
+        "source_link_title": "‌ Notice of Settlement without Stipulated Judgment",
+        "title": "Notice of Settlement without Stipulated Judgment",
+        "slug": "notice-settlement-without-stipulated-judgment",
+        "category": "Housing and civil procedure",
+        "family_id": "pa-notice-settlement-without-stipulated-judgment",
+        "identity_patterns": [
+          "NOTICE\\s+OF\\s+SETTLEMENT",
+          "WITHOUT\\s+STIPULATED\\s+JUDGMENT"
+        ],
+        "source_listed_revision": null,
+        "selection_reason": "Adds a separately supplied official civil or housing procedure document absent from baseline URL inventory.",
+        "notes": "Preserved blank original. Section 8 status, procedural rule, settlement terms, and court scope must remain distinct. Supplemental instructions are guidance, not a filing form. General modification and republication rights are unresolved.",
+        "checked_at": "2026-10-15T02:39:21.083490+00:00",
+        "attempt": 1,
+        "receipt": {
+          "url": "https://www.pacourts.us/Storage/media/pdfs/20260331/202849-noticeofsettlementwithoutstipulatedjudgment.pdf",
+          "kind": "document",
+          "checked_at": "2026-10-15T02:39:21.083670+00:00",
+          "status": "persistent_hold_or_access_stop",
+          "reason": "Existing host restriction retained, including hostname aliases."
+        },
+        "status": "persistent_hold_or_access_stop"
+      }
+    ]
+  },
+  "Iowa": {
+    "status": "dynamic_catalog_discovery_gap",
+    "source_url": "https://www.iowacourts.gov/for-the-public/court-forms/",
+    "acquired_originals": 0
+  }
+}

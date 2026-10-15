@@ -1,0 +1,22 @@
+[
+  {
+    "owner": "collection reviewer",
+    "task": "Review copyright, permitted reuse, and publication approval using captured official terms and document-specific notices.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Render originals and verify fields, layout, signatures, current procedural rules, and court-specific filing acceptance. Printed revisions were verified only in extracted text.",
+    "status": "pending"
+  },
+  {
+    "owner": "future research round",
+    "task": "Retain inherited permission holds and access stops, including the new Pennsylvania HTTP 403 stop. Iowa dynamic catalog discovery remains incomplete.",
+    "status": "held"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Full-library semantic deduplication remains unperformed; SHA-256 distinctness measures files.",
+    "status": "pending"
+  }
+]
