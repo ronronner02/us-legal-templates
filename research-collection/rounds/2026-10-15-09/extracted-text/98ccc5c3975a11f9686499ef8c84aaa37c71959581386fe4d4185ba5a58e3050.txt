@@ -1,0 +1,298 @@
+Page | 1  
+ 
+Instructions for Attaching Documents in TurboCourt 
+ 
+There are a few different ways that documents can be filed in TurboCourt, so five sets of instructions (A, B, C, 
+D, and E) have been outlined below.   
+ 
+AUTOMATICALLY CREATED FORMS --  
+Some common forms are automatically created for you as you answer questions throughout the program. When 
+you reach the “Review and Prepare Documents” screen in TurboCourt, automatically created forms will appear 
+under the “Your Completed Forms” section, like this: 
+ 
+Because these forms were automatically created based on your answers, and will be filed for you when you 
+click “e-file”, you don’t need to fill them out again and attach them. Click View to see your completed form. 
+ 
+OTHER FORMS --   
+If documents were not automatically created, but need to be submitted, these will be listed under the “Your 
+Documents” section, with a red exclamation point or a blue question mark, like this: 
+ 
+ 
+ 
+You will need to follow one of the following sets of instructions to complete this process.  
+a. If the document is a court form not requiring notarization, follow instruction A on page 2.  
+b. If the document is a court form that requires notarization, follow instruction B on page 3.  
+c. If the document is neither of these, or you have a paper document, follow instruction C on page 4. 
+ 
+ 
+ 
+Lastly, you have the option of adding additional documents, here: 
+ 
+You will need to follow one of the following sets of instructions to complete this process.  
+a. If the document is a court form not requiring notarization, follow instruction A on page 2. 
+b. If the document is a court form that requires notarization, follow instruction B on page 3.  
+c. If the document is neither of these, or you have a paper document, follow instruction C on page 4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Page | 2  
+ 
+Instruction A 
+To fill out and attach a court form (not requiring a notarized signature): 
+ 
+Note: this window will no longer be visible once you click on the link to begin working on the court form. If 
+you are at the courthouse, you may wish to view the “How Do I…?” manual, located in a binder by the kiosk. If 
+you are elsewhere, you may wish to print these instructions, or note that you will need to go back and forth 
+between two open windows on your computer. 
+ 
+These instructions outline the typical steps followed when attaching a court form. If you already have a 
+completed document, saved as a PDF (Portable Document Format), skip to step 6. If you have a paper 
+document, see Instruction C for scanning and attaching a document. 
+ 
+1. At the “Review and Prepare Documents” screen, if the name of your form is visible, and there are 
+instructions underneath the form name, click the link to get to the court form. If there are no instructions 
+underneath the form name, click the court’s website link under “Your Documents” to get to the court forms 
+page. The forms will be listed in alphabetical order. Use the scroll bar on the right to find the necessary 
+form. 
+ 
+2. Type into the highlighted fields to fill out the form. 
+ 
+3. After entering all of the required information on the form, click the “Lock & Save Form” button either at the 
+top or bottom of the form. This will prevent any more edits to the form so it is important that you click it 
+only after you have finished filling out the form. 
+4. A “Save As” window will appear. Choose a folder where you wish to save your PDF version of the form, 
+and name your document. Click “Save.” The “Save As” window will then close.  
+5. Close or minimize the form window to return to the TurboCourt screen. Click . A new window will 
+appear, titled “Attach Main Document.” 
+6. Depending upon the type of form you’re working with, any of the following prompts may appear. Complete 
+each as necessary:  
+ Document Category 
+ Document Type 
+ Title/Description (may be the same as the Document Type, or more specific) 
+ Click .  The folder location will appear with your saved PDF available for selection. Choose 
+your document to attach. 
+ Click . The “Attach Main Document” window will now close. Your document is attached. Once 
+all of your documents are attached, click  to proceed. 
+ 
+Do not include confidential information on any form unless is it necessary and material to the case. See 
+Electronic Filing Rule 11 and 12.  Additional information may be found here: http://www.courts.state.nh.us/nh-
+e-court-project/How_to_use_an_e-filing_form.pdf 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Page | 3  
+ 
+Instruction B 
+To fill out and attach a court form (requiring a notarized signature): 
+ 
+Note: this window will no longer be visible once you click on the link to begin working on the court form. If 
+you are at the courthouse, you may wish to view the “How Do I…?” manual, located in a binder by the kiosk. If 
+you are elsewhere, you may wish to print these instructions, or note that you will need to go back and forth 
+between two open windows on your computer. 
+ 
+These instructions outline the full process for attaching a court form, from beginning to end. If you have a 
+completed paper form that has already been notarized, see Instruction C for scanning and attaching a document. 
+ 
+1. At the “Review and Prepare Documents” screen, if the name of your form is visible, and there are 
+instructions underneath the form name, click the link to get to the court form. If there are no instructions 
+underneath the form name, click the court’s website link under “Your Documents” to get to the court forms 
+page. The forms will be listed in alphabetical order. Use the scroll bar on the right to find the necessary 
+form. 
+ 
+2. Type into the highlighted fields to fill out the form.  
+3. After entering all of the required information on the form, click the “Lock & Save Form” button either at the 
+top or bottom of the form. This will prevent any more edits to the form so it is important that you click it 
+only after you have finished filling out the form. 
+ 
+4. Print the form. (There may a fee per page when printing at the courthouse.) 
+ 
+5. Do not sign the document until you are in front of a notary public or justice of the peace. Court staff are 
+available to notarize your signature at the courthouse. 
+ 
+6. Scan your notarized document into the computer. A scanner is available for public use at the courthouse. If 
+using a scanner at the courthouse, the scanned document will go to a folder for scanned documents. If 
+scanning at home, the document will go to whichever folder you designate.  
+ 
+7. Close the folder to return to the TurboCourt screen. Click . A new window will appear, titled 
+“Attach Main Document.” 
+ 
+8. Depending upon the type of form you’re working with, any of the following prompts may appear. Complete 
+each as necessary:  
+ Document Category 
+ Document Type 
+ Title/Description (may be the same as the Document Type, or more specific) 
+ Click .  The folder location will appear with your saved PDF available for selection. Choose 
+your document to attach. 
+ Click . The “Attach Main Document” window will now close. Your document is attached. Once 
+all of your documents are attached, click  to proceed. 
+ 
+Do not include confidential information on any form unless is it necessary and material to the case. See 
+Electronic Filing Rule 11 and 12.  Additional information may be found here: http://www.courts.state.nh.us/nh-
+e-court-project/How_to_use_an_e-filing_form.pdf 
+ 
+
+Page | 4  
+ 
+Instruction C 
+To scan and attach a document: 
+ 
+Note: this window will no longer be visible once you begin the scanning process. If you are at the courthouse, 
+you may wish to view the “How Do I…?” manual, located in a binder by the kiosk. If you are elsewhere, you 
+may wish to print these instructions, or note that you will need to go back and forth between two open windows 
+on your computer. 
+ 
+1. Scan your document into the computer. A scanner is available for public use at the courthouse (see “How 
+Do I…?” manual for detailed scanning instructions). If scanning at home, the document will go to 
+whichever folder you designate. 
+ 
+2. Close the folder to return to the TurboCourt screen. Click . A new window will appear, titled 
+“Attach Main Document.”  
+ 
+3. Depending upon the type of form you’re working with, any of the following prompts may appear. Complete 
+each as necessary:  
+ Document Category 
+ Document Type 
+ Title/Description (may be the same as the Document Type, or more specific) 
+ Click .  The folder location will appear with your saved PDF available for selection. Choose 
+your document to attach. 
+ Click . The “Attach Main Document” window will now close. Your document is attached. Once 
+all of your documents are attached, click  to proceed. 
+ 
+Do not include confidential information on any form unless is it necessary and material to the case. See 
+Electronic Filing Rule 11 and 12. 
+  
+
+Page | 5  
+ 
+Instruction D 
+To file a form filled out in TurboCourt which requires multiple signatures: 
+ 
+Note: this window will no longer be visible once you begin following the instructions. If you are at the 
+courthouse, you may wish to view the “How Do I…?” manual, located in a binder by the kiosk. If you are 
+elsewhere, you may wish to print these instructions, or note that you will need to go back and forth between two 
+open windows on your computer. 
+ 
+Pick up these instructions once you have finished answering a series of questions in TurboCourt, and are now at 
+the “Review and Prepare Documents” screen. 
+ 
+9. At the “Review and Prepare Documents” screen, under the Your Completed Forms section, you will see 
+an  icon beside the title of the court form that was populated with your answers. Click  to 
+view the completed form.  
+ 
+10. Print the completed form. (There may a fee per page when printing at the courthouse.)  
+ 
+11. Make note of the Form Set # associated with this filing, as you will need this later. This number can be 
+found in the upper left corner of the “Review and Prepared Documents” screen. 
+ 
+12. Sign the printed form, and obtain any other signatures required. (Typically, this would be the signature of 
+any Co-Executors/Co-Administrators.) 
+ 
+13. Scan your signed document into the computer. A scanner is available for public use at the courthouse. If 
+using a scanner at the courthouse, the scanned document will go to a folder for scanned documents. If 
+scanning at home, the document will go to whichever folder you designate.  
+ 
+14. Close the folder and go to the TurboCourt site.  
+ 
+15. After logging in, locate the Form Set # associated with this filing. It will likely appear in blue under “Your 
+Last 5 Cases.” Click the blue number link. This will bring you back to the “Review and Prepared 
+Documents” screen, where you left off. Under the Your Documents section, you will see your form listed 
+again, this time with an  icon beside it, and Attach, View, or Remove options on the right. Click 
+. A new window will appear, titled “Attach Main Document.” 
+ 
+16. Depending upon the type of form you’re working with, any of the following prompts may appear. Complete 
+each as necessary:  
+ Document Category 
+ Document Type 
+ Title/Description (may be the same as the Document Type, or more specific) 
+ Click .  The folder location will appear with your saved PDF available for selection. Choose 
+your document to attach. 
+ Click . The “Attach Main Document” window will now close. Your document is attached. Once 
+all of your documents are attached, click  to proceed. 
+  
+
+Page | 6  
+ 
+ 
+Instruction E 
+To share an Accounting with, and obtain Assents from, interested parties: 
+ 
+Note: this window will no longer be visible once you begin following the instructions. If you are at the 
+courthouse, you may wish to view the “How Do I…?” manual, located in a binder by the kiosk. If you are 
+elsewhere, you may wish to print these instructions, or note that you will need to go back and forth between two 
+open windows on your computer. 
+ 
+Pick up these instructions once you have finished answering a series of questions in TurboCourt, and are now at 
+the “Review and Prepare Documents” screen. 
+ 
+17. At the “Review and Prepare Documents” screen, under the Your Completed Forms section, you will see 
+an  icon beside Accounting form that was populated with your answers. Click  to view the 
+completed form.  
+ 
+18. Hover over the bottom of the form to reveal this menu:   
+ 
+19. If you want to e-mail the Accounting to interested parties, click the  icon to save the document, then use 
+your email program to send it as an attachment.  
+ 
+20. If you want to mail the Accounting, click on the  icon to print the document. (You will need to print the 
+Accounting anyways, in order to sign it yourself, as this form may not be signed electronically.) 
+ 
+21. In addition to the completed Accounting, the other interested parties will also need an Assent form (NHJB-
+2121-Pe) to sign. You can either direct them to this website: 
+https://www.courts.state.nh.us/forms/ecourt/nhjb-2121-fpe-Assent.pdf, where they will find a blank Assent 
+form, or you may fill out the top section of the form for them, save it, and e-mail it to them as an 
+attachment. Or you may print the form and mail it to them. If they wish to agree (assent) to the Accounting, 
+ask them to print the Assent form, sign it, then either mail it back to you, or scan and email it back to you. 
+This form may not be signed electronically. It would be smoothest if all interested parties could sign one 
+Assent form, but if necessary, interested parties may sign separate Assents.  
+ 
+22. Make note of the Form Set # associated with this filing, as you will need this later. This number can be 
+found in the upper left corner of the “Review and Prepared Documents” screen. 
+ 
+23. Once you have collected Assents from all interested parties, and signed the Accounting yourself, you are 
+ready to e-file your completed Accounting. 
+ 
+24. Scan your signed Accounting into the computer, then scan the signed Assent(s) as a separate document. A 
+scanner is available for public use at the courthouse. If using a scanner at the courthouse, the scanned 
+documents will go to a folder for scanned documents. If scanning at home, the documents will go to 
+whichever folder you designate.  
+ 
+25. Close the folder and go to the TurboCourt site.  
+ 
+
+Page | 7  
+ 
+26. After logging in, locate the Form Set # associated with this filing. It will likely appear in blue under “Your 
+Last 5 Cases.” Click the blue number link. This will bring you back to the “Review and Prepared 
+Documents” screen, where you left off. Under the Your Documents section, you will see your Accounting 
+listed again, this time with an  icon beside it, and Attach, View, or Remove options on the right. Click 
+. A new window will appear, titled “Attach Main Document.” 
+ 
+27. Write in a Title/Description (may be the same as the Document Type, or more specific), then: 
+ Click .  The folder location will appear with your saved PDF available for selection. Choose 
+your Accounting to attach. 
+ Click . The “Attach Main Document” window will now close. Your Accounting is attached.  
+ 
+28. If you indicated in the guided interview that you wished to file an Assent, you will see this listed here with 
+an  icon beside it. Click  and follow step 10 to attach your signed Assent(s). 
+ 
+29. If you did not indicate in the guided interview that you wished to file an Assent, but you wish to do so now, 
+click  beside “Attach Additional Documents”, then complete the following prompts: 
+ Document Category (choose “Other”) 
+ Document Type (choose “Assent”) 
+ Title/Description (may be the same as the Document Type, or more specific) 
+ Click .  The folder location will appear with your saved PDF available for selection. Choose 
+your Assent(s) to attach. 
+ Click . The “Attach Main Document” window will now close. Your Assent is attached.  
+ Once all of your documents are attached, click  to proceed. 
+ 
+ 

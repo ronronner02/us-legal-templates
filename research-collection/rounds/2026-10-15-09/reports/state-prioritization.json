@@ -1,0 +1,101 @@
+{
+  "baseline_head": "5695ae08bdf97ff9fa27264993c95bc8e2a8b63b",
+  "baseline_distinct_originals": 683,
+  "count_method": "Distinct baseline SHA-256 values mapped through the historical combined inventory and later round inventories.",
+  "baseline_counts": {
+    "AK": 2,
+    "MS": 2,
+    "NE": 2,
+    "NH": 2,
+    "UT": 2,
+    "AZ": 3,
+    "CT": 3,
+    "FL": 3,
+    "IN": 3,
+    "MI": 3,
+    "MN": 3,
+    "NC": 3,
+    "ND": 3,
+    "HI": 4,
+    "OH": 4,
+    "VT": 4,
+    "WY": 4,
+    "GA": 5,
+    "OK": 5,
+    "RI": 5,
+    "AL": 6,
+    "AR": 6,
+    "NM": 6,
+    "KS": 7,
+    "KY": 7,
+    "MO": 7,
+    "ID": 8,
+    "IL": 9,
+    "NY": 10,
+    "SC": 10,
+    "TX": 10,
+    "VA": 10,
+    "IA": 12,
+    "PA": 12,
+    "SD": 12,
+    "TN": 12,
+    "LA": 14,
+    "MT": 15,
+    "CA": 16,
+    "DE": 16,
+    "WV": 16,
+    "NJ": 17,
+    "WA": 17,
+    "NV": 18,
+    "OR": 19,
+    "MA": 27,
+    "WI": 29,
+    "": 31,
+    "ME": 58,
+    "CO": 82,
+    "MD": 99
+  },
+  "evaluated": [
+    {
+      "state_code": "AK",
+      "baseline": 2,
+      "decision": "Deferred after robots transport timeout; no catalog or document fetch."
+    },
+    {
+      "state_code": "NE",
+      "baseline": 2,
+      "decision": "Selected 21 fresh small-claims and service companions."
+    },
+    {
+      "state_code": "UT",
+      "baseline": 2,
+      "decision": "Catalog captured; document-host robots transport timeouts. No document fetched."
+    },
+    {
+      "state_code": "NH",
+      "baseline": 2,
+      "decision": "Selected two fresh guidance originals. Dynamic form lists yielded no links in captured HTML; absence of links is not absence of forms."
+    }
+  ],
+  "selected_by_state": {
+    "NE": 21,
+    "NH": 2
+  },
+  "priority_rule": "Prefer low-count states, subject to source evidence, access, permission and document quality gates; no fixed acquisition quota.",
+  "acquired_by_state": {
+    "NE": 21,
+    "NH": 2
+  },
+  "before_after": {
+    "NE": {
+      "before": 2,
+      "added": 21,
+      "after": 23
+    },
+    "NH": {
+      "before": 2,
+      "added": 2,
+      "after": 4
+    }
+  }
+}

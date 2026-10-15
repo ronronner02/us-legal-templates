@@ -1,0 +1,34 @@
+{
+  "reviewed_at": "2026-10-15T08:02:37.706710+00:00",
+  "sources": [
+    {
+      "state": "Nebraska",
+      "source_url": "https://nebraskajudicial.gov/administration/self-represented-litigant-resources/small-claims",
+      "policy_url": "http://www.nebraska.gov/privacypol.html",
+      "policy_fetch_status": "not_requested_inherited_access_stop",
+      "rights_review": "pending"
+    },
+    {
+      "state": "New Hampshire",
+      "source_url": "https://www.courts.nh.gov/our-courts/circuit-court/district-division/small-claims",
+      "policy_url": "https://www.nh.gov/policies/privacy-policy",
+      "policy_evidence": [
+        {
+          "body_path": "evidence/http/browser-sources/29bfa4bc11807f35cdf493930926f825555bf74ab8e2ecac61685042797f0ada.body",
+          "receipt_file": "evidence/http/browser-sources/requests.json"
+        }
+      ],
+      "finding": "Privacy policy discusses collection, disclosure and security. Source footer reserves copyright; no blanket reuse grant established.",
+      "rights_review": "pending"
+    },
+    {
+      "state": "Utah",
+      "policy_url": "https://www.utcourts.gov/en/about/administration/privacy-policy.html",
+      "finding": "Policy captured. No originals acquired because document-host robots requests timed out."
+    }
+  ],
+  "reuse_review": "pending",
+  "publication_status": "not-approved",
+  "personal_data_entered": false,
+  "court_or_external_program_submission": false
+}

@@ -1,0 +1,247 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T08:11:19.921052+00:00",
+  "baseline_tracked_files_preserved": 3085,
+  "baseline_unique_originals": 683,
+  "new_unique_originals": 23,
+  "combined_unique_originals": 706,
+  "states": {
+    "Nebraska": 21,
+    "New Hampshire": 2
+  },
+  "formats": {
+    "pdf": 23
+  },
+  "pages": 51,
+  "sha256_duplicates": 0,
+  "request_bodies_hash_checked": 37,
+  "minimum_request_start_interval_seconds": 2.873,
+  "local_catalog_links_checked": 50,
+  "browser_check": "passed",
+  "head": "5695ae08bdf97ff9fa27264993c95bc8e2a8b63b",
+  "branch": "library/organized-snapshot",
+  "remote": "https://github.com/ronronner02/us-legal-templates.git",
+  "remote_sha_matches_baseline": true,
+  "new_round_committed": false,
+  "new_round_pushed": false,
+  "inherited_holds_and_access_stops": "byte_for_byte_preserved",
+  "original_bytes_unmodified": true,
+  "files": [
+    {
+      "path": "originals/NE/ch6art14app1-8837f9f40933.pdf",
+      "sha256": "8837f9f4093385f31154f1e76b15e433797f28e42e360d80c90bc9ca2bbcee46",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/ch6art14app1-instructions-6a0440bea7dc.pdf",
+      "sha256": "6a0440bea7dcb19e8d8426b744065e1cb8f8fd43bd9e6a107a39188cb52f6b7c",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-4-2-a293ceb149cb.pdf",
+      "sha256": "a293ceb149cb6fa2539351147005f4bb4411944357bc3389f5656ef80230daa7",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-4-2a-537a61e7d4f5.pdf",
+      "sha256": "537a61e7d4f5fd40e23692dd04dd3ed1019e177da88d3698f938f6e2530c3892",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-4-3-5e8c1f08eedc.pdf",
+      "sha256": "5e8c1f08eedc7fed183db8a6e760535f37268698cec05c02edae78ffc9bd7e10",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-4-5-12450cdfeace.pdf",
+      "sha256": "12450cdfeacefe1548fad3167fa44733bfd7ee009c272e12364ee6d654ded543",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-4-6-be181c32fa32.pdf",
+      "sha256": "be181c32fa324ce9606a5d24fbdd2a512243e584e0d85527c1a5c59ce8a2b31b",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-4-6a-e400996a421e.pdf",
+      "sha256": "e400996a421e5a05a16d7a53ff805b3a552674dad4b7ee91456995b4aa9a0641",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-4-8-c5b5275ebbe1.pdf",
+      "sha256": "c5b5275ebbe16e2296469d4622d692d9c49f8d4048d4e88b06e225292fc6dc86",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-4-9-e56cc2f9393c.pdf",
+      "sha256": "e56cc2f9393cc029ca71f96cc7578090330381e1a5c15cc3bfd81dcfb3751156",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-6-6-1-5798978882f8.pdf",
+      "sha256": "5798978882f8873abcce7004543767e1695c5872d666266668abedd8de0082db",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-6-6-2-4d1515c2288b.pdf",
+      "sha256": "4d1515c2288b2c2f6cf66b3cfefa51b2dc176d72a634b69788a296f43ab03c1a",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-6-6-3-9ebf3b4703be.pdf",
+      "sha256": "9ebf3b4703be33d6626ffc0c273d9941f2fd6944256b8e3b19dc35b747e79eb3",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-6-6-4-17d7be22cf97.pdf",
+      "sha256": "17d7be22cf97712a00a33c76eeed88047cd0c0d3f08900b357c77f9739d6f849",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-6-6-5-3483baddf090.pdf",
+      "sha256": "3483baddf0900f7514c04ede7240cdbd6ab5958b2267b1a280d0879d7ed991b8",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-6-6-6-898ae1da556f.pdf",
+      "sha256": "898ae1da556ffd8116fcc79419f89bbdfe70084bd7567ef57a146b59a480fcda",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/cc-6-6-7-c44210ac034f.pdf",
+      "sha256": "c44210ac034fe6ba914dd1f5d77fc8f62957ba0fdbfe25ea61379525c550f10a",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/dc-6-6-8-aba363b48aba.pdf",
+      "sha256": "aba363b48abaf7730fd5709af5088ce12cc3b458673d5db5873ce6cc5421d63e",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/dc-6-6-9-819affb5ba3e.pdf",
+      "sha256": "819affb5ba3e5a227a20d43324abd3f76d1583be5563ac8b2c525998435e2dbe",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/dc-6-7-1-5dfdab62d10d.pdf",
+      "sha256": "5dfdab62d10dd4d60449ae7daf192cf0fcd0614921c77f0ab2ee0a65c6a7f7c0",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NE/dc-6-7-1a-e97e032a721f.pdf",
+      "sha256": "e97e032a721f1d223ff83b9ddfee0e703fb2bc8c06a8279f45cad1adacc9a605",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NH/scefilinginfo-aa709fe31c01.pdf",
+      "sha256": "aa709fe31c01946ad6acbd41d55f414701ba7e2a10d7552cd0cd2ebe72fd86c0",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    },
+    {
+      "path": "originals/NH/turbocourt-instructions-attach-doc-all-98ccc5c3975a.pdf",
+      "sha256": "98ccc5c3975a11f9686499ef8c84aaa37c71959581386fe4d4185ba5a58e3050",
+      "parser": "passed",
+      "identity": "passed",
+      "response_bytes": "matched",
+      "source_link": "matched",
+      "robots": "allowed"
+    }
+  ],
+  "limitations": [
+    "No original visual rendering, OCR, field testing, calculation testing or signature validation.",
+    "Nebraska date markers and one New Hampshire parenthetical date checked in text; the attachment guide date remains unverified. Header/footer and signature-role findings await review.",
+    "Legal currency, complete packets, court acceptance, reuse and publication approval remain pending.",
+    "No full-library semantic deduplication.",
+    "Historical root README and combined overview remain at the 658-document snapshot.",
+    "Independent code review not run."
+  ],
+  "delivery_state_scope": "Verified pre-commit checkpoint for round 09. Commit and push state after this checkpoint is recorded by Git history."
+}

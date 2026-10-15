@@ -1,0 +1,52 @@
+{
+  "groups": [
+    [
+      "CC 4:1",
+      "CC 4:1 instructions"
+    ],
+    [
+      "CC 4:2",
+      "CC 4:2a"
+    ],
+    [
+      "CC 4:6",
+      "CC 4:6a"
+    ],
+    [
+      "CC 6:6.1",
+      "CC 6:6.2",
+      "CC 6:6.3",
+      "CC 6:6.4",
+      "DC 6:6.8"
+    ],
+    [
+      "CC 6:6.5",
+      "CC 6:6.6",
+      "CC 6:6.7",
+      "DC 6:6.9"
+    ],
+    [
+      "DC 6:7.1",
+      "DC 6:7.1a"
+    ]
+  ],
+  "basis": "Separately published related originals. A group is not a verified complete filing packet.",
+  "missing_case_specific_materials": [
+    "Issued subpoenas and orders",
+    "Certified-mail return receipts",
+    "Newspaper publication evidence",
+    "Diligence and attempted-service evidence",
+    "Financial information and supporting attachments",
+    "Case-specific signatures and notarizations"
+  ],
+  "distinctions": [
+    "Initial claim versus counterclaim and transfer notice",
+    "Application/request versus issued order",
+    "Publication service versus substitute service",
+    "Motion versus supporting affidavit versus publication notice versus mailing certificate",
+    "Blank form versus illustrated guide",
+    "Fee application versus fee-waiver approval"
+  ],
+  "full_library_semantic_deduplication": "not_performed",
+  "packet_completeness": "not_verified"
+}

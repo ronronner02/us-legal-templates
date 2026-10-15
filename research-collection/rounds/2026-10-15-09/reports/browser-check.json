@@ -1,0 +1,220 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T08:00:51.088Z",
+  "scope": "Local round-09 catalog behavior and original URL byte/signature checks. Original PDF visual rendering and interactive fields not tested.",
+  "catalog_url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-09/index.html",
+  "checks": [
+    {
+      "name": "initial",
+      "expected": 23,
+      "actual": 23
+    },
+    {
+      "name": "state NE",
+      "expected": 21,
+      "actual": 21
+    },
+    {
+      "name": "state NH",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "name": "use court_procedural_form",
+      "expected": 13,
+      "actual": 13
+    },
+    {
+      "name": "use procedural_guide",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "name": "use service_return",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "name": "use proposed_court_order",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "name": "use service_certificate",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "name": "category court_general",
+      "expected": 23,
+      "actual": 23
+    },
+    {
+      "name": "combined NH guides",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "name": "reset combined",
+      "expected": 23,
+      "actual": 23
+    },
+    {
+      "name": "search certified mail",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "name": "empty search",
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "name": "reset search",
+      "expected": 23,
+      "actual": 23
+    }
+  ],
+  "original_urls_checked": 23,
+  "originals": [
+    {
+      "path": "originals/NE/dc-6-7-1-5dfdab62d10d.pdf",
+      "status": 200,
+      "bytes": 3068185,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-6-6-2-4d1515c2288b.pdf",
+      "status": 200,
+      "bytes": 3659513,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-6-6-6-898ae1da556f.pdf",
+      "status": 200,
+      "bytes": 2087706,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/dc-6-6-8-aba363b48aba.pdf",
+      "status": 200,
+      "bytes": 2325574,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/dc-6-6-9-819affb5ba3e.pdf",
+      "status": 200,
+      "bytes": 2268400,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-4-2-a293ceb149cb.pdf",
+      "status": 200,
+      "bytes": 3596300,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/dc-6-7-1a-e97e032a721f.pdf",
+      "status": 200,
+      "bytes": 435016,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-4-2a-537a61e7d4f5.pdf",
+      "status": 200,
+      "bytes": 235944,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/ch6art14app1-instructions-6a0440bea7dc.pdf",
+      "status": 200,
+      "bytes": 277784,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-4-6a-e400996a421e.pdf",
+      "status": 200,
+      "bytes": 827994,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-6-6-1-5798978882f8.pdf",
+      "status": 200,
+      "bytes": 3562492,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-6-6-5-3483baddf090.pdf",
+      "status": 200,
+      "bytes": 1505261,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-4-9-e56cc2f9393c.pdf",
+      "status": 200,
+      "bytes": 2386714,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-6-6-4-17d7be22cf97.pdf",
+      "status": 200,
+      "bytes": 3486231,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-4-3-5e8c1f08eedc.pdf",
+      "status": 200,
+      "bytes": 2298883,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-6-6-3-9ebf3b4703be.pdf",
+      "status": 200,
+      "bytes": 3474350,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-6-6-7-c44210ac034f.pdf",
+      "status": 200,
+      "bytes": 2090332,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/ch6art14app1-8837f9f40933.pdf",
+      "status": 200,
+      "bytes": 2997809,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-4-6-be181c32fa32.pdf",
+      "status": 200,
+      "bytes": 2899749,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-4-8-c5b5275ebbe1.pdf",
+      "status": 200,
+      "bytes": 3642126,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NE/cc-4-5-12450cdfeace.pdf",
+      "status": 200,
+      "bytes": 3798503,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NH/turbocourt-instructions-attach-doc-all-98ccc5c3975a.pdf",
+      "status": 200,
+      "bytes": 617681,
+      "signature": "%PDF-"
+    },
+    {
+      "path": "originals/NH/scefilinginfo-aa709fe31c01.pdf",
+      "status": 200,
+      "bytes": 123036,
+      "signature": "%PDF-"
+    }
+  ],
+  "page_errors": []
+}

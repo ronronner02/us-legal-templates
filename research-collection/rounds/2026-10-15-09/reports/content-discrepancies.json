@@ -1,0 +1,39 @@
+[
+  {
+    "form_code": "CC 6:6.5",
+    "type": "inconsistent_original_header_and_footer_code",
+    "header": "CC 6:6.5",
+    "footer": "DC 6:6.5",
+    "matched_text": "DC 6:6.5 New 12/2025 Page 1 of 2 Motion for Substitute Service. ",
+    "text_path": "extracted-text/3483baddf0900f7514c04ede7240cdbd6ab5958b2267b1a280d0879d7ed991b8.txt",
+    "status": "review_pending"
+  },
+  {
+    "form_code": "CC 6:6.7",
+    "type": "inconsistent_original_header_and_footer_code",
+    "header": "CC 6:6.7",
+    "footer": "DC 6:6.7",
+    "matched_text": "DC 6:6.7 New 12/2025 Page 1 of 1 Order for Substitute Service. ",
+    "text_path": "extracted-text/c44210ac034fe6ba914dd1f5d77fc8f62957ba0fdbfe25ea61379525c550f10a.txt",
+    "status": "review_pending"
+  },
+  {
+    "form_code": "DC 6:6.9",
+    "type": "signature_role_and_source_scope_review",
+    "matched_text": "(of guardian and/or conservator)",
+    "source_context": "Listed on the official small-claims source page.",
+    "text_path": "extracted-text/819affb5ba3e5a227a20d43324abd3f76d1583be5563ac8b2c525998435e2dbe.txt",
+    "status": "review_pending"
+  },
+  {
+    "forms": [
+      "CC 4:6",
+      "CC 4:6a"
+    ],
+    "type": "instruction_and_form_edition_alignment_review",
+    "form_date": "02/2022",
+    "guide_date": "05/2025",
+    "status": "pending",
+    "note": "Different printed dates retained. Compatibility remains unreviewed; no finding of invalidity."
+  }
+]

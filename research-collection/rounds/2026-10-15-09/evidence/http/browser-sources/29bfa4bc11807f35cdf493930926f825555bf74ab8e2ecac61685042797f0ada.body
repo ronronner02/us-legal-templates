@@ -1,0 +1,1042 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class="no-js">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BJ8CGT1VYN"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-BJ8CGT1VYN", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});</script>
+<meta name="description" content="This is the State&#039;s Privacy Policy explaining how and when they use personal information in their websites." />
+<meta name="keywords" content="privacy, policy, agencies, state, new, hampshire, nh" />
+<link rel="canonical" href="https://www.nh.gov/policies/privacy-policy" />
+<meta property="og:site_name" content="NH.gov" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.nh.gov/policies/privacy-policy" />
+<meta property="og:title" content="Privacy Policy" />
+<meta property="og:image" content="https://www.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Privacy Policy" />
+<meta name="twitter:site:id" content="816282120767291392" />
+<meta name="twitter:url" content="https://www.nh.gov/policies/privacy-policy" />
+<meta name="twitter:image" content="https://www.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png" />
+<meta name="twitter:image:alt" content="State of NH Twitter Card" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/g/files/ehbemt936/files/iconseal_0.gif" type="image/gif" />
+
+    <title>Privacy Policy | NH.gov</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="theme-color" content="#004785">
+
+    <link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/components/progress.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/components/ajax-progress.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/align.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/fieldgroup.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/container-inline.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/clearfix.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/details.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/hidden.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/item-list.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/js.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/nowrap.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/position-container.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/reset-appearance.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/resize.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-counter.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-report-counters.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-report-general-info.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/tablesort.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/views/views.module.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/modules/custom/st_content_types/frontend/library/css/faq-accordion.min.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/modules/custom/st_quick_links/frontend/library/css/quick-link-list.min.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/assets/vendor/normalize-css/normalize.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/normalize-fixes.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/action-links.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/breadcrumb.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/button.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/collapse-processed.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/container-inline.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/details.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/exposed-filters.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/field.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/form.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/icons.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/inline-form.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/item-list.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/link.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/links.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/menu.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/more-link.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/pager.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tabledrag.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tableselect.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tablesort.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tabs.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/textarea.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/ui-dialog.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/messages.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/node.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/progress.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/custom/state_of_nh_core/library/css/custom.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/custom/state_of_nh_core/library/css/jquery.fancybox.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/custom/state_of_nh_core/library/css/jquery-ui.css?tm6kht" />
+<link rel="stylesheet" media="all" href="/themes/custom/state_of_nh_core/library/css/styles.css?tm6kht" />
+<link rel="stylesheet" media="all" href="https://use.typekit.net/tkb5drm.css" />
+<link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css" crossorigin="anonymous" integrity="sha256-MVopmdyC2tYTiJ8wlktf0uh0v4NgT+vNdyVFepi7Q0c=" />
+
+    
+
+    <style>
+      body {
+        --primary-color: #004785;
+        --secondary-color: #004785;
+        --tertiary-color: #004785;
+
+                  --primary-color-10: #0047851A;
+          --secondary-color-10: #0047851A;
+          --tertiary-color-10: #0047851A;
+                  --primary-color-20: #00478533;
+          --secondary-color-20: #00478533;
+          --tertiary-color-20: #00478533;
+                  --primary-color-30: #0047854D;
+          --secondary-color-30: #0047854D;
+          --tertiary-color-30: #0047854D;
+                  --primary-color-40: #00478566;
+          --secondary-color-40: #00478566;
+          --tertiary-color-40: #00478566;
+                  --primary-color-50: #00478580;
+          --secondary-color-50: #00478580;
+          --tertiary-color-50: #00478580;
+                  --primary-color-60: #00478599;
+          --secondary-color-60: #00478599;
+          --tertiary-color-60: #00478599;
+                  --primary-color-70: #004785B3;
+          --secondary-color-70: #004785B3;
+          --tertiary-color-70: #004785B3;
+                  --primary-color-80: #004785CC;
+          --secondary-color-80: #004785CC;
+          --tertiary-color-80: #004785CC;
+                  --primary-color-90: #004785E6;
+          --secondary-color-90: #004785E6;
+          --tertiary-color-90: #004785E6;
+              }
+    </style>
+
+    <link href="/sites/g/files/ehbemt936/files/documents/page_css/nhgov2-sitewide.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body class="path-node page-node-type-page">
+    
+
+    <section role="region" aria-label="Link to main page content">
+            <a href="#content" class="sr-only sr-only-focusable"  title="Skip to main content">
+        Skip to main content
+      </a>
+      <div class="scrollToTop"><img src="/themes/custom/state_of_nh_core/library/img/scrollToTop.svg" alt="scroll to top"></div>
+    </section>
+        <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="YhX4XzJr"></script>
+
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="page-wrapper">
+  <header role="banner" class="site-header" aria-label="page header">
+      <div class="region region-header">
+    
+<div id="block-allpagesutilitynavigation" class="block block-block-content block-block-contentc97cd048-6143-4ac8-9b9b-d1dc81c8c605">
+  
+    
+    <section class="utility-nav " aria-label="Utility Nav to change text size, language, or search site">
+    <div class="container">
+      <div class="utility-links">
+                  <!-- Text Resize -->
+          <div class="text-size item">
+            <a href="#" class="resize-text-toggle toggle-btn" title="Click to make text smaller or larger" data-id="textResize">
+              <span class="size1">A</span>
+              <span class="size2">A</span>
+              <span class="size3">A</span>
+              <span class="text">Change Text Size</span>
+            </a>
+          </div>
+        
+                  <!-- Language -->
+          <div class="language item">
+            <a href="#" class="language-toggle toggle-btn" title="Change Site Language" data-id="language">
+              <i class="fas fa-globe-americas"></i>
+              Change Site Language
+            </a>
+          </div>
+        
+        
+                  <!-- Search -->
+          <div class="search item">
+            <a href="#" class="search-toggle toggle-btn" title="Search The Site" data-id="search">
+              <i class="fas fa-search"></i>
+              Search The Site
+            </a>
+          </div>
+          <!-- end .search -->
+        
+              </div>
+      <!-- end .utility-links -->
+    </div>
+
+    <!-- *** Utility Dropdowns *** -->
+          <!-- Text Resize Dropdown -->
+      <div class="text-resize-dropdown dropdown" data-id="textResize">
+        <div class="overlay"></div>
+
+        <div class="dropdown-content">
+          <div class="container">
+            <a href="#" class="close-btn" title="close modal">
+              <i class="far fa-times-circle"></i>
+              CLOSE</a>
+
+            <div class="row">
+              <div class="col-md-4">
+                <button class="text-size-button decrease btn btn-secondary" title="Click to make site text smaller">
+                  <i class="fas fa-minus-circle"></i>
+                  MAKE TEXT SMALLER</button>
+              </div>
+
+              <div class="col-md-4">
+                <button class="text-size-button increase btn btn-secondary" title="Click to make site text larger">
+                  <i class="fas fa-plus-circle"></i>
+                  MAKE TEXT LARGER</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="divider"></div>
+        </div>
+      </div>
+    
+          <!-- language Dropdown -->
+      <div class="language-dropdown dropdown" data-id="language">
+        <div class="overlay"></div>
+
+        <div class="dropdown-content">
+          <div class="container">
+            <a href="#" class="close-btn" title="close modal">
+              <i class="far fa-times-circle"></i>
+              CLOSE</a>
+
+            <div id="google_translate_element"></div>
+            <script type="text/javascript">
+              function googleTranslateElementInit() {
+                new google.translate.TranslateElement({
+                pageLanguage: 'en'
+                }, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+            <div class="form-row">
+              <div class="powered-and-reset">
+                <div class="powered-by">
+                  <span>Powered by:</span>
+                  <a href="https://translate.google.com/"><img src="/themes/custom/state_of_nh_core/library/img/googleTranslate.png" alt="Google Translate"></a>
+                </div>
+
+                <!-- Notes:  Reset is not binded as I wasn't sure if BE would handle it.  use "utility-nav.js" to add code -->
+                <a href="#" onclick="ResetGoogleTranslate()" class="reset-language" title="Reset Language to English">Reset Language to English</a>
+              </div>
+            </div>
+
+            <div class="form-row">
+              <div class="language-links">
+                
+              </div>
+            </div>
+          </div>
+
+          <div class="divider"></div>
+        </div>
+      </div>
+    
+          <div class="search-dropdown dropdown" data-id="search">
+        <div class="overlay"></div>
+
+        <div class="dropdown-content">
+          <a href="#" class="close-btn" title="close modal">
+            <i class="far fa-times-circle"></i>
+            CLOSE</a>
+
+                      <div class="container">
+              <form action="/search" method="get" accept-charset="UTF-8">
+                
+                <div class="form-row">
+                  <div class="col-md-9 col-lg-10">
+                    <label for="search-site" class="sr-only">Search entire site by keyword or topic</label>
+
+                    <input type="text" name="keys" size="30" maxlength="128" placeholder="Search by keyword or topic..." aria-label="Search Box">
+                  </div>
+
+                  <div class="col-md-3 col-lg-2">
+                    <button type="submit" class="btn btn-secondary search-btn" data-drupal-selector="edit-submit-search" id="edit-submit-search">
+                      SEARCH
+                      <i class="fas fa-chevron-right"></i>
+                    </button>
+                  </div>
+                </div>
+              </form>
+            </div>
+
+            <div class="divider"></div>
+                  </div>
+      </div>
+      </section>
+</div>
+
+<div class="views-element-container block block-views block-views-blockalert-block-1" id="block-views-block-alert-block-1">
+  
+  
+    
+            
+      </div>
+  
+<div id="block-state-of-nh-core-branding" class="block block-system block-system-branding-block">
+  
+    
+    <section class="brand-row" aria-label="agency brand links with state seal">
+    <div class="container">
+      <div class="row">
+		    <div class="logo-wrapper col-10 col-lg-6">
+		      
+
+
+
+
+<a href="/" aria-label="Click to return to the homepage" rel="home" class="logo site-logo">
+      <img src="/sites/g/files/ehbemt936/files/nhgov-blue-lg.png" alt="The logo image for the website" />
+  
+  </a>
+		    </div>
+
+        <div class="agency-info col-lg-4">
+          
+
+  
+            <ul class="agency-links">
+                  <li>
+          <a href="/contact-us" data-drupal-link-system-path="node/3746">Contact Us</a>
+        </li>
+          </ul>
+  
+
+
+
+                  </div>
+
+        <div class="state-seal col-2 col-lg-2">
+          
+                      <img src="/sites/g/files/ehbemt936/files/images/seal-no-laurels-live-free-125px.png" alt="New Hampshire state seal">
+                  </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+  </div>
+
+  </header>
+
+  <main role="main" aria-label="full page">
+      <div class="region region-primary-menu">
+    <nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+  
+
+        
+
+
+<section class="menu-wrapper" aria-label="Main site navigation">
+	<div class="mobile-menu-bar">
+		<div class="container">
+			<div tabindex="0" aria-label="Open Navigation Menu Button" class="open-menu toggle-menu">
+        <i class="fas fa-bars"></i> OPEN MENU
+      </div>
+
+			<div tabindex="0" aria-label="Close Navigation Menu Button" class="close-menu toggle-menu">
+        <i class="fas fa-times"></i> CLOSE MENU
+      </div>
+
+			<nav class="main-menu" aria-label="Main Menu">
+                                                      <ul class="menu">
+                                                          <li class="menu-item">
+                  <a href="/" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+
+                                  </li>
+                                              <li class="menu-item">
+                  <a href="/businesses" data-drupal-link-system-path="node/261">Businesses</a>
+
+                                  </li>
+                                              <li class="menu-item">
+                  <a href="/residents" data-drupal-link-system-path="node/266">Residents</a>
+
+                                  </li>
+                                              <li class="menu-item">
+                  <a href="/visitors" data-drupal-link-system-path="node/271">Visitors</a>
+
+                                  </li>
+                                              <li class="menu-item">
+                  <a href="/government" data-drupal-link-system-path="node/276">Government</a>
+
+                                  </li>
+                                              <li class="menu-item">
+                  <a href="/online-services" data-drupal-link-system-path="node/281">Online Services</a>
+
+                                  </li>
+                                              <li class="menu-item menu-item--expanded menu-item--active-trail">
+                  <a href="/policies" data-drupal-link-system-path="node/2321">Policies</a>
+
+                                                                                    <ul class="menu">
+                                                          <li class="menu-item">
+                  <a href="/policies/accessibility-policy" data-drupal-link-system-path="node/2336">Accessibility Policy</a>
+
+                                  </li>
+                                              <li class="menu-item menu-item--active-trail">
+                  <a href="/policies/privacy-policy" data-drupal-link-system-path="node/2276" class="is-active" aria-current="page">Privacy Policy</a>
+
+                                  </li>
+                                              <li class="menu-item">
+                  <a href="/policies/language-translation-tool-information" data-drupal-link-system-path="node/3886">Language Translation Tool Information</a>
+
+                                  </li>
+                          </ul>
+                  
+                                  </li>
+                                              <li class="menu-item">
+                  <a href="/glance/jobs-workers" data-drupal-link-system-path="node/1236">Careers</a>
+
+                                  </li>
+                          </ul>
+                  
+
+        
+				<div class="agency-info">
+					
+
+  
+            <ul class="agency-links">
+                  <li>
+          <a href="/contact-us" data-drupal-link-system-path="node/3746">Contact Us</a>
+        </li>
+          </ul>
+  
+
+
+
+									</div>
+			</nav>
+		</div>
+	</div>
+</section>
+
+  </nav>
+
+  </div>
+
+
+    <div class="navigation-close-focus" tabindex="0"></div>
+
+      <div class="region region-page-banner">
+    
+<div id="block-allpagesinnerpagebanner" class="block block-block-content block-block-contenteb1aa8bf-e15c-42c3-913a-8e8bd591b01a">
+  
+    
+
+  								
+    
+    
+
+                          
+        
+      
+
+
+
+		<section class="hero-inner" aria-label="Inner page Banner" data-background="/sites/g/files/ehbemt936/files/styles/inner_page_banners/public/images/alton-bay.jpg?h=d5c30f2d&amp;itok=yATG5xGc" data-mobilebackground="" data-tabletbackground="">
+			<div class="caption">
+				<div class="container">
+					
+<div class="block block-system block-system-breadcrumb-block">
+  
+    
+            
+  <section class="breadcrumbs" aria-label="breadcrumbs">
+      <ul>
+                              <li>
+                              <a href="/">Home</a>
+                          </li>
+                                        <li>
+                              <a href="/policies">Policies</a>
+                          </li>
+                                        <li>
+                              Privacy Policy
+                          </li>
+                        </ul>
+  </section>
+
+
+
+      </div>
+
+				</div>
+			</div>
+		</section>
+	  </div>
+
+  </div>
+
+
+    
+
+    <div id="content" role="region" aria-label="page content">
+      <a id="main-content" tabindex="-1"></a>
+      <div class="container">
+        <div class="generic-content">
+            <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+<div id="block-state-of-nh-core-content" class="block block-system block-system-main-block">
+  
+    
+            
+
+
+
+
+
+<article class="node node--type-page node--view-mode-full">
+  
+  
+  <div class="node__content">
+    	<div class="container">
+		<div class="layout-container">
+			<div  class="two-columns row">
+				<div class="col-12 layout-column">
+											<div  class="colone-region layout-column--region">
+							
+<div class="block block-layout-builder block-field-blocknodepagetitle">
+  
+    
+            <div class="container no-padding">
+      <h1>Privacy Policy</h1>
+    </div>
+      </div>
+
+<div class="block block-layout-builder block-field-blocknodepagefield-introduction">
+  
+    
+              <div class="container no-padding">
+    <div class="page-introduction">
+      <h2>This is the State&#039;s Privacy Policy explaining how and when they use personal information in their websites.</h2>
+    </div>
+  </div>
+
+      </div>
+
+						</div>
+									</div>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="layout-container">
+			<div  class="two-columns row">
+				<div class="col-md-8 col-sm-12 layout-column">
+											<div  class="colone-region layout-column--region">
+							
+<div class="block block-st-content-types block-faq-list-block">
+  
+    
+            
+
+<div  class="block block- faq__list" aria-label='Frequently Asked Questions'>
+      
+    
+        
+
+          <div class='faq__accordion__entry'>
+        <div class='faq__accordion__entry__question' tabindex='0'><p>Policy Statement</p>
+</div>
+        <div class='faq__accordion__entry__answer'>
+          <div class='faq__accordion__entry__answer__container'><p>In the State of New Hampshire, laws exist to ensure that government is open and that the public has access to appropriate information obtained and held by the government. At the same time, the State recognizes that personal information collected by the State should be used only for the purpose for which it is collected. Except as authorized by law, such information will not be disclosed to other persons or organizations. Therefore, it is the policy of the State of New Hampshire that all personal information collected by state government websites shall be subject to the following principles:</p>
+<ul>
+<li><em>Electronic information</em> – information collected and held electronically shall be afforded the same protection as non-electronic information;</li>
+<li><em>Collection of personal information</em> – the collection of personal information shall be limited to and consistent with the requirements of the government program or activity;</li>
+<li><em>Use of personal information</em> – individuals shall be informed as to why information is being collected and how it will be used;</li>
+<li><em>Disclosure of personal information</em> – disclosure of information shall be limited to the purpose for which it was collected unless otherwise authorized by law; when practical and provided by law, information may be obtained from other government entities;</li>
+<li><em>Access to personal information</em> – individuals shall be allowed a reasonable opportunity to obtain access to their personal information and to ensure that it is correct; and</li>
+<li><em>Security precautions</em> – reasonable precautions shall be taken to ensure the security of personal information.</li>
+</ul>
+</div>
+        </div>
+      </div>
+          <div class='faq__accordion__entry'>
+        <div class='faq__accordion__entry__question' tabindex='0'><p>What information about users does the State of New Hampshire collect through its websites?</p>
+</div>
+        <div class='faq__accordion__entry__answer'>
+          <div class='faq__accordion__entry__answer__container'><h4>What information is collected automatically?</h4>
+<p>The following information is collected and stored automatically from all users accessing State of New Hampshire websites:</p>
+<ul>
+<li>The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and Internet Protocol (IP) address from which you access our site;</li>
+<li>The type of hardware, browser and operating system used to access our site;</li>
+<li>The date and time you access our site;</li>
+<li>The number of bytes of data transmitted during your visit;</li>
+<li>Transaction and routing information to and from your computer;</li>
+<li>The pages you visit; and</li>
+<li>If you linked to our site from another website, the address of that website (URL).</li>
+</ul>
+<p>This information is used for purposes such as assessing what information is of most interest to users and system enhancements.</p>
+<h4>What about personal information voluntarily provided to the State?</h4>
+<p>Unless you choose to do so (i.e. sending an email, participating in a survey, responding to a feedback or "contact us" form, or applying for benefits or State services), State of New Hampshire websites do not obtain personally identifying information.</p>
+<p>We consider any information that could reasonably be used to identify you as "personally identifying information." This may include, but is not limited to:</p>
+<ul>
+<li>Your name;</li>
+<li>Your address (excluding zip code);</li>
+<li>Your email address;</li>
+<li>Your social security number;</li>
+<li>Your password;</li>
+<li>Your IP address;</li>
+<li>Bank account information;</li>
+<li>Credit card information;</li>
+<li>License or identification number;</li>
+<li>Telephone number;</li>
+<li>Medical or disability information;</li>
+<li>Any combination of data that could be used to identify you such as birth date, zip code and gender; and</li>
+<li>Any graphical or visual representation of you.</li>
+</ul>
+<p>Government agencies may request personally identifying information from you in order to provide requested services, but such information is handled as it would be on an in-person visit to a government office.</p>
+<p>If personal information is requested on the website or volunteered by the user, State law and the federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection, distribution and copying if not protected by federal or State law.</p>
+<h4>How can I access and correct my personal information?</h4>
+<p>Persons concerned about information contained in their personal records should contact the custodian of the record, which typically is the State agency or other governmental entity that collects and maintains the information.</p>
+</div>
+        </div>
+      </div>
+          <div class='faq__accordion__entry'>
+        <div class='faq__accordion__entry__question' tabindex='0'><p>Public Disclosure</p>
+</div>
+        <div class='faq__accordion__entry__answer'>
+          <div class='faq__accordion__entry__answer__container'><p>The State does not disclose any personal information except when: permission has been granted by the individual; where the information is considered public information under the New Hampshire Right to Know Law, <a href="https://gc.nh.gov/rsa/html/VI/91-A/91-A-10.htm">RSA 91-A</a>, and is not otherwise protected from disclosure by applicable State or federal laws; or, we are required to do so by law, subpoena, court order or legal process.</p>
+</div>
+        </div>
+      </div>
+          <div class='faq__accordion__entry'>
+        <div class='faq__accordion__entry__question' tabindex='0'><p>Cookies</p>
+</div>
+        <div class='faq__accordion__entry__answer'>
+          <div class='faq__accordion__entry__answer__container'><p>State of New Hampshire applications and Web pages may use cookies (or programs called "applets") to store information. Cookies are text files stored on your computer to enhance the usability of a particular website. They can tell a website if you have visited before and can pass short bits of information from the website back to itself the next time you visit. Any information, including personal information, which you choose to provide at a site may be stored in a cookie. Your Web browser can be configured to refuse cookies or to notify you when a website attempts to send you a cookie. Cookie files can also be found and deleted from your computer's hard drive.</p>
+</div>
+        </div>
+      </div>
+          <div class='faq__accordion__entry'>
+        <div class='faq__accordion__entry__question' tabindex='0'><p>Security</p>
+</div>
+        <div class='faq__accordion__entry__answer'>
+          <div class='faq__accordion__entry__answer__container'><p>The State of New Hampshire has instituted security measures to protect the information and systems that we maintain. These measures are designed to ensure that this service remains available to all users by blocking unauthorized access to our systems and preventing corruption of data, thus providing reasonable protection of personal information in our possession.</p>
+</div>
+        </div>
+      </div>
+          <div class='faq__accordion__entry'>
+        <div class='faq__accordion__entry__question' tabindex='0'><p>Disclaimer</p>
+</div>
+        <div class='faq__accordion__entry__answer'>
+          <div class='faq__accordion__entry__answer__container'><p>State of New Hampshire websites may contain links to or data from other, non-State websites. When linking to another site, this State of New Hampshire Privacy Notice no longer applies. The State of New Hampshire does not endorse any products or services linked from or supplied to this site. In addition, some State agencies may have policies specific to their agency that augment or supersede this policy.</p>
+<p>While the State of New Hampshire's websites are intended to provide current and accurate information, neither the State nor any of its employees, agencies, and officers can warranty the information contained on the site and shall not be held liable for any losses caused on the reliance of information provided. Relying on information contained on these sites is done at one's own risk.</p>
+</div>
+        </div>
+      </div>
+          <div class='faq__accordion__entry'>
+        <div class='faq__accordion__entry__question' tabindex='0'><p>Contact Information</p>
+</div>
+        <div class='faq__accordion__entry__answer'>
+          <div class='faq__accordion__entry__answer__container'><p>Additional questions or concerns about this Privacy Notice should be directed to: <a href="mailto:webmaster@nh.gov?Subject=Privacy Statement">webmaster@nh.gov</a>.</p>
+</div>
+        </div>
+      </div>
+      </div>
+
+
+      </div>
+
+						</div>
+									</div>
+				<div class="col-md-4 col-sm-12 layout-column">
+											<div  class="coltwo-region layout-column--region">
+							
+<div class="block block-st-quick-links block-quick-link-list-block">
+  
+    
+            
+
+
+<div  class="block block-">
+      
+          
+
+          <section class="quick-link-list">
+                  <h3 class="quick-link-list--heading">Policies</h3>
+        
+        
+        <ul class="one-column">
+                                    <li class="quick-link-list--entry-container">
+                <a class="quick-link-list--entry-container--entry" href="/policies/privacy-policy" aria-label="" target="_self">
+                  Privacy Policy
+                </a>
+
+                              </li>
+                                                <li class="quick-link-list--entry-container">
+                <a class="quick-link-list--entry-container--entry" href="/policies/accessibility-policy" aria-label="" target="_self">
+                  Accessibility Policy
+                </a>
+
+                              </li>
+                                                <li class="quick-link-list--entry-container">
+                <a class="quick-link-list--entry-container--entry" href="/policies/language-translation-tool-information" aria-label="" target="_self">
+                  Language Translation
+                </a>
+
+                              </li>
+                              </ul>
+      </section>
+      </div>
+
+      </div>
+	
+						</div>
+									</div>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="layout-container">
+			<div  class="two-columns row">
+				<div class="col-12 layout-column">
+											<div  class="colone-region layout-column--region">
+							
+						</div>
+									</div>
+			</div>
+		</div>
+	</div>
+
+  </div>
+  
+    
+   </article>
+
+      </div>
+
+  </div>
+
+        </div>   
+      </div>
+      
+      
+    </div>
+  </main>
+
+  <footer role="contentinfo" id="site-footer" class="site-footer" aria-label="page footer" >
+          <div class="main-footer-content">		
+        <div class="container">
+          <div class="row">
+            <div class="address-col col-md-6 col-lg-6">
+              
+
+
+
+
+<a href="/" aria-label="Click to return to the homepage" rel="home" class="logo site-logo">
+      <img src="/sites/g/files/ehbemt936/files/nhgov-blue-lg.png" alt="The logo image for the website" />
+  
+  </a>
+                                <div class="region region-footer-first">
+    
+<div id="block-addresswywiwyg" class="block block-block-content block-block-contentd880630a-fd15-4863-afe5-60aaeaf1eb02">
+	
+		
+
+			<div class="">
+			
+		</div>
+	</div>
+
+  </div>
+
+                          </div>
+
+                          <div class="col-md-3 col-lg-3">
+                  <div class="region region-footer-second">
+    <nav role="navigation" aria-labelledby="block-footeragencylinks-menu" id="block-footeragencylinks" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-footeragencylinks-menu">Footer - Agency Links</h2>
+  
+
+        
+
+  
+            <ul class="agency-links">
+                  
+        <li class="menu-item">
+          <a href="/almanac" data-drupal-link-system-path="node/291">Almanac</a>
+
+                  </li>
+              
+        <li class="menu-item">
+          <a href="/glance" data-drupal-link-system-path="node/1191">At-a-Glance</a>
+
+                  </li>
+              
+        <li class="menu-item">
+          <a href="/flag-status" data-drupal-link-system-path="node/2376">Flag Status</a>
+
+                  </li>
+              
+        <li class="menu-item">
+          <a href="/policies" data-drupal-link-system-path="node/2321">Policies</a>
+
+                  </li>
+              
+        <li class="menu-item">
+          <a href="/contact-us" data-drupal-link-system-path="node/3746">Contact Us</a>
+
+                  </li>
+          </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+              </div>
+            
+                          <div class="col-md-3 col-lg-3">
+                  <div class="region region-footer-third">
+    <nav role="navigation" aria-labelledby="block-footerstatelinks-menu" id="block-footerstatelinks" class="block block-menu navigation menu--footer---state-links">
+            
+  <h2 class="visually-hidden" id="block-footerstatelinks-menu">Footer - State Links</h2>
+  
+
+        
+
+  
+            <ul class="state-links">
+                  
+        <li class="menu-item">
+          <a href="https://www.governor.nh.gov">Governor Ayotte</a>
+
+                  </li>
+              
+        <li class="menu-item">
+          <a href="https://www.visitnh.gov/" title="NH Travel &amp; Tourism">NH Travel &amp; Tourism</a>
+
+                  </li>
+              
+        <li class="menu-item">
+          <a href="https://www.readynh.gov/" title="ReadyNH.gov">ReadyNH.gov</a>
+
+                  </li>
+              
+        <li class="menu-item">
+          <a href="https://das.nh.gov/jobsearch/employment.aspx" title="NH Government Careers">NH Government Careers</a>
+
+                  </li>
+              
+        <li class="menu-item">
+          <a href="https://www.transparentnh.das.nh.gov/" title="Transparent NH">Transparent NH</a>
+
+                  </li>
+              
+        <li class="menu-item">
+          <a href="https://www.nhbusinessgateway.gov/">NH Business Gateway</a>
+
+                  </li>
+          </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+              </div>
+                      </div>
+        </div>
+      </div>
+  
+            <div class="region region-footer-copyright">
+    <div class="copyright">
+    <div class="container"> 
+      
+        <div class="row">
+
+            <div class="copyright-info">
+                &copy; 2026 State of New Hampshire • All rights reserved 
+                
+
+
+  
+            <ul class="links">
+                          <li class="menu-item">
+          <a href="https://www.nh.gov/policies/accessibility-policy" title="Accessibility Policy">Accessibility Policy</a>
+
+                  </li>
+                      <li class="menu-item">
+          <a href="https://www.nh.gov/policies/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+
+                  </li>
+          </ul>
+  
+
+ 
+            </div>
+
+            <div class="copyright-subtext">An official NEW HAMPSHIRE government website</div>
+        </div>
+    </div>
+</div>
+
+  </div>
+
+    </footer>
+</div>
+
+  </div>
+
+    
+
+    <!-- JS -->
+    <script src="/themes/custom/state_of_nh_core/library/js/vendor/modernizr-custom.js"></script>
+    <script>!window.jQuery && document.write('<script src="/themes/custom/state_of_nh_core/library/js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
+    <script src="/themes/custom/state_of_nh_core/library/js/vendor/browser-polyfill.min.js"></script>
+    <script src="/themes/custom/state_of_nh_core/library/js/vendor/svg4everybody.min.js"></script>
+    <script src="/themes/custom/state_of_nh_core/library/js/vendor/bootstrap.bundle.min.js"></script>
+    <script src="/themes/custom/state_of_nh_core/library/js/vendor/jquery.responsiveTabs.min.js"></script>
+    <script src="/themes/custom/state_of_nh_core/library/js/vendor/slick.min.js"></script>
+    <script src="/themes/custom/state_of_nh_core/library/js/vendor/owl.carousel.min.js"></script>
+    <script src="/themes/custom/state_of_nh_core/library/js/vendor/jquery.fancybox.min.js"></script>
+    <!-- mainES6.js == debug file. main,js == production-->
+    <script src="/themes/custom/state_of_nh_core/library/js/main.js"></script>
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/2276","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1j9EOwjAIRX-o2k8irGO1jpatME39eusWE6Px5ebASS4hMKo2P6CSCwdnUsVI-p6LjN1JpU41I6cHuSgSmQALcrMU1H8vnBoEKUbFwNpC6idcAUPvGZOUl163FGbgVGb1H9xTrXs0ApmgXGC_HVkG5JOGmhbT_95ab4m__rpuVJvTpkb5-PeW6K5-z3OWcWN6An5Oas4","theme":"state_of_nh_core","theme_token":null},"ajaxTrustedUrl":[],"google_analytics":{"account":"G-BJ8CGT1VYN","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"user":{"uid":0,"permissionsHash":"b9bc5879555422ed34aede6b7a5eb74cfdcc15427c0ac6bc478e6862559ee407"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.6.17"></script>
+<script src="/core/misc/drupal.js?v=10.6.17"></script>
+<script src="/core/misc/drupal.init.js?v=10.6.17"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.3.0"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=10.6.17"></script>
+<script src="/modules/custom/st_content_types/frontend/library/js/faq-accordion.js?v=1.0.3"></script>
+<script src="/core/misc/progress.js?v=10.6.17"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/debounce.js?v=10.6.17"></script>
+<script src="/core/misc/announce.js?v=10.6.17"></script>
+<script src="/core/misc/message.js?v=10.6.17"></script>
+<script src="/core/misc/ajax.js?v=10.6.17"></script>
+<script src="/themes/contrib/stable/js/ajax.js?v=10.6.17"></script>
+<script src="/themes/custom/state_of_nh_core/library/js/vendor/jquery-ui.js?tm6kht"></script>
+<script src="/themes/custom/state_of_nh_core/library/js/vendor/jszip.js?tm6kht"></script>
+<script src="/themes/custom/state_of_nh_core/library/js/vendor/jszip-utils.js?tm6kht"></script>
+<script src="/themes/custom/state_of_nh_core/library/js/vendor/jszip-utils-ie.js?tm6kht"></script>
+<script src="/themes/custom/state_of_nh_core/library/js/vendor/FileSaver.js?tm6kht"></script>
+<script src="/themes/custom/state_of_nh_core/library/js/main.js?tm6kht"></script>
+
+
+          <div class="views-element-container">
+<div class="view view-document-types view-id-document_types view-display-id-icon_application js-view-dom-id-397e259b18a2126f8f18ee248c449fdce587aa5ff39a6ef184b707f6353a8955">
+  
+
+  
+  
+
+  
+  
+    
+    <div class="view-content">
+      <script>
+	var _iconDebounce;
+	var mutationObserver = new MutationObserver(function () {
+    clearTimeout(_iconDebounce);
+    _iconDebounce = setTimeout(function () {
+                                                      
+        applyDocumentIcons('.docx', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-docx.png?h=e77b622d&amp;itok=76KQuNeP', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;a621ec79-bb56-4532-be01-59a2fc10a018&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-docx.png&quot; width=&quot;25&quot; /&gt;Microsoft Word File (.docx). Visit nh.gov for&lt;a href=&quot;https://www.nh.gov/file-format/docx&quot;&gt; information regarding viewing a Microsoft Word document&lt;/a&gt;.&lt;/p&gt;', 1, 1);
+                                                      
+        applyDocumentIcons('.pptx', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-pptx.png?h=e77b622d&amp;itok=vxGZbL_h', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;fe69b2d6-81f0-4476-8498-057919d8a029&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-pptx.png&quot; width=&quot;25&quot; /&gt;Microsoft Powerpoint File (.pptx) . Visit nh.gov for a &lt;a href=&quot;https://www.nh.gov/file-format/pptx&quot;&gt;for information regarding viewing this file format&lt;/a&gt;.&lt;/p&gt;', 1, 1);
+                                                      
+        applyDocumentIcons('.doc', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-docx.png?h=e77b622d&amp;itok=76KQuNeP', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;a621ec79-bb56-4532-be01-59a2fc10a018&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-docx.png&quot; width=&quot;25&quot; /&gt;Microsoft Word File (.doc). Visit nh.gov for&lt;a href=&quot;https://www.nh.gov/file-format/docx&quot;&gt; information regarding viewing a Microsoft Word document&lt;/a&gt;.&lt;/p&gt;', 1, 1);
+                                                      
+        applyDocumentIcons('.ppt', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-pptx.png?h=e77b622d&amp;itok=vxGZbL_h', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;fe69b2d6-81f0-4476-8498-057919d8a029&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-pptx.png&quot; width=&quot;25&quot; /&gt;Microsoft Powerpoint File (.pptx) . Visit nh.gov for a &lt;a href=&quot;https://www.nh.gov/file-format/pptx&quot;&gt;for information regarding viewing this file format&lt;/a&gt;.&lt;/p&gt;', 1, 1);
+                                                      
+        applyDocumentIcons('.xls', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-xlsx.png?h=e77b622d&amp;itok=yJxFSyHp', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;6301225e-766d-47a6-bccc-3a699a646afc&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-xlsx.png&quot; width=&quot;25&quot; /&gt;Microsoft Excel File (.xlsx) . Visit nh.gov for a &lt;a href=&quot;https://www.nh.gov/file-format/xlsx&quot;&gt;for information regarding viewing this file format&lt;/a&gt;.&lt;/p&gt;', 1, 1);
+                                                      
+        applyDocumentIcons('.xlsx', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-xlsx.png?h=e77b622d&amp;itok=yJxFSyHp', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;6301225e-766d-47a6-bccc-3a699a646afc&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-xlsx.png&quot; width=&quot;25&quot; /&gt;Microsoft Excel File (.xlsx) . Visit nh.gov for a &lt;a href=&quot;https://www.nh.gov/file-format/xlsx&quot;&gt;for information regarding viewing this file format&lt;/a&gt;.&lt;/p&gt;', 1, 1);
+                                                      
+        applyDocumentIcons('.txt', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-txt.png?h=e77b622d&amp;itok=yBBM_YFC', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;5028b341-c3b5-49f8-8aae-c7a409316d70&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-txt.png&quot; width=&quot;25&quot; /&gt; Text File format (.txt) . Visit nh.gov for a &lt;a href=&quot;https://www.nh.gov/file-format/txt&quot;&gt;list of free .txt readers&lt;/a&gt; for a variety of operating systems.&lt;/p&gt;', 1, 1);
+                                                      
+        applyDocumentIcons('.rtf', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-rtf.png?h=e77b622d&amp;itok=Ob8EnSRU', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;eebef4fd-7be8-4c43-a977-683d8a04c7aa&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-rtf.png&quot; width=&quot;25&quot; /&gt;Rich Text File format (.rtf) . Visit nh.gov for a &lt;a href=&quot;https://www.nh.gov/file-format/rtf&quot;&gt;list of free .rtf readers&lt;/a&gt; for a variety of operating systems.&lt;/p&gt;', 1, 1);
+                                                      
+        applyDocumentIcons('.zip', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-zip.png?h=e77b622d&amp;itok=PLiDB_sE', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;8d0d8d03-fcef-48eb-9312-c42429d1aa6a&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-zip.png&quot; width=&quot;25&quot; /&gt; ZIP File format (.zip) . Visit nh.gov for a &lt;a href=&quot;https://www.nh.gov/file-format/zip&quot;&gt;list of free .zip readers&lt;/a&gt; for a variety of operating systems.&lt;/p&gt;', 1, 1);
+                                                      
+        applyDocumentIcons('.csv', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-csv.png?h=e77b622d&amp;itok=9CQb1z9N', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;ed0afe37-ca2b-4575-ae6b-2256793364ee&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-csv.png&quot; width=&quot;25&quot; /&gt;Comma Seperated Value File (.csv). Visit nh.gov for&lt;a href=&quot;https://www.nh.gov/file-format/csv&quot;&gt; information regarding viewing a Comma Seperated Value file&lt;/a&gt;.&lt;/p&gt;', 1, 1);
+                                                      
+        applyDocumentIcons('.pdf', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-pdf.png?h=e77b622d&amp;itok=c6cLoWzF', '', 1, 0);
+          }, 150);
+  });
+
+  // The following runs on page load and adds options for layout builder to set wrapper classes supplied on child elements.
+  jQuery(window).on("load", function () {
+    jQuery(".page-wrapper").each(function () {
+      mutationObserver.observe(this, {
+        childList: true,
+        subtree: true,
+        attributes: true,
+        attributeFilter: ["class", "tabulator-cell"]
+      });
+    });
+  });
+
+                          
+    applyDocumentIcons('.docx', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-docx.png?h=e77b622d&amp;itok=76KQuNeP', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;a621ec79-bb56-4532-be01-59a2fc10a018&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-docx.png&quot; width=&quot;25&quot; /&gt;Microsoft Word File (.docx). Visit nh.gov for&lt;a href=&quot;https://www.nh.gov/file-format/docx&quot;&gt; information regarding viewing a Microsoft Word document&lt;/a&gt;.&lt;/p&gt;', 1, 1);
+                          
+    applyDocumentIcons('.pptx', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-pptx.png?h=e77b622d&amp;itok=vxGZbL_h', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;fe69b2d6-81f0-4476-8498-057919d8a029&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-pptx.png&quot; width=&quot;25&quot; /&gt;Microsoft Powerpoint File (.pptx) . Visit nh.gov for a &lt;a href=&quot;https://www.nh.gov/file-format/pptx&quot;&gt;for information regarding viewing this file format&lt;/a&gt;.&lt;/p&gt;', 1, 1);
+                          
+    applyDocumentIcons('.doc', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-docx.png?h=e77b622d&amp;itok=76KQuNeP', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;a621ec79-bb56-4532-be01-59a2fc10a018&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-docx.png&quot; width=&quot;25&quot; /&gt;Microsoft Word File (.doc). Visit nh.gov for&lt;a href=&quot;https://www.nh.gov/file-format/docx&quot;&gt; information regarding viewing a Microsoft Word document&lt;/a&gt;.&lt;/p&gt;', 1, 1);
+                          
+    applyDocumentIcons('.ppt', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-pptx.png?h=e77b622d&amp;itok=vxGZbL_h', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;fe69b2d6-81f0-4476-8498-057919d8a029&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-pptx.png&quot; width=&quot;25&quot; /&gt;Microsoft Powerpoint File (.pptx) . Visit nh.gov for a &lt;a href=&quot;https://www.nh.gov/file-format/pptx&quot;&gt;for information regarding viewing this file format&lt;/a&gt;.&lt;/p&gt;', 1, 1);
+                          
+    applyDocumentIcons('.xls', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-xlsx.png?h=e77b622d&amp;itok=yJxFSyHp', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;6301225e-766d-47a6-bccc-3a699a646afc&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-xlsx.png&quot; width=&quot;25&quot; /&gt;Microsoft Excel File (.xlsx) . Visit nh.gov for a &lt;a href=&quot;https://www.nh.gov/file-format/xlsx&quot;&gt;for information regarding viewing this file format&lt;/a&gt;.&lt;/p&gt;', 1, 1);
+                          
+    applyDocumentIcons('.xlsx', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-xlsx.png?h=e77b622d&amp;itok=yJxFSyHp', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;6301225e-766d-47a6-bccc-3a699a646afc&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-xlsx.png&quot; width=&quot;25&quot; /&gt;Microsoft Excel File (.xlsx) . Visit nh.gov for a &lt;a href=&quot;https://www.nh.gov/file-format/xlsx&quot;&gt;for information regarding viewing this file format&lt;/a&gt;.&lt;/p&gt;', 1, 1);
+                          
+    applyDocumentIcons('.txt', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-txt.png?h=e77b622d&amp;itok=yBBM_YFC', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;5028b341-c3b5-49f8-8aae-c7a409316d70&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-txt.png&quot; width=&quot;25&quot; /&gt; Text File format (.txt) . Visit nh.gov for a &lt;a href=&quot;https://www.nh.gov/file-format/txt&quot;&gt;list of free .txt readers&lt;/a&gt; for a variety of operating systems.&lt;/p&gt;', 1, 1);
+                          
+    applyDocumentIcons('.rtf', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-rtf.png?h=e77b622d&amp;itok=Ob8EnSRU', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;eebef4fd-7be8-4c43-a977-683d8a04c7aa&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-rtf.png&quot; width=&quot;25&quot; /&gt;Rich Text File format (.rtf) . Visit nh.gov for a &lt;a href=&quot;https://www.nh.gov/file-format/rtf&quot;&gt;list of free .rtf readers&lt;/a&gt; for a variety of operating systems.&lt;/p&gt;', 1, 1);
+                          
+    applyDocumentIcons('.zip', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-zip.png?h=e77b622d&amp;itok=PLiDB_sE', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;8d0d8d03-fcef-48eb-9312-c42429d1aa6a&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-zip.png&quot; width=&quot;25&quot; /&gt; ZIP File format (.zip) . Visit nh.gov for a &lt;a href=&quot;https://www.nh.gov/file-format/zip&quot;&gt;list of free .zip readers&lt;/a&gt; for a variety of operating systems.&lt;/p&gt;', 1, 1);
+                          
+    applyDocumentIcons('.csv', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-csv.png?h=e77b622d&amp;itok=9CQb1z9N', '&lt;p class=&quot;footnote-text&quot;&gt;&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;ed0afe37-ca2b-4575-ae6b-2256793364ee&quot; height=&quot;20&quot; src=&quot;/sites/g/files/ehbemt301/files/base-files/icon-csv.png&quot; width=&quot;25&quot; /&gt;Comma Seperated Value File (.csv). Visit nh.gov for&lt;a href=&quot;https://www.nh.gov/file-format/csv&quot;&gt; information regarding viewing a Comma Seperated Value file&lt;/a&gt;.&lt;/p&gt;', 1, 1);
+                          
+    applyDocumentIcons('.pdf', '/sites/g/files/ehbemt936/files/styles/inline_icon/public/base-files/icon-pdf.png?h=e77b622d&amp;itok=c6cLoWzF', '', 1, 0);
+  </script>
+
+    </div> 
+
+  
+  
+  
+  
+  </div>
+</div>
+  
+  </body>
+</html>

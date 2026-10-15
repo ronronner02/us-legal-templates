@@ -1,0 +1,58 @@
+{
+  "request_failures": [
+    {
+      "url": "https://courts.alaska.gov/robots.txt",
+      "checked_at": "2026-10-15T07:39:00.185Z",
+      "status": "fetch_error",
+      "reason": "Error: apiRequestContext.get: connect ETIMEDOUT 158.145.65.37:443\nCall log:\n\u001b[2m  - → GET https://courts.alaska.gov/robots.txt\u001b[22m\n\u001b[2m    - user-agent: LegalTemplateResearch/0.1\u001b[22m\n\u001b[2m    - accept: */*\u001b[22m\n\u001b[2m    - accept-encoding: gzip,deflate,br\u001b[22m\n",
+      "kind": "robots",
+      "transport": "ordinary_browser_fetch",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "body_path": "evidence/http/browser-sources/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.body",
+      "receipt_file": "evidence/http/browser-sources/requests.json"
+    },
+    {
+      "url": "https://legacy.utcourts.gov/robots.txt",
+      "checked_at": "2026-10-15T07:45:51.606Z",
+      "status": "fetch_error",
+      "reason": "Error: apiRequestContext.get: connect ETIMEDOUT 65.100.237.88:443\nCall log:\n\u001b[2m  - → GET https://legacy.utcourts.gov/robots.txt\u001b[22m\n\u001b[2m    - user-agent: LegalTemplateResearch/0.1\u001b[22m\n\u001b[2m    - accept: */*\u001b[22m\n\u001b[2m    - accept-encoding: gzip,deflate,br\u001b[22m\n",
+      "kind": "robots",
+      "transport": "ordinary_browser_fetch",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "body_path": "evidence/http/browser-sources/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.body",
+      "receipt_file": "evidence/http/browser-sources/requests.json"
+    },
+    {
+      "url": "https://apps.utcourts.gov/robots.txt",
+      "checked_at": "2026-10-15T07:46:16.886Z",
+      "status": "fetch_error",
+      "reason": "TimeoutError: apiRequestContext.get: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - → GET https://apps.utcourts.gov/robots.txt\u001b[22m\n\u001b[2m    - user-agent: LegalTemplateResearch/0.1\u001b[22m\n\u001b[2m    - accept: */*\u001b[22m\n\u001b[2m    - accept-encoding: gzip,deflate,br\u001b[22m\n",
+      "kind": "robots",
+      "transport": "ordinary_browser_fetch",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "body_path": "evidence/http/browser-sources/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.body",
+      "receipt_file": "evidence/http/browser-sources/requests.json"
+    }
+  ],
+  "additional_gaps": [
+    {
+      "host": "www.nebraska.gov",
+      "status": "inherited_access_stop",
+      "url": "http://www.nebraska.gov/privacypol.html",
+      "note": "Linked privacy policy not requested because the hostname and aliases are already blocked. Judiciary rights review remains incomplete."
+    },
+    {
+      "state": "New Hampshire",
+      "status": "dynamic_form_links_not_observed",
+      "note": "Captured general and e-filing form lists contain a dynamic document-list component but no form links. No claim that the state lacks forms; two static guidance links were selected from the main small-claims page."
+    },
+    {
+      "state": "Nebraska",
+      "status": "offline_link_parse_recovery",
+      "note": "One malformed template href caused the initial HTML parser to stop. Recovered source observations offline from the saved response, skipping malformed non-HTTP link; no additional source request."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "selected_candidates": 23,
+  "acquired_originals": 23,
+  "document_attempts": 23,
+  "unresolved_document_failures": 0,
+  "by_state": {
+    "Nebraska": 21,
+    "New Hampshire": 2
+  },
+  "transport": "Sequential ordinary browser requests, at least two seconds apart, after per-host robots verification. No access workaround. Original bytes, response bodies and headers retained.",
+  "source_connectivity_failures": 3,
+  "inherited_holds": "Preserved unchanged."
+}

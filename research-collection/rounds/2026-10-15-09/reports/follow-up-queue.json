@@ -1,0 +1,42 @@
+[
+  {
+    "owner": "collection reviewer",
+    "task": "Review CC 6:6.5 and CC 6:6.7 header/footer code discrepancies and DC 6:6.9 signature-role wording. Preserve originals.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review 2022 praecipe and 2025 guide compatibility, printed date markers, and current procedural conditions.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Verify reuse, modification, commercial rights and publication approval. Preserve the Nebraska linked-policy access stop.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Render PDFs and inspect fields, calculations, signatures, layout, legal applicability, service and filing acceptance.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review missing case-specific companions and keep blank forms, illustrated guides, proposed orders and service evidence distinct.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Inspect New Hampshire dynamic form catalogs in a future bounded round. Do not infer absence of forms from captured static HTML.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Refresh the historical 658-document combined overview in a separately scoped update; include rounds 08 and 09.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Continue with low-count accessible states. Preserve all permission holds, blocked aliases and unresolved earlier findings.",
+    "status": "pending"
+  }
+]
