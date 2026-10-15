@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.courts.state.hi.us/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T04:00:31.283621+00:00",
+    "http_status": 403,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_403",
+    "sha256": "58bf2215b395dcac74c009aa98701854e43cbe54a1cd3a95fee6a647ca9910d4",
+    "bytes": 118,
+    "body_path": "evidence/http/2026-10-15T04-00-31.234058+00-00/58bf2215b395dcac74c009aa98701854e43cbe54a1cd3a95fee6a647ca9910d4.body"
+  },
+  {
+    "url": "https://www.courts.state.hi.us/self-help/courts/forms/oahu/district_court_forms",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:00:32.967507+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  },
+  {
+    "url": "https://www.courts.state.hi.us/self-help/courts/forms/hawaii/district_court_forms",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:00:32.982812+00:00",
+    "status": "persistent_hold_or_access_stop",
+    "reason": "Existing host restriction retained, including hostname aliases."
+  }
+]

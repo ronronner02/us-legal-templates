@@ -1,0 +1,22 @@
+{
+  "file_hash_deduplication": "All acquired original hashes screened against baseline originals and this round.",
+  "known_content_relationships": [
+    {
+      "forms": [
+        "SC-506A",
+        "SC-506B"
+      ],
+      "basis": "Separate order and disclosure statement originals both contain exemption guidance. Retained as separate original files."
+    },
+    {
+      "forms": [
+        "SC-6000V",
+        "SC-6010V",
+        "SC-6020V",
+        "SC-6030V"
+      ],
+      "basis": "General and subject-specific procedural guides have related subject matter. No claim of independent unique legal content is made."
+    }
+  ],
+  "full_library_semantic_deduplication": "not_performed"
+}

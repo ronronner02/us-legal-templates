@@ -1,0 +1,13 @@
+[
+  {
+    "form_code": "SC-5130V",
+    "source_listed_revision": "09/12/2024",
+    "printed_revision": "05/24",
+    "text_evidence": {
+      "text_path": "extracted-text/0921b25eed05226a9ee665d7943ad42b1ddd88733565017b0edd1c5c4096e478.txt",
+      "matched_text": "SC-5130V, 05/24",
+      "method": "Confirmed in extracted original PDF text. Visual rendering not run."
+    },
+    "status": "needs_source_or_edition_review"
+  }
+]

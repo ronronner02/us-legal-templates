@@ -1,0 +1,36 @@
+[
+  {
+    "url": "https://www.supremecourt.ohio.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T04:00:49.934340+00:00",
+    "status": "fetch_error",
+    "reason": "<urlopen error _ssl.c:1015: The handshake operation timed out>"
+  },
+  {
+    "url": "https://www.supremecourt.ohio.gov/forms/all-forms/domestic-relations-and-juvenile-standardized/",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:01:07.959291+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  },
+  {
+    "url": "https://www.wicourts.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T04:01:07.974536+00:00",
+    "http_status": 404,
+    "content_type": "text/html;charset=ISO-8859-1",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_404",
+    "sha256": "b72544490c9bf1e6e09a4d77299b51d2485d4cc1287f4e4af9b8654b75f9c51e",
+    "bytes": 55507,
+    "body_path": "evidence/http/2026-10-15T04-00-49.904637+00-00/b72544490c9bf1e6e09a4d77299b51d2485d4cc1287f4e4af9b8654b75f9c51e.body"
+  },
+  {
+    "url": "https://www.wicourts.gov/forms1/circuit/index.htm",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:01:12.361377+00:00",
+    "status": "fetch_error",
+    "reason": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>"
+  }
+]

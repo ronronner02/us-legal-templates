@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://www.wicourts.gov/formdisplay/SC-500.pdf?formNumber=SC-500&formType=Form&formatId=2&language=en",
+    "kind": "document",
+    "checked_at": "2026-10-15T04:17:05.170805+00:00",
+    "status": "fetch_error",
+    "reason": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "url": "https://www.wicourts.gov/formdisplay/SC-500I.pdf?formNumber=SC-500I&formType=Form&formatId=2&language=en",
+    "kind": "document",
+    "checked_at": "2026-10-15T04:17:17.254333+00:00",
+    "status": "fetch_error",
+    "reason": "[Errno 11001] getaddrinfo failed"
+  }
+]

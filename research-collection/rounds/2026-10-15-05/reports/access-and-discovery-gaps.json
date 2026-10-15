@@ -1,0 +1,172 @@
+[
+  {
+    "url": "https://www.courts.state.hi.us/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T04:00:31.283621+00:00",
+    "http_status": 403,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_403",
+    "sha256": "58bf2215b395dcac74c009aa98701854e43cbe54a1cd3a95fee6a647ca9910d4",
+    "bytes": 118,
+    "body_path": "evidence/http/2026-10-15T04-00-31.234058+00-00/58bf2215b395dcac74c009aa98701854e43cbe54a1cd3a95fee6a647ca9910d4.body",
+    "receipt_file": "evidence/http/2026-10-15T04-00-31.234058+00-00/requests.json"
+  },
+  {
+    "url": "https://www.courts.state.hi.us/self-help/courts/forms/oahu/district_court_forms",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:00:32.967507+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T04-00-31.234058+00-00/requests.json"
+  },
+  {
+    "url": "https://www.courts.state.hi.us/self-help/courts/forms/hawaii/district_court_forms",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:00:32.982812+00:00",
+    "status": "persistent_hold_or_access_stop",
+    "reason": "Existing host restriction retained, including hostname aliases.",
+    "receipt_file": "evidence/http/2026-10-15T04-00-31.234058+00-00/requests.json"
+  },
+  {
+    "url": "https://www.supremecourt.ohio.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T04:00:49.934340+00:00",
+    "status": "fetch_error",
+    "reason": "<urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "receipt_file": "evidence/http/2026-10-15T04-00-49.904637+00-00/requests.json"
+  },
+  {
+    "url": "https://www.supremecourt.ohio.gov/forms/all-forms/domestic-relations-and-juvenile-standardized/",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:01:07.959291+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T04-00-49.904637+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T04:01:07.974536+00:00",
+    "http_status": 404,
+    "content_type": "text/html;charset=ISO-8859-1",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_404",
+    "sha256": "b72544490c9bf1e6e09a4d77299b51d2485d4cc1287f4e4af9b8654b75f9c51e",
+    "bytes": 55507,
+    "body_path": "evidence/http/2026-10-15T04-00-49.904637+00-00/b72544490c9bf1e6e09a4d77299b51d2485d4cc1287f4e4af9b8654b75f9c51e.body",
+    "receipt_file": "evidence/http/2026-10-15T04-00-49.904637+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/forms1/circuit/index.htm",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:01:12.361377+00:00",
+    "status": "fetch_error",
+    "reason": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>",
+    "receipt_file": "evidence/http/2026-10-15T04-00-49.904637+00-00/requests.json"
+  },
+  {
+    "url": "https://www.mdcourts.gov/family/forms",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:01:46.942699+00:00",
+    "http_status": 301,
+    "content_type": "text/html; charset=utf-8",
+    "etag": null,
+    "last_modified": "Wed, 14 Oct 2026 05:22:50 GMT",
+    "status": "redirect",
+    "location": "http://www.mdcourts.gov/family/family-forms",
+    "receipt_file": "evidence/http/2026-10-15T04-01-44.696917+00-00/requests.json"
+  },
+  {
+    "url": "http://www.mdcourts.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T04:01:49.933130+00:00",
+    "http_status": 301,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": null,
+    "last_modified": null,
+    "status": "redirect",
+    "location": "https://www.mdcourts.gov/robots.txt",
+    "receipt_file": "evidence/http/2026-10-15T04-01-44.696917+00-00/requests.json"
+  },
+  {
+    "url": "http://www.mdcourts.gov/family/family-forms",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:01:53.300224+00:00",
+    "http_status": 301,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": null,
+    "last_modified": null,
+    "status": "redirect",
+    "location": "https://www.mdcourts.gov/family/family-forms",
+    "receipt_file": "evidence/http/2026-10-15T04-01-44.696917+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/formdisplay/SC-500.pdf?formNumber=SC-500&formType=Form&formatId=2&language=en",
+    "kind": "document",
+    "checked_at": "2026-10-15T04:15:44.620137+00:00",
+    "status": "fetch_error",
+    "reason": "[Errno 11001] getaddrinfo failed",
+    "receipt_file": "evidence/http/2026-10-15T04-15-44.597222+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/formdisplay/SC-500I.pdf?formNumber=SC-500I&formType=Form&formatId=2&language=en",
+    "kind": "document",
+    "checked_at": "2026-10-15T04:15:56.681424+00:00",
+    "status": "fetch_error",
+    "reason": "[Errno 11001] getaddrinfo failed",
+    "receipt_file": "evidence/http/2026-10-15T04-15-44.597222+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/formdisplay/SC-512.pdf?formNumber=SC-512&formType=Form&formatId=2&language=en",
+    "kind": "document",
+    "checked_at": "2026-10-15T04:16:08.741108+00:00",
+    "status": "fetch_error",
+    "reason": "[Errno 11001] getaddrinfo failed",
+    "receipt_file": "evidence/http/2026-10-15T04-15-44.597222+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/formdisplay/SC-5100V.pdf?formNumber=SC-5100V&formType=Form&formatId=2&language=en",
+    "kind": "document",
+    "checked_at": "2026-10-15T04:16:20.806964+00:00",
+    "status": "fetch_error",
+    "reason": "[Errno 11001] getaddrinfo failed",
+    "receipt_file": "evidence/http/2026-10-15T04-15-44.597222+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/formdisplay/SC-500.pdf?formNumber=SC-500&formType=Form&formatId=2&language=en",
+    "kind": "document",
+    "checked_at": "2026-10-15T04:17:05.170805+00:00",
+    "status": "fetch_error",
+    "reason": "[Errno 11001] getaddrinfo failed",
+    "receipt_file": "evidence/http/2026-10-15T04-17-05.147643+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/formdisplay/SC-500I.pdf?formNumber=SC-500I&formType=Form&formatId=2&language=en",
+    "kind": "document",
+    "checked_at": "2026-10-15T04:17:17.254333+00:00",
+    "status": "fetch_error",
+    "reason": "[Errno 11001] getaddrinfo failed",
+    "receipt_file": "evidence/http/2026-10-15T04-17-05.147643+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/formdisplay/SC-6000V_instructions.pdf?formNumber=SC-6000V&formType=Instructions&formatId=2&language=en",
+    "checked_at": "2026-10-15T04:21:51.294Z",
+    "kind": "document",
+    "transport": "ordinary_browser_fetch",
+    "status": "fetch_error",
+    "reason": "TimeoutError: signal timed out",
+    "receipt_file": "evidence/http/browser-documents/requests.json"
+  },
+  {
+    "url": "https://www.wicourts.gov/formdisplay/SC-6010V_instructions.pdf?formNumber=SC-6010V&formType=Instructions&formatId=2&language=en",
+    "checked_at": "2026-10-15T04:22:39.542Z",
+    "kind": "document",
+    "transport": "ordinary_browser_fetch",
+    "status": "fetch_error",
+    "reason": "TimeoutError: signal timed out",
+    "receipt_file": "evidence/http/browser-documents/requests.json"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "selected_candidates": 27,
+  "acquired_originals": 25,
+  "document_attempts": 33,
+  "failed_attempts": 8,
+  "unresolved_candidates": [
+    {
+      "form_code": "SC-500",
+      "title": "Summons and Complaint (Small Claims)",
+      "artifact_url": "https://www.wicourts.gov/formdisplay/SC-500.pdf?formNumber=SC-500&formType=Form&formatId=2&language=en",
+      "attempts": 2,
+      "status": "bounded_transport_retries_exhausted"
+    },
+    {
+      "form_code": "SC-500I",
+      "title": "Summons and Complaint (Small Claims) with Instructions",
+      "artifact_url": "https://www.wicourts.gov/formdisplay/SC-500I.pdf?formNumber=SC-500I&formType=Form&formatId=2&language=en",
+      "attempts": 2,
+      "status": "bounded_transport_retries_exhausted"
+    }
+  ],
+  "transport": "Initial Python DNS failures preserved. Ordinary browser reached the official source and acquired originals. No access restriction was bypassed."
+}

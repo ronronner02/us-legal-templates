@@ -1,0 +1,9 @@
+title,url,attempt,status,resolved_by_later_download,reason
+Summons and Complaint (Small Claims),https://www.wicourts.gov/formdisplay/SC-500.pdf?formNumber=SC-500&formType=Form&formatId=2&language=en,1,fetch_error,False,[Errno 11001] getaddrinfo failed
+Summons and Complaint (Small Claims) with Instructions,https://www.wicourts.gov/formdisplay/SC-500I.pdf?formNumber=SC-500I&formType=Form&formatId=2&language=en,1,fetch_error,False,[Errno 11001] getaddrinfo failed
+Writ of Restitution/Disposal of Personal Property (Eviction),https://www.wicourts.gov/formdisplay/SC-512.pdf?formNumber=SC-512&formType=Form&formatId=2&language=en,1,fetch_error,True,[Errno 11001] getaddrinfo failed
+"Declaration of Service of SC-500, Summons and Complaint Eviction (Small Claims)",https://www.wicourts.gov/formdisplay/SC-5100V.pdf?formNumber=SC-5100V&formType=Form&formatId=2&language=en,1,fetch_error,True,[Errno 11001] getaddrinfo failed
+Summons and Complaint (Small Claims),https://www.wicourts.gov/formdisplay/SC-500.pdf?formNumber=SC-500&formType=Form&formatId=2&language=en,2,fetch_error,False,[Errno 11001] getaddrinfo failed
+Summons and Complaint (Small Claims) with Instructions,https://www.wicourts.gov/formdisplay/SC-500I.pdf?formNumber=SC-500I&formType=Form&formatId=2&language=en,2,fetch_error,False,[Errno 11001] getaddrinfo failed
+Basic Guide to Wisconsin Small Claims Actions,https://www.wicourts.gov/formdisplay/SC-6000V_instructions.pdf?formNumber=SC-6000V&formType=Instructions&formatId=2&language=en,1,fetch_error,True,TimeoutError: signal timed out
+Pre-Judgment: Basic Steps for Handling a Small Claims Case for Eviction,https://www.wicourts.gov/formdisplay/SC-6010V_instructions.pdf?formNumber=SC-6010V&formType=Instructions&formatId=2&language=en,1,fetch_error,True,TimeoutError: signal timed out

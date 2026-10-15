@@ -1,0 +1,880 @@
+SC-6000V, 09/24 Basic Guide to Small Claims Actions 
+Page 1 of 18 
+Basic Guide to  
+Wisconsin Small Claims Actions 
+This guide is provided by the Wisconsin court system to give you general information about 
+Wisconsin small claims actions. Resources available in each county may be found at the link 
+below: 
+https://www.wicourts.gov/services/public/selfhelp/docs/countylegalresources.pdf 
+For additional information, please see the Pre-Judgment and Post-Judgment Basic Steps 
+Documents. These basic steps documents and any forms mentioned in this basic guide may be 
+obtained from the clerk of court or online at: 
+https://www.wicourts.gov/forms1/circuit.htm. 
+In addition to the guidance in this handbook, follow local court rules or procedures: 
+Wisconsin Circuit Court Rules  
+NOTICE: Small Claims laws change often. The small claims forms are intended to be useful in 
+many cases, but you may have to add or attach additional information as it applies to your case. 
+Talk to a lawyer if you are unsure whether these forms are the most appropriate for your 
+situation. 
+COURT STAFF CANNOT GIVE LEGAL ADVICE. 
+ 
+GENERAL INFORMATION ABOUT SMALL CLAIMS COURT  
+What is Small Claims Court? 
+Small Claims Court is a special court where disputes are resolved more quickly and 
+inexpensively than in other court proceedings. The rules in Small Claims Court also are 
+simpler and less formal. The person who sues is called the plaintiff. The person who is sued is 
+called the defendant. 
+ 
+What terms are used in Small Claims Court? 
+All terms are defined in the Glossary which can be found starting on page 14. 
+ 
+What kinds of cases go to Small Claims Court? 
+The most common types of small claims cases are: 
+• Claims for money: where the amount claimed is $10,000 or less, if the actions are: 
+• For money judgments only, or 
+• For garnishment of wages. 
+• Claims for tort/personal injury: where the amount claimed is $5,000 or less. 
+• Claims for eviction: regardless of the amount of rent claimed. 
+• Claims for replevin (return of property): 
+• Non-consumer credit actions where the value of the property claimed is $10,000 or 
+less; 
+• Consumer credit transactions where the amount financed is $25,000 or less. 
+Less common types of small claims cases include: 
+• Return of earnest money for purchase of real property 
+• Action on an arbitration award for the purchase of real property 
+Basic Guide to Wisconsin Small Claims Actions Page 2 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 2 of 18 
+• Eviction action due to foreclosure 
+ 
+See also §799.01(1), Wis. Stats., the Legal Glossary (page 14 of this document), 
+• Pre-Judgment: Basic Steps for Handling a Small Claims Case for Eviction, (SC-6010V), 
+• Pre-Judgment: Basic Steps for Handling a Small Claims Case for Recovery of Money, 
+(SC-6020V), and 
+• Pre-Judgment: Basic Steps for Handling a Small Claims Case for Replevin (Recovery of 
+Property), (SC-6030V) for further information. 
+ 
+What is a tort or personal injury action? 
+A tort is a wrongful act that injures someone, where the injured person may sue the 
+person/business causing the injury for money damages. The injury may be to a person’s body, 
+property, business, reputation, or other interest. The act may be the result of carelessness 
+(“negligence”) or may be intentional. A tort is different from a breach of contract or a crime. 
+ 
+For more information about torts/personal injury actions, please see Appendix A: “Personal 
+Injury – Helpful Information” at the end of this document. 
+ 
+Who can sue in Small Claims Court? 
+Any person who is 18 years or older. 
+ 
+Do I have to have an attorney? 
+Whether to hire an attorney is your decision. Many people feel that they can handle their legal 
+matters without an attorney in Small Claims Court. When you represent yourself in court 
+without an attorney it is called “self-representation” or “pro se.” 
+ 
+Even if you do not intend to hire an attorney to represent you in Small Claims Court, you may 
+wish to contact an attorney for advice. An attorney may be able to advise you whether you 
+have a valid claim or defense, about the types of evidence you will need to prove it, and may 
+even be able to assist you in settling your case. If you cannot afford an attorney, there are 
+organizations that may be able to assist you. 
+ 
+Court staff MAY ONLY provide general information about court rules, procedures, practices, 
+and forms. Court staff cannot give you legal advice. For instance, this means court staff 
+cannot tell you which form(s) to use, or assist you in filling out the form, and cannot interpret 
+terms or court orders. 
+ 
+Try to settle first! 
+To avoid the time and expense of going to court, try to settle the matter first. Contact the other 
+party or the party’s attorney, discuss the situation, and try to solve the problem by an 
+agreement you can both accept. Even after your small claims suit is filed, you may still engage 
+in settlement negotiations with the opposing party. Don’t be reluctant to compromise; even in 
+large civil lawsuits, more than 90% are settled prior to trial. 
+ 
+Basic Guide to Wisconsin Small Claims Actions Page 3 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 3 of 18 
+Small Claims Pre-Judgment Flowchart 
+Even though each county may do things a little differently or call various hearings by different names, 
+there is a basic structure to how a small claims action will proceed in Wisconsin. The flowchart below 
+is a brief representation of the process. 
+ 
+ 
+However, there are different procedures for the various types of small claims actions that can be 
+filed. Also, there may be specific procedures that you must complete in some counties. Please 
+refer to: 
+• Pre-Judgment: Basic Steps for Handling a Small Claims Case for Eviction, (SC-6010V), 
+• Pre-Judgment: Basic Steps for Handling a Small Claims Case for Recovery of Money,  
+(SC-6020V), 
+• Pre-Judgment: Basic Steps for Handling a Small Claims Case for Replevin (Return of 
+Property), (SC-6030V), 
+• Pre-Judgment: Basic Steps for Filing an Answer to a Small Claims Complaint, (SC-6040V), 
+and 
+• Pre-Judgment: Basic Steps to Small Claims Service, (SC-6050V) for an overview of the 
+basic steps involved in completing these actions. 
+ 
+   
+
+Basic Guide to Wisconsin Small Claims Actions Page 4 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 4 of 18 
+I WOULD LIKE TO FILE A SMALL CLAIMS CASE. 
+ 
+Who do I sue? 
+It is important that you sue the right party. Naming the wrong party could result in the 
+dismissal of your case. To assist you, please see Appendix B: “Suing the Right Party” at the 
+end of this document. 
+ 
+Do I have to pay to file a Small Claims action? 
+Yes. You will have to pay the clerk of court a fee to file your Summons and Complaint, 
+(SC-500) form or Summons and Complaint (with Instructions), (SC-500I) form. This small 
+claims filing fee is set by state law (https://www.wicourts.gov/courts/circuit/docs/fees.pdf). This 
+and certain other fees may be charged against the other party if you win your case. 
+ 
+However, if you cannot afford the filing fee, you may complete the Petition for Waiver of Filing 
+Fees and Costs - Declaration of Indigency, (CV-410A) and Order on Waiver of Filing Fees 
+and Costs, (CV-410B) form. If the court finds that you cannot afford to pay, the court may 
+waive the filing and service fees. 
+ 
+Where do I file my Small Claims case? 
+If you determine that your claim can be brought as a small claims case and have determined 
+the right party to sue, you will need to decide where you should file the small claims action. 
+• Eviction actions. Actions for eviction should be filed in the county where: 
+• a defendant resides, 
+• the rented property is located.  
+• Return of earnest money. Actions for the return of earnest money should be filed in 
+the county where: 
+• a defendant resides; 
+• the real estate is located, or 
+• the purchase contract was signed.  
+• Replevins. Actions for replevin (return of personal property) should be filed in the 
+county where one of the following is true: 
+For Non-consumer claims: 
+• a defendant resides; 
+• the personal property is located, or 
+• the claim arose.  
+For Consumer claims: 
+• the customer resides or is personally served; 
+• collateral securing a consumer credit transaction is located, or 
+• the customer sought or acquired the property, services, money or credit.  
+• Arbitration. Actions for the confirmation, vacation, modification or correction of an 
+arbitration award should be filed in the county where: 
+• a defendant resides; 
+• the real estate is located, or 
+Basic Guide to Wisconsin Small Claims Actions Page 5 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 5 of 18 
+• the claim arose.  
+• Other civil actions. In other civil actions where the amount claimed is $10,000 or less, 
+or for torts or personal injury actions where the amount claimed is $5,000 or less, the 
+action should be filed in the county where: 
+For Money judgments: 
+• For Non-consumer claims:  
+1. a defendant resides, or 
+2. the claim arose.  
+• For Consumer claims: 
+1. the customer resides or is personally served, or 
+2. the customer sought or acquired the money or credit which is the subject of the 
+claim or signed the document showing his or her obligation.  
+For Garnishment: 
+• the garnishee resides or is located; 
+• the summons in the original action was issued, or 
+• the judgment from the original action was entered. 
+ 
+How do I file the Small Claims Case? 
+Complete the Summons and Complaint, (SC-500) form or Summons and Complaint (with 
+Instructions), (SC-500I) form and make two (2) copies for each defendant. Take the original 
+and copies to the clerk of court’s office for filing and payment of the filing fee. 
+ 
+If you would like to file and manage your case electronically, please visit the Wisconsin Court 
+System website and look for eFiling. Use the Summons and Complaint, (SC-500) form or 
+(SC-500I) form to file your documents and pay your filing fee online. 
+ 
+I HAVE BEEN SUED IN SMALL CLAIMS COURT. 
+NOW WHAT DO I DO? 
+The first thing you should do is READ THE ENTIRE SUMMONS AND COMPLAINT. 
+DO THIS NOW! 
+The Summons and Complaint will tell you: 
+Who is suing me? 
+The person suing you is the person listed in the Summons and Complaint as the Plaintiff. You 
+are the Defendant. If the plaintiff has an attorney, the Summons and Complaint will also list the 
+attorney’s name and address. 
+ 
+Must I appear in court? 
+See the Summons (first page of the Summons and Complaint), which will tell you if you are 
+required to appear in person or can respond in writing. If you are required to appear in person, 
+the Summons will list the date, time and location. 
+ 
+Basic Guide to Wisconsin Small Claims Actions Page 6 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 6 of 18 
+Why am I being sued? 
+The Summons and Complaint will tell you why the plaintiff is suing you. There are many 
+reasons a claim could be filed. Common examples are: 
+• If you are renting property, the plaintiff may be your landlord and claims you have not paid 
+your rent or have not lived up to your rental agreement, whether it is in writing or not. 
+• If you bought a car or some other item on credit, the bank or finance company may claim 
+you are behind on your payments. 
+• The plaintiff may claim you owe money. 
+• The plaintiff may claim he or she was injured or the plaintiff’s property was damaged and it 
+is your fault. 
+ 
+What does the Plaintiff want from me? 
+The Summons and Complaint will tell you what the plaintiff wants from you. Some common 
+examples are: 
+• If you are renting property, the plaintiff may want rent or money for utility bills that are not 
+paid, or money for damage to the property, AND may want you evicted (removed) from 
+the property. 
+• If you bought something on credit, like a car, the plaintiff may want to get the car from you 
+plus the money you still owe after the car is sold. 
+• If the plaintiff claims you owe money, the plaintiff wants money from you. 
+ 
+What if I disagree with what the Plaintiff says? 
+If you don’t agree with what the plaintiff claims or if you don’t agree with what the plaintiff 
+wants from you, YOU MUST ANSWER THE COMPLAINT. 
+ 
+Counties may have different procedures to answer the Complaint. 
+See local court rules at: https://www.wisbar.org/Directories/CourtRules/Pages/Circuit-Court-
+Rules.aspx. 
+You must answer the Complaint in writing, in person or both. If you need to appear in person 
+to answer the Summons and Complaint, the Summons and Complaint will tell you when and 
+where to appear. If you need to file a written answer, the Summons and Complaint will tell you 
+where to file the answer. See Pre-Judgment: Basic Steps for Filing an Answer to a Small 
+Claims Complaint, (SC-6040V) for more information. 
+ 
+IF YOU DON’T ANSWER THE COMPLAINT PROPERLY, A JUDGMENT MAY BE ENTERED 
+AGAINST YOU. 
+ 
+How do I answer the Complaint in person? 
+Some counties require you to answer the Complaint in person. If you have to answer the 
+Complaint in person, the Summons will state the court date and where and what time you 
+need to appear. 
+ 
+You must appear on time and it is recommended that you arrive at least 15 minutes early. If 
+you have any questions about where you should appear, go to the Clerk of Court’s office. 
+ 
+IF YOU FAIL TO APPEAR AT THE CORRECT LOCATION AND ON TIME, A JUDGMENT 
+MAY BE ENTERED AGAINST YOU. 
+Basic Guide to Wisconsin Small Claims Actions Page 7 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 7 of 18 
+ 
+When your case is called, be prepared to say if you are or are not contesting the claim. You 
+may want to bring along with you some short notes to help keep yourself organized. If you 
+have a counterclaim and have not already filed it, you should file it at this time and give a copy 
+to the plaintiff. 
+ 
+How do I answer the Complaint in writing? 
+Some counties require you to answer the Complaint in writing. If you have to answer the 
+Complaint in writing, the Summons will state where to file your written answer. In your answer, 
+state why you disagree with the plaintiff and what defenses you feel you have to the plaintiff’s 
+claim. You may use the small claims Answer and Counterclaim, (SC-5200V) form. The form 
+has step-by-step instructions on the left side to help you fill it out. 
+ 
+When you have completed your Answer and Counterclaim form, follow the instructions in the 
+Summons that tell you where to send the Answer. 
+ 
+YOU MUST SEND A COPY OF YOUR WRITTEN ANSWER TO THE PLAINTIFF. 
+ 
+IF YOU FAIL TO FILE YOUR WRITTEN ANSWER TIMELY AND PROPERLY, A JUDGMENT 
+MAY BE ENTERED AGAINST YOU. 
+ 
+If you would like to file and manage your documents electronically, please visit the Wisconsin 
+Court System website and look for eFiling (https://www.wicourts.gov/ecourts/index.htm). 
+Follow the steps provided to sign up. You can file the small claims Answer and Counterclaim, 
+(SC-5200V) form online. 
+ 
+What if I have a Claim against the Plaintiff? 
+If you believe that you have a claim against the plaintiff, you may file a counterclaim, which is 
+the legal term for a defendant’s claim against the plaintiff. 
+ 
+Use the Answer and Counterclaim, (SC-5200V) form to prepare your counterclaim. Clearly 
+describe your claim in your own words. Make sure to include any relevant dates and specific 
+facts. State the amount of money you believe you are owed and also state any other action 
+you are asking the court to take. Think carefully about how much your claim is worth. This is 
+important because the amount of your claim affects how you proceed with your counterclaim 
+and whether there will be a filing fee for the counterclaim (see below: “What if I want to 
+counterclaim for more than $10,000 or I want to file a tort or personal injury counterclaim for 
+more than $5,000?”). 
+ 
+File your counterclaim with the clerk of court in the same county where you are being sued by 
+the plaintiff. Each county can have different procedures for filing a counterclaim, so check with 
+the clerk of court to find out the specific county rules for filing a counterclaim. There is no fee 
+for filing a counterclaim unless your claim is for more than $10,000 or unless you file a tort or 
+personal injury counterclaim that is more than $5,000. 
+ 
+Prepare a copy of your counterclaim for each plaintiff so the clerk can file stamp them and 
+return them to you. You must then have those copies served on each plaintiff. Check local 
+court rules to see if you can serve the counterclaim on the plaintiff by mail or if you must use 
+Basic Guide to Wisconsin Small Claims Actions Page 8 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 8 of 18 
+the sheriff or a process server. There will be a service fee if you use the sheriff or a process 
+server to serve the plaintiff. If you have served the counterclaim on the plaintiff by mail, 
+complete the Declaration of Mailing, (SC-5130V) form and file it with the clerk of court. If 
+service was done by the sheriff or process server, you must ensure a Declaration of Service is 
+filed with the court. Follow the local court rules for attending the next court date. 
+ 
+What if I want to counterclaim for more than $10,000 OR I want to file a tort or 
+personal injury counterclaim for more than $5,000? 
+If your counterclaim demands more than $10,000, or if you want to file a tort or personal injury 
+counterclaim demanding more than $5,000, you will have to pay a filing fee to the clerk of 
+court. You must have the sheriff or process server serve the counterclaim on the plaintiff(s) 
+personally within 60 days of filing and file the proof of service with the clerk of court. Because 
+a counterclaim takes the case over the small claims dollar limit, the case may be transferred to 
+regular civil court for scheduling and further proceedings. 
+ 
+In addition to filing and serving the Answer and Counterclaim, (SC-5200V) form as explained in 
+the previous paragraph, you will also need to file and mail a Notice of Counterclaim, 
+(SC-5250V) form. This should be done on the same day you file the counterclaim. Once you 
+have mailed the Notice of Counterclaim to the plaintiff, complete the Declaration of Mailing, 
+(SC-5130V) form and file it with the clerk of court. 
+ 
+Can I try to settle the case? 
+Yes. Some counties may have mediation services available to help you reach an agreement 
+with the other party. You may also contact the other party or the party’s attorney directly at any 
+time to try to reach a settlement agreement. See Stipulation for Dismissal - Eviction, 
+(SC-5300VA and Order for Dismissal- Eviction, SC-5300VB) form, or Stipulation for Dismissal - 
+Non-Eviction, (SC-5310VA and Order for Dismissal - Non-Eviction, SC-5310VB) form. 
+ 
+What if I don’t contest the plaintiff’s claim and have no counterclaim? 
+If you do not contest the plaintiff’s claim and have no counterclaim, it is not necessary to 
+appear in person or file a written answer. If you do not appear or file a written answer, a default 
+judgment will likely be granted against you and in favor of the plaintiff for what the plaintiff is 
+asking for in the Summons and Complaint, plus statutory court costs. 
+  
+Basic Guide to Wisconsin Small Claims Actions Page 9 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 9 of 18 
+MY CASE IS GOING TO TRIAL 
+PREPARING FOR AND PARTICIPATING IN A CONTESTED TRIAL 
+Refer to Local Court Rules 
+You must follow local court rules that may not be contained in this guide. Local court rules can 
+be found on the WI State Bar website at: 
+https://www.wisbar.org/Directories/CourtRules/Pages/Circuit-Court-Rules.aspx 
+ 
+or the courts website at: https://www.wicourts.gov/scrules/index.htm. 
+ 
+Now do I need a lawyer? 
+Before attempting to handle a contested small claims hearing on your own, you should 
+consider seeking legal assistance. There are specific rules that must be followed in a small 
+claims hearing. 
+ 
+Preparing Your Case 
+Collect and preserve any documents or other evidence needed for trial. 
+Collect and preserve any documents or receipts from your dealings with the other party. Put 
+them in chronological date order. Evidence on cell phones, computers or other electronic 
+devices must be printed out or saved to a storage device to submit to the court. Making a 
+detailed timeline of all of the events involved (in date order) may help you present your case in a 
+more organized way. It is recommended that you bring copies of all documents for the 
+court and all other parties. 
+ 
+Determine if you will need witnesses. 
+Determine if you will need witnesses to testify at the trial. Witnesses are people who have 
+personal knowledge of the facts of your case. Friends and relatives may come voluntarily, but 
+business people, police officers and others with no personal interest in the outcome of your 
+case may not. In that case, if the witness lives in Wisconsin, you can require the witness to 
+come to court by having the witness served with a subpoena. 
+• Subpoena, (GF-126A) form and Certificate of Appearance (Subpoena), (GF-126B) form 
+can be obtained at www.wicourts.gov or without charge from the clerk of court’s office. All 
+Subpoenas must be signed by a court official. 
+• If you need the witness to bring documents or other evidence to the trial, you need to 
+specifically state what the witness is to bring on the Subpoena form. 
+• You will need to have the Subpoena served on the witness by the sheriff or a private 
+process server in a reasonable time before the trial. 
+• You will also need to serve with each Subpoena a check for the witness fee, which is 
+$16.00, plus $0.20 per mile the witness has to travel to and from the courthouse. 
+ 
+An expert witness is a person with special training, experience, or expertise in a field beyond the 
+knowledge of an ordinary person. For example, if your case involves defective merchandise or 
+faulty repairs, a full-time mechanic or repair person with several years of experience may qualify 
+as an expert. The expert witness can charge whatever he or she wishes for the testimony. The 
+Basic Guide to Wisconsin Small Claims Actions Page 10 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 10 of 18 
+standard $16.00 witness fee does not apply to expert witnesses. If you win, the cost of the 
+expert witness, up to $300, can be added to any judgment. 
+ 
+Having the expert witness testify in person is almost always necessary. Merely repeating what 
+your expert told you will probably not be allowed. A written or sworn statement from the expert 
+witness will not be sufficient. 
+ 
+Participating in Trial 
+How will the trial be conducted? 
+Small claims trials are conducted in an informal manner by a judge or commissioner. Parties 
+must treat each other with dignity and respect.  
+ 
+It is recommended that you and your witnesses show up at least 15 minutes early to the 
+assigned courtroom on the date and time of the trial. If there is a bailiff or court clerk present, 
+let him or her know that you have arrived. You should bring any documents related to the facts 
+of the case with you to present at trial. The judge or commissioner may refuse to consider 
+evidence or arguments that are repeated, irrelevant or otherwise inadmissible. 
+ 
+Each party bears the burden of proving his or her claim(s) “by the greater weight of the credible 
+evidence.” 
+ 
+The plaintiff presents his or her evidence first; then the defendant is able to present his or her 
+evidence. After swearing or affirming to testify truthfully, state the facts clearly and concisely. 
+Keep to the key facts and do not discuss side issues unless a question requires it. If you have 
+written documents, or other evidence to support your claim, show them to the judge or 
+commissioner and opposing party, explaining what it is and how it relates to your case. It is 
+recommended that you bring copies of each document for you, the judge, and all parties. 
+ 
+At the conclusion of the plaintiff’s testimony, the judge or commissioner may ask some 
+questions. The defendant then has the right to cross-examine the plaintiff. When that is 
+completed, the plaintiff may call any other witnesses he or she has. The judge or commissioner 
+may ask questions and the defendant may cross-examine any of the plaintiff’s witnesses. 
+ 
+The defendant follows the plaintiff and presents his or her case in the same way. The plaintiff 
+may cross-examine any of the defendant’s witnesses. 
+ 
+Following the presentation of the defendant’s evidence, the plaintiff may present rebuttal 
+evidence. 
+ 
+After all the evidence has been presented, the judge or commissioner will state the decision or 
+issue a written decision at a later date.   
+Basic Guide to Wisconsin Small Claims Actions Page 11 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 11 of 18 
+I WON A SMALL CLAIMS ACTION. 
+ 
+Now what happens? 
+The clerk of court will enter a judgment in the court record; each party will receive notice of the 
+entry of judgment.  
+Can I recover my costs? 
+If you win a small claims case, the judgment will include statutory costs and fees. Statutory 
+costs and fees may include: 
+• the filing fee for the case; 
+• the mailing fee for the Summons and Complaint, or the service fees, if you had to have 
+your case served by the sheriff or a process server; 
+• witness fees, if the witness was subpoenaed and paid the statutory fee to attend, or 
+• limited attorney fees, if an attorney appeared with you in court. 
+  
+Not all costs will be included in the judgment. For example, you cannot recover lost wages for 
+appearing in court or parking and transportation costs for coming to court. You also cannot 
+recover attorney fees for consulting with an attorney about your case, if that lawyer did not 
+formally appear with you in court. 
+ 
+How do I enforce the judgment? 
+If you are granted a money judgment, the other party will be required to complete a Financial 
+Disclosure Statement, (SC-506B) form and send it to you within 15 days of entry of judgment 
+unless they have already paid. If the other party does not complete the disclosure, you may file 
+a Motion and Request for Hearing on Contempt, (SC-507A) form and Order for Hearing on 
+Contempt, (SC-507B) form. 
+ 
+The court does not collect your judgment for you, but there are actions you can take to collect 
+your judgment. See: 
+• Post-Judgment: Basic Steps for Docketing a Judgment for Collection, (SC-6060V), 
+• Post-Judgment: Basic Steps for Handling a Small Claims Earnings Garnishment,  
+(SC-6070V), 
+• Post-Judgment: Basic Steps for Handling a Non-Earnings Garnishment (SC-6071). 
+• Post-Judgment: Basic Steps for Handling an Execution Against Property, (SC-6080V), 
+• Post-Judgment: Basic Steps in Collecting on a Judgment for Money, (SC-6090V), and 
+• Post-Judgment: Basic Steps in Collecting on a Judgment for Replevin, (SC-6100V). 
+ 
+If you are granted a judgment of $500 or more for damages arising out of a motor vehicle 
+accident, you can request that the clerk provide a certified copy of the judgment to the Division 
+of Motor Vehicles (DMV). In most instances, the DMV will then suspend the operating privilege 
+and all registrations of the debtor: 
+• Complete the Certificate of Judgment form (MV3158), available on the DMV website: 
+https://wisconsindot.gov/pages/global-footer/formdocs/default.aspx 
+• Provide the completed Certificate of Judgment form to the clerk, along with the required 
+fee. 
+ 
+The clerk will review the case information included on the form, then sign and affix the clerk’s 
+seal, and send to the DMV. 
+Basic Guide to Wisconsin Small Claims Actions Page 12 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 12 of 18 
+  
+Small Claims Post-Judgment Flowchart 
+Even though each county may do things a bit differently, there is a basic structure to the small 
+claims post-judgment process in Wisconsin. The flowchart below is a brief representation of 
+the steps one may take to enforce judgments. 
+ 
+ 
+ 
+  
+
+Basic Guide to Wisconsin Small Claims Actions Page 13 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 13 of 18 
+I DISAGREE WITH THE OUTCOME OF THE SMALL CLAIMS CASE. 
+ 
+Can I appeal the decision? 
+If a commissioner made the decision in your case, you may request a trial before a judge. If the 
+commissioner made the decision at the hearing, you have 10 days from the hearing date to file a 
+demand for trial. If the commissioner issues a written decision, you have 15 days from the date of 
+mailing to file a demand for trial. You must complete the Demand for Trial and Instructions, 
+(SC-517) form, and file the form in the clerk of court’s office in the same county where the 
+commissioner heard your case. The party demanding the trial must mail a copy of the Demand for 
+Trial and Instructions to the other party within the time limits. The party filing the demand for trial is 
+responsible for providing proof that the form was mailed to the other party. 
+If a judge has made the decision in your case and you are dissatisfied with that decision, you may 
+appeal that decision to the Wisconsin Court of Appeals. The circuit court does not provide any 
+forms for appeals. The rules for filing an appeal are complex. On the Wisconsin Court System 
+website in the self-help center, you will find a publication entitled “Guide to Appellate Procedure 
+for the Self-Represented”.  
+• Clerk of the Wis. Supreme Ct. & Ct. of Appeals, Guide to Appellate Procedure for the 
+Self-Represented . 
+https://www.wicourts.gov/publications/guides/docs/proseappealsguide.pdf 
+• The State Bar’s Appellate Practice Section offers an online Appellate Help Desk for 
+people who are representing themselves in a Wisconsin civil appeal. 
+https://www.wisbar.org/forPublic/INeedaLawyer/AppellateHelpDesk/Pages/Appellate-
+Help-Desk.aspx 
+You may wish to contact an attorney about filing an appeal. There are strict time limits for filing an 
+appeal, so if you think you may appeal your small claims case do not delay in making that decision. 
+ 
+Can I reopen the Small Claims case? 
+• Service by mail not received: 
+If service of the Summons and Complaint was by mail, you never received it, and a judgment 
+was entered against you, you may petition the court to set aside the judgment. You must file 
+the petition within 15 days of receiving actual knowledge of the case or judgment. This option 
+is not available to you more than one year after the judgment was entered. See Petition to 
+Answer or to Reopen Small Claims Action with Mail Service, (SC-511A) form and Order on 
+Petition to Answer or to Reopen Small Claims Action with Mail Service, SC-511B) form. 
+• Improper Venue: 
+If a default judgment was entered against you and you believe the case was filed in the wrong 
+county, you may file a motion to reopen the case. This must be done within one year of entry 
+of the default judgment. If the court finds the venue was improper, it will reopen the case. See 
+Motion to Reopen Small Claims Judgment, (SC-515A) form and Order on Motion to Reopen 
+Small Claims Judgment (SC-515B) form. 
+• Default Judgment/Judgment of Dismissal: 
+If you have a good reason for missing court or failing to meet court requirements, you may file 
+a motion to reopen the case within 12 months after the judgment was entered. The court will 
+determine whether you have a good reason to reopen the judgment. If the court reopens the 
+judgment, you will be notified. See Motion to Reopen Small Claims Judgment, (SC-515A) 
+form and Order on Motion to Reopen Small Claims Judgment (SC-515B) form. 
+Basic Guide to Wisconsin Small Claims Actions Page 14 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 14 of 18 
+ 
+SATISFACTION OF JUDGMENT. 
+ 
+How do I satisfy a judgment? 
+A judgment may be satisfied when it has been paid. If you have paid the judgment, the plaintiff 
+must sign the Satisfaction of Judgment, (GF-129) form at your request. You must make this 
+request directly to the plaintiff, not through the court. Plaintiff’s failure to sign and file or return the 
+satisfaction within 7 days may result in an award of damages against the plaintiff. 
+ 
+If you wish the court record to reflect that the judgment has been satisfied, you must file the 
+Satisfaction of Judgment. There is a fee for filing the satisfaction. Once the satisfaction is filed, the 
+court record will reflect that the judgment has been satisfied. 
+Basic Guide to Wisconsin Small Claims Actions Page 15 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 15 of 18 
+LEGAL GLOSSARY 
+Although small claims procedure is designed to be simple and easy to use, you will still come across 
+some legal words and phrases when going through the court system. If you need help, look at our 
+legal glossary to find out what some of these words and phrases mean. 
+ACTION A lawsuit. 
+ADJOURN To delay a hearing until a future time. 
+ADVERSE PARTY Party on the other side of the lawsuit. 
+DECLARATION OF 
+NON-MILITARY SERVICE 
+Statement that, to the best of plaintiff’s knowledge, the defendant is not now in the 
+military. 
+AFFIRMATIVE DEFENSE A new matter, which assuming the complaint to be true, constitutes a defense to it.  
+ANSWER A statement by the defendant in response to the plaintiff’s complaint. 
+APPEAL A request that a higher court review and change the final decision in a case. 
+ARBITRATION A form of alternative dispute resolution where an unbiased person or panel renders an 
+opinion as to responsibility for or extent of a loss. 
+BUSINESS DAYS Any calendar day except Saturday or Sunday and except the following business days: 
+New Year’s Day, Martin Luther King Jr.’s Birthday, Washington’s Birthday, Memorial 
+Day, Independence Day, Labor Day, Columbus Day, Veterans Day, Thanksgiving and 
+Christmas, and that is not a legal or federal legal holiday. 
+CALENDAR A schedule of cases to be heard in court. 
+CALENDAR DAYS Any one of the seven days in a week. 
+CAPTION The heading of a court paper, showing the court, county, names of parties and case 
+number. 
+CLAIM FOR MONEY A legal action in which a plaintiff argues that a defendant is indebted to the plaintiff for 
+an amount of money. 
+CLERK An administrative officer of the court. 
+COMPLAINT The court paper that states why the plaintiff is suing and what plaintiff wants the co urt 
+to order. 
+CONSUMER An individual customer buying goods or services primarily for a personal, family or 
+household purpose. 
+CONTRACT An agreement. 
+COUNTERCLAIM A claim entered by a defendant as a response to or as a defense against an earlier 
+claim made against the defendant by the plaintiff. 
+COURT COMMISSIONER An attorney authorized to conduct hearings and initial proceedings. 
+COURT TRIAL A trial in which the judge serves as the trier of fact. 
+CREDITOR A person who is owed money. 
+CROSS-EXAMINE To question a witness for the opposing side in a hearing or trial 
+CUSTOMER An individual buying goods or services. 
+DAMAGES The amount of money requested in a lawsuit to compensate the plaintiff for injuries to 
+person or property or for the defendant’s failure to perform a contract. 
+DEBTOR A person who owes money. 
+DEFAULT Failure to answer a complaint or appear for a hearing. 
+DEFENDANT The person who is sued. 
+DEFENSE A reason why a claim in a complaint is not valid. 
+DISMISSAL A court order terminating a case because the plaintiff has failed to appear in court or 
+state or prove a valid claim. 
+DOCKET  (see Judgment and Lien Docket) 
+EMANCIPATION When a child is no longer legally under a parent's control. In Wisconsin, a child is 
+emancipated when he or she turns 18 years of age or marries. 
+EVICTION An action by a landlord to remove a tenant from the landlord’s property. 
+EVICTION DUE TO 
+FORECLOSURE 
+An action to remove a tenant whose tenancy is terminated as a result of a foreclosure 
+judgment and sale. 
+EVIDENCE Objects, information or statements that demonstrate or prove something. 
+EXAMINE To ask questions of a witness or other party to a case in a court of law. 
+EXECUTION A legal procedure in which the sheriff seizes a debtor’s property to pay a judgment.  
+EXEMPTION A law allowing a debtor to keep some property free from the claims of creditors.  
+Basic Guide to Wisconsin Small Claims Actions Page 16 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 16 of 18 
+EXHIBIT A paper or thing shown to a court during a hearing and used as evidence. 
+FEE A charge fixed by the law for the service of public officers. 
+FORECLOSURE ON 
+RESIDENCE 
+Residential real property where there is a delinquency or default on any loan payment 
+or debt secured by or attached to the residential real property, including land contract 
+payments. 
+GARNISHEE In garnishments, the party who owes money to the debtor and is ordered to pay it to 
+the creditor instead. 
+GARNISHMENT A proceeding after judgment authorizing the creditor to be paid from the debtor’s 
+wages or bank accounts. 
+GUARDIAN AD LITEM An attorney appointed by the court to take legal action on behalf of a minor or an adult 
+not able to handle his or her own affairs. 
+HEARING The examination of a certain aspect of a case or the trial of a case in a court of law. 
+JUDGMENT Final determination by the court. 
+JUDGMENT AND LIEN 
+DOCKET 
+An official list of court judgments. 
+JURY TRIAL A trial in which the jury serves as the trier of fact. 
+LIEN The legal right to keep or sell somebody else’s property as security for debt. 
+NON-CONSUMER An individual or business customer buying goods or services for business reasons and 
+not primarily for a personal, family or household purpose. 
+NOTARY PUBLIC An attorney or other official authorized to certify the signing of sworn documents.  
+PARTY A plaintiff or defendant in a case. 
+PLAINTIFF The party who begins a lawsuit. 
+PREJUDICE (with) Dismissal with prejudice means that the case cannot be filed again in the Circuit Court.  
+PRETRIAL CONFERENCE A meeting between the parties, sometimes including a judge or court commissioner, to 
+investigate settlement or narrow the disputed issues. 
+PRO SE Latin meaning “for oneself,” i.e., without the aid of an attorney. 
+PROOF OF SERVICE That the delivery of a legal document such as a writ or summons was accomplished.  
+REPLEVIN A lawsuit seeking return of property. 
+RETURN DATE The initial date at which the defendant must respond, answer, or appear in court. In 
+some counties, the plaintiff must also appear. 
+RETURN OF EARNEST 
+MONEY 
+An action brought to recover money paid to a seller as a deposit for the purchase of 
+real property. 
+RETURN OF PROPERTY 
+(REPLEVIN) 
+An action brought to recover personal property being held by someone else.  
+SATISFACTION A notice from the plaintiff stating a defendant has paid the judgment. 
+SELF-REPRESENTATION (see Pro Se) 
+SERVICE The delivery of the complaint, summons or other papers filed by one party to another 
+party. 
+SETTLEMENT AGREEMENT An agreement reached without completing legal proceeding. 
+STIPULATED DISMISSAL A court order dismissing the suit upon agreement of the parties. If the agreement is not  
+kept, the dismissal may be vacated and a judgment entered. 
+STIPULATION A legally binding agreement between parties. 
+SUBPOENA A court document that requires a witness appear in court. 
+SUMMONS A court order that the defendant answer the complaint or appear in court at a stated 
+time. 
+TORT A tort is a wrongful act that injures someone, where the injured person may sue the 
+person/business causing the injury for money damages. The injury may be to a 
+person’s body, property, business, reputation, or other interest. The act may be the 
+result of carelessness (called “negligence”) or may be intentional. A tort is different 
+from a breach of contract or a crime. 
+TRIAL A formal examination of the facts and law in before a court of law to determine an 
+issue. 
+VENUE The county or counties in which a lawsuit may be filed and tried. 
+  
+  
+Basic Guide to Wisconsin Small Claims Actions Page 17 of 18 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+Page 17 of 18 
+Appendix A - Personal Injury – Helpful Information 
+I've been injured, now what? If someone else is more at fault for your injury than you are, you may 
+make a claim against that person or business and their insurance company, if any. The type of 
+accident and the cause of the accident may affect whether you are entitled to compensation, as in 
+the following examples: 
+Motor vehicle accidents: Fault or "negligence" is determined by traffic regulations and which 
+driver's carelessness contributed most to the accident and injuries, including your own conduct 
+such as failure to use seatbelts.  
+ 
+Commercial accidents (such as in stores): Injuries are compensable only if caused by an 
+unsafe condition that the owner should have known of, appreciated, and corrected before the 
+accident.  
+ 
+Home/farm/apartment/recreation injuries: Renters, owners, or residents may be found liable 
+for injuries they cause by negligent maintenance, oversight, or attacks by pets; however, 
+property owners who permit others to use their land without charge for recreational purposes 
+may be completely immune to any claim for unsafe conditions, however flagrant.  
+ 
+Government employees and premises: Injuries caused by negligent public employees or 
+unsafe conditions will be compensated only in limited circumstances and are subject to 
+stringent notice and claim requirements.  
+State, federal, and local governments are given broad latitude to determine most matters 
+involving public safety, including the design and maintenance of roads, parks, and 
+facilities. 
+ 
+Workplace injuries: Injuries at work generally are covered by worker's compensation benefits 
+which compensate for medical expenses, lost wages, and permanent impairments, without 
+regard to fault by anyone. If the accident was caused by someone other than the employer or a 
+co-worker, a fault-based claim can be made that could include damages for pain and suffering 
+in addition to the worker's compensation benefits. 
+ 
+Intentional injuries: Injuries inflicted on purpose by any means are not usually covered by the 
+guilty party's liability insurance, although the responsible party may be personally liable for such 
+harm.  
+ 
+Other accidents: More complicated rules determine if injuries caused by dangerous products, 
+the accumulation of ice or snow, faulty professional services, or public utilities will be 
+compensated. In addition, users of firearms, dog owners, and operators of restaurants, hotels, 
+and public transportation may be liable for injuries they cause because the law imposes special 
+responsibility for these hazards which your attorney can explain in more detail. 
+ 
+Reprinted with permission from the State Bar of Wisconsin consumer pamphlet, Answering Your Legal 
+Questions About Personal Injury. Find other consumer resources at www.wisbar.com. 
+ 
+ 
+SC-6000V, 09/24 Basic Guide to Wisconsin Small Claims Actions 
+18 
+Type Definition What is the Liability? How do I tell?
+Who gets 
+named in the 
+lawsuit?
+Who gets 
+served?
+Natural Person A living, breathing actual human being. Personally responsible for 
+obligations.
+May not have a business name at 
+all or may go by a "doing business 
+as" tradename; in a business 
+context this is known as a "sole 
+proprietorship."
+Individual 
+person
+Individual 
+person 
+(s.801.11(1))
+Partnership
+Two or more natural persons who 
+have joined together in order to 
+conduct business.
+Each partner is personally 
+responsible for all of the 
+obligations incurred by the 
+partnership.
+May not have a business name at 
+all or may go by a "doing business 
+as" tradename
+Each individual 
+partner
+Each individual 
+partner 
+(s.801.11(6))
+Limited 
+Partnership
+A legally-created organization (under 
+ch. 179, Wis. Stats.) having one or 
+more general partners and one or 
+more limited partners.
+General partners are liable for 
+obligations; limited partners are 
+not liable unless they are also 
+general partners or participate in 
+the control of the business.
+Must have a business name 
+containing the words Limited 
+Partnership or the intials LP.
+Business name
+All general 
+partners or 
+Agent 
+(s.801.11(6))
+Corporation
+A legally-created organization owned 
+by "stockholders" who have purchased 
+or received shares of stock in the 
+organization.
+Individual stockholders are NOT 
+personally responsible; only the 
+assets of the corporation itself are 
+liable for obligations.
+Business name followed by the 
+word "Incorporated" or "Inc."  A 
+corporation must give you fair 
+notice that it is a corporate entity 
+when dealing with you.
+Business name
+Limited 
+Liability 
+Corporation
+A legally-created organization (under 
+ch. 183, Wis. Stats.) created by 
+"members" who enter into an 
+operating agreement concerning the 
+business' activities.
+Individual owners are NOT 
+personally responsible; only the 
+assets of the corporation itself are 
+liable for obligations
+Business name followed by the 
+letters "LLC."  A limited liability 
+corporation must give you fair 
+notice that it is a corporate entity 
+when dealing with you.
+Business name
+What is meant 
+by "doing 
+business as" 
+or "DBA"
+Business or shop may have a 
+business name on its paperwork 
+(letters or invoices), advertising, or 
+building without any designation 
+that it is either limited or 
+incorporated (for example, LP, Inc. 
+or LLC).
+Individual 
+person(s) with 
+additional words 
+"doing business 
+as [name]."
+Same as for 
+natural person 
+or partnership
+Often a natural person or a partnership will create a distinctive tradename 
+under which to operate or advertise.  For example, a person named Tom 
+Smith might do business as "Smith Welding" or a partnership of Tom 
+Smith and Peter Jones may do business as "Smith & Jones Welding." 
+The legal designation in the case of a natural person would be "Tom 
+Smith doing business as Smith Welding." 
+Officer, 
+director, 
+managing 
+agent or 
+Registered 
+Agent 
+(s.801.11(5)); 
+contact the 
+Wisconsin 
+Department of 
+Financial 
+Institutions
+This document is only a general guide and cannot substitute for sound legal advice. There are many other types of business entities that exist in
+Wisconsin or which do business in Wisconsin. Any change in the facts of your particular case may drastically alter the type of entity with which you
+are dealing and the appropriate parties that should be named in YOUR lawsuit.
+Appendix B:  Suing the Right Party:  Getting it Right the First  Time
+ 

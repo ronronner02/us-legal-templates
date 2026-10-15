@@ -1,0 +1,30 @@
+{
+  "reviewed_at": "2026-10-15T04:25:28.827620+00:00",
+  "source_url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38",
+  "policy_sources": [
+    {
+      "url": "https://www.wicourts.gov/forms1/circuit/index.htm",
+      "body_path": "evidence/http/2026-10-15T04-01-44.696917+00-00/806d85c4141227a771a3a65c180e772a10dbe0c6447d873ebbb39d14d0073f77.body",
+      "receipt_file": "evidence/http/2026-10-15T04-01-44.696917+00-00/requests.json"
+    },
+    {
+      "url": "https://www.wicourts.gov/disclaimer.htm",
+      "body_path": "evidence/http/2026-10-15T04-03-54.385770+00-00/c260a30688c498a7c27fa55e97366dff50d516b7606ff15790d838c71c4a99f2.body",
+      "receipt_file": "evidence/http/2026-10-15T04-03-54.385770+00-00/requests.json"
+    },
+    {
+      "url": "https://www.wicourts.gov/forms1/circuit/mandatory.htm",
+      "body_path": "evidence/http/2026-10-15T04-03-54.385770+00-00/b77796d2bca6e2b312d4ed1c3422b1451b4ab23f6b2216d78d001554df30c724.body",
+      "receipt_file": "evidence/http/2026-10-15T04-03-54.385770+00-00/requests.json"
+    }
+  ],
+  "findings": [
+    "Catalog contains both standard forms and explicitly voluntary forms. Voluntary labels are retained per source row; an unlabeled row is not automatically declared mandatory.",
+    "The mandatory-forms FAQ states standard court forms cannot be modified and users may attach additional information. Its format FAQ describes PDF viewing/printing and Word downloading/completion. These statements are retained without construing a blanket reuse grant.",
+    "All acquired filing-form originals contain a no-modification notice. Originals, fields, security settings, and content are unchanged. Procedural guides are classified separately.",
+    "The legal disclaimer describes public-service information that may change and disclaims accuracy and legal-advice status; it is not treated as affirmative republication permission.",
+    "Revision dates concern substantive form changes. Source-listed dates and printed month/year markers are separate observations; SC-5130V differs. HTTP Last-Modified and site footer update dates are not used as publication dates."
+  ],
+  "reuse_review": "pending",
+  "publication_status": "not-approved"
+}

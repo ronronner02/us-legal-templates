@@ -1,0 +1,58 @@
+[
+  {
+    "run_id": "2026-10-15T04-00-31.234058+00-00",
+    "started_at": "2026-10-15T04:00:31.273395+00:00",
+    "last_checkpoint_at": "2026-10-15T04:00:33.003477+00:00",
+    "requests": 3,
+    "evidence": "evidence\\http\\2026-10-15T04-00-31.234058+00-00\\requests.json",
+    "status": "finished",
+    "ended_at": "2026-10-15T04:00:33.010041+00:00"
+  },
+  {
+    "run_id": "2026-10-15T04-00-49.904637+00-00",
+    "started_at": "2026-10-15T04:00:49.926741+00:00",
+    "last_checkpoint_at": "2026-10-15T04:01:17.388513+00:00",
+    "requests": 4,
+    "evidence": "evidence\\http\\2026-10-15T04-00-49.904637+00-00\\requests.json",
+    "status": "finished",
+    "ended_at": "2026-10-15T04:01:17.397266+00:00"
+  },
+  {
+    "run_id": "2026-10-15T04-01-44.696917+00-00",
+    "started_at": "2026-10-15T04:01:44.718260+00:00",
+    "last_checkpoint_at": "2026-10-15T04:02:04.815684+00:00",
+    "requests": 7,
+    "evidence": "evidence\\http\\2026-10-15T04-01-44.696917+00-00\\requests.json",
+    "status": "finished",
+    "ended_at": "2026-10-15T04:02:04.823390+00:00"
+  },
+  {
+    "run_id": "2026-10-15T04-03-54.385770+00-00",
+    "started_at": "2026-10-15T04:03:54.407235+00:00",
+    "last_checkpoint_at": "2026-10-15T04:04:00.870005+00:00",
+    "requests": 3,
+    "evidence": "evidence\\http\\2026-10-15T04-03-54.385770+00-00\\requests.json",
+    "status": "finished",
+    "ended_at": "2026-10-15T04:04:00.877877+00:00"
+  },
+  {
+    "run_id": "2026-10-15T04-15-44.597222+00-00",
+    "started_at": "2026-10-15T04:15:44.618436+00:00",
+    "last_checkpoint_at": "2026-10-15T04:16:32.868342+00:00",
+    "requests": 4,
+    "evidence": "evidence\\http\\2026-10-15T04-15-44.597222+00-00\\requests.json",
+    "status": "interrupted_after_repeated_dns_failures",
+    "closure_recorded_at": "2026-10-15T04:25:28.827138+00:00",
+    "reason": "Stopped remaining Python requests after repeated DNS transport errors. Receipts and actions remain preserved."
+  },
+  {
+    "run_id": "2026-10-15T04-17-05.147643+00-00",
+    "started_at": "2026-10-15T04:17:05.169075+00:00",
+    "last_checkpoint_at": "2026-10-15T04:17:29.323072+00:00",
+    "requests": 2,
+    "evidence": "evidence\\http\\2026-10-15T04-17-05.147643+00-00\\requests.json",
+    "status": "interrupted_after_repeated_dns_failures",
+    "closure_recorded_at": "2026-10-15T04:25:28.827157+00:00",
+    "reason": "Stopped remaining Python requests after repeated DNS transport errors. Receipts and actions remain preserved."
+  }
+]

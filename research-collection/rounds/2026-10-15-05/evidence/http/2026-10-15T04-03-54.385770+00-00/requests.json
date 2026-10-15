@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://www.wicourts.gov/disclaimer.htm",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:03:54.410556+00:00",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "etag": null,
+    "last_modified": "Thu, 15 Oct 2026 04:03:55 GMT",
+    "status": "fetched",
+    "title": "Wisconsin Court System - Legal disclaimer",
+    "sha256": "c260a30688c498a7c27fa55e97366dff50d516b7606ff15790d838c71c4a99f2",
+    "bytes": 56302,
+    "body_path": "evidence/http/2026-10-15T04-03-54.385770+00-00/c260a30688c498a7c27fa55e97366dff50d516b7606ff15790d838c71c4a99f2.body"
+  },
+  {
+    "url": "https://www.wicourts.gov/forms1/circuit/mandatory.htm",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:03:56.136059+00:00",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "etag": null,
+    "last_modified": "Thu, 15 Oct 2026 04:03:57 GMT",
+    "status": "fetched",
+    "title": "Wisconsin Court System - Mandatory use of court forms",
+    "sha256": "b77796d2bca6e2b312d4ed1c3422b1451b4ab23f6b2216d78d001554df30c724",
+    "bytes": 65718,
+    "body_path": "evidence/http/2026-10-15T04-03-54.385770+00-00/b77796d2bca6e2b312d4ed1c3422b1451b4ab23f6b2216d78d001554df30c724.body"
+  },
+  {
+    "url": "https://www.wicourts.gov/forms1/circuit/ccform.jsp?FormName=&FormNumber=&beg_date=&end_date=&StatuteCite=&Category=38",
+    "kind": "source",
+    "checked_at": "2026-10-15T04:03:58.028486+00:00",
+    "http_status": 200,
+    "content_type": "text/html;charset=ISO-8859-1",
+    "etag": null,
+    "last_modified": null,
+    "status": "fetched",
+    "title": "Wisconsin Court System - Circuit court forms",
+    "sha256": "56bb69d3e9b2b85c57e12a78729e5774edb6df0bf69f07584af89944141b722a",
+    "bytes": 249825,
+    "body_path": "evidence/http/2026-10-15T04-03-54.385770+00-00/56bb69d3e9b2b85c57e12a78729e5774edb6df0bf69f07584af89944141b722a.body"
+  }
+]

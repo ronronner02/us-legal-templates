@@ -1,0 +1,32 @@
+[
+  {
+    "owner": "collection reviewer",
+    "task": "Review copyright, permitted reuse, and publication approval from preserved source notices. Keep original no-modification notices and bytes.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Render originals and test fields, layout, signatures, legal currency, and court-specific filing acceptance. Blank proposed orders and writs are not issued court instruments.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Resolve SC-5130V catalog/printed revision mismatch and SC-6030V cross-reference to SC-512 using official source confirmation.",
+    "status": "pending"
+  },
+  {
+    "owner": "future research round",
+    "task": "SC-500 and SC-500I are unacquired after bounded transport retries. Related service forms and guides do not make a complete filing packet.",
+    "status": "pending"
+  },
+  {
+    "owner": "future research round",
+    "task": "Retain inherited permission holds and access stops plus Hawaii and Ohio stops. Maryland family catalog was discovery-only. Inaccessible sources do not imply missing legal coverage.",
+    "status": "held"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Full-library semantic deduplication remains incomplete; SHA-256 counts distinct original files.",
+    "status": "pending"
+  }
+]
