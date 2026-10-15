@@ -1,0 +1,3168 @@
+[
+  {
+    "requested_url": "https://dlt.ri.gov/forms-applications",
+    "receipt": {
+      "url": "https://dlt.ri.gov/forms-applications",
+      "kind": "source",
+      "checked_at": "2026-10-15T01:50:14.346657+00:00",
+      "status": "robots_unverified_stop",
+      "reason": "No retry or access-control workaround attempted."
+    }
+  },
+  {
+    "requested_url": "https://labor.vermont.gov/rights-and-wages",
+    "receipt": {
+      "url": "https://labor.vermont.gov/rights-and-wages",
+      "kind": "source",
+      "checked_at": "2026-10-15T01:50:16.965633+00:00",
+      "status": "robots_unverified_stop",
+      "reason": "No retry or access-control workaround attempted."
+    }
+  },
+  {
+    "requested_url": "https://dwd.wisconsin.gov/dwd/forms-publications-search.htm",
+    "receipt": {
+      "url": "https://dwd.wisconsin.gov/dwd/forms-publications-search.htm",
+      "kind": "source",
+      "checked_at": "2026-10-15T01:50:28.088569+00:00",
+      "status": "robots_unverified_stop",
+      "reason": "No retry or access-control workaround attempted."
+    }
+  },
+  {
+    "requested_url": "https://labor.alaska.gov/lss/lssforms.htm",
+    "receipt": {
+      "url": "https://labor.alaska.gov/lss/lssforms.htm",
+      "kind": "source",
+      "checked_at": "2026-10-15T01:51:09.724838+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "etag": "\"cdc062f06a5bdd1:0\"",
+      "last_modified": "Tue, 13 Oct 2026 23:31:14 GMT",
+      "status": "fetched",
+      "title": "Forms and Publications, Alaska Labor Standards and Safety",
+      "sha256": "f8d5bac655d0987d8f94f519945147d43400ed30b35232e7ace34b5989d3f7a0",
+      "bytes": 16078,
+      "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/f8d5bac655d0987d8f94f519945147d43400ed30b35232e7ace34b5989d3f7a0.body"
+    },
+    "title": "Forms and Publications, Alaska Labor Standards and Safety",
+    "links": [
+      {
+        "url": "https://labor.alaska.gov/lss/lssforms.htm",
+        "title": "Skip to content"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/lssforms.htm",
+        "title": "Back to Top"
+      },
+      {
+        "url": "https://alaska.gov",
+        "title": "State of Alaska"
+      },
+      {
+        "url": "https://my.alaska.gov",
+        "title": "myAlaska"
+      },
+      {
+        "url": "https://alaska.gov/akdir1.html",
+        "title": "Departments"
+      },
+      {
+        "url": "https://alaska.gov/employeeHome.html",
+        "title": "State Employees"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/lssforms.htm",
+        "title": "Statewide Links"
+      },
+      {
+        "url": "https://alaska.gov",
+        "title": ""
+      },
+      {
+        "url": "https://labor.alaska.gov/",
+        "title": "Department of Labor and Workforce Development"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/home.htm",
+        "title": "LSS Home"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/oshhome.htm",
+        "title": "Occupational Safety & Health"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/mihome.htm",
+        "title": "Mechanical Inspection"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/whhome.htm",
+        "title": "Wage & Hour"
+      },
+      {
+        "url": "https://alaska.gov/",
+        "title": "State of Alaska"
+      },
+      {
+        "url": "https://labor.alaska.gov/",
+        "title": "DOLWD"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/home.htm",
+        "title": "LSS"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/lssforms.htm",
+        "title": "Forms"
+      },
+      {
+        "url": "https://labor.alaska.gov/get_rdr.htm",
+        "title": "Adobe PDF format"
+      },
+      {
+        "url": "https://labor.alaska.gov/get_rdr.htm",
+        "title": "Free Acrobat Reader"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/flexplan.pdf?q=050825",
+        "title": "Flexible Work Hour Plan"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/wageclaim.pdf?q=120525",
+        "title": "Wage Claim Form"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/FillableWageClaim.pdf?q=120525",
+        "title": "Fillable Wage Claim Form"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/LSS_information_request_form.pdf?q=050825",
+        "title": "Request for Information Form"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/PDF_Fillable-Non-profit_residential_summer_camp_Registration_Application.pdf?q=03262025",
+        "title": "Non-Profit Residential Summer Camp Registration Form"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/pam100.pdf?q=100325",
+        "title": "Pamphlet 100: Employment Practices and Working Conditions"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/General-Industry.pdf?q=020526",
+        "title": "General Industry Notice"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/documents/Final_Flex_Plan_Industry_Notice_2025.pdf?q=020526",
+        "title": "Flex Plan Industry Notice"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/assisted-living-homes.pdf?q=020526",
+        "title": "Assisted Living Homes Industry Notice"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/fish_processors_letter.pdf?q=020526",
+        "title": "Fish Industry Notice"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/nail_salon_letter.pdf?q=020526",
+        "title": "Nail Salon Industry Notice"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/PCA-industry-notice.pdf?q=020526",
+        "title": "Personal Care Attendants Industry Notice"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/Restaurant-Industry.pdf?q=020526",
+        "title": "Restaurant Industry Notice"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/posters.htm",
+        "title": "Employment Posters"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/whfaq.htm",
+        "title": "Employee FAQ"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/sick-leave-faq.html",
+        "title": "Sick Leave FAQ"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/fish_faq.pdf?q=082525",
+        "title": "Fishing Industry FAQ"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/truck_driver_faq.pdf?q=03262025",
+        "title": "Truck Driver FAQ"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/weekly-cert-payroll.pdf?q=050925",
+        "title": "Weekly Certified Payroll (PDF)"
+      },
+      {
+        "url": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Flabor.alaska.gov%2Flss%2Fforms%2Fweekly-cert-payroll.xlsx&wdOrigin=BROWSELINK",
+        "title": "Weekly Certified Payroll (Excel)"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/statement-of-compliance.pdf?q=050925",
+        "title": "Form 07-6058 Statement of Compliance"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/t-36-complaint-form.pdf",
+        "title": "Title 36 Complaint Form"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/Pam400.pdf",
+        "title": "Pamphlet 400: Public Contracts"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/pamp600.htm",
+        "title": "Pamphlet 600: Current & Archived Laborers’ and Mechanics’ Minimum Rates of Pay"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/T36_FAQ.pdf",
+        "title": "T36 FAQ"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/Contracting_Agency_Responsibilites.pdf",
+        "title": "Contracting Agency Requirements"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/Prime_Contractor_Responsibilities.pdf",
+        "title": "Prime Contractor Responsibilities"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/cert-payroll-filing-online.pdf",
+        "title": "Filing Online Certified Payroll"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/workpermit.pdf?q=051425",
+        "title": "Work Permit"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/workpermitent.pdf?q=050925",
+        "title": "Entertainment Work Permit"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/StudentLearnerPermit.pdf?q=03262025",
+        "title": "Student Learner Work Permit"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/pam200.pdf",
+        "title": "Pamphlet 200: Employment of Children"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/workpermitent-info.pdf",
+        "title": "Entertainment Work Permit Information"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/under16notice.pdf",
+        "title": "Commercial Fishing and Minors"
+      },
+      {
+        "url": "https://vimeo.com/18964986",
+        "title": "Minors in the Workplace Video"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/childlaw.htm",
+        "title": "Summary of Alaska Child Labor Law"
+      },
+      {
+        "url": "https://www.dol.gov/agencies/whd/youthrules",
+        "title": "Federal Child Labor Resources"
+      },
+      {
+        "url": "https://www.dol.gov/agencies/whd/field-operations-handbook/Chapter-33",
+        "title": "Federal Child Labor Regulations"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/WH-nurse-complaint-form.pdf",
+        "title": "Nurse’s Complaint Form"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/nurse-hours-reporting-form.pdf",
+        "title": "Overtime and On-Call Hours Reporting Form"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/documents/MOLN_Laws.pdf",
+        "title": "MOLN Laws"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/Nurses_FAQ.pdf",
+        "title": "MOLN FAQ"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/forms/nurse_ot_summ.pdf?q=021126",
+        "title": "MOLN Poster"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/home.htm",
+        "title": "Labor Standards and Safety"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/whhome.htm",
+        "title": "Wage and Hour Administration"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/miforms.htm",
+        "title": "Mechanical Inspection Forms and Publications"
+      },
+      {
+        "url": "https://labor.alaska.gov/lss/oshhome.htm",
+        "title": "Occupational Safety and Health"
+      },
+      {
+        "url": "https://www.facebook.com/alaskalabor/",
+        "title": ""
+      },
+      {
+        "url": "https://twitter.com/AlaskaLabor",
+        "title": ""
+      },
+      {
+        "url": "https://labor.alaska.gov/accessibility.htm",
+        "title": "Accessibility"
+      },
+      {
+        "url": "https://labor.alaska.gov/oeo.htm",
+        "title": "OEO Statement"
+      },
+      {
+        "url": "https://labor.alaska.gov/use.htm",
+        "title": "Terms of Use"
+      },
+      {
+        "url": "https://labor.alaska.gov/privacy.htm",
+        "title": "Privacy"
+      },
+      {
+        "url": "https://labor.alaska.gov/copyright.htm",
+        "title": "Copyright Info"
+      },
+      {
+        "url": "https://alaska.gov",
+        "title": "State of Alaska"
+      },
+      {
+        "url": "https://my.alaska.gov",
+        "title": "myAlaska"
+      },
+      {
+        "url": "https://alaska.gov/akdir1.html",
+        "title": "Departments"
+      },
+      {
+        "url": "https://alaska.gov/employeeHome.html",
+        "title": "State Employees"
+      }
+    ],
+    "text_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/f8d5bac655d0987d8f94f519945147d43400ed30b35232e7ace34b5989d3f7a0.txt"
+  },
+  {
+    "requested_url": "https://dol.ny.gov/notice-pay-rate",
+    "receipt": {
+      "url": "https://dol.ny.gov/notice-pay-rate",
+      "kind": "source",
+      "checked_at": "2026-10-15T01:51:13.660361+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": "Wed, 14 Oct 2026 11:52:00 GMT",
+      "status": "fetched",
+      "title": "Notice of Pay Rate | Department of Labor",
+      "sha256": "da4441cb2ce4e86207cac1835b15c00b86c4c689a0c680265f38687ee3d18590",
+      "bytes": 47165,
+      "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/da4441cb2ce4e86207cac1835b15c00b86c4c689a0c680265f38687ee3d18590.body"
+    },
+    "title": "Notice of Pay Rate | Department of Labor",
+    "links": [
+      {
+        "url": "https://dol.ny.gov/notice-pay-rate",
+        "title": "Skip to main content"
+      },
+      {
+        "url": "https://dol.ny.gov/",
+        "title": "Department of Labor"
+      },
+      {
+        "url": "https://dol.ny.gov/unemployment/unemployment-insurance-assistance",
+        "title": "Unemployment Benefits"
+      },
+      {
+        "url": "https://dol.ny.gov/unemployment/unemployment-insurance-assistance",
+        "title": "Unemployment Benefits"
+      },
+      {
+        "url": "https://dol.ny.gov/unemployment-claimant-benefit-process-0",
+        "title": "How to File an Unemployment Insurance Claim"
+      },
+      {
+        "url": "https://dol.ny.gov/unemployment/certify-weekly-unemployment-insurance-benefits",
+        "title": "Certify for Weekly Benefits"
+      },
+      {
+        "url": "https://dol.ny.gov/shared-work-program-0",
+        "title": "Shared Work Program"
+      },
+      {
+        "url": "https://dol.ny.gov/unemployment/unemployment-insurance-information-employers",
+        "title": "Employer Information"
+      },
+      {
+        "url": "https://dol.ny.gov/report-fraud",
+        "title": "Report Fraud"
+      },
+      {
+        "url": "https://dol.ny.gov/unemployment/calculators",
+        "title": "Calculators"
+      },
+      {
+        "url": "https://dol.ny.gov/jobs-and-careers",
+        "title": "Jobs & Careers"
+      },
+      {
+        "url": "https://dol.ny.gov/jobs-and-careers",
+        "title": "Jobs & Careers"
+      },
+      {
+        "url": "https://dol.ny.gov/find-job-0",
+        "title": "Find a Job"
+      },
+      {
+        "url": "https://dol.ny.gov/career-development",
+        "title": "Career Development"
+      },
+      {
+        "url": "https://dol.ny.gov/apprenticeships",
+        "title": "Apprenticeships"
+      },
+      {
+        "url": "https://dol.ny.gov/youth",
+        "title": "Youth"
+      },
+      {
+        "url": "https://dol.ny.gov/services-veterans",
+        "title": "Services for Veterans"
+      },
+      {
+        "url": "https://dol.ny.gov/emerging-industries",
+        "title": "Emerging Industries"
+      },
+      {
+        "url": "https://dol.ny.gov/services-businesses",
+        "title": "Business Support"
+      },
+      {
+        "url": "https://dol.ny.gov/services-businesses",
+        "title": "Business Support"
+      },
+      {
+        "url": "https://dol.ny.gov/recruit-your-workforce",
+        "title": "Recruit Your Workforce"
+      },
+      {
+        "url": "https://dol.ny.gov/apprenticeships",
+        "title": "Apprenticeships"
+      },
+      {
+        "url": "https://dol.ny.gov/rapid-response",
+        "title": "Rapid Response"
+      },
+      {
+        "url": "https://dol.ny.gov/warn-worker-adjustment-and-retraining-notification",
+        "title": "Worker Adjustment and Retraining Notification (WARN)"
+      },
+      {
+        "url": "https://dol.ny.gov/hiring-incentives-tax-credits-and-funding-opportunities",
+        "title": "Hiring Incentives & Tax Credits"
+      },
+      {
+        "url": "https://dol.ny.gov/funding-opportunities-0",
+        "title": "Funding Opportunities"
+      },
+      {
+        "url": "https://dol.ny.gov/services-agricultural-employers-0",
+        "title": "Services for Agricultural Employers"
+      },
+      {
+        "url": "https://dol.ny.gov/workforce-protections",
+        "title": "Workforce Protections"
+      },
+      {
+        "url": "https://dol.ny.gov/workforce-protections",
+        "title": "Workforce Protections"
+      },
+      {
+        "url": "https://dol.ny.gov/labor-standards-0",
+        "title": "Labor Standards"
+      },
+      {
+        "url": "https://dol.ny.gov/minimum-wage",
+        "title": "Minimum Wage"
+      },
+      {
+        "url": "https://dol.ny.gov/safety-and-health",
+        "title": "Safety & Health"
+      },
+      {
+        "url": "https://dol.ny.gov/legal",
+        "title": "Legal"
+      },
+      {
+        "url": "https://dol.ny.gov/dei-and-equal-opportunity",
+        "title": "DEI and Equal Opportunity"
+      },
+      {
+        "url": "https://dol.ny.gov/bureau-public-work-and-prevailing-wage-enforcement",
+        "title": "Public Work and Prevailing Wage Enforcement"
+      },
+      {
+        "url": "https://dol.ny.gov/division-compliance-and-education",
+        "title": "Division of Compliance and Education"
+      },
+      {
+        "url": "https://dol.ny.gov/labor-data",
+        "title": "Labor Data"
+      },
+      {
+        "url": "https://dol.ny.gov/labor-data",
+        "title": "Labor Data"
+      },
+      {
+        "url": "https://dol.ny.gov/occupational-and-industry-data",
+        "title": "Occupational and Industry Data"
+      },
+      {
+        "url": "https://dol.ny.gov/new-york-state-data-center",
+        "title": "NYS Data Center"
+      },
+      {
+        "url": "https://dol.ny.gov/labor-market-analysts",
+        "title": "Labor Market Analysts"
+      },
+      {
+        "url": "https://dol.ny.gov/unemployment-insurance-ui-data-sharing",
+        "title": "Unemployment Insurance Data Sharing"
+      },
+      {
+        "url": "https://dol.ny.gov/office-workforce-data-and-research-owdr",
+        "title": "Workforce Data and Research"
+      },
+      {
+        "url": "https://dol.ny.gov/resources",
+        "title": "Resources"
+      },
+      {
+        "url": "https://dol.ny.gov/resources",
+        "title": "Resources"
+      },
+      {
+        "url": "https://dol.ny.gov/language-access-LEP-new-yorkers",
+        "title": "Language Access"
+      },
+      {
+        "url": "https://dol.ny.gov/workforce-governance",
+        "title": "Workforce Governance"
+      },
+      {
+        "url": "https://dol.ny.gov/forms-and-publications",
+        "title": "Forms & Publications"
+      },
+      {
+        "url": "https://dol.ny.gov/about-us",
+        "title": "About Us"
+      },
+      {
+        "url": "https://dol.ny.gov/about-us",
+        "title": "About Us"
+      },
+      {
+        "url": "https://dol.ny.gov/join-our-dol-community",
+        "title": "Join Our DOL Community"
+      },
+      {
+        "url": "https://dol.ny.gov/pressroom",
+        "title": "Pressroom"
+      },
+      {
+        "url": "https://dol.ny.gov/contact-dol",
+        "title": "Contact Us"
+      },
+      {
+        "url": "https://dol.ny.gov/dei-and-equal-opportunity",
+        "title": "Office of Diversity, Equity, Inclusion & Access"
+      },
+      {
+        "url": "https://dol.ny.gov/unemployment",
+        "title": "More information on our updates page."
+      },
+      {
+        "url": "https://dol.ny.gov/labor-standards-0",
+        "title": "Labor Standards"
+      },
+      {
+        "url": "https://dol.ny.gov/p715-wage-theft-prevention-act",
+        "title": "Wage Theft Prevention Act Fact Sheet,"
+      },
+      {
+        "url": "https://dol.ny.gov/wage-theft-prevention-act-frequently-asked-questions",
+        "title": "Wage Theft Prevention Act Frequently Asked Questions"
+      },
+      {
+        "url": "https://dol.ny.gov/wage-theft-prevention-act-faq",
+        "title": "."
+      },
+      {
+        "url": "https://dol.ny.gov/LS51-doc",
+        "title": "LS51"
+      },
+      {
+        "url": "https://forms.labor.ny.gov/WP/LS54.pdf",
+        "title": "LS 54"
+      },
+      {
+        "url": "https://dol.ny.gov/LS55-doc",
+        "title": "LS 55"
+      },
+      {
+        "url": "https://dol.ny.gov/LS56-doc",
+        "title": "LS 56"
+      },
+      {
+        "url": "https://dol.ny.gov/LS57-doc",
+        "title": "LS 57"
+      },
+      {
+        "url": "https://dol.ny.gov/LS58-doc",
+        "title": "LS 58"
+      },
+      {
+        "url": "https://dol.ny.gov/LS59-doc",
+        "title": "LS 59"
+      },
+      {
+        "url": "https://dol.ny.gov/LS309-doc",
+        "title": "Form LS 309"
+      },
+      {
+        "url": "https://dol.ny.gov/AL447-doc",
+        "title": "AL 447"
+      },
+      {
+        "url": "https://dol.ny.gov/AL446-doc",
+        "title": "AL 446"
+      },
+      {
+        "url": "https://dol.ny.gov/labor-standards-0",
+        "title": "Division of Labor Standards"
+      },
+      {
+        "url": "https://dol.ny.gov/notice-pay-rate",
+        "title": "Wage Theft Prevention Act"
+      },
+      {
+        "url": "https://dol.ny.gov/notice-pay-rate",
+        "title": "Scroll back to the top of the page"
+      },
+      {
+        "url": "https://dol.ny.gov/",
+        "title": "Department of Labor"
+      },
+      {
+        "url": "https://dol.ny.gov/about-us",
+        "title": "Our Mission & Services"
+      },
+      {
+        "url": "https://dol.ny.gov/dol-leadership-team",
+        "title": "Commissioner"
+      },
+      {
+        "url": "https://dol.ny.gov/pressroom",
+        "title": "Pressroom"
+      },
+      {
+        "url": "https://dol.ny.gov/join-our-dol-community",
+        "title": "Join Our DOL Community"
+      },
+      {
+        "url": "https://dol.ny.gov/contact-dol",
+        "title": "Contact Us"
+      },
+      {
+        "url": "https://dol.ny.gov/contract-bid-grant-opportunities",
+        "title": "Funding Opportunities"
+      },
+      {
+        "url": "https://dol.ny.gov/sitemap",
+        "title": "Site Map"
+      },
+      {
+        "url": "https://dol.ny.gov/bc",
+        "title": "DOL Boards and Committees"
+      },
+      {
+        "url": "https://dol.ny.gov/bc/hab",
+        "title": "Hazard Abatement Board"
+      },
+      {
+        "url": "https://industrialappeals.ny.gov/",
+        "title": "Industrial Board of Appeals"
+      },
+      {
+        "url": "https://perb.ny.gov/",
+        "title": "Public Employment Relations Board"
+      },
+      {
+        "url": "https://uiappeals.ny.gov/",
+        "title": "Unemployment Insurance Appeal Board"
+      },
+      {
+        "url": "https://dol.ny.gov/apprenticeships",
+        "title": "Apprenticeship"
+      },
+      {
+        "url": "https://www.ny.gov/programs/new-york-state-paid-family-leave",
+        "title": "Paid Family Leave"
+      },
+      {
+        "url": "https://regionalcouncils.ny.gov/",
+        "title": "Regional Economic Development Councils"
+      },
+      {
+        "url": "https://dol.ny.gov/ride-safe-ny",
+        "title": "Ride Safe NY"
+      },
+      {
+        "url": "https://dol.ny.gov/shared-work-program-0",
+        "title": "Shared Work"
+      },
+      {
+        "url": "https://twitter.com/nysdolenespanol",
+        "title": "Twitter en español"
+      },
+      {
+        "url": "https://www.facebook.com/nysdolenespanol",
+        "title": "Facebook en español"
+      },
+      {
+        "url": "https://dol.ny.gov/accessibility",
+        "title": "Accessibility Policy"
+      },
+      {
+        "url": "https://dol.ny.gov/freedom-information-law-foil-requests",
+        "title": "Freedom of Information Law (FOIL)"
+      },
+      {
+        "url": "https://dol.ny.gov/privacy-policy",
+        "title": "Privacy Policy"
+      },
+      {
+        "url": "https://dol.ny.gov/report-fraud",
+        "title": "Report Fraud"
+      },
+      {
+        "url": "https://dol.ny.gov/about/strategic-plan",
+        "title": "Strategic Plan"
+      },
+      {
+        "url": "https://dol.ny.gov/connect",
+        "title": "Stay Connected"
+      },
+      {
+        "url": "https://dol.ny.gov/language-access-LEP-new-yorkers",
+        "title": "Language Access"
+      },
+      {
+        "url": "https://dol.ny.gov/translated-vital-docs",
+        "title": "Translated Vital Documents"
+      },
+      {
+        "url": "https://www.facebook.com/nyslabor",
+        "title": "Facebook"
+      },
+      {
+        "url": "https://instagram.com/nyslabor",
+        "title": "Instagram"
+      },
+      {
+        "url": "https://www.linkedin.com/company/new-york-state-department-of-labor",
+        "title": "Linkedin"
+      },
+      {
+        "url": "https://www.youtube.com/user/NYSLabor",
+        "title": "Youtube"
+      },
+      {
+        "url": "https://twitter.com/nyslabor",
+        "title": "X (formerly Twitter)"
+      }
+    ],
+    "text_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/da4441cb2ce4e86207cac1835b15c00b86c4c689a0c680265f38687ee3d18590.txt"
+  },
+  {
+    "requested_url": "https://www.mass.gov/lists/court-forms-for-eviction",
+    "receipt": {
+      "url": "https://www.mass.gov/lists/court-forms-for-eviction",
+      "kind": "source",
+      "checked_at": "2026-10-15T01:51:18.909488+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": "\"1792011860-gzip\"",
+      "last_modified": "Wed, 14 Oct 2026 21:04:20 GMT",
+      "status": "fetched",
+      "title": "Court forms for eviction | Mass.gov",
+      "sha256": "a153acc8f6a1cd99e95ed6b8c56cebf0120c09b481075d174b627c5aff8ccb18",
+      "bytes": 234536,
+      "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/a153acc8f6a1cd99e95ed6b8c56cebf0120c09b481075d174b627c5aff8ccb18.body"
+    },
+    "title": "Court forms for eviction | Mass.gov",
+    "links": [
+      {
+        "url": "https://www.mass.gov/lists/court-forms-for-eviction",
+        "title": "Skip to main content"
+      },
+      {
+        "url": "https://www.mass.gov/massachusetts-state-organizations",
+        "title": "State Organizations"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "Mass.gov"
+      },
+      {
+        "url": "https://www.mass.gov/topics/health-social-services",
+        "title": "Health & Social Services"
+      },
+      {
+        "url": "https://www.mass.gov/topics/families-children",
+        "title": "Families & Children"
+      },
+      {
+        "url": "https://www.mass.gov/topics/housing-property",
+        "title": "Housing & Property"
+      },
+      {
+        "url": "https://www.mass.gov/topics/transportation",
+        "title": "Transportation"
+      },
+      {
+        "url": "https://www.mass.gov/topics/legal-justice",
+        "title": "Legal & Justice"
+      },
+      {
+        "url": "https://www.mass.gov/topics/public-safety",
+        "title": "Public Safety"
+      },
+      {
+        "url": "https://www.mass.gov/topics/energy",
+        "title": "Energy"
+      },
+      {
+        "url": "https://www.mass.gov/topics/climate-action",
+        "title": "Climate Action"
+      },
+      {
+        "url": "https://www.mass.gov/topics/environment",
+        "title": "Environment"
+      },
+      {
+        "url": "https://www.mass.gov/topics/taxes",
+        "title": "Taxes"
+      },
+      {
+        "url": "https://www.mass.gov/topics/unclaimed-property",
+        "title": "Unclaimed Property"
+      },
+      {
+        "url": "https://www.mass.gov/topics/vital-public-records",
+        "title": "Vital & Public Records"
+      },
+      {
+        "url": "https://www.mass.gov/topics/voting",
+        "title": "Voting"
+      },
+      {
+        "url": "https://www.mass.gov/topics/doing-business-in-massachusetts",
+        "title": "Doing Business in Massachusetts"
+      },
+      {
+        "url": "https://www.mass.gov/topics/professional-licenses-permits",
+        "title": "Professional Licenses & Permits"
+      },
+      {
+        "url": "https://www.mass.gov/topics/unemployment",
+        "title": "Unemployment"
+      },
+      {
+        "url": "https://www.mass.gov/topics/finding-a-job",
+        "title": "Finding a Job"
+      },
+      {
+        "url": "https://www.mass.gov/topics/taxes",
+        "title": "Taxes"
+      },
+      {
+        "url": "https://www.mass.gov/topics/workers-rights-safety",
+        "title": "Workers' Rights & Safety"
+      },
+      {
+        "url": "https://www.mass.gov/topics/industry-regulations",
+        "title": "Industry Regulations"
+      },
+      {
+        "url": "https://www.mass.gov/topics/state-employee-resources",
+        "title": "For State Employees"
+      },
+      {
+        "url": "https://www.mass.gov/topics/early-childhood-education-care",
+        "title": "Early Childhood Education & Care"
+      },
+      {
+        "url": "https://www.mass.gov/topics/elementary-secondary-schools",
+        "title": "Elementary & Secondary Schools"
+      },
+      {
+        "url": "https://www.mass.gov/topics/higher-education",
+        "title": "Higher Education"
+      },
+      {
+        "url": "https://www.mass.gov/topics/continuing-education",
+        "title": "Continuing Education"
+      },
+      {
+        "url": "https://www.mass.gov/topics/for-educators-administrators",
+        "title": "For Educators & Administrators"
+      },
+      {
+        "url": "https://www.mass.gov/topics/parks-recreation",
+        "title": "Parks & Recreation"
+      },
+      {
+        "url": "https://www.mass.gov/topics/fishing-hunting",
+        "title": "Fishing & Hunting"
+      },
+      {
+        "url": "https://www.mass.gov/topics/historic-sites",
+        "title": "Historic Sites"
+      },
+      {
+        "url": "https://www.mass.gov/topics/arts",
+        "title": "Arts"
+      },
+      {
+        "url": "https://www.mass.gov/topics/family-fun",
+        "title": "Family Fun"
+      },
+      {
+        "url": "https://www.mass.gov/topics/travel-options",
+        "title": "Travel Options"
+      },
+      {
+        "url": "https://www.mass.gov/topics/seasonal-activities",
+        "title": "Seasonal Activities"
+      },
+      {
+        "url": "https://www.mass.gov/topics/executive-branch",
+        "title": "Executive"
+      },
+      {
+        "url": "https://www.mass.gov/topics/constitutionals-independents",
+        "title": "Constitutionals & Independents"
+      },
+      {
+        "url": "https://www.mass.gov/topics/legislative-branch",
+        "title": "Legislative"
+      },
+      {
+        "url": "https://www.mass.gov/topics/judicial-branch",
+        "title": "Judicial"
+      },
+      {
+        "url": "https://www.mass.gov/topics/cities-towns",
+        "title": "Cities & Towns"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/massachusetts-state-organizations-a-to-z",
+        "title": "State Offices & Courts A-Z"
+      },
+      {
+        "url": "https://www.mass.gov/massachusetts-state-organizations",
+        "title": "State Organizations"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "Mass.gov"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": ""
+      },
+      {
+        "url": "https://www.mass.gov/topics/housing-property",
+        "title": "Housing & Property"
+      },
+      {
+        "url": "https://www.mass.gov/topics/eviction",
+        "title": "Eviction"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/massachusetts-court-system",
+        "title": "Massachusetts Court System"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/district-court",
+        "title": "District Court"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court",
+        "title": "Housing Court"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/boston-municipal-court",
+        "title": "Boston Municipal Court"
+      },
+      {
+        "url": "https://get.adobe.com/reader/",
+        "title": "Adobe Acrobat Reader"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/what-to-do-if-you-cant-open-court-pdfs",
+        "title": "What to do if you can't open court PDFs"
+      },
+      {
+        "url": "https://www.mass.gov/lists/court-forms-for-eviction",
+        "title": "Skip table of contents"
+      },
+      {
+        "url": "https://www.mass.gov/doc/summary-process-summons-and-complaint-sample/download",
+        "title": "Summary Process Summons and Complaint Sample , Open PDF file, 897.07 KB"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0030",
+        "title": "Affidavit of Compliance with G.L. c. 186, s. 31"
+      },
+      {
+        "url": "https://www.mass.gov/doc/express-waiver/download",
+        "title": "Express Waiver , Open PDF file, 322.67 KB"
+      },
+      {
+        "url": "https://www.mass.gov/doc/financial-statement-housing-court/download",
+        "title": "Financial Statement - Housing Court , Open PDF file, 264.61 KB"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0018",
+        "title": "Joint Uniform Summary Process Rule 10 and Military Affidavit"
+      },
+      {
+        "url": "https://www.mass.gov/doc/military-affidavit/download",
+        "title": "Military Affidavit , Open PDF file, 967.82 KB"
+      },
+      {
+        "url": "https://www.mass.gov/doc/afadt-sktmilitary-affidavit-arabic/download",
+        "title": "العربية"
+      },
+      {
+        "url": "https://www.mass.gov/doc/diklarason-militar-juramentadu-military-affidavit/download",
+        "title": "Kriolu di Cabo Verde"
+      },
+      {
+        "url": "https://www.mass.gov/doc/junshixuanshishu-military-affidavit/download",
+        "title": "简体中文"
+      },
+      {
+        "url": "https://www.mass.gov/doc/junshixuanshishu-military-affidavit-0/download",
+        "title": "繁體中文"
+      },
+      {
+        "url": "https://www.mass.gov/doc/afidavi-milite-military-affidavit/download",
+        "title": "Kreyòl ayisyen"
+      },
+      {
+        "url": "https://www.mass.gov/doc/military-affidavit-in-khmer-likhitpnyjaakrpsyoodhaa/download",
+        "title": "ភាសាខ្មែរ"
+      },
+      {
+        "url": "https://www.mass.gov/doc/declaracao-militar-military-affidavit/download",
+        "title": "Português"
+      },
+      {
+        "url": "https://www.mass.gov/doc/voennyy-affidevit-military-affidavit/download",
+        "title": "Русский"
+      },
+      {
+        "url": "https://www.mass.gov/doc/declaracion-jurada-militarmilitary-affidavit/download",
+        "title": "Español"
+      },
+      {
+        "url": "https://www.mass.gov/doc/chung-nhan-quan-nhan-military-affidavit/download",
+        "title": "Tiếng Việt"
+      },
+      {
+        "url": "https://www.mass.gov/lists/court-forms-for-eviction",
+        "title": "Translate labels"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/military-affidavit-instructions-for-self-represented-litigants",
+        "title": "Military Affidavit Instructions for Self-Represented Litigants"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0006",
+        "title": "Motion for Issuance of Execution"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0008",
+        "title": "Motion to Vacate Default Judgment (Remove Default)"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0011",
+        "title": "Notice of Voluntary Dismissal - Housing Court"
+      },
+      {
+        "url": "https://www.mass.gov/doc/summary-process-eviction-contempt-summons/download",
+        "title": "Summary Process (eviction) Contempt Summons , Open PDF file, 253.22 KB"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0012",
+        "title": "Waiver of Jury Trial"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0090",
+        "title": "Summary Process (Eviction) Answer Form – Housing Court"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0085",
+        "title": "Residential Summary Process (Eviction) Notice Of Appeal Of Judgment"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0030",
+        "title": "Affidavit of Compliance with G.L. c. 186, s. 31"
+      },
+      {
+        "url": "https://www.mass.gov/doc/summary-process-agreement-for-judgment/download",
+        "title": "Summary Process Agreement for Judgment , Open PDF file, 1.17 MB"
+      },
+      {
+        "url": "https://www.mass.gov/doc/notice-of-transfer-to-housing-court-gl-c-185c-ss-20/download",
+        "title": "Notice of Transfer to Housing Court - G.L. c. 185C, § 20 , Open PDF file, 1.41 MB"
+      },
+      {
+        "url": "https://www.mass.gov/doc/summary-process-summons-and-complaint-sample/download",
+        "title": "Summary Process Summons and Complaint Sample , Open PDF file, 897.07 KB"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0090",
+        "title": "Residential Summary Process Answer"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0085",
+        "title": "Residential Summary Process Notice of Appeal of Judgment"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0030",
+        "title": "Affidavit of Compliance with G.L. c. 186, s. 31"
+      },
+      {
+        "url": "https://www.mass.gov/doc/notice-of-transfer-to-housing-court-gl-c-185c-ss-20/download",
+        "title": "Notice of Transfer to Housing Court - G.L. c. 185C, § 20 , Open PDF file, 1.41 MB"
+      },
+      {
+        "url": "https://www.mass.gov/doc/summary-process-summons-and-complaint-sample/download",
+        "title": "Summary Process Summons and Complaint Sample , Open PDF file, 897.07 KB"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0090",
+        "title": "Residential Summary Process Answer"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0085",
+        "title": "Residential Summary Process Notice of Appeal of Judgment"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/central-division-of-the-housing-court-civil-case-information",
+        "title": "Central Division of the Housing Court - Civil case information"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/eastern-division-of-the-housing-court-civil-case-information",
+        "title": "Eastern Division of the Housing Court - Civil case information"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/metro-south-division-of-the-housing-court-civil-case-information",
+        "title": "Metro South Division of the Housing Court - Civil case information"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/northeast-division-of-the-housing-court-civil-case-information",
+        "title": "Northeast Division of the Housing Court - Civil case information"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/southeast-division-of-the-housing-court-civil-case-information",
+        "title": "Southeast Division of the Housing Court - Civil case information"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/western-division-of-the-housing-court-civil-case-information",
+        "title": "Western Division of the Housing Court - Civil case information"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/boston-municipal-court-summary-process-information-sheet",
+        "title": "Boston Municipal Court Summary Process Information Sheet"
+      },
+      {
+        "url": "https://www.mass.gov/indigency-waiver-of-court-fees",
+        "title": "Indigency (waiver of court fees)"
+      },
+      {
+        "url": "https://www.mass.gov/non-criminal-tickets/locations",
+        "title": "District, Housing, and Boston Municipal Court locations"
+      },
+      {
+        "url": "https://www.mass.gov/non-criminal-tickets/locations",
+        "title": "District, Housing, and Boston Municipal Court locations"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/trial-court-frequently-asked-questions-about-the-centers-for-disease-control-cdc-eviction-moratorium-order",
+        "title": "Trial Court frequently asked questions about the Centers for Disease Control (CDC) eviction moratorium order"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/covid-19-eviction-information",
+        "title": "COVID-19 eviction information"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/find-out-how-to-start-the-eviction-process",
+        "title": "Find out how to start the eviction process"
+      },
+      {
+        "url": "https://www.mass.gov/resource/court-system-response-to-covid-19",
+        "title": "Court system response to COVID-19"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/massachusetts-court-system",
+        "title": "contact the Massachusetts Court System"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/massachusetts-court-system",
+        "title": "contact the Massachusetts Court System"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/massachusetts-court-system",
+        "title": "contact the Massachusetts Court System"
+      },
+      {
+        "url": "https://www.mass.gov/user-panel?utm_source=survey",
+        "title": "join our user panel"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "Mass.gov"
+      },
+      {
+        "url": "https://www.mass.gov/massachusetts-state-organizations",
+        "title": "State Organizations"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/enterprise-digital-accessibility-statement",
+        "title": "Digital Accessibility Statement"
+      },
+      {
+        "url": "https://www.mass.gov/massgov-privacy-policy",
+        "title": "Privacy Policy"
+      },
+      {
+        "url": "https://www.mass.gov/massgov-site-policies",
+        "title": "Site Policies"
+      },
+      {
+        "url": "https://www.mass.gov/topics/public-records-requests",
+        "title": "Public Records Requests"
+      },
+      {
+        "url": "https://www.mass.gov/lists/court-forms-for-eviction",
+        "title": "Feedback"
+      }
+    ],
+    "text_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/a153acc8f6a1cd99e95ed6b8c56cebf0120c09b481075d174b627c5aff8ccb18.txt"
+  },
+  {
+    "requested_url": "https://labor.alaska.gov/copyright.htm",
+    "receipt": {
+      "url": "https://labor.alaska.gov/copyright.htm",
+      "kind": "source",
+      "checked_at": "2026-10-15T01:52:19.936106+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "etag": "\"86853252a30dd1:0\"",
+      "last_modified": "Wed, 19 Aug 2026 22:29:06 GMT",
+      "status": "fetched",
+      "title": "Copyright",
+      "sha256": "b3d45a388d5a92fec2d4eaee40d74f36338545b75059db4bb6cb656adb6ffee3",
+      "bytes": 8345,
+      "body_path": "evidence/http/2026-10-15T01-52-19.891109+00-00/b3d45a388d5a92fec2d4eaee40d74f36338545b75059db4bb6cb656adb6ffee3.body"
+    },
+    "title": "Copyright",
+    "links": [
+      {
+        "url": "https://labor.alaska.gov/copyright.htm",
+        "title": "Skip to content"
+      },
+      {
+        "url": "https://labor.alaska.gov/copyright.htm",
+        "title": "Back to Top"
+      },
+      {
+        "url": "https://alaska.gov",
+        "title": "State of Alaska"
+      },
+      {
+        "url": "https://my.alaska.gov",
+        "title": "myAlaska"
+      },
+      {
+        "url": "https://alaska.gov/akdir1.html",
+        "title": "Departments"
+      },
+      {
+        "url": "https://alaska.gov/employeeHome.html",
+        "title": "State Employees"
+      },
+      {
+        "url": "https://labor.alaska.gov/copyright.htm",
+        "title": "Statewide Links"
+      },
+      {
+        "url": "https://alaska.gov",
+        "title": ""
+      },
+      {
+        "url": "https://labor.alaska.gov/",
+        "title": "Department of Labor and Workforce Development"
+      },
+      {
+        "url": "https://labor.alaska.gov/",
+        "title": "Home"
+      },
+      {
+        "url": "https://labor.alaska.gov/landing-pages/job-seekers.html",
+        "title": "Job Seekers"
+      },
+      {
+        "url": "https://labor.alaska.gov/landing-pages/workers.html",
+        "title": "Workers"
+      },
+      {
+        "url": "https://labor.alaska.gov/landing-pages/employers.html",
+        "title": "Employers"
+      },
+      {
+        "url": "https://labor.alaska.gov/landing-pages/training.html",
+        "title": "Training"
+      },
+      {
+        "url": "https://live.laborstats.alaska.gov/",
+        "title": "Data Research"
+      },
+      {
+        "url": "https://alaska.gov/",
+        "title": "State of Alaska"
+      },
+      {
+        "url": "https://labor.alaska.gov/",
+        "title": "DOLWD"
+      },
+      {
+        "url": "https://labor.alaska.gov/commish/home.htm",
+        "title": "Commissioner"
+      },
+      {
+        "url": "https://labor.alaska.gov/copyright.htm",
+        "title": "Copyright Statement"
+      },
+      {
+        "url": "https://www.facebook.com/alaskalabor/",
+        "title": ""
+      },
+      {
+        "url": "https://twitter.com/AlaskaLabor",
+        "title": ""
+      },
+      {
+        "url": "https://labor.alaska.gov/accessibility.htm",
+        "title": "Accessibility"
+      },
+      {
+        "url": "https://labor.alaska.gov/oeo.htm",
+        "title": "OEO Statement"
+      },
+      {
+        "url": "https://labor.alaska.gov/use.htm",
+        "title": "Terms of Use"
+      },
+      {
+        "url": "https://labor.alaska.gov/privacy.htm",
+        "title": "Privacy"
+      },
+      {
+        "url": "https://labor.alaska.gov/copyright.htm",
+        "title": "Copyright Info"
+      },
+      {
+        "url": "https://alaska.gov",
+        "title": "State of Alaska"
+      },
+      {
+        "url": "https://my.alaska.gov",
+        "title": "myAlaska"
+      },
+      {
+        "url": "https://alaska.gov/akdir1.html",
+        "title": "Departments"
+      },
+      {
+        "url": "https://alaska.gov/employeeHome.html",
+        "title": "State Employees"
+      }
+    ],
+    "text_path": "evidence/http/2026-10-15T01-52-19.891109+00-00/b3d45a388d5a92fec2d4eaee40d74f36338545b75059db4bb6cb656adb6ffee3.txt"
+  },
+  {
+    "requested_url": "https://www.mass.gov/info-details/massgov-site-policies",
+    "receipt": {
+      "url": "https://www.mass.gov/info-details/massgov-site-policies",
+      "kind": "source",
+      "checked_at": "2026-10-15T01:52:22.290625+00:00",
+      "http_status": 404,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": "\"1792029148\"",
+      "last_modified": "Thu, 15 Oct 2026 01:52:28 GMT",
+      "status": "http_404",
+      "sha256": "3b316f9faa5305273f45cf9d7c4c947bcf528f6a51af5adf41159cb991c2a0fb",
+      "bytes": 87420,
+      "body_path": "evidence/http/2026-10-15T01-52-19.891109+00-00/3b316f9faa5305273f45cf9d7c4c947bcf528f6a51af5adf41159cb991c2a0fb.body"
+    }
+  },
+  {
+    "requested_url": "https://labor.illinois.gov/forms.html",
+    "receipt": {
+      "url": "https://labor.illinois.gov/forms.html",
+      "kind": "source",
+      "checked_at": "2026-10-15T01:52:55.317225+00:00",
+      "status": "robots_unverified_stop",
+      "reason": "No retry or access-control workaround attempted."
+    }
+  },
+  {
+    "requested_url": "https://rec.wv.gov/Forms/Pages/default.aspx",
+    "receipt": {
+      "url": "https://rec.wv.gov/forms",
+      "kind": "source",
+      "checked_at": "2026-10-15T01:53:03.145651+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": "W/\"1792029183\"",
+      "last_modified": "Thu, 15 Oct 2026 01:53:03 GMT",
+      "status": "fetched",
+      "title": "Forms | WV Real Estate Commission Office",
+      "sha256": "e90616f0fcdcd79110caf91cad05900c25fc08b0d440005cf8ff2f685e8260ac",
+      "bytes": 40819,
+      "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/e90616f0fcdcd79110caf91cad05900c25fc08b0d440005cf8ff2f685e8260ac.body"
+    },
+    "title": "Forms | WV Real Estate Commission Office",
+    "links": [
+      {
+        "url": "https://rec.wv.gov/forms",
+        "title": "Skip to main content"
+      },
+      {
+        "url": "https://www.wv.gov",
+        "title": ""
+      },
+      {
+        "url": "https://www.wv.gov",
+        "title": ""
+      },
+      {
+        "url": "https://www.wv.gov/agencies",
+        "title": "State Agency Directory"
+      },
+      {
+        "url": "https://www.wv.gov/services",
+        "title": "Online Services"
+      },
+      {
+        "url": "https://www.wv.gov/pages/state-phone-directory.aspx",
+        "title": "Phone Directory"
+      },
+      {
+        "url": "https://rec.wv.gov/",
+        "title": "WV Real Estate Commission Office"
+      },
+      {
+        "url": "https://rec.wv.gov/search",
+        "title": ""
+      },
+      {
+        "url": "https://rec.wv.gov/about-us",
+        "title": "Commission"
+      },
+      {
+        "url": "https://rec.wv.gov/our-staff",
+        "title": "Staff"
+      },
+      {
+        "url": "https://rec.wv.gov/staff/commissioners",
+        "title": "Meet the Commissioners"
+      },
+      {
+        "url": "https://rec.wv.gov/commission/disciplinary-actions",
+        "title": "Disciplinary Actions"
+      },
+      {
+        "url": "https://rec.wv.gov/annual-reports",
+        "title": "Annual Reports"
+      },
+      {
+        "url": "https://rec.wv.gov/active-licensee-rosters",
+        "title": "Active Licensee Rosters"
+      },
+      {
+        "url": "https://rec.wv.gov/resources",
+        "title": "Resources"
+      },
+      {
+        "url": "https://rec.wv.gov/events",
+        "title": "Meetings"
+      },
+      {
+        "url": "https://rec.wv.gov/events/archived",
+        "title": "Archived Meetings"
+      },
+      {
+        "url": "https://rec.wv.gov/licensing",
+        "title": "Licensing"
+      },
+      {
+        "url": "https://rec.wv.gov/education",
+        "title": "Education"
+      },
+      {
+        "url": "https://rec.wv.gov/education-requirements-licensure",
+        "title": "Education Requirements for Licensure"
+      },
+      {
+        "url": "https://rec.wv.gov/education/continuing-education",
+        "title": "Continuing Education"
+      },
+      {
+        "url": "https://rec.wv.gov/providers-and-instructors",
+        "title": "Providers and Instructors"
+      },
+      {
+        "url": "https://rec.wv.gov/education/wvrec-ce-broker",
+        "title": "WVREC CEBroker"
+      },
+      {
+        "url": "https://rec.wv.gov/forms",
+        "title": "Forms"
+      },
+      {
+        "url": "https://rec.wv.gov/change-filing-forms",
+        "title": "Change Filing Forms"
+      },
+      {
+        "url": "https://rec.wv.gov/forms/license-status-update-activeinactive",
+        "title": "License Status Update - Active/Inactive"
+      },
+      {
+        "url": "https://rec.wv.gov/additional-forms",
+        "title": "Additional Forms"
+      },
+      {
+        "url": "https://rec.wv.gov/forms/licensing-forms",
+        "title": "Licensing Forms"
+      },
+      {
+        "url": "https://rec.wv.gov/schedule-fees",
+        "title": "Schedule of Fees"
+      },
+      {
+        "url": "https://rec.wv.gov/law",
+        "title": "Law/Memos"
+      },
+      {
+        "url": "https://rec.wv.gov/lawmemos/approved-west-virginia-20-hr-law-courses",
+        "title": "Approved West Virginia 20-hr Law Courses"
+      },
+      {
+        "url": "https://rec.wv.gov/memos",
+        "title": "Memos"
+      },
+      {
+        "url": "https://rec.wv.gov/faq",
+        "title": "FAQ"
+      },
+      {
+        "url": "https://rec.wv.gov/",
+        "title": "Home"
+      },
+      {
+        "url": "https://rec.wv.gov/providers-and-instructors",
+        "title": "Providers & Instructors"
+      },
+      {
+        "url": "https://rec.wv.gov/licensing",
+        "title": "Licensing"
+      },
+      {
+        "url": "https://rec.wv.gov/national-criminal-background-check",
+        "title": "criminal background check​"
+      },
+      {
+        "url": "https://apps.wv.gov/REC/Licensing/Change/Change/Index",
+        "title": "REC Licensing- Change of Employing Broker"
+      },
+      {
+        "url": "https://rec.wv.gov/media/39/download?inline",
+        "title": "Change of Employing Broker Form"
+      },
+      {
+        "url": "https://rec.wv.gov/media/38/download?inline",
+        "title": "License Status ​Change​"
+      },
+      {
+        "url": "https://rec.wv.gov/media/37/download?inline",
+        "title": "Change of Company Addres"
+      },
+      {
+        "url": "https://rec.wv.gov/media/36/download?inline",
+        "title": "Change of Company Name"
+      },
+      {
+        "url": "https://rec.wv.gov/media/35/download?inline",
+        "title": "Change of Licensee Name​​"
+      },
+      {
+        "url": "https://rec.wv.gov/media/45/download?inline",
+        "title": "Verification of Sponsoring Broker​"
+      },
+      {
+        "url": "https://rec.wv.gov/media/32/download?inline",
+        "title": "Trust Fund Account"
+      },
+      {
+        "url": "https://rec.wv.gov/media/33/download?inline",
+        "title": "Waiver"
+      },
+      {
+        "url": "https://rec.wv.gov/media/42/download?inline",
+        "title": "Subordination Resolution"
+      },
+      {
+        "url": "https://rec.wv.gov/media/41/download?inline",
+        "title": "Irrevocable Consent​"
+      },
+      {
+        "url": "https://urldefense.com/v3/__https://docs.google.com/spreadsheets/d/1Ibdzw2Yx32TZkVixJpt21xlEzqpePpOCo43OF_uA4Kw/edit?usp=sharing__;!!A69Ausm6DtA!Yagzn3j76MJDMcRoXnGXIWhrlL67wTmCfhltIEvBTh6_5Nbha7lEtLQZOe3XGbCM9wV6ZOyu4QJ6LcVXVqNV95uJ1at5Jg$",
+        "title": "Closed Transactions​ Form"
+      },
+      {
+        "url": "https://rec.wv.gov/media/40/download?inline",
+        "title": "Affidavit of Broker's Recommendation​​​​"
+      },
+      {
+        "url": "https://rec.wv.gov/media/27/download?inline",
+        "title": "Branch Office Application​"
+      },
+      {
+        "url": "https://rec.wv.gov/media/28/download?inline",
+        "title": "Complaint Form"
+      },
+      {
+        "url": "https://rec.wv.gov/media/29/download?inline",
+        "title": "Application for Waiver of Initial Licensing Fee​​​​​"
+      },
+      {
+        "url": "https://rec.wv.gov/media/30/download?inline",
+        "title": "Notice of Agency"
+      },
+      {
+        "url": "https://rec.wv.gov/media/31/download?inline",
+        "title": "A Guide to Agency Relationships​"
+      },
+      {
+        "url": "https://wv.accessgov.com/rec/Forms/Page/contact-rec/contact-rec",
+        "title": "Write Us a Message"
+      },
+      {
+        "url": "https://rec.wv.gov/contact-us",
+        "title": "Contact Us"
+      },
+      {
+        "url": "https://rec.wv.gov/events",
+        "title": "Meetings"
+      },
+      {
+        "url": "https://rec.wv.gov/events/archived",
+        "title": "Archived Meetings"
+      },
+      {
+        "url": "https://www.facebook.com/West-Virginia-Real-Estate-Commission-413123258709336/",
+        "title": ""
+      },
+      {
+        "url": "https://wv.accessgov.com/rec/Forms/Page/contact-rec/contact-rec",
+        "title": ""
+      },
+      {
+        "url": "https://www.wv.gov/policies/Pages/default.aspx",
+        "title": "Privacy, Security and Accessibility"
+      },
+      {
+        "url": "https://www.wv.gov",
+        "title": "WV.gov"
+      },
+      {
+        "url": "https://www.usa.gov",
+        "title": "USA.gov"
+      }
+    ],
+    "text_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/e90616f0fcdcd79110caf91cad05900c25fc08b0d440005cf8ff2f685e8260ac.txt"
+  },
+  {
+    "requested_url": "https://www.mass.gov/lists/housing-court-forms",
+    "receipt": {
+      "url": "https://www.mass.gov/lists/housing-court-forms",
+      "kind": "source",
+      "checked_at": "2026-10-15T01:53:04.211651+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": "\"1792008689-gzip\"",
+      "last_modified": "Wed, 14 Oct 2026 20:11:29 GMT",
+      "status": "fetched",
+      "title": "Housing Court forms | Mass.gov",
+      "sha256": "652fe10bb25e9d3782a7c770fd9618093a517d333ecbf8e12a6d919f9649bed0",
+      "bytes": 250320,
+      "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/652fe10bb25e9d3782a7c770fd9618093a517d333ecbf8e12a6d919f9649bed0.body"
+    },
+    "title": "Housing Court forms | Mass.gov",
+    "links": [
+      {
+        "url": "https://www.mass.gov/lists/housing-court-forms",
+        "title": "Skip to main content"
+      },
+      {
+        "url": "https://www.mass.gov/massachusetts-state-organizations",
+        "title": "State Organizations"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "Mass.gov"
+      },
+      {
+        "url": "https://www.mass.gov/topics/health-social-services",
+        "title": "Health & Social Services"
+      },
+      {
+        "url": "https://www.mass.gov/topics/families-children",
+        "title": "Families & Children"
+      },
+      {
+        "url": "https://www.mass.gov/topics/housing-property",
+        "title": "Housing & Property"
+      },
+      {
+        "url": "https://www.mass.gov/topics/transportation",
+        "title": "Transportation"
+      },
+      {
+        "url": "https://www.mass.gov/topics/legal-justice",
+        "title": "Legal & Justice"
+      },
+      {
+        "url": "https://www.mass.gov/topics/public-safety",
+        "title": "Public Safety"
+      },
+      {
+        "url": "https://www.mass.gov/topics/energy",
+        "title": "Energy"
+      },
+      {
+        "url": "https://www.mass.gov/topics/climate-action",
+        "title": "Climate Action"
+      },
+      {
+        "url": "https://www.mass.gov/topics/environment",
+        "title": "Environment"
+      },
+      {
+        "url": "https://www.mass.gov/topics/taxes",
+        "title": "Taxes"
+      },
+      {
+        "url": "https://www.mass.gov/topics/unclaimed-property",
+        "title": "Unclaimed Property"
+      },
+      {
+        "url": "https://www.mass.gov/topics/vital-public-records",
+        "title": "Vital & Public Records"
+      },
+      {
+        "url": "https://www.mass.gov/topics/voting",
+        "title": "Voting"
+      },
+      {
+        "url": "https://www.mass.gov/topics/doing-business-in-massachusetts",
+        "title": "Doing Business in Massachusetts"
+      },
+      {
+        "url": "https://www.mass.gov/topics/professional-licenses-permits",
+        "title": "Professional Licenses & Permits"
+      },
+      {
+        "url": "https://www.mass.gov/topics/unemployment",
+        "title": "Unemployment"
+      },
+      {
+        "url": "https://www.mass.gov/topics/finding-a-job",
+        "title": "Finding a Job"
+      },
+      {
+        "url": "https://www.mass.gov/topics/taxes",
+        "title": "Taxes"
+      },
+      {
+        "url": "https://www.mass.gov/topics/workers-rights-safety",
+        "title": "Workers' Rights & Safety"
+      },
+      {
+        "url": "https://www.mass.gov/topics/industry-regulations",
+        "title": "Industry Regulations"
+      },
+      {
+        "url": "https://www.mass.gov/topics/state-employee-resources",
+        "title": "For State Employees"
+      },
+      {
+        "url": "https://www.mass.gov/topics/early-childhood-education-care",
+        "title": "Early Childhood Education & Care"
+      },
+      {
+        "url": "https://www.mass.gov/topics/elementary-secondary-schools",
+        "title": "Elementary & Secondary Schools"
+      },
+      {
+        "url": "https://www.mass.gov/topics/higher-education",
+        "title": "Higher Education"
+      },
+      {
+        "url": "https://www.mass.gov/topics/continuing-education",
+        "title": "Continuing Education"
+      },
+      {
+        "url": "https://www.mass.gov/topics/for-educators-administrators",
+        "title": "For Educators & Administrators"
+      },
+      {
+        "url": "https://www.mass.gov/topics/parks-recreation",
+        "title": "Parks & Recreation"
+      },
+      {
+        "url": "https://www.mass.gov/topics/fishing-hunting",
+        "title": "Fishing & Hunting"
+      },
+      {
+        "url": "https://www.mass.gov/topics/historic-sites",
+        "title": "Historic Sites"
+      },
+      {
+        "url": "https://www.mass.gov/topics/arts",
+        "title": "Arts"
+      },
+      {
+        "url": "https://www.mass.gov/topics/family-fun",
+        "title": "Family Fun"
+      },
+      {
+        "url": "https://www.mass.gov/topics/travel-options",
+        "title": "Travel Options"
+      },
+      {
+        "url": "https://www.mass.gov/topics/seasonal-activities",
+        "title": "Seasonal Activities"
+      },
+      {
+        "url": "https://www.mass.gov/topics/executive-branch",
+        "title": "Executive"
+      },
+      {
+        "url": "https://www.mass.gov/topics/constitutionals-independents",
+        "title": "Constitutionals & Independents"
+      },
+      {
+        "url": "https://www.mass.gov/topics/legislative-branch",
+        "title": "Legislative"
+      },
+      {
+        "url": "https://www.mass.gov/topics/judicial-branch",
+        "title": "Judicial"
+      },
+      {
+        "url": "https://www.mass.gov/topics/cities-towns",
+        "title": "Cities & Towns"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/massachusetts-state-organizations-a-to-z",
+        "title": "State Offices & Courts A-Z"
+      },
+      {
+        "url": "https://www.mass.gov/massachusetts-state-organizations",
+        "title": "State Organizations"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "Mass.gov"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": ""
+      },
+      {
+        "url": "https://www.mass.gov/orgs/massachusetts-court-system",
+        "title": "Massachusetts Court System"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court",
+        "title": "Housing Court"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/housing-court-resources",
+        "title": "Housing Court resources"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court",
+        "title": "Housing Court"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/massachusetts-court-system",
+        "title": "Massachusetts Court System"
+      },
+      {
+        "url": "https://get.adobe.com/reader/",
+        "title": "Adobe Acrobat Reader"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/what-to-do-if-you-cant-open-court-pdfs",
+        "title": "What to do if you can't open court PDFs"
+      },
+      {
+        "url": "https://www.mass.gov/lists/housing-court-forms",
+        "title": "Skip table of contents"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/sealing-eviction-court-records",
+        "title": "Sealing eviction court records"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court/locations",
+        "title": "local Housing Court location"
+      },
+      {
+        "url": "https://www.mass.gov/lists/trial-court-office-of-language-access-documents-and-forms",
+        "title": "Trial Court Office of Language Access"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/learn-about-court-service-centers",
+        "title": "Court Service Centers"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/housing-court-resources",
+        "title": "Lawyer for the Day programs"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/housing-court-resources",
+        "title": "Housing Court Resources"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court/locations",
+        "title": "local Housing Court location"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0030",
+        "title": "Affidavit of Compliance with G.L. c. 186, s. 31"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0001",
+        "title": "Affidavit of compliance with the eFiling requirements"
+      },
+      {
+        "url": "https://massachusetts.tylertech.cloud/SRL/SRL",
+        "title": "Small claims guide and file"
+      },
+      {
+        "url": "https://www.mass.gov/doc/statement-of-small-claims-and-notice-for-efiling-select-district-court-bmc-and-housing-court-divisions/download",
+        "title": "Statement of small claims and notice for eFiling (select District Court, BMC and Housing Court divisions) , Open PDF file, 679.67 KB"
+      },
+      {
+        "url": "https://www.mass.gov/doc/verification-of-defendants-address-for-efiling/download",
+        "title": "Verification of defendant's address for eFiling , Open PDF file, 731.09 KB"
+      },
+      {
+        "url": "https://www.mass.gov/lists/trial-court-efiling-forms",
+        "title": "More Trial Court eFiling forms"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court/locations",
+        "title": "local Housing Court location"
+      },
+      {
+        "url": "https://www.mass.gov/lists/trial-court-office-of-language-access-documents-and-forms",
+        "title": "Trial Court Office of Language Access"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/learn-about-court-service-centers",
+        "title": "Court Service Centers"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/housing-court-resources",
+        "title": "Lawyer for the Day programs"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/housing-court-resources",
+        "title": "Housing Court Resources"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court/locations",
+        "title": "local Housing Court location"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0019",
+        "title": "Civil Complaint"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0002",
+        "title": "Civil Contempt Complaint"
+      },
+      {
+        "url": "https://www.mass.gov/forms/civil-court-date-text-reminders",
+        "title": "Civil Court Date Text Reminders"
+      },
+      {
+        "url": "https://www.mass.gov/doc/military-affidavit/download",
+        "title": "Military Affidavit , Open PDF file, 967.82 KB"
+      },
+      {
+        "url": "https://www.mass.gov/doc/afadt-sktmilitary-affidavit-arabic/download",
+        "title": "العربية"
+      },
+      {
+        "url": "https://www.mass.gov/doc/diklarason-militar-juramentadu-military-affidavit/download",
+        "title": "Kriolu di Cabo Verde"
+      },
+      {
+        "url": "https://www.mass.gov/doc/junshixuanshishu-military-affidavit/download",
+        "title": "简体中文"
+      },
+      {
+        "url": "https://www.mass.gov/doc/junshixuanshishu-military-affidavit-0/download",
+        "title": "繁體中文"
+      },
+      {
+        "url": "https://www.mass.gov/doc/afidavi-milite-military-affidavit/download",
+        "title": "Kreyòl ayisyen"
+      },
+      {
+        "url": "https://www.mass.gov/doc/military-affidavit-in-khmer-likhitpnyjaakrpsyoodhaa/download",
+        "title": "ភាសាខ្មែរ"
+      },
+      {
+        "url": "https://www.mass.gov/doc/declaracao-militar-military-affidavit/download",
+        "title": "Português"
+      },
+      {
+        "url": "https://www.mass.gov/doc/voennyy-affidevit-military-affidavit/download",
+        "title": "Русский"
+      },
+      {
+        "url": "https://www.mass.gov/doc/declaracion-jurada-militarmilitary-affidavit/download",
+        "title": "Español"
+      },
+      {
+        "url": "https://www.mass.gov/doc/chung-nhan-quan-nhan-military-affidavit/download",
+        "title": "Tiếng Việt"
+      },
+      {
+        "url": "https://www.mass.gov/lists/housing-court-forms",
+        "title": "Translate labels"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/military-affidavit-instructions-for-self-represented-litigants",
+        "title": "Military Affidavit Instructions for Self-Represented Litigants"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0005",
+        "title": "Request for Default Under Rule 55 (a)"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0009",
+        "title": "Verified Complaint and Request for Emergency Relief"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0012",
+        "title": "Waiver of Jury Trial"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court/locations",
+        "title": "local Housing Court location"
+      },
+      {
+        "url": "https://www.mass.gov/lists/trial-court-office-of-language-access-documents-and-forms",
+        "title": "Trial Court Office of Language Access"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/learn-about-court-service-centers",
+        "title": "Court Service Centers"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/housing-court-resources",
+        "title": "Lawyer for the Day programs"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/housing-court-resources",
+        "title": "Housing Court Resources"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court/locations",
+        "title": "local Housing Court location"
+      },
+      {
+        "url": "https://www.mass.gov/small-claims",
+        "title": "Small claims eligibility and procedure"
+      },
+      {
+        "url": "https://www.mass.gov/lists/small-claims-court-forms",
+        "title": "Small claims court forms"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court/locations",
+        "title": "local Housing Court location"
+      },
+      {
+        "url": "https://www.mass.gov/lists/trial-court-office-of-language-access-documents-and-forms",
+        "title": "Trial Court Office of Language Access"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/learn-about-court-service-centers",
+        "title": "Court Service Centers"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/housing-court-resources",
+        "title": "Lawyer for the Day programs"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/housing-court-resources",
+        "title": "Housing Court Resources"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court/locations",
+        "title": "local Housing Court location"
+      },
+      {
+        "url": "https://www.mass.gov/doc/summary-process-summons-and-complaint-sample/download",
+        "title": "Summary Process Summons and Complaint Sample , Open PDF file, 897.07 KB"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0030",
+        "title": "Affidavit of Compliance with G.L. c. 186, s. 31"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0018",
+        "title": "Joint Uniform Summary Process Rule 10 and Military Affidavit"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0006",
+        "title": "Motion for Issuance of Execution"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0008",
+        "title": "Motion to Vacate Default Judgment (Remove Default)"
+      },
+      {
+        "url": "https://www.mass.gov/doc/notice-of-transfer-to-housing-court-gl-c-185c-ss-20/download",
+        "title": "Notice of Transfer to Housing Court - G.L. c. 185C, § 20 , Open PDF file, 1.41 MB"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0011",
+        "title": "Notice of Voluntary Dismissal - Housing Court"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0018",
+        "title": "Request for Issuance of Execution"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0012",
+        "title": "Waiver of Jury Trial"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0090",
+        "title": "Summary Process (Eviction) Answer Form – Housing Court"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/TC0085",
+        "title": "Residential Summary Process (Eviction) Notice Of Appeal Of Judgment"
+      },
+      {
+        "url": "https://www.mass.gov/doc/agreement-for-judgment-0/download",
+        "title": "Agreement for Judgment , Open PDF file, 1.89 MB"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court/locations",
+        "title": "local Housing Court location"
+      },
+      {
+        "url": "https://www.mass.gov/lists/trial-court-office-of-language-access-documents-and-forms",
+        "title": "Trial Court Office of Language Access"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/learn-about-court-service-centers",
+        "title": "Court Service Centers"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/housing-court-resources",
+        "title": "Lawyer for the Day programs"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/housing-court-resources",
+        "title": "Housing Court Resources"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court/locations",
+        "title": "local Housing Court location"
+      },
+      {
+        "url": "https://www.mass.gov/doc/supplementary-process-application-and-summons-efiling-only/download",
+        "title": "Supplementary process application and summons (eFiling only) , Open PDF file, 872.44 KB"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court/locations",
+        "title": "local Housing Court location"
+      },
+      {
+        "url": "https://www.mass.gov/lists/trial-court-office-of-language-access-documents-and-forms",
+        "title": "Trial Court Office of Language Access"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/learn-about-court-service-centers",
+        "title": "Court Service Centers"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/housing-court-resources",
+        "title": "Lawyer for the Day programs"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/housing-court-resources",
+        "title": "Housing Court Resources"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court/locations",
+        "title": "local Housing Court location"
+      },
+      {
+        "url": "https://www.mass.gov/doc/30a-complaint-for-judicial-review/download",
+        "title": "30A Complaint for Judicial Review , Open PDF file, 1.91 MB"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0014",
+        "title": "Acknowledgment of Satisfaction of Judgment"
+      },
+      {
+        "url": "https://www.mass.gov/doc/cd-copy-request-order-form/download",
+        "title": "CD Copy Request Order Form , Open PDF file, 86.58 KB"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0020",
+        "title": "eDelivery (Email) Request Form"
+      },
+      {
+        "url": "https://www.mass.gov/doc/filing-of-impounded-information/download",
+        "title": "Filing of Impounded Information , Open PDF file, 203.98 KB"
+      },
+      {
+        "url": "https://www.mass.gov/indigency-waiver-of-court-fees",
+        "title": "Indigency (waiver of fees)"
+      },
+      {
+        "url": "https://www.mass.gov/lists/court-forms-for-indigency-waiver-of-court-fees",
+        "title": "Indigency court forms"
+      },
+      {
+        "url": "https://www.mass.gov/lists/limited-assistance-representation-lar-court-forms",
+        "title": "Limited Assistance Representation (LAR) court forms"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0007",
+        "title": "Motion"
+      },
+      {
+        "url": "https://www.mass.gov/doc/notice-of-appearance/download",
+        "title": "Notice of Appearance , Open PDF file, 782.97 KB"
+      },
+      {
+        "url": "https://www.mass.gov/doc/notice-of-appearance-tmkhmla-mama-lwthmla-rasha/download",
+        "title": "العربية"
+      },
+      {
+        "url": "https://www.mass.gov/doc/notifikason-di-konparisensa-notice-of-appearance/download",
+        "title": "Kriolu di Cabo Verde"
+      },
+      {
+        "url": "https://www.mass.gov/doc/chutingtongzhi-notice-of-appearance/download",
+        "title": "简体中文"
+      },
+      {
+        "url": "https://www.mass.gov/doc/chutingtongzhi-notice-of-appearance-0/download",
+        "title": "繁體中文"
+      },
+      {
+        "url": "https://www.mass.gov/doc/avi-konparisyon-notice-of-appearance/download",
+        "title": "Kreyòl ayisyen"
+      },
+      {
+        "url": "https://www.mass.gov/doc/secktiijuuntmnnyngqmbiikaarpnghaanyvttmaan-notice-of-appearance/download",
+        "title": "ភាសាខ្មែរ"
+      },
+      {
+        "url": "https://www.mass.gov/doc/termo-de-representacao-processual-notice-of-appearance/download",
+        "title": "Português"
+      },
+      {
+        "url": "https://www.mass.gov/doc/uvedomlenie-o-yavke-notice-of-appearance/download",
+        "title": "Русский"
+      },
+      {
+        "url": "https://www.mass.gov/doc/aviso-de-comparecencia-notice-of-appearance/download",
+        "title": "Español"
+      },
+      {
+        "url": "https://www.mass.gov/doc/thong-bao-ve-su-hien-dien-notice-of-appearance/download",
+        "title": "Tiếng Việt"
+      },
+      {
+        "url": "https://www.mass.gov/lists/housing-court-forms",
+        "title": "Translate labels"
+      },
+      {
+        "url": "https://www.mass.gov/doc/request-to-correct-clerical-error-in-electronic-docket-entry-trial-court-rule-xiv-rule-6/download",
+        "title": "Request to Correct Clerical Error in Electronic Docket Entry (Trial Court Rule XIV, Rule 6) , Open PDF file, 1.03 MB"
+      },
+      {
+        "url": "https://courtforms.jud.state.ma.us/publicforms/HC0012",
+        "title": "Waiver of Jury Trial"
+      },
+      {
+        "url": "https://www.mass.gov/doc/request-for-notice-to-show-cause-for-contempt/download",
+        "title": "Request for Notice to Show Cause for Contempt , Open PDF file, 1.93 MB"
+      },
+      {
+        "url": "https://www.mass.gov/doc/motion-to-withdraw-appearance/download",
+        "title": "Motion to Withdraw Appearance , Open PDF file, 1.59 MB"
+      },
+      {
+        "url": "https://www.mass.gov/doc/housing-court-agreement/download",
+        "title": "Housing Court Agreement , Open PDF file, 3.67 MB"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court/locations",
+        "title": "View a list of all Housing Court locations"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court/locations",
+        "title": "View a list of all Housing Court locations"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/housing-court-filing-fees",
+        "title": "Housing Court filing fees"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/glossary-of-court-terms",
+        "title": "Glossary of court terms"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court",
+        "title": "Contact the Housing Court"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court",
+        "title": "Contact the Housing Court"
+      },
+      {
+        "url": "https://www.mass.gov/orgs/housing-court",
+        "title": "Contact the Housing Court"
+      },
+      {
+        "url": "https://www.mass.gov/user-panel?utm_source=survey",
+        "title": "join our user panel"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "Mass.gov"
+      },
+      {
+        "url": "https://www.mass.gov/massachusetts-state-organizations",
+        "title": "State Organizations"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/enterprise-digital-accessibility-statement",
+        "title": "Digital Accessibility Statement"
+      },
+      {
+        "url": "https://www.mass.gov/massgov-privacy-policy",
+        "title": "Privacy Policy"
+      },
+      {
+        "url": "https://www.mass.gov/massgov-site-policies",
+        "title": "Site Policies"
+      },
+      {
+        "url": "https://www.mass.gov/topics/public-records-requests",
+        "title": "Public Records Requests"
+      },
+      {
+        "url": "https://www.mass.gov/lists/housing-court-forms",
+        "title": "Feedback"
+      }
+    ],
+    "text_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/652fe10bb25e9d3782a7c770fd9618093a517d333ecbf8e12a6d919f9649bed0.txt"
+  },
+  {
+    "requested_url": "https://www.mass.gov/massgov-site-policies",
+    "receipt": {
+      "url": "https://www.mass.gov/massgov-site-policies",
+      "kind": "source",
+      "checked_at": "2026-10-15T01:53:33.027907+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": "\"1792003578-gzip\"",
+      "last_modified": "Wed, 14 Oct 2026 18:46:18 GMT",
+      "status": "fetched",
+      "title": "Mass.gov Site Policies | Mass.gov",
+      "sha256": "0b3bd1616b3018af4fb2f5d53e660820f9161b09770817c25968be3c4f1889d8",
+      "bytes": 165116,
+      "body_path": "evidence/http/2026-10-15T01-53-33.002393+00-00/0b3bd1616b3018af4fb2f5d53e660820f9161b09770817c25968be3c4f1889d8.body"
+    },
+    "title": "Mass.gov Site Policies | Mass.gov",
+    "links": [
+      {
+        "url": "https://www.mass.gov/massgov-site-policies",
+        "title": "Skip to main content"
+      },
+      {
+        "url": "https://www.mass.gov/massachusetts-state-organizations",
+        "title": "State Organizations"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "Mass.gov"
+      },
+      {
+        "url": "https://www.mass.gov/topics/health-social-services",
+        "title": "Health & Social Services"
+      },
+      {
+        "url": "https://www.mass.gov/topics/families-children",
+        "title": "Families & Children"
+      },
+      {
+        "url": "https://www.mass.gov/topics/housing-property",
+        "title": "Housing & Property"
+      },
+      {
+        "url": "https://www.mass.gov/topics/transportation",
+        "title": "Transportation"
+      },
+      {
+        "url": "https://www.mass.gov/topics/legal-justice",
+        "title": "Legal & Justice"
+      },
+      {
+        "url": "https://www.mass.gov/topics/public-safety",
+        "title": "Public Safety"
+      },
+      {
+        "url": "https://www.mass.gov/topics/energy",
+        "title": "Energy"
+      },
+      {
+        "url": "https://www.mass.gov/topics/climate-action",
+        "title": "Climate Action"
+      },
+      {
+        "url": "https://www.mass.gov/topics/environment",
+        "title": "Environment"
+      },
+      {
+        "url": "https://www.mass.gov/topics/taxes",
+        "title": "Taxes"
+      },
+      {
+        "url": "https://www.mass.gov/topics/unclaimed-property",
+        "title": "Unclaimed Property"
+      },
+      {
+        "url": "https://www.mass.gov/topics/vital-public-records",
+        "title": "Vital & Public Records"
+      },
+      {
+        "url": "https://www.mass.gov/topics/voting",
+        "title": "Voting"
+      },
+      {
+        "url": "https://www.mass.gov/topics/doing-business-in-massachusetts",
+        "title": "Doing Business in Massachusetts"
+      },
+      {
+        "url": "https://www.mass.gov/topics/professional-licenses-permits",
+        "title": "Professional Licenses & Permits"
+      },
+      {
+        "url": "https://www.mass.gov/topics/unemployment",
+        "title": "Unemployment"
+      },
+      {
+        "url": "https://www.mass.gov/topics/finding-a-job",
+        "title": "Finding a Job"
+      },
+      {
+        "url": "https://www.mass.gov/topics/taxes",
+        "title": "Taxes"
+      },
+      {
+        "url": "https://www.mass.gov/topics/workers-rights-safety",
+        "title": "Workers' Rights & Safety"
+      },
+      {
+        "url": "https://www.mass.gov/topics/industry-regulations",
+        "title": "Industry Regulations"
+      },
+      {
+        "url": "https://www.mass.gov/topics/state-employee-resources",
+        "title": "For State Employees"
+      },
+      {
+        "url": "https://www.mass.gov/topics/early-childhood-education-care",
+        "title": "Early Childhood Education & Care"
+      },
+      {
+        "url": "https://www.mass.gov/topics/elementary-secondary-schools",
+        "title": "Elementary & Secondary Schools"
+      },
+      {
+        "url": "https://www.mass.gov/topics/higher-education",
+        "title": "Higher Education"
+      },
+      {
+        "url": "https://www.mass.gov/topics/continuing-education",
+        "title": "Continuing Education"
+      },
+      {
+        "url": "https://www.mass.gov/topics/for-educators-administrators",
+        "title": "For Educators & Administrators"
+      },
+      {
+        "url": "https://www.mass.gov/topics/parks-recreation",
+        "title": "Parks & Recreation"
+      },
+      {
+        "url": "https://www.mass.gov/topics/fishing-hunting",
+        "title": "Fishing & Hunting"
+      },
+      {
+        "url": "https://www.mass.gov/topics/historic-sites",
+        "title": "Historic Sites"
+      },
+      {
+        "url": "https://www.mass.gov/topics/arts",
+        "title": "Arts"
+      },
+      {
+        "url": "https://www.mass.gov/topics/family-fun",
+        "title": "Family Fun"
+      },
+      {
+        "url": "https://www.mass.gov/topics/travel-options",
+        "title": "Travel Options"
+      },
+      {
+        "url": "https://www.mass.gov/topics/seasonal-activities",
+        "title": "Seasonal Activities"
+      },
+      {
+        "url": "https://www.mass.gov/topics/executive-branch",
+        "title": "Executive"
+      },
+      {
+        "url": "https://www.mass.gov/topics/constitutionals-independents",
+        "title": "Constitutionals & Independents"
+      },
+      {
+        "url": "https://www.mass.gov/topics/legislative-branch",
+        "title": "Legislative"
+      },
+      {
+        "url": "https://www.mass.gov/topics/judicial-branch",
+        "title": "Judicial"
+      },
+      {
+        "url": "https://www.mass.gov/topics/cities-towns",
+        "title": "Cities & Towns"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/massachusetts-state-organizations-a-to-z",
+        "title": "State Offices & Courts A-Z"
+      },
+      {
+        "url": "https://www.mass.gov/massachusetts-state-organizations",
+        "title": "State Organizations"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "Mass.gov"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "Mass.gov"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "www.mass.gov"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "www.mass.gov."
+      },
+      {
+        "url": "https://www.mass.gov/policy-advisory/massgov-privacy-policy",
+        "title": "Privacy Policy"
+      },
+      {
+        "url": "https://www.mass.gov/massgov-terms-of-use",
+        "title": "Terms of Use"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/massgov-social-media-policy",
+        "title": "Social Media Policy"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/find-old-massgov-content",
+        "title": "Find old Mass.gov Content"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/enterprise-digital-accessibility-statement",
+        "title": "Web Accessibility Statement"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "Mass.gov"
+      },
+      {
+        "url": "https://www.mass.gov/massachusetts-state-organizations",
+        "title": "State Organizations"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/enterprise-digital-accessibility-statement",
+        "title": "Digital Accessibility Statement"
+      },
+      {
+        "url": "https://www.mass.gov/massgov-privacy-policy",
+        "title": "Privacy Policy"
+      },
+      {
+        "url": "https://www.mass.gov/massgov-site-policies",
+        "title": "Site Policies"
+      },
+      {
+        "url": "https://www.mass.gov/topics/public-records-requests",
+        "title": "Public Records Requests"
+      },
+      {
+        "url": "https://www.mass.gov/massgov-site-policies",
+        "title": "Feedback"
+      }
+    ],
+    "text_path": "evidence/http/2026-10-15T01-53-33.002393+00-00/0b3bd1616b3018af4fb2f5d53e660820f9161b09770817c25968be3c4f1889d8.txt"
+  },
+  {
+    "requested_url": "https://www.wv.gov/policies/Pages/default.aspx",
+    "receipt": {
+      "url": "https://www.wv.gov/policies",
+      "kind": "source",
+      "checked_at": "2026-10-15T01:53:41.819911+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": "W/\"1792028403\"",
+      "last_modified": "Thu, 15 Oct 2026 01:40:03 GMT",
+      "status": "fetched",
+      "title": "Policies | State of West Virginia",
+      "sha256": "4e1355a435496198567d90b44d2e29ab0ebcf5c4cd43385fe660985b853db758",
+      "bytes": 25918,
+      "body_path": "evidence/http/2026-10-15T01-53-33.002393+00-00/4e1355a435496198567d90b44d2e29ab0ebcf5c4cd43385fe660985b853db758.body"
+    },
+    "title": "Policies | State of West Virginia",
+    "links": [
+      {
+        "url": "https://www.wv.gov/policies",
+        "title": "Skip to main content"
+      },
+      {
+        "url": "https://www.wv.gov/agencies",
+        "title": "State Agency Directory"
+      },
+      {
+        "url": "https://www.wv.gov/services",
+        "title": "Online Services"
+      },
+      {
+        "url": "https://www.wv.gov/state-phone-directory",
+        "title": "Phone Directory"
+      },
+      {
+        "url": "https://www.wv.gov/",
+        "title": "State of West Virginia"
+      },
+      {
+        "url": "https://www.wv.gov/business",
+        "title": "Business"
+      },
+      {
+        "url": "https://www.wv.gov/education",
+        "title": "Education"
+      },
+      {
+        "url": "https://www.wv.gov/government",
+        "title": "Government"
+      },
+      {
+        "url": "https://wvtourism.com",
+        "title": "Tourism"
+      },
+      {
+        "url": "https://www.wv.gov/search",
+        "title": ""
+      },
+      {
+        "url": "https://www.wv.gov/",
+        "title": "Home"
+      },
+      {
+        "url": "https://www.wv.gov/policies/accessibility",
+        "title": "Accessibility Statement"
+      },
+      {
+        "url": "https://www.wv.gov/policies/disclaimer",
+        "title": "Content Disclaimer"
+      },
+      {
+        "url": "https://www.wv.gov/policies/legal-notices",
+        "title": "Legal Notices"
+      },
+      {
+        "url": "https://www.wv.gov/policies/link-policy",
+        "title": "Link Policy"
+      },
+      {
+        "url": "https://www.wv.gov/privacy-policy",
+        "title": "Privacy Policy"
+      },
+      {
+        "url": "https://www.wv.gov/policies/security",
+        "title": "Security Policy"
+      },
+      {
+        "url": "https://www.wv.gov/about-us",
+        "title": "About Us"
+      },
+      {
+        "url": "https://www.wv.gov/faq",
+        "title": "Frequently Asked Questions"
+      },
+      {
+        "url": "https://www.wv.gov/help-center",
+        "title": "Help Center and Live Chat"
+      },
+      {
+        "url": "https://www.wv.gov/policies",
+        "title": "Policies"
+      },
+      {
+        "url": "https://www.wv.gov/help-center",
+        "title": "Contact Us"
+      },
+      {
+        "url": "https://www.wv.gov/help-center",
+        "title": ""
+      },
+      {
+        "url": "https://www.facebook.com/wvgov",
+        "title": ""
+      },
+      {
+        "url": "https://www.wv.gov/policies/Pages/default.aspx",
+        "title": "Privacy, Security and Accessibility"
+      },
+      {
+        "url": "https://www.wv.gov",
+        "title": "WV.gov"
+      },
+      {
+        "url": "https://www.usa.gov",
+        "title": "USA.gov"
+      }
+    ],
+    "text_path": "evidence/http/2026-10-15T01-53-33.002393+00-00/4e1355a435496198567d90b44d2e29ab0ebcf5c4cd43385fe660985b853db758.txt"
+  },
+  {
+    "requested_url": "https://www.mass.gov/massgov-terms-of-use",
+    "receipt": {
+      "url": "https://www.mass.gov/massgov-terms-of-use",
+      "kind": "source",
+      "checked_at": "2026-10-15T01:54:00.568574+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": "\"1792007301-gzip\"",
+      "last_modified": "Wed, 14 Oct 2026 19:48:21 GMT",
+      "status": "fetched",
+      "title": "Mass.gov Terms of Use | Mass.gov",
+      "sha256": "2a0658e0076d639be9583a26e3ab0f473f2d04c287660380f4997d8416c317d6",
+      "bytes": 173841,
+      "body_path": "evidence/http/2026-10-15T01-54-00.542922+00-00/2a0658e0076d639be9583a26e3ab0f473f2d04c287660380f4997d8416c317d6.body"
+    },
+    "title": "Mass.gov Terms of Use | Mass.gov",
+    "links": [
+      {
+        "url": "https://www.mass.gov/massgov-terms-of-use",
+        "title": "Skip to main content"
+      },
+      {
+        "url": "https://www.mass.gov/massachusetts-state-organizations",
+        "title": "State Organizations"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "Mass.gov"
+      },
+      {
+        "url": "https://www.mass.gov/topics/health-social-services",
+        "title": "Health & Social Services"
+      },
+      {
+        "url": "https://www.mass.gov/topics/families-children",
+        "title": "Families & Children"
+      },
+      {
+        "url": "https://www.mass.gov/topics/housing-property",
+        "title": "Housing & Property"
+      },
+      {
+        "url": "https://www.mass.gov/topics/transportation",
+        "title": "Transportation"
+      },
+      {
+        "url": "https://www.mass.gov/topics/legal-justice",
+        "title": "Legal & Justice"
+      },
+      {
+        "url": "https://www.mass.gov/topics/public-safety",
+        "title": "Public Safety"
+      },
+      {
+        "url": "https://www.mass.gov/topics/energy",
+        "title": "Energy"
+      },
+      {
+        "url": "https://www.mass.gov/topics/climate-action",
+        "title": "Climate Action"
+      },
+      {
+        "url": "https://www.mass.gov/topics/environment",
+        "title": "Environment"
+      },
+      {
+        "url": "https://www.mass.gov/topics/taxes",
+        "title": "Taxes"
+      },
+      {
+        "url": "https://www.mass.gov/topics/unclaimed-property",
+        "title": "Unclaimed Property"
+      },
+      {
+        "url": "https://www.mass.gov/topics/vital-public-records",
+        "title": "Vital & Public Records"
+      },
+      {
+        "url": "https://www.mass.gov/topics/voting",
+        "title": "Voting"
+      },
+      {
+        "url": "https://www.mass.gov/topics/doing-business-in-massachusetts",
+        "title": "Doing Business in Massachusetts"
+      },
+      {
+        "url": "https://www.mass.gov/topics/professional-licenses-permits",
+        "title": "Professional Licenses & Permits"
+      },
+      {
+        "url": "https://www.mass.gov/topics/unemployment",
+        "title": "Unemployment"
+      },
+      {
+        "url": "https://www.mass.gov/topics/finding-a-job",
+        "title": "Finding a Job"
+      },
+      {
+        "url": "https://www.mass.gov/topics/taxes",
+        "title": "Taxes"
+      },
+      {
+        "url": "https://www.mass.gov/topics/workers-rights-safety",
+        "title": "Workers' Rights & Safety"
+      },
+      {
+        "url": "https://www.mass.gov/topics/industry-regulations",
+        "title": "Industry Regulations"
+      },
+      {
+        "url": "https://www.mass.gov/topics/state-employee-resources",
+        "title": "For State Employees"
+      },
+      {
+        "url": "https://www.mass.gov/topics/early-childhood-education-care",
+        "title": "Early Childhood Education & Care"
+      },
+      {
+        "url": "https://www.mass.gov/topics/elementary-secondary-schools",
+        "title": "Elementary & Secondary Schools"
+      },
+      {
+        "url": "https://www.mass.gov/topics/higher-education",
+        "title": "Higher Education"
+      },
+      {
+        "url": "https://www.mass.gov/topics/continuing-education",
+        "title": "Continuing Education"
+      },
+      {
+        "url": "https://www.mass.gov/topics/for-educators-administrators",
+        "title": "For Educators & Administrators"
+      },
+      {
+        "url": "https://www.mass.gov/topics/parks-recreation",
+        "title": "Parks & Recreation"
+      },
+      {
+        "url": "https://www.mass.gov/topics/fishing-hunting",
+        "title": "Fishing & Hunting"
+      },
+      {
+        "url": "https://www.mass.gov/topics/historic-sites",
+        "title": "Historic Sites"
+      },
+      {
+        "url": "https://www.mass.gov/topics/arts",
+        "title": "Arts"
+      },
+      {
+        "url": "https://www.mass.gov/topics/family-fun",
+        "title": "Family Fun"
+      },
+      {
+        "url": "https://www.mass.gov/topics/travel-options",
+        "title": "Travel Options"
+      },
+      {
+        "url": "https://www.mass.gov/topics/seasonal-activities",
+        "title": "Seasonal Activities"
+      },
+      {
+        "url": "https://www.mass.gov/topics/executive-branch",
+        "title": "Executive"
+      },
+      {
+        "url": "https://www.mass.gov/topics/constitutionals-independents",
+        "title": "Constitutionals & Independents"
+      },
+      {
+        "url": "https://www.mass.gov/topics/legislative-branch",
+        "title": "Legislative"
+      },
+      {
+        "url": "https://www.mass.gov/topics/judicial-branch",
+        "title": "Judicial"
+      },
+      {
+        "url": "https://www.mass.gov/topics/cities-towns",
+        "title": "Cities & Towns"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/massachusetts-state-organizations-a-to-z",
+        "title": "State Offices & Courts A-Z"
+      },
+      {
+        "url": "https://www.mass.gov/massachusetts-state-organizations",
+        "title": "State Organizations"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "Mass.gov"
+      },
+      {
+        "url": "https://www.mass.gov/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/massgov-privacy-policy",
+        "title": "Mass.gov Privacy Policy"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/massgov-social-media-policy",
+        "title": "our social media policy"
+      },
+      {
+        "url": "http://creativecommons.org/licenses/",
+        "title": "http://creativecommons.org/licenses/"
+      },
+      {
+        "url": "https://www.mass.gov/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/policy-advisory/massgov-privacy-policy",
+        "title": "Mass.gov's privacy policy"
+      },
+      {
+        "url": "https://www.mass.gov/",
+        "title": "Mass.gov"
+      },
+      {
+        "url": "https://www.mass.gov/massachusetts-state-organizations",
+        "title": "State Organizations"
+      },
+      {
+        "url": "https://www.mass.gov/info-details/enterprise-digital-accessibility-statement",
+        "title": "Digital Accessibility Statement"
+      },
+      {
+        "url": "https://www.mass.gov/massgov-privacy-policy",
+        "title": "Privacy Policy"
+      },
+      {
+        "url": "https://www.mass.gov/massgov-site-policies",
+        "title": "Site Policies"
+      },
+      {
+        "url": "https://www.mass.gov/topics/public-records-requests",
+        "title": "Public Records Requests"
+      },
+      {
+        "url": "https://www.mass.gov/massgov-terms-of-use",
+        "title": "Feedback"
+      }
+    ],
+    "text_path": "evidence/http/2026-10-15T01-54-00.542922+00-00/2a0658e0076d639be9583a26e3ab0f473f2d04c287660380f4997d8416c317d6.txt"
+  },
+  {
+    "requested_url": "https://www.wv.gov/policies/legal-notices",
+    "receipt": {
+      "url": "https://www.wv.gov/policies/legal-notices",
+      "kind": "source",
+      "checked_at": "2026-10-15T02:00:57.732765+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": "W/\"1792029544\"",
+      "last_modified": "Thu, 15 Oct 2026 01:59:04 GMT",
+      "status": "fetched",
+      "title": "Legal Notices | State of West Virginia",
+      "sha256": "a6e997328124356d9fa5beb8bbdb7b59ccc25e9318d1abf75ecb874dc51a7e2e",
+      "bytes": 29791,
+      "body_path": "evidence/http/2026-10-15T02-00-57.715029+00-00/a6e997328124356d9fa5beb8bbdb7b59ccc25e9318d1abf75ecb874dc51a7e2e.body"
+    },
+    "title": "Legal Notices | State of West Virginia",
+    "links": [
+      {
+        "url": "https://www.wv.gov/policies/legal-notices",
+        "title": "Skip to main content"
+      },
+      {
+        "url": "https://www.wv.gov/agencies",
+        "title": "State Agency Directory"
+      },
+      {
+        "url": "https://www.wv.gov/services",
+        "title": "Online Services"
+      },
+      {
+        "url": "https://www.wv.gov/state-phone-directory",
+        "title": "Phone Directory"
+      },
+      {
+        "url": "https://www.wv.gov/",
+        "title": "State of West Virginia"
+      },
+      {
+        "url": "https://www.wv.gov/business",
+        "title": "Business"
+      },
+      {
+        "url": "https://www.wv.gov/education",
+        "title": "Education"
+      },
+      {
+        "url": "https://www.wv.gov/government",
+        "title": "Government"
+      },
+      {
+        "url": "https://wvtourism.com",
+        "title": "Tourism"
+      },
+      {
+        "url": "https://www.wv.gov/search",
+        "title": ""
+      },
+      {
+        "url": "https://www.wv.gov/",
+        "title": "Home"
+      },
+      {
+        "url": "https://www.wv.gov/policies",
+        "title": "Policies"
+      },
+      {
+        "url": "https://www.wv.gov/about-us",
+        "title": "About Us"
+      },
+      {
+        "url": "https://www.wv.gov/faq",
+        "title": "Frequently Asked Questions"
+      },
+      {
+        "url": "https://www.wv.gov/help-center",
+        "title": "Help Center and Live Chat"
+      },
+      {
+        "url": "https://www.wv.gov/policies",
+        "title": "Policies"
+      },
+      {
+        "url": "https://www.wv.gov/help-center",
+        "title": "Contact Us"
+      },
+      {
+        "url": "https://www.wv.gov/help-center",
+        "title": ""
+      },
+      {
+        "url": "https://www.facebook.com/wvgov",
+        "title": ""
+      },
+      {
+        "url": "https://www.wv.gov/policies/Pages/default.aspx",
+        "title": "Privacy, Security and Accessibility"
+      },
+      {
+        "url": "https://www.wv.gov",
+        "title": "WV.gov"
+      },
+      {
+        "url": "https://www.usa.gov",
+        "title": "USA.gov"
+      }
+    ],
+    "text_path": "evidence/http/2026-10-15T02-00-57.715029+00-00/a6e997328124356d9fa5beb8bbdb7b59ccc25e9318d1abf75ecb874dc51a7e2e.txt"
+  }
+]

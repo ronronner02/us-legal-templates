@@ -1,0 +1,243 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T02:19:18.342Z",
+  "url": "http://127.0.0.1:8768/index.html",
+  "checks": [
+    {
+      "check": "initial",
+      "visible": 25,
+      "status": "passed"
+    },
+    {
+      "check": "state MA",
+      "visible": 16,
+      "status": "passed"
+    },
+    {
+      "check": "state WV",
+      "visible": 9,
+      "status": "passed"
+    },
+    {
+      "check": "clear state",
+      "visible": 25,
+      "status": "passed"
+    },
+    {
+      "check": "category Court and general",
+      "visible": 16,
+      "status": "passed"
+    },
+    {
+      "check": "category Real estate",
+      "visible": 9,
+      "status": "passed"
+    },
+    {
+      "check": "clear category",
+      "visible": 25,
+      "status": "passed"
+    },
+    {
+      "check": "use consumer_guidance",
+      "visible": 1,
+      "status": "passed"
+    },
+    {
+      "check": "use court_procedural_form",
+      "visible": 14,
+      "status": "passed"
+    },
+    {
+      "check": "use efiling_only",
+      "visible": 1,
+      "status": "passed"
+    },
+    {
+      "check": "use real_estate_regulatory_form",
+      "visible": 8,
+      "status": "passed"
+    },
+    {
+      "check": "use sample_only_not_filing_ready",
+      "visible": 1,
+      "status": "passed"
+    },
+    {
+      "check": "clear use",
+      "visible": 25,
+      "status": "passed"
+    },
+    {
+      "check": "search trust fund",
+      "visible": 2,
+      "status": "passed"
+    },
+    {
+      "check": "combined filters no matches",
+      "visible": 0,
+      "status": "passed"
+    },
+    {
+      "check": "clear all filters",
+      "visible": 25,
+      "status": "passed"
+    }
+  ],
+  "original_urls_checked": 25,
+  "documents": [
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/30a-complaint-judicial-review-2099e1347686.pdf",
+      "status": 200,
+      "bytes": 2005062,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/housing-court-agreement-judgment-512e56339643.pdf",
+      "status": 200,
+      "bytes": 1982848,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/express-waiver-b9c080c266ff.pdf",
+      "status": 200,
+      "bytes": 330415,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/filing-impounded-information-9a9936b6373f.pdf",
+      "status": 200,
+      "bytes": 208873,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/housing-court-financial-statement-156abeb6706d.pdf",
+      "status": 200,
+      "bytes": 270965,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/housing-court-agreement-7767cab38a8b.pdf",
+      "status": 200,
+      "bytes": 3847765,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/military-affidavit-4e6bd38c43d4.pdf",
+      "status": 200,
+      "bytes": 991047,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/motion-withdraw-appearance-5e5959cf7ca9.pdf",
+      "status": 200,
+      "bytes": 1664690,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/notice-appearance-7c4b5a20f1a1.pdf",
+      "status": 200,
+      "bytes": 801764,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/notice-transfer-housing-court-c272e51ccb5b.pdf",
+      "status": 200,
+      "bytes": 1479925,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/request-notice-show-cause-contempt-90e82cfaceb0.pdf",
+      "status": 200,
+      "bytes": 2023106,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/correct-clerical-docket-error-336a607ff458.pdf",
+      "status": 200,
+      "bytes": 1082948,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/summary-process-contempt-summons-dd64f5e34b7b.pdf",
+      "status": 200,
+      "bytes": 259296,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/summary-process-agreement-judgment-d800e87f00b8.pdf",
+      "status": 200,
+      "bytes": 1225206,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/summary-process-summons-complaint-sample-16bfefad67ff.pdf",
+      "status": 200,
+      "bytes": 918602,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/MA/supplementary-process-application-summons-22b76dca439b.pdf",
+      "status": 200,
+      "bytes": 893378,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/WV/guide-agency-relationships-df069809b6ea.pdf",
+      "status": 200,
+      "bytes": 314469,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/WV/affidavit-broker-recommendation-2e4d86bbb4b4.pdf",
+      "status": 200,
+      "bytes": 194571,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/WV/irrevocable-consent-be24b9299d13.pdf",
+      "status": 200,
+      "bytes": 158456,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/WV/notice-agency-b09e6630d8f9.pdf",
+      "status": 200,
+      "bytes": 324049,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/WV/real-estate-complaint-f4b34c970f8e.pdf",
+      "status": 200,
+      "bytes": 591546,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/WV/subordination-resolution-6d3c98fc0914.pdf",
+      "status": 200,
+      "bytes": 128344,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/WV/trust-fund-account-cc909a1e3b96.pdf",
+      "status": 200,
+      "bytes": 205277,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/WV/trust-fund-account-waiver-22cbe3051082.pdf",
+      "status": 200,
+      "bytes": 167999,
+      "signature": "%PDF-"
+    },
+    {
+      "url": "http://127.0.0.1:8768/originals/WV/verification-sponsoring-broker-9d455e468523.pdf",
+      "status": 200,
+      "bytes": 478177,
+      "signature": "%PDF-"
+    }
+  ],
+  "limits": [
+    "Checks cover catalog interactions and HTTP retrieval; PDF visual rendering and XFA interaction were not tested."
+  ]
+}

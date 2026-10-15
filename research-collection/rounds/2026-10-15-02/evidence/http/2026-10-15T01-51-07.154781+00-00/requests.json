@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://labor.alaska.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:51:07.197587+00:00",
+    "http_status": 200,
+    "content_type": "text/plain",
+    "etag": "\"333be1c0e1a3d61:0\"",
+    "last_modified": "Fri, 16 Oct 2020 17:28:25 GMT",
+    "status": "fetched",
+    "sha256": "2dafdc9899e330c82faeabe896de48da9dbffde7ee3982448a7b47e53c3c15b0",
+    "bytes": 474,
+    "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/2dafdc9899e330c82faeabe896de48da9dbffde7ee3982448a7b47e53c3c15b0.body"
+  },
+  {
+    "url": "https://labor.alaska.gov/lss/lssforms.htm",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:51:09.724838+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "etag": "\"cdc062f06a5bdd1:0\"",
+    "last_modified": "Tue, 13 Oct 2026 23:31:14 GMT",
+    "status": "fetched",
+    "title": "Forms and Publications, Alaska Labor Standards and Safety",
+    "sha256": "f8d5bac655d0987d8f94f519945147d43400ed30b35232e7ace34b5989d3f7a0",
+    "bytes": 16078,
+    "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/f8d5bac655d0987d8f94f519945147d43400ed30b35232e7ace34b5989d3f7a0.body"
+  },
+  {
+    "url": "https://dol.ny.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:51:12.305370+00:00",
+    "http_status": 200,
+    "content_type": "text/plain",
+    "etag": null,
+    "last_modified": "Fri, 08 May 2026 04:11:04 GMT",
+    "status": "fetched",
+    "sha256": "8bf105e7048939b31a020ba1d6b525d019315d900bf0de458d0b30e9859256c7",
+    "bytes": 1586,
+    "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/8bf105e7048939b31a020ba1d6b525d019315d900bf0de458d0b30e9859256c7.body"
+  },
+  {
+    "url": "https://dol.ny.gov/notice-pay-rate",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:51:13.660361+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": null,
+    "last_modified": "Wed, 14 Oct 2026 11:52:00 GMT",
+    "status": "fetched",
+    "title": "Notice of Pay Rate | Department of Labor",
+    "sha256": "da4441cb2ce4e86207cac1835b15c00b86c4c689a0c680265f38687ee3d18590",
+    "bytes": 47165,
+    "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/da4441cb2ce4e86207cac1835b15c00b86c4c689a0c680265f38687ee3d18590.body"
+  },
+  {
+    "url": "https://www.mass.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:51:16.690720+00:00",
+    "http_status": 200,
+    "content_type": "text/plain",
+    "etag": null,
+    "last_modified": "Wed, 17 Dec 2025 02:46:39 GMT",
+    "status": "fetched",
+    "sha256": "eeaf8b7ffed917bb61b7b335be3677d899f66871ec7245e40da619f49562fa76",
+    "bytes": 1778,
+    "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/eeaf8b7ffed917bb61b7b335be3677d899f66871ec7245e40da619f49562fa76.body"
+  },
+  {
+    "url": "https://www.mass.gov/lists/court-forms-for-eviction",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:51:18.909488+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": "\"1792011860-gzip\"",
+    "last_modified": "Wed, 14 Oct 2026 21:04:20 GMT",
+    "status": "fetched",
+    "title": "Court forms for eviction | Mass.gov",
+    "sha256": "a153acc8f6a1cd99e95ed6b8c56cebf0120c09b481075d174b627c5aff8ccb18",
+    "bytes": 234536,
+    "body_path": "evidence/http/2026-10-15T01-51-07.154781+00-00/a153acc8f6a1cd99e95ed6b8c56cebf0120c09b481075d174b627c5aff8ccb18.body"
+  }
+]

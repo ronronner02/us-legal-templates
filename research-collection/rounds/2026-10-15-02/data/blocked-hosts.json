@@ -1,0 +1,170 @@
+{
+  "www.mncourts.gov": {
+    "status": 403,
+    "url": "https://www.mncourts.gov/robots.txt",
+    "checked_at": "2026-10-12T04:03:27.118952+00:00"
+  },
+  "nvcourts.gov": {
+    "status": 403,
+    "url": "https://nvcourts.gov/robots.txt",
+    "checked_at": "2026-10-12T04:03:38.029538+00:00"
+  },
+  "www.nccourts.gov": {
+    "status": 403,
+    "url": "https://www.nccourts.gov/robots.txt",
+    "checked_at": "2026-10-12T04:03:45.779631+00:00"
+  },
+  "difi.az.gov": {
+    "status": 403,
+    "url": "https://difi.az.gov/robots.txt",
+    "checked_at": "2026-10-12T04:09:29.910877+00:00"
+  },
+  "doi.colorado.gov": {
+    "status": 403,
+    "url": "https://doi.colorado.gov/robots.txt",
+    "checked_at": "2026-10-12T04:09:38.416287+00:00"
+  },
+  "doa.alaska.gov": {
+    "status": 403,
+    "url": "https://doa.alaska.gov/robots.txt",
+    "checked_at": "2026-10-12T04:15:20.238324+00:00"
+  },
+  "insurance.mo.gov": {
+    "status": 429,
+    "url": "https://insurance.mo.gov/robots.txt",
+    "checked_at": "2026-10-12T10:01:34.648111+00:00"
+  },
+  "www.ncrec.gov": {
+    "status": 403,
+    "url": "https://www.ncrec.gov/robots.txt",
+    "checked_at": "2026-10-12T10:04:04.402606+00:00"
+  },
+  "www.dws.state.nm.us": {
+    "status": "access_challenge",
+    "url": "https://www.dws.state.nm.us/robots.txt",
+    "checked_at": "2026-10-13T04:14:48.598167+00:00"
+  },
+  "cdn.prod.website-files.com": {
+    "status": 403,
+    "url": "https://cdn.prod.website-files.com/robots.txt",
+    "checked_at": "2026-10-13T04:45:21.203875+00:00"
+  },
+  "www.michigan.gov": {
+    "status": 403,
+    "url": "https://www.michigan.gov/leo/bureaus-agencies/wdca/forms",
+    "checked_at": "2026-10-13T09:07:56.207Z",
+    "evidence_ref": "evidence/mi-nm-nc-link-handoff/browser-observations.json"
+  },
+  "www.commerce.alaska.gov": {
+    "status": 403,
+    "url": "https://www.commerce.alaska.gov/web/ins/",
+    "checked_at": "2026-10-13T10:00:45.866300+00:00"
+  },
+  "portal.ct.gov": {
+    "status": 403,
+    "url": "https://portal.ct.gov/robots.txt",
+    "checked_at": "2026-10-13T10:00:51.976721+00:00"
+  },
+  "www.insurance.kansas.gov": {
+    "status": 403,
+    "url": "https://www.insurance.kansas.gov/robots.txt",
+    "checked_at": "2026-10-13T10:01:23.574032+00:00"
+  },
+  "des.wa.gov": {
+    "status": 403,
+    "url": "https://des.wa.gov/robots.txt",
+    "checked_at": "2026-10-13T10:02:30.353371+00:00"
+  },
+  "www.dfs.ny.gov": {
+    "status": 403,
+    "url": "https://www.dfs.ny.gov/robots.txt",
+    "checked_at": "2026-10-13T10:02:31.054087+00:00"
+  },
+  "bgs.vermont.gov": {
+    "status": 403,
+    "url": "https://bgs.vermont.gov/robots.txt",
+    "checked_at": "2026-10-13T10:02:44.791801+00:00"
+  },
+  "cca.hawaii.gov": {
+    "status": "terms_prohibit_automated_access",
+    "url": "https://portal.ehawaii.gov/page/terms-of-use/",
+    "checked_at": "2026-10-13T10:20:56.218929+00:00",
+    "evidence_ref": "evidence/http/2026-10-13T10-03-17.782871+00-00/9e60578145b31e2eccbdca23edfcdae62509ae7b99dcddaefdb6208fc08da2d9.body",
+    "reason": "Linked terms explicitly prohibit automated access without a separate written agreement. No further automated access or document acquisition."
+  },
+  "portal.ehawaii.gov": {
+    "status": "terms_prohibit_automated_access",
+    "url": "https://portal.ehawaii.gov/page/terms-of-use/",
+    "checked_at": "2026-10-13T10:20:56.218942+00:00",
+    "evidence_ref": "evidence/http/2026-10-13T10-03-17.782871+00-00/9e60578145b31e2eccbdca23edfcdae62509ae7b99dcddaefdb6208fc08da2d9.body",
+    "reason": "Linked terms explicitly prohibit automated access without a separate written agreement. No further automated access or document acquisition."
+  },
+  "www.dol.nh.gov": {
+    "url": "https://www.dol.nh.gov/workers-compensation/workers-compensation-forms",
+    "status": 403,
+    "page_title": "Access Denied",
+    "checked_at": "2026-10-14T01:56:05.106408+00:00",
+    "observation": "Normal browser navigation returned HTTP 403 after a successful static source capture. No retry or workaround.",
+    "snapshot_reference": "D:/LB/LegallyBinding/.playwright-mcp/page-2026-10-14T01-54-57-897Z.yml",
+    "evidence_ref": "evidence/pass-08/nh-browser-access-stop.json"
+  },
+  "validate.perfdrive.com": {
+    "status": "access_challenge",
+    "url": "http://validate.perfdrive.com/robots.txt",
+    "checked_at": "2026-10-14T02:48:45.591482+00:00"
+  },
+  "www.teamtn.gov": {
+    "status": 401,
+    "url": "https://www.teamtn.gov/robots.txt",
+    "checked_at": "2026-10-14T04:35:04.700010+00:00"
+  },
+  "nrec.nebraska.gov": {
+    "status": "terms_prohibit_automated_access",
+    "url": "https://www.nebraska.gov/policies/index.html",
+    "checked_at": "2026-10-14T07:10:11.111663+00:00",
+    "evidence_ref": "evidence/http/2026-10-14T07-07-34.412031+00-00/834a0ea72d32031e4ac06f5b05ffb9baf08f7813f26ad7ca5e3ee32f170aa291.body",
+    "reason": "Linked terms restrict copying to personal/noncommercial use and prohibit automated or manual monitoring/copying without prior written permission. No further automated access or acquisition pending scope/permission review."
+  },
+  "www.nebraska.gov": {
+    "status": "terms_prohibit_automated_access",
+    "url": "https://www.nebraska.gov/policies/index.html",
+    "checked_at": "2026-10-14T07:10:11.111663+00:00",
+    "evidence_ref": "evidence/http/2026-10-14T07-07-34.412031+00-00/834a0ea72d32031e4ac06f5b05ffb9baf08f7813f26ad7ca5e3ee32f170aa291.body",
+    "reason": "Linked terms restrict copying to personal/noncommercial use and prohibit automated or manual monitoring/copying without prior written permission. No further automated access or acquisition pending scope/permission review."
+  },
+  "dopl.idaho.gov": {
+    "status": "prior_round_robots_verification_stop",
+    "reason": "Preserved access stop from round 2026-10-15-01; no re-probing this round.",
+    "evidence_ref": "../../2026-10-15-01/evidence/request-ledger.json"
+  },
+  "llr.sc.gov": {
+    "status": "prior_round_robots_verification_stop",
+    "reason": "Preserved access stop from round 2026-10-15-01; no re-probing this round.",
+    "evidence_ref": "../../2026-10-15-01/evidence/request-ledger.json"
+  },
+  "forms.in.gov": {
+    "status": "prior_round_robots_verification_stop",
+    "reason": "Preserved access stop from round 2026-10-15-01; no re-probing this round.",
+    "evidence_ref": "../../2026-10-15-01/evidence/request-ledger.json"
+  },
+  "arec.alabama.gov": {
+    "status": "prior_round_robots_verification_stop",
+    "reason": "Preserved access stop from round 2026-10-15-01; no re-probing this round.",
+    "evidence_ref": "../../2026-10-15-01/evidence/request-ledger.json"
+  },
+  "www.dre.ca.gov": {
+    "status": "prior_round_robots_verification_stop",
+    "reason": "Preserved access stop from round 2026-10-15-01; no re-probing this round.",
+    "evidence_ref": "../../2026-10-15-01/evidence/request-ledger.json"
+  },
+  "dlt.ri.gov": {
+    "status": 403,
+    "url": "https://dlt.ri.gov/robots.txt",
+    "checked_at": "2026-10-15T01:50:12.203913+00:00"
+  },
+  "labor.vermont.gov": {
+    "status": 403,
+    "url": "https://labor.vermont.gov/robots.txt",
+    "checked_at": "2026-10-15T01:50:14.361207+00:00"
+  }
+}

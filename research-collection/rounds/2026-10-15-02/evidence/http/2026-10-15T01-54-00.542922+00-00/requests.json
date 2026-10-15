@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://www.mass.gov/massgov-terms-of-use",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:54:00.568574+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": "\"1792007301-gzip\"",
+    "last_modified": "Wed, 14 Oct 2026 19:48:21 GMT",
+    "status": "fetched",
+    "title": "Mass.gov Terms of Use | Mass.gov",
+    "sha256": "2a0658e0076d639be9583a26e3ab0f473f2d04c287660380f4997d8416c317d6",
+    "bytes": 173841,
+    "body_path": "evidence/http/2026-10-15T01-54-00.542922+00-00/2a0658e0076d639be9583a26e3ab0f473f2d04c287660380f4997d8416c317d6.body"
+  }
+]

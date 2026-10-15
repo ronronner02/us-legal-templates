@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://labor.illinois.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:52:44.121986+00:00",
+    "status": "fetch_error",
+    "reason": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "url": "https://labor.illinois.gov/forms.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:52:55.317225+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  },
+  {
+    "url": "https://rec.wv.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:52:55.355801+00:00",
+    "http_status": 200,
+    "content_type": "text/plain",
+    "etag": "W/\"6ace3225-85d\"",
+    "last_modified": "Tue, 13 Oct 2026 13:29:09 GMT",
+    "status": "fetched",
+    "sha256": "8e8cb58d810473a52cce903be5ffb73d948eef981bbd101cffbf8dc2c02fcf4e",
+    "bytes": 2141,
+    "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/8e8cb58d810473a52cce903be5ffb73d948eef981bbd101cffbf8dc2c02fcf4e.body"
+  },
+  {
+    "url": "https://rec.wv.gov/Forms/Pages/default.aspx",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:53:00.658263+00:00",
+    "http_status": 301,
+    "content_type": "text/html; charset=utf-8",
+    "etag": "\"1791950142\"",
+    "last_modified": "Wed, 14 Oct 2026 03:55:42 GMT",
+    "status": "redirect",
+    "location": "https://rec.wv.gov/forms"
+  },
+  {
+    "url": "https://rec.wv.gov/forms",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:53:03.145651+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "etag": "W/\"1792029183\"",
+    "last_modified": "Thu, 15 Oct 2026 01:53:03 GMT",
+    "status": "fetched",
+    "title": "Forms | WV Real Estate Commission Office",
+    "sha256": "e90616f0fcdcd79110caf91cad05900c25fc08b0d440005cf8ff2f685e8260ac",
+    "bytes": 40819,
+    "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/e90616f0fcdcd79110caf91cad05900c25fc08b0d440005cf8ff2f685e8260ac.body"
+  },
+  {
+    "url": "https://www.mass.gov/lists/housing-court-forms",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:53:04.211651+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": "\"1792008689-gzip\"",
+    "last_modified": "Wed, 14 Oct 2026 20:11:29 GMT",
+    "status": "fetched",
+    "title": "Housing Court forms | Mass.gov",
+    "sha256": "652fe10bb25e9d3782a7c770fd9618093a517d333ecbf8e12a6d919f9649bed0",
+    "bytes": 250320,
+    "body_path": "evidence/http/2026-10-15T01-52-44.093538+00-00/652fe10bb25e9d3782a7c770fd9618093a517d333ecbf8e12a6d919f9649bed0.body"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://dlt.ri.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:50:12.203913+00:00",
+    "http_status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_403",
+    "sha256": "e5359784b610484f3de67eb5fe69d6f20c9f7e4bc6c67bb1172e79e5c2fa1825",
+    "bytes": 4556,
+    "body_path": "evidence/http/2026-10-15T01-50-12.169646+00-00/e5359784b610484f3de67eb5fe69d6f20c9f7e4bc6c67bb1172e79e5c2fa1825.body"
+  },
+  {
+    "url": "https://dlt.ri.gov/forms-applications",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:50:14.346657+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  },
+  {
+    "url": "https://labor.vermont.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:50:14.361207+00:00",
+    "http_status": 403,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_403",
+    "sha256": "10f43c695a9db9978edb97c2fa42057c5f78d3ec9351266f1e0b3f1f91bf231f",
+    "bytes": 919,
+    "body_path": "evidence/http/2026-10-15T01-50-12.169646+00-00/10f43c695a9db9978edb97c2fa42057c5f78d3ec9351266f1e0b3f1f91bf231f.body"
+  },
+  {
+    "url": "https://labor.vermont.gov/rights-and-wages",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:50:16.965633+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  },
+  {
+    "url": "https://dwd.wisconsin.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:50:16.979992+00:00",
+    "status": "fetch_error",
+    "reason": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "url": "https://dwd.wisconsin.gov/dwd/forms-publications-search.htm",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:50:28.088569+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted."
+  }
+]

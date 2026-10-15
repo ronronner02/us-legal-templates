@@ -1,0 +1,169 @@
+﻿<!doctype html>
+<html class="no-js" lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Copyright</title>	
+		<meta name="description" content="State of Alaska, Department of Labor and Workforce Development Copyright">
+		<meta name="revised" content="05/08/2024">
+    <link rel="stylesheet" href="/assets/Govalaska.css" type="text/css">
+		<script src="/scripts/matomo-labor.js"></script>
+	</head>
+	<body class="WCAG2.1">
+		<div class="background-wrap"> <a class="visuallyhidden" href="#main_content"> Skip to content </a> <a class="back-to-top" href="#"> Back to Top </a> 
+			<!-- begin top SOA menu -->
+			<nav class="global-nav-menu">
+				<div class="inline-div">
+					<ul id="menu-statewide-navigation">
+						<li> <a href="https://alaska.gov"> State of Alaska </a> </li>
+						<li> <a href="https://my.alaska.gov"> myAlaska </a> </li>
+						<li> <a href="https://alaska.gov/akdir1.html"> Departments </a> </li>
+						<li> <a href="https://alaska.gov/employeeHome.html"> State Employees </a> </li>
+						<li> <a href="#SOAfooterlinks"> Statewide Links </a> </li>
+					</ul>
+					<!-- /menu-statewide-navigation --> 
+				</div>
+				<!-- /inline-div --> 
+			</nav>
+			<!-- /global-nav-menu --> 
+			<!-- end top SOA menu --> <!-- begin top header -->
+			<div class="site-container">
+				<!-- Agency Header -->
+				<header class="site-header">
+					<div class="wrap">
+						<div class="site-logo">
+							 <a href="https://alaska.gov"> 
+								<img src="/img/state_seal_color-01.png" alt="State of Alaska logo"  width="69" height="69">
+							 </a>
+						</div>
+						<div class="title-area">
+							<div class="wrap">
+								<div class="soa-link">
+									<a href="https://labor.alaska.gov/">
+										<span class="site-title">Department of Labor and Workforce Development</span>
+									</a>
+								</div>
+								<div id="search-form">
+									<div class="wrap">
+										<div class="search-form">
+											<form class="search-soa" action="/search.htm" method="get" name="gs">
+												<div role="search">
+													<input id="search-field-big" title="Search" name="q" type="search" aria-labelledby="search-button">
+													<button id="search-button" name="submit" type="submit"> Search </button>
+												</div>
+											</form>
+										</div>
+									</div>
+								</div><!-- search-form -->
+								<div id="search_icon_placeholder"> &nbsp; </div>
+							</div><!-- wrap -->
+							<div class="title-text">	
+								<span class="site-description">Office of the Commissioner</span>
+							</div><!-- title-text -->
+						</div><!-- title-area -->
+					</div><!-- wrap -->
+					<!-- / site-header wrap --> 
+				</header><!-- /site-header --> 
+				
+<!-- Agency Navigation -->				
+    <nav class="agency-navigation" aria-label="Main Navigation">
+        <div class="wrap">
+            <ul id="agency-navigation-menu" class="agency-responsive-menu responsive-menu">
+                <li class="menu-item"> <a href="/"> Home </a> </li>
+                <li class="menu-item"> <a href="https://labor.alaska.gov/landing-pages/job-seekers.html"> Job Seekers </a> </li>
+                <li class="menu-item"> <a href="https://labor.alaska.gov/landing-pages/workers.html"> Workers </a> </li>			
+                <li class="menu-item"> <a href="https://labor.alaska.gov/landing-pages/employers.html"> Employers </a> </li>				       
+                <li class="menu-item"> <a href="https://labor.alaska.gov/landing-pages/training.html"> Training </a> </li>
+                <li class="menu-item"> <a href="https://live.laborstats.alaska.gov/">Data Research </a> </li> 
+            </ul>
+        </div>
+    </nav>
+<!-- /agency-navigation --> 
+ 
+				<div class="site-inner">
+				  <main class="content">
+					  <!-- https://www.w3.org/TR/wai-aria-practices-1.1/examples/breadcrumb/index.html -->
+						<nav id="breadcrumbs" class="breadcrumb" aria-label="Breadcrumb">
+							<ol>
+							  <li><a class="context" href="https://alaska.gov/"> State of Alaska </a></li> 
+							  <li><a class="context" href="https://labor.alaska.gov/"> DOLWD </a></li>  
+							<li><a href="/commish/home.htm"  class="context">  Commissioner  </a></li>
+							  <li><a href="#main_content" aria-current="page"> 
+                
+                Copyright Statement</a></li>
+							</ol>
+						</nav>
+					<!-- Begin main content -->
+					<article id="main_content">
+					<h1>Copyright</h1>
+           
+                  <h2>Alteration or manipulation of distributed electronic documents and forms</h2>  
+  <p class="footer">Documents distributed in an electronic manner (e.g., Adobe Acrobat documents  .pdf; PostScript files  .eps, .ps, .prn; word processing documents  .doc, .wp, .rtf, .txt; spreadsheet documents .xls, .csv; or hypertext markup language  .htm, .html; etc.) are not to be altered or manipulated (largely or in part) and then republished or reposted through any medium without department approval. Non-approved alteration of our original materials beyond "fair use" under the Copyright Act and reposting or duplication of our electronic documents or files is expressly prohibited.</p>  
+     
+					</article>
+					<!-- end main Content --> 
+				</main>				
+			<div class="foot-wave">
+				<img src="/images/foot-wave.png" alt="" width="960" height="108">
+			</div>
+			</div>
+			<!-- /site-inner -->
+			<div class="footer-block footer"  role="contentinfo">
+				<div class="wrap">
+					<div class="footer-block-1 block-content-area">
+						<div id="socialmedia-icons" class="block socialmedia-icons">
+							<ul class="alignleft">
+								<li class="social-facebook"> <a title="Follow the department on Facebook" href="https://www.facebook.com/alaskalabor/"> <img src="/images/facebook3.png" alt="facebook link" height="22" width="22"> </a> </li>
+								<li class="social-twitter"> <a title="Follow the department on Twitter" href="https://twitter.com/AlaskaLabor"> <img src="/images/twitter3.png" alt="twitter link" height="22" width="22"> </a> </li>
+							</ul>
+						</div>
+						<!-- /socialmedia-icons -->
+						<div class="copyright">
+							<p> <a href="https://labor.alaska.gov/accessibility.htm"> Accessibility </a> - <a href="https://labor.alaska.gov/oeo.htm"> OEO Statement </a> - <br>
+							<a href="https://labor.alaska.gov/use.htm"> Terms of Use </a> - <a href="https://labor.alaska.gov/privacy.htm"> Privacy </a> - <a href="https://labor.alaska.gov/copyright.htm"> Copyright Info </a> </p>
+						</div>
+					</div>
+					<!-- /footer-block-1 -->
+					<div class="footer-block-2 block-content-area">
+						<div class="wrap">
+							<p>&nbsp; </p>
+						</div>
+					</div>
+					<!-- /footer-block-2 --><div class="footer-block-3 block-content-area">
+						<p class="dept-foot"> Department of Labor &amp; Workforce Development </p>
+						<p> P.O. Box 111149 <br>
+							Juneau, AK 99811 <br>
+							<!-- Phone: <a href="tel:+19074652700">(907) 465-2700</a><br> -->
+						</p>
+					</div><!-- footer-block-3 --> 
+				</div>
+				<!-- /wrap footer-block footer --> 
+			</div>
+			<!-- /footer-block footer --> 
+		</div>
+		<!-- /site-container -->
+		<footer class="global-footer footer">
+			<div class="inline-div">
+				<div id="SOAfooterlinks" class="footer-global-nav-menu">
+					<ul class="menu">
+						<li> <a href="https://alaska.gov"> State of Alaska </a> </li>
+						<li> <a href="https://my.alaska.gov"> myAlaska </a> </li>
+						<li> <a href="https://alaska.gov/akdir1.html"> Departments </a> </li>
+						<li> <a href="https://alaska.gov/employeeHome.html"> State Employees </a> </li>
+					</ul>
+				</div>
+				<!-- /SOAfooterlinks -->
+				<div class="copyright">
+					<p> Copyright &copy; State of Alaska &middot; Department of Labor &amp; Workforce Development &middot; <a href="mailto:labor.webmaster@alaska.gov"> Email Us </a> </p>
+				</div>
+				<!-- copyright --> 
+			</div>
+		</footer>
+		<!-- global-footer footer --> 
+	</div>
+	<!-- background-wrap --> 
+	<script  src="/assets/jquery-3.6.1.min.js"></script> 
+	<script  src="/assets/assets.js?q=081926"></script>
+<script async src="https://siteimproveanalytics.com/js/siteanalyze_6340338.js"></script>
+</body>
+</html>

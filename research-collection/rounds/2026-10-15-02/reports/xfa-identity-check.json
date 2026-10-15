@@ -1,0 +1,22 @@
+{
+  "status": "identity_verified_from_embedded_xfa",
+  "original_path": "originals/MA/summary-process-agreement-judgment-d800e87f00b8.pdf",
+  "original_sha256": "d800e87f00b8dde765eea425fdf1395b89796abdbac4e3e88ffa4415f1e9604e",
+  "template_path": "evidence/xfa/summary-process-agreement-judgment-template.xml",
+  "template_sha256": "a165a9f6a742739668d4d7b46a6d9e0d22317e172e188d130c32b3b4da0a1b6c",
+  "text_path": "extracted-text/d800e87f00b8dde765eea425fdf1395b89796abdbac4e3e88ffa4415f1e9604e.xfa.txt",
+  "method": "Decode the original PDF AcroForm XFA template stream and parse XML text nodes.",
+  "source_link_title": "Summary Process Agreement for Judgment , Open PDF file, 1.17 MB",
+  "matched_identity": [
+    "SUMMARY PROCESS",
+    "AGREEMENT FOR JUDGMENT",
+    "Boston Municipal Court Department"
+  ],
+  "printed_revision": "10/21",
+  "pdf_page_text": "Viewer notice only; retained unchanged.",
+  "limits": [
+    "Dynamic XFA rendering and interactive fields have not been tested.",
+    "The PDF page count describes the fallback PDF, not verified dynamic form pagination.",
+    "Download-action identity false records the original page-text check; this report records its resolution."
+  ]
+}

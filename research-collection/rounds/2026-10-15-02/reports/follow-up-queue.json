@@ -1,0 +1,32 @@
+[
+  {
+    "owner": "collection reviewer",
+    "task": "Review reuse rights before republication. Massachusetts terms explicitly reserve copyright and describe fair use; West Virginia legal notice evidence is retained. Alaska candidates remain link-only.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Render PDF originals and inspect printed revisions, fields, layout, and signatures. Parser extraction and revision candidates alone are not visual or legal proof.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Verify current procedural requirements, filing acceptance, and court-specific applicability. Preserve sample-only and eFiling-only classifications.",
+    "status": "pending"
+  },
+  {
+    "owner": "future research round",
+    "task": "Retain all inherited permission holds and access stops. Current access and connectivity failures are listed separately; do not infer that a failed portal has no useful documents.",
+    "status": "held"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Full-library semantic deduplication remains unperformed; SHA-256 distinctness is a file-level measure.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Test the Boston Municipal Court Summary Process Agreement for Judgment in an XFA-compatible viewer. Identity and the 10/21 revision marker were extracted from its embedded XML template; dynamic layout, pagination, and interactive fields remain untested.",
+    "status": "pending"
+  }
+]

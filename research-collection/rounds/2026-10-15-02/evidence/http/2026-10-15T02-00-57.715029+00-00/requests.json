@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://www.wv.gov/policies/legal-notices",
+    "kind": "source",
+    "checked_at": "2026-10-15T02:00:57.732765+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "etag": "W/\"1792029544\"",
+    "last_modified": "Thu, 15 Oct 2026 01:59:04 GMT",
+    "status": "fetched",
+    "title": "Legal Notices | State of West Virginia",
+    "sha256": "a6e997328124356d9fa5beb8bbdb7b59ccc25e9318d1abf75ecb874dc51a7e2e",
+    "bytes": 29791,
+    "body_path": "evidence/http/2026-10-15T02-00-57.715029+00-00/a6e997328124356d9fa5beb8bbdb7b59ccc25e9318d1abf75ecb874dc51a7e2e.body"
+  }
+]

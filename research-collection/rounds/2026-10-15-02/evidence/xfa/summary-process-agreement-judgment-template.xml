@@ -1,0 +1,1276 @@
+
+<template xmlns="http://www.xfa.org/schema/xfa-template/2.8/"
+><?formServer defaultPDFRenderFormat acrobat9.0static?><subform layout="tb" locale="en_US" name="form1"
+><pageSet
+><pageArea id="Page1" name="Page1"
+><draw h="257.252mm" name="Rectangle1" w="201.362mm" x="7.762mm" y="7.788mm"
+><value
+><rectangle
+><edge thickness="0.5334mm"
+/><corner thickness="0.5334mm" radius="5.08mm"
+/></rectangle
+></value
+></draw
+><contentArea h="756pt" w="576pt" x="0.25in" y="0.25in"
+/><medium long="792pt" short="612pt" stock="default"
+/><draw h="=0mm" name="Line2" w="200.66mm" x="7.62mm" y="26.18mm"
+><value
+><line
+/></value
+></draw
+><draw h="5.5699mm" name="DocketNumberCaption" w="40.64mm" x="85.045mm" y="10.96mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><text
+>DOCKET NUMBER:</text
+></value
+><font baselineShift="0pt" typeface="Arial" weight="bold"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><para marginLeft="0pt" marginRight="0pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt"
+/><?renderCache.bounds 112366 12955 0 0 1417 1417 0 0?><?renderCache.textRun 14 DOCKET NUMBER: 0 1417 9313 0 0 0 "Arial" 1 0 10000 ISO-8859-1?></draw
+><draw h="9.779mm" name="Application" w="199.371mm" x="8.429mm" y="40.633mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><font baselineShift="0pt" typeface="Arial" weight="bold"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><para marginLeft="0pt" marginRight="0pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt"
+/><value
+><exData contentType="text/html"
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.7.0.0"
+><p style="text-decoration:none;letter-spacing:0in"
+>AGREEMENT:<span style="xfa-spacerun:yes"
+> </span
+><span style="font-weight:normal"
+>The undersigned parties hereby agree to the following facts and to the entry<span style="xfa-spacerun:yes"
+>  </span
+>the following judgment as a resolution to their case:</span
+></p
+></body
+></exData
+></value
+></draw
+><draw name="ToJudgmentCreditor" w="199.716mm" x="8.428mm" y="26.316mm" h="12.994mm"
+><ui
+><textEdit
+/></ui
+><font baselineShift="0pt" typeface="Arial" weight="bold"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><para marginLeft="0pt" marginRight="0pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt"
+/><value
+><exData contentType="text/html"
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.7.0.0"
+><p style="letter-spacing:0in"
+>Please Note:<span style="xfa-spacerun:yes"
+> </span
+><span style="font-weight:normal"
+>Once approved by a judge this agreement becomes a court order and both parties are legally required to follow it. Both parties understand that they have the right to a hearing on this case before a judge but instead choose to sign this agreement.</span
+></p
+></body
+></exData
+></value
+></draw
+><draw h="10.313mm" name="TrialCourtMass" w="60.96mm" x="130.175mm" y="8.382mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><exData contentType="text/html" maxLength="0"
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+><p
+>Trial Court of Massachusetts</p
+><p
+><span style="xfa-spacerun:yes"
+>            </span
+></p
+></body
+></exData
+></value
+><font baselineShift="0pt" size="12pt" typeface="Arial" weight="bold"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><para marginLeft="0pt" marginRight="0pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" vAlign="middle"
+/><?renderCache.bounds 169966 26400 0 0 1417 1417 0 0?><?renderCache.textRun 29 Trial Court of Massachusetts  0 1417 10892 0 0 0 "Arial" 1 0 12000 ISO-8859-1?><?renderCache.textRun 12              0 1417 25292 0 0 0 "Arial" 1 0 12000 ISO-8859-1?></draw
+><draw h="6.35mm" name="DistrictCourtDepartment" w="73.438mm" x="130.175mm" y="12.7mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><text
+>Boston Municipal Court Department</text
+></value
+><font baselineShift="0pt" typeface="Arial" weight="bold"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><para marginLeft="0pt" marginRight="0pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" vAlign="middle"
+/><?renderCache.bounds 205337 15166 0 0 1417 1417 0 0?><?renderCache.textRun 33 Boston Municipal Court Department 0 1417 11896 0 0 0 "Arial" 1 0 10000 ISO-8859-1?></draw
+><draw h="17.59mm" name="FormTitle" w="74.168mm" x="8.763mm" y="8.382mm"
+><ui
+><textEdit
+/></ui
+><value
+><exData contentType="text/html"
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.7.0.0"
+><p style="text-decoration:none;letter-spacing:0in"
+>SUMMARY PROCESS<span style="xfa-spacerun:yes"
+> </span
+></p
+><p style="text-decoration:none;letter-spacing:0in"
+>AGREEMENT FOR JUDGMENT</p
+></body
+></exData
+></value
+><font baselineShift="0pt" size="12pt" typeface="Arial" weight="bold"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><para hAlign="center" marginLeft="0pt" marginRight="0pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" vAlign="middle"
+/></draw
+><draw h="=0mm" name="Line33" w="200.66mm" x="7.754mm" y="40.085mm"
+><value
+><line
+/></value
+><?templateDesigner expand 1?></draw
+><draw minW="200.66mm" name="SpanishNotice" x="7.62mm" y="264.826mm" h="5.299mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><exData contentType="text/html" maxLength="0"
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.7.0.0"
+><p style="text-align:left;font-size:7pt;text-decoration:none;letter-spacing:0in"
+>10/21<span style="xfa-tab-count:2"
+>                  </span
+>ATENCION: ESTE ES UN AVISO OFICIAL DE LA CORTE. SI USTED NO SAVE LEER INGLÈS, OBTENGA UNA TRADUCCIÒN.</p
+></body
+></exData
+></value
+><font baselineShift="0pt" typeface="Arial"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><para marginLeft="0pt" marginRight="0pt" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt"
+/></draw
+><draw name="Image1" y="7.481mm" x="192.252mm" w="15.875mm" h="19.05mm"
+><value
+><image href="..\seal.png" contentType="image/png"
+/></value
+><ui
+><imageEdit
+/></ui
+></draw
+><field name="TextField2" y="14.841mm" x="84.673mm" w="41.145mm" h="9.698mm"
+><ui
+><textEdit
+><border
+><edge stroke="lowered"
+/></border
+><margin
+/></textEdit
+></ui
+><font size="9pt" typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption reserve="0.01in"
+><para vAlign="middle"
+/></caption
+><bind match="none"
+/></field
+><draw h="17.943mm" name="VerticalLine" w="0in" x="83.427mm" y="8.033mm"
+><value
+><line slope="/"
+/></value
+></draw
+><draw h="17.943mm" name="VerticalLine" w="0in" x="127.513mm" y="8.032mm"
+><value
+><line slope="/"
+/></value
+></draw
+><field name="DropDownList1" y="17.567mm" x="130.216mm" w="62.411mm" h="9mm"
+><ui
+><choiceList
+><border
+><edge stroke="lowered"
+/></border
+><margin
+/></choiceList
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption reserve="17.8755mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><value
+><text
+>DIVISION:</text
+></value
+><font typeface="Arial" weight="bold" baselineShift="0pt"
+/></caption
+><bind match="none"
+/><items save="1"
+><text
+>Brighton</text
+><text
+>Charlestown</text
+><text
+>Central</text
+><text
+>Dorchester</text
+><text
+>East Boston</text
+><text
+>Roxbury</text
+><text
+>South Boston</text
+><text
+>West Roxbury</text
+></items
+></field
+><field name="CheckBox1" y="51.612mm" x="13.49mm" w="193.303mm" h="6mm"
+><ui
+><checkButton
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><integer
+>0</integer
+></value
+><caption placement="right" reserve="186.302mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><font typeface="Arial" baselineShift="0pt"
+/><value
+><text
+>The agreed upon rent for this unit is 		   per month.</text
+></value
+></caption
+><items
+><integer
+>1</integer
+><integer
+>0</integer
+><integer
+>2</integer
+></items
+><bind match="none"
+/></field
+><field name="TextField3" y="51.292mm" x="75.533mm" w="21.93mm" h="7.089mm"
+><ui
+><textEdit
+><border
+><edge presence="hidden"
+/><edge presence="hidden"
+/><edge
+/><edge presence="hidden"
+/></border
+><margin
+/></textEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption reserve="3.3787mm"
+><font typeface="Arial" baselineShift="0pt"
+/><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><value
+><text
+>$</text
+></value
+></caption
+><bind match="none"
+/></field
+><field name="CheckBox2" y="59.4mm" x="13.501mm" w="194.298mm" h="6mm"
+><ui
+><checkButton
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><integer
+>0</integer
+></value
+><caption placement="right" reserve="187.298mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><font typeface="Arial" baselineShift="0pt"
+/><value
+><text
+>The defendant owes		in contract rent for the period of							       .</text
+></value
+></caption
+><items
+><integer
+>1</integer
+><integer
+>0</integer
+><integer
+>2</integer
+></items
+><bind match="none"
+/></field
+><field name="TextField4" y="58.369mm" x="51.214mm" w="18.882mm" h="7.089mm"
+><ui
+><textEdit
+><border
+><edge presence="hidden"
+/><edge presence="hidden"
+/><edge
+/><edge presence="hidden"
+/></border
+><margin
+/></textEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption reserve="3.3787mm"
+><font typeface="Arial" baselineShift="0pt"
+/><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><value
+><text
+>$</text
+></value
+></caption
+><bind match="none"
+/></field
+><field name="TextField5" y="58.025mm" x="119.416mm" w="85.349mm" h="7.433mm"
+><ui
+><textEdit
+><border
+><edge presence="hidden"
+/><edge presence="hidden"
+/><edge
+/><edge presence="hidden"
+/></border
+><margin
+/></textEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption reserve="0.01in"
+><para vAlign="middle"
+/></caption
+><bind match="none"
+/></field
+><field name="CheckBox3" y="67.141mm" x="13.501mm" w="191.951mm" h="6mm"
+><ui
+><checkButton
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><integer
+>0</integer
+></value
+><caption placement="right" reserve="184.951mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><font typeface="Arial" baselineShift="0pt"
+/><value
+><text
+>The rent owed is reduced by		    on account of the defendant's claims, leaving 		         owed.</text
+></value
+></caption
+><items
+><integer
+>1</integer
+><integer
+>0</integer
+><integer
+>2</integer
+></items
+><bind match="none"
+/></field
+><field name="TextField5" y="66.797mm" x="64.129mm" w="21.93mm" h="7.089mm"
+><ui
+><textEdit
+><border
+><edge presence="hidden"
+/><edge presence="hidden"
+/><edge
+/><edge presence="hidden"
+/></border
+><margin
+/></textEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption reserve="3.3787mm"
+><font typeface="Arial" baselineShift="0pt"
+/><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><value
+><text
+>$</text
+></value
+></caption
+><bind match="none"
+/></field
+><field name="TextField6" y="66.798mm" x="157.141mm" w="21.93mm" h="7.089mm"
+><ui
+><textEdit
+><border
+><edge presence="hidden"
+/><edge presence="hidden"
+/><edge
+/><edge presence="hidden"
+/></border
+><margin
+/></textEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption reserve="3.3787mm"
+><font typeface="Arial" baselineShift="0pt"
+/><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><value
+><text
+>$</text
+></value
+></caption
+><bind match="none"
+/></field
+><field name="CheckBox4" y="74.893mm" x="13.501mm" w="191.951mm" h="6mm"
+><ui
+><checkButton
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><integer
+>0</integer
+></value
+><caption placement="right" reserve="184.951mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><font typeface="Arial" baselineShift="0pt"
+/><value
+><text
+>Judgment for possession and for  		is to enter for 				            on</text
+></value
+></caption
+><items
+><integer
+>1</integer
+><integer
+>0</integer
+><integer
+>2</integer
+></items
+><bind match="none"
+/></field
+><field name="TextField7" y="73.886mm" x="70.852mm" w="21.93mm" h="7.089mm"
+><ui
+><textEdit
+><border
+><edge presence="hidden"
+/><edge presence="hidden"
+/><edge
+/><edge presence="hidden"
+/></border
+><margin
+/></textEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption reserve="3.3787mm"
+><font typeface="Arial" baselineShift="0pt"
+/><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><value
+><text
+>$</text
+></value
+></caption
+><bind match="none"
+/></field
+><exclGroup name="RadioButtonList" x="116.726mm" y="74.893mm"
+><?templateDesigner itemValuesSpecified 1?><field y="0mm" w="25.308mm" h="6mm"
+><ui
+><checkButton shape="round"
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption placement="right" reserve="19.308mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><font typeface="Arial" baselineShift="0pt"
+/><value
+><text
+>the plaintiff</text
+></value
+></caption
+><items
+><integer
+>1</integer
+></items
+></field
+><bind match="none"
+/><field x="25.949mm" w="27.814mm" h="6mm"
+><ui
+><checkButton shape="round"
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption placement="right" reserve="21.814mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><font typeface="Arial" baselineShift="0pt"
+/><value
+><text
+>the defendant</text
+></value
+></caption
+><items
+><integer
+>2</integer
+></items
+><bind match="none"
+/></field
+><?templateDesigner expand 1?></exclGroup
+><field name="TextField8" y="74.561mm" x="176.702mm" w="27.233mm" h="7.077mm"
+><ui
+><textEdit
+><border
+><edge presence="hidden"
+/><edge presence="hidden"
+/><edge
+/><edge presence="hidden"
+/></border
+><margin
+/></textEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption reserve="0.01in"
+><para vAlign="middle"
+/></caption
+><bind match="none"
+/></field
+><field name="TextField9" y="79.682mm" x="19.146mm" w="55.654mm" h="8.096mm"
+><ui
+><textEdit
+><border
+><edge stroke="lowered"
+/></border
+><margin
+/></textEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption reserve="25mm"
+><font typeface="Arial" baselineShift="0pt"
+/><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><value
+><text
+>plus costs of $</text
+></value
+></caption
+><bind match="none"
+/></field
+><field name="CheckBox5" y="95.056mm" x="13.49mm" w="192.295mm" h="6mm"
+><ui
+><checkButton
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><integer
+>0</integer
+></value
+><caption placement="right" reserve="185.294mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><font typeface="Arial" baselineShift="0pt"
+/><value
+><text
+>The plaintff shall make the following repairs to the premises according to the following schedule:</text
+></value
+></caption
+><items
+><integer
+>1</integer
+><integer
+>0</integer
+><integer
+>2</integer
+></items
+><bind match="none"
+/></field
+><field name="TextField10" y="99.81mm" x="19.915mm" w="186.214mm" h="22.262mm"
+><ui
+><textEdit multiLine="1"
+><border
+><edge stroke="lowered"
+/></border
+><margin
+/></textEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption reserve="0.01in"
+><para vAlign="middle"
+/></caption
+><bind match="none"
+/></field
+><field name="CheckBox6" y="122.7mm" x="13.49mm" w="192.627mm" h="6mm"
+><ui
+><checkButton
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><integer
+>0</integer
+></value
+><caption placement="right" reserve="185.626mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><font typeface="Arial" baselineShift="0pt"
+/><value
+><text
+>The parties further agree to the following:</text
+></value
+></caption
+><items
+><integer
+>1</integer
+><integer
+>0</integer
+><integer
+>2</integer
+></items
+><bind match="none"
+/></field
+><field name="TextField11" y="127.803mm" x="19.57mm" w="187.184mm" h="52.165mm"
+><ui
+><textEdit multiLine="1"
+><border
+><edge stroke="lowered"
+/></border
+><margin
+/></textEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption reserve="0.01in"
+><para vAlign="middle"
+/></caption
+><bind match="none"
+/></field
+><field name="CheckBox7" y="181.875mm" x="14.486mm" w="193.303mm" h="19.226mm"
+><ui
+><checkButton
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><integer
+>0</integer
+></value
+><caption placement="right" reserve="186.302mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><font typeface="Arial" baselineShift="0pt"
+/><value
+><exData contentType="text/html"
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+><p style="letter-spacing:0in"
+>If either party alleges that the other party has failed to comply with the terms and conditions of this Agreement,</p
+><p style="letter-spacing:0in"
+>he/she may file a motion and seek a hearing for enforcement of the Agreement or for issuance of Execution for</p
+><p style="letter-spacing:0in"
+>possession and damages upon seven (7) business days, provided written notice to the other party and filed with</p
+><p style="letter-spacing:0in"
+>the court. The Court shall set a hearing to determine if a breach of the Agreement has occurred.<span style="xfa-spacerun:yes"
+> </span
+></p
+></body
+></exData
+></value
+></caption
+><items
+><integer
+>1</integer
+><integer
+>0</integer
+><integer
+>2</integer
+></items
+><bind match="none"
+/></field
+><field name="CheckBox8" y="201.099mm" x="14.578mm" w="87.441mm" h="7.776mm"
+><ui
+><checkButton
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><integer
+>0</integer
+></value
+><caption placement="right" reserve="80.44mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><value
+><text
+>The defendant agrees to vacate on 		  .</text
+></value
+><font typeface="Arial" baselineShift="0pt"
+/></caption
+><items
+><integer
+>1</integer
+><integer
+>0</integer
+><integer
+>2</integer
+></items
+><bind match="none"
+/></field
+><field name="DateField1" y="200.74mm" x="77.283mm" w="21.354mm" h="7.11mm"
+><ui
+><dateTimeEdit
+><border
+><edge presence="hidden"
+/><edge presence="hidden"
+/><edge
+/><edge presence="hidden"
+/></border
+><margin
+/></dateTimeEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><date
+/></value
+><caption reserve="0.01in"
+><para vAlign="middle"
+/></caption
+><bind match="none"
+/></field
+><field name="CheckBox9" y="209.208mm" x="14.578mm" w="193.522mm" h="6mm"
+><ui
+><checkButton
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><integer
+>0</integer
+></value
+><caption placement="right" reserve="186.521mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><font typeface="Arial" baselineShift="0pt"
+/><value
+><exData contentType="text/html"
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+><p style="letter-spacing:0in"
+>If both parties<span style="xfa-spacerun:yes"
+> </span
+><span style="letter-spacing:0em"
+>comply</span
+> with these conditions, the case will be dismissed on<span style="xfa-tab-count:1"
+>         </span
+><span style="xfa-spacerun:yes"
+>     </span
+>and the tenancy will be reinstated.</p
+></body
+></exData
+></value
+></caption
+><items
+><integer
+>1</integer
+><integer
+>0</integer
+><integer
+>2</integer
+></items
+><bind match="none"
+/></field
+><field name="DateField2" y="207.863mm" x="135.236mm" w="17.626mm" h="7.455mm"
+><ui
+><dateTimeEdit
+><border
+><edge presence="hidden"
+/><edge presence="hidden"
+/><edge
+/><edge presence="hidden"
+/></border
+><margin
+/></dateTimeEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><date
+/></value
+><caption reserve="0.01in"
+><para vAlign="middle"
+/></caption
+><bind match="none"
+/></field
+><field name="CheckBox10" y="215.997mm" x="14.578mm" w="193.867mm" h="6mm"
+><ui
+><checkButton
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><integer
+>0</integer
+></value
+><caption placement="right" reserve="186.867mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><font typeface="Arial" baselineShift="0pt"
+/><value
+><text
+>The parties shall appear in court on 		     at		 o'clock for review on compliance with this Agreement.</text
+></value
+></caption
+><items
+><integer
+>1</integer
+><integer
+>0</integer
+><integer
+>2</integer
+></items
+><bind match="none"
+/></field
+><field name="DateField3" y="213.614mm" x="76.604mm" w="24.377mm" h="8.442mm"
+><ui
+><dateTimeEdit
+><border
+><edge presence="hidden"
+/><edge presence="hidden"
+/><edge
+/><edge presence="hidden"
+/></border
+><margin
+/></dateTimeEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><date
+/></value
+><caption reserve="0.01in"
+><para vAlign="middle"
+/></caption
+><bind match="none"
+/></field
+><field name="TimeField2" y="213.673mm" x="105.967mm" w="16.728mm" h="8.442mm"
+><ui
+><dateTimeEdit
+><border
+><edge presence="hidden"
+/><edge presence="hidden"
+/><edge
+/><edge presence="hidden"
+/></border
+><margin
+/></dateTimeEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><time
+/></value
+><caption reserve="0.01in"
+><para vAlign="middle"
+/></caption
+><bind match="none"
+/></field
+><field name="CheckBox11" y="88.133mm" x="13.553mm" w="192.856mm" h="6mm"
+><ui
+><checkButton
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><integer
+>0</integer
+></value
+><caption placement="right" reserve="185.855mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><font typeface="Arial" baselineShift="0pt"
+/><value
+><text
+>Execution for 						      shall issue by written request on or after 		    .</text
+></value
+></caption
+><items
+><integer
+>1</integer
+><integer
+>0</integer
+><integer
+>2</integer
+></items
+><bind match="none"
+/></field
+><exclGroup name="RadioButtonList" x="42.363mm" y="88.095mm"
+><?templateDesigner itemValuesSpecified 1?><field w="28mm" h="6mm"
+><ui
+><checkButton shape="round"
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption placement="right" reserve="22mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><font typeface="Arial" baselineShift="0pt"
+/><value
+><text
+>possession</text
+></value
+></caption
+><items
+><integer
+>1</integer
+></items
+></field
+><bind match="none"
+/><field x="24.775mm" w="46.13mm" h="6mm"
+><ui
+><checkButton shape="round"
+><border
+><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption placement="right" reserve="40.13mm"
+><para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"
+/><font typeface="Arial" baselineShift="0pt"
+/><value
+><text
+>possession and damages</text
+></value
+></caption
+><items
+><integer
+>2</integer
+></items
+><bind match="none"
+/></field
+><?templateDesigner expand 1?></exclGroup
+><field name="DateField4" y="86.763mm" x="179.289mm" w="21.354mm" h="7.11mm"
+><ui
+><dateTimeEdit
+><border
+><edge presence="hidden"
+/><edge presence="hidden"
+/><edge
+/><edge presence="hidden"
+/></border
+><margin
+/></dateTimeEdit
+></ui
+><font typeface="Arial"
+/><margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><date
+/></value
+><caption reserve="0.01in"
+><para vAlign="middle"
+/></caption
+><bind match="none"
+/></field
+><draw h="=0mm" name="Line17" w="200.66mm" x="7.914mm" y="227.776mm"
+><value
+><line
+/></value
+></draw
+><draw h="3.552mm" name="DateWritServed" w="9.499mm" x="9.486mm" y="228.284mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><text
+>DATE</text
+></value
+><font size="7pt" typeface="Arial"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><?renderCache.bounds 24092 7235 0 0 1417 1417 0 0?><?renderCache.textRun 4 DATE 0 1417 6944 0 0 0 "Arial" 0 0 7000 ISO-8859-1?></draw
+><draw h="5.5699mm" name="PersonMakingService" w="76.2mm" x="40.089mm" y="228.284mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><text
+>SIGNATURE OF PLAINTIFF</text
+></value
+><font size="7pt" typeface="Arial"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><?renderCache.bounds 213166 12955 0 0 1417 1417 0 0?><?renderCache.textRun 22 SIGNATURE OF PLAINTIFF 0 1417 6944 0 0 0 "Arial" 0 0 7000 ISO-8859-1?></draw
+><draw h="10.16mm" name="VerticalLine" w="0in" x="39.818mm" y="227.776mm"
+><value
+><line
+/></value
+></draw
+><draw name="SignatureX" x="39.945mm" y="232.856mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><text
+>X</text
+></value
+><font size="14pt" typeface="Arial"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/></draw
+><draw h="10.16mm" name="VerticalLine" w="0in" x="120.432mm" y="227.776mm"
+><value
+><line
+/></value
+></draw
+><draw h="5.5699mm" name="TtileOfPersonMakingService" w="60.06mm" x="120.703mm" y="228.284mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><text
+>PLAINTIFF'S ATTORNEY</text
+></value
+><font size="7pt" typeface="Arial"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><?renderCache.bounds 167415 12955 0 0 1417 1417 0 0?><?renderCache.textRun 20 PLAINTIFF'S ATTORNEY 0 1417 6944 0 0 0 "Arial" 0 0 7000 ISO-8859-1?></draw
+><draw h="=0mm" name="Line17" w="200.66mm" x="8.58mm" y="237.588mm"
+><value
+><line
+/></value
+></draw
+><draw h="=0mm" name="Line17" w="200.66mm" x="7.582mm" y="237.64mm"
+><value
+><line
+/></value
+></draw
+><draw h="3.552mm" name="DateWritServed" w="9.499mm" x="9.487mm" y="238.814mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><text
+>DATE</text
+></value
+><font size="7pt" typeface="Arial"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><?renderCache.bounds 24092 7235 0 0 1417 1417 0 0?><?renderCache.textRun 4 DATE 0 1417 6944 0 0 0 "Arial" 0 0 7000 ISO-8859-1?></draw
+><draw h="5.5699mm" name="PersonMakingService" w="76.2mm" x="40.09mm" y="238.814mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><text
+>SIGNATURE OF DEFENDANT</text
+></value
+><font size="7pt" typeface="Arial"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><?renderCache.bounds 213166 12955 0 0 1417 1417 0 0?><?renderCache.textRun 22 SIGNATURE OF DEFENDANT 0 1417 6944 0 0 0 "Arial" 0 0 7000 ISO-8859-1?></draw
+><draw h="10.16mm" name="VerticalLine" w="0in" x="39.819mm" y="238.306mm"
+><value
+><line
+/></value
+></draw
+><draw name="SignatureX" x="39.946mm" y="243.386mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><text
+>X</text
+></value
+><font size="14pt" typeface="Arial"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/></draw
+><draw h="10.16mm" name="VerticalLine" w="0in" x="120.433mm" y="237.973mm"
+><value
+><line
+/></value
+></draw
+><draw h="5.5699mm" name="TtileOfPersonMakingService" w="60.06mm" x="120.704mm" y="238.814mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><text
+>DEFENDANT'S ATTORNEY</text
+></value
+><font size="7pt" typeface="Arial"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><?renderCache.bounds 167415 12955 0 0 1417 1417 0 0?><?renderCache.textRun 20 DEFENDANT'S ATTORNEY 0 1417 6944 0 0 0 "Arial" 0 0 7000 ISO-8859-1?></draw
+><draw h="=0mm" name="Line17" w="200.66mm" x="8.248mm" y="248.118mm"
+><value
+><line
+/></value
+></draw
+><draw h="3.552mm" name="DateWritServed" w="9.499mm" x="9.373mm" y="249.331mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><text
+>DATE</text
+></value
+><font size="7pt" typeface="Arial"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><?renderCache.bounds 24092 7235 0 0 1417 1417 0 0?><?renderCache.textRun 4 DATE 0 1417 6944 0 0 0 "Arial" 0 0 7000 ISO-8859-1?></draw
+><draw h="5.5699mm" name="PersonMakingService" w="76.2mm" x="39.976mm" y="249.331mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><text
+>SIGNATURE OF JUDGE</text
+></value
+><font size="7pt" typeface="Arial"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/><?renderCache.bounds 213166 12955 0 0 1417 1417 0 0?><?renderCache.textRun 18 SIGNATURE OF JUDGE 0 1417 6944 0 0 0 "Arial" 0 0 7000 ISO-8859-1?></draw
+><draw h="17.908mm" name="VerticalLine" w="0in" x="39.812mm" y="247.478mm"
+><value
+><line slope="/"
+/></value
+></draw
+><draw name="SignatureX" x="39.832mm" y="258.565mm"
+><ui
+><textEdit
+><margin
+/></textEdit
+></ui
+><value
+><text
+>X</text
+></value
+><font size="14pt" typeface="Arial"
+/><margin bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm"
+/></draw
+><draw h="=0mm" name="Line17" w="200.66mm" x="8.467mm" y="264.629mm"
+><value
+><line
+/></value
+></draw
+><?templateDesigner expand 1?></pageArea
+><?templateDesigner expand 1?></pageSet
+><subform h="756pt" w="576pt"
+/><proto
+/><?templateDesigner expand 1?><?renderCache.subset "Arial" 0 0 ISO-8859-1 4 256 66 0003000500070009000A000B000C000F00110012001300140015001A001D002400250026002700280029002A002C002D002E002F003000310032003300350036003700380039003B003C004400450046004700480049004A004B004C004D004E004F0050005100520053005400550056005700580059005A005B005C00CA00D1 "$&'(),./0127:ABCDEFGIJKLMNOPRSTUVXYabcdefghijklmnopqrstuvwxyÈÒ?><?renderCache.subset "Arial" 1 0 ISO-8859-1 4 176 44 0003000B000C000F0016001D002400250026002700280029002A002C002D002E003000310032003300350036003700380039003C004400450046004700480049004B004C004F00500051005200530055005600570058005C (),3:ABCDEFGIJKMNOPRSTUVYabcdefhilmnoprstuy?><?renderCache.subset "Arial" 1 0 UTF-16 2 4 0191?><?renderCache.subset "Myriad Pro" 0 0 ISO-8859-1 4 160 40 00010009000A000D000F00100018002200230024002500260027002A0033003500420043004400450046004700480049004A004C004D004E004F005000510053005400550056005700580059005A0068 (),./7ABCDEFIRTabcdefghiklmnoprstuvwxy'?></subform
+><?templateDesigner DefaultLanguage FormCalc?><?templateDesigner DefaultRunAt client?><?originalXFAVersion http://www.xfa.org/schema/xfa-template/2.1/ LegacyEventModel:0 LegacyPositioning:0?><?templateDesigner Grid show:1, snap:0, units:0, color:ff8080, origin:(0,0), interval:(125000,125000), objsnap:0, guidesnap:0, pagecentersnap:0?><?templateDesigner FormTargetVersion 28?><?templateDesigner Zoom 78?><?templateDesigner Rulers horizontal:1, vertical:1, guidelines:1, crosshairs:0?><?templateDesigner SaveTaggedPDF 1?><?templateDesigner SavePDFWithEmbeddedFonts 1?></template
+>

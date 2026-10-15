@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://labor.alaska.gov/copyright.htm",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:52:19.936106+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "etag": "\"86853252a30dd1:0\"",
+    "last_modified": "Wed, 19 Aug 2026 22:29:06 GMT",
+    "status": "fetched",
+    "title": "Copyright",
+    "sha256": "b3d45a388d5a92fec2d4eaee40d74f36338545b75059db4bb6cb656adb6ffee3",
+    "bytes": 8345,
+    "body_path": "evidence/http/2026-10-15T01-52-19.891109+00-00/b3d45a388d5a92fec2d4eaee40d74f36338545b75059db4bb6cb656adb6ffee3.body"
+  },
+  {
+    "url": "https://www.mass.gov/info-details/massgov-site-policies",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:52:22.290625+00:00",
+    "http_status": 404,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": "\"1792029148\"",
+    "last_modified": "Thu, 15 Oct 2026 01:52:28 GMT",
+    "status": "http_404",
+    "sha256": "3b316f9faa5305273f45cf9d7c4c947bcf528f6a51af5adf41159cb991c2a0fb",
+    "bytes": 87420,
+    "body_path": "evidence/http/2026-10-15T01-52-19.891109+00-00/3b316f9faa5305273f45cf9d7c4c947bcf528f6a51af5adf41159cb991c2a0fb.body"
+  }
+]

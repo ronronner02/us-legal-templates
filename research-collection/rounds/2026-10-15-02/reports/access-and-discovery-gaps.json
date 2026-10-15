@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://dlt.ri.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:50:12.203913+00:00",
+    "http_status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_403",
+    "sha256": "e5359784b610484f3de67eb5fe69d6f20c9f7e4bc6c67bb1172e79e5c2fa1825",
+    "bytes": 4556,
+    "body_path": "evidence/http/2026-10-15T01-50-12.169646+00-00/e5359784b610484f3de67eb5fe69d6f20c9f7e4bc6c67bb1172e79e5c2fa1825.body",
+    "receipt_file": "evidence/http/2026-10-15T01-50-12.169646+00-00/requests.json"
+  },
+  {
+    "url": "https://dlt.ri.gov/forms-applications",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:50:14.346657+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T01-50-12.169646+00-00/requests.json"
+  },
+  {
+    "url": "https://labor.vermont.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:50:14.361207+00:00",
+    "http_status": 403,
+    "content_type": "text/html",
+    "etag": null,
+    "last_modified": null,
+    "status": "http_403",
+    "sha256": "10f43c695a9db9978edb97c2fa42057c5f78d3ec9351266f1e0b3f1f91bf231f",
+    "bytes": 919,
+    "body_path": "evidence/http/2026-10-15T01-50-12.169646+00-00/10f43c695a9db9978edb97c2fa42057c5f78d3ec9351266f1e0b3f1f91bf231f.body",
+    "receipt_file": "evidence/http/2026-10-15T01-50-12.169646+00-00/requests.json"
+  },
+  {
+    "url": "https://labor.vermont.gov/rights-and-wages",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:50:16.965633+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T01-50-12.169646+00-00/requests.json"
+  },
+  {
+    "url": "https://dwd.wisconsin.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:50:16.979992+00:00",
+    "status": "fetch_error",
+    "reason": "[Errno 11001] getaddrinfo failed",
+    "receipt_file": "evidence/http/2026-10-15T01-50-12.169646+00-00/requests.json"
+  },
+  {
+    "url": "https://dwd.wisconsin.gov/dwd/forms-publications-search.htm",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:50:28.088569+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T01-50-12.169646+00-00/requests.json"
+  },
+  {
+    "url": "https://www.mass.gov/info-details/massgov-site-policies",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:52:22.290625+00:00",
+    "http_status": 404,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": "\"1792029148\"",
+    "last_modified": "Thu, 15 Oct 2026 01:52:28 GMT",
+    "status": "http_404",
+    "sha256": "3b316f9faa5305273f45cf9d7c4c947bcf528f6a51af5adf41159cb991c2a0fb",
+    "bytes": 87420,
+    "body_path": "evidence/http/2026-10-15T01-52-19.891109+00-00/3b316f9faa5305273f45cf9d7c4c947bcf528f6a51af5adf41159cb991c2a0fb.body",
+    "receipt_file": "evidence/http/2026-10-15T01-52-19.891109+00-00/requests.json"
+  },
+  {
+    "url": "https://labor.illinois.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:52:44.121986+00:00",
+    "status": "fetch_error",
+    "reason": "[Errno 11001] getaddrinfo failed",
+    "receipt_file": "evidence/http/2026-10-15T01-52-44.093538+00-00/requests.json"
+  },
+  {
+    "url": "https://labor.illinois.gov/forms.html",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:52:55.317225+00:00",
+    "status": "robots_unverified_stop",
+    "reason": "No retry or access-control workaround attempted.",
+    "receipt_file": "evidence/http/2026-10-15T01-52-44.093538+00-00/requests.json"
+  },
+  {
+    "url": "https://rec.wv.gov/Forms/Pages/default.aspx",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:53:00.658263+00:00",
+    "http_status": 301,
+    "content_type": "text/html; charset=utf-8",
+    "etag": "\"1791950142\"",
+    "last_modified": "Wed, 14 Oct 2026 03:55:42 GMT",
+    "status": "redirect",
+    "location": "https://rec.wv.gov/forms",
+    "receipt_file": "evidence/http/2026-10-15T01-52-44.093538+00-00/requests.json"
+  },
+  {
+    "url": "https://www.wv.gov/policies/Pages/default.aspx",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:53:41.559623+00:00",
+    "http_status": 301,
+    "content_type": "text/html; charset=utf-8",
+    "etag": "\"1791949417\"",
+    "last_modified": "Wed, 14 Oct 2026 03:43:37 GMT",
+    "status": "redirect",
+    "location": "https://www.wv.gov/policies",
+    "receipt_file": "evidence/http/2026-10-15T01-53-33.002393+00-00/requests.json"
+  },
+  {
+    "url": "https://www.mass.gov/doc/express-waiver/download",
+    "kind": "document",
+    "checked_at": "2026-10-15T01:54:43.115565+00:00",
+    "status": "fetch_error",
+    "reason": "<urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "receipt_file": "evidence/http/2026-10-15T01-54-36.419563+00-00/requests.json"
+  },
+  {
+    "url": "https://www.mass.gov/doc/military-affidavit/download",
+    "kind": "document",
+    "checked_at": "2026-10-15T01:55:26.932358+00:00",
+    "status": "fetch_error",
+    "reason": "<urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "receipt_file": "evidence/http/2026-10-15T01-54-36.419563+00-00/requests.json"
+  },
+  {
+    "url": "https://www.mass.gov/doc/summary-process-eviction-contempt-summons/download",
+    "kind": "document",
+    "checked_at": "2026-10-15T01:55:45.215687+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "etag": "\"ZUByfOXbAtcxTpkBdWJl6Q==\"",
+    "last_modified": "Sun, 27 Aug 2017 09:17:42 GMT",
+    "status": "fetch_error",
+    "reason": "The read operation timed out",
+    "receipt_file": "evidence/http/2026-10-15T01-54-36.419563+00-00/requests.json"
+  },
+  {
+    "url": "https://www.mass.gov/doc/summary-process-agreement-for-judgment/download",
+    "kind": "document",
+    "checked_at": "2026-10-15T01:56:11.525906+00:00",
+    "status": "fetch_error",
+    "reason": "The read operation timed out",
+    "receipt_file": "evidence/http/2026-10-15T01-54-36.419563+00-00/requests.json"
+  }
+]

@@ -1,0 +1,260 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T02:30:00.456498+00:00",
+  "baseline_tracked_files_preserved": 1611,
+  "baseline_unique_originals": 513,
+  "new_unique_originals": 25,
+  "combined_unique_originals": 538,
+  "states": {
+    "Massachusetts": 16,
+    "West Virginia": 9
+  },
+  "formats": {
+    "pdf": 25
+  },
+  "state_family_keys": 25,
+  "sha256_duplicates": 0,
+  "request_bodies_hash_checked": 43,
+  "local_catalog_links_checked": 54,
+  "browser_check": "passed",
+  "head": "c5846f650ad7c7d738439f1e6087f57b3541893f",
+  "branch": "library/organized-snapshot",
+  "remote": "https://github.com/ronronner02/us-legal-templates.git",
+  "new_round_committed": false,
+  "new_round_pushed": false,
+  "files": [
+    {
+      "path": "originals/MA/summary-process-summons-complaint-sample-16bfefad67ff.pdf",
+      "sha256": "16bfefad67ff3465c96be0b2a5a828ac5c15c678a8eab7d337890b6c582bfcab",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/housing-court-financial-statement-156abeb6706d.pdf",
+      "sha256": "156abeb6706daff25899e3694850585026bf1b8535478dedf8aae04ca552abfa",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/notice-transfer-housing-court-c272e51ccb5b.pdf",
+      "sha256": "c272e51ccb5b502c536023251530b2495e869c0c4d845ba543f7045dc3039a0c",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/housing-court-agreement-judgment-512e56339643.pdf",
+      "sha256": "512e563396437b84c7112fbf8a580a6c6d9c286c82fe3a96a5e292f4d0d299e2",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/supplementary-process-application-summons-22b76dca439b.pdf",
+      "sha256": "22b76dca439b3dc436e000a76ec86c69f14fb718c2a31e3e06f9c7eb9f09f53a",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/30a-complaint-judicial-review-2099e1347686.pdf",
+      "sha256": "2099e13476869594b5f3d1eea8d57b1a993f9e2d88289116cffa84027e0e4170",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/filing-impounded-information-9a9936b6373f.pdf",
+      "sha256": "9a9936b6373f203db0d744037384fd730d6558137de14223456cfde96135c4eb",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/notice-appearance-7c4b5a20f1a1.pdf",
+      "sha256": "7c4b5a20f1a10a609950834209c129142f685ff8a95d22207bf21422a2eacdbe",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/correct-clerical-docket-error-336a607ff458.pdf",
+      "sha256": "336a607ff45817415b725292186783bbe6beef35d5bb52745b0db2baed666e44",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/request-notice-show-cause-contempt-90e82cfaceb0.pdf",
+      "sha256": "90e82cfaceb0c97efdc15163c664101fbbf869fc9fd31437d481aed37f735024",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/motion-withdraw-appearance-5e5959cf7ca9.pdf",
+      "sha256": "5e5959cf7ca9f725530d1e6bc27ce67a432b610446435b3f1bd03587adbf678a",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/housing-court-agreement-7767cab38a8b.pdf",
+      "sha256": "7767cab38a8b77a21bba047dda51a4f6a715fb0104f1c450ca115eb690acdb22",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/WV/verification-sponsoring-broker-9d455e468523.pdf",
+      "sha256": "9d455e468523502e156fb5afac7154ccdc74fad57326530cc3aceabad2c1d458",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/WV/trust-fund-account-cc909a1e3b96.pdf",
+      "sha256": "cc909a1e3b968bef9b81cb670e3d4d1612b23e77edf207e3f23da1368c171e45",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/WV/trust-fund-account-waiver-22cbe3051082.pdf",
+      "sha256": "22cbe30510827ded9684d24ec0f9e098b123fb6da8c9bc7b54683bb7f8134f86",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/WV/subordination-resolution-6d3c98fc0914.pdf",
+      "sha256": "6d3c98fc0914bd316064dee556db7310657f176fa25c4fbf78b9a6081c982ced",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/WV/irrevocable-consent-be24b9299d13.pdf",
+      "sha256": "be24b9299d1368be1f2bac44730aef46d1490c3f7409cc07dfe5d7b018a5c768",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/WV/affidavit-broker-recommendation-2e4d86bbb4b4.pdf",
+      "sha256": "2e4d86bbb4b4f4687833965c5282a01926721f9a4c6fd34ba436241af20d4a19",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/WV/real-estate-complaint-f4b34c970f8e.pdf",
+      "sha256": "f4b34c970f8e79dec6c91cd872cee9de56e009cae51a4a0a191f2cf4e2bd12a5",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/WV/notice-agency-b09e6630d8f9.pdf",
+      "sha256": "b09e6630d8f956489428eaba121ad9cc8cacd8c934200af69460676266b766a7",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/WV/guide-agency-relationships-df069809b6ea.pdf",
+      "sha256": "df069809b6eab23e27f29277a92487405152c21eb139caecea88ec9c052eee95",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/express-waiver-b9c080c266ff.pdf",
+      "sha256": "b9c080c266ff3fdcf721b6c1f817903ad4facfa957628ffa7dd36e31ef9ef763",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/military-affidavit-4e6bd38c43d4.pdf",
+      "sha256": "4e6bd38c43d470466f4a01929f4c09ef5e97701c3f4f4038464d0f9a2e8f028d",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/summary-process-contempt-summons-dd64f5e34b7b.pdf",
+      "sha256": "dd64f5e34b7b856e33205ce9513c91338813e13be37775c794dbd5d1947d20ea",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MA/summary-process-agreement-judgment-d800e87f00b8.pdf",
+      "sha256": "d800e87f00b8dde765eea425fdf1395b89796abdbac4e3e88ffa4415f1e9604e",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "embedded_xfa_template",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    }
+  ],
+  "limitations": [
+    "No visual rendering, OCR, office rendering, or signature validation.",
+    "Printed revisions, legal currency, reuse rights, and publication approval remain under review.",
+    "No full-library semantic deduplication.",
+    "Catalog generated and manually reviewed for scope, provenance, escaping, links, and stated limits. Independent code review was not run.",
+    "One dynamic XFA form was identified from embedded XML; compatible-viewer rendering, interactive fields, and dynamic pagination remain untested."
+  ],
+  "delivery_state_scope": "Commit and push flags describe the pre-submission verification timestamp."
+}

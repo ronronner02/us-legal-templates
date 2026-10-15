@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-10-15",
+  "seed_sources_attempted": [
+    "https://dlt.ri.gov/forms-applications",
+    "https://labor.vermont.gov/rights-and-wages",
+    "https://dwd.wisconsin.gov/dwd/forms-publications-search.htm"
+  ],
+  "authority": "Initial candidate URL seeds, not search-result evidence. Browser query evidence is in browser-search-results.json."
+}

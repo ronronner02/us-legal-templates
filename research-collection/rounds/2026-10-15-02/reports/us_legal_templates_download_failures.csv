@@ -1,0 +1,5 @@
+title,url,attempt,status,resolved_by_later_download,reason
+Express Waiver,https://www.mass.gov/doc/express-waiver/download,1,fetch_error,True,<urlopen error _ssl.c:1015: The handshake operation timed out>
+Military Affidavit,https://www.mass.gov/doc/military-affidavit/download,1,fetch_error,True,<urlopen error _ssl.c:1015: The handshake operation timed out>
+Summary Process (Eviction) Contempt Summons,https://www.mass.gov/doc/summary-process-eviction-contempt-summons/download,1,fetch_error,True,The read operation timed out
+Summary Process Agreement for Judgment,https://www.mass.gov/doc/summary-process-agreement-for-judgment/download,1,fetch_error,True,The read operation timed out

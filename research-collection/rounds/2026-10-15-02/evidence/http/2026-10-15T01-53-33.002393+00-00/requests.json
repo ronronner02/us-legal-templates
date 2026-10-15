@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://www.mass.gov/massgov-site-policies",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:53:33.027907+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "etag": "\"1792003578-gzip\"",
+    "last_modified": "Wed, 14 Oct 2026 18:46:18 GMT",
+    "status": "fetched",
+    "title": "Mass.gov Site Policies | Mass.gov",
+    "sha256": "0b3bd1616b3018af4fb2f5d53e660820f9161b09770817c25968be3c4f1889d8",
+    "bytes": 165116,
+    "body_path": "evidence/http/2026-10-15T01-53-33.002393+00-00/0b3bd1616b3018af4fb2f5d53e660820f9161b09770817c25968be3c4f1889d8.body"
+  },
+  {
+    "url": "https://www.wv.gov/robots.txt",
+    "kind": "robots",
+    "checked_at": "2026-10-15T01:53:35.760231+00:00",
+    "http_status": 200,
+    "content_type": "text/plain",
+    "etag": "W/\"6ace3228-85d\"",
+    "last_modified": "Tue, 13 Oct 2026 13:29:12 GMT",
+    "status": "fetched",
+    "sha256": "8e8cb58d810473a52cce903be5ffb73d948eef981bbd101cffbf8dc2c02fcf4e",
+    "bytes": 2141,
+    "body_path": "evidence/http/2026-10-15T01-53-33.002393+00-00/8e8cb58d810473a52cce903be5ffb73d948eef981bbd101cffbf8dc2c02fcf4e.body"
+  },
+  {
+    "url": "https://www.wv.gov/policies/Pages/default.aspx",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:53:41.559623+00:00",
+    "http_status": 301,
+    "content_type": "text/html; charset=utf-8",
+    "etag": "\"1791949417\"",
+    "last_modified": "Wed, 14 Oct 2026 03:43:37 GMT",
+    "status": "redirect",
+    "location": "https://www.wv.gov/policies"
+  },
+  {
+    "url": "https://www.wv.gov/policies",
+    "kind": "source",
+    "checked_at": "2026-10-15T01:53:41.819911+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "etag": "W/\"1792028403\"",
+    "last_modified": "Thu, 15 Oct 2026 01:40:03 GMT",
+    "status": "fetched",
+    "title": "Policies | State of West Virginia",
+    "sha256": "4e1355a435496198567d90b44d2e29ab0ebcf5c4cd43385fe660985b853db758",
+    "bytes": 25918,
+    "body_path": "evidence/http/2026-10-15T01-53-33.002393+00-00/4e1355a435496198567d90b44d2e29ab0ebcf5c4cd43385fe660985b853db758.body"
+  }
+]
