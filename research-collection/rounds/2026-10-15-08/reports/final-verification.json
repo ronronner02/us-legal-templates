@@ -1,0 +1,297 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T07:31:42.977049+00:00",
+  "baseline_tracked_files_preserved": 2977,
+  "baseline_unique_originals": 658,
+  "new_unique_originals": 25,
+  "combined_unique_originals": 683,
+  "states": {
+    "Maryland": 25
+  },
+  "formats": {
+    "pdf": 25
+  },
+  "state_family_keys": 25,
+  "sha256_duplicates": 0,
+  "request_bodies_hash_checked": 28,
+  "local_catalog_links_checked": 54,
+  "browser_check": "passed",
+  "head": "57733d1b76347ae1874adb9ef5cdc7ac9690933e",
+  "branch": "library/organized-snapshot",
+  "remote": "https://github.com/ronronner02/us-legal-templates.git",
+  "new_round_committed": false,
+  "new_round_pushed": false,
+  "files": [
+    {
+      "path": "originals/MD/cc-dr-070-95277dda9b8a.pdf",
+      "sha256": "95277dda9b8aeff13105c8b2f3153e3c1317be0a45738be58ae777854cc8b4f0",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-072-139e44e2f08f.pdf",
+      "sha256": "139e44e2f08f6ba080278c17f9a782120640a7975f7458a7907ae5ba24eaa20a",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-077-719913094916.pdf",
+      "sha256": "719913094916cb285d13a1dd0f27ea9a780ae27300336b6e5eb482a324f27917",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dc-dv-po-001br-dc4c5e7fe083.pdf",
+      "sha256": "dc4c5e7fe08305aff04795486f3c059d1a7fec27a04dd83ed79b66db42d8ab0b",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-004-e2e740b5c1a5.pdf",
+      "sha256": "e2e740b5c1a5186e168ac40d4ec75791affc02bf9ada46a012f4c7e49aa80350",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-005-77d4ad77db88.pdf",
+      "sha256": "77d4ad77db882b44c5c5e92417984d965d7c1eba5d45b9810f74af34fcb29d7f",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-006-e011d67bad5b.pdf",
+      "sha256": "e011d67bad5b3091887a85cb32cfcb20ff7025b195b58919e7148e2396c1b625",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-007-5187ccdd35d4.pdf",
+      "sha256": "5187ccdd35d4c1c771635ca1990ab7532a6d097aa63b85ebbb00e72561e40da6",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-008-a6e715cf84d3.pdf",
+      "sha256": "a6e715cf84d3a5ef82f2d3947e525acb0612514b7a5cf0783078317e0f71acb1",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-009-2fe9751c0f3f.pdf",
+      "sha256": "2fe9751c0f3f7cacb4edf9161bd7a31810d54ef2e644345fcff02bf886cb7861",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-010-87d19ed8e5e3.pdf",
+      "sha256": "87d19ed8e5e30b349c27c17a76f06224f28e25f6d0b2d1f1ce319fb85e0cd6d4",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-012-5447ee2639a6.pdf",
+      "sha256": "5447ee2639a611e5a05622527db23262dc92852bb0e5f457d9dfdccd7013cd20",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-013-940bec3af12a.pdf",
+      "sha256": "940bec3af12aca8d58ba8a4f945aa05a4c200e66ee9e169304e12fa3e5989cd2",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-014-91157f49902b.pdf",
+      "sha256": "91157f49902b49311de6e5eac61d41a1c70ad0462b6a9118efe72899c1b5e183",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-015-60796d1b0b3d.pdf",
+      "sha256": "60796d1b0b3d4e7709c558017caf2b4778345181def119dec8a1f25bfd4666cb",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-016-0930c25c22d8.pdf",
+      "sha256": "0930c25c22d8a6d8257a3001f2a07236bb2e1b6c9f03603e8d79ce14f6799c94",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-018-aefefcb7f640.pdf",
+      "sha256": "aefefcb7f6406c507b0939a809da742476e9d64b6df65aa3b642d7d60e1a2a52",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-019-2e8c549e2e73.pdf",
+      "sha256": "2e8c549e2e73258e6840896fe31427adad114e0839fb854384310bb492303b37",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gn-022-0c8ccf34dcdf.pdf",
+      "sha256": "0c8ccf34dcdfff70fdf151d0913bbd8f0e6abb509418b3a460f6f2c2393de2a7",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gnin-001-ec137e1932f9.pdf",
+      "sha256": "ec137e1932f96c73d788c0a9eeff18e23db28b8b84e5643320e7801470eb09cb",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-gnin-002-d8742f9b9db4.pdf",
+      "sha256": "d8742f9b9db43f95964981f34038c096590e8d320e3108ae4b69b7b0020a14b6",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-097-0962394ec38b.pdf",
+      "sha256": "0962394ec38b6dbf81c91e2eeb0d2601db26a2284ea67973310eacbeec218d50",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-063-905ff8cb602f.pdf",
+      "sha256": "905ff8cb602fbfa57305c5d9c59e4b804d70ee891a7904607291556e05503783",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-115-61e6567ebe72.pdf",
+      "sha256": "61e6567ebe72babd11613b78f00f17b3b378f4e133d783f242baf43cb05ada1f",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    },
+    {
+      "path": "originals/MD/cc-dr-119-1bc4871dfd32.pdf",
+      "sha256": "1bc4871dfd327cfe7a44648d58234e029e970f2a89dbb3a5a1c03bf790a38d09",
+      "parser": "passed",
+      "identity": "passed",
+      "identity_method": "pdf_page_text",
+      "receipt_bytes": "matched",
+      "source_link": "matched"
+    }
+  ],
+  "limitations": [
+    "No visual rendering, OCR, office rendering, or signature validation.",
+    "Printed revision text checked. Visual layout, interactive fields, calculations, signatures, legal currency, complete packets, reuse, and publication approval remain pending. Older instruction alignment and source-described future examination-date transition are recorded for review.",
+    "No full-library semantic deduplication.",
+    "Catalog generated and manually reviewed for scope, provenance, escaping, links, and stated limits. Independent code review was not run."
+  ],
+  "delivery_state_scope": "Pre-commit checkpoint for round 08. Subsequent delivery is recorded by the Git branch.",
+  "original_bytes_unmodified": true,
+  "source_revision_mismatches": [],
+  "content_discrepancies": [
+    {
+      "forms": [
+        "CC-GNIN-001",
+        "CC-GN-001"
+      ],
+      "type": "instruction_and_petition_edition_alignment_review",
+      "instruction_revision": "01/2021",
+      "prior_petition_revision": "10/2025",
+      "note": "Separate editions retained. Compatibility not tested; this is not a finding that the instruction is invalid.",
+      "status": "pending"
+    },
+    {
+      "forms": [
+        "CC-GNIN-002",
+        "CC-GN-002",
+        "CC-GN-019",
+        "CC-GN-022"
+      ],
+      "type": "instruction_and_certificate_transition_review",
+      "instruction_revision": "01/2021",
+      "petition_revision": "10/2026",
+      "certificate_revisions": "10/13/2026",
+      "note": "Older instructions reference separate prior certificate forms. Source describes a transition keyed to examination dates on January 1, 2027; alignment remains unreviewed.",
+      "status": "pending"
+    }
+  ],
+  "acquisition_summary": {
+    "selected_candidates": 25,
+    "acquired_originals": 25,
+    "document_attempts": 25,
+    "unresolved_document_failures": 0,
+    "redirects": 0,
+    "transport": "Sequential ordinary browser requests with at least two seconds between requests after successful robots verification. Original source and response bytes retained.",
+    "unresolved_candidates": [],
+    "inherited_holds": "Preserved; no held-host request made."
+  }
+}

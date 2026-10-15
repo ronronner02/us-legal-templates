@@ -1,0 +1,362 @@
+{
+  "form_references": {
+    "CC-DR-070": {
+      "references": [
+        "CC-DR-070",
+        "CC-DR-133"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [
+        "CC-DR-133"
+      ],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-DR-072": {
+      "references": [
+        "CC-DR-072"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-DC-077": {
+      "references": [
+        "CC-DC-077",
+        "MDJ-008"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [
+        "MDJ-008"
+      ],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-DC-DV-PO-001BR": {
+      "references": [
+        "CC-DC-077",
+        "CC-DC-DV-PO-001BR"
+      ],
+      "current_round": [
+        "CC-DC-077"
+      ],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-004": {
+      "references": [
+        "CC-DC-128",
+        "CC-GN-004"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [
+        "CC-DC-128"
+      ],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-005": {
+      "references": [
+        "CC-GN-005"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-006": {
+      "references": [
+        "CC-GN-006"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-007": {
+      "references": [
+        "CC-GN-007"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-008": {
+      "references": [
+        "CC-GN-008"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-009": {
+      "references": [
+        "CC-GN-009"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-010": {
+      "references": [
+        "CC-GN-010"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-012": {
+      "references": [
+        "CC-GN-012"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-013": {
+      "references": [
+        "CC-GN-013"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-014": {
+      "references": [
+        "CC-GN-014"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-015": {
+      "references": [
+        "CC-GN-015"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-016": {
+      "references": [
+        "CC-GN-016"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-018": {
+      "references": [
+        "CC-GN-018"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-019": {
+      "references": [
+        "CC-GN-019"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GN-022": {
+      "references": [
+        "CC-GN-022"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GNIN-001": {
+      "references": [
+        "CC-DC-089",
+        "CC-GN-001",
+        "CC-GN-005",
+        "CC-GN-006",
+        "CC-GN-007",
+        "CC-GN-008",
+        "CC-GN-009",
+        "CC-GN-010",
+        "CC-GN-018",
+        "CC-GN-023",
+        "CC-GN-031",
+        "CC-GNIN-001"
+      ],
+      "current_round": [
+        "CC-GN-005",
+        "CC-GN-006",
+        "CC-GN-007",
+        "CC-GN-008",
+        "CC-GN-009",
+        "CC-GN-010",
+        "CC-GN-018"
+      ],
+      "prior_rounds": {
+        "CC-GN-001": [
+          {
+            "inventory": "research-collection/rounds/2026-10-15-07/inventory.json",
+            "repository_path": "research-collection/rounds/2026-10-15-07/originals/MD/cc-gn-001-397181ea2c4d.pdf",
+            "printed_revision": "10/2025"
+          }
+        ]
+      },
+      "not_acquired_this_round": [
+        "CC-DC-089",
+        "CC-GN-001",
+        "CC-GN-023",
+        "CC-GN-031"
+      ],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-GNIN-002": {
+      "references": [
+        "CC-DC-089",
+        "CC-GN-002",
+        "CC-GN-005",
+        "CC-GN-006",
+        "CC-GN-009",
+        "CC-GN-010",
+        "CC-GN-015",
+        "CC-GN-016",
+        "CC-GN-018",
+        "CC-GN-019",
+        "CC-GN-020",
+        "CC-GN-021",
+        "CC-GN-023",
+        "CC-GN-031",
+        "CC-GN-033",
+        "CC-GN-050",
+        "CC-GNIN-002"
+      ],
+      "current_round": [
+        "CC-GN-005",
+        "CC-GN-006",
+        "CC-GN-009",
+        "CC-GN-010",
+        "CC-GN-015",
+        "CC-GN-016",
+        "CC-GN-018",
+        "CC-GN-019"
+      ],
+      "prior_rounds": {
+        "CC-GN-002": [
+          {
+            "inventory": "research-collection/rounds/2026-10-15-07/inventory.json",
+            "repository_path": "research-collection/rounds/2026-10-15-07/originals/MD/cc-gn-002-5d850ad00e42.pdf",
+            "printed_revision": "10/2026"
+          }
+        ]
+      },
+      "not_acquired_this_round": [
+        "CC-DC-089",
+        "CC-GN-002",
+        "CC-GN-020",
+        "CC-GN-021",
+        "CC-GN-023",
+        "CC-GN-031",
+        "CC-GN-033",
+        "CC-GN-050"
+      ],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-DR-097": {
+      "references": [
+        "CC-DR-097"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-DR-063": {
+      "references": [
+        "CC-DC-128",
+        "CC-DR-063"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [
+        "CC-DC-128"
+      ],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-DR-115": {
+      "references": [
+        "CC-DC-128",
+        "CC-DR-115"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [
+        "CC-DC-128"
+      ],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    },
+    "CC-DR-119": {
+      "references": [
+        "CC-DR-119"
+      ],
+      "current_round": [],
+      "prior_rounds": {},
+      "not_acquired_this_round": [],
+      "baseline_catalog_lookup_scope": "Prior research rounds only; absence here is not evidence of absence from the original organized snapshot."
+    }
+  },
+  "restricted_information_notice_form_codes": [
+    "CC-DC-077"
+  ],
+  "edition_alignment_findings": [
+    {
+      "forms": [
+        "CC-GNIN-001",
+        "CC-GN-001"
+      ],
+      "type": "instruction_and_petition_edition_alignment_review",
+      "instruction_revision": "01/2021",
+      "prior_petition_revision": "10/2025",
+      "note": "Separate editions retained. Compatibility not tested; this is not a finding that the instruction is invalid.",
+      "status": "pending"
+    },
+    {
+      "forms": [
+        "CC-GNIN-002",
+        "CC-GN-002",
+        "CC-GN-019",
+        "CC-GN-022"
+      ],
+      "type": "instruction_and_certificate_transition_review",
+      "instruction_revision": "01/2021",
+      "petition_revision": "10/2026",
+      "certificate_revisions": "10/13/2026",
+      "note": "Older instructions reference separate prior certificate forms. Source describes a transition keyed to examination dates on January 1, 2027; alignment remains unreviewed.",
+      "status": "pending"
+    }
+  ],
+  "distinctions": [
+    "Guardian of person versus property notices and rights advice.",
+    "Parent consent versus minor designation; distinct source-described ages.",
+    "Adult versus minor annual reports versus financial accounting.",
+    "Professional capacity assessment versus physician-only cessation certificate.",
+    "Motion requesting alternate service versus alternate-service notice.",
+    "Parent/guardian consent-objection versus minor consent-objection and adult objection.",
+    "Conditional shielding release versus general commercial settlement."
+  ],
+  "packet_completeness": "not_verified",
+  "full_library_semantic_deduplication": "not_performed"
+}

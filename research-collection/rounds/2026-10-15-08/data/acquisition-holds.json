@@ -1,0 +1,74 @@
+[
+  {
+    "source_host": "www.michigan.gov",
+    "artifact_host": "www.michigan.gov",
+    "reason": "Michigan.gov policy restricts copying and commercial use absent a legal exception or written permission. Retain discovery metadata only pending document-specific permission/legal review.",
+    "evidence_ref": "evidence/http/2026-10-13T04-28-13.013958+00-00/917d9293cc70eb47542678a81f5b84446bc01812ebd5fbec44c23472b27ccd68.body",
+    "license_url": "https://www.michigan.gov/som/footer/policies",
+    "reviewed_at": "2026-10-13T04:45:05.522143+00:00"
+  },
+  {
+    "source_host": "www.ncdoi.gov",
+    "artifact_host": "www.ncdoi.gov",
+    "reason": "General terms establish only a noncommercial grant; commercial rights remain unresolved. Do not download into this commercial-product corpus until reviewed.",
+    "evidence_ref": "evidence/http/2026-10-12T10-03-01.567727+00-00/7ac7198343e49395b21011644bb02ae1eaa90237c492d80c95c78391a36a9600.body",
+    "license_url": "https://www.nc.gov/disclaimer-terms-use",
+    "reviewed_at": "2026-10-13T04:45:05.522154+00:00"
+  },
+  {
+    "source_host": "courts.delaware.gov",
+    "artifact_host": "courts.delaware.gov",
+    "reason": "Prior judiciary permission hold preserved; copying requires permission-scope review. Independent Delaware regulators require separate review.",
+    "evidence_ref": "evidence/http/2026-10-12T04-15-19.731265+00-00/f6bbe33bf90050f2ebf89dd361b9d6ab947f1f32f4d3f14bb7bfa5e3a5a339df.body",
+    "license_url": "https://courts.delaware.gov/terms.aspx",
+    "reviewed_at": "2026-10-13T04:45:05.522156+00:00"
+  },
+  {
+    "source_host": "cca.hawaii.gov",
+    "artifact_host": "cca.hawaii.gov",
+    "reason": "Linked state terms prohibit automated access and commercial use/resale without a separate written agreement. Stop further automated access and acquisition pending permission review.",
+    "evidence_ref": "evidence/http/2026-10-13T10-03-17.782871+00-00/9e60578145b31e2eccbdca23edfcdae62509ae7b99dcddaefdb6208fc08da2d9.body",
+    "license_url": "https://portal.ehawaii.gov/page/terms-of-use/",
+    "reviewed_at": "2026-10-13T10:05:05.783292+00:00"
+  },
+  {
+    "source_host": "www.tdi.texas.gov",
+    "artifact_host": "www.tdi.texas.gov",
+    "reason": "TDI grants copying/distribution only for noncommercial use and unaltered content. Commercial-product corpus acquisition and reuse require document-specific permission review.",
+    "evidence_ref": "evidence/http/2026-10-13T10-03-17.782871+00-00/50221e3f8c7a7b16961db393b9117b17c4f9e792f188f94ca6946f2fae47bc9f.body",
+    "license_url": "https://www.tdi.texas.gov/commissioner/privacy.html",
+    "reviewed_at": "2026-10-13T10:05:05.783315+00:00"
+  },
+  {
+    "source_host": "oci.wi.gov",
+    "artifact_host": "oci.wi.gov",
+    "reason": "OCI grants copying/distribution only for noncommercial use and unaltered content. Commercial-product corpus acquisition and reuse require document-specific permission review.",
+    "evidence_ref": "evidence/http/2026-10-13T10-03-17.782871+00-00/4782ae17d2d7ab6a8ce25d8e934bee68d9ce7240ad2ed01ed3646fc8102bf4be.body",
+    "license_url": "https://oci.wi.gov/Pages/AboutOCI/Disclaimer.aspx",
+    "reviewed_at": "2026-10-13T10:05:05.783321+00:00"
+  },
+  {
+    "source_host": "purchasing.utah.gov",
+    "artifact_host": "purchasing.utah.gov",
+    "reason": "State terms grant copying/distribution only for personal or informational use with unchanged content; commercial-product corpus permission and scope require document-specific legal review before acquisition.",
+    "evidence_ref": "evidence/http/2026-10-14T01-52-58.353240+00-00/f5398d246c620dac06185cc32e14e837982be931f9d17e62259f631056828d29.body",
+    "license_url": "https://www.utah.gov/disclaimer.html",
+    "reviewed_at": "2026-10-14T01:53:53.052899+00:00"
+  },
+  {
+    "source_host": "nrec.nebraska.gov",
+    "artifact_host": "nrec.nebraska.gov",
+    "reason": "Linked terms restrict copying to personal/noncommercial use and prohibit automated or manual monitoring/copying without prior written permission. No further automated access or acquisition pending scope/permission review.",
+    "license_url": "https://www.nebraska.gov/policies/index.html",
+    "evidence_ref": "evidence/http/2026-10-14T07-07-34.412031+00-00/834a0ea72d32031e4ac06f5b05ffb9baf08f7813f26ad7ca5e3ee32f170aa291.body",
+    "reviewed_at": "2026-10-14T07:10:11.111663+00:00"
+  },
+  {
+    "source_host": "labor.alaska.gov",
+    "artifact_host": "labor.alaska.gov",
+    "status": "permission_review_hold",
+    "reason": "Copyright page restricts alteration and republication and includes a broad reposting or duplication restriction. Preserve source evidence and link metadata; no original download pending permission review.",
+    "source_url": "https://labor.alaska.gov/copyright.htm",
+    "checked_at": "2026-10-15T01:52:54.329000+00:00"
+  }
+]

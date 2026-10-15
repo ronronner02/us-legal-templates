@@ -1,0 +1,26 @@
+{
+  "review_as_of": "2026-10-15",
+  "capacity_certificate": {
+    "basis": "Captured official catalog description, not independently verified law.",
+    "examination_or_evaluation_on_or_after": "2027-01-01",
+    "earlier_examination_or_evaluation_cutoff": "2026-12-31",
+    "source_describes_prior_versions_of": [
+      "CC-GN-019",
+      "CC-GN-020",
+      "CC-GN-021",
+      "CC-GN-050"
+    ],
+    "rule_references": [
+      "10-202(a)(1)",
+      "10-301(d)(1)"
+    ],
+    "legal_effective_date": "unverified",
+    "as_of": "2026-10-15"
+  },
+  "professional_certificate_forms": [
+    "CC-GN-019",
+    "CC-GN-022"
+  ],
+  "physician_only_form": "CC-GN-022",
+  "limitations": "Blank official certificates only. No medical assessment, legal-rule verification, signature, or court submission performed."
+}

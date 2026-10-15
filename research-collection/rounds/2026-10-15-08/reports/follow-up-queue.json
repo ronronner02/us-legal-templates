@@ -1,0 +1,37 @@
+[
+  {
+    "owner": "collection reviewer",
+    "task": "Review permitted reuse, commercial rights, modification, and publication approval.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Render originals and inspect interactive fields, calculations, signatures, legal currency, service, attachments, and filing acceptance.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review the CC-GN-019 source-described January 1, 2027 examination/evaluation transition against applicable rules; keep the trigger separate from publication or legal effective dates.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review January 2021 guardianship instructions against October 2025/2026 petitions and October 13, 2026 certificates. Preserve separate professional-completion roles.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "Review MDJ-008, CC-DC-128, CC-DR-133, show-cause orders, and other case-specific companions; acquired forms do not establish a complete filing packet.",
+    "status": "pending"
+  },
+  {
+    "owner": "collection reviewer",
+    "task": "When refreshing the combined overview, add mappings for this round support, service, release, and guidance categories and preserve all prior review restrictions. Full-library semantic deduplication remains pending.",
+    "status": "pending"
+  },
+  {
+    "owner": "future research round",
+    "task": "Retain all inherited holds, access stops and unresolved Wisconsin and Maryland findings.",
+    "status": "held"
+  }
+]

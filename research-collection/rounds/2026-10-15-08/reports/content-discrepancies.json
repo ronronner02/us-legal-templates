@@ -1,0 +1,27 @@
+[
+  {
+    "forms": [
+      "CC-GNIN-001",
+      "CC-GN-001"
+    ],
+    "type": "instruction_and_petition_edition_alignment_review",
+    "instruction_revision": "01/2021",
+    "prior_petition_revision": "10/2025",
+    "note": "Separate editions retained. Compatibility not tested; this is not a finding that the instruction is invalid.",
+    "status": "pending"
+  },
+  {
+    "forms": [
+      "CC-GNIN-002",
+      "CC-GN-002",
+      "CC-GN-019",
+      "CC-GN-022"
+    ],
+    "type": "instruction_and_certificate_transition_review",
+    "instruction_revision": "01/2021",
+    "petition_revision": "10/2026",
+    "certificate_revisions": "10/13/2026",
+    "note": "Older instructions reference separate prior certificate forms. Source describes a transition keyed to examination dates on January 1, 2027; alignment remains unreviewed.",
+    "status": "pending"
+  }
+]

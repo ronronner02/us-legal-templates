@@ -1,0 +1,254 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-15T07:31:38.974Z",
+  "original_urls_checked": 25,
+  "checks": [
+    {
+      "test": "initial_count",
+      "count": 25
+    },
+    {
+      "test": "state",
+      "value": "MD",
+      "count": 25
+    },
+    {
+      "test": "category",
+      "value": "guardianship_support",
+      "count": 17
+    },
+    {
+      "test": "category",
+      "value": "name_change_support",
+      "count": 4
+    },
+    {
+      "test": "category",
+      "value": "protective_and_peace_order_guidance",
+      "count": 1
+    },
+    {
+      "test": "category",
+      "value": "record_shielding_release",
+      "count": 1
+    },
+    {
+      "test": "category",
+      "value": "service_of_process",
+      "count": 2
+    },
+    {
+      "test": "use",
+      "value": "court_procedural_form",
+      "count": 18
+    },
+    {
+      "test": "use",
+      "value": "financial_statement_or_worksheet",
+      "count": 1
+    },
+    {
+      "test": "use",
+      "value": "procedural_guidance",
+      "count": 3
+    },
+    {
+      "test": "use",
+      "value": "professional_capacity_certificate",
+      "count": 2
+    },
+    {
+      "test": "use",
+      "value": "release_or_waiver_template",
+      "count": 1
+    },
+    {
+      "test": "combined_filters",
+      "count": 2
+    },
+    {
+      "test": "search_no_match_reset",
+      "status": "passed"
+    }
+  ],
+  "originals": [
+    {
+      "form_code": "CC-DR-070",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-dr-070-95277dda9b8a.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 817354
+    },
+    {
+      "form_code": "CC-DR-072",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-dr-072-139e44e2f08f.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 39653
+    },
+    {
+      "form_code": "CC-DC-077",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-dc-077-719913094916.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 33806
+    },
+    {
+      "form_code": "CC-DC-DV-PO-001BR",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-dc-dv-po-001br-dc4c5e7fe083.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 1218220
+    },
+    {
+      "form_code": "CC-GN-004",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-004-e2e740b5c1a5.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 913111
+    },
+    {
+      "form_code": "CC-GN-005",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-005-77d4ad77db88.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 182773
+    },
+    {
+      "form_code": "CC-GN-006",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-006-e011d67bad5b.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 181660
+    },
+    {
+      "form_code": "CC-GN-007",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-007-5187ccdd35d4.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 137072
+    },
+    {
+      "form_code": "CC-GN-008",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-008-a6e715cf84d3.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 1461675
+    },
+    {
+      "form_code": "CC-GN-009",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-009-2fe9751c0f3f.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 1461908
+    },
+    {
+      "form_code": "CC-GN-010",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-010-87d19ed8e5e3.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 209379
+    },
+    {
+      "form_code": "CC-GN-012",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-012-5447ee2639a6.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 337980
+    },
+    {
+      "form_code": "CC-GN-013",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-013-940bec3af12a.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 329229
+    },
+    {
+      "form_code": "CC-GN-014",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-014-91157f49902b.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 335505
+    },
+    {
+      "form_code": "CC-GN-015",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-015-60796d1b0b3d.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 1575274
+    },
+    {
+      "form_code": "CC-GN-016",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-016-0930c25c22d8.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 1459780
+    },
+    {
+      "form_code": "CC-GN-018",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-018-aefefcb7f640.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 233756
+    },
+    {
+      "form_code": "CC-GN-019",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-019-2e8c549e2e73.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 503071
+    },
+    {
+      "form_code": "CC-GN-022",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gn-022-0c8ccf34dcdf.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 478268
+    },
+    {
+      "form_code": "CC-GNIN-001",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gnin-001-ec137e1932f9.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 224146
+    },
+    {
+      "form_code": "CC-GNIN-002",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-gnin-002-d8742f9b9db4.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 229591
+    },
+    {
+      "form_code": "CC-DR-097",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-dr-097-0962394ec38b.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 167918
+    },
+    {
+      "form_code": "CC-DR-063",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-dr-063-905ff8cb602f.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 348715
+    },
+    {
+      "form_code": "CC-DR-115",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-dr-115-61e6567ebe72.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 242928
+    },
+    {
+      "form_code": "CC-DR-119",
+      "url": "http://127.0.0.1:8770/research-collection/rounds/2026-10-15-08/originals/MD/cc-dr-119-1bc4871dfd32.pdf",
+      "http_status": 200,
+      "pdf_signature": true,
+      "bytes": 217287
+    }
+  ],
+  "limitations": [
+    "Catalog controls and original URL bytes checked. No PDF visual rendering, interactive field, medical, legal or filing acceptance test."
+  ]
+}

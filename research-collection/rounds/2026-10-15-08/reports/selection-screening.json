@@ -1,0 +1,32 @@
+{
+  "requested_codes": [
+    "CC-GN-004",
+    "CC-GN-005",
+    "CC-GN-006",
+    "CC-GN-007",
+    "CC-GN-008",
+    "CC-GN-009",
+    "CC-GN-010",
+    "CC-GN-012",
+    "CC-GN-013",
+    "CC-GN-014",
+    "CC-GN-015",
+    "CC-GN-016",
+    "CC-GN-018",
+    "CC-GN-019",
+    "CC-GN-022",
+    "CC-GNIN-001",
+    "CC-GNIN-002",
+    "CC-DR-063",
+    "CC-DR-097",
+    "CC-DR-115",
+    "CC-DR-119",
+    "CC-DR-070",
+    "CC-DR-072",
+    "CC-DC-077",
+    "CC-DC-DV-PO-001BR"
+  ],
+  "selected": 25,
+  "existing_url_skips": [],
+  "normalization": "URL-decoded, lowercased, and trailing slash removed; screened against the permanent base catalog and every research inventory."
+}

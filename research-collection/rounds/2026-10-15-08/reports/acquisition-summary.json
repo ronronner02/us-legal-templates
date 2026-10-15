@@ -1,0 +1,10 @@
+{
+  "selected_candidates": 25,
+  "acquired_originals": 25,
+  "document_attempts": 25,
+  "unresolved_document_failures": 0,
+  "redirects": 0,
+  "transport": "Sequential ordinary browser requests with at least two seconds between requests after successful robots verification. Original source and response bytes retained.",
+  "unresolved_candidates": [],
+  "inherited_holds": "Preserved; no held-host request made."
+}

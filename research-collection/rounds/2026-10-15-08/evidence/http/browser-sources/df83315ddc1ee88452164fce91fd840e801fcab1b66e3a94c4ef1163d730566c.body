@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-42997016-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-42997016-1');
+</script>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/default/files/favicon.png" type="image/png" />
+<link rel="canonical" href="http://www.mdcourts.gov/reference/termsdisclaimer" />
+<link rel="shortlink" href="http://www.mdcourts.gov/node/3508410" />
+
+    <title>Terms of Use/Disclaimer | Maryland Courts</title>
+    <link href="https://fonts.googleapis.com/css?family=Habibi|Open+Sans:300,400,600,700" rel="stylesheet"> 
+    <link rel="stylesheet" media="all" href="/libraries/drupal-superfish/css/superfish.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/align.module.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/fieldgroup.module.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/container-inline.module.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/clearfix.module.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/details.module.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/hidden.module.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/item-list.module.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/js.module.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/nowrap.module.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/position-container.module.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/reset-appearance.module.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/resize.module.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-counter.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-report-counters.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-report-general-info.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/tablesort.module.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/modules/jquery_ui/assets/vendor/jquery.ui/themes/base/core.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/modules/jquery_ui/assets/vendor/jquery.ui/themes/base/tooltip.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/modules/styleswitcher/css/styleswitcher-overlay.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/modules/calendar/css/calendar.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/modules/calendar/css/calendar_multiday.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/modules/jquery_ui/assets/vendor/jquery.ui/themes/base/theme.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/modules/text_resize/css/text_resize.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/assets/vendor/normalize-css/normalize.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/normalize-fixes.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/action-links.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/breadcrumb.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/button.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/collapse-processed.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/container-inline.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/details.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/exposed-filters.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/field.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/form.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/icons.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/inline-form.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/item-list.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/link.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/links.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/menu.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/more-link.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/pager.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tabledrag.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tableselect.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tablesort.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tabs.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/textarea.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/ui-dialog.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/messages.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/node.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/themes/mdjudiciary/css/global.css?tmxnd1" />
+<link rel="stylesheet" media="all" href="/styleswitcher/css/mdjudiciary?tmxnd1" id="styleswitcher-css" />
+
+    <script src="https://use.fontawesome.com/a81df47131.js"></script>
+    <script src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" defer crossorigin="anonymous"></script>
+<script src="https://use.fontawesome.com/releases/v5.5.0/js/v4-shims.js" defer crossorigin="anonymous"></script>
+
+  </head>
+  <body class="path-node page-node-type-page sidebar-first">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <header role="banner">
+      <div class="region region-header">
+    <div id="block-accessibilitycloseicon" class="block block-block-content block-block-content10a5252d-459b-4479-9ad6-2504e141a905">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img alt="Close" data-entity-type data-entity-uuid id="close-icon" src="/sites/default/files/icon-close.png"></p>
+</div>
+      
+  </div>
+<div id="block-styleswitcher" class="block block-styleswitcher block-styleswitcher-styleswitcher">
+  
+      <h2>Colors</h2>
+    
+      <div class="item-list"><ul><li><a href="/styleswitcher/switch/mdjudiciary/custom/c?destination=/reference/termsdisclaimer" class="style-switcher custom-style style-c" data-rel="custom/c" rel="nofollow">C</a></li><li><a href="/styleswitcher/switch/mdjudiciary/custom/cbony?destination=/reference/termsdisclaimer" class="style-switcher custom-style style-cbony" data-rel="custom/cbony" rel="nofollow">C</a></li><li><a href="/styleswitcher/switch/mdjudiciary/custom/cwonb?destination=/reference/termsdisclaimer" class="style-switcher custom-style style-cwonb" data-rel="custom/cwonb" rel="nofollow">C</a></li><li><a href="/styleswitcher/switch/mdjudiciary/custom/default?destination=/reference/termsdisclaimer" class="style-switcher custom-style style-default" data-rel="custom/default" rel="nofollow">C</a></li></ul></div>
+  </div>
+<div id="block-gtranslate" class="block block-gtranslate block-gtranslate-block">
+  
+    
+      
+<div class="gtranslate_wrapper"></div><script>window.gtranslateSettings = {"switcher_horizontal_position":"inline","switcher_vertical_position":"inline","horizontal_position":"inline","vertical_position":"inline","float_switcher_open_direction":"top","switcher_open_direction":"bottom","default_language":"en","native_language_names":0,"detect_browser_language":0,"add_new_line":1,"select_language_label":"Select Language","flag_size":32,"flag_style":"2d","globe_size":60,"alt_flags":[],"wrapper_selector":".gtranslate_wrapper","url_structure":"none","custom_domains":null,"languages":["en","ar","bg","zh-CN","zh-TW","hr","cs","da","nl","fi","fr","de","el","hi","it","ja","ko","no","pl","pt","ro","ru","es","sv","ca","tl","iw","id","lv","lt","sr","sk","sl","uk","vi","sq","et","gl","hu","mt","th","tr","fa","af","ms","sw","ga","cy","be","is","mk","yi","hy","az","eu","ka","ht","ur","bn","bs","ceb","eo","gu","ha","hmn","ig","jw","kn","km","lo","la","mi","mr","mn","ne","pa","so","ta","te","yo","zu","my","ny","kk","mg","ml","si","st","su","tg","uz","am","co","haw","ku","ky","lb","ps","sm","gd","sn","sd","fy","xh"],"custom_css":""};</script><script>(function(){var js = document.createElement('script');js.setAttribute('src', 'https://cdn.gtranslate.net/widgets/latest/dropdown.js');js.setAttribute('data-gt-orig-url', '/reference/termsdisclaimer');js.setAttribute('data-gt-orig-domain', 'www.mdcourts.gov');document.body.appendChild(js);})();</script>
+  </div>
+<div id="block-textresize" class="block block-text-resize block-text-resize-block">
+  
+      <h2>Text Size</h2>
+    
+      <div class="content"><a href="javascript:;" class="changer" id="text_resize_decrease"><sup>-</sup>A</a> <a href="javascript:;" class="changer" id="text_resize_reset">A</a> <a href="javascript:;" class="changer" id="text_resize_increase"><sup>+</sup>A</a><div id="text_resize_clear"></div></div>
+
+  </div>
+<div id="block-utilitymenu-2" class="block block-superfish block-superfishutility-menu">
+  
+    
+      
+<ul id="superfish-utility-menu" class="menu sf-menu sf-utility-menu sf-horizontal sf-style-none">
+  
+<li id="utility-menu-menu-link-content837701dd-5383-4154-876c-ec38c41c9811" class="sf-depth-1 sf-no-children"><a href="/about/mission" class="sf-depth-1">Mission &amp; Vision</a></li><li id="utility-menu-menu-link-contentad731e2d-4c8c-47a0-a48e-aea3c3756ff2" class="sf-depth-1 sf-no-children"><a href="/careers" class="sf-depth-1">Jobs</a></li><li id="utility-menu-menu-link-content9aa6cc54-32f2-43b4-a91e-1bef90815385" class="sf-depth-1 sf-no-children"><a href="/reference/siteindex" class="sf-depth-1">﻿Site Index</a></li><li id="utility-menu-menu-link-content44f24ecd-b0cd-42aa-9cae-86ebbe70f2f5" class="sf-depth-1 sf-no-children"><a href="/legalhelp/accommodations" class="sf-depth-1">ADA Accommodations</a></li><li id="utility-menu-menu-link-contente50af181-c96e-4c36-acde-2ad8c65b0975" class="sf-depth-1 sf-no-children"><a href="" class="sf-depth-1">Accessibility</a></li>
+</ul>
+
+  </div>
+<div id="block-mdjudiciary-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/" rel="home" class="site-logo">
+      <img src="/sites/default/files/mdcourts-logo_0.png" alt="Home" />
+    </a>
+      </div>
+<div id="block-googlesearchapplianceform" class="search-block-form block block-block-content block-block-content35632fe1-8532-4d2d-98fa-f2fc7ee444af">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><style type="text/css">
+.searchbox table {
+    margin: 0;
+    border: none;
+    }
+.searchbox table td {
+    padding: 0px 3px;
+}
+.searchbox table tr {
+    padding: 5px;
+    background-color: transparent;
+}
+.search-block-form {
+ width: 23%;
+}
+td.gsib_a {
+    padding: 5px 9px 4px 9px;
+    }
+.searchbox {
+padding: 5px;
+float: right;
+width: 100%;
+}
+.gscb_a {
+  line-height: normal;
+  font-size: 18px;
+}
+.gsc-input {
+  font-size: 14px;
+}
+@media only screen and (max-width:978px) {
+.search-block-form {
+ width: 27%;
+}
+}
+@media only screen and (max-width: 767px) {
+.search-block-form {
+ width: 100%;
+}
+.searchbox {
+padding: 5px;
+margin: 0 auto;
+width: 70%;
+float: none;
+}
+}
+</style>
+
+<div class="searchbox">
+<script async src="https://cse.google.com/cse.js?cx=aea08415337350ad9"></script>
+<div class="gcse-searchbox-only" data-resultsUrl="/node/3536708" data-newWindow="false" data-gname="sitesearch" data-placeholder="Search"></div>
+                                &nbsp;&nbsp;<a href="/opinions/opinions">Opinions Search</a> &nbsp;&nbsp;<a href="/search/searchtips">Search Tips</a>
+</div>
+
+     <!---<form id="search" method="GET" action="/search">
+  <input aria-label="Site Search" type="text" name="content" maxlength="256" value="" placeholder="Site Search" />
+  <input aria-label="submit" type="submit" value="Search" class="submit"/>
+
+                                 <br>&nbsp;&nbsp;<a href="/opinions/opinions">Opinions Search</a> &nbsp;&nbsp;<a href="/search/searchtips">Search Tips</a>
+           <input type="hidden" name="entqr" value="0">
+                  <input type="hidden" name="output" value="xml_no_dtd">
+                  <input type="hidden" name="sort" value="date:D:L:d1">
+                  <input type="hidden" name="ud" value="1">
+                  <input type="hidden" name="site" value="Maryland_Judiciary">
+                  <input type="hidden" name="client" value="default_frontend">
+                  <input type="hidden" name="oe" value="UTF-8"><input type="hidden" name="ie" value="UTF-8">
+                  <input type="hidden" name="proxystylesheet" value="Maryland_Judiciary_Search">
+                  <input type="hidden" name="rc" value="1">
+                  <input type="hidden" name="filter" value="0">
+
+
+            </form>--->
+
+<!---
+<form id="search" name="gs" method="GET" action="https://googlein5.courts.state.md.us/search?">
+                  <input aria-label="Site Search" type="text" name="q" maxlength="256" value="" placeholder="Site Search" class="q">
+                                 <input aria-label="submit" type="submit" name="btnG" value="Search" class="submit">
+                                 <br>&nbsp;&nbsp;<a href="https://googlein5.courts.state.md.us/search?q=&btnG=Search&entqr=0&output=xml_no_dtd&sort=date:D:L:d1&ud=1&site=Maryland_Judiciary&client=default_frontend&oe=UTF-8&ie=UTF-8&proxystylesheet=Maryland_Judiciary_Search&rc=1&filter=0&ulang=en&ip=10.76.70.38&access=p&entqrm=0&wc=200&wc_mc=1&proxycustom=%3CADVANCED/%3E">Advanced Search</a> &nbsp;&nbsp;<a href="https://googlein5.courts.state.md.us/user_help.html">Search Tips</a>
+                  <input type="hidden" name="entqr" value="0">
+                  <input type="hidden" name="output" value="xml_no_dtd">
+                  <input type="hidden" name="sort" value="date:D:L:d1">
+                  <input type="hidden" name="ud" value="1">
+                  <input type="hidden" name="site" value="Maryland_Judiciary">
+                  <input type="hidden" name="client" value="default_frontend">
+                  <input type="hidden" name="oe" value="UTF-8"><input type="hidden" name="ie" value="UTF-8">
+                  <input type="hidden" name="proxystylesheet" value="Maryland_Judiciary_Search">
+                  <input type="hidden" name="rc" value="1">
+                  <input type="hidden" name="filter" value="0">
+
+
+            </form>
+---></div>
+      
+  </div>
+
+  </div>
+
+      <div class="region region-primary-menu">
+    <div id="block-mainnavigation-2" class="block block-superfish block-superfishmain">
+  
+    
+      
+<ul id="superfish-main" class="menu sf-menu sf-main sf-navbar sf-style-none">
+  
+<li id="main-menu-link-contentb3fd61b2-e307-4123-a4b7-aa484a9aec31" class="menuparent"><a href="/courts" class="menuparent">Courts</a><ul><li id="main-menu-link-content98f72319-3d17-40a2-979b-badcc8594183" class="sf-no-children"><a href="/scm">Supreme Court of Maryland</a></li><li id="main-menu-link-content3dec94c2-d71e-4d8a-a64f-02d9da3cb252" class="sf-no-children"><a href="/opinions/opinions">Appellate Opinions</a></li><li id="main-menu-link-contentf19bc49a-84aa-4d36-a264-7c2a1e08a205" class="sf-no-children"><a href="/courts/courtrecords">Court Records (Case Search)</a></li><li id="main-menu-link-content89a08dee-f0f6-494a-a98a-b9ca792d23c4" class="sf-no-children"><a href="/administration/holidays">Holidays</a></li><li id="main-menu-link-content7b16aa3f-0db7-4ea3-b692-959ac9e3eb8e" class="sf-no-children"><a href="/acm">Appellate Court of Maryland</a></li><li id="main-menu-link-content328ef681-49de-4089-901b-b3043d68d883" class="sf-no-children"><a href="/district/appointedattorneys">Appointed Attorneys Program</a></li><li id="main-menu-link-contentbd156c59-427d-4359-ad2e-91a0f6c24d2c" class="sf-no-children"><a href="/courtreporting">Court Reporting</a></li><li id="main-menu-link-content56e8f6b9-9a56-4baf-8487-7e4ebef7a885" class="sf-no-children"><a href="/judicialcouncil">Judicial Council</a></li><li id="main-menu-link-content363aa911-7703-4e9b-af45-a48f665b5ff5" class="sf-no-children"><a href="/circuit">Circuit Courts</a></li><li id="main-menu-link-contentbcbcda34-4279-40f1-a5ee-70413b620546" class="sf-no-children"><a href="/administration/closingsdelays">Closings/Delays</a></li><li id="main-menu-link-contentbff8c727-4a34-461e-aa17-c21c0f6a94b0" class="sf-no-children"><a href="/dashboards">Data Dashboards</a></li><li id="main-menu-link-content9d1844be-e689-46d4-a5ed-63c046c03df6" class="sf-no-children"><a href="/ethics">Judicial Ethics Committee</a></li><li id="main-menu-link-contentbe1efc9d-8201-4587-898a-e1a525980dbb" class="sf-no-children"><a href="/district">District Court</a></li><li id="main-menu-link-content5e99ceae-cfba-4183-ab1f-e03e59816dc8" class="sf-no-children"><a href="/cjd">Commission on Judicial Disabilities</a></li><li id="main-menu-link-contente3f3e639-4b59-480f-ae8b-f94c2fbe8bee" class="sf-no-children"><a href="/courtsdirectory">Directory of Courts</a></li><li id="main-menu-link-content8fb6568d-7d05-4530-a7b2-ce1489ce310f" class="sf-no-children"><a href="/judgeselect">Judicial Selection</a></li><li id="main-menu-link-content47183a99-2723-48df-839e-f10000c8352e" class="sf-no-children"><a href="/orphanscourt">Orphans&#039; Court</a></li><li id="main-menu-link-content73cfe936-d891-45d1-89d9-1d9c25d411bb" class="sf-no-children"><a href="/family/guardianship/courtappointedguardians">Court-Appointed Guardians</a></li><li id="main-menu-link-content689d44ad-8d25-4401-b098-9e298f2f5605" class="sf-no-children"><a href="/equaljustice">Equal Justice</a></li><li id="main-menu-link-content83a32083-f07c-4753-abb2-ed5fe4a3485f" class="sf-no-children"><a href="/juryservice">Jury Service</a></li><li id="main-menu-link-content987c75aa-2b5e-42ad-babe-343a4c1c8469" class="sf-no-children"><a href="/courts/about">About</a></li><li id="main-menu-link-content5221b34b-8a36-4ca1-b576-6ab911a0e897" class="sf-no-children"><a href="/forms">Court Forms</a></li><li id="main-menu-link-content76837d6e-ae48-423a-88ef-d48f1f7fb239" class="sf-no-children"><a href="/courts/feeschedules">Fee Schedules</a></li><li id="main-menu-link-content9c4195d1-ec87-4a7d-97fd-a791611b2a61" class="sf-no-children"><a href="/about/mission">Mission &amp; Vision</a></li><li id="main-menu-link-content5465c135-5733-4e49-92e2-b0fbf53d567e" class="sf-no-children"><a href="/accessibility">Accessibility</a></li><li id="main-menu-link-content798e5ccf-b5d1-4790-9011-07eb1a94b9da" class="sf-no-children"><a href="/languageservices">Court Language Services</a></li><li id="main-menu-link-contente3585e9a-950f-4513-862e-71f98d1978ef" class="sf-no-children"><a href="/judicialcouncil">Governance</a></li><li id="main-menu-link-contentca7b16d1-0e55-4401-ab8d-378987c0d380" class="sf-no-children"><a href="/opsc">Problem-Solving Courts</a></li><li id="main-menu-link-contentc04777bd-b643-440f-8b2b-f85ce77b0be1" class="sf-no-children"><a href="/adminorders-categories">Administrative Orders</a></li><li id="main-menu-link-contentf4d4fb06-9920-41e2-908e-2a76031a2829" class="sf-no-children"><a href="/courts/courtoffices">Court Offices</a></li><li id="main-menu-link-contente30f0637-ff27-4e5c-984b-ec1ae0b2dc4f" class="sf-no-children"><a href="/communications">Government Relations &amp; Public Affairs</a></li><li id="main-menu-link-content0af67304-e179-4a4d-b586-fdd0c0294679" class="sf-no-children"><a href="/publications">Publications</a></li></ul></li><li id="main-menu-link-content352a5085-574e-4d01-bf00-f6168bd9755f" class="menuparent"><a href="/courthelp" class="menuparent">Court Help</a><ul><li id="main-menu-link-content04eebf61-fac8-4d55-b2be-834fd4477370" class="sf-no-children"><a href="/legalhelp/courtrecords">Access to Court Records</a></li><li id="main-menu-link-content5a95bea7-89c9-49b9-96df-b91b967afddd" class="sf-no-children"><a href="/helpcenter">Court Help Centers</a></li><li id="main-menu-link-contentb605af52-e9c5-47d2-a6a6-08ab3bef5507" class="sf-no-children"><a href="/legalhelp/filingfeewaivers">Filing Fee Waivers</a></li><li id="main-menu-link-contentc655cc67-5f53-4f4a-8477-065a8d759dcb" class="sf-no-children"><a href="/legalhelp/moneyissues">Money Issues</a></li><li id="main-menu-link-content4737ace2-bc5a-4eed-8db3-f989e535abeb" class="sf-no-children"><a href="/legalhelp/accommodations">Accommodations</a></li><li id="main-menu-link-content7454e39b-8658-49d2-a873-d8490195dd66" class="sf-no-children"><a href="/courthelp/lawtopics">Court Help Topics</a></li><li id="main-menu-link-contentc1bec826-66e6-486f-b92c-9ca3cf6281e8" class="sf-no-children"><a href="/legalhelp/findinglegalhelp">Finding Legal Help</a></li><li id="main-menu-link-contentcf93eb89-f1a0-41bc-a99c-cc26bbbe3c72" class="sf-no-children"><a href="https://www.peoples-law.org" class="sf-external">People&#039;s Law Library</a></li><li id="main-menu-link-content8b3c01be-12ca-4ff2-b4d1-c6c08da47e0e" class="sf-no-children"><a href="/courthelp/mobileapp">App - Maryland Court Help</a></li><li id="main-menu-link-content7e59c59f-99a0-497c-b4ca-e5731e2c0f25" class="sf-no-children"><a href="/reference/videolibrary">Court Help Videos</a></li><li id="main-menu-link-content1a348742-83ba-45cb-9206-c2601af8ffda" class="sf-no-children"><a href="/legalhelp/housing">Housing</a></li><li id="main-menu-link-content11e13afd-84ae-4f5e-a0c6-c86fa8dc7562" class="sf-no-children"><a href="/legalhelp/lifeplanning">Personal &amp; Life Planning Resources</a></li><li id="main-menu-link-content4af0b374-0a02-4bd0-823d-edfb4b73ab1d" class="sf-no-children"><a href="/courthelp/appealsacm">Appeals - Appellate Court of Maryland</a></li><li id="main-menu-link-content68583321-bd59-4c94-b630-cbda34da0600" class="sf-no-children"><a href="/legalhelp/criminalcases">Criminal Cases</a></li><li id="main-menu-link-content1c56ab58-ae5a-41e3-bf27-063d1a2dac34" class="sf-no-children"><a href="/legalhelp/juveniledelinquency">Juvenile Delinquency</a></li><li id="main-menu-link-contente63d2940-6bdd-46de-ba4e-52731aaf0a3b" class="sf-no-children"><a href="/legalhelp/remotehearing">Remote Hearing Toolkit</a></li><li id="main-menu-link-contentc03dd2c3-0ea2-40c5-b957-2e505998d0ff" class="sf-no-children"><a href="/courthelp/appealstoscm">Appeals - Supreme Court of Maryland</a></li><li id="main-menu-link-contented18acb9-9349-4a1c-9c81-4171783b38d0" class="sf-no-children"><a href="/legalhelp/domesticviolence">Domestic Violence</a></li><li id="main-menu-link-content12175518-4394-4de8-b27f-81f0c3d3f91e" class="sf-no-children"><a href="/legalhelp/landrecords" title="Land Records">Land Records</a></li><li id="main-menu-link-content1d16a538-523b-4004-b477-c57cc64bad20" class="sf-no-children"><a href="/lawlib">Thurgood Marshall State Law Library</a></li><li id="main-menu-link-content40b236d5-30ec-47cf-b928-a98a7d790edb" class="sf-no-children"><a href="/legalhelp/childabuseneglect">Child Abuse and Neglect</a></li><li id="main-menu-link-content0bf64e96-0f28-487e-9f3b-7afcb7029534" class="sf-no-children"><a href="/legalhelp/employment">Employment</a></li><li id="main-menu-link-content8b5ab879-2e88-43bf-92ad-8517a3ec09f0" class="sf-no-children"><a href="/languageservices">Language Services</a></li><li id="main-menu-link-contentece0a2be-51b9-406d-98e6-4c20f674a329" class="sf-no-children"><a href="/legalhelp/traffic">Traffic</a></li><li id="main-menu-link-content024d902c-da48-455a-a259-6cd4e6c1af58" class="sf-no-children"><a href="/family">Children &amp; Family</a></li><li id="main-menu-link-content66caa419-ca9f-4d6b-8352-388abc6313fe" class="sf-no-children"><a href="/legalhelp/expungement">Expungement</a></li><li id="main-menu-link-content4af9312a-e5ab-4b4c-ad2c-56000ca7bdc1" class="sf-no-children"><a href="/legalhelp/mediationadr">Mediation &amp; ADR</a></li><li id="main-menu-link-contente8aea23e-3e24-4ea4-8282-21f2f354cedf" class="sf-no-children"><a href="/legalhelp/willsestates">Wills &amp; Estates</a></li><li id="main-menu-link-contentf7691be5-bc75-4ba1-b0e4-cb1ffdfdeeb3" class="sf-no-children"><a href="/forms">Court Forms</a></li></ul></li><li id="main-menu-link-content02361b73-fcb1-4a37-bb1f-61562310bbde" class="menuparent"><a href="/eservices" class="menuparent">E-Services</a><ul><li id="main-menu-link-contentb0686b97-6724-48f9-866f-08f0493324ef" class="sf-no-children"><a href="/eservices/idlists">Active and Former Judicial Officers IDs</a></li><li id="main-menu-link-contentc09ddf09-89d8-4a9c-a2c4-18d264773ed0" class="sf-no-children"><a href="https://casesearch.courts.state.md.us/casesearch/" class="sf-external">Case Search</a></li><li id="main-menu-link-content952294c6-bba3-4930-9e2a-ad23d67208a8" class="sf-no-children"><a href="/erecording">E-Recording for Land Records</a></li><li id="main-menu-link-contente3a6aa21-b9a3-4c41-af67-1b47bdbbd363" class="sf-no-children"><a href="/legalhelp/traffic">Pay a Traffic Ticket</a></li><li id="main-menu-link-contentefda447c-8a0a-438f-84fb-7c9a93fb3dfb" class="sf-no-children"><a href="/opinions/opinions">Appellate Opinions</a></li><li id="main-menu-link-content353933ef-201c-4b60-a0cd-3a95d582513d" class="sf-no-children"><a href="/connectlogin">CONNECT (Internal)</a></li><li id="main-menu-link-content34d75f8f-2155-482b-96b1-e467b144249e" class="sf-no-children"><a href="https://registers.maryland.gov/main/search.html" class="sf-external">Estate Search</a></li><li id="main-menu-link-content9121f7c3-a27e-43f5-9474-64ae1c71bea3" class="sf-no-children"><a href="https://www.peoples-law.org" class="sf-external">People&#039;s Law Library</a></li><li id="main-menu-link-content7529ca47-e512-4041-be6d-1830f653fd1b" class="sf-no-children"><a href="/lawlib/question">Ask a Law Librarian</a></li><li id="main-menu-link-contentb559bc86-8e0f-44e2-9787-87e0a87773ff" class="sf-no-children"><a href="/helpcenter">Court Help Centers</a></li><li id="main-menu-link-content90895485-1104-4471-96e0-54bf5da9d69f" class="sf-no-children"><a href="/procurement/grants">Grants</a></li><li id="main-menu-link-contentc9bdc61b-8df3-49d8-8110-b5f99c6be0be" class="sf-no-children"><a href="/procurement">Procurement &amp; Solicitations</a></li><li id="main-menu-link-contentd3fc902a-55fc-4f25-a46a-fea9598668a5" class="sf-no-children"><a href="https://jportal.mdcourts.gov/license/index_disclaimer.jsp" class="sf-external">Business Licenses - Search</a></li><li id="main-menu-link-contentabc60f04-a991-400f-9eb8-1dd7ebc0e19a" class="sf-no-children"><a href="/forms">Court Forms</a></li><li id="main-menu-link-contenta9529873-4e3f-411f-8fa8-cfe0bcea89e7" class="sf-no-children"><a href="/guideandfile">Guide &amp; File</a></li><li id="main-menu-link-contentf89c97e2-7a86-4036-b9b9-20b0143ed5f9" class="sf-no-children"><a href="/remotehearings">Remote Hearings and Proceedings</a></li><li id="main-menu-link-contentc5f7eb0f-b3fd-4acf-8d67-886a22dec746" class="sf-no-children"><a href="/businesstech/opinions">Business &amp; Technology Opinions</a></li><li id="main-menu-link-content47ac605e-c679-4d82-91b4-8ab91aa7d2f5" class="sf-no-children"><a href="/dashboards">Data Dashboards</a></li><li id="main-menu-link-contentf9a5a3ad-bfe4-4cd7-81e0-7ec0a82ac1ed" class="sf-no-children"><a href="/jportal">JPortal</a></li><li id="main-menu-link-content573dbcf2-1b6f-4f5a-98eb-164a7fb6c7b0" class="sf-no-children"><a href="/lawlib/using-library/reference-services/document-delivery">Request State Law Library Materials</a></li><li id="main-menu-link-content3221c3de-f98b-4228-9bbd-adfb245bf9f1" class="sf-no-children"><a href="/careers">Careers</a></li><li id="main-menu-link-content9883e5e9-d2f0-4ef9-9270-9c97fa968184" class="sf-no-children"><a href="/eservices/dvmonthlypublicreports">Domestic Violence Monthly Reports</a></li><li id="main-menu-link-contenta009d161-96c1-4cdf-87f3-4c589a63aac9" class="sf-no-children"><a href="/juryservice/jurorqualificationform">Juror Qualification Form</a></li><li id="main-menu-link-content6055432d-5e21-487b-931a-3927da94ca89" class="sf-no-children"><a href="/lawlib">State Law Library Catalog</a></li><li id="main-menu-link-content03d12d65-ef9b-4e31-802e-cd6b6c104f60" class="sf-no-children"><a href="https://mdcourts.gov/html/courtoperations/map.html" class="sf-external">Case Management Plans</a></li><li id="main-menu-link-contentabdac167-78e8-4661-9459-95a353438af3" class="sf-no-children"><a href="/mdec/efiling">E-filing</a></li><li id="main-menu-link-content9d0fd859-59a6-419f-a7f5-385355c701bd" class="sf-no-children"><a href="/mdec">Maryland Electronic Courts (MDEC)</a></li></ul></li><li id="main-menu-link-content50d13d2d-2769-4206-b54f-431abfe23a6a" class="menuparent"><a href="/lawyers" class="menuparent">Lawyers</a><ul><li id="main-menu-link-contenteb46c0bd-cab2-47ce-9f1f-7ba7d31d0b0a" class="sf-no-children"><a href="/appellate/amicus">Amicus Curiarum</a></li><li id="main-menu-link-content2a94df98-3b1c-496b-907c-6e5076d0a5d4" class="sf-no-children"><a href="/lawyers/ais">Attorney Information System</a></li><li id="main-menu-link-content109ddb65-0d65-4836-b73c-0fdb29da787e" class="sf-no-children"><a href="/cpf/forms">Change of Address</a></li><li id="main-menu-link-contentdc23485f-d086-4d51-8b80-7bbbdc0739c7" class="sf-no-children"><a href="/judgeselect/judicialvacancy">Judicial Vacancies</a></li><li id="main-menu-link-content0d92778b-d114-49d9-bf3c-7ae4707725e4" class="sf-no-children"><a href="/district/appointedattorneys">Appointed Attorneys Program</a></li><li id="main-menu-link-contentc556881d-7ca0-4424-9516-82efab72d7f7" class="sf-no-children"><a href="/attysearch">Attorney Listing</a></li><li id="main-menu-link-content52989e77-be60-4bdb-8af1-ffa6fc801237" class="sf-no-children"><a href="/cjd">Commission on Judicial Disabilities</a></li><li id="main-menu-link-contentd054ad42-a4d7-4b66-bac0-e5d0b891dc1d" class="sf-no-children"><a href="/lawyers/legalsites">Legal Resources</a></li><li id="main-menu-link-contentdb818871-7ff2-48ac-b19b-d84df9db6bbd" class="sf-no-children"><a href="/lawyers/ais">Attorney Change of Address/Contact</a></li><li id="main-menu-link-content53f38732-c562-48a0-b562-ea758372c041" class="sf-no-children"><a href="/lawyers/barassociations">Bar Associations</a></li><li id="main-menu-link-content000c479f-798f-4a3d-b7b0-4df71a6a6692" class="sf-no-children"><a href="/cpf">Client Protection Fund</a></li><li id="main-menu-link-content12217d81-64eb-4fea-a903-c033b4016f5e" class="sf-no-children"><a href="/probono">Pro Bono</a></li><li id="main-menu-link-contentb933185b-0c07-4c52-b7f3-1dbf05461868" class="sf-no-children"><a href="/lawyers/attorneyreportingrequirements">Attorney Compliance Requirements</a></li><li id="main-menu-link-contentc604d21b-bba3-46b7-99f5-03b2920fbe1d" class="sf-no-children"><a href="/ble">Board of Law Examiners</a></li><li id="main-menu-link-content89c294e1-5d11-4100-9e10-1fd23254d83c" class="sf-no-children"><a href="/attygrievance/sanctions">Disciplinary Actions</a></li><li id="main-menu-link-content8774af56-b8e0-4ca8-be36-d6d64a7090c9" class="sf-no-children"><a href="/rules/ruleschanges">Proposed Rules Changes/Orders</a></li><li id="main-menu-link-contentb8fef319-4a28-4217-893d-fe38a2d171a1" class="sf-no-children"><a href="/attygrievance">Attorney Grievance Commission</a></li><li id="main-menu-link-content60942aad-02b3-46bb-8b22-c1adeca9906f" class="sf-no-children"><a href="/coappeals/cogs">Certificate of Good Standing</a></li><li id="main-menu-link-content95b266d0-25f2-48fa-8516-4bf43cb4b714" class="sf-no-children"><a href="/mdec/efiling">E-filing</a></li><li id="main-menu-link-content18ed77ea-f548-4d7e-b66d-fd8bb6a7d038" class="sf-no-children"><a href="/courtforms/uniformsubpoena">Statewide Uniform Subpoena Form</a></li></ul></li><li id="main-menu-link-contenta41c578b-f1a2-4d69-b172-b96ce6aedc38" class="menuparent"><a href="/media" class="menuparent">Media</a><ul><li id="main-menu-link-content11590dff-1876-4ac1-8a79-743c91262e0b" class="sf-no-children"><a href="/communications">Government Relations &amp; Public Affairs</a></li><li id="main-menu-link-content42d85f0e-b09d-481a-8889-df02ad068b30" class="sf-no-children"><a href="/media">Media Resource Center</a></li><li id="main-menu-link-content8bf01441-c10f-4336-91f2-b858216b6c5c" class="sf-no-children"><a href="/media/news">News Releases</a></li><li id="main-menu-link-content947068bf-09c3-43f3-b348-d928c02b666e" class="sf-no-children"><a href="/publications">Publications</a></li><li id="main-menu-link-contentc0a6146f-f688-4479-8128-80806c497e87" class="sf-no-children"><a href="/judicialrecords">Judicial Records</a></li></ul></li><li id="main-menu-link-content68aefe09-75b1-49c8-830d-b2e05bf0da34" class="menuparent"><a href="/education" class="menuparent">Community</a><ul><li id="main-menu-link-content7754a443-403a-48ed-bf8b-b5aa3d15f8b2" class="sf-no-children"><a href="/education#billofrights">Bill of Rights Day</a></li><li id="main-menu-link-content25b9696e-0ab5-45dc-b2bf-299466445470" class="sf-no-children"><a href="/education#courtroomtours">Courtroom Tours</a></li><li id="main-menu-link-contentb5c5ce61-1d01-4f7b-8c20-4085284d6014" class="sf-no-children"><a href="/education#mocktrial">Mock Trial</a></li><li id="main-menu-link-content767021f2-c9b9-47be-b2c5-61b029dd3ed0" class="sf-no-children"><a href="/district/schools_in_court">Schools in the Courts</a></li><li id="main-menu-link-contentc5c09265-c9ec-4228-ad79-e50e2e232117" class="sf-no-children"><a href="/macro/eventsconflictresolutionday">Bookmark Art Contest</a></li><li id="main-menu-link-contente994ad91-fc3b-4fc2-bad5-e8112c892617" class="sf-no-children"><a href="/equaljustice">Equal Justice</a></li><li id="main-menu-link-contentffd14993-6d68-4e2d-8884-ca1a4f4fbf4c" class="sf-no-children"><a href="/education/links">More Sites to Visit</a></li><li id="main-menu-link-contenta2780166-57f0-41d7-a62c-126e4d72a326" class="sf-no-children"><a href="/education#speakersbureau">Speakers Bureau</a></li><li id="main-menu-link-content42ec28fc-79a3-4058-923b-6f000f963afc" class="sf-no-children"><a href="/education#constitution">Constitution Day</a></li></ul></li>
+</ul>
+
+  </div>
+
+  </div>
+
+  </header>
+
+  
+
+  
+
+    <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+
+  
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content">
+        <div class="region region-content">
+    <div id="block-pagetitle" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="page-title"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Terms of Use/Disclaimer</span>
+</h1>
+
+
+  </div>
+<div id="block-mdjudiciary-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article data-history-node-id="3508410" about="/reference/termsdisclaimer" typeof="schema:WebPage" class="node node--type-page node--view-mode-full">
+
+  
+      <span property="schema:name" content="Terms of Use/Disclaimer" class="rdf-meta hidden"></span>
+
+
+  
+  <div class="node__content">
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><article class="article"><!-- Future area for social media widget Button BEGIN --><!-- Future area for social media widget Button END -->
+<h5>Information Collected at this Site</h5>
+
+<p>If you visit our web site to read, print or download information, the only information the Judiciary collects about your visit is “navigational information:” the name of the domain from which you accessed the web site, the date and time any page on the site was accessed, and the web site address of any web site from which you linked to our site. No information identifying you personally is collected. We use these site usage statistics to analyze how our site is used and to improve its usefulness to the public.</p>
+
+<p>If you choose to provide us with personal information, as in an e-mail to our webmaster, we use that information to respond to your inquiry and to help us get the information requested. We only share the information you give us with another agency if your inquiry relates to that agency, or as otherwise required by law. When you make an inquiry by e-mail, we do not post your inquiry on the web site.</p>
+
+<p>It is the policy of the Maryland Judiciary to preserve the privacy of personal records and to protect confidential or privileged information obtained through use of this web site. Such information will be disclosed publicly only in accordance with the Public Information Act or as necessary and permissible to carry out the duties of the Maryland Judiciary.</p>
+
+<p>This Privacy Policy does not cover personal or identifying information about litigants that may appear in published appellate court opinions posted on the Maryland Judiciary’s web site.</p>
+
+<p>This Policy addresses current Judiciary web site practices and does not cover future transactions such as e-commerce, e-filing, etc.</p>
+
+<p>If you have any questions about this privacy policy, please e-mail the <a class="anchor-link-red" href="/cdn-cgi/l/email-protection#fe899b9c939f8d8a9b8cbe939a9d918b8c8a8dd0999188"><span class="__cf_email__" data-cfemail="4f382a2d222e3c3b2a3d0f222b2c203a3d3b3c61282039">[email&#160;protected]</span></a>. Please note: We can only address questions or comments about the content of this website or those general in nature. Questions concerning a court case or appearance should be directed to the court where the case is filed. For court locations and contact information, see the <a alt="Maryland Courts Directory" class="anchor-link-red" href="/courtsdirectory">Courts Directory</a>.</p>
+
+<h5>Disclaimer</h5>
+
+<p>The Maryland Judiciary provides the information on this web site as a public service. Information contained on this web site is believed to be accurate but is not guaranteed. The Maryland Judiciary does not endorse any linked site nor does it assume responsibility for the content found on those sites.</p>
+
+<p>The Maryland Judiciary offers translation of the content on the Maryland Judiciary Webpage through Google Translate. Google Translate is a Third-Party Service. The Maryland Judiciary uses Google Translate to provide language translations of the content on this webpage. The Maryland Judiciary offers the translation of content solely as a convenience of non-English speaking users of the website. The translated content is provided directly and exclusively by Google Translate. &nbsp;</p>
+
+<p>The Maryland Judiciary does not control the accuracy or quality of the translated content. The Judiciary does not endorse Google Translate or imply that it is the only solution available to users. All site visitors may choose to use alternate tools for their translation needs. Any individuals or parties that use the Google Translate services to translate any of the content on this page do so at their own risk. The Maryland Judiciary is not liable or responsible for any loss or damages arising out of, or issues related to, the use of or reliance on translated content. &nbsp;All English content on this website, in all contexts, as directly provided by the Maryland Judiciary is held to be authoritative. &nbsp;</p>
+</article>
+</div>
+      
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+    </div>
+          <aside class="layout-sidebar-first" role="complementary">
+          <div class="region region-sidebar-first">
+    <div id="block-imported-block-16" class="block block-block-content block-block-contentf500c58e-2004-4f5f-afda-5a4097831bc6">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><nav class="menu">
+<div class="title">
+<h6>Reference</h6>
+</div>
+
+<ul>
+	<li><a href="/reference/cellphonenotice">Cell Phone Notice</a></li>
+	<li><a href="/reference/contactus">Contact Us</a></li>
+	<li><a href="/reference/complaintsconcerns">File a Complaint or Voice a Concern</a></li>
+	<li><a href="/reference/financialdisclosure">Financial Disclosure</a></li>
+	<li><a href="/reference/glossary">Glossary</a></li>
+	<li><a href="/reference/healthgen">Health General Documents</a></li>
+<li><a href="/reference/piarequests">Judicial Records Requests</a></li>
+	<li><a href="/reference/mediatorshealthmalpractice">Health Care Malpractice Claims Mediators</a></li>
+	<li><a href="/reference/updates">Notices/Schedules/Updates</a></li>
+	<li><a href="/reference/scra">Servicemembers Civil Relief Act</a></li>
+	<li><a href="/reference/termsdisclaimer">Terms of Use/Disclaimer</a></li>
+</ul>
+</nav>
+</div>
+      
+  </div>
+
+  </div>
+
+      </aside>
+    
+    
+  </main>
+
+</div>
+	<footer role="contentinfo">
+	    <div class="region region-footer">
+    <nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="superfooter-menu block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/courts" data-drupal-link-system-path="node/3508089">Courts</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/scm" data-drupal-link-system-path="node/869735">Supreme Court of Maryland</a>
+              </li>
+                <li class="menu-item">
+        <a href="/opinions/opinions" data-drupal-link-system-path="node/3508181">Appellate Opinions</a>
+              </li>
+                <li class="menu-item">
+        <a href="/courts/courtrecords" data-drupal-link-system-path="node/3508092">Court Records (Case Search)</a>
+              </li>
+                <li class="menu-item">
+        <a href="/administration/holidays" data-drupal-link-system-path="node/924960">Holidays</a>
+              </li>
+                <li class="menu-item">
+        <a href="/acm" data-drupal-link-system-path="node/967920">Appellate Court of Maryland</a>
+              </li>
+                <li class="menu-item">
+        <a href="/district/appointedattorneys" data-drupal-link-system-path="node/924955">Appointed Attorneys Program</a>
+              </li>
+                <li class="menu-item">
+        <a href="/courtreporting" data-drupal-link-system-path="node/3508452">Court Reporting</a>
+              </li>
+                <li class="menu-item">
+        <a href="/judicialcouncil" data-drupal-link-system-path="node/3508094">Judicial Council</a>
+              </li>
+                <li class="menu-item">
+        <a href="/circuit" data-drupal-link-system-path="node/3508185">Circuit Courts</a>
+              </li>
+                <li class="menu-item">
+        <a href="/administration/closingsdelays" data-drupal-link-system-path="node/3508189">Closings/Delays</a>
+              </li>
+                <li class="menu-item">
+        <a href="/dashboards" data-drupal-link-system-path="node/3543141">Data Dashboards</a>
+              </li>
+                <li class="menu-item">
+        <a href="/ethics" data-drupal-link-system-path="node/3508457">Judicial Ethics Committee</a>
+              </li>
+                <li class="menu-item">
+        <a href="/district" data-drupal-link-system-path="node/3508179">District Court</a>
+              </li>
+                <li class="menu-item">
+        <a href="/cjd" data-drupal-link-system-path="node/3508091">Commission on Judicial Disabilities</a>
+              </li>
+                <li class="menu-item">
+        <a href="/courtsdirectory" data-drupal-link-system-path="node/3508090">Directory of Courts</a>
+              </li>
+                <li class="menu-item">
+        <a href="/judgeselect" data-drupal-link-system-path="node/3508180">Judicial Selection</a>
+              </li>
+                <li class="menu-item">
+        <a href="/orphanscourt" data-drupal-link-system-path="node/3508184">Orphans&#039; Court</a>
+              </li>
+                <li class="menu-item">
+        <a href="/family/guardianship/courtappointedguardians" data-drupal-link-system-path="node/3508093">Court-Appointed Guardians</a>
+              </li>
+                <li class="menu-item">
+        <a href="/equaljustice" data-drupal-link-system-path="node/3536058">Equal Justice</a>
+              </li>
+                <li class="menu-item">
+        <a href="/juryservice" data-drupal-link-system-path="node/3508183">Jury Service</a>
+              </li>
+                <li class="menu-item">
+        <a href="/courts/about" data-drupal-link-system-path="node/924869">About</a>
+              </li>
+                <li class="menu-item">
+        <a href="/forms" data-drupal-link-system-path="node/3533003">Court Forms</a>
+              </li>
+                <li class="menu-item">
+        <a href="/courts/feeschedules" data-drupal-link-system-path="node/3508182">Fee Schedules</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about/mission" data-drupal-link-system-path="node/3533403">Mission &amp; Vision</a>
+              </li>
+                <li class="menu-item">
+        <a href="/accessibility" data-drupal-link-system-path="node/3533250">Accessibility</a>
+              </li>
+                <li class="menu-item">
+        <a href="/languageservices" data-drupal-link-system-path="node/3535870">Court Language Services</a>
+              </li>
+                <li class="menu-item">
+        <a href="/judicialcouncil" data-drupal-link-system-path="node/3508094">Governance</a>
+              </li>
+                <li class="menu-item">
+        <a href="/opsc" data-drupal-link-system-path="node/3509521">Problem-Solving Courts</a>
+              </li>
+                <li class="menu-item">
+        <a href="/adminorders-categories" data-drupal-link-system-path="node/3538917">Administrative Orders</a>
+              </li>
+                <li class="menu-item">
+        <a href="/courts/courtoffices" data-drupal-link-system-path="node/3508190">Court Offices</a>
+              </li>
+                <li class="menu-item">
+        <a href="/communications" data-drupal-link-system-path="node/3508187">Government Relations &amp; Public Affairs</a>
+              </li>
+                <li class="menu-item">
+        <a href="/publications" data-drupal-link-system-path="node/3508188">Publications</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/courthelp" data-drupal-link-system-path="node/3535368">Court Help</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/legalhelp/courtrecords" data-drupal-link-system-path="node/3508192">Access to Court Records</a>
+              </li>
+                <li class="menu-item">
+        <a href="/helpcenter" data-drupal-link-system-path="node/903476">Court Help Centers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/filingfeewaivers" data-drupal-link-system-path="node/3508199">Filing Fee Waivers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/moneyissues" data-drupal-link-system-path="node/1054843">Money Issues</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/accommodations" data-drupal-link-system-path="node/3533268">Accommodations</a>
+              </li>
+                <li class="menu-item">
+        <a href="/courthelp/lawtopics" data-drupal-link-system-path="node/3535349">Court Help Topics</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/findinglegalhelp" data-drupal-link-system-path="node/3508202">Finding Legal Help</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.peoples-law.org">People&#039;s Law Library</a>
+              </li>
+                <li class="menu-item">
+        <a href="/courthelp/mobileapp" data-drupal-link-system-path="node/3530272">App - Maryland Court Help</a>
+              </li>
+                <li class="menu-item">
+        <a href="/reference/videolibrary" data-drupal-link-system-path="reference/videolibrary">Court Help Videos</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/housing" data-drupal-link-system-path="node/3508194">Housing</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/lifeplanning" data-drupal-link-system-path="node/3541868">Personal &amp; Life Planning Resources</a>
+              </li>
+                <li class="menu-item">
+        <a href="/courthelp/appealsacm" data-drupal-link-system-path="node/3535149">Appeals - Appellate Court of Maryland</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/criminalcases" data-drupal-link-system-path="node/3508201">Criminal Cases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/juveniledelinquency" data-drupal-link-system-path="node/1054838">Juvenile Delinquency</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/remotehearing" data-drupal-link-system-path="node/3535148">Remote Hearing Toolkit</a>
+              </li>
+                <li class="menu-item">
+        <a href="/courthelp/appealstoscm" data-drupal-link-system-path="node/3540819">Appeals - Supreme Court of Maryland</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/domesticviolence" data-drupal-link-system-path="node/3508204">Domestic Violence</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/landrecords" title="Land Records" data-drupal-link-system-path="node/3534192">Land Records</a>
+              </li>
+                <li class="menu-item">
+        <a href="/lawlib" data-drupal-link-system-path="node/3531813">Thurgood Marshall State Law Library</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/childabuseneglect" data-drupal-link-system-path="node/3508197">Child Abuse and Neglect</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/employment" data-drupal-link-system-path="node/3508193">Employment</a>
+              </li>
+                <li class="menu-item">
+        <a href="/languageservices" data-drupal-link-system-path="node/3535870">Language Services</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/traffic" data-drupal-link-system-path="node/3508200">Traffic</a>
+              </li>
+                <li class="menu-item">
+        <a href="/family" data-drupal-link-system-path="node/3533648">Children &amp; Family</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/expungement" data-drupal-link-system-path="node/3508196">Expungement</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/mediationadr" data-drupal-link-system-path="node/3508198">Mediation &amp; ADR</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/willsestates" data-drupal-link-system-path="node/3508203">Wills &amp; Estates</a>
+              </li>
+                <li class="menu-item">
+        <a href="/forms" data-drupal-link-system-path="node/3533003">Court Forms</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/eservices" data-drupal-link-system-path="node/3508205">E-Services</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/eservices/idlists" data-drupal-link-system-path="node/3538252">Active and Former Judicial Officers IDs</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://casesearch.courts.state.md.us/casesearch/">Case Search</a>
+              </li>
+                <li class="menu-item">
+        <a href="/erecording" data-drupal-link-system-path="node/3508207">E-Recording for Land Records</a>
+              </li>
+                <li class="menu-item">
+        <a href="/legalhelp/traffic" data-drupal-link-system-path="node/3508200">Pay a Traffic Ticket</a>
+              </li>
+                <li class="menu-item">
+        <a href="/opinions/opinions" data-drupal-link-system-path="node/3508181">Appellate Opinions</a>
+              </li>
+                <li class="menu-item">
+        <a href="/connectlogin" data-drupal-link-system-path="node/3532065">CONNECT (Internal)</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://registers.maryland.gov/main/search.html">Estate Search</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.peoples-law.org">People&#039;s Law Library</a>
+              </li>
+                <li class="menu-item">
+        <a href="/lawlib/question" data-drupal-link-system-path="webform/ask_a_maryland_legal_information">Ask a Law Librarian</a>
+              </li>
+                <li class="menu-item">
+        <a href="/helpcenter" data-drupal-link-system-path="node/903476">Court Help Centers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/procurement/grants" data-drupal-link-system-path="procurement/grants/opportunities">Grants</a>
+              </li>
+                <li class="menu-item">
+        <a href="/procurement" data-drupal-link-system-path="node/3508420">Procurement &amp; Solicitations</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://jportal.mdcourts.gov/license/index_disclaimer.jsp">Business Licenses - Search</a>
+              </li>
+                <li class="menu-item">
+        <a href="/forms" data-drupal-link-system-path="node/3533003">Court Forms</a>
+              </li>
+                <li class="menu-item">
+        <a href="/guideandfile" data-drupal-link-system-path="node/3532951">Guide &amp; File</a>
+              </li>
+                <li class="menu-item">
+        <a href="/remotehearings" data-drupal-link-system-path="node/3534536">Remote Hearings and Proceedings</a>
+              </li>
+                <li class="menu-item">
+        <a href="/businesstech/opinions" data-drupal-link-system-path="node/3508209">Business &amp; Technology Opinions</a>
+              </li>
+                <li class="menu-item">
+        <a href="/dashboards" data-drupal-link-system-path="node/3543141">Data Dashboards</a>
+              </li>
+                <li class="menu-item">
+        <a href="/jportal" data-drupal-link-system-path="node/3541155">JPortal</a>
+              </li>
+                <li class="menu-item">
+        <a href="/lawlib/using-library/reference-services/document-delivery" data-drupal-link-system-path="node/3532590">Request State Law Library Materials</a>
+              </li>
+                <li class="menu-item">
+        <a href="/careers" data-drupal-link-system-path="node/1097809">Careers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/eservices/dvmonthlypublicreports" data-drupal-link-system-path="node/1119226">Domestic Violence Monthly Reports</a>
+              </li>
+                <li class="menu-item">
+        <a href="/juryservice/jurorqualificationform" data-drupal-link-system-path="node/3508208">Juror Qualification Form</a>
+              </li>
+                <li class="menu-item">
+        <a href="/lawlib" data-drupal-link-system-path="node/3531813">State Law Library Catalog</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://mdcourts.gov/html/courtoperations/map.html">Case Management Plans</a>
+              </li>
+                <li class="menu-item">
+        <a href="/mdec/efiling" data-drupal-link-system-path="node/3508210">E-filing</a>
+              </li>
+                <li class="menu-item">
+        <a href="/mdec" data-drupal-link-system-path="node/3508211">Maryland Electronic Courts (MDEC)</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/lawyers" data-drupal-link-system-path="node/967957">Lawyers</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/appellate/amicus" data-drupal-link-system-path="appellate/amicus">Amicus Curiarum</a>
+              </li>
+                <li class="menu-item">
+        <a href="/lawyers/ais" data-drupal-link-system-path="node/3532767">Attorney Information System</a>
+              </li>
+                <li class="menu-item">
+        <a href="/cpf/forms" data-drupal-link-system-path="node/3508388">Change of Address</a>
+              </li>
+                <li class="menu-item">
+        <a href="/judgeselect/judicialvacancy" data-drupal-link-system-path="judgeselect/judicialvacancy">Judicial Vacancies</a>
+              </li>
+                <li class="menu-item">
+        <a href="/district/appointedattorneys" data-drupal-link-system-path="node/924955">Appointed Attorneys Program</a>
+              </li>
+                <li class="menu-item">
+        <a href="/attysearch" data-drupal-link-system-path="attysearch">Attorney Listing</a>
+              </li>
+                <li class="menu-item">
+        <a href="/cjd" data-drupal-link-system-path="node/3508091">Commission on Judicial Disabilities</a>
+              </li>
+                <li class="menu-item">
+        <a href="/lawyers/legalsites" data-drupal-link-system-path="node/3508391">Legal Resources</a>
+              </li>
+                <li class="menu-item">
+        <a href="/lawyers/ais" data-drupal-link-system-path="node/3532767">Attorney Change of Address/Contact</a>
+              </li>
+                <li class="menu-item">
+        <a href="/lawyers/barassociations" data-drupal-link-system-path="node/3508392">Bar Associations</a>
+              </li>
+                <li class="menu-item">
+        <a href="/cpf" data-drupal-link-system-path="node/3531398">Client Protection Fund</a>
+              </li>
+                <li class="menu-item">
+        <a href="/probono" data-drupal-link-system-path="node/3508394">Pro Bono</a>
+              </li>
+                <li class="menu-item">
+        <a href="/lawyers/attorneyreportingrequirements">Attorney Compliance Requirements</a>
+              </li>
+                <li class="menu-item">
+        <a href="/ble" data-drupal-link-system-path="node/3508396">Board of Law Examiners</a>
+              </li>
+                <li class="menu-item">
+        <a href="/attygrievance/sanctions" data-drupal-link-system-path="node/3508393">Disciplinary Actions</a>
+              </li>
+                <li class="menu-item">
+        <a href="/rules/ruleschanges" data-drupal-link-system-path="rules/ruleschanges">Proposed Rules Changes/Orders</a>
+              </li>
+                <li class="menu-item">
+        <a href="/attygrievance" data-drupal-link-system-path="node/3508395">Attorney Grievance Commission</a>
+              </li>
+                <li class="menu-item">
+        <a href="/coappeals/cogs">Certificate of Good Standing</a>
+              </li>
+                <li class="menu-item">
+        <a href="/mdec/efiling" data-drupal-link-system-path="node/3508210">E-filing</a>
+              </li>
+                <li class="menu-item">
+        <a href="/courtforms/uniformsubpoena" data-drupal-link-system-path="node/3508544">Statewide Uniform Subpoena Form</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/media" data-drupal-link-system-path="node/847788">Media</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/communications" data-drupal-link-system-path="node/3508187">Government Relations &amp; Public Affairs</a>
+              </li>
+                <li class="menu-item">
+        <a href="/media" data-drupal-link-system-path="node/847788">Media Resource Center</a>
+              </li>
+                <li class="menu-item">
+        <a href="/media/news" data-drupal-link-system-path="media/news">News Releases</a>
+              </li>
+                <li class="menu-item">
+        <a href="/publications" data-drupal-link-system-path="node/3508188">Publications</a>
+              </li>
+                <li class="menu-item">
+        <a href="/judicialrecords" data-drupal-link-system-path="node/3531520">Judicial Records</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/education" data-drupal-link-system-path="node/3508399">Community</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/education#billofrights" data-drupal-link-system-path="node/3508399">Bill of Rights Day</a>
+              </li>
+                <li class="menu-item">
+        <a href="/education#courtroomtours" data-drupal-link-system-path="node/3508399">Courtroom Tours</a>
+              </li>
+                <li class="menu-item">
+        <a href="/education#mocktrial" data-drupal-link-system-path="node/3508399">Mock Trial</a>
+              </li>
+                <li class="menu-item">
+        <a href="/district/schools_in_court" data-drupal-link-system-path="node/3533777">Schools in the Courts</a>
+              </li>
+                <li class="menu-item">
+        <a href="/macro/eventsconflictresolutionday" data-drupal-link-system-path="node/3509589">Bookmark Art Contest</a>
+              </li>
+                <li class="menu-item">
+        <a href="/equaljustice" data-drupal-link-system-path="node/3536058">Equal Justice</a>
+              </li>
+                <li class="menu-item">
+        <a href="/education/links" data-drupal-link-system-path="node/3508400">More Sites to Visit</a>
+              </li>
+                <li class="menu-item">
+        <a href="/education#speakersbureau" data-drupal-link-system-path="node/3508399">Speakers Bureau</a>
+              </li>
+                <li class="menu-item">
+        <a href="/education#constitution" data-drupal-link-system-path="node/3508399">Constitution Day</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-footersocialmediaicons" class="block block-block-content block-block-content41fffab1-a194-4aee-9d82-5b45edd87644">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img alt="Maryland Courts logo" data-entity-type="file" data-entity-uuid="351f0f70-032f-48ab-956e-a6ef979d9dc0" src="/sites/default/files/inline-images/footer-logo_0.png" width="399" height="176" loading="lazy"></p>
+
+<ul>
+	<li><a class="youtube" href="https://www.youtube.com/channel/UC0W3o0c4J-UgHS_RG8nqMCQ">YouTube</a></li>
+	<li><a class="rss" href="/rss.xml">RSS</a></li>
+	<li><a class="twitter" href="https://twitter.com/MDJudiciary">Twitter</a></li>
+</ul>
+<p><a class="contact-link" href="/reference/contactus">Contact Us</a></p> </div>
+      
+  </div>
+<div id="block-footercopyrightblock" class="block block-block-content block-block-content0a9c11d0-b83d-436b-a214-595b3110e508">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Copyright © 2026 Maryland Judiciary. All rights reserved. <a href="/reference/termsdisclaimer">Terms of Use/Disclaimer</a></p></div>
+      
+  </div>
+
+  </div>
+
+	</footer>
+
+  </div>
+
+    
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/3508410","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"superfish":{"superfish-main":{"id":"superfish-main","sf":{"pathClass":"active-trail","pathLevels":0,"delay":500,"animation":{"opacity":"show"},"speed":"fast","autoArrows":false,"dropShadows":false,"disableHI":true},"plugins":{"smallscreen":{"mode":"window_width","title":"Main navigation"}}},"superfish-utility-menu":{"id":"superfish-utility-menu","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast"},"plugins":{"smallscreen":{"mode":"window_width","title":"Utility Menu"},"supposition":true,"supersubs":true}}},"text_resize":{"text_resize_scope":"body","text_resize_minimum":12,"text_resize_maximum":21,"text_resize_line_height_allow":true,"text_resize_line_height_min":null,"text_resize_line_height_max":null},"styleSwitcher":{"styles":{"custom\/c":{"name":"custom\/c","label":"C","path":"\/themes\/mdjudiciary\/css\/yellow-on-black.css","is_default":false,"status":true,"weight":0,"_i":0,"theme":"mdjudiciary"},"custom\/cbony":{"name":"custom\/cbony","label":"C","path":"\/themes\/mdjudiciary\/css\/black-on-yellow.css","is_default":false,"status":true,"weight":0,"_i":1,"theme":"mdjudiciary"},"custom\/cwonb":{"name":"custom\/cwonb","label":"C","path":"\/themes\/mdjudiciary\/css\/white-on-black.css","is_default":false,"status":true,"weight":0,"_i":2,"theme":"mdjudiciary"},"custom\/default":{"name":"custom\/default","label":"C","path":"http:\/\/www.mdcourts.gov\/styleswitcher\/css\/mdjudiciary","is_default":false,"status":true,"weight":0,"_i":3,"theme":"mdjudiciary"}},"default":"custom\/default","enableOverlay":false,"cookieExpire":31536000,"theme":"mdjudiciary"},"user":{"uid":0,"permissionsHash":"1d0e2961fc7fbc38545d4a8cf3cbf1ec0d688bdf45f9592c0281adc4dc7a37ba"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.6.14"></script>
+<script src="/core/misc/drupal.js?v=10.6.14"></script>
+<script src="/core/misc/drupal.init.js?v=10.6.14"></script>
+<script src="/modules/jquery_ui/assets/vendor/jquery.ui/ui/version-min.js?v=1.13.2"></script>
+<script src="/modules/jquery_ui/assets/vendor/jquery.ui/ui/keycode-min.js?v=1.13.2"></script>
+<script src="/modules/jquery_ui/assets/vendor/jquery.ui/ui/position-min.js?v=1.13.2"></script>
+<script src="/modules/jquery_ui/assets/vendor/jquery.ui/ui/unique-id-min.js?v=1.13.2"></script>
+<script src="/modules/jquery_ui/assets/vendor/jquery.ui/ui/widget-min.js?v=1.13.2"></script>
+<script src="/modules/jquery_ui/assets/vendor/jquery.ui/ui/widgets/tooltip-min.js?v=1.13.2"></script>
+<script src="/themes/mdjudiciary/js/script.js?tmxnd1"></script>
+<script src="/modules/styleswitcher/js/styleswitcher.js?v=2.x"></script>
+<script src="/modules/superfish/js/superfish.js?v=2.0"></script>
+<script src="/libraries/drupal-superfish/superfish.js?tmxnd1"></script>
+<script src="/libraries/drupal-superfish/jquery.hoverIntent.minified.js?tmxnd1"></script>
+<script src="/libraries/drupal-superfish/sfsmallscreen.js?tmxnd1"></script>
+<script src="/libraries/drupal-superfish/supersubs.js?tmxnd1"></script>
+<script src="/libraries/drupal-superfish/supposition.js?tmxnd1"></script>
+<script src="/modules/text_resize/js/text_resize.js?tmxnd1"></script>
+
+  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4ad0f043f7ecb25',t:'MTc5MjA0ODc5OQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
