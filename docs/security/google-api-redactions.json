@@ -1,0 +1,55 @@
+{
+  "source_commit": "65d79ed80e9c014dbb284e0e36bd1ebb89393ca5",
+  "redacted_captures": [
+    {
+      "previous_path": "research-collection/rounds/2026-10-15-03/evidence/http/2026-10-15T02-32-47.323987+00-00/66c2a995ebea40e30d01de96eed1cf6e2dd81980203228609d5aff321806f4fe.body",
+      "path": "research-collection/rounds/2026-10-15-03/evidence/http/2026-10-15T02-32-47.323987+00-00/76b3e8270c54a236bfc7c2747ebd90526b4783649ef5692975413484cdb17b22.body",
+      "original_sha256": "66c2a995ebea40e30d01de96eed1cf6e2dd81980203228609d5aff321806f4fe",
+      "sanitized_sha256": "76b3e8270c54a236bfc7c2747ebd90526b4783649ef5692975413484cdb17b22",
+      "original_bytes": 96734,
+      "sanitized_bytes": 96720,
+      "removed_values": 1
+    },
+    {
+      "previous_path": "research-collection/rounds/2026-10-15-03/evidence/http/2026-10-15T02-34-11.305128+00-00/c3613f9137a528491f2aa40c60552f7c685c02fabe72567786894ac14f16b8d3.body",
+      "path": "research-collection/rounds/2026-10-15-03/evidence/http/2026-10-15T02-34-11.305128+00-00/ba2b88d52dc06161cc34d614500b0a98250e6ff22888c97b09295d1c8156e863.body",
+      "original_sha256": "c3613f9137a528491f2aa40c60552f7c685c02fabe72567786894ac14f16b8d3",
+      "sanitized_sha256": "ba2b88d52dc06161cc34d614500b0a98250e6ff22888c97b09295d1c8156e863",
+      "original_bytes": 139478,
+      "sanitized_bytes": 139464,
+      "removed_values": 1
+    },
+    {
+      "previous_path": "research-collection/rounds/2026-10-15-09/evidence/http/browser-sources/5360a2353cbe1c9110b8f605f595ff506bb1b8c781d01277603a4bac8bf84e83.body",
+      "path": "research-collection/rounds/2026-10-15-09/evidence/http/browser-sources/76f094d4ec70159134249a5cdd1d8eb616b65b4ec5e79dbfecdf6b9b22fe944d.body",
+      "original_sha256": "5360a2353cbe1c9110b8f605f595ff506bb1b8c781d01277603a4bac8bf84e83",
+      "sanitized_sha256": "76f094d4ec70159134249a5cdd1d8eb616b65b4ec5e79dbfecdf6b9b22fe944d",
+      "original_bytes": 119440,
+      "sanitized_bytes": 119426,
+      "removed_values": 1
+    },
+    {
+      "previous_path": "research-collection/rounds/2026-10-15-09/evidence/http/browser-sources/b03545ee32c92157c87aaece5a957be8936eace0df15bd799fa42c9e3ce182c2.body",
+      "path": "research-collection/rounds/2026-10-15-09/evidence/http/browser-sources/747238573e00475682eb1cc63e4047cac3cd90a6480f95c79935bc32d51d0af5.body",
+      "original_sha256": "b03545ee32c92157c87aaece5a957be8936eace0df15bd799fa42c9e3ce182c2",
+      "sanitized_sha256": "747238573e00475682eb1cc63e4047cac3cd90a6480f95c79935bc32d51d0af5",
+      "original_bytes": 265211,
+      "sanitized_bytes": 265197,
+      "removed_values": 1
+    }
+  ],
+  "updated_metadata": [
+    "research-collection/rounds/2026-10-15-03/evidence/http/2026-10-15T02-32-47.323987+00-00/requests.json",
+    "research-collection/rounds/2026-10-15-03/evidence/http/2026-10-15T02-34-11.305128+00-00/requests.json",
+    "research-collection/rounds/2026-10-15-03/evidence/request-ledger.json",
+    "research-collection/rounds/2026-10-15-03/evidence/source-ledger.json",
+    "research-collection/rounds/2026-10-15-03/source-observations.json",
+    "research-collection/rounds/2026-10-15-03/integrity-manifest.json",
+    "research-collection/rounds/2026-10-15-09/evidence/http/browser-sources/requests.json",
+    "research-collection/rounds/2026-10-15-09/evidence/request-ledger.json",
+    "research-collection/rounds/2026-10-15-09/evidence/source-ledger.json",
+    "research-collection/rounds/2026-10-15-09/source-observations.json",
+    "research-collection/rounds/2026-10-15-09/integrity-manifest.json"
+  ],
+  "updated_receipt_count": 16
+}

@@ -23,8 +23,16 @@
     "last_modified": null,
     "status": "fetched",
     "title": "For the Public | Forms | Unified Judicial System of Pennsylvania",
-    "sha256": "c3613f9137a528491f2aa40c60552f7c685c02fabe72567786894ac14f16b8d3",
-    "bytes": 139478,
-    "body_path": "evidence/http/2026-10-15T02-34-11.305128+00-00/c3613f9137a528491f2aa40c60552f7c685c02fabe72567786894ac14f16b8d3.body"
+    "sha256": "ba2b88d52dc06161cc34d614500b0a98250e6ff22888c97b09295d1c8156e863",
+    "bytes": 139464,
+    "body_path": "evidence/http/2026-10-15T02-34-11.305128+00-00/ba2b88d52dc06161cc34d614500b0a98250e6ff22888c97b09295d1c8156e863.body",
+    "redaction": {
+      "kind": "google_api_key",
+      "replacement": "[REDACTED_GOOGLE_API_KEY]",
+      "original_sha256": "c3613f9137a528491f2aa40c60552f7c685c02fabe72567786894ac14f16b8d3",
+      "original_bytes": 139478,
+      "original_body_path": "evidence/http/2026-10-15T02-34-11.305128+00-00/c3613f9137a528491f2aa40c60552f7c685c02fabe72567786894ac14f16b8d3.body",
+      "removed_values": 1
+    }
   }
 ]

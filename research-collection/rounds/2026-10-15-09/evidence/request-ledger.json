@@ -902,11 +902,19 @@
     "kind": "source",
     "transport": "ordinary_browser_fetch",
     "status": "fetched",
-    "sha256": "b03545ee32c92157c87aaece5a957be8936eace0df15bd799fa42c9e3ce182c2",
-    "bytes": 265211,
-    "body_path": "evidence/http/browser-sources/b03545ee32c92157c87aaece5a957be8936eace0df15bd799fa42c9e3ce182c2.body",
+    "sha256": "747238573e00475682eb1cc63e4047cac3cd90a6480f95c79935bc32d51d0af5",
+    "bytes": 265197,
+    "body_path": "evidence/http/browser-sources/747238573e00475682eb1cc63e4047cac3cd90a6480f95c79935bc32d51d0af5.body",
     "title": "Small Claims",
-    "receipt_file": "evidence/http/browser-sources/requests.json"
+    "receipt_file": "evidence/http/browser-sources/requests.json",
+    "redaction": {
+      "kind": "google_api_key",
+      "replacement": "[REDACTED_GOOGLE_API_KEY]",
+      "original_sha256": "b03545ee32c92157c87aaece5a957be8936eace0df15bd799fa42c9e3ce182c2",
+      "original_bytes": 265211,
+      "original_body_path": "evidence/http/browser-sources/b03545ee32c92157c87aaece5a957be8936eace0df15bd799fa42c9e3ce182c2.body",
+      "removed_values": 1
+    }
   },
   {
     "url": "https://legacy.utcourts.gov/robots.txt",
@@ -963,11 +971,19 @@
     "kind": "source",
     "transport": "ordinary_browser_fetch",
     "status": "fetched",
-    "sha256": "5360a2353cbe1c9110b8f605f595ff506bb1b8c781d01277603a4bac8bf84e83",
-    "bytes": 119440,
-    "body_path": "evidence/http/browser-sources/5360a2353cbe1c9110b8f605f595ff506bb1b8c781d01277603a4bac8bf84e83.body",
+    "sha256": "76f094d4ec70159134249a5cdd1d8eb616b65b4ec5e79dbfecdf6b9b22fe944d",
+    "bytes": 119426,
+    "body_path": "evidence/http/browser-sources/76f094d4ec70159134249a5cdd1d8eb616b65b4ec5e79dbfecdf6b9b22fe944d.body",
     "title": "Privacy Policy",
-    "receipt_file": "evidence/http/browser-sources/requests.json"
+    "receipt_file": "evidence/http/browser-sources/requests.json",
+    "redaction": {
+      "kind": "google_api_key",
+      "replacement": "[REDACTED_GOOGLE_API_KEY]",
+      "original_sha256": "5360a2353cbe1c9110b8f605f595ff506bb1b8c781d01277603a4bac8bf84e83",
+      "original_bytes": 119440,
+      "original_body_path": "evidence/http/browser-sources/5360a2353cbe1c9110b8f605f595ff506bb1b8c781d01277603a4bac8bf84e83.body",
+      "removed_values": 1
+    }
   },
   {
     "url": "https://www.courts.nh.gov/robots.txt",

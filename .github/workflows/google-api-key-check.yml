@@ -1,0 +1,24 @@
+name: Google API 密钥检查
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-google-api-keys:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97
+        with:
+          python-version: '3.12'
+      - name: 扫描工作区（不输出密钥）
+        run: python scripts/check_google_api_keys.py
+      - name: 检查脱敏回归和现有完整性清单
+        run: python -m unittest discover -s tests -v
